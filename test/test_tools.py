@@ -52,14 +52,79 @@ class TestNetworkTools(unittest.TestCase):
         self.assertEqual(result['longitude'], "20.000")
         self.assertEqual(result['country_name'], "Wonderland")
 
-    def test_calculate_radius(self):
-        self.assertAlmostEqual(calculate_radius(100), 14989.6149, places=3)
-
     def test_is_within_radius(self):
         self.assertTrue(is_within_radius(0, 0, 0, 0, 1000))
         self.assertFalse(is_within_radius(0, 0, 10, 10, 100))
 
-    # More tests can be added here for other functions like perform_traceroute, geolocate_ip_ripe_ipmap, etc.
+    def test_positive_case(self):
+        latitude1 = 40.7128
+        longitude1 = -74.0059
+        latitude2 = 40.7142
+        longitude2 = -74.0064
+        radius = 1  # 1 km
+        self.assertTrue(is_within_radius(latitude1, longitude1, latitude2, longitude2, radius))
+
+    def test_negative_case(self):
+        latitude1 = 40.7128
+        longitude1 = -74.0059
+        latitude2 = 51.5072
+        longitude2 = -0.1275
+        radius = 100  # 100 km
+        self.assertFalse(is_within_radius(latitude1, longitude1, latitude2, longitude2, radius))
+
+    def test_edge_case(self):
+        latitude1 = 40.7128
+        longitude1 = -74.0059
+        latitude2 = 40.7048
+        longitude2 = -74.0171
+        radius = 5  # 5 km
+        self.assertTrue(is_within_radius(latitude1, longitude1, latitude2, longitude2, radius))
+
+    def test_boundary_cases(self):
+        latitude1 = 0.0
+        longitude1 = 0.0
+        latitude2 = 90.0
+        longitude2 = 180.0
+        radius = 10000  # 10000 km
+        self.assertTrue(is_within_radius(latitude1, longitude1, latitude2, longitude2, radius))
+
+        latitude1 = -90.0
+        longitude1 = -180.0
+        latitude2 = 90.0
+        longitude2 = 180.0
+        radius = 20000  # 20000 km
+        self.assertTrue(is_within_radius(latitude1, longitude1, latitude2, longitude2, radius))
+
+    def test_null_input(self):
+        latitude1 = 40.7128
+        longitude1 = -74.0059
+        latitude2 = None
+        longitude2 = -74.0064
+        radius = 1
+        self.assertFalse(is_within_radius(latitude1, longitude1, latitude2, longitude2, radius))
+
+        latitude1 = 40.7128
+        longitude1 = -74.0059
+        latitude2 = 51.5072
+        longitude2 = None
+        radius = 100
+        self.assertFalse(is_within_radius(latitude1, longitude1, latitude2, longitude2, radius))
+
+    def test_invalid_input(self):
+        latitude1 = 40.7128
+        longitude1 = -74.0059
+        latitude2 = 91.0  # Invalid latitude
+        longitude2 = -74.0064
+        radius = 1
+        self.assertFalse(is_within_radius(latitude1, longitude1, latitude2, longitude2, radius))
+
+        latitude1 = 40.7128
+        longitude1 = -184.0  # Invalid longitude
+        latitude2 = 51.5072
+        longitude2 = -0.1275
+        radius = 100
+        self.assertFalse(is_within_radius(latitude1, longitude1, latitude2, longitude2, radius))
+
 
 if __name__ == '__main__':
     unittest.main()

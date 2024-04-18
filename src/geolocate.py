@@ -71,25 +71,28 @@ def calculate_radius(rtts):
         return None
     max_rtt = max(rtts)
     speed_of_light = 299792.458  # Speed of light in km/s
-    radius = (max_rtt / 2) * (speed_of_light / 1000)  # Radius in km
+    radius = (max_rtt / 2) * ((speed_of_light/1000) * (2/3)) #travel speed of optic fibre
     return radius
 
-def is_within_radius(latitude1, longitude1, latitude2, longitude2, radius):
-    # Using the Haversine formula to calculate the distance between two coordinates
-    earth_radius = 6371  # Earth's radius in km
-    lat1_rad = math.radians(latitude1)
-    lon1_rad = math.radians(longitude1)
-    lat2_rad = math.radians(latitude2)
-    lon2_rad = math.radians(longitude2)
+def is_within_radius(lat1, lon1, lat2, lon2, radius):
+    # Using the Vincenty formula to calculate the distance between two coordinates
+    lat1, lon1, lat2, lon2 = map(math.radians, [lat1, lon1, lat2, lon2])
+
+    # Calculate the difference between the two coordinates
+    dlat = lat2 - lat1
+    dlon = lon2 - lon1
+
+    a = math.sin(dlat/2)**2 + math.cos(lat1) * math.cos(lat2) * math.sin(dlon/2)**2
+    c = 2 * math.atan2(math.sqrt(a), math.sqrt(1-a))
+
+    # Calculate the ellipsoid parameters
+    f = 1/298.257223563 # flattening of the Earth's ellipsoid
+    b = (1 - f) * 6371 # semi-minor axis of the Earth's ellipsoid
+
+    # Return the distance
+    distance = c * b
     
-    diff_lat = lat2_rad - lat1_rad
-    diff_lon = lon2_rad - lon1_rad
-    
-    a = math.sin(diff_lat / 2) ** 2 + math.cos(lat1_rad) * math.cos(lat2_rad) * math.sin(diff_lon / 2) ** 2
-    c = 2 * math.atan2(math.sqrt(a), math.sqrt(1 - a))
-    
-    distance = earth_radius * c
-    
+    print(distance, radius)
     if distance <= radius:
         return True 
     else:
@@ -98,6 +101,8 @@ def is_within_radius(latitude1, longitude1, latitude2, longitude2, radius):
 
 def main():
     target = input("Enter the target IP address: ")
+    source_latitude = float(input("Enter the latitude of the package's origin: "))
+    source_longitude = float(input("Enter the longitude of the package's origin: "))
     ip_addresses_rtts = perform_traceroute(target)
     
     ipgeolocation_results = []
@@ -106,13 +111,13 @@ def main():
     
     ipgeolocation_api_key = "5fb60422ea374a6bb349d9772154da5b"
     
-    print(f"this is ip_addresses_rtts:{ip_addresses_rtts}")
+    #print(f"this is ip_addresses_rtts:{ip_addresses_rtts}")
     for ip_address, rtts in ip_addresses_rtts:
-        print(f"this is ip_address:{ip_address}")
+        #print(f"this is ip_address:{ip_address}")
         ipgeolocation_data = geolocate_ip_ipgeolocation(ip_address, ipgeolocation_api_key)
         #print(ipgeolocation_data)
         ripe_ipmap_data = geolocate_ip_ripe_ipmap(ip_address)
-        print(ripe_ipmap_data)
+        #print(ripe_ipmap_data)
         
         radius = calculate_radius(rtts)
         
@@ -125,7 +130,7 @@ def main():
                 ipgeolocation_latitude = float(ipgeolocation_data['latitude'])
                 ipgeolocation_longitude = float(ipgeolocation_data['longitude'])
                 ipgeolocation_within_radius = is_within_radius(ipgeolocation_latitude, ipgeolocation_longitude,
-                                                            ipgeolocation_latitude, ipgeolocation_longitude, radius)
+                                                            source_latitude, source_longitude, radius)
         else:
             ipgeolocation_results.append(None)
         
@@ -138,7 +143,7 @@ def main():
                     ripe_ipmap_latitude = float(location_data['latitude'])
                     ripe_ipmap_longitude = float(location_data['longitude'])
                     ripe_ipmap_within_radius = is_within_radius(ripe_ipmap_latitude, ripe_ipmap_longitude,
-                                                                ripe_ipmap_latitude, ripe_ipmap_longitude, radius)
+                                                                source_latitude, source_longitude, radius)
         else:
             ripe_ipmap_results.append(None)
         

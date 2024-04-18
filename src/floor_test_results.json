@@ -2,116 +2,108 @@
     {
         "ip_address": "10.105.0.2",
         "rtt": [
-            9.988,
-            2.499,
-            2.467
+            12.778,
+            2.752,
+            2.646
         ],
-        "radius": 1497.163535252,
+        "radius": 1276.9160094413335,
         "ipgeolocation_within_radius": false,
         "ripe_ipmap_within_radius": false
     },
     {
         "ip_address": "129.105.247.155",
         "rtt": [
-            5.31,
-            3.903,
-            2.634
+            7.139,
+            2.858,
+            2.702
         ],
-        "radius": 795.94897599,
+        "radius": 713.4061192206667,
         "ipgeolocation_within_radius": true,
         "ripe_ipmap_within_radius": true
     },
     {
         "ip_address": "129.105.247.172",
         "rtt": [
-            5.24,
-            3.143,
-            3.003
+            6.998,
+            3.04,
+            4.254
         ],
-        "radius": 785.4562399600001,
+        "radius": 699.3158736946667,
         "ipgeolocation_within_radius": true,
         "ripe_ipmap_within_radius": true
     },
     {
         "ip_address": "129.105.247.210",
         "rtt": [
-            5.562,
-            3.511,
-            3.524
+            5.59,
+            3.482,
+            3.358
         ],
-        "radius": 833.7228256980001,
+        "radius": 558.6132800733333,
         "ipgeolocation_within_radius": true,
         "ripe_ipmap_within_radius": false
     },
     {
         "ip_address": "129.105.247.227",
         "rtt": [
-            5.309,
-            3.559,
-            3.554
+            5.867,
+            3.901,
+            3.627
         ],
-        "radius": 795.799079761,
+        "radius": 586.2941170286666,
         "ipgeolocation_within_radius": true,
         "ripe_ipmap_within_radius": true
     },
     {
         "ip_address": "192.5.143.39",
         "rtt": [
-            5.223,
-            4.02,
-            3.777
+            6.327,
+            4.314,
+            3.739
         ],
-        "radius": 782.908004067,
-        "ipgeolocation_within_radius": true,
-        "ripe_ipmap_within_radius": true
-    },
-    {
-        "ip_address": "140.189.9.133",
-        "rtt": [
-            4.936
-        ],
-        "radius": 739.887786344,
+        "radius": 632.262293922,
         "ipgeolocation_within_radius": true,
         "ripe_ipmap_within_radius": true
     },
     {
         "ip_address": "140.189.9.142",
         "rtt": [
-            4.529
+            13.094,
+            6.037
         ],
-        "radius": 678.880021141,
+        "radius": 1308.4941483506666,
         "ipgeolocation_within_radius": true,
         "ripe_ipmap_within_radius": true
     },
     {
         "ip_address": "140.189.9.133",
         "rtt": [
-            3.83
+            6.178
         ],
-        "radius": 574.10255707,
+        "radius": 617.3726018413333,
         "ipgeolocation_within_radius": true,
         "ripe_ipmap_within_radius": true
     },
     {
         "ip_address": "72.14.218.180",
         "rtt": [
-            5.711,
-            4.135,
-            3.922
+            8.338,
+            4.531,
+            3.746
         ],
-        "radius": 856.0573638190001,
-        "ipgeolocation_within_radius": true,
+        "radius": 833.2231716013332,
+        "ipgeolocation_within_radius": false,
         "ripe_ipmap_within_radius": true
     },
     {
         "ip_address": "8.8.8.8",
         "rtt": [
-            7.5,
-            4.083,
-            4.71
+            6.685,
+            4.516,
+            3.896
         ],
-        "radius": 1124.2217175,
-        "ipgeolocation_within_radius": true,
-        "ripe_ipmap_within_radius": true
+        "radius": 668.0375272433333,
+        "ipgeolocation_within_radius": false,
+        "ripe_ipmap_within_radius": false
     }
 ]

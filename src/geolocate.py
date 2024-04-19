@@ -69,7 +69,7 @@ def calculate_radius(rtts):
     if not rtts:
         print("Error when parsing RTTs; Cannot Calculate Radius")
         return None
-    max_rtt = max(rtts)
+    max_rtt = min(rtts)
     speed_of_light = 299792.458  # Speed of light in km/s
     radius = (max_rtt / 2) * ((speed_of_light/1000) * (2/3)) #travel speed of optic fibre
     return radius

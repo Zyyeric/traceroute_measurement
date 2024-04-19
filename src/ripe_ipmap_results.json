@@ -440,44 +440,7 @@
         }
     },
     {
-        "location": {
-            "id": "CHICAGO-US-IL-DP3WJ6X4JG19P15JF53W",
-            "type": "city",
-            "cityName": "Chicago",
-            "iataCode": "CHI",
-            "latitude": 41.85003,
-            "geonameId": 4887398,
-            "longitude": -87.65005,
-            "stateName": "Illinois",
-            "countryName": "United States",
-            "stateIsoCode": "US-IL",
-            "cityNameAscii": "Chicago",
-            "pointGeometry": "0101000020E6100000F2B0506B9AE955C0374F75C8CDEC4440",
-            "stateAnsiCode": "IL",
-            "cityPopulation": 2696555,
-            "countryCodeAlpha2": "US",
-            "countryCodeAlpha3": "USA",
-            "contributions": {
-                "worlds": {
-                    "score": 3,
-                    "populationScore": 3
-                },
-                "latency": {
-                    "score": 9.5,
-                    "radius": {
-                        "longitude": -85.33,
-                        "latitude": 42.24,
-                        "maxDistanceMetres": 411314
-                    },
-                    "minRtt": 4.505,
-                    "latestDay": "2024-04-18",
-                    "sourceId": "https://atlas.ripe.net/probes/20753",
-                    "confirmations": 0
-                }
-            },
-            "score": 44,
-            "geofeed": "192.5.143.39,US,US-IL,Chicago,"
-        },
+        "location": null,
         "alternatives": [],
         "metadata": {
             "distribution": {
@@ -486,7 +449,7 @@
             "service": {
                 "version": "18.11.16.2",
                 "contributions": {
-                    "192.5.143.39": {
+                    "192.5.143.41": {
                         "engines": [
                             {
                                 "engine": "crowdsourced",
@@ -501,7 +464,7 @@
                                 "empty": true,
                                 "metadata": {
                                     "anycast": null,
-                                    "locating": "192.5.143.39"
+                                    "locating": "192.5.143.41"
                                 },
                                 "scoreFactor": 4
                             },
@@ -515,11 +478,8 @@
                             {
                                 "engine": "latency",
                                 "type": "passive",
-                                "empty": false,
-                                "metadata": {
-                                    "numClusters": 1,
-                                    "anycast": false
-                                },
+                                "empty": true,
+                                "metadata": {},
                                 "scoreFactor": 4
                             },
                             {
@@ -527,7 +487,9 @@
                                 "type": "active",
                                 "empty": true,
                                 "metadata": {
-                                    "message": "Not locating because latency engine has results"
+                                    "status": "queued",
+                                    "locating": true,
+                                    "message": "Your measurement will be scheduled soon"
                                 },
                                 "scoreFactor": 4
                             },
@@ -536,14 +498,14 @@
                                 "type": "mixed",
                                 "empty": true,
                                 "metadata": {
-                                    "ptr": "wrips-rtr-100g.northwestern.edu"
+                                    "ptr": "nu-mren2.northwestern.edu"
                                 },
                                 "scoreFactor": 1
                             },
                             {
                                 "engine": "worlds",
                                 "type": "passive",
-                                "empty": false,
+                                "empty": true,
                                 "metadata": {},
                                 "scoreFactor": 2
                             }
@@ -553,51 +515,14 @@
             },
             "request": {
                 "params": {
-                    "ip": "192.5.143.39"
+                    "ip": "192.5.143.41"
                 },
                 "query": {}
             }
         }
     },
     {
-        "location": {
-            "id": "CHICAGO-US-IL-DP3WJ6X4JG19P15JF53W",
-            "type": "city",
-            "cityName": "Chicago",
-            "iataCode": "CHI",
-            "latitude": 41.85003,
-            "geonameId": 4887398,
-            "longitude": -87.65005,
-            "stateName": "Illinois",
-            "countryName": "United States",
-            "stateIsoCode": "US-IL",
-            "cityNameAscii": "Chicago",
-            "pointGeometry": "0101000020E6100000F2B0506B9AE955C0374F75C8CDEC4440",
-            "stateAnsiCode": "IL",
-            "cityPopulation": 2696555,
-            "countryCodeAlpha2": "US",
-            "countryCodeAlpha3": "USA",
-            "contributions": {
-                "worlds": {
-                    "score": 3,
-                    "populationScore": 3
-                },
-                "latency": {
-                    "score": 9.6,
-                    "radius": {
-                        "longitude": -87.65,
-                        "latitude": 40.12,
-                        "maxDistanceMetres": 560810
-                    },
-                    "minRtt": 5.826,
-                    "latestDay": "2024-04-18",
-                    "sourceId": "https://atlas.ripe.net/probes/16163",
-                    "confirmations": 1
-                }
-            },
-            "score": 44.4,
-            "geofeed": "140.189.9.142,US,US-IL,Chicago,"
-        },
+        "location": null,
         "alternatives": [],
         "metadata": {
             "distribution": {
@@ -606,7 +531,7 @@
             "service": {
                 "version": "18.11.16.2",
                 "contributions": {
-                    "140.189.9.142": {
+                    "211.79.48.45": {
                         "engines": [
                             {
                                 "engine": "crowdsourced",
@@ -621,7 +546,7 @@
                                 "empty": true,
                                 "metadata": {
                                     "anycast": null,
-                                    "locating": "140.189.9.142"
+                                    "locating": "211.79.48.45"
                                 },
                                 "scoreFactor": 4
                             },
@@ -635,11 +560,8 @@
                             {
                                 "engine": "latency",
                                 "type": "passive",
-                                "empty": false,
-                                "metadata": {
-                                    "numClusters": 1,
-                                    "anycast": false
-                                },
+                                "empty": true,
+                                "metadata": {},
                                 "scoreFactor": 4
                             },
                             {
@@ -647,7 +569,9 @@
                                 "type": "active",
                                 "empty": true,
                                 "metadata": {
-                                    "message": "Not locating because latency engine has results"
+                                    "status": "queued",
+                                    "locating": true,
+                                    "message": "Your measurement will be scheduled soon"
                                 },
                                 "scoreFactor": 4
                             },
@@ -655,15 +579,13 @@
                                 "engine": "reverse-dns",
                                 "type": "mixed",
                                 "empty": true,
-                                "metadata": {
-                                    "ptr": "r-600wchicago-wrips-ls-hub-ae0-2402.ip4.wiscnet.net"
-                                },
+                                "metadata": {},
                                 "scoreFactor": 1
                             },
                             {
                                 "engine": "worlds",
                                 "type": "passive",
-                                "empty": false,
+                                "empty": true,
                                 "metadata": {},
                                 "scoreFactor": 2
                             }
@@ -673,57 +595,15 @@
             },
             "request": {
                 "params": {
-                    "ip": "140.189.9.142"
+                    "ip": "211.79.48.45"
                 },
                 "query": {}
             }
         }
     },
     {
-        "location": {
-            "id": "CHICAGO-US-IL-DP3WJ6X4JG19P15JF53W",
-            "type": "city",
-            "cityName": "Chicago",
-            "iataCode": "CHI",
-            "latitude": 41.85003,
-            "geonameId": 4887398,
-            "longitude": -87.65005,
-            "stateName": "Illinois",
-            "countryName": "United States",
-            "stateIsoCode": "US-IL",
-            "cityNameAscii": "Chicago",
-            "pointGeometry": "0101000020E6100000F2B0506B9AE955C0374F75C8CDEC4440",
-            "stateAnsiCode": "IL",
-            "cityPopulation": 2696555,
-            "countryCodeAlpha2": "US",
-            "countryCodeAlpha3": "USA",
-            "contributions": {
-                "worlds": {
-                    "score": 3,
-                    "populationScore": 3
-                },
-                "latency": {
-                    "score": 9.5,
-                    "radius": {
-                        "longitude": -85.33,
-                        "latitude": 42.24,
-                        "maxDistanceMetres": 380335
-                    },
-                    "minRtt": 4.195,
-                    "latestDay": "2024-04-18",
-                    "sourceId": "https://atlas.ripe.net/probes/20753",
-                    "confirmations": 0
-                }
-            },
-            "score": 44,
-            "geofeed": "140.189.9.133,US,US-IL,Chicago,"
-        },
-        "alternatives": [
-            {
-                "id": "ISLIP-US-NY-DR5ZWN9U6KB855PW6761",
-                "score": 1
-            }
-        ],
+        "location": null,
+        "alternatives": [],
         "metadata": {
             "distribution": {
                 "version": "1.1.0"
@@ -731,7 +611,7 @@
             "service": {
                 "version": "18.11.16.2",
                 "contributions": {
-                    "140.189.9.133": {
+                    "211.73.77.242": {
                         "engines": [
                             {
                                 "engine": "crowdsourced",
@@ -746,7 +626,7 @@
                                 "empty": true,
                                 "metadata": {
                                     "anycast": null,
-                                    "locating": "140.189.9.133"
+                                    "locating": "211.73.77.242"
                                 },
                                 "scoreFactor": 4
                             },
@@ -760,11 +640,8 @@
                             {
                                 "engine": "latency",
                                 "type": "passive",
-                                "empty": false,
-                                "metadata": {
-                                    "numClusters": 1,
-                                    "anycast": false
-                                },
+                                "empty": true,
+                                "metadata": {},
                                 "scoreFactor": 4
                             },
                             {
@@ -772,23 +649,23 @@
                                 "type": "active",
                                 "empty": true,
                                 "metadata": {
-                                    "message": "Not locating because latency engine has results"
+                                    "status": "queued",
+                                    "locating": true,
+                                    "message": "Your measurement will be scheduled soon"
                                 },
                                 "scoreFactor": 4
                             },
                             {
                                 "engine": "reverse-dns",
                                 "type": "mixed",
-                                "empty": false,
-                                "metadata": {
-                                    "ptr": "r-equinix-isp-ae0-2401.ip4.wiscnet.net"
-                                },
+                                "empty": true,
+                                "metadata": {},
                                 "scoreFactor": 1
                             },
                             {
                                 "engine": "worlds",
                                 "type": "passive",
-                                "empty": false,
+                                "empty": true,
                                 "metadata": {},
                                 "scoreFactor": 2
                             }
@@ -798,7 +675,89 @@
             },
             "request": {
                 "params": {
-                    "ip": "140.189.9.133"
+                    "ip": "211.73.77.242"
+                },
+                "query": {}
+            }
+        }
+    },
+    {
+        "location": null,
+        "alternatives": [],
+        "metadata": {
+            "distribution": {
+                "version": "1.1.0"
+            },
+            "service": {
+                "version": "18.11.16.2",
+                "contributions": {
+                    "211.73.76.69": {
+                        "engines": [
+                            {
+                                "engine": "crowdsourced",
+                                "type": "passive",
+                                "empty": true,
+                                "metadata": {},
+                                "scoreFactor": 2
+                            },
+                            {
+                                "engine": "simple-anycast",
+                                "type": "active",
+                                "empty": true,
+                                "metadata": {
+                                    "anycast": null,
+                                    "locating": "211.73.76.69"
+                                },
+                                "scoreFactor": 4
+                            },
+                            {
+                                "engine": "ixp",
+                                "type": "passive",
+                                "empty": true,
+                                "metadata": {},
+                                "scoreFactor": 4
+                            },
+                            {
+                                "engine": "latency",
+                                "type": "passive",
+                                "empty": true,
+                                "metadata": {},
+                                "scoreFactor": 4
+                            },
+                            {
+                                "engine": "single-radius",
+                                "type": "active",
+                                "empty": true,
+                                "metadata": {
+                                    "status": "queued",
+                                    "locating": true,
+                                    "message": "Your measurement will be scheduled soon"
+                                },
+                                "scoreFactor": 4
+                            },
+                            {
+                                "engine": "reverse-dns",
+                                "type": "mixed",
+                                "empty": true,
+                                "metadata": {
+                                    "ptr": "tp-a1.twaren.net"
+                                },
+                                "scoreFactor": 1
+                            },
+                            {
+                                "engine": "worlds",
+                                "type": "passive",
+                                "empty": true,
+                                "metadata": {},
+                                "scoreFactor": 2
+                            }
+                        ]
+                    }
+                }
+            },
+            "request": {
+                "params": {
+                    "ip": "211.73.76.69"
                 },
                 "query": {}
             }
@@ -806,42 +765,34 @@
     },
     {
         "location": {
-            "id": "CHICAGO-US-IL-DP3WJ6X4JG19P15JF53W",
+            "id": "VIRGINIA_BEACH-US-VA-DQ9CXHFEBS06QVYGQVM6",
             "type": "city",
-            "cityName": "Chicago",
-            "iataCode": "CHI",
-            "latitude": 41.85003,
-            "geonameId": 4887398,
-            "longitude": -87.65005,
-            "stateName": "Illinois",
+            "cityName": "Virginia Beach",
+            "iataCode": "NTU",
+            "latitude": 36.85293,
+            "geonameId": 4791259,
+            "longitude": -75.97799,
+            "stateName": "Virginia",
             "countryName": "United States",
-            "stateIsoCode": "US-IL",
-            "cityNameAscii": "Chicago",
-            "pointGeometry": "0101000020E6100000F2B0506B9AE955C0374F75C8CDEC4440",
-            "stateAnsiCode": "IL",
-            "cityPopulation": 2696555,
+            "stateIsoCode": "US-VA",
+            "cityNameAscii": "Virginia Beach",
+            "pointGeometry": "0101000020E61000002A745E6397FE52C07EE36BCF2C6D4240",
+            "stateAnsiCode": "VA",
+            "cityPopulation": 452745,
             "countryCodeAlpha2": "US",
             "countryCodeAlpha3": "USA",
             "contributions": {
-                "worlds": {
-                    "score": 3,
-                    "populationScore": 3
+                "reverse-dns": {
+                    "score": 1,
+                    "matchType": "naive"
                 },
-                "latency": {
-                    "score": 9.6,
-                    "radius": {
-                        "longitude": -85.33,
-                        "latitude": 42.24,
-                        "maxDistanceMetres": 392027
-                    },
-                    "minRtt": 4.312,
-                    "latestDay": "2024-04-18",
-                    "sourceId": "https://atlas.ripe.net/probes/20753",
-                    "confirmations": 1
+                "worlds": {
+                    "score": 1,
+                    "populationScore": 1
                 }
             },
-            "score": 44.4,
-            "geofeed": "72.14.218.180,US,US-IL,Chicago,"
+            "score": 3,
+            "geofeed": "211.73.76.86,US,US-VA,Virginia Beach,"
         },
         "alternatives": [],
         "metadata": {
@@ -851,7 +802,118 @@
             "service": {
                 "version": "18.11.16.2",
                 "contributions": {
-                    "72.14.218.180": {
+                    "211.73.76.86": {
+                        "engines": [
+                            {
+                                "engine": "crowdsourced",
+                                "type": "passive",
+                                "empty": true,
+                                "metadata": {},
+                                "scoreFactor": 2
+                            },
+                            {
+                                "engine": "simple-anycast",
+                                "type": "active",
+                                "empty": true,
+                                "metadata": {
+                                    "anycast": null,
+                                    "locating": "211.73.76.86"
+                                },
+                                "scoreFactor": 4
+                            },
+                            {
+                                "engine": "ixp",
+                                "type": "passive",
+                                "empty": true,
+                                "metadata": {},
+                                "scoreFactor": 4
+                            },
+                            {
+                                "engine": "latency",
+                                "type": "passive",
+                                "empty": true,
+                                "metadata": {},
+                                "scoreFactor": 4
+                            },
+                            {
+                                "engine": "single-radius",
+                                "type": "active",
+                                "empty": true,
+                                "metadata": {
+                                    "status": "queued",
+                                    "locating": true,
+                                    "message": "Your measurement will be scheduled soon"
+                                },
+                                "scoreFactor": 4
+                            },
+                            {
+                                "engine": "reverse-dns",
+                                "type": "mixed",
+                                "empty": false,
+                                "metadata": {
+                                    "ptr": "ntu-a1.twaren.net"
+                                },
+                                "scoreFactor": 1
+                            },
+                            {
+                                "engine": "worlds",
+                                "type": "passive",
+                                "empty": true,
+                                "metadata": {},
+                                "scoreFactor": 2
+                            }
+                        ]
+                    }
+                }
+            },
+            "request": {
+                "params": {
+                    "ip": "211.73.76.86"
+                },
+                "query": {}
+            }
+        }
+    },
+    {
+        "location": {
+            "id": "VIRGINIA_BEACH-US-VA-DQ9CXHFEBS06QVYGQVM6",
+            "type": "city",
+            "cityName": "Virginia Beach",
+            "iataCode": "NTU",
+            "latitude": 36.85293,
+            "geonameId": 4791259,
+            "longitude": -75.97799,
+            "stateName": "Virginia",
+            "countryName": "United States",
+            "stateIsoCode": "US-VA",
+            "cityNameAscii": "Virginia Beach",
+            "pointGeometry": "0101000020E61000002A745E6397FE52C07EE36BCF2C6D4240",
+            "stateAnsiCode": "VA",
+            "cityPopulation": 452745,
+            "countryCodeAlpha2": "US",
+            "countryCodeAlpha3": "USA",
+            "contributions": {
+                "reverse-dns": {
+                    "score": 1,
+                    "matchType": "naive"
+                },
+                "worlds": {
+                    "score": 1,
+                    "populationScore": 1
+                }
+            },
+            "score": 3,
+            "geofeed": "211.79.49.26,US,US-VA,Virginia Beach,"
+        },
+        "alternatives": [],
+        "metadata": {
+            "distribution": {
+                "version": "1.1.0"
+            },
+            "service": {
+                "version": "18.11.16.2",
+                "contributions": {
+                    "211.79.49.26": {
                         "engines": [
                             {
                                 "engine": "crowdsourced",
@@ -880,11 +942,8 @@
                             {
                                 "engine": "latency",
                                 "type": "passive",
-                                "empty": false,
-                                "metadata": {
-                                    "numClusters": 1,
-                                    "anycast": false
-                                },
+                                "empty": true,
+                                "metadata": {},
                                 "scoreFactor": 4
                             },
                             {
@@ -892,21 +951,25 @@
                                 "type": "active",
                                 "empty": true,
                                 "metadata": {
-                                    "message": "Not locating because latency engine has results"
+                                    "status": "queued",
+                                    "locating": true,
+                                    "message": "Your measurement will be scheduled soon"
                                 },
                                 "scoreFactor": 4
                             },
                             {
                                 "engine": "reverse-dns",
                                 "type": "mixed",
-                                "empty": true,
-                                "metadata": {},
+                                "empty": false,
+                                "metadata": {
+                                    "ptr": "ntu_ntu-a1.twaren.net"
+                                },
                                 "scoreFactor": 1
                             },
                             {
                                 "engine": "worlds",
                                 "type": "passive",
-                                "empty": false,
+                                "empty": true,
                                 "metadata": {},
                                 "scoreFactor": 2
                             }
@@ -916,7 +979,7 @@
             },
             "request": {
                 "params": {
-                    "ip": "72.14.218.180"
+                    "ip": "211.79.49.26"
                 },
                 "query": {}
             }
@@ -924,169 +987,36 @@
     },
     {
         "location": {
-            "id": "SINGAPORE-SG-01-W21Z74V2F5BTNYB3J4KW",
+            "id": "VIRGINIA_BEACH-US-VA-DQ9CXHFEBS06QVYGQVM6",
             "type": "city",
-            "cityName": "Singapore",
-            "iataCode": "SIN",
-            "latitude": 1.28967,
-            "geonameId": 1880252,
-            "longitude": 103.85007,
-            "stateName": "Central Singapore",
-            "countryName": "Singapore",
-            "stateIsoCode": "SG-01",
-            "cityNameAscii": "Singapore",
-            "pointGeometry": "0101000020E6100000E353008C67F65940FC1D8A027DA2F43F",
-            "stateAnsiCode": "01",
-            "cityPopulation": 5638700,
-            "countryCodeAlpha2": "SG",
-            "countryCodeAlpha3": "SGP",
+            "cityName": "Virginia Beach",
+            "iataCode": "NTU",
+            "latitude": 36.85293,
+            "geonameId": 4791259,
+            "longitude": -75.97799,
+            "stateName": "Virginia",
+            "countryName": "United States",
+            "stateIsoCode": "US-VA",
+            "cityNameAscii": "Virginia Beach",
+            "pointGeometry": "0101000020E61000002A745E6397FE52C07EE36BCF2C6D4240",
+            "stateAnsiCode": "VA",
+            "cityPopulation": 452745,
+            "countryCodeAlpha2": "US",
+            "countryCodeAlpha3": "USA",
             "contributions": {
-                "worlds": {
-                    "score": 4,
-                    "populationScore": 4
+                "reverse-dns": {
+                    "score": 1,
+                    "matchType": "naive"
                 },
-                "latency": {
-                    "score": 8.6,
-                    "radius": {
-                        "longitude": 103.79,
-                        "latitude": 1.3,
-                        "maxDistanceMetres": 15289
-                    },
-                    "minRtt": 0.207,
-                    "latestDay": "2024-04-16",
-                    "sourceId": "https://atlas.ripe.net/probes/7092",
-                    "confirmations": 1
+                "worlds": {
+                    "score": 1,
+                    "populationScore": 1
                 }
             },
-            "score": 42.4,
-            "geofeed": "8.8.8.8,SG,SG-01,Singapore,"
+            "score": 3,
+            "geofeed": "140.112.0.201,US,US-VA,Virginia Beach,"
         },
-        "alternatives": [
-            {
-                "id": "HONG_KONG-HK-HCW-WECNWPEKX5G77CKD7T3B",
-                "score": 42.4
-            },
-            {
-                "id": "SAO_PAULO-BR-27-6GYF4C29GGGGNG2QJK6H",
-                "score": 42
-            },
-            {
-                "id": "LONDON-GB-ENG-GCPVJ0U6YJCMWXZ8BN43",
-                "score": 42
-            },
-            {
-                "id": "TOKYO-JP-40-XN774C06KV081HVTRC4V",
-                "score": 42
-            },
-            {
-                "id": "LOS_ANGELES-US-CA-9Q5CTR18DECB0VSEJ8MX",
-                "score": 40.950132788152025
-            },
-            {
-                "id": "BUDAPEST-HU-05-U2MW1QBCFWHW385V8HM3",
-                "score": 40
-            },
-            {
-                "id": "TORONTO-CA-08-DPZ88G6GD4FWNEXHP3UD",
-                "score": 40
-            },
-            {
-                "id": "OSAKA-JP-32-XN0M77V9TTUS3S30QJSX",
-                "score": 40
-            },
-            {
-                "id": "CHICAGO-US-IL-DP3WJ6X4JG19P15JF53W",
-                "score": 40
-            },
-            {
-                "id": "ROME-IT-07-SR2YKDNQPJGB60ERNWZ3",
-                "score": 40
-            },
-            {
-                "id": "PRAGUE-CZ-52-U2FKBNHZUP6HBDDQKS74",
-                "score": 39.14724383782031
-            },
-            {
-                "id": "FRANKFURT_AM_MAIN-DE-05-U0YJJE785F43RMQTX9UK",
-                "score": 39.051855840433795
-            },
-            {
-                "id": "AMSTERDAM-NL-07-U173ZQ2SF4C47GPE4JPJ",
-                "score": 38.84
-            },
-            {
-                "id": "MILAN-IT-09-U0ND9HE8E45Q3T95GTU9",
-                "score": 38.84
-            },
-            {
-                "id": "DALLAS-US-TX-9VG4MPGX1J6FPX0ZW37R",
-                "score": 38.4
-            },
-            {
-                "id": "SOFIA-BG-42-SX8DFUB5H0FB0UZMQGJ8",
-                "score": 38.4
-            },
-            {
-                "id": "KONYA-TR-71-SWXP7NQ8DGR4Q7G16T72",
-                "score": 38
-            },
-            {
-                "id": "ROTTERDAM-NL-11-U15PMUJWKPX0ZPRSVUKD",
-                "score": 38
-            },
-            {
-                "id": "WASHINGTON-US-DC-DQCJQBXU6QP0SKXS37YF",
-                "score": 38
-            },
-            {
-                "id": "MUNICH-DE-02-U281Z7JHB7QFVYMK5DM5",
-                "score": 38
-            },
-            {
-                "id": "MARSEILLE-FR-93-SPEY63YRH02X53PTC8NQ",
-                "score": 38
-            },
-            {
-                "id": "SEATTLE-US-WA-C23NB62W20V0PWUYX6U7",
-                "score": 38
-            },
-            {
-                "id": "ALMERE_STAD-NL-16-U179YTSYF41JGBTDYX63",
-                "score": 37.051855840433795
-            },
-            {
-                "id": "ZURICH-CH-ZH-U0QJ6WCFV7Q06W9VVMYP",
-                "score": 36
-            },
-            {
-                "id": "MIAMI-US-FL-DHWFXHHF021J6EH1J7NP",
-                "score": 36
-            },
-            {
-                "id": "KASSEL-DE-05-U1NGBJVTQ09KM82MEQH0",
-                "score": 36
-            },
-            {
-                "id": "ASHBURN-US-VA-DQBYHEXQ4SGTY42JHCYF",
-                "score": 34.4
-            },
-            {
-                "id": "EDENVALE-ZA-06-KEK529HJBJEP78PMHV0U",
-                "score": 34
-            },
-            {
-                "id": "WINTERTHUR-CH-ZH-U0QNQ80SQVNUF1W6T1GH",
-                "score": 34
-            },
-            {
-                "id": "JOHANNESBURG-ZA-06-KE7FYNH8XYY5HNTECNFH",
-                "score": 18
-            },
-            {
-                "id": "SAINT_PETER_PORT-GG-6417228-GBY1Q7CU7BVDVMNVDB73",
-                "score": 10
-            }
-        ],
+        "alternatives": [],
         "metadata": {
             "distribution": {
                 "version": "1.1.0"
@@ -1094,12 +1024,12 @@
             "service": {
                 "version": "18.11.16.2",
                 "contributions": {
-                    "8.8.8.8": {
+                    "140.112.0.201": {
                         "engines": [
                             {
                                 "engine": "crowdsourced",
                                 "type": "passive",
-                                "empty": false,
+                                "empty": true,
                                 "metadata": {},
                                 "scoreFactor": 2
                             },
@@ -1108,8 +1038,8 @@
                                 "type": "active",
                                 "empty": true,
                                 "metadata": {
-                                    "anycast": true,
-                                    "locating": null
+                                    "anycast": null,
+                                    "locating": "140.112.0.201"
                                 },
                                 "scoreFactor": 4
                             },
@@ -1123,11 +1053,8 @@
                             {
                                 "engine": "latency",
                                 "type": "passive",
-                                "empty": false,
-                                "metadata": {
-                                    "numClusters": 30,
-                                    "anycast": true
-                                },
+                                "empty": true,
+                                "metadata": {},
                                 "scoreFactor": 4
                             },
                             {
@@ -1135,23 +1062,25 @@
                                 "type": "active",
                                 "empty": true,
                                 "metadata": {
-                                    "message": "Not locating because latency engine has results"
+                                    "status": "queued",
+                                    "locating": true,
+                                    "message": "Your measurement will be scheduled soon"
                                 },
                                 "scoreFactor": 4
                             },
                             {
                                 "engine": "reverse-dns",
                                 "type": "mixed",
-                                "empty": true,
+                                "empty": false,
                                 "metadata": {
-                                    "ptr": "dns.google"
+                                    "ptr": "core_wan_0201.cc.ntu.edu.tw"
                                 },
                                 "scoreFactor": 1
                             },
                             {
                                 "engine": "worlds",
                                 "type": "passive",
-                                "empty": false,
+                                "empty": true,
                                 "metadata": {},
                                 "scoreFactor": 2
                             }
@@ -1161,7 +1090,358 @@
             },
             "request": {
                 "params": {
-                    "ip": "8.8.8.8"
+                    "ip": "140.112.0.201"
+                },
+                "query": {}
+            }
+        }
+    },
+    {
+        "location": null,
+        "alternatives": [],
+        "metadata": {
+            "distribution": {
+                "version": "1.1.0"
+            },
+            "service": {
+                "version": "18.11.16.2",
+                "contributions": {
+                    "140.112.0.217": {
+                        "engines": [
+                            {
+                                "engine": "crowdsourced",
+                                "type": "passive",
+                                "empty": true,
+                                "metadata": {},
+                                "scoreFactor": 2
+                            },
+                            {
+                                "engine": "simple-anycast",
+                                "type": "active",
+                                "empty": true,
+                                "metadata": {
+                                    "anycast": null,
+                                    "locating": "140.112.0.217"
+                                },
+                                "scoreFactor": 4
+                            },
+                            {
+                                "engine": "ixp",
+                                "type": "passive",
+                                "empty": true,
+                                "metadata": {},
+                                "scoreFactor": 4
+                            },
+                            {
+                                "engine": "latency",
+                                "type": "passive",
+                                "empty": true,
+                                "metadata": {},
+                                "scoreFactor": 4
+                            },
+                            {
+                                "engine": "single-radius",
+                                "type": "active",
+                                "empty": true,
+                                "metadata": {
+                                    "status": "queued",
+                                    "locating": true,
+                                    "message": "Your measurement will be scheduled soon"
+                                },
+                                "scoreFactor": 4
+                            },
+                            {
+                                "engine": "reverse-dns",
+                                "type": "mixed",
+                                "empty": true,
+                                "metadata": {},
+                                "scoreFactor": 1
+                            },
+                            {
+                                "engine": "worlds",
+                                "type": "passive",
+                                "empty": true,
+                                "metadata": {},
+                                "scoreFactor": 2
+                            }
+                        ]
+                    }
+                }
+            },
+            "request": {
+                "params": {
+                    "ip": "140.112.0.217"
+                },
+                "query": {}
+            }
+        }
+    },
+    {
+        "location": null,
+        "alternatives": [],
+        "metadata": {
+            "distribution": {
+                "version": "1.1.0"
+            },
+            "service": {
+                "version": "18.11.16.2",
+                "contributions": {
+                    "140.112.0.237": {
+                        "engines": [
+                            {
+                                "engine": "crowdsourced",
+                                "type": "passive",
+                                "empty": true,
+                                "metadata": {},
+                                "scoreFactor": 2
+                            },
+                            {
+                                "engine": "simple-anycast",
+                                "type": "active",
+                                "empty": true,
+                                "metadata": {
+                                    "anycast": null,
+                                    "locating": "140.112.0.237"
+                                },
+                                "scoreFactor": 4
+                            },
+                            {
+                                "engine": "ixp",
+                                "type": "passive",
+                                "empty": true,
+                                "metadata": {},
+                                "scoreFactor": 4
+                            },
+                            {
+                                "engine": "latency",
+                                "type": "passive",
+                                "empty": true,
+                                "metadata": {},
+                                "scoreFactor": 4
+                            },
+                            {
+                                "engine": "single-radius",
+                                "type": "active",
+                                "empty": true,
+                                "metadata": {
+                                    "status": "queued",
+                                    "locating": true,
+                                    "message": "Your measurement will be scheduled soon"
+                                },
+                                "scoreFactor": 4
+                            },
+                            {
+                                "engine": "reverse-dns",
+                                "type": "mixed",
+                                "empty": true,
+                                "metadata": {},
+                                "scoreFactor": 1
+                            },
+                            {
+                                "engine": "worlds",
+                                "type": "passive",
+                                "empty": true,
+                                "metadata": {},
+                                "scoreFactor": 2
+                            }
+                        ]
+                    }
+                }
+            },
+            "request": {
+                "params": {
+                    "ip": "140.112.0.237"
+                },
+                "query": {}
+            }
+        }
+    },
+    {
+        "location": null,
+        "alternatives": [],
+        "metadata": {
+            "distribution": {
+                "version": "1.1.0"
+            },
+            "service": {
+                "version": "18.11.16.2",
+                "contributions": {
+                    "140.112.1.82": {
+                        "engines": [
+                            {
+                                "engine": "crowdsourced",
+                                "type": "passive",
+                                "empty": true,
+                                "metadata": {},
+                                "scoreFactor": 2
+                            },
+                            {
+                                "engine": "simple-anycast",
+                                "type": "active",
+                                "empty": true,
+                                "metadata": {
+                                    "anycast": null,
+                                    "locating": "140.112.1.82"
+                                },
+                                "scoreFactor": 4
+                            },
+                            {
+                                "engine": "ixp",
+                                "type": "passive",
+                                "empty": true,
+                                "metadata": {},
+                                "scoreFactor": 4
+                            },
+                            {
+                                "engine": "latency",
+                                "type": "passive",
+                                "empty": true,
+                                "metadata": {},
+                                "scoreFactor": 4
+                            },
+                            {
+                                "engine": "single-radius",
+                                "type": "active",
+                                "empty": true,
+                                "metadata": {
+                                    "status": "queued",
+                                    "locating": true,
+                                    "message": "Your measurement will be scheduled soon"
+                                },
+                                "scoreFactor": 4
+                            },
+                            {
+                                "engine": "reverse-dns",
+                                "type": "mixed",
+                                "empty": true,
+                                "metadata": {},
+                                "scoreFactor": 1
+                            },
+                            {
+                                "engine": "worlds",
+                                "type": "passive",
+                                "empty": true,
+                                "metadata": {},
+                                "scoreFactor": 2
+                            }
+                        ]
+                    }
+                }
+            },
+            "request": {
+                "params": {
+                    "ip": "140.112.1.82"
+                },
+                "query": {}
+            }
+        }
+    },
+    {
+        "location": {
+            "id": "VIRGINIA_BEACH-US-VA-DQ9CXHFEBS06QVYGQVM6",
+            "type": "city",
+            "cityName": "Virginia Beach",
+            "iataCode": "NTU",
+            "latitude": 36.85293,
+            "geonameId": 4791259,
+            "longitude": -75.97799,
+            "stateName": "Virginia",
+            "countryName": "United States",
+            "stateIsoCode": "US-VA",
+            "cityNameAscii": "Virginia Beach",
+            "pointGeometry": "0101000020E61000002A745E6397FE52C07EE36BCF2C6D4240",
+            "stateAnsiCode": "VA",
+            "cityPopulation": 452745,
+            "countryCodeAlpha2": "US",
+            "countryCodeAlpha3": "USA",
+            "contributions": {
+                "reverse-dns": {
+                    "score": 1,
+                    "matchType": "naive"
+                },
+                "worlds": {
+                    "score": 1,
+                    "populationScore": 1
+                }
+            },
+            "score": 3,
+            "geofeed": "140.112.42.160,US,US-VA,Virginia Beach,"
+        },
+        "alternatives": [],
+        "metadata": {
+            "distribution": {
+                "version": "1.1.0"
+            },
+            "service": {
+                "version": "18.11.16.2",
+                "contributions": {
+                    "140.112.42.160": {
+                        "engines": [
+                            {
+                                "engine": "crowdsourced",
+                                "type": "passive",
+                                "empty": true,
+                                "metadata": {},
+                                "scoreFactor": 2
+                            },
+                            {
+                                "engine": "simple-anycast",
+                                "type": "active",
+                                "empty": true,
+                                "metadata": {
+                                    "anycast": null,
+                                    "locating": "140.112.42.160"
+                                },
+                                "scoreFactor": 4
+                            },
+                            {
+                                "engine": "ixp",
+                                "type": "passive",
+                                "empty": true,
+                                "metadata": {},
+                                "scoreFactor": 4
+                            },
+                            {
+                                "engine": "latency",
+                                "type": "passive",
+                                "empty": true,
+                                "metadata": {},
+                                "scoreFactor": 4
+                            },
+                            {
+                                "engine": "single-radius",
+                                "type": "active",
+                                "empty": true,
+                                "metadata": {
+                                    "status": "queued",
+                                    "locating": true,
+                                    "message": "Your measurement will be scheduled soon"
+                                },
+                                "scoreFactor": 4
+                            },
+                            {
+                                "engine": "reverse-dns",
+                                "type": "mixed",
+                                "empty": false,
+                                "metadata": {
+                                    "ptr": "nslab.ee.ntu.edu.tw"
+                                },
+                                "scoreFactor": 1
+                            },
+                            {
+                                "engine": "worlds",
+                                "type": "passive",
+                                "empty": true,
+                                "metadata": {},
+                                "scoreFactor": 2
+                            }
+                        ]
+                    }
+                }
+            },
+            "request": {
+                "params": {
+                    "ip": "140.112.42.160"
                 },
                 "query": {}
             }

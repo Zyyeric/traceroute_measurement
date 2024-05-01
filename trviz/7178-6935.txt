@@ -1,0 +1,19 @@
+   102.130.49.144  328383  0.0                (Johannesburg, Gauteng, ZA, AF) za-jnb-as57695.anchors.atlas.ripe.net                                                               
+   ***             *       -inf                                           *** *                                                                                                   
+   102.130.49.3    328383  0.245              (Johannesburg, Gauteng, ZA, AF) spine2.v271.jnb01.za.misaka.io                                                                      
+╭─ 102.130.51.6    *       0.221              (Johannesburg, Gauteng, ZA, AF) e54-1-20.cr2a.tdjb1.jnb1.za.917.as                                                                  
+LHL (, 969)  africa-coast-to-europe-ace ✘ ↠ apollo ✘ || africa-coast-to-europe-ace ✘ ↠ flag-atlantic-1-fa-1 ✘
+├─ 199.119.64.250  969     0.202                    (Dover, Delaware, US, NA) po100.cr1a.tdjb1.jnb1.za.917.as                                                                     
+LHL (969, 60068)  apollo ✘ || flag-atlantic-1-fa-1 ✘
+├─ 37.19.193.190   60068   0.243                     (Prague, Prague, CZ, EU) p77-3502.cr1a.tdjb1.jnb1.za.917.as                                                                  
+LHL (60068, 5511)  
+├─ 193.251.152.55  5511    0.499              (Johannesburg, Gauteng, ZA, AF)                                                                                                     
+S (5511)  africa-coast-to-europe-ace 👍
+╰─ 193.251.131.9   5511    158.268                      (Paris, None, FR, EU) bundle-ether303.pastr4.paris.opentransit.net                                                        
+╭─ 4.68.127.233    3356    228.618                      (Paris, None, FR, EU) ae-a5.edge7.Paris1.Level3.net                                                                       
+S&T (3356, 25003)  apollo © ↠ apollo © || apollo © ↠ flag-atlantic-1-fa-1 © || flag-atlantic-1-fa-1 © ↠ apollo © || flag-atlantic-1-fa-1 © ↠ flag-atlantic-1-fa-1 ©
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 212.113.14.250  25003   220.133                     (London, None, GB, EU) IB.edge5.London1.Level3.net                                                                         
+T (25003)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 94.188.255.2    25003   219.606              (Bnei Brak, Tel Aviv, IL, AS) 255.188.94-binat-smaug.in-addr.arpa                                                                 

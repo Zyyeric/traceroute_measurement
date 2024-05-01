@@ -1,0 +1,16 @@
+   103.160.63.222  140443  0.0                     (Jakarta, Jakarta, ID, AS) 222.63.160.103.in-addr.herza.id                                                                     
+╭─ 103.160.63.129  140443  0.409                   (Jakarta, Jakarta, ID, AS) 129.63.160.103.in-addr.herza.id                                                                     
+S&T (140443, 174)  australia-singapore-cable-asc ✓ || matrix-cable-system ✘ || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || indonesia-global-gateway-igg-system ✓ || seamewe-3 ✓ || indigo-west ✘ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || jasuka ✓ || jakabare ✘
+├  10.111.220.46   *       0.632                                          ***                                                                                                     
+├  10.111.220.6    *       12.389                                         ***                                                                                                     
+├  10.111.222.209  *       12.391                                         ***                                                                                                     
+├─ 154.18.19.209   174     12.937              (Singapore, Singapore, SG, AS) te0-8-0-2-7.201.ccr31.sin01.atlas.cogentco.com                                                      
+S (174)  seamewe-5 ✓ || seamewe-4 ✓ || peace-cable ✘
+├─ 154.54.87.214   174     171.308                   (Marseille, PAC, FR, EU) be2919.ccr32.mrs02.atlas.cogentco.com                                                               
+S&T (174)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 154.54.57.166   174     169.665                    (Brussels, BRU, BE, EU) be3675.rcr21.bru01.atlas.cogentco.com                                                               
+   ***             *       -inf                                           *** *                                                                                                   
+   109.233.104.97  48408   169.02        (Brussels, Brussels Capital, BE, EU)                                                                                                     
+   45.87.79.251    208725  169.272       (Brussels, Brussels Capital, BE, EU) router01.sw1.core.devrandom.be                                                                      
+   45.87.76.6      208725  169.288       (Brussels, Brussels Capital, BE, EU) ansible.devrandom.be                                                                                

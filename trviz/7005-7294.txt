@@ -1,0 +1,32 @@
+   10.252.4.170    *       0.0                                            ***                                                                                                     
+   10.252.4.169    *       0.214                                          ***                                                                                                     
+   10.252.4.153    *       0.155                                          ***                                                                                                     
+   10.252.0.37     *       14.274                                         ***                                                                                                     
+   10.252.2.138    *       16.93                                          ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 154.25.16.81    174     18.339                (Istanbul, Istanbul, TR, AS) be3821.rcr71.ist01.atlas.cogentco.com                                                               
+S (174)  
+├─ 154.54.74.226   174     27.06                          (Lyon, ARA, FR, EU) be2881.rcr21.lys01.atlas.cogentco.com                                                               
+LHL (174)  
+├─ 130.117.0.94    174     34.822                       (Belgrade, 0, RS, EU) be3421.ccr51.beg03.atlas.cogentco.com                                                               
+T (174)  
+├─ 130.117.0.125   174     37.481                      (Budapest, PE, HU, EU) be3422.ccr31.bud01.atlas.cogentco.com                                                               
+T (174)  
+├─ 130.117.3.137   174     39.679                    (Bratislava, BL, SK, EU) be3261.ccr21.bts01.atlas.cogentco.com                                                               
+T (174)  
+├─ 154.54.59.86    174     43.271                         (Vienna, 9, AT, EU) be2988.ccr51.vie01.atlas.cogentco.com                                                               
+LHL (174, 1299)  
+├─ 130.117.14.182  1299    44.547                        (None, None, SE, EU) *                                                                                                   
+S&T (1299)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 62.115.137.202  1299    55.631          (Frankfurt am Main, Hesse, DE, EU) ffm-bb1-link.ip.twelve99.net                                                                        
+T (1299)  
+├─ 62.115.123.13   1299    63.272              (Paris, Île-de-France, FR, EU) prs-bb1-link.ip.twelve99.net                                                                        
+S&T (1299)  
+╰─ 62.115.116.239  1299    70.807        (Brussels, Brussels Capital, BE, EU) brx-b3-link.ip.twelve99.net                                                                         
+   62.115.117.57   1299    69.182        (Brussels, Brussels Capital, BE, EU) brx-b4-link.ip.twelve99.net                                                                         
+   62.115.175.93   1299    69.191        (Brussels, Brussels Capital, BE, EU) verixi-ic-344941.ip.twelve99-cust.net                                                               
+   87.238.225.11   6696    64.836                        (None, None, BE, EU) edg01.blutw.bra.be.verixi.net                                                                       
+   80.67.181.1     204059  66.035                     (Brussels, BRU, BE, EU) edge-01.louise.neutri.net                                                                           
+   80.67.181.18    204059  66.265        (Brussels, Brussels Capital, BE, EU) core-01.louise.neutri.net                                                                           
+   80.67.181.29    204059  65.182        (Brussels, Brussels Capital, BE, EU) be-bru-as204059.anchors.atlas.ripe.net                                                              

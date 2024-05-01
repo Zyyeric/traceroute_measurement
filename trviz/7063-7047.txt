@@ -1,0 +1,26 @@
+   80.77.4.60      15412   0.0                         (Dubai, Dubai, AE, AS)                                                                                                     
+╭─ 80.77.4.57      15412   1.848                       (Dubai, Dubai, AE, AS)                                                                                                     
+S&T (15412)  
+├─ 85.95.26.201    15412   26.614                   (London, England, GB, EU)                                                                                                     
+S (15412)  
+├─ 62.216.128.201  15412   77.276                      (Singapore, 4, SG, AS) ge-5-1-0.0.ejr04.sin001.flagtel.com                                                                 
+S (15412, 6453)  
+├─ 62.216.157.162  6453    77.302                        (None, None, GB, EU) *                                                                                                   
+S (6453)  
+╰─ 120.29.214.11   6453    321.336                  (Singapore, None, SG, AS) if-be-46-2.ecore2.svq-singapore.as6453.net                                                          
+   63.243.180.160  6453    325.237             (Singapore, Singapore, SG, AS) if-bundle-22-2.qcore2.esin4-singapore.as6453.net                                                    
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 209.58.82.130   6453    327.544             (Singapore, Singapore, SG, AS) if-ae-33-2.tcore1.svw-singapore.as6453.net                                                          
+S (6453)  
+├─ 195.219.174.10  6453    321.344   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) if-be-30-2.ecore1.emrs2-marseille.as6453.net                                                        
+S&T (6453, 37179)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 41.84.12.26     37179   326.672                 (Johannesburg, GP, ZA, AF) core.100g-0-8-0-wc-ro-ter-scp-1.za.africainx.net                                                    
+   41.84.12.155    37179   325.685   (Bloemfontein, Orange Free State, ZA, AF) core.ae0-fs-bl-is-nec-1.za.africainx.net                                                            
+   41.84.12.46     37179   321.624          (Cape Town, Western Cape, ZA, AF) core.xe-0-2-0-gp-rb-pkl-scp-1.za.africainx.net                                                      
+   41.84.12.37     37179   326.523                 (Johannesburg, GP, ZA, AF) core-xe-0-2-2-gp-rb-pkl-scp-1.za.africainx.net                                                      
+   41.84.12.161    37179   321.534                 (Johannesburg, GP, ZA, AF) core.xge-0-2-1-gp-sm-het-scp-1.za.africainx.net                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   41.66.132.246   37153   326.133                 (Johannesburg, GP, ZA, AF) 41-66-132-246-f6.hetzner-jhb-ip4-gw.africainx.net                                                   
+   197.189.193.1   37153   330.953                      (Sandton, GP, ZA, AF) core-access-switch1.jnb1.host-h.net                                                                 
+   197.189.194.147 37153   328.008            (Johannesburg, Gauteng, ZA, AF) atlas-anchor-jnb1.jnb.net.host-h.net                                                                

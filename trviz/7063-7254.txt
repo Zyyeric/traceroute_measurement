@@ -1,0 +1,21 @@
+   103.170.154.254 142594  0.0                      (London, England, GB, EU) 254.154.170.103.speedyvps.uk                                                                        
+╭─ 103.170.154.1   142594  0.252                    (London, England, GB, EU)                                                                                                     
+T (142594, 60068)  
+├─ 156.146.32.94   60068   0.32                      (Prague, Prague, CZ, EU) unn-156-146-32-94.cdn77.com                                                                         
+T (60068, 201011)  
+╰─ 81.95.9.54      201011  0.471                    (London, England, GB, EU) ae22-401.lon10.core-backbone.com                                                                    
+   195.66.226.41   37100   0.498                        (London, ENG, GB, EU) *                                                                                                   
+╭─ 105.16.35.1     37100   147.632                      (London, ENG, GB, EU) ae-2.cr-01-lhr.uk.seacomnet.com                                                                     
+T (37100)  
+╰─ 105.25.160.169  37100   143.176          (Cape Town, Western Cape, ZA, AF) ce-0-1-9.cr-01-cpt.za.seacomnet.com                                                                 
+   105.16.30.10    37100   145.089                    (Cape Town, WC, ZA, AF) xe-0-0-0-0.er-02-cpt.za.seacomnet.com                                                               
+   105.22.72.214   37100   145.305          (Cape Town, Western Cape, ZA, AF)                                                                                                     
+   41.84.12.26     37179   160.371                 (Johannesburg, GP, ZA, AF) core.100g-0-8-0-wc-ro-ter-scp-1.za.africainx.net                                                    
+   41.84.12.155    37179   160.938   (Bloemfontein, Orange Free State, ZA, AF) core.ae0-fs-bl-is-nec-1.za.africainx.net                                                            
+   41.84.12.46     37179   164.284          (Cape Town, Western Cape, ZA, AF) core.xe-0-2-0-gp-rb-pkl-scp-1.za.africainx.net                                                      
+   41.84.12.37     37179   162.172                 (Johannesburg, GP, ZA, AF) core-xe-0-2-2-gp-rb-pkl-scp-1.za.africainx.net                                                      
+   41.84.12.161    37179   163.504                 (Johannesburg, GP, ZA, AF) core.xge-0-2-1-gp-sm-het-scp-1.za.africainx.net                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   41.66.132.246   37153   163.237                 (Johannesburg, GP, ZA, AF) 41-66-132-246-f6.hetzner-jhb-ip4-gw.africainx.net                                                   
+   197.189.193.1   37153   163.248                      (Sandton, GP, ZA, AF) core-access-switch1.jnb1.host-h.net                                                                 
+   197.189.194.147 37153   163.528            (Johannesburg, Gauteng, ZA, AF) atlas-anchor-jnb1.jnb.net.host-h.net                                                                

@@ -1,0 +1,30 @@
+   185.221.36.2    48854   0.0           (Tranbjerg, Central Jutland, DK, EU) dk-skg-as48854.anchors.atlas.ripe.net                                                               
+   185.221.36.253  48854   0.289          (Stilling, Central Jutland, DK, EU)                                                                                                     
+   212.237.248.18  48854   0.395          (Stilling, Central Jutland, DK, EU)                                                                                                     
+   80.70.0.254     48854   0.301          (Stilling, Central Jutland, DK, EU)                                                                                                     
+   93.167.247.106  3292    0.408          (Stilling, Central Jutland, DK, EU) cpe.et-3-3-0-100.sdnqe11.dk.customer.tdc.net                                                        
+╭─ 93.167.247.105  3292    0.432          (Stilling, Central Jutland, DK, EU) et-3-3-0-100.sdnqe11.dk.ip.tdc.net                                                                  
+S&T (3292)  energinet-laeso-varberg ✘ || globalconnect-2-gc2 ✘ || kattegat-2 👍 || denmark-sweden-16 👍
+╰─ 83.88.2.131     3292    10.904              (Stockholm, Stockholm, SE, EU) ae1-0.stkm2nqp7.se.ip.tdc.net                                                                       
+╭─ 128.76.59.143   3292    11.229              (Stockholm, Stockholm, SE, EU) peer-as6453.stkm2nqp7.se.ip.tdc.net                                                                 
+S&T (3292, 6453)  baltica 👍
+╰─ 195.219.87.86   6453    114.607            (Frankfurt am Main, HE, DE, EU) ix-ae-18-0.tcore2.fnm-frankfurt.as6453.net                                                          
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 195.219.156.150 6453    108.904            (Frankfurt am Main, HE, DE, EU) if-ae-29-2.tcore1.fnm-frankfurt.as6453.net                                                          
+T (6453)  
+╰─ 195.219.194.149 6453    114.808                    (Amsterdam, NH, NL, EU) if-ae-6-2.tcore1.av2-amsterdam.as6453.net                                                           
+╭─ 195.219.194.6   6453    105.446                    (Amsterdam, NH, NL, EU) if-ae-2-2.tcore2.av2-amsterdam.as6453.net                                                           
+S&T (6453)  
+╰─ 80.231.131.160  6453    119.053                     (London, None, GB, EU) if-ae-14-2.tcore2.l78-london.as6453.net                                                             
+╭─ 80.231.131.2    6453    108.705                     (London, None, GB, EU) if-ae-2-2.tcore1.l78-london.as6453.net                                                              
+S (6453)  
+╰─ 80.231.130.26   6453    108.558                       (Newark, NJ, US, NA) if-ae-15-2.tcore3.njy-newark.as6453.net                                                             
+   216.6.90.13     6453    113.933                     (New York, NY, US, NA) if-ae-0-2.tcore1.n0v-newyork.as6453.net                                                             
+╭─ 216.6.90.22     6453    117.143                     (New York, NY, US, NA) if-ae-2-2.tcore2.n0v-newyork.as6453.net                                                             
+S&T (6453)  
+╰─ 64.86.226.57    6453    108.685                     (Montreal, QC, CA, NA) if-ae-5-2.tcore2.mtt-montreal.as6453.net                                                            
+   216.6.115.89    6453    114.015                     (Montreal, QC, CA, NA) if-ae-0-2.tcore1.mtt-montreal.as6453.net                                                            
+   64.86.31.31     6453    105.992                     (Montreal, QC, CA, NA) if-ae-22-2.thar1.a0met-montreal.as6453.net                                                          
+   66.198.64.10    6453    108.466                 (Montréal, Quebec, CA, NA)                                                                                                     
+   96.127.249.162  1403    113.915                     (Montreal, QC, CA, NA) 0.ae0.er1.1225stco.yhu.ebox.ca                                                                      
+   172.93.18.42    1403    114.096                (Longueuil, Quebec, CA, NA) ca-lon-as1403.anchors.atlas.ripe.net                                                                

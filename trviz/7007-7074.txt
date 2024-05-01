@@ -1,0 +1,13 @@
+   103.143.136.43  63781   0.0                         (Tokyo, Tokyo, JP, AS) koba-103-143-136-43.rev.kobayashi.ad.jp                                                             
+   103.143.136.62  63781   2.033                       (Tokyo, Tokyo, JP, AS) koba-103-143-136-62.rev.kobayashi.ad.jp                                                             
+   103.143.136.25  63781   0.45                        (Tokyo, Tokyo, JP, AS) bgprt1-ospfrt1.kobayashi.ad.jp                                                                      
+   103.41.60.164   10010   0.844                       (Tokyo, Tokyo, JP, AS) bgp3.tokyo-ix.v4.open.ad.jp                                                                         
+   150.99.184.33   2907    1.431                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+   150.99.10.187   2907    1.893                         (None, None, JP, AS) *                                                                                                   
+   202.232.6.17    2497    2.316                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   58.138.114.174  2497    1.92                        (Tokyo, Tokyo, JP, AS) tky009ix55.iij.net                                                                                  
+╭─ 210.130.133.66  2497    2.139                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+S (2497, 3491)  apcn-2 ✓ || asia-pacific-gateway-apg ✓
+╰─ 63.218.166.222  3491    78.849                (Kuala Lumpur, None, MY, AS) TenGE0-2-0-0.br02.klp01.pccwbtn.net                                                                 
+   63.222.188.9    3491    79.339        (Kuala Lumpur, Kuala Lumpur, MY, AS)                                                                                                     

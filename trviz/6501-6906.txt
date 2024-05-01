@@ -1,0 +1,18 @@
+   185.92.128.30   60924   0.0                         (Dubai, Dubai, AE, AS)                                                                                                     
+╭─ 185.92.128.3    60924   0.426                       (Dubai, Dubai, AE, AS)                                                                                                     
+LHL (60924)  seamewe-5 ✘ || seamewe-4 ✓ || asia-africa-europe-1-aae-1 ✓ || imewe ✓ || seamewe-3 ✓
+├─ 185.92.128.4    60924   0.293                         (None, None, IE, EU) *                                                                                                   
+LHL (60924, 4637)  
+╰─ 217.151.46.9    4637    0.942                       (Dubai, Dubai, AE, AS) unknown.telstraglobal.net                                                                           
+╭─ 202.84.204.18   4637    4.813                       (Dubai, Dubai, AE, AS) i-1046.ufsh-core01.telstraglobal.net                                                                
+LHL (4637)  seamewe-5 ✓ ↠ exa-north-and-south ✘ || seamewe-5 ✓ ↠ aec-1 ✘ || seamewe-5 ✓ ↠ havfrueaec-2 ✓ || seamewe-4 ✓ ↠ exa-north-and-south ✘ || seamewe-4 ✓ ↠ aec-1 ✘ || seamewe-4 ✓ ↠ havfrueaec-2 ✓ || asia-africa-europe-1-aae-1 ✓ ↠ exa-north-and-south ✘ || asia-africa-europe-1-aae-1 ✓ ↠ aec-1 ✘ || asia-africa-europe-1-aae-1 ✓ ↠ havfrueaec-2 ✓ || imewe ✓ ↠ exa-north-and-south ✘ || imewe ✓ ↠ aec-1 ✘ || imewe ✓ ↠ havfrueaec-2 ✓ || seamewe-3 👍 ↠ exa-north-and-south ✘ || seamewe-3 👍 ↠ aec-1 ✘ || seamewe-3 👍 ↠ havfrueaec-2 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 202.84.140.234  4637    249.043          (Los Angeles, California, US, NA) i-10650.1wlt-core02.telstraglobal.net                                                               
+   202.84.140.234  4637    249.043          (Los Angeles, California, US, NA) i-10650.1wlt-core02.telstraglobal.net                                                               
+   202.84.143.30   4637    249.112          (Los Angeles, California, US, NA) i-95.eqla02.telstraglobal.net                                                                       
+╭─ 193.251.128.205 5511    248.823          (Los Angeles, California, US, NA)                                                                                                     
+S (5511)  exa-north-and-south ✘ || atlantic-crossing-1-ac-1 ✓ || yellow ✓ || apollo ✓ || tata-tgn-atlantic ✓ || flag-atlantic-1-fa-1 ©
+╰─ 193.251.132.99  5511    310.107                  (London, England, GB, EU)                                                                                                     
+   193.251.248.52  5511    315.407                  (London, England, GB, EU)                                                                                                     
+   37.143.136.249  196745  313.949                 (Bournemouth, ENG, GB, EU) *                                                                                                   
+   37.143.141.141  196745  314.382                   (Poole, England, GB, EU) atlas.datacenta.net                                                                                 

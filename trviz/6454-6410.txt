@@ -1,0 +1,15 @@
+   200.160.6.19    22548   0.0                 (São Paulo, São Paulo, BR, SA) br-sao-as22548.anchors.atlas.ripe.net                                                               
+   200.160.6.61    22548   0.369         (Taboão da Serra, São Paulo, BR, SA) ae1-89.ar3.jd.registro.br                                                                           
+   200.160.0.253   22548   0.617                         (None, None, BR, SA) ae0-0.core1.nu.registro.br                                                                          
+   200.160.0.161   22548   0.919                         (None, None, BR, SA) xe-5-0-0-0.gw1.nu.registro.br                                                                       
+   209.51.184.197  6939    231.544                    (Sao Paulo, SP, BR, SA) 10gigabitethernet14-8.core2.sao1.he.net                                                             
+╭─ 184.105.80.54   6939    404.129   (Rio de Janeiro, Rio de Janeiro, BR, SA) 100ge0-28.core1.rio1.he.net                                                                         
+S (6939)  
+╰─ 184.104.194.153 6939    153.072                 (Jacksonville, FL, US, NA) 100ge0-34.core2.jax1.he.net                                                                         
+   184.104.198.17  6939    131.808                 (Atlanta, Georgia, US, NA) port-channel9.core2.atl1.he.net                                                                     
+   184.104.197.54  6939    126.158                     (New York, NY, US, NA) 100ge0-79.core3.nyc4.he.net                                                                         
+   206.71.12.56    *       164.18                  (Atlanta, Georgia, US, NA)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   144.202.18.114  20473   912.561                 (Atlanta, Georgia, US, NA) 144.202.18.114.vultrusercontent.com                                                                 

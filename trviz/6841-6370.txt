@@ -1,0 +1,20 @@
+   103.202.216.76  59105   0.0                         (Chōfu, Tokyo, JP, AS)                                                                                                     
+   103.202.216.73  59105   0.35                        (Tokyo, Tokyo, JP, AS) ge-2-1-0.pop03er03.bb.homenoc.ad.jp                                                                 
+   103.41.60.164   10010   0.624                       (Tokyo, Tokyo, JP, AS) bgp3.tokyo-ix.v4.open.ad.jp                                                                         
+   150.99.184.33   2907    6.627                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+   150.99.10.187   2907    1.838                         (None, None, JP, AS) *                                                                                                   
+╭─ 150.99.21.91    2907    227.62                      (Tokyo, Tokyo, JP, AS)                                                                                                     
+LHL (2907, 20965)  japan-information-highway-jih ✓ ↠ seamewe-3 ✓
+├─ 62.40.125.182   20965   220.278         (Amsterdam, North Holland, NL, EU) sinet-gw.mx1.ams.nl.geant.net                                                                       
+T (20965)  
+├─ 62.40.98.21     20965   254.343         (Frankfurt am Main, Hesse, DE, EU) ae8.rt1.fra.de.geant.net                                                                            
+T (20965)  
+├─ 62.40.98.159    20965   254.368                   (Prague, Prague, CZ, EU) ae6.rt1.pra.cz.geant.net                                                                            
+T (20965)  
+├─ 62.40.98.243    20965   230.921                   (Vienna, Vienna, AT, EU) ae5.mx1.vie.at.geant.net                                                                            
+LHL (20965)  
+╰─ 62.40.98.146    20965   262.059                       (Athens, A1, GR, EU) ae1.mx1.ath2.gr.geant.net                                                                           
+   ***             *       -inf                                           *** *                                                                                                   
+   62.217.100.63   5408    255.441                       (None, None, GR, EU) eier-kolettir-AE.backbone.grnet.gr                                                                  
+   62.217.98.53    199399  256.195                       (None, None, GR, EU) grix-ADMIN.eier.access-link.grnet.gr                                                                
+   195.130.66.103  199399  255.761                   (Athens, Attica, GR, EU) gr-ath-as199399.anchors.atlas.ripe.net                                                              

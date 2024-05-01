@@ -1,0 +1,17 @@
+   46.166.168.3    16125   0.0                   (Šiauliai, Siauliai, LT, EU)                                                                                                     
+   46.166.168.1    16125   0.582                 (Šiauliai, Siauliai, LT, EU)                                                                                                     
+   46.166.166.4    16125   0.486                 (Šiauliai, Siauliai, LT, EU)                                                                                                     
+╭─ 216.66.90.161   6939    0.502 (5.859)              (Vilnius, Vilnius, LT, EU) ve107.core2.vno1.he.net                                                                             
+S&T (6939)  bcs-east ✓
+├─ 184.104.192.89  6939    11.225                         (Riga, RIX, LV, EU) 100ge5-2.core1.rix1.he.net                                                                          
+LHL (6939)  latvia-sweden-1-lv-se-1 ✓ ↠ bcs-north---phase-1 ✓ || latvia-sweden-1-lv-se-1 ✓ ↠ eastern-light ✘ || latvia-sweden-1-lv-se-1 ✓ ↠ sweden-finland-4-sfs-4 ✓ || latvia-sweden-1-lv-se-1 ✓ ↠ baltic-sea-submarine-cable ✓ || sweden-latvia ✓ ↠ bcs-north---phase-1 ✓ || sweden-latvia ✓ ↠ eastern-light ✘ || sweden-latvia ✓ ↠ sweden-finland-4-sfs-4 ✓ || sweden-latvia ✓ ↠ baltic-sea-submarine-cable ✓ || latvia-sweden-1-lv-se-1 ✓ ↠ botnia ✓ || sweden-latvia ✓ ↠ botnia ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.192.98  6939    17.613                      (Helsinki, 18, FI, EU) 100ge4-2.core1.hel1.he.net                                                                          
+S&T (6939, 8473)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 85.24.220.2     8473    21.028              (Stockholm, Stockholm, SE, EU) sto2-p1.se.as8473.net                                                                               
+   46.59.112.87    8473    20.6                (Stockholm, Stockholm, SE, EU) sto2-p1.sto-cr2.as8473.net                                                                          
+   46.59.112.95    8473    20.223                     (Stockholm, AB, SE, EU) sto-cr2.sto-cr1.bahnhof.net                                                                         
+   176.10.178.41   8473    21.025                     (Stockholm, AB, SE, EU) sto-cr1.sto-pio-dr2.bahnhof.net                                                                     
+   176.10.178.207  8473    20.072                     (Stockholm, AB, SE, EU) sto-pio-dr2.pio-dr2.bahnhof.net                                                                     
+   192.42.97.210   8473    20.066              (Stockholm, Stockholm, SE, EU) se-sto-as8473.anchors.atlas.ripe.net                                                                

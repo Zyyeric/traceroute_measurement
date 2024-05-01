@@ -1,0 +1,17 @@
+   63.222.188.9    3491    0.0           (Kuala Lumpur, Kuala Lumpur, MY, AS)                                                                                                     
+╭─ 63.222.188.1    3491    0.762         (Kuala Lumpur, Kuala Lumpur, MY, AS)                                                                                                     
+S&T (3491)  indonesia-global-gateway-igg-system ✓ || palapa-ring-west ✓ || batam-dumai-melaka-bdm-cable-system ✘ || jasuka ✓ || seamewe-4 ✓ || seamewe-5 ✓ || seax-1 ✘ || asia-submarine-cable-express-asecahaya-malaysia ✓ || asia-america-gateway-aag-cable-system ✓ || batam-rengit-cable-system-brcs ✘ || apcn-2 👍
+├─ 63.218.164.102  3491    8.086               (Singapore, Singapore, SG, AS) hu-0-0-0-2.br07.sin02.as3491.net                                                                    
+S (3491, 2914)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 129.250.5.65    2914    8.019                         (None, None, US, NA) ae-5.r23.sngpsi07.sg.bb.gin.ntt.net                                                                 
+   129.250.4.181   2914    163.542                       (None, None, US, NA) ae-8.r21.vienat02.at.bb.gin.ntt.net                                                                 
+   129.250.7.29    2914    169.074                       (None, None, US, NA) ae-12.r20.amstnl07.nl.bb.gin.ntt.net                                                                
+   129.250.4.11    2914    171.797                       (None, None, US, NA) ae-16.r02.brslbe01.be.bb.gin.ntt.net                                                                
+╭─ 129.250.3.235   2914    181.055                       (None, None, US, NA) ae-9.sayonara-dorian.r24.lsanca07.us.bb.gin.ntt.net                                                 
+LHL (2914)  
+╰─ 81.20.71.97     2914    181.181               (Zaventem, Flanders, BE, EU)                                                                                                     
+   87.238.225.11   6696    181.272                       (None, None, BE, EU) edg01.blutw.bra.be.verixi.net                                                                       
+   80.67.181.1     204059  181.211                    (Brussels, BRU, BE, EU) edge-01.louise.neutri.net                                                                           
+   80.67.181.18    204059  181.33        (Brussels, Brussels Capital, BE, EU) core-01.louise.neutri.net                                                                           
+   80.67.181.29    204059  181.773       (Brussels, Brussels Capital, BE, EU) be-bru-as204059.anchors.atlas.ripe.net                                                              

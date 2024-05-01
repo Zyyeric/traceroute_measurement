@@ -1,0 +1,11 @@
+   185.32.187.169  13238   0.0       (Saint Petersburg, St.-Petersburg, RU, EU)                                                                                                     
+╭─ 185.32.187.170  13238   1.652     (Saint Petersburg, St.-Petersburg, RU, EU)                                                                                                     
+LHL (13238)  circe-north ✘ || scylla ✘ || ulysses-2 ✘ || zeus ✘ || concerto ✘ || farland-north ✘ || atlantic-crossing-1-ac-1 ✘
+├  10.1.2.254      *       0.753                                          ***                                                                                                     
+╰─ 80.249.211.200  13238   48.847                      (Schiphol, NH, NL, EU) ams-ix-am1.yandex.net                                                                               
+╭─ 80.249.208.127  6667    59.589                      (Schiphol, NH, NL, EU) amsix1.eunetip.net                                                                                  
+LHL (6667)  bcs-north---phase-1 ✓ || eastern-light ✘ || sweden-finland-4-sfs-4 👍 || baltic-sea-submarine-cable ✘ || botnia ✓
+╰─ 213.192.184.100 6667    67.169                        (None, None, FI, EU) *                                                                                                   
+   213.192.184.103 6667    81.53                         (None, None, FI, EU) *                                                                                                   
+   213.192.184.176 6667    78.758                        (None, None, FI, EU) *                                                                                                   
+   213.192.184.42  6667    80.699                 (Helsinki, Uusimaa, FI, EU) ae1-0.bbr1.sto2.se.eunetip.net                                                                      

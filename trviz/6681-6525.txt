@@ -1,0 +1,16 @@
+   171.67.70.16    32      0.0                 (Stanford, California, US, NA) us-pao-as32.anchors.atlas.ripe.net                                                                  
+   171.67.70.1     32      0.367               (Stanford, California, US, NA) sw-tor-01.esrg.stanford.edu                                                                         
+   10.214.4.253    *       0.599                                          ***                                                                                                     
+   171.66.0.207    32      1.05                (Stanford, California, US, NA)                                                                                                     
+   137.164.23.178  2152    1.708               (Stanford, California, US, NA) dc-sfo-agg4--stanford-100g.cenic.net                                                                
+   137.164.11.92   2152    1.786                      (Sunnyvale, CA, US, NA) dc-svl-agg8--sfo-agg4-100gbe.cenic.net                                                              
+   137.164.11.80   2152    1.729                      (Sunnyvale, CA, US, NA) dc-svl-agg10--svl-agg8-300g.cenic.net                                                               
+   198.32.251.193  13335   3.019                         (None, None, US, NA) *                                                                                                   
+   172.68.188.22   13335   2.96                        (San Jose, CA, US, NA) *                                                                                                   
+   172.69.21.182   13335   2.696               (San Jose, California, US, NA)                                                                                                     
+   172.69.21.220   13335   2.725               (San Jose, California, US, NA)                                                                                                     
+╭─ 172.69.21.126   13335   2.763               (San Jose, California, US, NA)                                                                                                     
+S (13335, 133800)  
+├  172.16.18.101   *       192.622                                        ***                                                                                                     
+╰─ 137.59.127.34   133800  192.642                       (None, None, ID, AS) ip-34-127-59-137.core.biznetg.io                                                                    
+   103.77.105.3    133800  192.737                 (Jakarta, Jakarta, ID, AS) ip-3-105-77-103.jkt-1.biznetg.io                                                                    

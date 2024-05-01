@@ -1,0 +1,17 @@
+   102.130.68.151  37468   0.0                (Johannesburg, Gauteng, ZA, AF)                                                                                                     
+╭─ 102.130.68.146  37468   0.379                  (Edenvale, Gauteng, ZA, AF)                                                                                                     
+S&T (37468)  
+├─ 102.130.68.112  37468   15.799                        (None, None, AO, AF) *                                                                                                   
+LHL (37468, 1299)  
+├  100.64.192.13   *       165.054                                        ***                                                                                                     
+╰─ 213.248.100.20  1299    165.139                  (London, England, GB, EU) ldn-b13-link.ip.twelve99.net                                                                        
+   62.115.127.100  1299    166.411                  (London, England, GB, EU) ldn-bb1-link.ip.twelve99.net                                                                        
+   62.115.122.189  1299    165.88              (Cricklewood, England, GB, EU) ldn-b2-link.ip.twelve99.net                                                                         
+   62.115.61.191   1299    165.693     (City of Westminster, England, GB, EU) vodafonepeering-ic-325869.ip.twelve99-cust.net                                                      
+   195.2.10.82     1273    261.756                       (None, None, GB, EU) ae31-xcr1.ltw.cw.net                                                                                
+   195.2.28.90     1273    203.865                       (None, None, GB, EU) vodafonero-gw.bud.cw.net                                                                            
+╭─ 195.2.24.190    1273    261.525                       (None, None, GB, EU) ae17-xcr1.mal.cw.net                                                                                
+S&T (1273, 39069)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 147.84.200.125  39069   273.772                   (Murcia, Murcia, ES, EU)                                                                                                     

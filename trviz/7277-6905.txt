@@ -1,0 +1,18 @@
+   103.253.132.25  59238   0.0                     (Bangkok, Bangkok, TH, AS) th-bkk-as59238.anchors.atlas.ripe.net                                                               
+   103.253.132.1   59238   0.311                (Khlong San, Bangkok, TH, AS) gw-cat.idc.inox.co.th                                                                               
+   172.24.132.102  *       0.28                                           ***                                                                                                     
+   172.24.132.24   *       0.283                                          ***                                                                                                     
+   172.21.21.2     *       0.388                                          ***                                                                                                     
+╭─ 122.155.224.73  4651    0.358 (1.556)           (Khlong San, Bangkok, TH, AS)                                                                                                     
+S&T (4651)  asia-america-gateway-aag-cable-system ✓ || seamewe-4 ✓ || seamewe-3 ✓
+├─ 61.19.9.138     4651    28.723              (Singapore, Singapore, SG, AS)                                                                                                     
+S (4651, 132602)  
+├─ 27.111.229.146  132602  26.283                    (Seogwipo, None, KR, AS) 132602.sgw.equinix.com                                                                              
+S (132602)  
+├─ 103.16.153.22   132602  66.911                      (Singapore, 4, SG, AS) 103-16-153-22-noc.bsccl.com                                                                         
+S (132602)  
+├─ 103.16.152.81   132602  76.947                        (None, None, BD, AS) 103-16-152-81-noc.bsccl.com                                                                         
+S (132602, 9829)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 117.250.113.140 9829    98.007                   (Guwahati, Assam, IN, AS) static.ill.117.250.113.140.bsnl.co.in                                                               

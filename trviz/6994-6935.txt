@@ -1,0 +1,24 @@
+   102.130.49.144  328383  0.0                (Johannesburg, Gauteng, ZA, AF) za-jnb-as57695.anchors.atlas.ripe.net                                                               
+   102.130.49.21   328383  0.138              (Johannesburg, Gauteng, ZA, AF) po-21.lag.jnb01.za.misaka.io                                                                        
+   102.130.49.3    328383  0.184              (Johannesburg, Gauteng, ZA, AF) spine2.v271.jnb01.za.misaka.io                                                                      
+╭─ 102.130.51.6    *       0.261              (Johannesburg, Gauteng, ZA, AF) e54-1-20.cr2a.tdjb1.jnb1.za.917.as                                                                  
+LHL (, 969)  africa-coast-to-europe-ace ✘ ↠ apollo ✘ || africa-coast-to-europe-ace ✘ ↠ flag-atlantic-1-fa-1 ✘
+├─ 199.119.64.250  969     0.239                    (Dover, Delaware, US, NA) po100.cr1a.tdjb1.jnb1.za.917.as                                                                     
+LHL (969, 60068)  apollo ✘ || flag-atlantic-1-fa-1 ✘
+├─ 37.19.193.190   60068   0.305                     (Prague, Prague, CZ, EU) p77-3502.cr1a.tdjb1.jnb1.za.917.as                                                                  
+LHL (60068, 5511)  
+├─ 193.251.152.55  5511    0.432              (Johannesburg, Gauteng, ZA, AF)                                                                                                     
+S (5511)  africa-coast-to-europe-ace 👍
+╰─ 81.52.166.152   5511    159.607                       (None, None, FR, EU) *                                                                                                   
+╭─ 129.250.66.144  2914    284.028     (Aubervilliers, Île-de-France, FR, EU) ae-26.a01.parsfr05.fr.bb.gin.ntt.net                                                                
+S (2914)  apollo ✓ || flag-atlantic-1-fa-1 ©
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 129.250.4.189   2914    223.448                       (None, None, US, NA) ae-6.r20.mlanit02.it.bb.gin.ntt.net                                                                 
+S (2914)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 129.250.5.238   2914    216.809             (Singapore, Singapore, SG, AS) ae-0.a03.sngpsi07.sg.bb.gin.ntt.net                                                                 
+╭─ 116.51.26.82    2914    309.803                  (Singapore, None, SG, AS) ae-0.emirates-du.sngpsi07.sg.bb.gin.ntt.net                                                         
+S (2914, 57187)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 94.206.39.74    57187   310.021                        (Dubai, DU, AE, AS) j48-1.dxa.dxb.ae.datamena.net                                                                       
+   94.207.43.2     57187   310.271                     (Dubai, Dubai, AE, AS) -094-207-043-002.datamena.net                                                                       

@@ -1,0 +1,17 @@
+   154.18.86.7     151420  0.0                         (Tokyo, Tokyo, JP, AS)                                                                                                     
+╭─ 154.18.86.1     151420  0.105               (Motoyoyogichō, Tokyo, JP, AS)                                                                                                     
+S (151420, 4826)  apcn-2 ✓ || eac-c2c ✘ || asia-pacific-gateway-apg ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 27.50.33.202    4826    74.855                      (Singapore, 4, SG, AS) vocus.gigabitethernet2-15.core1.sin1.he.net                                                         
+S (4826)  australia-singapore-cable-asc 👍 || indigo-west ✓ || seamewe-3 👍
+╰─ 114.31.206.50   4826    181.045                       (None, None, AU, OC) be100.cor01.per04.wa.vocus.network                                                                  
+   ***             *       -inf                                           *** *                                                                                                   
+   103.1.76.146    4826    180.129                       (None, None, AU, OC) be803.lsr01.dody.nsw.vocus.network                                                                  
+   103.1.76.138    *       179.366             (Brisbane, Queensland, AU, OC) be801.lsr01.crek.qld.vocus.network                                                                  
+   103.1.77.185    *       181.873             (Brisbane, Queensland, AU, OC) be203.bdr01.bne08.qld.vocus.network                                                                 
+   114.31.194.41   4826    187.556             (Brisbane, Queensland, AU, OC) be103.bdr02.bne05.qld.vocus.network                                                                 
+   123.103.192.110 4608    177.378                    (Brisbane, QLD, AU, OC) ip-110.192.103.123.VOCUS.net.au                                                                     
+   203.119.104.61  4608    177.604             (Brisbane, Queensland, AU, OC)                                                                                                     
+   203.119.111.139 4608    222.628             (Brisbane, Queensland, AU, OC) anchor.apnic.net                                                                                    

@@ -1,0 +1,17 @@
+   144.172.124.251 397031  0.0              (New York City, New York, US, NA)                                                                                                     
+   144.172.124.225 397031  1.083 (7.985)       (New York City, New York, US, NA)                                                                                                     
+   204.68.252.166  *       0.999               (Bloomfield, New York, US, NA) be5974.nr51.b024352-0.jfk01.atlas.cogentco.com                                                      
+   154.24.67.21    174     1.228            (New York City, New York, US, NA) be2239.rcr23.jfk01.atlas.cogentco.com                                                               
+╭─ 154.54.84.201   13335   1.548                       (New York, NY, US, NA) be2896.ccr41.jfk02.atlas.cogentco.com                                                               
+S (13335, 174)  
+╰─ 66.28.4.198     174     72.195                        (Paris, IDF, FR, EU) be3627.ccr41.par01.atlas.cogentco.com                                                               
+╭─ 154.54.60.122   174     72.946                        (Paris, IDF, FR, EU) be3593.rcr21.b019498-0.par01.atlas.cogentco.com                                                     
+S (174, 29169)  
+├─ 149.11.0.62     29169   72.217                        (None, None, US, NA) *                                                                                                   
+S (29169, 34019)  
+╰─ 193.17.192.255  34019   72.144              (Paris, Île-de-France, FR, EU) et-202-0-48-er01-std.bb.hivane.net                                                                  
+   193.164.153.192 34019   80.763                        (None, None, FR, EU) ae0-486-rt2-th2.bb.hivane.net                                                                       
+   193.200.43.85   34019   80.734              (Paris, Île-de-France, FR, EU) gw-grifon-th2.bb.hivane.net                                                                         
+   89.234.186.144  204092  88.675              (Paris, Île-de-France, FR, EU) enp1s0.201.asbr03.grifon.fr                                                                         
+   89.234.186.42   204092  88.802                  (Rennes, Brittany, FR, EU) hv03.cogent-rns.bb.grifon.fr                                                                        
+   80.67.190.218   204092  88.864                  (Rennes, Brittany, FR, EU) ripe-anchor.grifon.fr                                                                               

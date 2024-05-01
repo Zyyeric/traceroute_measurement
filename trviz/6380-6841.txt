@@ -1,0 +1,20 @@
+   195.130.66.103  199399  0.0                       (Athens, Attica, GR, EU) gr-ath-as199399.anchors.atlas.ripe.net                                                              
+   195.130.66.102  199399  0.844                    (Výronas, Attica, GR, EU) gw-ripe-anchor.gr-ix.gr                                                                             
+╭─ 176.126.38.47   *       1.927                 (Áno Liósia, Attica, GR, EU) he.gr-ix.gr                                                                                         
+T (, 6939)  
+├─ 184.105.64.169  6939    12.7                (Sofia, Sofia-Capital, BG, EU) 100ge0-75.core3.sof1.he.net                                                                         
+LHL (6939)  atlantic-crossing-1-ac-1 ✓
+├─ 184.104.196.193 6939    31.868                        (Denver, CO, US, NA) 100ge2-1.core1.den1.he.net                                                                          
+LHL (6939)  apollo ✓ ↠ africa-coast-to-europe-ace ✓ || apollo ✓ ↠ seamewe-3 ✓ || flag-atlantic-1-fa-1 ✓ ↠ africa-coast-to-europe-ace ✓ || flag-atlantic-1-fa-1 ✓ ↠ seamewe-3 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.189.31  6939    60.574                    (Lisbon, Lisbon, PT, EU) port-channel8.core1.lis1.he.net                                                                     
+╭─ 184.104.224.178 37613   60.704                        (Lisbon, 11, PT, EU) etg-is-nigeria.e0-21.switch1.lis1.he.net                                                            
+S&T (37613)  africa-coast-to-europe-ace 👍 || mainone ✘ || west-africa-cable-system-wacs ✓ || sat-3wasc ✓
+╰─ 41.242.114.124  37613   135.671                     (Lagos, Lagos, NG, AF)                                                                                                     
+╭─ 196.216.148.158 *       148.086                     (Lagos, Lagos, NG, AF)                                                                                                     
+S&T (, 37727)  
+╰─ 154.65.16.37    37727   148.783             (Accra, Greater Accra, GH, AF)                                                                                                     
+   154.65.18.77    37727   148.744             (Accra, Greater Accra, GH, AF)                                                                                                     
+   154.65.16.114   37727   148.174             (Accra, Greater Accra, GH, AF)                                                                                                     
+   196.201.2.126   30997   225.065                       (Accra, 1, GH, None) *                                                                                                   
+   196.49.14.25    30997   224.136             (Accra, Greater Accra, GH, AF)                                                                                                     

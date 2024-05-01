@@ -1,0 +1,15 @@
+   192.30.89.87    394256  0.0          (Vancouver, British Columbia, CA, NA) ca-van-as394256.anchors.atlas.ripe.net                                                              
+╭─ 192.30.89.94    394256  1.183        (Vancouver, British Columbia, CA, NA)                                                                                                     
+S&T (394256, 6939)  ketchcan1-submarine-fiber-cable-system ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.196.221 6939    4.197                        (Seattle, WA, US, NA) port-channel3.core2.sea1.he.net                                                                     
+   184.105.64.138  6939    7.164                       (Portland, OR, US, NA) 100ge15-1.core1.pdx1.he.net                                                                         
+   ***             *       -inf                                           *** *                                                                                                   
+   198.32.251.69   2152    25.313                       (Oakland, CA, US, NA) *                                                                                                   
+   137.164.11.22   2152    22.988              (Berkeley, California, US, NA) emvl1-agg-01--oak-agg8--400g--01.cenic.net                                                          
+   137.164.11.89   3292    24.825                      (Tri-City, OR, US, NA) dc-tri-agg2--oak-agg8-300g.cenic.net                                                                
+   137.164.46.7    2152    29.524                      (Tri-City, OR, US, NA) cor-agg8--tri-agg2--100ge.cenic.net                                                                 
+   137.164.50.243  2152    31.558                        (Corona, CA, US, NA) sha-coe-1--cor-agg8-10g.cenic.net                                                                   
+   137.164.34.84   2152    30.769                       (Shafter, CA, US, NA) sha-coe-2---to--sha-coe-1--10ge.cenic.net                                                           
+   137.164.13.11   23483   31.024                       (Shafter, CA, US, NA) shacoe-gw2--sha-coe-2-10g.cenic.net                                                                 
+   66.244.16.33    23483   30.646               (Redding, California, US, NA) us-rdd-as23483.anchors.atlas.ripe.net                                                               

@@ -1,0 +1,15 @@
+   194.187.172.112 35574   0.0                          (Rome, Lazio, IT, EU)                                                                                                     
+╭─ 194.187.172.101 35574   0.372                        (Rome, Lazio, IT, EU)                                                                                                     
+T (35574, 20473)  
+├  10.90.13.131    *       9.302                                          ***                                                                                                     
+╰─ 80.81.196.21    20473   18.288            (Frankfurt am Main, 5, DE, None) decix.fkt.vultr.com                                                                                 
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   192.248.181.85  20473   18.665          (Frankfurt am Main, Hesse, DE, EU) 192.248.181.85.vultrusercontent.com                                                                 
+╭─ 95.179.250.19   20473   18.846          (Frankfurt am Main, Hesse, DE, EU) router01-vul-fra.as151332.net                                                                       
+LHL (20473)  seamewe-4 ✓ || seamewe-3 ✓ || seamewe-5 ✓
+├─ 45.77.39.153    20473   337.325             (Singapore, Singapore, SG, AS) router01-vul-sin.as151332.net                                                                       
+S (20473, 7545)  australia-singapore-cable-asc ✓ || indigo-west ✓ || seamewe-3 ✓
+╰─ 203.192.83.254  7545    382.961              (Melbourne, Victoria, AU, OC) ip-254-83-192-203.static.pipenetworks.com                                                           
+   103.179.37.157  151332  382.516              (Melbourne, Victoria, AU, OC)                                                                                                     

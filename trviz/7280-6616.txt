@@ -1,0 +1,17 @@
+   94.77.252.90    47794   0.0                (Riyadh, Riyadh Region, SA, AS) 94-77-252-90.static.go.com.sa                                                                       
+   94.77.252.89    47794   0.572              (Riyadh, Riyadh Region, SA, AS) 94-77-252-89.static.go.com.sa                                                                       
+╭─ 94.77.210.69    47794   0.504                          (Jeddah, 2, SA, AS) *                                                                                                   
+S&T (47794, )  falcon ✘ || tata-tgn-gulf ✘ || gulf-bridge-international-cable-system-gbicsmiddle-east-north-africa-mena-cable-system ✘
+├─ 185.1.8.63      *       13.388                      (Dubai, Dubai, AE, AS) ipv4.uaeix-dubai.core1.dxb1.he.net                                                                  
+S (, 6939)  asia-africa-europe-1-aae-1 ✘ || imewe ✘ || seamewe-4 ✘
+╰─ 184.104.193.102 6939    101.637   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) port-channel1.core3.mrs1.he.net                                                                     
+╭─ 184.105.80.133  6939    101.83                    (Marseille, PAC, FR, EU) 100ge15-2.core1.mrs1.he.net                                                                         
+T (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.105.65.134  6939    121.297                        (Sofia, 23, BG, EU) 100ge10-1.core1.sof1.he.net                                                                         
+T (6939)  
+╰─ 184.105.64.170  6939    131.273                       (Athens, A1, GR, EU) 100ge0-36.core1.ath1.he.net                                                                         
+   184.104.191.234 6939    130.998                   (Koropí, Attica, GR, EU) fast-telecom-p-c.e0-7.core1.ath1.he.net                                                             
+   ***             *       -inf                                           *** *                                                                                                   
+   185.14.96.225   211186  137.612            (Lamía, Central Greece, GR, EU) vlan4090.lamia.fast.net.gr                                                                          
+   185.14.96.232   211186  136.846            (Lamía, Central Greece, GR, EU)                                                                                                     

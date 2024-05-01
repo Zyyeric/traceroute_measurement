@@ -1,0 +1,32 @@
+   150.164.1.222   271354  0.0         (Belo Horizonte, Minas Gerais, BR, SA) ripeatlas-anchor.dcc.ufmg.br                                                                        
+   150.164.1.193   271354  0.529       (Belo Horizonte, Minas Gerais, BR, SA) chronos-labexternos.dcc.ufmg.br                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   150.164.164.132 271354  1.12        (Belo Horizonte, Minas Gerais, BR, SA)                                                                                                     
+   150.164.164.42  271354  1.205       (Belo Horizonte, Minas Gerais, BR, SA)                                                                                                     
+   200.19.158.0    1916    1.006       (Belo Horizonte, Minas Gerais, BR, SA) ufmg-20g-1-gw.pop-mg.rnp.br                                                                         
+   200.131.0.142   1916    1.042       (Belo Horizonte, Minas Gerais, BR, SA) ptp-almeirao-tropeiro.pop-mg.rnp.br                                                                 
+   200.143.255.173 1916    1.155       (Belo Horizonte, Minas Gerais, BR, SA) cmg2-lanmg2.bkb.rnp.br                                                                              
+   170.79.213.165  *       10.654      (Belo Horizonte, Minas Gerais, BR, SA) crj2-cmg2-wirelink.bkb.rnp.br                                                                       
+   200.143.252.234 1916    10.869              (São Paulo, São Paulo, BR, SA) crj1-crj2.bkb.rnp.br                                                                                
+╭─ 45.6.54.38      6939    11.528                (Rio de Janeiro, RJ, BR, SA) as6939.riodejaneiro.rj.ix.br                                                                        
+S (6939)  south-america-1-sam-1 ✓ || monet ✓ || seabras-1 ✓ || brusa ✓ || america-movil-submarine-cable-system-1-amx-1 ✓ || globenet ©
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.188.78  6939    171.521          (New York City, New York, US, NA) 100ge0-40.core2.nyc5.he.net                                                                         
+S (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.64.5    6939    209.91                   (London, England, GB, EU) port-channel4.core1.lon3.he.net                                                                     
+╭─ 184.104.205.253 6939    235.312                  (London, England, GB, EU) mtn-globalconnect-solutions-ltd.port-channel7.core1.lon3.he.net                                     
+T (6939, 16637)  
+╰─ 41.181.189.65   16637   211.098                     (Pretoria, GP, ZA, AF) *                                                                                                   
+╭─ 41.181.190.151  16637   238.09                      (Pretoria, GP, ZA, AF) *                                                                                                   
+T (16637)  
+├─ 41.181.244.176  16637   221.453                  (London, England, GB, EU)                                                                                                     
+T (16637, 20294)  
+├─ 41.181.247.39   20294   373.206                       (None, None, ZA, AF) *                                                                                                   
+LHL (20294)  
+╰─ 212.88.110.34   20294   373.902          (Kampala, Central Region, UG, AF)                                                                                                     
+   129.205.30.76   37063   359.964                       (Kampala, C, UG, AF) *                                                                                                   
+   41.191.77.206   328998  366.104                       (Kampala, C, UG, AF) *                                                                                                   
+   196.49.15.189   328998  376.021          (Kampala, Central Region, UG, AF)                                                                                                     

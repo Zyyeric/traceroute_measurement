@@ -1,0 +1,30 @@
+   185.14.96.232   211186  0.0                (Lamía, Central Greece, GR, EU)                                                                                                     
+   185.14.96.225   211186  0.718              (Lamía, Central Greece, GR, EU) vlan4090.lamia.fast.net.gr                                                                          
+   212.205.28.249  6799    0.718              (Lamía, Central Greece, GR, EU) 249.28.205.212.static.otenet.gr                                                                     
+   79.128.234.128  6799    3.889                    (Maroúsi, Attica, GR, EU)                                                                                                     
+   62.75.3.17      12713   5.243             (Néa Chalkidóna, Attica, GR, EU) kolasr02-hu-0-8-0-0.ath.oteglobe.gr                                                                 
+╭─ 62.75.4.210     *       45.257                    (Athens, Attica, GR, EU)                                                                                                     
+S (, 60171)  
+╰─ 195.66.226.123  60171   52.612                     (London, ENG, GB, None) *                                                                                                   
+   185.10.164.69   60171   366.368                      (London, ENG, GB, EU) *                                                                                                   
+╭─ 185.10.164.65   60171   363.889                      (London, ENG, GB, EU) *                                                                                                   
+S&T (60171)  
+├─ 185.10.164.75   60171   364.186             (Paris, Île-de-France, FR, EU)                                                                                                     
+S&T (60171)  
+├─ 102.220.219.74  60171   364.156            (Johannesburg, Gauteng, ZA, AF)                                                                                                     
+T (60171)  
+╰─ 185.10.164.113  60171   364.219                      (London, ENG, GB, EU) *                                                                                                   
+╭─ 185.10.164.135  60171   364.18                       (London, ENG, GB, EU) *                                                                                                   
+S&T (60171)  
+├─ 185.10.164.32   60171   364.208             (Paris, Île-de-France, FR, EU)                                                                                                     
+S (60171)  
+├─ 102.223.52.73   60171   363.783                     (Lagos, Lagos, NG, AF)                                                                                                     
+S&T (60171)  
+├─ 185.10.164.45   60171   364.116                      (London, ENG, GB, EU) *                                                                                                   
+S&T (60171)  
+├─ 102.219.44.43   60171   363.729                     (Lagos, Lagos, NG, AF)                                                                                                     
+S&T (60171, 328913)  
+╰─ 196.49.84.51    328913  364.034                 (Abidjan, Abidjan, CI, AF) bdr3.std.douala-ix.net                                                                              
+╭─ 196.49.84.36    328913  364.388                 (Abidjan, Abidjan, CI, AF) gw1.std.douala-ix.net                                                                               
+S&T (328913)  
+╰─ 196.49.84.188   328913  365.31                  (Douala, Littoral, CM, AF) cm-dla-as328913.anchors.atlas.ripe.net                                                              

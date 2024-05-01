@@ -1,0 +1,16 @@
+   114.31.201.91   4826    0.0              (Sydney, New South Wales, AU, OC) 91.201.31.114.core.vocus.network                                                                    
+   114.31.201.90   4826    0.801            (Sydney, New South Wales, AU, OC) 90.201.31.114.core.vocus.network                                                                    
+   114.31.192.70   4826    92.408                       (Sydney, NSW, AU, OC) *                                                                                                   
+   103.1.77.6      *       92.941           (Sydney, New South Wales, AU, OC) be202.lsr01.brdg.nsw.vocus.network                                                                  
+   103.1.76.145    4826    93.099                        (None, None, AU, OC) be803.lsr01.stpk.wa.vocus.network                                                                   
+   103.1.77.1      4826    93.332                       (Sydney, NSW, AU, OC) be220.cor01.syd11.nsw.vocus.network                                                                 
+╭─ 114.31.206.75   4826    92.043                         (Perth, WA, AU, OC) be203.bdr02.sin01.sin.vocus.network                                                                 
+S (4826, )  
+├─ 27.111.230.169  *       93.461              (Singapore, Singapore, SG, AS)                                                                                                     
+S&T (, 136106)  
+├─ 103.87.184.83   136106  104.638                       (None, None, ID, AS) ip184-83.fiberstar.net.id                                                                           
+S&T (136106, 7632)  
+├─ 111.95.244.214  7632    111.225             (Singapore, Singapore, SG, AS) fm-dyn-111-95-244-214.fast.net.id                                                                   
+S&T (7632, 142360)  
+╰─ 103.170.24.254  142360  111.949                       (None, None, ID, AS) ipv4-254-24.170.103.as142360.net                                                                    
+   103.170.25.13   142360  112.441           (Semarang, Central Java, ID, AS) ipv4-13-25-170-103.nexa.net.id                                                                      

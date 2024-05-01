@@ -1,0 +1,22 @@
+   196.49.15.189   328998  0.0              (Kampala, Central Region, UG, AF)                                                                                                     
+   196.49.15.253   328998  0.188            (Kampala, Central Region, UG, AF)                                                                                                     
+   41.191.77.205   37063   0.556            (Kampala, Central Region, UG, AF)                                                                                                     
+   129.205.30.77   37063   0.586                         (Kampala, C, UG, AF) *                                                                                                   
+╭─ 212.88.110.33   20294   0.548 (1.925)       (Kampala, Central Region, UG, AF)                                                                                                     
+LHL (20294, 16637)  
+╰─ 41.181.247.38   16637   151.153                  (London, England, GB, EU)                                                                                                     
+╭─ 41.181.244.177  16637   150.753                  (London, England, GB, EU)                                                                                                     
+T (16637)  
+╰─ 41.181.190.150  16637   151.368                     (Pretoria, GP, ZA, AF) *                                                                                                   
+╭─ 41.181.189.64   16637   151.479                     (Pretoria, GP, ZA, AF) *                                                                                                   
+T (16637, 6453)  
+├─ 80.231.76.120   6453    150.486                  (London, England, GB, EU) ix-ae-10-0.tcore1.ldn-london.as6453.net                                                             
+S (6453)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 180.87.39.22    6453    346.946              (Mumbai, Maharashtra, IN, AS) if-ae-12-2.tcore2.mlv-mumbai.as6453.net                                                             
+S&T (6453)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 180.87.164.16   6453    340.374             (Singapore, Singapore, SG, AS) if-ae-24-2.thar1.40b-singapore.as6453.net                                                           
+   180.87.164.62   14907   327.22                        (None, None, SG, AS) *                                                                                                   
+   103.102.166.20  14907   327.964             (Singapore, Singapore, SG, AS) ripe-atlas-eqsin.wikimedia.org                                                                      

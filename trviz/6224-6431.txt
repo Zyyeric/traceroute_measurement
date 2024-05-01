@@ -1,0 +1,21 @@
+   109.171.136.4   50999   0.0                 (Jeddah, Mecca Region, SA, AS)                                                                                                     
+╭─ 109.171.136.2   50999   0.794               (Jeddah, Mecca Region, SA, AS)                                                                                                     
+S (50999, 3491)  seamewe-5 ✘ || peace-cable ✘ || seamewe-3 ✓
+├  10.126.145.5    *       0.591                                          ***                                                                                                     
+├  192.168.11.14   *       1.217                                          ***                                                                                                     
+├─ 63.218.249.165  3491    107.453             (Singapore, Singapore, SG, AS) 63-218-249-165.static.pccwglobal.net                                                                
+LHL (3491)  seamewe-5 ✓ || seamewe-4 ✓ || peace-cable ✘ || seamewe-3 👍
+╰─ 63.223.51.98    3491    360.707                    (Amsterdam, NH, NL, EU) bundle-ether43.br01.ams02.pccwbtn.net                                                               
+╭─ 63.223.51.98    3491    360.707                    (Amsterdam, NH, NL, EU) bundle-ether43.br01.ams02.pccwbtn.net                                                               
+T (3491, 30844)  
+├─ 80.249.211.45   30844   289.344                  (Marseille, None, FR, EU) ams-ix.teng0-1-0-6.lfr-pe1-mrs.liquidtelecom.net                                                    
+S&T (30844)  
+├─ 5.11.12.31      30844   398.414                  (London, England, GB, EU) et-0-0-0.0.lfr-pe2-mrs.liquidtelecom.net                                                            
+LHL (30844)  
+╰─ 41.175.212.3    30844   398.616                       (None, None, MU, AF) *                                                                                                   
+╭─ 197.155.94.1    30844   398.091                       (None, None, MU, AF) xe-0-0-3-LTZ-P1-DAR.liquidtelecom.net                                                               
+LHL (30844)  
+├─ 197.155.94.195  30844   398.259                      (Nairobi, 30, KE, AF) xe-0-0-4.ltz-pe1-rah.liquidtelecom.net                                                              
+S&T (30844)  
+╰─ 41.175.46.58    30844   399.362                       (None, None, TZ, AF) *                                                                                                   
+   196.49.5.98     327844  399.71    (Dar es Salaam, Dar es Salaam Region, TZ, AF)                                                                                                     

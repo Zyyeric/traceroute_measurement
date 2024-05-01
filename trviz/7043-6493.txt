@@ -1,0 +1,11 @@
+   206.108.17.63   852     0.0          (Vancouver, British Columbia, CA, NA) host63.17.108.206.in-addr.arpa                                                                      
+   206.108.17.62   852     0.646        (Vancouver, British Columbia, CA, NA) host62.17.108.206.in-addr.arpa                                                                      
+   154.11.2.252    852     0.57         (Vancouver, British Columbia, CA, NA) leaf1.montreal.psi.net                                                                              
+╭─ 154.11.6.235    852     1.132        (Vancouver, British Columbia, CA, NA)                                                                                                     
+LHL (852, 6939)  
+├─ 184.104.195.13  6939    1.186              (Frankfurt am Main, HE, DE, EU) 100ge4-2.core1.fra1.he.net                                                                          
+LHL (6939, 852)  
+├─ 154.11.15.10    852     4.638        (Vancouver, British Columbia, CA, NA) gtd-htrv-r1.bb.telus.com                                                                            
+S&T (852, 395823)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 205.201.63.22   395823  4.034                (Seattle, Washington, US, NA) us-sea-as395823.anchors.atlas.ripe.net                                                              

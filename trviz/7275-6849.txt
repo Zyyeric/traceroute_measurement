@@ -1,0 +1,17 @@
+   203.119.111.139 4608    0.0                 (Brisbane, Queensland, AU, OC) anchor.apnic.net                                                                                    
+   203.119.111.131 4608    0.746               (Brisbane, Queensland, AU, OC) vl-1705.nxcs2.hosted.au.apnic.net                                                                   
+   203.119.104.29  4608    0.581                      (Brisbane, QLD, AU, OC) te-0-1-5.nxgw2.bne.apnic.net                                                                        
+   203.119.104.81  4608    0.577                   (Hope Island, QLD, AU, OC) po-11-921.nxgw1.bne.apnic.net                                                                       
+   184.104.197.182 6939    14.46                      (Brisbane, QLD, AU, OC) port-channel1.core1.bne1.he.net                                                                     
+╭─ 64.71.180.153   6939    16.506                       (Sydney, NSW, AU, OC) e0-9.core2.syd1.he.net                                                                              
+S (6939)  hawaiki ✘ || southern-cross-cable-network-sccn ✓ || telstra-endeavour ✓
+├─ 72.52.92.113    6939    107.787                     (New York, NY, US, NA) 100ge11-2.core1.nyc4.he.net                                                                         
+S (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 74.82.49.214    6939    105.144             (Singapore, Singapore, SG, AS) pt-jala-lintas-media.e0-3.switch5.sin1.he.net                                                       
+S&T (6939, 133840)  
+╰─ 103.66.70.104   133840  116.432                 (Jakarta, Jakarta, ID, AS)                                                                                                     
+   121.100.0.45    38158   117.287                 (Jakarta, Jakarta, ID, AS)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   180.211.88.22   45725   116.937                 (Jakarta, Jakarta, ID, AS) id-jkt-as45725.anchors.atlas.ripe.net                                                               

@@ -1,0 +1,16 @@
+   193.1.201.140   1213    0.0                   (Tallaght, Leinster, IE, EU) atlas-anchor.heanet.ie                                                                              
+   193.1.201.138   1213    0.317                   (Dublin, Leinster, IE, EU) pw-spine1-vlan11.services.hea.net                                                                   
+   87.44.56.177    1213    0.541                        (Dublin, L, IE, None) ae3.core1-pw.nn.hea.net                                                                             
+   87.44.53.59     1213    0.972              (Blessington, Leinster, IE, EU) ae4-0.core1-cwt.nn.hea.net                                                                          
+   149.14.149.233  174     1.345                   (Donard, Leinster, IE, EU) hu0-1-0-3.nr51.b020478-0.dub02.atlas.cogentco.com                                                   
+   154.25.16.169   174     1.433                   (Carlow, Leinster, IE, EU) be4102.rcr21.dub02.atlas.cogentco.com                                                               
+╭─ 154.54.57.141   174     2.12                           (Dublin, D, IE, EU) be2743.rcr21.dub01.atlas.cogentco.com                                                               
+S&T (174)  geo-eirgrid ✘ || rockabill ✘ || esat-2 ✘ || sirius-south ✘ || exa-north-and-south © || havhingstenceltixconnect-2-cc-2 © || exa-express © || pan-european-crossing-uk-ireland ✓ || esat-1 ✘ || solas ©
+├─ 154.54.62.17    174     10.38                        (London, ENG, GB, EU) be2653.ccr52.lhr01.atlas.cogentco.com                                                               
+S (174)  exa-north-and-south © || atlantic-crossing-1-ac-1 ✓ || flag-atlantic-1-fa-1 © || apollo © || yellow ✓ || tata-tgn-atlantic ✓
+╰─ 154.54.47.145   174     72.967                        (Boston, MA, US, NA) be2120.ccr32.bos01.atlas.cogentco.com                                                               
+   154.54.87.102   174     72.967                        (Boston, MA, US, NA) be3663.agr21.bos01.atlas.cogentco.com                                                               
+   38.140.158.2    10961   72.506                     (Cambridge, MA, US, NA) *                                                                                                   
+   192.5.208.239   10961   75.762                        (None, None, US, NA) cumm111-tunnel-gw01-po1927-cumm111-bdr-gw05-po1927.bu.edu                                           
+   128.197.255.155 111     83.953             (Boston, Massachusetts, US, NA)                                                                                                     
+   204.8.154.50    10961   84.375             (Boston, Massachusetts, US, NA) cs-atlas.bu.edu                                                                                     

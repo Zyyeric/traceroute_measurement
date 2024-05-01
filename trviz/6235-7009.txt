@@ -1,0 +1,13 @@
+   45.94.14.204    208520  0.0                (Riyadh, Riyadh Region, SA, AS)                                                                                                     
+   45.94.14.193    208520  0.307              (Riyadh, Riyadh Region, SA, AS)                                                                                                     
+╭─ 212.138.250.7   8895    0.65               (Riyadh, Riyadh Region, SA, AS)                                                                                                     
+S (8895, 3257)  europe-india-gateway-eig ✓ || seamewe-3 ✓ || flag-europe-asia-fea ✘
+├─ 154.14.64.197   3257    92.597                   (London, England, GB, EU) et-0-0-8-2.cr11-lon1.ip4.gtt.net                                                                    
+LHL (3257)  flag-europe-asia-fea ✘ || seamewe-3 ✓
+├─ 89.149.184.149  3257    119.629                     (Bucharest, B, RO, EU) et-0-0-17.lr1-buc1.ip4.gtt.net                                                                      
+LHL (3257, 5394)  exa-north-and-south ✘ || atlantic-crossing-1-ac-1 ✓ || flag-atlantic-1-fa-1 ✘ || apollo ✓ || yellow ✓ || tata-tgn-atlantic ✓
+├─ 213.200.68.210  5394    120.429                       (None, None, US, NA) unidata-gw.ip4.tinet.net                                                                            
+LHL (5394)  
+╰─ 194.183.16.217  5394    121.976                      (Rome, Lazio, IT, EU) 194-183-16-217.uni.it                                                                               
+   213.254.31.98   24796   120.441                        (Turin, 21, IT, EU) namex-gw.customer.itgate.net                                                                        
+   193.201.40.210  24796   120.717                      (Rome, Lazio, IT, EU) it-rom-as24796.anchors.atlas.ripe.net                                                               

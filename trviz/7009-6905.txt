@@ -1,0 +1,18 @@
+   103.253.132.25  59238   0.0                     (Bangkok, Bangkok, TH, AS) th-bkk-as59238.anchors.atlas.ripe.net                                                               
+   103.253.132.1   59238   0.296                (Khlong San, Bangkok, TH, AS) gw-cat.idc.inox.co.th                                                                               
+   172.24.132.102  *       0.273                                          ***                                                                                                     
+   172.24.132.24   *       0.188                                          ***                                                                                                     
+   172.21.21.2     *       0.318                                          ***                                                                                                     
+╭─ 122.155.224.73  4651    0.293 (1.869)           (Khlong San, Bangkok, TH, AS)                                                                                                     
+S (4651)  asia-america-gateway-aag-cable-system ✓ || asia-africa-europe-1-aae-1 ✓ || flag-europe-asia-fea ✘
+╰─ 61.19.9.122     4651    42.058                   (Hong Kong, None, HK, AS) *                                                                                                   
+   63.216.142.73   3491    41.992                   (Hong Kong, None, HK, AS) te0-6-0-5.br03.hkg15.pccwbtn.net                                                                    
+   63.218.126.38   3491    42.446              (Hong Kong, Hong Kong, HK, AS) hu0-0-0-17.br06.hkg12.as3491.net                                                                    
+╭─ 67.220.128.205  3257    42.239              (Tsuen Wan, Tsuen Wan, HK, AS) ae39.cr0-hkg2.ip4.gtt.net                                                                           
+S (3257)  seamewe-3 ✓ || flag-europe-asia-fea ✘
+├─ 89.149.187.109  3257    271.88                       (London, ENG, GB, EU) ae15.cr11-lon1.ip4.gtt.net                                                                          
+S&T (3257, 8895)  circe-north ✓ || ulysses-2 ✘ || scylla © || zeus ✓ || atlantic-crossing-1-ac-1 ✓ || concerto ✘ || farland-north ✘
+├─ 154.14.64.198   8895    334.798                    (Amsterdam, NH, NL, EU) ip4.gtt.net                                                                                         
+LHL (8895, )  falcon ✘ || tata-tgn-gulf ✓ || gulf-bridge-international-cable-system-gbicsmiddle-east-north-africa-mena-cable-system ✘
+╰─ 45.94.12.1      *       362.897            (Riyadh, Riyadh Region, SA, AS)                                                                                                     
+   45.94.14.204    208520  344.285            (Riyadh, Riyadh Region, SA, AS)                                                                                                     

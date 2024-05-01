@@ -1,0 +1,13 @@
+   171.67.70.16    32      0.0                 (Stanford, California, US, NA) us-pao-as32.anchors.atlas.ripe.net                                                                  
+   171.67.70.1     32      0.761               (Stanford, California, US, NA) sw-tor-01.esrg.stanford.edu                                                                         
+   10.214.4.253    *       0.831                                          ***                                                                                                     
+   171.66.0.209    32      0.897               (Stanford, California, US, NA)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 184.105.81.81   6939    1.486               (San Jose, California, US, NA) port-channel12.core4.sjc2.he.net                                                                    
+S (6939, )  faster ✓ || japan-u-s-cable-network-jus ✓ || pacific-crossing-1-pc-1 ✘ || jupiter ✓ || tata-tgn-pacific ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 203.190.230.227 *       109.139             (Motoyoyogichō, Tokyo, JP, AS)                                                                                                     
+   103.48.31.51    59105   109.183             (Motoyoyogichō, Tokyo, JP, AS) ge-2-1-8.pop03er03.bb.homenoc.ad.jp                                                                 
+   103.41.60.172   10010   114.14                      (Tokyo, Tokyo, JP, AS) koba-bgprt2.tokyo-ix.v4.open.ad.jp                                                                  
+   103.143.136.30  63781   111.347             (Motoyoyogichō, Tokyo, JP, AS) ospfrt1-bgprt2.kobayashi.ad.jp                                                                      
+   103.143.136.43  63781   114.07                      (Tokyo, Tokyo, JP, AS) koba-103-143-136-43.rev.kobayashi.ad.jp                                                             

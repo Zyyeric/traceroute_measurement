@@ -1,0 +1,13 @@
+   193.50.97.164   2200    0.0                   (Plouzané, Brittany, FR, EU) anchor.netlab.enstb.org                                                                             
+   ***             *       -inf                                           *** *                                                                                                   
+   192.108.116.201 50897   0.963                 (Plouzané, Brittany, FR, EU) asr-vlan39.enst-bretagne.fr                                                                         
+   193.51.188.10   2200    6.821             (Saint-Brieuc, Brittany, FR, EU) vl807-pc1-brest1-rtr-021.noc.renater.fr                                                             
+   193.51.177.174  2200    12.757              (Paris, Île-de-France, FR, EU) et-5-2-1-ren-nr-paris1-rtr-131.noc.renater.fr                                                       
+╭─ 77.67.123.205   3257    12.469                        (Paris, IDF, FR, EU) ae7-81.cr4-par7.ip4.gtt.net                                                                         
+T (3257)  
+├─ 89.149.136.133  3257    21.535             (Frankfurt am Main, HE, DE, EU) et-10-0-2.cr8-fra2.ip4.gtt.net                                                                      
+T (3257, 25003)  
+├─ 46.33.95.118    25003   21.884                     (Rotterdam, ZH, NL, EU) ib-gw.ip4.gtt.net                                                                                   
+LHL (25003)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 94.188.255.2    25003   72.608               (Bnei Brak, Tel Aviv, IL, AS) 255.188.94-binat-smaug.in-addr.arpa                                                                 

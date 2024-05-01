@@ -1,0 +1,15 @@
+   103.15.246.16   58717   0.0                         (Dhaka, Dhaka, BD, AS)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   172.16.203.70   *       0.991                                          ***                                                                                                     
+   157.119.185.211 58717   1.145                           (Dhaka, C, BD, AS) *                                                                                                   
+╭─ 103.199.87.12   58717   1.595                         (None, None, BD, AS) *                                                                                                   
+S (58717)  seamewe-5 ✓ || seamewe-4 ✓
+╰─ 157.119.185.76  58717   45.263              (Singapore, Singapore, SG, AS) 157.119.185.76.summitiig.net                                                                        
+   103.16.102.146  6939    46.146                    (Singapore, 1, SG, None) argon.sgix.sg                                                                                       
+   10.79.3.46      *       46.641                                         ***                                                                                                     
+   10.79.2.66      *       45.677                                         ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 45.77.39.153    20473   46.321              (Singapore, Singapore, SG, AS) router01-vul-sin.as151332.net                                                                       
+S (20473, 7545)  australia-singapore-cable-asc ✓ || indigo-west ✓ || seamewe-3 ✓
+╰─ 203.192.83.254  7545    130.028              (Melbourne, Victoria, AU, OC) ip-254-83-192-203.static.pipenetworks.com                                                           
+   103.179.37.157  151332  130.581              (Melbourne, Victoria, AU, OC)                                                                                                     

@@ -1,0 +1,18 @@
+   86.38.3.141     15419   0.0                       (Kaunas, Kaunas, LT, EU) 141.3.38.86.static.telecentras.lt                                                                   
+   86.38.3.142     15419   0.673                   (Vilnius, Vilnius, LT, EU) 142.3.38.86.static.telecentras.lt                                                                   
+   10.0.0.97       *       0.726                                          ***                                                                                                     
+   10.0.0.213      *       0.787                                          ***                                                                                                     
+   10.0.0.198      *       0.751                                          ***                                                                                                     
+   213.197.128.101 15440   1.41                    (Vilnius, Vilnius, LT, EU) sql1.data.lt                                                                                        
+   213.197.128.21  15440   0.986                   (Vilnius, Vilnius, LT, EU)                                                                                                     
+╭─ 80.77.167.184   28917   1.198                   (Vilnius, Vilnius, LT, EU) vilnius-sk-b1-ae1-vlan3607.fiord.net                                                                
+LHL (28917)  nordbalt ✘ ↠ baltica ✓ || bcs-east-west-interlink ✘ ↠ baltica ✓
+╰─ 62.140.239.53   28917   23.931          (Frankfurt am Main, Hesse, DE, EU) frankfurt-nt-b1-ae1-vlan3699.fiord.net                                                              
+╭─ 80.81.194.121   2119    22.904            (Frankfurt am Main, 5, DE, None) Ti9006b400.ti.telenor.net                                                                           
+T (2119)  
+╰─ 146.172.105.82  2119    31.853                        (None, None, NO, EU) ti3003c400-ae14-0.ti.telenor.net                                                                    
+╭─ 146.172.98.45   2119    31.552                        (None, None, NO, EU) ti3163c360-ae2-0.ti.telenor.net                                                                     
+T (2119, 197564)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 62.119.32.90    197564  32.291                     (Stockholm, AB, SE, EU) *                                                                                                   
+   213.108.25.10   197564  31.75                    (Täby, Stockholm, SE, EU) ripe-atlas2.iis.se                                                                                  

@@ -1,0 +1,14 @@
+   103.170.154.254 142594  0.0                      (London, England, GB, EU) 254.154.170.103.speedyvps.uk                                                                        
+╭─ 103.170.154.1   142594  0.139                    (London, England, GB, EU)                                                                                                     
+T (142594, 60068)  
+├─ 156.146.32.92   60068   0.306                     (Prague, Prague, CZ, EU) unn-156-146-32-92.cdn77.com                                                                         
+T (60068, 201011)  
+╰─ 81.95.9.56      201011  0.334                  (Shadwell, England, GB, EU) ae22-407.lon10.core-backbone.com                                                                    
+╭─ 195.66.225.212  47787   0.766                      (London, ENG, GB, None) *                                                                                                   
+S&T (47787)  seamewe-3 ✓ || tata-tgn-western-europe ✘
+├─ 185.112.251.25  47787   23.559                    (Madrid, Madrid, ES, EU) er1.mad2.edgoo.net                                                                                  
+S&T (47787)  seamewe-3 ✓
+╰─ 193.163.151.209 47787   32.048                        (Lisbon, 11, PT, EU) cr1.lis1.edgoo.net                                                                                  
+   193.109.188.7   47787   31.864                    (Lisbon, Lisbon, PT, EU)                                                                                                     
+   185.222.11.4    62416   45.048                    (Lisbon, Lisbon, PT, EU) core.bfsw1.lis1.ptservidor.net                                                                      
+   185.32.189.249  62416   32.193                  (Odivelas, Lisbon, PT, EU) pt-lis-as62416.anchors.atlas.ripe.net                                                               

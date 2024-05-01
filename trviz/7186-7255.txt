@@ -1,0 +1,20 @@
+   103.179.37.157  151332  0.0                  (Melbourne, Victoria, AU, OC)                                                                                                     
+   103.179.37.156  151332  0.456                (Melbourne, Victoria, AU, OC)                                                                                                     
+   203.192.83.253  7545    1.355                (Melbourne, Victoria, AU, OC) ip-253-83-192-203.static.pipenetworks.com                                                           
+   203.220.216.69  9942    1.205 (5.345)           (Melbourne, Victoria, AU, OC) au-vi-1015-ipg-221-bundle-ether28.tpgi.com.au                                                       
+   27.32.160.66    7545    11.515                       (Sydney, NSW, AU, OC) 27-32-160-66.static.tpgi.com.au                                                                     
+   203.26.22.121   7545    11.391                       (Sydney, NSW, AU, OC) 203-26-22-121.static.tpgi.com.au                                                                    
+╭─ 203.29.134.4    7545    12.669                       (Sydney, NSW, AU, OC) syd-apt-ros-int2-be100.tpgi.com.au                                                                  
+S (7545, 174)  hawaiki ✘ || southern-cross-cable-network-sccn ✓ || southern-cross-next ✓
+╰─ 38.32.115.105   174     157.231                     (San Jose, CA, US, NA) hu0-4-0-0.rcr21.b001848-1.sjc01.atlas.cogentco.com                                                  
+   154.54.3.137    174     157.876                     (San Jose, CA, US, NA) be2095.ccr22.sjc01.atlas.cogentco.com                                                               
+   154.54.5.102    174     158.337                     (San Jose, CA, US, NA) be3144.ccr41.sjc03.atlas.cogentco.com                                                               
+   63.217.21.97    3491    159.83                   (San Joaquin, CA, US, NA) te0-3-0-4.128.br04.sjo01.pccwbtn.net                                                                
+   63.218.218.74   3491    225.431                (Ashburn, Virginia, US, NA) bundle-ether41.br04.ash02.as3491.net                                                                
+╭─ 63.222.112.207  3491    225.169                 (Reston, Virginia, US, NA)                                                                                                     
+S (3491, 13238)  atlantic-crossing-1-ac-1 ✓
+├─ 87.250.239.18   13238   349.267         (Amsterdam, North Holland, NL, EU) ams1-b1-fti4.yndx.net                                                                               
+LHL (13238)  seamewe-4 ✓ || seamewe-3 ✓ || seamewe-5 ✘
+╰─ 93.158.160.15   13238   479.826             (Singapore, Singapore, SG, AS) sin-b1-fti0.yndx.net                                                                                
+   ***             *       -inf                                           *** *                                                                                                   
+   45.87.135.252   208398  475.149             (Singapore, Singapore, SG, AS)                                                                                                     

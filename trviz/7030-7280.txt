@@ -1,0 +1,26 @@
+   185.14.96.232   211186  0.0                (Lamía, Central Greece, GR, EU)                                                                                                     
+   185.14.96.225   211186  0.617              (Lamía, Central Greece, GR, EU) vlan4090.lamia.fast.net.gr                                                                          
+   212.205.28.249  6799    0.535              (Lamía, Central Greece, GR, EU) 249.28.205.212.static.otenet.gr                                                                     
+   79.128.234.128  6799    3.662                    (Maroúsi, Attica, GR, EU)                                                                                                     
+   62.75.3.17      12713   3.982             (Néa Chalkidóna, Attica, GR, EU) kolasr02-hu-0-8-0-0.ath.oteglobe.gr                                                                 
+╭─ 62.75.5.218     *       39.906                    (Athens, Attica, GR, EU)                                                                                                     
+LHL ()  mednautilus-submarine-system ✘ ↠ asia-africa-europe-1-aae-1 ✘ || mednautilus-submarine-system ✘ ↠ seamewe-3 ✘
+╰─ 80.249.214.204  *       39.889          (Amsterdam, North Holland, NL, EU)                                                                                                     
+╭─ 206.148.26.80   7578    39.964          (Amsterdam, North Holland, NL, EU)                                                                                                     
+S&T (7578)  ulysses-2 ✘ || zeus ✘ || circe-north ✘ || scylla ✘ || concerto ✘ || farland-north ✘
+╰─ 206.148.26.23   7578    45.007                   (London, England, GB, EU) e49.lon-eqxld8-bb6.globalsecurelayer.com                                                            
+╭─ 206.148.26.14   7578    44.993                   (London, England, GB, EU) e59.lon-thn-bb1.globalsecurelayer.com                                                               
+S (7578)  exa-north-and-south ✘ || atlantic-crossing-1-ac-1 ✘ || flag-atlantic-1-fa-1 ✘ || apollo ✘ || yellow ✘ || tata-tgn-atlantic ✘
+╰─ 206.148.26.7    7578    111.333          (New York City, New York, US, NA) e52.nyc-eqxny2-bb1.globalsecurelayer.com                                                            
+   206.148.25.42   7578    126.786                (Chicago, Illinois, US, NA) e3.chi-eqxch1-bb1.globalsecurelayer.com                                                             
+   206.148.25.0    7578    167.954          (Los Angeles, California, US, NA) e50.lax-csla2-bb1.globalsecurelayer.com                                                             
+   206.148.25.91   7578    167.921          (Los Angeles, California, US, NA) e49.lax-csla2-bb1.globalsecurelayer.com                                                             
+╭─ 206.148.25.84   7578    265.181          (Los Angeles, California, US, NA) e50.ty-eqxty8-bb5.globalsecurelayer.com                                                             
+S (7578)  
+╰─ 206.148.24.51   7578    265.39           (Sydney, New South Wales, AU, OC) e30.ty-eqxty8-bb1.globalsecurelayer.com                                                             
+╭─ 206.148.24.66   7578    332.014          (Sydney, New South Wales, AU, OC) e51.sg-eqxsg3-bb1.globalsecurelayer.com                                                             
+S (7578)  
+╰─ 206.148.24.27   7578    331.98              (Singapore, Singapore, SG, AS) po1.sg-eqxsg3-cr2.globalsecurelayer.com                                                             
+╭─ 206.148.24.90   7578    362.126             (Singapore, Singapore, SG, AS) e51.hk-eqxhk1-bb3.globalsecurelayer.com                                                             
+S (7578, 57695)  
+╰─ 45.11.104.146   57695   289.93              (Hong Kong, Hong Kong, HK, AS) hk-hkg-as57695.anchors.atlas.ripe.net                                                               

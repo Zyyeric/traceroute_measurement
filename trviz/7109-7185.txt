@@ -1,0 +1,13 @@
+   185.32.187.165  13238   0.0                    (Helsinki, Uusimaa, FI, EU)                                                                                                     
+╭─ 185.32.187.166  13238   1.271                  (Helsinki, Uusimaa, FI, EU)                                                                                                     
+LHL (13238)  circe-north ✘ || scylla ✘ || ulysses-2 ✘ || zeus ✘ || atlantic-crossing-1-ac-1 ✘ || concerto ✘ || farland-north ✘
+├  10.1.1.100      *       0.603                                          ***                                                                                                     
+╰─ 80.249.211.200  13238   53.943                      (Schiphol, NH, NL, EU) ams-ix-am1.yandex.net                                                                               
+╭─ 80.249.208.99   8473    55.294                     (Amsterdam, NH, NL, EU) ams-ix.ams-cr1.bahnhof.net                                                                          
+T (8473)  
+╰─ 176.10.181.174  8473    53.447                  (Gothenburg, None, SE, EU) gbg-cr3.gbg-cr4.bahnhof.net                                                                         
+   46.59.112.92    8473    53.46               (Stockholm, Stockholm, SE, EU)                                                                                                     
+   46.59.113.239   8473    53.243                     (Stockholm, AB, SE, EU) sto-cr2.sto-cr3.bahnhof.net                                                                         
+   176.10.178.43   8473    54.094                     (Stockholm, AB, SE, EU) sto-cr3.sto-pio-dr1.bahnhof.net                                                                     
+   176.10.178.215  8473    53.495                     (Stockholm, AB, SE, EU) sto-pio-dr1.pio-dr2.bahnhof.net                                                                     
+   192.42.97.210   8473    52.946              (Stockholm, Stockholm, SE, EU) se-sto-as8473.anchors.atlas.ripe.net                                                                

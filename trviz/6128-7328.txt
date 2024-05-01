@@ -1,0 +1,16 @@
+   102.212.60.247  329276  0.0              (Cape Town, Western Cape, ZA, AF) za-cpt-as329276.anchors.atlas.ripe.net                                                              
+   102.212.60.2    329276  0.188             (Rosebank, Western Cape, ZA, AF) net.lnx-solutions.com                                                                               
+╭─ 184.104.188.210 6939    113.168          (Cape Town, Western Cape, ZA, AF) 100ge0-33.core1.cpt1.he.net                                                                         
+S&T (6939)  eastern-africa-submarine-system-eassy ✓ || seacomtata-tgn-eurasia ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.105.64.13   6939    172.339                     (Mombasa, 300, KE, AF) port-channel2.core1.mba1.he.net                                                                     
+S&T (6939)  
+├─ 184.104.189.42  6939    171.211               (Djibouti, Djibouti, DJ, AF) ve1004.core2.jib1.he.net                                                                            
+S (6939)  
+╰─ 184.104.194.201 6939    248.723             (Singapore, Singapore, SG, AS) port-channel14.core3.sin1.he.net                                                                    
+╭─ 65.49.109.214   6939    278.119             (Singapore, Singapore, SG, AS) pakistan-telecommunication-co-ltd.e0-26.switch1.sin1.he.net                                         
+S (6939, 7590)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 202.125.149.58  7590    297.088                   (Rawalpindi, PB, PK, AS) Touchstone-4.rwp44d1.pie.net.pk                                                                     
+   210.56.8.180    7590    343.788                    (Islamabad, IS, PK, AS) *                                                                                                   
+   210.56.11.202   7590    297.063             (Islamabad, Islamabad, PK, AS)                                                                                                     

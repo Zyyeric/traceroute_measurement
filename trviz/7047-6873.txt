@@ -1,0 +1,19 @@
+   193.50.97.164   2200    0.0                   (Plouzané, Brittany, FR, EU) anchor.netlab.enstb.org                                                                             
+   ***             *       -inf                                           *** *                                                                                                   
+   192.108.116.201 50897   0.988                 (Plouzané, Brittany, FR, EU) asr-vlan39.enst-bretagne.fr                                                                         
+   193.51.188.10   2200    6.791             (Saint-Brieuc, Brittany, FR, EU) vl807-pc1-brest1-rtr-021.noc.renater.fr                                                             
+   193.51.177.174  2200    12.553              (Paris, Île-de-France, FR, EU) et-5-2-1-ren-nr-paris1-rtr-131.noc.renater.fr                                                       
+╭─ 83.97.89.9      20965   12.231                        (Paris, IDF, FR, EU) renater-ias-geant-gw.par.fr.geant.net                                                               
+T (20965)  
+╰─ 62.40.98.238    20965   25.808                    (Genève, Geneva, CH, EU) ae7.mx1.gen.ch.geant.net                                                                            
+╭─ 62.40.98.182    20965   28.669                      (Geneva, None, CH, EU) ae5.mx1.gen.ch.geant.net                                                                            
+T (20965, 6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.197.217 6939    31.873                       (London, ENG, GB, EU) ve958.core2.lon2.he.net                                                                             
+╭─ 216.66.88.58    15412   29.365                       (London, ENG, GB, EU) flag-as-as15412.10gigabitethernet2-2.core1.lon2.he.net                                              
+S&T (15412)  
+╰─ 85.95.26.146    15412   44.946                    (Marseille, PAC, FR, EU) ae4.0.cjr01.mrs002.flagtel.com                                                                      
+╭─ 85.95.25.93     15412   142.057                   (Marseille, PAC, FR, EU) xe-4-0-1.0.cjr01.mrs002.flagtel.com                                                                 
+S&T (15412)  
+╰─ 80.77.4.60      15412   143.88                      (Dubai, Dubai, AE, AS)                                                                                                     

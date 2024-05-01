@@ -1,0 +1,9 @@
+   213.192.184.42  6667    0.0                    (Helsinki, Uusimaa, FI, EU) ae1-0.bbr1.sto2.se.eunetip.net                                                                      
+╭─ 213.192.184.41  6667    0.0                    (Helsinki, Uusimaa, FI, EU) ae0-0.bbr1.sto4.se.eunetip.net                                                                      
+S&T (6667)  bcs-north---phase-1 ✓ || eastern-light ✘ || sweden-finland-4-sfs-4 👍 || baltic-sea-submarine-cable ✘ || botnia ✓
+╰─ 213.192.184.95  6667    0.0 (4.999)          (Stockholm, Stockholm, SE, EU)                                                                                                     
+╭─ 195.69.119.177  12578   17.998                   (Stockholm, 26, SE, None) netnod-ix-ge-b-sth-4470.lattelecom.lv                                                               
+S&T (12578, 51349)  latvia-sweden-1-lv-se-1 👍 || sweden-latvia ©
+├─ 195.122.18.250  51349   31.996                         (Riga, RIX, LV, EU) *                                                                                                   
+LHL (51349)  latvia-sweden-1-lv-se-1 ✓ ↠ sweden-estonia-ee-s-1 ✘ || latvia-sweden-1-lv-se-1 ✓ ↠ baltic-sea-submarine-cable ✘ || sweden-latvia ✘ ↠ sweden-estonia-ee-s-1 ✘ || sweden-latvia ✘ ↠ baltic-sea-submarine-cable ✘
+╰─ 195.43.87.140   51349   35.996                 (Tallinn, Harjumaa, EE, EU) rr-s-140.internet.ee                                                                                

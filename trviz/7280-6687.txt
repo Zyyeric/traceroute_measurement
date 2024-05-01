@@ -1,0 +1,19 @@
+   147.84.200.125  39069   0.0                       (Murcia, Murcia, ES, EU)                                                                                                     
+╭─ 147.84.200.11   39069   1.329                     (Murcia, Murcia, ES, EU)                                                                                                     
+T (39069, 12430)  
+├  10.250.42.181   *       13.279                                         ***                                                                                                     
+├─ 185.1.192.33    12430   12.775                        (None, None, DE, EU) de-cix.mad.vodafone.es                                                                              
+T (12430, 6939)  
+╰─ 185.1.192.47    6939    14.598                         (Madrid, M, ES, EU) ipv4.decix-madrid.core1.mad1.he.net                                                                 
+╭─ 184.105.222.166 6939    22.373                     (Barcelona, CT, ES, EU) 100ge0-54.core2.bcn1.he.net                                                                         
+S&T (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.105.80.13   6939    35.081                         (Milan, 25, IT, EU) 100ge7-2.core1.mil2.he.net                                                                          
+LHL (6939)  
+├─ 184.104.196.194 6939    54.107                        (Denver, CO, US, NA) port-channel1.core1.den3.he.net                                                                     
+LHL (6939)  
+╰─ 184.105.64.170  6939    66.425                        (Athens, A1, GR, EU) 100ge0-36.core1.ath1.he.net                                                                         
+   184.104.191.234 6939    65.388                    (Koropí, Attica, GR, EU) fast-telecom-p-c.e0-7.core1.ath1.he.net                                                             
+   ***             *       -inf                                           *** *                                                                                                   
+   185.14.96.225   211186  77.577             (Lamía, Central Greece, GR, EU) vlan4090.lamia.fast.net.gr                                                                          
+   185.14.96.232   211186  76.726             (Lamía, Central Greece, GR, EU)                                                                                                     

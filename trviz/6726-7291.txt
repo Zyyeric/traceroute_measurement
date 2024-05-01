@@ -1,0 +1,17 @@
+   103.133.238.187 132808  0.0                 (Brisbane, Queensland, AU, OC) iptelco.com.au                                                                                      
+   103.133.238.130 132808  0.428               (Brisbane, Queensland, AU, OC) vmnet-hsrp66.bdr01-bne-br1.iptelco.net.au                                                           
+   103.17.223.161  58511   0.647               (Brisbane, Queensland, AU, OC) pe.as132808.as58511.net.223.17.103.in-addr.arpa                                                     
+   103.30.218.118  58511   203.597                       (None, None, AU, OC) et-0-0-6.cor101.ndcb1.au.as58511.net                                                                
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   103.30.216.43   58511   103.928                       (None, None, AU, OC) po10-2.bdr1.ae1.au.as58511.net                                                                      
+╭─ 103.30.218.216  *       103.935       (The Rocks, New South Wales, AU, OC) hu0-0-0-31.cor101.ndcp1.au.as58511.net                                                              
+S (, 16276)  
+├─ 103.5.15.17     16276   104.268                     (Central, HCW, HK, AS) sin-sgcs2-g2-nc5.sgp.asia                                                                           
+S (16276)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 139.99.78.22    16276   104.031             (Singapore, Singapore, SG, AS) sg-sin-as16276.anchors.atlas.ripe.net                                                               

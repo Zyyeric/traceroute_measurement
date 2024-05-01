@@ -1,0 +1,36 @@
+   163.117.253.5   766     0.0                       (Madrid, Madrid, ES, EU)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   172.17.0.53     *       1.448                                          ***                                                                                                     
+   193.145.15.49   766     1.621                    (Leganés, Madrid, ES, EU) csic-rt-ju-02-xe-4-0-6.net.redimadrid.es                                                            
+   130.206.216.1   766     2.115                     (Madrid, Madrid, ES, EU) redimadrid-backup.ethtrunk8-103.telmad.rt1.mad.red.rediris.es                                       
+   130.206.245.50  766     2.241                         (None, None, ES, EU) telmad.rt1.ae11-0.telmad.rt4.mad.red.rediris.es                                                     
+╭─ 83.97.90.20     21320   2.196                     (Madrid, Madrid, ES, EU) rediris-ias-geant-gw.mad.es.geant.net                                                               
+S&T (21320, 20965)  seamewe-3 ✓
+├─ 62.40.98.227    20965   32.298    (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) ae2.rt1.mar.fr.geant.net                                                                            
+T (20965)  
+├─ 62.40.98.236    20965   33.295                    (Genève, Geneva, CH, EU) ae4.mx1.gen.ch.geant.net                                                                            
+T (20965)  
+├─ 62.40.98.239    20965   33.725              (Paris, Île-de-France, FR, EU) ae7.mx1.par.fr.geant.net                                                                            
+S&T (20965)  africa-coast-to-europe-ace ✘ || seamewe-3 ✘
+├─ 62.40.98.106    20965   34.008                        (Lisbon, 11, PT, EU) ae0.mx2.lis.pt.geant.net                                                                            
+S&T (20965)  
+╰─ 62.40.98.64     20965   33.829                   (London, England, GB, EU) ae2.mx1.lon.uk.geant.net                                                                            
+   195.66.224.76   6461    32.258                       (London, ENG, GB, EU) ae15.mpr1.lhr15.uk.above.net                                                                        
+   94.31.33.31     6461    33.77                    (London, England, GB, EU) 94.31.33.31.idia-288174-013-zyo.zip.zayo.com                                                        
+╭─ 206.148.26.8    7578    34.011                   (Poplar, England, GB, EU) po10.lon-thn-bb1.globalsecurelayer.com                                                              
+S (7578)  
+╰─ 206.148.26.7    7578    103.082          (New York City, New York, US, NA) e52.nyc-eqxny2-bb1.globalsecurelayer.com                                                            
+   206.148.25.42   7578    115.194                (Chicago, Illinois, US, NA) e3.chi-eqxch1-bb1.globalsecurelayer.com                                                             
+╭─ 206.148.25.0    7578    163.832          (Los Angeles, California, US, NA) e50.lax-csla2-bb1.globalsecurelayer.com                                                             
+S (7578)  
+╰─ 206.148.24.2    7578    271.877          (Sydney, New South Wales, AU, OC) e1.syd-eqxsy5-bb1.globalsecurelayer.com                                                             
+   206.148.24.58   7578    282.728              (Melbourne, Victoria, AU, OC) e21.mel-eqxme1-bb1.globalsecurelayer.com                                                            
+   206.148.24.56   7578    293.091        (Adelaide, South Australia, AU, OC) e53.adl-eqxae1-bb4.globalsecurelayer.com                                                            
+╭─ 206.148.24.164  7578    319.75          (Perth, Western Australia, AU, OC)                                                                                                     
+S (7578, 137409)  
+╰─ 160.202.164.163 137409  291.222                   (Muscat, Muscat, OM, AS)                                                                                                     
+╭─ 134.0.217.213   8529    301.343                       (Muscat, MA, OM, AS) *                                                                                                   
+S&T (8529, 42473)  
+╰─ 213.202.2.1     42473   298.222                        (Dubai, DU, AE, AS) i1.2.202.213omantel.net.om                                                                          
+   37.252.245.94   42473   291.529                     (Dubai, Dubai, AE, AS)                                                                                                     

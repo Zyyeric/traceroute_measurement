@@ -1,0 +1,15 @@
+   103.153.176.122 131657  0.0                       (Taipei, Taiwan, TW, AS) 103-153-176-122.as131657.net                                                                        
+   103.153.176.254 131657  0.22                      (Taipei, Taiwan, TW, AS) 103-153-176-254.as131657.net                                                                        
+╭─ 103.51.91.5     *       0.477                     (Taipei, Taiwan, TW, AS) et-0-0-1.cr1.hd.tpe.as131657.net                                                                    
+S (, 6939)  seamewe-3 ✘ || apcn-2 ✘ || trans-pacific-express-tpe-cable-system ✘ || faster ✘ || eac-c2c ✘ || asia-pacific-gateway-apg ✘ || flag-north-asia-loopreach-north-asia-loop ✘ || new-cross-pacific-ncp-cable-system ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.199.145 6939    27.984                      (Osaka, Ōsaka, JP, AS) port-channel6.core1.osa1.he.net                                                                     
+S (6939)  tata-tgn-pacific ✓ || faster ✓ || japan-u-s-cable-network-jus ✓ || new-cross-pacific-ncp-cable-system ✓ || jupiter ✓ || trans-pacific-express-tpe-cable-system ✓ || unityeac-pacific ✓ || pacific-crossing-1-pc-1 ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.193.142 6939    152.718                     (Portland, OR, US, NA) 100ge15-2.core1.pdx1.he.net                                                                         
+   184.105.64.137  6939    159.794                      (Seattle, WA, US, NA) port-channel2.core2.sea1.he.net                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   207.229.73.34   13331   172.035                       (None, None, US, NA) irb-983.c8cc1.sea.metapeer.com                                                                      
+   204.15.11.34    13331   155.881               (SeaTac, Washington, US, NA)                                                                                                     

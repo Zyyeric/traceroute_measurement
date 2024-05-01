@@ -1,0 +1,12 @@
+   185.14.96.232   211186  0.0                (Lamía, Central Greece, GR, EU)                                                                                                     
+   185.14.96.225   211186  0.624              (Lamía, Central Greece, GR, EU) vlan4090.lamia.fast.net.gr                                                                          
+   91.218.22.254   211186  0.624 (6.247)                (Athens, Attica, GR, EU) 91.218.22.254.fast.net.gr                                                                           
+   91.218.22.255   211186  12.525                    (Athens, Attica, GR, EU) 91.218.22.255.fast.net.gr                                                                           
+   176.126.38.5    *       8.544                 (Áno Liósia, Attica, GR, EU) cloudflare.gr-ix.gr                                                                                 
+   172.68.61.58    13335   7.957                  (Ilioúpoli, Attica, GR, EU)                                                                                                     
+   172.68.61.112   13335   8.013                     (Athens, Attica, GR, EU)                                                                                                     
+╭─ 172.68.61.36    13335   8.091                     (Athens, Attica, GR, EU)                                                                                                     
+S (13335, 133800)  mednautilus-submarine-system ✓ ↠ seamewe-3 ✓
+├  172.16.18.101   *       212.06                                         ***                                                                                                     
+╰─ 137.59.127.34   133800  213.15                        (None, None, ID, AS) ip-34-127-59-137.core.biznetg.io                                                                    
+   103.77.105.3    133800  211.955                 (Jakarta, Jakarta, ID, AS) ip-3-105-77-103.jkt-1.biznetg.io                                                                    

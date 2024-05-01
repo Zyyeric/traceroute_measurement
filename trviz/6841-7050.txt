@@ -1,0 +1,29 @@
+╭─ 196.49.84.188   328913  0.0                     (Douala, Littoral, CM, AF) cm-dla-as328913.anchors.atlas.ripe.net                                                              
+S (328913)  
+╰─ 196.49.84.177   328913  0.415                   (Abidjan, Abidjan, CI, AF)                                                                                                     
+╭─ 196.49.84.34    328913  0.698                   (Abidjan, Abidjan, CI, AF) bdr2.std.douala-ix.net                                                                              
+S&T (328913, )  
+├─ 196.60.84.61    *       1.122                   (Douala, Littoral, CM, AF) as328840.member.std.douala-ix.net                                                                   
+S (, 60171)  
+├─ 102.219.44.42   60171   1.086                       (Lagos, Lagos, NG, AF)                                                                                                     
+S (60171)  
+├─ 185.10.164.44   60171   236.884             (Barcelona, Catalonia, ES, EU)                                                                                                     
+S (60171)  
+├─ 102.223.52.72   60171   237.29                      (Lagos, Lagos, NG, AF)                                                                                                     
+S (60171)  
+╰─ 185.10.164.33   60171   237.323             (Barcelona, Catalonia, ES, EU)                                                                                                     
+╭─ 185.10.164.134  60171   237.171             (Barcelona, Catalonia, ES, EU)                                                                                                     
+S&T (60171, 37542)  
+├─ 185.10.164.112  37542   240.217                      (London, ENG, GB, EU) *                                                                                                   
+S&T (37542, 60171)  
+├─ 185.10.164.98   60171   239.738             (Barcelona, Catalonia, ES, EU)                                                                                                     
+S&T (60171, 6939)  
+├─ 184.104.224.112 6939    239.953                   (Lisbon, Lisbon, PT, EU) e0-18.switch1.lis1.he.net                                                                           
+LHL (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.196.194 6939    288.189                       (Denver, CO, US, NA) port-channel1.core1.den3.he.net                                                                     
+LHL (6939)  
+╰─ 184.105.64.170  6939    299.206                       (Athens, A1, GR, EU) 100ge0-36.core1.ath1.he.net                                                                         
+   176.126.38.123  *       294.752               (Áno Liósia, Attica, GR, EU)                                                                                                     
+   195.130.66.103  199399  296.857                   (Athens, Attica, GR, EU) gr-ath-as199399.anchors.atlas.ripe.net                                                              

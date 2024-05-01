@@ -1,0 +1,19 @@
+   195.43.87.140   51349   0.0                    (Tallinn, Harjumaa, EE, EU) rr-s-140.internet.ee                                                                                
+   195.43.87.139   51349   0.412                  (Tallinn, Harjumaa, EE, EU) rr-s-139.internet.ee                                                                                
+╭─ 212.107.37.94   1257    0.759                  (Tallinn, Harjumaa, EE, EU) static-212-107-37-94.cust.tele2.ee                                                                  
+T (1257)  
+╰─ 91.129.14.219   1257    6.221                         (Riga, Riga, LV, EU) tvt-peer-1.ae2-unit0.tele2.net                                                                      
+╭─ 130.244.200.135 1257    5.871                     (Mārupe, Mārupe, LV, EU) peer-as1299.tvt.tele2.net                                                                           
+S (1257, 1299)  sweden-latvia ✘ || latvia-sweden-1-lv-se-1 👍
+├─ 62.115.139.202  1299    16.67               (Stockholm, Stockholm, SE, EU) s-bb2-link.ip.twelve99.net                                                                          
+S&T (1299)  energinet-laeso-varberg ✘ || globalconnect-2-gc2 © || kattegat-2 © || ip-only-denmark-sweden © || danica-north 👍 || scandinavian-ring-south 👍 || denmark-sweden-16 ©
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 62.115.138.113  1299    24.383        (Copenhagen, Capital Region, DK, EU) kbn-b1-link.ip.twelve99.net                                                                         
+╭─ 213.248.97.55   1299    19.159        (Copenhagen, Capital Region, DK, EU) colt-ic-379785.ip.twelve99-cust.net                                                                 
+S (1299, 8220)  
+├─ 212.36.135.70   8220    34.07                    (Kensington, ENG, GB, EU) *                                                                                                   
+S&T (8220)  
+├─ 84.16.160.150   8220    32.062        (Copenhagen, Capital Region, DK, EU)                                                                                                     
+T (8220, 29505)  
+╰─ 85.233.1.0      29505   32.044                  (Hamburg, Hamburg, DE, EU) eth49-1.rt-core-lbc-nls-01.net.glasfaser.swhl.de                                                    
+   85.233.1.54     29505   32.127        (Lübeck, Schleswig-Holstein, DE, EU) de-lbc-as29505.anchors.atlas.ripe.net                                                               

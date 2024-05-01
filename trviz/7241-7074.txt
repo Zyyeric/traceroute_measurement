@@ -1,0 +1,19 @@
+   103.143.136.43  63781   0.0                         (Tokyo, Tokyo, JP, AS) koba-103-143-136-43.rev.kobayashi.ad.jp                                                             
+   103.143.136.62  63781   1.688                       (Tokyo, Tokyo, JP, AS) koba-103-143-136-62.rev.kobayashi.ad.jp                                                             
+   103.143.136.29  63781   0.521                       (Tokyo, Tokyo, JP, AS) bgprt2-ospfrt1.kobayashi.ad.jp                                                                      
+   103.143.136.17  63781   0.525                       (Tokyo, Tokyo, JP, AS) koba-103-143-136-17.rev.kobayashi.ad.jp                                                             
+   103.41.60.164   10010   0.38                        (Tokyo, Tokyo, JP, AS) bgp3.tokyo-ix.v4.open.ad.jp                                                                         
+   150.99.184.33   2907    2.045                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+   150.99.10.187   2907    1.962                         (None, None, JP, AS) *                                                                                                   
+╭─ 210.173.176.96  32261   2.188                        (Tokyo, 40, JP, None) *                                                                                                   
+S (32261, 15412)  
+├─ 85.95.26.113    15412   51.056                        (None, None, GB, EU) ae6.0.pjr03.wad001.flagtel.com                                                                      
+S (15412)  
+╰─ 62.216.128.97   15412   51.535                   (Hong Kong, None, HK, AS) ae7.0.pjr03.hkg005.flagtel.com                                                                      
+   62.216.128.86   15412   50.187                   (Hong Kong, None, HK, AS) ae7.0.cji02.hkg003.flagtel.com                                                                      
+╭─ 85.95.25.198    15412   51.12                    (Hong Kong, None, HK, AS) ae1.0.pjr01.hkg010.flagtel.com                                                                      
+S (15412, 23944)  
+├─ 80.81.75.154    23944   64.212                        (None, None, GB, EU) *                                                                                                   
+S (23944)  
+╰─ 130.105.0.33    23944   64.049                    (Quezon City, 0, PH, AS) *                                                                                                   
+   182.18.209.9    23944   63.517              (Manila, Metro Manila, PH, AS)                                                                                                     

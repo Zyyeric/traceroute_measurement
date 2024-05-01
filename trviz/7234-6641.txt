@@ -1,0 +1,16 @@
+   92.38.135.131   202422  0.0                         (Seoul, Seoul, KR, AS)                                                                                                     
+   92.38.135.2     202422  0.558                       (Seoul, Seoul, KR, AS) vrrp.gcore.lu                                                                                       
+   10.255.17.210   *       0.448                                          ***                                                                                                     
+   10.255.17.213   *       0.407                                          ***                                                                                                     
+   10.255.17.147   *       0.676                                          ***                                                                                                     
+╭─ 113.29.52.41    3549    0.753                       (Seoul, Seoul, KR, AS)                                                                                                     
+LHL (3549, 3356)  seamewe-3 ✘
+├─ 171.75.9.210    3356    251.897         (Amsterdam, North Holland, NL, EU) ae2.3204.edge7.ams1.neo.colt.net                                                                    
+S&T (3356, 9002)  
+├─ 213.244.164.2   9002    251.968                       (None, None, GB, EU) BR2.Amsterdam1.surf.net                                                                             
+T (9002)  
+╰─ 87.245.234.178  9002    288.997                   (Moscow, Moscow, RU, EU) ae10-117.rt.dl.msk.retn.ru                                                                          
+   87.245.193.175  57304   298.99                    (Moscow, Moscow, RU, EU)                                                                                                     
+   31.131.196.10   9049    347.256              (Tomsk, Tomsk Oblast, RU, EU) 31x131x196x10.static.ertelecom.ru                                                                   
+   31.131.196.11   9049    347.033              (Tomsk, Tomsk Oblast, RU, EU) 31x131x196x11.static.ertelecom.ru                                                                   
+   193.42.115.222  51724   347.2                (Tomsk, Tomsk Oblast, RU, EU) p7234-probes-atlas-ripe.flynet.pro                                                                  

@@ -1,0 +1,14 @@
+   182.161.74.241  55569   0.0                         (Tokyo, Tokyo, JP, AS)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   100.66.0.44     *       0.264                                          ***                                                                                                     
+   100.66.0.43     *       0.31                                           ***                                                                                                     
+   203.190.230.72  13335   1.342                 (Tokyo / Narita, 12, JP, AS) 13335.tyo.equinix.com                                                                               
+   103.22.201.21   13335   0.995                    (Hatsudai, Tokyo, JP, AS)                                                                                                     
+   172.70.121.183  13335   0.725                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+   172.70.121.136  13335   0.81                           (Tokyo, 13, JP, AS) *                                                                                                   
+╭─ 172.70.121.141  13335   0.823                          (Tokyo, 13, JP, AS) *                                                                                                   
+S (13335, 208800)  japan-information-highway-jih ✓ ↠ seamewe-3 ✓ || japan-information-highway-jih ✓ ↠ flag-europe-asia-fea ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 91.201.7.243    208800  159.182             (Abu Dhabi, Abu Dhabi, AE, AS)                                                                                                     

@@ -1,0 +1,22 @@
+   46.227.202.97   41495   0.0                  (Manchester, England, GB, EU) uk-mnc-as41495.anchors.atlas.ripe.net                                                               
+   46.227.207.255  41495   0.97                     (London, England, GB, EU) anycast.gateway.faelix.net                                                                          
+   46.227.206.41   41495   0.651                (Manchester, England, GB, EU) host-46-227-206-41.rev.as41495.net                                                                  
+   46.227.206.84   41495   0.957                (Manchester, England, GB, EU) v0100.bond0.fossey.a.faelix.net                                                                     
+   46.227.200.125  41495   1.344                (Manchester, England, GB, EU) v102.eth5.bly.w.faelix.net                                                                          
+   46.227.200.123  41495   1.074                (Manchester, England, GB, EU) v2313.eth5.aebi.m.faelix.net                                                                        
+   31.217.131.65   4455    1.382                     (Liverpool, ENG, GB, EU) *                                                                                                   
+╭─ 91.196.184.101  4455    8.295                        (London, ENG, GB, EU) ae0-3113.bb.thn.lon.as43531.net                                                                     
+S&T (4455)  seamewe-3 ✓
+├─ 91.196.184.125  4455    15.689                        (Paris, IDF, FR, EU) ae0-3803.bb.th2.par.as43531.net                                                                     
+T (4455)  
+╰─ 216.66.85.62    4455    21.037             (Frankfurt am Main, HE, DE, EU) ixreach-ltd.10gigabitethernet10-6.core1.fra1.he.net                                                 
+╭─ 216.66.85.61    6939    21.489             (Frankfurt am Main, HE, DE, EU) 10gigabitethernet10-6.core1.fra1.he.net                                                             
+LHL (6939)  apollo ✓ || flag-atlantic-1-fa-1 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 72.52.92.70     6939    21.87                       (San Jose, CA, US, NA) 10ge7-5.core1.sjc2.he.net                                                                           
+LHL (6939, 3320)  
+├─ 184.104.226.70  3320    21.611             (Frankfurt am Main, HE, DE, EU) dtag-as3320.e0-50.switch2.fra2.he.net                                                               
+LHL (3320)  apollo ✓ || flag-atlantic-1-fa-1 ✓
+╰─ 62.154.5.202    3320    106.466                     (New York, NY, US, NA) nyc-sb6-i.NYC.US.NET.DTAG.DE                                                                        
+   62.154.5.202    3320    106.466                     (New York, NY, US, NA) nyc-sb6-i.NYC.US.NET.DTAG.DE                                                                        
+   217.243.179.165 3320    104.222          (New York City, New York, US, NA)                                                                                                     

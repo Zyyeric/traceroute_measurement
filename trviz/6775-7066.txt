@@ -1,0 +1,17 @@
+   91.213.39.29    49558   0.0          (Yaroslavl, Yaroslavl Oblast, RU, EU) atlas.livecomm.net                                                                                  
+   91.213.39.1     49558   0.702        (Yaroslavl, Yaroslavl Oblast, RU, EU) pobed16b-cr-bvi10.livecomm.net                                                                      
+╭─ 91.228.64.254   49558   0.923        (Yaroslavl, Yaroslavl Oblast, RU, EU) core-as.livecomm.net                                                                                
+T (49558, 6939)  
+├─ 184.104.192.98  6939    26.053                      (Helsinki, 18, FI, EU) 100ge4-2.core1.hel1.he.net                                                                          
+LHL (6939)  exa-north-and-south ✓ || atlantic-crossing-1-ac-1 ✓ || flag-atlantic-1-fa-1 ✓ || apollo ✓ || yellow ✓ || tata-tgn-atlantic ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.188.253 6939    119.576               (Newark, New Jersey, US, NA) port-channel2.core2.ewr5.he.net                                                                     
+S&T (6939)  exa-north-and-south ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.64.102  6939    152.946                     (Winnipeg, MB, CA, NA) 100ge6-1.core1.ywg1.he.net                                                                          
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   65.19.133.197   6939    173.969      (Vancouver, British Columbia, CA, NA)                                                                                                     
+   192.30.89.87    394256  182.38       (Vancouver, British Columbia, CA, NA) ca-van-as394256.anchors.atlas.ripe.net                                                              

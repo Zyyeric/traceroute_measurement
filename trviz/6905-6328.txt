@@ -1,0 +1,16 @@
+   185.32.189.249  62416   0.0                     (Odivelas, Lisbon, PT, EU) pt-lis-as62416.anchors.atlas.ripe.net                                                               
+   185.32.188.254  62416   0.75 (12.716)           (Prior Velho, Lisbon, PT, EU) powered.by.ptservidor.pt                                                                            
+   185.222.11.3    62416   0.55                 (Prior Velho, Lisbon, PT, EU) core.br01.lis1.ptservidor.net                                                                       
+╭─ 185.1.116.23    6939    1.751                       (Lisbon, 14, PT, None) *                                                                                                   
+S&T (6939)  africa-coast-to-europe-ace ✓ || seamewe-3 ✓
+├─ 184.105.81.30   6939    36.512                    (Marseille, PAC, FR, EU) port-channel4.core2.mrs1.he.net                                                                     
+S (6939, 4651)  seamewe-5 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 74.82.46.34     4651    173.427                  (Singapore, None, SG, AS) cat-telecom-public-company-ltd.e0-38.switch1.sin1.he.net                                            
+S&T (4651)  asia-america-gateway-aag-cable-system ✓ || seamewe-4 ✓ || seamewe-3 ✓
+╰─ 61.19.9.133     4651    209.369                       (None, None, TH, AS) *                                                                                                   
+   61.19.7.2       4651    212.625                       (None, None, TH, AS) *                                                                                                   
+   122.155.224.74  135063  210.519                       (None, None, TH, AS) *                                                                                                   
+   172.21.21.5     *       211.685                                        ***                                                                                                     
+   172.24.132.102  *       211.401                                        ***                                                                                                     
+   103.253.132.25  59238   231.007                 (Bangkok, Bangkok, TH, AS) th-bkk-as59238.anchors.atlas.ripe.net                                                               

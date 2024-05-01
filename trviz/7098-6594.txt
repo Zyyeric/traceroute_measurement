@@ -1,0 +1,16 @@
+   128.0.113.132   199610  0.0                 (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 128.0.113.129   199610  0.691               (Singapore, Singapore, SG, AS)                                                                                                     
+S (199610, 4826)  
+├─ 27.111.228.74   4826    1.537                     (Seogwipo, None, KR, AS) 4826.sgw.equinix.com                                                                                
+S (4826)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 103.1.77.0      4826    118.296                       (None, None, AU, OC) be200.lsr01.brdg.nsw.vocus.network                                                                  
+╭─ 103.1.76.144    4826    118.427                       (None, None, AU, OC) be803.lsr01.brdg.nsw.vocus.network                                                                  
+S (4826)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 114.31.202.59   4826    118.986                    (Auckland, AUK, NZ, OC) be204.bdr01.akl05.akl.nz.vocus.network                                                              
+   175.45.102.234  9790    118.095                    (Auckland, AUK, NZ, OC) as9790.bdr01.akl05.akl.nz.vocus.network                                                             
+   131.203.72.166  9790    117.873               (Auckland, Auckland, NZ, OC) default-rdns.vocus.co.nz                                                                            
+   131.203.72.165  9790    118.778               (Auckland, Auckland, NZ, OC) default-rdns.vocus.co.nz                                                                            
+   103.242.68.65   133075  119.285                  (Wellington, WGN, NZ, OC) *                                                                                                   
+   103.242.68.78   133075  119.692               (Auckland, Auckland, NZ, OC) 103-242-68-78.broadband.telesmart.co.nz                                                             

@@ -1,0 +1,17 @@
+   92.38.135.131   202422  0.0                         (Seoul, Seoul, KR, AS)                                                                                                     
+   92.38.135.2     202422  0.249                       (Seoul, Seoul, KR, AS) vrrp.gcore.lu                                                                                       
+   10.255.17.210   *       0.42                                           ***                                                                                                     
+   10.255.17.213   *       0.395                                          ***                                                                                                     
+   10.255.17.147   *       0.386                                          ***                                                                                                     
+╭─ 8.244.74.25     3356    0.384 (3.317)                  (Seoul, Seoul, KR, AS)                                                                                                     
+S (3356)  apcn-2 ✓ || asia-pacific-gateway-apg ✓ || flag-north-asia-loopreach-north-asia-loop ✓ || eac-c2c © || new-cross-pacific-ncp-cable-system ✓ || korea-japan-cable-network-kjcn ✓ || seamewe-3 ✓ || flag-europe-asia-fea © || trans-pacific-express-tpe-cable-system ✓
+├─ 4.69.226.254    3356    31.136                      (Tokyo, Tokyo, JP, AS) ae1.3508.edge4.tokyo4.level3.net                                                                    
+S (3356, 58453)  
+├─ 4.68.38.226     58453   31.869                          (None, CO, US, NA) *                                                                                                   
+S (58453)  
+╰─ 223.120.2.245   58453   32.062                        (None, None, HK, AS) *                                                                                                   
+   223.120.2.97    58453   107.472                       (None, None, HK, AS) *                                                                                                   
+   223.120.3.90    58453   107.398                       (None, None, HK, AS) *                                                                                                   
+   223.119.0.93    202196  107.802                       (None, None, HK, AS) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   37.10.40.14     202196  107.327             (Hong Kong, Hong Kong, HK, AS)                                                                                                     

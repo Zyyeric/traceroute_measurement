@@ -1,0 +1,14 @@
+   5.188.238.222   202422  0.0                 (São Paulo, São Paulo, BR, SA)                                                                                                     
+╭─ 5.188.238.3     202422  0.144               (São Paulo, São Paulo, BR, SA) vrrp.gcore.lu                                                                                       
+S (202422, 6939)  
+├  10.255.22.182   *       0.115                                          ***                                                                                                     
+├  10.255.22.188   *       0.366                                          ***                                                                                                     
+╰─ 64.191.232.76   6939    0.306 (2.367)                    (None, None, US, NA) *                                                                                                   
+   184.104.198.242 6939    42.872          (Virginia Beach, Virginia, US, NA) port-channel1.core1.for1.he.net                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   216.66.15.254   23520   108.972                  (North Miami, FL, US, NA) asurnet-inc.100gigabitethernet7-1.core1.mia1.he.net                                                 
+   69.79.104.1     23520   110.703                  (North Miami, FL, US, NA) ae1.nmi-mx2020-2.north-miami.fl.usa.cwc.com                                                         
+╭─ 69.79.106.51    23520   125.967                       (None, None, US, NA) *                                                                                                   
+S (23520, 265721)  
+╰─ 200.58.244.31   265721  126.476              (Sosúa, Puerto Plata, DO, NA) sosua-100g-244-31.cableatlantico.com                                                                
+   45.65.244.254   265721  126.559              (Sosúa, Puerto Plata, DO, NA) ripeatlas-anchor.cableatlantico.com                                                                 

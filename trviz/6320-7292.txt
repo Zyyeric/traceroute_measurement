@@ -1,0 +1,12 @@
+   89.213.179.65   32167   0.0                 (Hong Kong, Hong Kong, HK, AS) 89-213-179-65.ip.lshiyusercontent.com                                                               
+   89.213.179.64   32167   0.272             (Kadoorie, Kowloon City, HK, AS) 89-213-179-64.ip.lshiyusercontent.com                                                               
+╭─ 103.203.243.10  955     0.28              (Kadoorie, Kowloon City, HK, AS) port-channe17.switch1.hkg1.bb.lshiy.net                                                             
+S (955, 6939)  apcn-2 ✘ || southeast-asia-japan-cable-sjc ✓ || seamewe-3 ✓ || eac-c2c ✘ || asia-pacific-gateway-apg ✘ || asia-submarine-cable-express-asecahaya-malaysia ✘ || asia-america-gateway-aag-cable-system ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.199.182 6939    36.006              (Singapore, Singapore, SG, AS) port-channel3.core3.sin1.he.net                                                                     
+S (6939)  seamewe-5 ✓ || peace-cable ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.81.29   6939    181.868                       (Paris, IDF, FR, EU) port-channel8.core2.par2.he.net                                                                     
+   46.231.240.1    211882  179.119             (Paris, Île-de-France, FR, EU) ftth-0-gateway.aquilenet.fr                                                                         
+   46.231.241.239  211882  189.237             (Paris, Île-de-France, FR, EU) charon1.aquilenet.fr                                                                                
+   185.233.100.99  198985  192.455     (Bordeaux, Nouvelle-Aquitaine, FR, EU) ripe-atlas.aquilenet.fr                                                                             

@@ -1,0 +1,22 @@
+   196.49.14.25    30997   0.0                 (Accra, Greater Accra, GH, AF)                                                                                                     
+   196.49.14.1     30997   0.422               (Accra, Greater Accra, GH, AF)                                                                                                     
+╭─ 197.221.70.89   *       1.024               (Accra, Greater Accra, GH, AF)                                                                                                     
+S&T (, 3741)  
+╰─ 196.14.240.4    3741    0.949                         (None, None, ZA, AF) *                                                                                                   
+╭─ 168.209.160.109 3741    255.872                       (None, None, ZA, AF) *                                                                                                   
+T (3741)  
+├─ 168.209.160.108 3741    257.025                  (London, England, GB, EU)                                                                                                     
+T (3741)  
+├─ 168.209.246.65  3741    256.375                       (None, None, ZA, AF) core1b-dock-be-2.ip.ddii.network                                                                    
+T (3741, 174)  
+╰─ 149.6.148.129   174     255.546                      (London, ENG, GB, EU) te0-1-0-2-8.ccr21.lon02.atlas.cogentco.com                                                          
+   154.54.61.253   174     255.885                      (London, ENG, GB, EU) be2572.ccr41.lon13.atlas.cogentco.com                                                               
+   154.54.58.174   174     255.903                      (London, ENG, GB, EU) be2870.ccr22.lon01.atlas.cogentco.com                                                               
+╭─ 154.14.40.57    3257    192.45                       (London, ENG, GB, EU) ae5.cr12-lon1.ip4.gtt.net                                                                           
+T (3257)  
+├─ 89.149.187.205  3257    313.005         (Frankfurt am Main, Hesse, DE, EU) ae5.cr2-dxb1.ip4.gtt.net                                                                            
+T (3257, 36236)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 185.34.2.114    36236   289.526                     (Dubai, Dubai, AE, AS)                                                                                                     

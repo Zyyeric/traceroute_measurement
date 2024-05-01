@@ -1,0 +1,21 @@
+   27.111.84.21    135132  0.0           (Cebu City, Central Visayas, PH, AS) ph-ceb-as135132.anchors.atlas.ripe.net                                                              
+   27.111.84.20    135132  1.079             (Baugo, Central Visayas, PH, AS) vlan509.core.ceb02.ds.network                                                                       
+   192.168.159.142 *       15.692                                         ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   192.168.159.168 *       7.677                                          ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 203.177.209.217 4775    2.965             (Baugo, Central Visayas, PH, AS)                                                                                                     
+S (4775, )  tata-tgn-intra-asia-tgn-ia ✓ || asia-america-gateway-aag-cable-system ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 103.231.152.31  *       61.965              (Singapore, Singapore, SG, AS)                                                                                                     
+S (, 4826)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 103.1.77.96     4826    155.248                       (None, None, AU, OC) be200.lsr01.stpk.wa.vocus.network                                                                   
+   103.1.76.144    4826    151.324                       (None, None, AU, OC) be803.lsr01.brdg.nsw.vocus.network                                                                  
+   ***             *       -inf                                           *** *                                                                                                   
+   114.31.192.97   4826    149.448          (Sydney, New South Wales, AU, OC) be2.bdr01.syd03.nsw.vocus.network                                                                   
+╭─ 123.103.197.26  4826    164.284          (Sydney, New South Wales, AU, OC) ip-26.197.103.123.vocus.net.au                                                                      
+S (4826, 45345)  
+╰─ 202.87.128.198  45345   171.498                        (Noumea, S, NC, OC) *                                                                                                   
+   103.2.186.195   45345   165.805           (Nouméa, South Province, NC, OC) nc-nou-as45345.anchors.atlas.ripe.net                                                               

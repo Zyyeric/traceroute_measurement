@@ -1,0 +1,15 @@
+   77.92.233.166   35805   0.0                     (Tbilisi, Tbilisi, GE, AS)                                                                                                     
+   77.92.233.165   35805   0.299                   (Tbilisi, Tbilisi, GE, AS)                                                                                                     
+   188.123.128.85  35805   0.73                    (Tbilisi, Tbilisi, GE, AS) 188-123-128-85.dsl.utg.ge                                                                           
+   188.123.128.96  35805   0.819                   (Tbilisi, Tbilisi, GE, AS) 188-123-128-96.dsl.utg.ge                                                                           
+╭─ 178.134.240.220 35805   0.981                   (Tbilisi, Tbilisi, GE, AS)                                                                                                     
+LHL (35805, 3223)  caucasus-cable-system ✓
+╰─ 80.81.195.144   3223    65.837             (Frankfurt am Main, HE, DE, EU) fra-eq5-01gw.voxility.net                                                                           
+╭─ 5.254.68.198    3223    65.952             (Frankfurt am Main, HE, DE, EU) fra-eq5-02gw.voxility.net                                                                           
+T (3223)  
+├─ 93.115.89.10    3223    71.222                         (Vienna, 9, AT, EU) vie-in1-01gw.voxility.net                                                                           
+T (3223)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 93.115.93.182   3223    91.27                       (Bucharest, B, RO, EU) buc-ird-03c.voxility.net                                                                            
+   5.254.56.82     201838  75.491                      (Bucharest, B, RO, EU) *                                                                                                   
+   91.220.63.87    197357  76.774              (Bucharest, București, RO, EU) 91-220-63-87.reserved.chrominance.ro                                                                

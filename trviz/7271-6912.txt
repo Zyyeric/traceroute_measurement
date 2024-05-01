@@ -1,0 +1,20 @@
+   202.165.66.5    137409  0.0              (Sydney, New South Wales, AU, OC)                                                                                                     
+   202.165.66.1    137409  0.396            (Sydney, New South Wales, AU, OC)                                                                                                     
+   100.64.1.9      *       0.438                                          ***                                                                                                     
+   206.148.24.116  7578    0.484            (Sydney, New South Wales, AU, OC)                                                                                                     
+   206.148.24.112  7578    0.462            (Sydney, New South Wales, AU, OC)                                                                                                     
+   206.148.24.114  7578    0.579            (Sydney, New South Wales, AU, OC) po1.syd-eqxsy5-bb7.globalsecurelayer.com                                                            
+   206.148.24.9    7578    46.112        (Belmont, Western Australia, AU, OC) e53.per-ndcp2-bb2.globalsecurelayer.com                                                             
+╭─ 206.148.24.21   7578    91.99            (Sydney, New South Wales, AU, OC) e54.sg-eqxsg3-bb4.globalsecurelayer.com                                                             
+S (7578)  
+╰─ 206.148.24.70   7578    92.323              (Singapore, Singapore, SG, AS) e53.sg-eqxsg3-cr3.globalsecurelayer.com                                                             
+╭─ 206.148.24.75   7578    92.23               (Singapore, Singapore, SG, AS)                                                                                                     
+S (7578, 7632)  
+├─ 27.111.228.133  7632    92.84                     (Seogwipo, None, KR, AS) 7632.sgw.equinix.com                                                                                
+S (7632)  
+╰─ 111.95.245.37   7632    93.384              (Singapore, Singapore, SG, AS) fm-dyn-111-95-245-37.fast.net.id                                                                    
+╭─ 111.95.244.178  7632    93.37               (Singapore, Singapore, SG, AS) fm-dyn-111-95-244-178.fast.net.id                                                                   
+S&T (7632, 136106)  
+╰─ 103.87.186.179  136106  113.704                 (Jakarta, Jakarta, ID, AS) ip186-179.fiberstar.net.id                                                                          
+   103.170.24.254  142360  113.75                        (None, None, ID, AS) ipv4-254-24.170.103.as142360.net                                                                    
+   103.170.25.13   142360  114.021           (Semarang, Central Java, ID, AS) ipv4-13-25-170-103.nexa.net.id                                                                      

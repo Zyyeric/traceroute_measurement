@@ -1,0 +1,21 @@
+   192.168.0.130   *       0.0                                            ***                                                                                                     
+   192.168.0.1     *       0.165                                          ***                                                                                                     
+   172.16.254.1    *       0.28                                           ***                                                                                                     
+   192.168.1.1     *       0.726                                          ***                                                                                                     
+   10.98.238.18    *       0.605 (4.015)                                     ***                                                                                                     
+   10.0.0.170      *       7.515                                          ***                                                                                                     
+   81.212.78.45    9121    5.525                     (Ankara, Ankara, TR, AS) 81.212.78.45.static.turktelekom.com.tr                                                              
+   81.212.216.50   9121    5.3                (Sultanbeyli, Istanbul, TR, AS) 34-acibadem-xrs-t2-1---34-acibadem-sr12e-t3-8.statik.turktelekom.com.tr                             
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 212.156.139.60  9121    19.347                      (Istanbul, 34, TR, AS) *                                                                                                   
+S&T (9121, 3356)  
+├─ 212.162.26.177  3356    18.975              (Bucharest, București, RO, EU) ae52.edge3.bucharest1.level3.net                                                                    
+T (3356)  
+╰─ 171.75.9.31     3356    36.223                    (Vienna, Vienna, AT, EU) ae1.16.edge4.vie1.neo.colt.net                                                                      
+╭─ 212.133.7.166   3356    35.957                    (Vienna, Vienna, AT, EU)                                                                                                     
+LHL (3356, 20965)  
+╰─ 62.40.98.146    20965   59.965                        (Athens, A1, GR, EU) ae1.mx1.ath2.gr.geant.net                                                                           
+   83.97.88.66     5408    60.697                        (Athens, A1, GR, EU) grnet-ias-grnet-gw.mx1.ath2.gr.geant.net                                                            
+   62.217.100.63   5408    60.504                        (None, None, GR, EU) eier-kolettir-AE.backbone.grnet.gr                                                                  
+   62.217.98.53    199399  61.571                        (None, None, GR, EU) grix-ADMIN.eier.access-link.grnet.gr                                                                
+   195.130.66.103  199399  61.508                    (Athens, Attica, GR, EU) gr-ath-as199399.anchors.atlas.ripe.net                                                              

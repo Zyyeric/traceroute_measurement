@@ -1,0 +1,13 @@
+   185.251.232.156 209669  0.0                      (Bexley, England, GB, EU) 156.232.251.185.arpa.primonetwork.co.uk                                                             
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   91.193.116.88   201933  1.007                    (Poplar, England, GB, EU)                                                                                                     
+╭─ 184.104.204.237 6939    1.394                    (London, England, GB, EU) e0-21.switch3.lon3.he.net                                                                           
+S&T (6939)  circe-north ✓ || ulysses-2 ✘ || scylla ✓ || zeus ✓ || concerto ✓ || farland-north ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 72.52.92.214    6939    9.032                      (Amsterdam, NH, NL, EU) port-channel12.core2.ams1.he.net                                                                    
+S&T (6939)  
+╰─ 184.104.193.154 6939    11.785                     (Brussels, BRU, BE, EU) 100ge0-35.core2.bru1.he.net                                                                         
+   185.1.127.26    *       10.921         (Ixelles, Brussels Capital, BE, EU) devrandom.belgiumix.net                                                                             
+   45.87.79.251    208725  10.905        (Brussels, Brussels Capital, BE, EU) router01.sw1.core.devrandom.be                                                                      
+   45.87.76.6      208725  10.258        (Brussels, Brussels Capital, BE, EU) ansible.devrandom.be                                                                                

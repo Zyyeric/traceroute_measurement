@@ -1,0 +1,13 @@
+   38.47.189.189   140443  0.0           (Kuala Lumpur, Kuala Lumpur, MY, AS)                                                                                                     
+   38.47.189.1     140443  0.309         (Kuala Lumpur, Kuala Lumpur, MY, AS)                                                                                                     
+╭─ 38.47.188.2     140443  0.293         (Kuala Lumpur, Kuala Lumpur, MY, AS)                                                                                                     
+S&T (140443, 174)  indonesia-global-gateway-igg-system ✓ || palapa-ring-west ✓ || batam-dumai-melaka-bdm-cable-system ✘ || jasuka ✓ || seamewe-4 ✘ || seamewe-5 ✓ || seax-1 ✘ || asia-submarine-cable-express-asecahaya-malaysia ✓ || asia-america-gateway-aag-cable-system ✓ || batam-rengit-cable-system-brcs ✘ || apcn-2 ✓
+├  10.111.220.141  *       0.296 (6.425)                                     ***                                                                                                     
+├─ 154.18.19.209   174     6.881               (Singapore, Singapore, SG, AS) te0-8-0-2-7.201.ccr31.sin01.atlas.cogentco.com                                                      
+S (174)  seamewe-5 ✓ || peace-cable ✘
+╰─ 154.54.87.210   174     158.371                   (Marseille, PAC, FR, EU) be2914.ccr31.mrs02.atlas.cogentco.com                                                               
+   154.54.72.109   174     169.19                        (Paris, IDF, FR, EU) be2779.ccr41.par01.atlas.cogentco.com                                                               
+   130.117.3.2     174     170.592           (Bordeaux/Merignac, NAQ, FR, EU) be3039.rcr71.bod01.atlas.cogentco.com                                                               
+   154.25.0.74     174     177.889           (Bordeaux/Merignac, NAQ, FR, EU) te0-0-2-2.nr11.b015544-0.bod01.atlas.cogentco.com                                                   
+   149.6.44.18     198985  170.109                    (Bordeaux, NAQ, FR, EU) aquilenet.demarc.cogentco.com                                                                       
+   185.233.100.99  198985  177.317     (Bordeaux, Nouvelle-Aquitaine, FR, EU) ripe-atlas.aquilenet.fr                                                                             

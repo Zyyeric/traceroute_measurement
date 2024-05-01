@@ -1,0 +1,18 @@
+   31.133.40.23    52091   0.0                     (Taganrog, Rostov, RU, EU)                                                                                                     
+   31.133.40.22    52091   0.797                   (Taganrog, Rostov, RU, EU)                                                                                                     
+╭─ 139.45.244.206  57304   12.146         (Voronezh, Voronezh Oblast, RU, EU)                                                                                                     
+LHL (57304, 9002)  
+╰─ 87.245.232.244  9002    47.9               (Frankfurt am Main, HE, DE, EU) ae1-5.RT.IRX.FKT.DE.retn.net                                                                        
+╭─ 87.245.236.159  9002    49.056          (Frankfurt am Main, Hesse, DE, EU) gw-as1273.retn.net                                                                                  
+T (9002, 1273)  
+├─ 195.2.29.254    1273    57.045                   (Milan, Lombardy, IT, EU) ae17-xcr1.mld.cw.net                                                                                
+LHL (1273)  
+├─ 195.2.21.189    1273    88.059          (Tuzla, Federation of B&H, BA, EU) ae2-xcr1.tuz.cw.net                                                                                 
+LHL (1273, 15924)  
+├─ 195.2.23.130    15924   87.204                        (None, None, GB, EU) vfturkey-gw3.cw.net                                                                                 
+S (15924, 44327)  
+├─ 84.44.20.158    44327   112.096                     (Istanbul, 34, TR, AS) *                                                                                                   
+T (44327, 16010)  
+╰─ 213.157.194.6   16010   113.298                 (Tbilisi, Tbilisi, GE, AS) host-213-157-194-6.customer.magticom.ge                                                             
+   213.157.192.14  16010   113.857                      (Tbilisi, TB, GE, AS) host-213-157-192-14.customer.magticom.ge                                                            
+   213.157.192.2   16010   113.183                 (Tbilisi, Tbilisi, GE, AS) host-213-157-192-2.customer.magticom.ge                                                             

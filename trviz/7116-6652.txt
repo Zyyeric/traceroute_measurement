@@ -1,0 +1,12 @@
+   10.0.18.30      *       0.0                                            ***                                                                                                     
+   10.0.18.1       *       0.379                                          ***                                                                                                     
+   138.204.228.1   61506   0.531             (Valparaíso, Valparaíso, CL, SA)                                                                                                     
+   138.204.229.99  61506   3.313     (Santiago, Santiago Metropolitan, CL, SA)                                                                                                     
+╭─ 45.68.16.244    *       2.605 (4.37)(Santiago, Santiago Metropolitan, CL, SA) hurricaneelectric-6939.scl.pitchile.cl                                                              
+S (, 6939)  south-american-crossing-sac ✘
+├─ 184.104.188.69  6939    70.101               (Bogotá, Bogota D.C., CO, SA) port-channel2.core2.bog1.he.net                                                                     
+S (6939)  pacific-caribbean-cable-system-pccs ✓ || arcos ✓ || colombia-florida-subsea-fiber-cfx-1 © || america-movil-submarine-cable-system-1-amx-1 ✓ || south-america-1-sam-1 ✓ || globenet © || maya-1 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.197.58  6939    133.894                        (Miami, FL, US, NA) port-channel1.core3.mia1.he.net                                                                     
+   216.66.54.162   6939    152.152                   (Miami, Florida, US, NA)                                                                                                     
+   177.124.130.57  52863   151.385                   (Miami, Florida, US, NA) security.upx.com                                                                                    

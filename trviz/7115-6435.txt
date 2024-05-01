@@ -1,0 +1,10 @@
+   194.187.174.6   35574   0.0                      (Milan, Lombardy, IT, EU)                                                                                                     
+╭─ 194.187.174.4   35574   0.511                  (Rozzano, Lombardy, IT, EU)                                                                                                     
+T (35574, 18001)  
+├─ 80.81.192.114   18001   18.185            (Frankfurt am Main, 5, DE, None) uplc-isp-hw-gw-01.dialog.lk                                                                         
+LHL (18001)  seamewe-4 ✓ || seamewe-5 ✓ || seamewe-3 ✓ || bay-of-bengal-gateway-bbg 👍
+╰─ 125.214.162.179 18001   141.409        (Colombo, Western Province, LK, AS)                                                                                                     
+╭─ 125.214.190.213 18001   167.401        (Colombo, Western Province, LK, AS)                                                                                                     
+S (18001, 7642)  
+╰─ 202.1.205.245   7642    168.01                        (None, None, MV, AS) xe-1-1-1-0.rt.dhivehinet.net.mv                                                                     
+   123.176.1.4     7642    167.16                 (Male, Kaafu Atoll, MV, AS)                                                                                                     

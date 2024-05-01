@@ -1,0 +1,20 @@
+   180.211.88.22   45725   0.0                     (Jakarta, Jakarta, ID, AS) id-jkt-as45725.anchors.atlas.ripe.net                                                               
+   180.211.88.21   45725   0.311                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+   43.230.153.89   *       0.449                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+╭─ 111.92.161.4    55655   0.951                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+S&T (55655, 9002)  australia-singapore-cable-asc ✘ || matrix-cable-system ✘ || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || indonesia-global-gateway-igg-system ✘ || seamewe-3 ✘ || indigo-west ✘ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || jasuka ✘ || jakabare ✘
+├  10.110.1.0      *       12.301                                         ***                                                                                                     
+├─ 87.245.238.250  9002    12.504                      (Singapore, 4, SG, AS) ae0-302.RT1.EQX.SIN.SG.retn.net                                                                     
+S (9002)  
+├─ 87.245.232.5    9002    48.455                   (Hong Kong, None, HK, AS) ae0-3.RT.IAD.HKG.CN.retn.net                                                                        
+S (9002, 4637)  
+├─ 87.245.240.225  4637    47.48                         (None, None, GB, EU) GW-Telstra.retn.net                                                                                 
+S (4637)  
+├─ 202.84.157.38   4637    48.9      (Hong Kong, Central and Western, HK, AS)                                                                                                     
+S (4637)  
+╰─ 202.84.249.162  4637    47.337              (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 202.84.249.86   4637    121.459             (Singapore, Singapore, SG, AS)                                                                                                     
+S (4637)  
+╰─ 202.84.204.17   4637    121.138                     (Dubai, Dubai, AE, AS) i-1046.uddm01.telstraglobal.net                                                                     
+   217.151.46.27   4637    120.444                     (Dubai, Dubai, AE, AS) unknown.telstraglobal.net                                                                           
+   156.154.53.254  12008   120.349                     (Dubai, Dubai, AE, AS)                                                                                                     

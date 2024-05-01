@@ -1,0 +1,16 @@
+   185.39.208.23   199993  0.0                       (Lisbon, Lisbon, PT, EU) atlasancora01.wan.dns.pt                                                                            
+   185.39.208.60   199993  0.857                     (Lisbon, Lisbon, PT, EU)                                                                                                     
+   194.210.4.137   1930    1.268                     (Lisbon, Lisbon, PT, EU) router63.lisboa.fccn.pt                                                                             
+   194.210.6.212   1930    1.19                      (Lisbon, Lisbon, PT, EU)                                                                                                     
+╭─ 194.210.6.205   1930    1.649                     (Lisbon, Lisbon, PT, EU) router6.lisboa.fccn.pt                                                                              
+S&T (1930, 6939)  africa-coast-to-europe-ace ✘ || seamewe-3 ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.189.30  6939    24.477    (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) port-channel18.core4.mrs1.he.net                                                                    
+S (6939)  seamewe-5 ✓ || peace-cable ✘ || seamewe-4 ✓ || seamewe-3 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 65.49.109.214   6939    207.332             (Singapore, Singapore, SG, AS) pakistan-telecommunication-co-ltd.e0-26.switch1.sin1.he.net                                         
+S (6939, 7590)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 202.125.149.58  7590    229.087                   (Rawalpindi, PB, PK, AS) Touchstone-4.rwp44d1.pie.net.pk                                                                     
+   210.56.8.180    7590    213.888                    (Islamabad, IS, PK, AS) *                                                                                                   
+   210.56.11.202   7590    228.861             (Islamabad, Islamabad, PK, AS)                                                                                                     

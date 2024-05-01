@@ -1,0 +1,19 @@
+   202.46.184.4    38064   0.0                   (Auckland, Auckland, NZ, OC)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   43.243.21.82    *       0.676                 (Auckland, Auckland, NZ, OC) as137409.akl.ix.nz                                                                                  
+╭─ 206.148.24.127  7578    23.865                (Auckland, Auckland, NZ, OC)                                                                                                     
+S (7578)  hawaiki ✘ || southern-cross-cable-network-sccn ✘ || southern-cross-next ✘
+╰─ 206.148.24.3    7578    141.427          (Los Angeles, California, US, NA) e52.lax-csla2-bb1.globalsecurelayer.com                                                             
+   206.148.25.7    7578    170.801              (Seattle, Washington, US, NA) e50.sea-drtsea10-bb1.globalsecurelayer.com                                                          
+   206.148.25.16   7578    170.534              (Seattle, Washington, US, NA) po10.sea-drtsea10-cr1.globalsecurelayer.com                                                         
+╭─ 206.148.25.83   7578    170.547              (Seattle, Washington, US, NA)                                                                                                     
+S (7578)  
+├─ 223.165.7.41    7578    170.412              (Melbourne, Victoria, AU, OC)                                                                                                     
+S (7578, 46385)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 131.153.165.66  46385   170.717              (Seattle, Washington, US, NA)                                                                                                     
+S (46385, 63949)  
+╰─ 170.187.241.61  63949   173.628          (Sydney, New South Wales, AU, OC) router01-akm-syd.as151332.net                                                                       
+   203.192.83.254  7545    185.502              (Melbourne, Victoria, AU, OC) ip-254-83-192-203.static.pipenetworks.com                                                           
+   103.179.37.157  151332  185.02               (Melbourne, Victoria, AU, OC)                                                                                                     

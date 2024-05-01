@@ -1,0 +1,14 @@
+   103.170.232.152 142616  0.0                         (Tokyo, Tokyo, JP, AS) user-103-170-232-152.nrt04.jp.misaka.io                                                             
+   103.170.232.11  142616  0.082                       (Tokyo, Tokyo, JP, AS) po-31.lag.nrt04.jp.misaka.io                                                                        
+   103.170.232.3   142616  0.182                       (Tokyo, Tokyo, JP, AS) spine2.nrt04.jp.misaka.io                                                                           
+   199.119.64.138  969     0.279                       (Tokyo, Tokyo, JP, AS) e54-10.cr1a.eqty8.nrt4.jp.917.as                                                                    
+   199.119.64.95   969     0.241                       (Tokyo, Tokyo, JP, AS) po100.cr2a.eqty8.nrt4.jp.917.as                                                                     
+   84.17.33.106    60068   0.497                       (Tokyo, Tokyo, JP, AS) po66-3518.cr01.nrt04.jp.misaka.io                                                                   
+╭─ 63.217.103.9    3491    0.568                          (Tokyo, 13, JP, AS) 63-217-103-9.static.pccwglobal.net                                                                  
+S (3491)  apcn-2 👍 || eac-c2c ✓ || asia-pacific-gateway-apg ✓
+╰─ 63.218.164.146  3491    86.748              (Singapore, Singapore, SG, AS) be43.br06.sin02.as3491.net                                                                          
+╭─ 63.220.192.81   3491    161.19              (Singapore, Singapore, SG, AS) 63-220-192-81.static.pccwglobal.net                                                                 
+S&T (3491, 140443)  indonesia-global-gateway-igg-system ✓ || batam-dumai-melaka-bdm-cable-system ✘ || seamewe-5 ✓ || palapa-ring-west ✓ || jasuka ✓ || seamewe-4 ✓ || asia-america-gateway-aag-cable-system ✓ || seax-1 ✘ || asia-submarine-cable-express-asecahaya-malaysia ✓ || batam-rengit-cable-system-brcs ✘ || apcn-2 👍
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 38.47.188.1     140443  208.384       (Kuala Lumpur, Kuala Lumpur, MY, AS)                                                                                                     
+   38.47.189.189   140443  167.303       (Kuala Lumpur, Kuala Lumpur, MY, AS)                                                                                                     

@@ -1,0 +1,15 @@
+   185.92.128.30   60924   0.0                         (Dubai, Dubai, AE, AS)                                                                                                     
+╭─ 185.92.128.3    60924   0.273                       (Dubai, Dubai, AE, AS)                                                                                                     
+LHL (60924)  seamewe-5 ✘ || seamewe-4 ✓ || asia-africa-europe-1-aae-1 ✓ || imewe ✓ || seamewe-3 ✓
+├─ 185.92.128.4    60924   0.297                         (None, None, IE, EU) *                                                                                                   
+LHL (60924, 8966)  
+├─ 195.229.27.145  8966    0.293 (4.696)                    (None, None, AE, AS) *                                                                                                   
+S (8966)  seamewe-5 ✓ || seamewe-4 👍 || asia-africa-europe-1-aae-1 👍 || imewe 👍 || seamewe-3 👍
+╰─ 195.229.0.173   8966    95.318                    (Marseille, PAC, FR, EU) *                                                                                                   
+╭─ 185.1.47.34     21320   180.15                   (Marseille, 93, FR, None) marseille.de-cix.ix.geant.net                                                                       
+S (21320, 20965)  geo-eirgrid ✘ ↠ seamewe-3 ✓ ↠ asia-africa-europe-1-aae-1 ✓ || exa-north-and-south ✘ ↠ seamewe-3 ✓ ↠ asia-africa-europe-1-aae-1 ✓ || havhingstenceltixconnect-2-cc-2 ✓ ↠ seamewe-3 ✓ ↠ asia-africa-europe-1-aae-1 ✓ || esat-2 ✓ ↠ seamewe-3 ✓ ↠ asia-africa-europe-1-aae-1 ✓ || rockabill ✘ ↠ seamewe-3 ✓ ↠ asia-africa-europe-1-aae-1 ✓ || sirius-south ✘ ↠ seamewe-3 ✓ ↠ asia-africa-europe-1-aae-1 ✓ || exa-express ✘ ↠ seamewe-3 ✓ ↠ asia-africa-europe-1-aae-1 ✓ || pan-european-crossing-uk-ireland ✓ ↠ seamewe-3 ✓ ↠ asia-africa-europe-1-aae-1 ✓ || esat-1 ✓ ↠ seamewe-3 ✓ ↠ asia-africa-europe-1-aae-1 ✓ || solas ✘ ↠ seamewe-3 ✓ ↠ asia-africa-europe-1-aae-1 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 62.40.98.151    20965   207.347                       (Athens, A1, GR, EU) ae3.mx2.ath.gr.geant.net                                                                            
+   83.97.88.70     5408    204.88                        (Athens, A1, GR, EU) grnet-ias-grnet-gw.mx2.ath.gr.geant.net                                                             
+   62.217.98.53    199399  209.986                       (None, None, GR, EU) grix-ADMIN.eier.access-link.grnet.gr                                                                
+   195.130.66.103  199399  209.115                   (Athens, Attica, GR, EU) gr-ath-as199399.anchors.atlas.ripe.net                                                              

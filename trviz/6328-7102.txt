@@ -1,0 +1,23 @@
+   182.161.73.41   55569   0.0                 (Singapore, Singapore, SG, AS)                                                                                                     
+   182.161.73.40   55569   0.145               (Singapore, Singapore, SG, AS)                                                                                                     
+   100.66.0.44     *       0.789                                          ***                                                                                                     
+   100.66.0.45     *       0.845                                          ***                                                                                                     
+   202.127.73.170  4637    1.765               (Singapore, Singapore, SG, AS) unknown.telstraglobal.net                                                                           
+   202.84.219.174  4637    163.225             (Singapore, Singapore, SG, AS) i-92.sgcn-core01.telstraglobal.net                                                                  
+╭─ 202.84.219.174  4637    163.225             (Singapore, Singapore, SG, AS) i-92.sgcn-core01.telstraglobal.net                                                                  
+S (4637)  
+╰─ 202.84.141.17   4637    163.248          (Los Angeles, California, US, NA) i-10551.tlot-core02.telstraglobal.net                                                               
+   202.84.141.17   4637    163.248          (Los Angeles, California, US, NA) i-10551.tlot-core02.telstraglobal.net                                                               
+╭─ 202.84.143.26   4637    162.916          (Los Angeles, California, US, NA) i-94.eqla02.telstraglobal.net                                                                       
+LHL (4637, 6762)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 89.221.43.235   6762    335.344                       (None, None, IT, EU) *                                                                                                   
+LHL (6762)  
+├─ 195.22.209.211  6762    339.549                    (Amsterdam, NH, NL, EU) et3-1-2.amster1.ams.seabone.net                                                                     
+T (6762, 47787)  
+├─ 185.112.251.25  47787   250.27                    (Madrid, Madrid, ES, EU) er1.mad2.edgoo.net                                                                                  
+S&T (47787)  
+╰─ 193.163.151.209 47787   253.731                       (Lisbon, 11, PT, EU) cr1.lis1.edgoo.net                                                                                  
+   193.109.188.7   47787   253.665                   (Lisbon, Lisbon, PT, EU)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   185.32.189.249  62416   266.754                 (Odivelas, Lisbon, PT, EU) pt-lis-as62416.anchors.atlas.ripe.net                                                               

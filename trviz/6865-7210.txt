@@ -1,0 +1,13 @@
+   185.6.39.132    42953   0.0                        (Cork, Munster, IE, EU)                                                                                                     
+   185.6.39.130    42953   1.086                      (Cork, Munster, IE, EU)                                                                                                     
+   91.103.0.98     47720   0.888                      (Cork, Munster, IE, EU)                                                                                                     
+   91.103.0.205    47720   1.768                      (Cork, Munster, IE, EU)                                                                                                     
+╭─ 185.6.36.69     6939    1.564 (5.35)                     (Dublin, D, IE, EU) 10ge16-1.core1.dub1.he.net                                                                          
+S&T (6939)  geo-eirgrid ✘ || rockabill ✓ || esat-2 ✓ || sirius-south ✘ || exa-north-and-south ✓ || havhingstenceltixconnect-2-cc-2 ✓ || exa-express ✓ || pan-european-crossing-uk-ireland ✓ || esat-1 ✓ || solas ✓
+├─ 72.52.92.197    6939    10.196                   (Manchester, ENG, GB, EU) 100ge3-2.core1.man1.he.net                                                                          
+S&T (6939)  circe-north ✓ || ulysses-2 ✘ || scylla ✓ || zeus ✓ || concerto ✓ || farland-north ✘
+├─ 184.105.213.65  6939    18.582                     (Amsterdam, NH, NL, EU) 100ge0-56.core2.ams1.he.net                                                                         
+S&T (6939)  
+╰─ 184.104.193.154 6939    21.957                     (Brussels, BRU, BE, EU) 100ge0-35.core2.bru1.he.net                                                                         
+   184.104.206.254 212882  21.14                      (Brussels, BRU, BE, EU) dnx-network-sarl.10gigabitethernet11-4.core1.bru1.he.net                                            
+   91.237.218.10   212882  21.282                (Zaventem, Flanders, BE, EU) atlas.dnx.lu                                                                                        

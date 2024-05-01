@@ -1,0 +1,21 @@
+   103.133.238.187 132808  0.0                 (Brisbane, Queensland, AU, OC) iptelco.com.au                                                                                      
+   103.133.238.130 132808  0.267               (Brisbane, Queensland, AU, OC) vmnet-hsrp66.bdr01-bne-br1.iptelco.net.au                                                           
+   103.17.223.161  58511   0.297               (Brisbane, Queensland, AU, OC) pe.as132808.as58511.net.223.17.103.in-addr.arpa                                                     
+   103.30.218.118  58511   160.455                       (None, None, AU, OC) et-0-0-6.cor101.ndcb1.au.as58511.net                                                                
+   103.30.217.28   58511   160.436                       (None, None, AU, OC) et-0-0-7.cor102.gssyd.au.as58511.net                                                                
+   103.30.216.73   *       160.553       (The Rocks, New South Wales, AU, OC) fo1-0-50.cor2.sy4.au.as58511.net                                                                    
+   103.30.216.167  58511   160.626                       (None, None, AU, OC) te1-0-47.cor1.pdx02.us.as58511.net                                                                  
+   103.30.216.189  58511   160.628                       (None, None, AU, OC) te1-0-26.cor1.55sm.us.as58511.net                                                                   
+   103.30.217.56   58511   161.69                        (None, None, AU, OC) te2-0-47.cor2.eqsv1.us.as58511.net                                                                  
+╭─ 103.30.218.81   *       160.172          (Sydney, New South Wales, AU, OC) ae0-80g.bdr101.eqsv1.us.as58511.net                                                                 
+S (, 1299)  
+╰─ 62.115.176.98   1299    160.301             (San Jose, California, US, NA) sjo-b23-link.ip.twelve99.net                                                                        
+   62.115.116.41   1299    166.365          (Los Angeles, California, US, NA) lax-b23-link.ip.twelve99.net                                                                        
+   62.115.123.136  1299    196.829                    (Dallas, Texas, US, NA) dls-bb2-link.ip.twelve99.net                                                                        
+   62.115.123.237  1299    208.557                    (Dallas, Texas, US, NA) mny-b1-link.ip.twelve99.net                                                                         
+╭─ 62.115.123.235  1299    209.013                   (McAllen, Texas, US, NA) mny-b2-link.ip.twelve99.net                                                                         
+S&T (1299)  
+╰─ 62.115.123.239  1299    217.62             (Monterrey, Nuevo León, MX, NA) qro-b2-link.ip.twelve99.net                                                                         
+   62.115.124.48   1299    217.394   (Santiago de Querétaro, Querétaro, MX, NA) qro-b3-link.ip.twelve99.net                                                                         
+   62.115.166.226  42473   217.555               (Benito Juarez, CMX, MX, NA) *                                                                                                   
+   131.100.0.158   42473   217.399   (Santiago de Querétaro, Querétaro, MX, NA)                                                                                                     

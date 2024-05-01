@@ -1,0 +1,15 @@
+   37.252.245.94   42473   0.0                         (Dubai, Dubai, AE, AS)                                                                                                     
+   37.252.245.93   42473   14.052                      (Dubai, Dubai, AE, AS)                                                                                                     
+╭─ 184.105.64.198  6939    217.677                        (Dubai, DU, AE, AS) 10ge4-11.core1.dxb1.he.net                                                                          
+S (6939)  
+╰─ 184.104.193.102 6939    243.362   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) port-channel1.core3.mrs1.he.net                                                                     
+╭─ 184.104.194.200 6939    204.084   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) port-channel15.core4.mrs1.he.net                                                                    
+S&T (6939)  
+├─ 184.105.80.13   6939    200.805                        (Milan, 25, IT, EU) 100ge7-2.core1.mil2.he.net                                                                          
+S&T (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.64.170  6939    232.727                       (Athens, A1, GR, EU) 100ge0-36.core1.ath1.he.net                                                                         
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   185.14.96.225   211186  330.768            (Lamía, Central Greece, GR, EU) vlan4090.lamia.fast.net.gr                                                                          
+   185.14.96.232   211186  298.049            (Lamía, Central Greece, GR, EU)                                                                                                     

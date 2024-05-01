@@ -1,0 +1,20 @@
+   192.168.0.130   *       0.0                                            ***                                                                                                     
+   192.168.0.1     *       0.192                                          ***                                                                                                     
+   172.16.254.1    *       0.247                                          ***                                                                                                     
+   192.168.1.1     *       0.65                                           ***                                                                                                     
+   10.98.238.18    *       0.545 (4.253)                                     ***                                                                                                     
+   10.0.0.170      *       7.991                                          ***                                                                                                     
+   81.212.78.45    9121    5.003                     (Ankara, Ankara, TR, AS) 81.212.78.45.static.turktelekom.com.tr                                                              
+╭─ 81.212.216.50   9121    5.298              (Sultanbeyli, Istanbul, TR, AS) 34-acibadem-xrs-t2-1---34-acibadem-sr12e-t3-8.statik.turktelekom.com.tr                             
+S&T (9121)  kafos ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 212.156.102.38  9121    63.981               (Zalău, Sălaj County, RO, EU) 302-ams-col-2---34-ebgp-acibadem-sr12e-k.statik.turktelekom.com.tr                                  
+LHL (9121, 59605)  circe-north ✓ || scylla ✘ || ulysses-2 ✘ || zeus ✓ || atlantic-crossing-1-ac-1 ✓ || concerto ✘ || farland-north ✘
+├─ 80.249.210.78   59605   64.401                      (Schiphol, NH, NL, EU) *                                                                                                   
+LHL (59605)  falcon ✓ || fiber-optic-gulf-fog ✓ || tata-tgn-gulf ✓ || gulf-bridge-international-cable-system-gbicsmiddle-east-north-africa-mena-cable-system ✓
+╰─ 151.248.96.132  59605   153.658                       (None, None, BH, AS) *                                                                                                   
+╭─ 151.248.98.137  42961   160.165                       (None, None, BH, AS) *                                                                                                   
+S (42961)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 212.43.17.42    42961   152.896     (Al Farwānīyah, Al Farwaniyah, KW, AS)                                                                                                     

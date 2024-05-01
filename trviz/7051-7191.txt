@@ -1,0 +1,16 @@
+   117.20.118.21   45498   0.0               (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     
+   117.20.118.17   45498   2.836             (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     
+   27.109.113.25   45498   1.122             (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     
+╭─ 27.109.113.6    45498   1.276                     (Phnom Penh, 12, KH, AS) *                                                                                                   
+LHL (45498)  asia-africa-europe-1-aae-1 ✘ ↠ seamewe-4 ✘ || asia-africa-europe-1-aae-1 ✘ ↠ seamewe-3 ✓ || asia-africa-europe-1-aae-1 ✘ ↠ seamewe-5 ✓ || asia-africa-europe-1-aae-1 ✘ ↠ peace-cable ✘
+╰─ 27.109.113.56   45498   36.886              (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 223.119.82.77   58453   37.511              (Singapore, Singapore, SG, AS)                                                                                                     
+S (58453)  eac-c2c ✓ || asia-pacific-gateway-apg ✓ || southeast-asia-japan-cable-sjc ✓ || asia-america-gateway-aag-cable-system ✓ || seamewe-3 ✓ || asia-submarine-cable-express-asecahaya-malaysia ✓ || apcn-2 ✓ || tata-tgn-intra-asia-tgn-ia ✘
+╰─ 223.120.15.253  58453   174.561                       (None, None, HK, AS) *                                                                                                   
+   223.120.11.14   9808    196.341                       (None, None, HK, AS) *                                                                                                   
+╭─ 223.120.10.86   58453   195.732                       (None, None, HK, AS) *                                                                                                   
+LHL (58453, 9002)  asia-africa-europe-1-aae-1 ✓ || seamewe-3 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 87.245.232.68   9002    210.866                      (Vilnius, VL, LT, EU) ae1-11.RT.TIC.VNO.LT.retn.net                                                                       
+   87.245.242.129  9002    3125.248                     (Vilnius, VL, LT, EU) xe121.RT.TIC.VNO.LT.retn.net                                                                        
+   87.245.242.129  9002    3125.248                     (Vilnius, VL, LT, EU) xe121.RT.TIC.VNO.LT.retn.net                                                                        

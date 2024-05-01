@@ -1,0 +1,17 @@
+   114.31.201.91   4826    0.0              (Sydney, New South Wales, AU, OC) 91.201.31.114.core.vocus.network                                                                    
+   114.31.201.90   4826    0.846            (Sydney, New South Wales, AU, OC) 90.201.31.114.core.vocus.network                                                                    
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   103.1.77.9      4826    91.859                       (Sydney, NSW, AU, OC) be221.cor02.syd04.nsw.vocus.network                                                                 
+╭─ 114.31.206.75   4826    91.858                         (Perth, WA, AU, OC) be203.bdr02.sin01.sin.vocus.network                                                                 
+S (4826, 9002)  
+├─ 27.111.229.103  9002    92.512                    (Seogwipo, None, KR, AS) 9002.sgw.equinix.com                                                                                
+S (9002, 55685)  
+├─ 87.245.238.237  55685   91.669                        (None, None, GB, EU) GW-JLM.retn.net                                                                                     
+S (55685)  
+╰─ 103.80.90.68    55685   103.259                 (Jakarta, Jakarta, ID, AS)                                                                                                     
+   121.100.0.45    38158   104.056                 (Jakarta, Jakarta, ID, AS)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   180.211.88.22   45725   103.71                  (Jakarta, Jakarta, ID, AS) id-jkt-as45725.anchors.atlas.ripe.net                                                               

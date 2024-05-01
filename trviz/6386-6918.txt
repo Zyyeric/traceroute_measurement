@@ -1,0 +1,11 @@
+   139.162.3.33    63949   0.0                 (Singapore, Singapore, SG, AS) li845-33.members.linode.com                                                                         
+   10.209.1.183    *       0.257                                          ***                                                                                                     
+   10.209.35.10    *       0.586                                          ***                                                                                                     
+   10.209.32.1     *       0.392                                          ***                                                                                                     
+   139.162.0.102   63949   0.739               (Singapore, Singapore, SG, AS) lo0-0.gw2.sin1.sg.linode.com                                                                        
+╭─ 139.162.0.17    63949   0.494                       (Singapore, 4, SG, AS) ae0-100.gw1.sin1.sg.linode.com                                                                      
+S (63949, 4764)  
+├─ 27.111.229.181  4764    1.116                     (Seogwipo, None, KR, AS) 4764.sgw.equinix.com                                                                                
+S (4764)  
+├  10.241.6.21     *       89.012                                         ***                                                                                                     
+╰─ 202.142.143.178 4764    88.781               (Melbourne, Victoria, AU, OC) be3.bng1.vdc03.mel.aussiebb.net                                                                     

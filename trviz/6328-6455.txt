@@ -1,0 +1,23 @@
+   104.238.161.230 20473   0.0                          (Ōi, Saitama, JP, AS) 104.238.161.230.vultrusercontent.com                                                                
+   ***             *       -inf                                           *** *                                                                                                   
+   209.222.31.33   20473   12.002              (Motoyoyogichō, Tokyo, JP, AS) vl199-ds1-j2-r235.tyo2.constant.com                                                                 
+   10.71.1.9       *       1.109                                          ***                                                                                                     
+   10.71.3.25      *       2.79                                           ***                                                                                                     
+╭─ 62.115.41.150   1299    0.45                        (Tokyo, Tokyo, JP, AS) tky-b2-link.ip.twelve99.net                                                                         
+S (1299)  asia-pacific-gateway-apg ✓ || eac-c2c ©
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 62.115.126.244  1299    76.475              (Singapore, Singapore, SG, AS) sng-b7-link.ip.twelve99.net                                                                         
+S (1299)  seamewe-5 ✓ || peace-cable ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 62.115.124.56   1299    223.069             (Paris, Île-de-France, FR, EU) prs-bb2-link.ip.twelve99.net                                                                        
+T (1299)  
+╰─ 62.115.137.4    1299    247.868         (Amsterdam, North Holland, NL, EU) adm-bb2-link.ip.twelve99.net                                                                        
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 213.248.96.111  1299    234.05          (Amsterdam, North Holland, NL, EU) edgoonetworks-ic-383209.ip.twelve99-cust.net                                                        
+T (1299, 47787)  
+├─ 193.109.190.74  47787   242.637                   (Madrid, Madrid, ES, EU) er1.mad1.edgoo.net                                                                                  
+S&T (47787)  
+╰─ 193.163.151.209 47787   274.846                       (Lisbon, 11, PT, EU) cr1.lis1.edgoo.net                                                                                  
+   193.109.188.7   47787   251.144                   (Lisbon, Lisbon, PT, EU)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   185.32.189.249  62416   260.861                 (Odivelas, Lisbon, PT, EU) pt-lis-as62416.anchors.atlas.ripe.net                                                               

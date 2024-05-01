@@ -1,0 +1,15 @@
+   103.170.25.13   142360  0.0               (Semarang, Central Java, ID, AS) ipv4-13-25-170-103.nexa.net.id                                                                      
+   103.170.25.9    142360  0.132             (Semarang, Central Java, ID, AS) ipv4-9-25-170-103.nexa.net.id                                                                       
+   103.170.24.253  142360  0.32              (Semarang, Central Java, ID, AS) ipv4-253-24-170-103.nexa.net.id                                                                     
+╭─ 103.87.186.178  136106  8.873              (Mega, Southwest Papua, ID, AS) ip186-178.fiberstar.net.id                                                                          
+S&T (136106)  australia-singapore-cable-asc ✓ || matrix-cable-system ✘ || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || indonesia-global-gateway-igg-system ✓ || indigo-west ✓ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || jasuka ✓
+╰─ 103.87.186.29   136106  20.121              (Singapore, Singapore, SG, AS) ip186-29.fiberstar.net.id                                                                           
+   184.104.210.181 6939    19.716              (Singapore, Singapore, SG, AS) port-channel6.switch2.sin2.he.net                                                                   
+╭─ 184.105.65.177  6939    31.931              (Singapore, Singapore, SG, AS) port-channel24.core2.sin1.he.net                                                                    
+S (6939, 4764)  
+├─ 27.111.229.181  4764    20.534                    (Seogwipo, None, KR, AS) 4764.sgw.equinix.com                                                                                
+S (4764, 9268)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  10.254.248.126  *       20.739                                         ***                                                                                                     
+├  10.254.251.52   *       112.443                                        ***                                                                                                     
+╰─ 119.17.170.244  9268    112.096          (Sydney, New South Wales, AU, OC) gen-119-17-170-244.ptr4.otw.net.au                                                                  

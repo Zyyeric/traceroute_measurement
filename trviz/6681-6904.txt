@@ -1,0 +1,16 @@
+   202.46.184.4    38064   0.0                   (Auckland, Auckland, NZ, OC)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   114.31.203.78   4826    1.164                 (Auckland, Auckland, NZ, OC) te-0-0-2-0-113.bdr03.akl05.akl.nz.vocus.network                                                     
+╭─ 114.31.202.36   4826    24.133                     (Auckland, AUK, NZ, OC) be104.bdr01.akl03.akl.nz.vocus.network                                                              
+S (4826)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 114.31.192.113  4826    25.375           (Sydney, New South Wales, AU, OC) be2.bdr01.syd05.nsw.vocus.network                                                                   
+   49.255.13.202   13335   24.683                       (Sydney, NSW, AU, OC) static-202.13.255.49.in-addr.VOCUS.net.au                                                           
+   172.68.64.3     13335   24.571           (Sydney, New South Wales, AU, OC)                                                                                                     
+   172.68.64.88    13335   23.936           (Sydney, New South Wales, AU, OC)                                                                                                     
+   172.68.64.111   13335   23.954           (Sydney, New South Wales, AU, OC)                                                                                                     
+╭─ 172.68.64.118   13335   24.101           (Sydney, New South Wales, AU, OC)                                                                                                     
+S (13335, 133800)  
+├  172.16.18.101   *       132.737                                        ***                                                                                                     
+╰─ 137.59.127.34   133800  132.74                        (None, None, ID, AS) ip-34-127-59-137.core.biznetg.io                                                                    
+   103.77.105.3    133800  132.58                  (Jakarta, Jakarta, ID, AS) ip-3-105-77-103.jkt-1.biznetg.io                                                                    

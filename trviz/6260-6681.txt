@@ -1,0 +1,18 @@
+   103.77.105.3    133800  0.0                     (Jakarta, Jakarta, ID, AS) ip-3-105-77-103.jkt-1.biznetg.io                                                                    
+   103.77.105.28   133800  0.159                   (Jakarta, Jakarta, ID, AS) ip-28-105-77-103.jkt-1.biznetg.io                                                                   
+   137.59.127.33   *       0.447                   (Jakarta, Jakarta, ID, AS) xe-0-2.cr01.jkt.biznetg.io                                                                          
+   202.169.59.21   17451   0.823 (3.017)              (Jakarta, Jakarta, ID, AS)                                                                                                     
+╭─ 182.253.255.18  17451   1.199                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+S&T (17451)  australia-singapore-cable-asc ✓ || matrix-cable-system ✘ || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || indonesia-global-gateway-igg-system ✓ || seamewe-3 ✓ || indigo-west ✓ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || jasuka ✓ || jakabare ✓
+╰─ 182.253.100.186 17451   12.701              (Singapore, Singapore, SG, AS) gs2-6.biznetnetworks.com                                                                            
+   184.104.199.150 6939    13.56               (Singapore, Singapore, SG, AS) port-channel1.core1.sin2.he.net                                                                     
+╭─ 103.16.102.81   6939    13.5                      (Singapore, 1, SG, None) hurricane-electric.sgix.sg                                                                          
+S (6939, )  seamewe-5 ✓ || seamewe-4 ✓ || seamewe-3 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 185.1.106.24    *       166.913                  (Milan, Lombardy, IT, EU) 6939-mlb-ix-equinix.com                                                                             
+╭─ 185.1.114.86    *       166.187                 (Figino, Lombardy, IT, EU) myloc.minap.it                                                                                      
+T (, 24961)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 62.141.47.9     24961   183.429                   (Düsseldorf, NW, DE, EU) po1.agr1-dedi-m1.bb.as24961.net                                                                     
+   37.157.253.244  24961   179.875   (Kaarst, North Rhine-Westphalia, DE, EU)                                                                                                     

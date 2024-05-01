@@ -1,0 +1,19 @@
+   193.42.115.222  51724   0.0                  (Tomsk, Tomsk Oblast, RU, EU) p7234-probes-atlas-ripe.flynet.pro                                                                  
+   193.42.115.137  51724   0.307                (Tomsk, Tomsk Oblast, RU, EU) border2vlan13.flynet.pro                                                                            
+   31.131.196.10   9049    1.031                (Tomsk, Tomsk Oblast, RU, EU) 31x131x196x10.static.ertelecom.ru                                                                   
+╭─ 195.208.209.132 9049    48.993                      (Moscow, 48, RU, None) msk-ix.ertelecom.ru                                                                                 
+LHL (9049, 6939)  tampnet-offshore-foc-network ✘ || no-uk ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.105.64.230  6939    68.871                        (Oslo, Oslo, NO, EU) 100ge0-59.core2.osl1.he.net                                                                         
+S&T (6939)  cantat-3 ✘ || havfrueaec-2 ✓ || havsil ✘ || skagerrak-4 ✘ || skagenfiber-west ✘
+├─ 184.104.194.222 6939    80.399                    (Copenhagen, 84, DK, EU) 100ge0-35.core2.cph1.he.net                                                                         
+LHL (6939)  havhingstennorth-sea-connect-nsc ✓ ↠ exa-north-and-south ✓ || havhingstennorth-sea-connect-nsc ✓ ↠ exa-express ✓ || atlantic-crossing-1-ac-1 ✓ ↠ exa-north-and-south ✓ || atlantic-crossing-1-ac-1 ✓ ↠ exa-express ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.196.178 6939    171.943                      (Toronto, ON, CA, NA) 100ge0-78.core2.tor1.he.net                                                                         
+   184.105.64.102  6939    188.956                     (Winnipeg, MB, CA, NA) 100ge6-1.core1.ywg1.he.net                                                                          
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   65.19.133.197   6939    213.757      (Vancouver, British Columbia, CA, NA)                                                                                                     
+   192.30.89.87    394256  215.401      (Vancouver, British Columbia, CA, NA) ca-van-as394256.anchors.atlas.ripe.net                                                              

@@ -1,0 +1,15 @@
+   103.242.68.78   133075  0.0                   (Auckland, Auckland, NZ, OC) 103-242-68-78.broadband.telesmart.co.nz                                                             
+   103.242.68.65   133075  0.63                     (Wellington, WGN, NZ, OC) *                                                                                                   
+   131.203.72.165  9790    0.609                 (Auckland, Auckland, NZ, OC) default-rdns.vocus.co.nz                                                                            
+   131.203.72.166  9790    4.488                 (Auckland, Auckland, NZ, OC) default-rdns.vocus.co.nz                                                                            
+   ***             *       -inf                                           *** *                                                                                                   
+   175.45.102.234  9790    1.839                      (Auckland, AUK, NZ, OC) as9790.bdr01.akl05.akl.nz.vocus.network                                                             
+╭─ 175.45.102.233  4826    1.887                      (Auckland, AUK, NZ, OC) be1000.bdr01.akl05.akl.nz.vocus.network                                                             
+S (4826)  tasman-global-access-tga-cable ✓ || southern-cross-cable-network-sccn ✓ || hawaiki ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 114.31.192.39   4826    27.577                       (Sydney, NSW, AU, OC) be100.bdr02.syd03.nsw.vocus.network                                                                 
+   184.104.195.149 6939    30.867           (Sydney, New South Wales, AU, OC) 100ge0-79.core1.syd1.he.net                                                                         
+╭─ 45.127.172.80   3491    31.397                       (Sydney, NSW, AU, OC) 3491.syd.equinix.com                                                                                
+S (3491)  hawaiki ✘ || southern-cross-cable-network-sccn ✓ || southern-cross-next ✓
+╰─ 63.218.72.138   3491    171.867                  (Los Angeles, CA, US, NA) TenGE0-1-0-20.br04.lax05.pccwbtn.net                                                                
+   63.218.212.242  3491    171.654           (El Segundo, California, US, NA) yomura.ge-0-0-0-10.br03.lax05.as3491.net                                                            

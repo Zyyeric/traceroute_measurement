@@ -1,0 +1,14 @@
+   170.247.95.81   64112   0.0       (Santiago, Santiago Metropolitan, CL, SA)                                                                                                     
+   170.247.95.86   64112   0.243     (Santiago, Santiago Metropolitan, CL, SA)                                                                                                     
+╭─ 170.247.92.1    64112   1.037     (Santiago, Santiago Metropolitan, CL, SA) x1.as64112.scl.pitchile.cl                                                                          
+S (64112, 6939)  south-american-crossing-sac ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.188.69  6939    68.538               (Bogotá, Bogota D.C., CO, SA) port-channel2.core2.bog1.he.net                                                                     
+S (6939, 23520)  pacific-caribbean-cable-system-pccs ✓ || arcos ✓ || colombia-florida-subsea-fiber-cfx-1 © || america-movil-submarine-cable-system-1-amx-1 ✓ || south-america-1-sam-1 ✓ || globenet © || maya-1 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 216.66.15.254   23520   130.83                   (North Miami, FL, US, NA) asurnet-inc.100gigabitethernet7-1.core1.mia1.he.net                                                 
+╭─ 69.79.104.1     23520   131.839                  (North Miami, FL, US, NA) ae1.nmi-mx2020-2.north-miami.fl.usa.cwc.com                                                         
+S (23520, 64126)  
+╰─ 131.108.236.69  64126   138.6           (Moca, Espaillat Province, DO, NA)                                                                                                     
+   200.58.244.2    265721  139.391                 (Puerto Plata, 18, DO, NA) sosua-link-40g.cableatlantico.com                                                                   
+   45.65.244.254   265721  139.26               (Sosúa, Puerto Plata, DO, NA) ripeatlas-anchor.cableatlantico.com                                                                 

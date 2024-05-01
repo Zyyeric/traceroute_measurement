@@ -1,0 +1,24 @@
+   192.102.254.220 395152  0.0          (Vancouver, British Columbia, CA, NA)                                                                                                     
+   192.102.254.3   395152  0.363        (Vancouver, British Columbia, CA, NA)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 65.49.79.249    6939    1.772        (Vancouver, British Columbia, CA, NA) e0-12.switch3.yvr2.he.net                                                                           
+LHL (6939)  exa-north-and-south ✓ || exa-express ✓
+├─ 184.104.195.13  6939    1.516              (Frankfurt am Main, HE, DE, EU) 100ge4-2.core1.fra1.he.net                                                                          
+LHL (6939)  apollo ✓ || flag-atlantic-1-fa-1 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.105.80.9    6939    56.986                      (New York, NY, US, NA) 100ge14-2.core1.nyc4.he.net                                                                         
+LHL (6939, )  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 185.1.170.149   *       155.624         (Frankfurt am Main, Hesse, DE, EU)                                                                                                     
+S (, 47605)  apollo ✘ ↠ havfrueaec-2 ✘ || flag-atlantic-1-fa-1 ✘ ↠ havfrueaec-2 ✘
+╰─ 87.236.154.31   47605   159.644                (Helsinki, Uusimaa, FI, EU)                                                                                                     
+   87.236.158.197  47605   155.83                        (None, None, FI, EU) *                                                                                                   
+   87.236.158.145  47605   159.325                       (None, None, FI, EU) *                                                                                                   
+   87.236.158.63   199087  166.467                       (None, None, FI, EU) *                                                                                                   
+   89.190.2.245    199087  166.522   (Lestijärvi, Central Ostrobothnia, FI, EU) dynamic-245-2.kasenet.fi                                                                            
+   89.190.1.74     199087  169.769   (Lestijärvi, Central Ostrobothnia, FI, EU) dynamic-74-1.kasenet.fi                                                                             

@@ -1,0 +1,18 @@
+   93.174.194.183  20904   0.0             (Oulu, North Ostrobothnia, FI, EU)                                                                                                     
+╭─ 93.174.194.182  20904   0.311           (Oulu, North Ostrobothnia, FI, EU)                                                                                                     
+LHL (20904, 6939)  exa-north-and-south ✘ || atlantic-crossing-1-ac-1 ✘ || flag-atlantic-1-fa-1 ✘ || apollo ✘ || yellow ✘ || tata-tgn-atlantic ✘
+├  10.20.250.219   *       0.473                                          ***                                                                                                     
+├  ***             *       -inf                                           *** *                                                                                                   
+├  10.20.160.20    *       7.62                                           ***                                                                                                     
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.81.150  6939    115.716                      (Ashburn, VA, US, NA) 100ge0-56.core3.ash1.he.net                                                                         
+   184.104.198.225 6939    166.771          (Los Angeles, California, US, NA) port-channel17.core2.lax1.he.net                                                                    
+╭─ 72.52.92.122    6939    168.225                  (Los Angeles, CA, US, NA) 100ge14-1.core1.lax2.he.net                                                                         
+S (6939)  new-cross-pacific-ncp-cable-system ✓ || trans-pacific-express-tpe-cable-system ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.81.70   6939    275.875                        (Seoul, 28, KR, AS) 10ge0-1.core2.sel1.he.net                                                                           
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   45.80.212.34    199524  297.008                     (Seoul, Seoul, KR, AS) vrrp.gcore.com                                                                                      
+   92.38.135.131   202422  297.464                     (Seoul, Seoul, KR, AS)                                                                                                     

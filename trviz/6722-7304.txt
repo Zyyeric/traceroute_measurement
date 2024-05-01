@@ -1,0 +1,9 @@
+   85.233.1.54     29505   0.0           (Lübeck, Schleswig-Holstein, DE, EU) de-lbc-as29505.anchors.atlas.ripe.net                                                               
+   85.233.1.50     29505   0.248         (Lübeck, Schleswig-Holstein, DE, EU) svi9.rt-core-lbc-nls-01.net.glasfaser.swhl.de                                                       
+   85.233.1.3      29505   0.346         (Lübeck, Schleswig-Holstein, DE, EU) et-0-0-1-0.rt-edge-lbc-sue-01.net.glasfaser.swhl.de                                                 
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 195.122.0.125   12578   33.891             (Frankfurt am Main, HE, DE, EU) *                                                                                                   
+LHL (12578, 51349)  baltica ✓ ↠ latvia-sweden-1-lv-se-1 👍 || baltica ✓ ↠ sweden-latvia ©
+├─ 195.122.18.250  51349   32.063                         (Riga, RIX, LV, EU) *                                                                                                   
+LHL (51349)  latvia-sweden-1-lv-se-1 ✓ ↠ sweden-estonia-ee-s-1 ✘ || latvia-sweden-1-lv-se-1 ✓ ↠ baltic-sea-submarine-cable ✘ || sweden-latvia ✘ ↠ sweden-estonia-ee-s-1 ✘ || sweden-latvia ✘ ↠ baltic-sea-submarine-cable ✘
+╰─ 195.43.87.140   51349   31.809                 (Tallinn, Harjumaa, EE, EU) rr-s-140.internet.ee                                                                                

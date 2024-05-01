@@ -1,0 +1,17 @@
+   172.93.18.42    1403    0.0                    (Longueuil, Quebec, CA, NA) ca-lon-as1403.anchors.atlas.ripe.net                                                                
+   172.93.18.41    1403    0.337                  (Longueuil, Quebec, CA, NA) 1804.ae12.er1.1225stco.yhu.ebox.ca                                                                  
+   96.127.249.165  1403    0.481                       (Montreal, QC, CA, NA) 0.ae1.er1.mtl7.yul.ebox.ca                                                                          
+╭─ 198.179.18.5    6939    1.046                     (Montreal, 10, CA, None) he.peer.qix.ca                                                                                      
+S&T (6939)  exa-north-and-south ✓
+├─ 184.105.213.140 6939    18.387           (New York City, New York, US, NA) 100ge0-40.core3.nyc4.he.net                                                                         
+S (6939)  exa-north-and-south ✓ || atlantic-crossing-1-ac-1 ✓ || yellow ✓ || apollo ✓ || tata-tgn-atlantic ✓ || flag-atlantic-1-fa-1 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.64.5    6939    79.176                   (London, England, GB, EU) port-channel4.core1.lon3.he.net                                                                     
+   184.104.192.134 6939    79.443                       (London, ENG, GB, EU) 100ge0-35.core3.lon1.he.net                                                                         
+   216.66.84.218   4455    78.817                       (London, ENG, GB, EU) ixreach-ltd.10gigabitethernet8-1.core1.lon1.he.net                                                  
+   91.196.184.176  4455    79.05                        (London, ENG, GB, EU) ae0-3132.bb.thn.lon.as43531.net                                                                     
+   31.217.131.65   4455    85.744                    (Liverpool, ENG, GB, EU) *                                                                                                   
+   31.217.131.66   41495   85.665                    (Liverpool, ENG, GB, EU) *                                                                                                   
+   46.227.206.85   41495   85.822               (Manchester, England, GB, EU) core0100.bond160.gagarin.a.faelix.net                                                               
+   46.227.206.42   41495   86.107                 (Didsbury, England, GB, EU) legacy.a.faelix.net                                                                                 
+   46.227.202.97   41495   86.415               (Manchester, England, GB, EU) uk-mnc-as41495.anchors.atlas.ripe.net                                                               

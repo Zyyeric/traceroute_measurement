@@ -1,0 +1,32 @@
+╭─ 196.49.84.188   328913  0.0                     (Douala, Littoral, CM, AF) cm-dla-as328913.anchors.atlas.ripe.net                                                              
+S (328913, 60171)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 102.219.44.42   60171   1.462                       (Lagos, Lagos, NG, AF)                                                                                                     
+S (60171)  
+├─ 185.10.164.44   60171   237.231             (Barcelona, Catalonia, ES, EU)                                                                                                     
+S (60171)  
+├─ 102.223.52.72   60171   237.603                     (Lagos, Lagos, NG, AF)                                                                                                     
+S (60171)  
+╰─ 185.10.164.33   60171   237.725             (Barcelona, Catalonia, ES, EU)                                                                                                     
+╭─ 185.10.164.134  60171   237.485             (Barcelona, Catalonia, ES, EU)                                                                                                     
+S&T (60171, 37542)  
+├─ 185.10.164.112  37542   240.325                      (London, ENG, GB, EU) *                                                                                                   
+S&T (37542, 60171)  
+├─ 185.10.164.98   60171   240.303             (Barcelona, Catalonia, ES, EU)                                                                                                     
+S&T (60171, 6939)  
+├─ 184.104.224.112 6939    241.258                   (Lisbon, Lisbon, PT, EU) e0-18.switch1.lis1.he.net                                                                           
+LHL (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.197.94  6939    313.543         (Virginia Beach, Virginia, US, NA) port-channel1.core2.orf2.he.net                                                                     
+   184.105.222.149 6939    354.863                        (Miami, FL, US, NA) 100ge0-79.core2.mia1.he.net                                                                         
+╭─ 184.104.199.178 6939    406.688                   (Miami, Florida, US, NA) 100ge0-35.core1.for1.he.net                                                                         
+S (6939, 28186)  
+╰─ 45.184.145.64   28186   424.543                    (Fortaleza, CE, BR, SA) as28186.fortaleza.ce.ix.br                                                                          
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   

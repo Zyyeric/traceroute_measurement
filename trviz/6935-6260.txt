@@ -1,0 +1,32 @@
+   185.39.208.23   199993  0.0                       (Lisbon, Lisbon, PT, EU) atlasancora01.wan.dns.pt                                                                            
+   185.39.208.60   199993  7.26                      (Lisbon, Lisbon, PT, EU)                                                                                                     
+   194.210.4.137   1930    4.581                     (Lisbon, Lisbon, PT, EU) router63.lisboa.fccn.pt                                                                             
+   194.210.6.112   1930    1.579                     (Lisbon, Lisbon, PT, EU) router30.lisboa.fccn.pt                                                                             
+   194.210.6.103   1930    6.374                     (Lisbon, Lisbon, PT, EU) router3.lisboa.fccn.pt                                                                              
+   194.210.6.102   1930    10.298                        (Lisbon, 11, PT, EU) Router30.Lisboa.fccn.pt                                                                             
+   193.136.1.9     1930    15.451                      (Porto, Porto, PT, EU) router20.porto.fccn.pt                                                                              
+   194.210.7.103   1930    8.354                          (Porto, 13, PT, EU) Router2.Porto.fccn.pt                                                                               
+╭─ 83.97.88.44     21320   7.535                     (Lisbon, Lisbon, PT, EU) fccn-ias-geant-gw.rt1.por.pt.geant.net                                                              
+S&T (21320, 20965)  west-africa-cable-system-wacs ✓ || africa-coast-to-europe-ace ✓ || sat-3wasc ✓ || seamewe-3 ✓
+├─ 62.40.98.220    20965   48.728                      (Bilbao, None, ES, EU) ae2.rt1.bil.es.geant.net                                                                            
+S&T (20965)  
+├─ 62.40.98.223    20965   46.406                        (Paris, IDF, FR, EU) ae4.mx1.par.fr.geant.net                                                                            
+T (20965)  
+╰─ 62.40.98.238    20965   49.375                    (Genève, Geneva, CH, EU) ae7.mx1.gen.ch.geant.net                                                                            
+╭─ 62.40.98.182    20965   48.684                      (Geneva, None, CH, EU) ae5.mx1.gen.ch.geant.net                                                                            
+T (20965, 3356)  
+├─ 62.67.72.69     3356    50.101          (Frankfurt am Main, Hesse, DE, EU) lag-117.ear4.frankfurt1.level3.net                                                                  
+LHL (3356)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 4.37.37.166     3356    143.676                   (Miami, Florida, US, NA) angola-cabl.edge6.miami1.level3.net                                                                 
+S (3356, 37468)  
+├─ 170.238.233.162 37468   147.668                 (Fortaleza, Ceará, BR, SA) 162.233.238.170.angolacables.ao                                                                     
+S (37468)  
+├─ 170.238.232.150 37468   215.888                       (None, None, AO, AF) *                                                                                                   
+S&T (37468)  
+╰─ 102.130.68.143  37468   232.433                 (Johannesburg, GT, ZA, AF) *                                                                                                   
+   102.130.70.58   37468   232.455            (Johannesburg, Gauteng, ZA, AF)                                                                                                     
+   37.19.193.191   60068   232.43             (Johannesburg, Gauteng, ZA, AF) p77-3502.cr1a.tdjb1.jnb1.za.917.as                                                                  
+   102.130.51.3    *       249.852            (Johannesburg, Gauteng, ZA, AF) e35-1-10.spine2.jnb01.za.misaka.io                                                                  
+   102.130.49.21   328383  232.848            (Johannesburg, Gauteng, ZA, AF) po-21.lag.jnb01.za.misaka.io                                                                        
+   102.130.49.144  328383  233.189            (Johannesburg, Gauteng, ZA, AF) za-jnb-as57695.anchors.atlas.ripe.net                                                               

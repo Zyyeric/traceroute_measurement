@@ -1,0 +1,16 @@
+   102.130.66.11   37468   0.0                       (Luanda, Luanda, AO, AF)                                                                                                     
+╭─ 102.130.66.1    37468   0.361                     (Luanda, Luanda, AO, AF)                                                                                                     
+S (37468)  south-atlantic-cable-system-sacs 👍
+├  100.64.192.118  *       0.361 (2.029)                                     ***                                                                                                     
+├─ 170.238.232.145 37468   62.568                        (None, None, BR, SA) *                                                                                                   
+S (37468, 6762)  ellalink ✘
+├  100.64.192.138  *       136.314                                        ***                                                                                                     
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 130.117.14.90   6762    197.656                       (Lisbon, 11, PT, EU) telecomitaliasparkle.lis01.atlas.cogentco.com                                                       
+S&T (6762)  
+╰─ 213.144.170.115 6762    197.33    (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) ae42.marsiglia3.mar.seabone.net                                                                     
+╭─ 213.144.184.153 6762    209.757   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU)                                                                                                     
+S&T (6762, 57187)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 94.206.39.74    57187   206.605                        (Dubai, DU, AE, AS) j48-1.dxa.dxb.ae.datamena.net                                                                       
+   94.207.43.2     57187   206.772                     (Dubai, Dubai, AE, AS) -094-207-043-002.datamena.net                                                                       

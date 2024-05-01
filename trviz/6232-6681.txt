@@ -1,0 +1,21 @@
+   103.77.105.3    133800  0.0                     (Jakarta, Jakarta, ID, AS) ip-3-105-77-103.jkt-1.biznetg.io                                                                    
+   103.77.105.28   133800  0.146                   (Jakarta, Jakarta, ID, AS) ip-28-105-77-103.jkt-1.biznetg.io                                                                   
+   137.59.127.33   *       0.244                   (Jakarta, Jakarta, ID, AS) xe-0-2.cr01.jkt.biznetg.io                                                                          
+   202.169.59.21   17451   0.496 (1.685)              (Jakarta, Jakarta, ID, AS)                                                                                                     
+╭─ 182.253.100.233 17451   0.748                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+S&T (17451)  australia-singapore-cable-asc ✓ || matrix-cable-system ✘ || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || indonesia-global-gateway-igg-system ✓ || seamewe-3 ✓ || indigo-west ✓ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || jasuka ✓ || jakabare ✓
+├─ 182.253.187.53  17451   11.94               (Singapore, Singapore, SG, AS)                                                                                                     
+S (17451, 137409)  
+├─ 27.111.229.213  137409  12.579                    (Seogwipo, None, KR, AS) 137409.sgw.equinix.com                                                                              
+S (137409, 7578)  
+╰─ 31.217.251.74   7578    12.573              (Singapore, Singapore, SG, AS) unknown.globalsecurelayer.com                                                                       
+╭─ 160.202.164.165 137409  85.004              (Singapore, Singapore, SG, AS)                                                                                                     
+S (137409, 8529)  
+├─ 134.0.217.225   8529    89.468                    (Muscat, Muscat, OM, AS)                                                                                                     
+S&T (8529, 42961)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 151.248.98.137  42961   184.424                       (None, None, BH, AS) *                                                                                                   
+S (42961)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 212.43.17.42    42961   183.961     (Al Farwānīyah, Al Farwaniyah, KW, AS)                                                                                                     

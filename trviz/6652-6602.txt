@@ -1,0 +1,18 @@
+   148.163.220.5   36236   0.0                 (São Paulo, São Paulo, BR, SA) br-sao-as36236.anchors.atlas.ripe.net                                                               
+   148.163.220.1   36236   0.958                 (Barueri, São Paulo, BR, SA)                                                                                                     
+   148.163.219.67  203961  0.784                      (São Paulo, SP, BR, SA) 67.219.163.148.ptr.anycast.net                                                                      
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 185.100.112.28  6762    0.792                 (Barueri, São Paulo, BR, SA)                                                                                                     
+S (6762)  south-america-1-sam-1 ✓ || monet ✓ || seabras-1 👍 || america-movil-submarine-cable-system-1-amx-1 © || brusa ✓ || globenet ✘ || americas-ii 👍
+├─ 89.221.41.155   6762    105.236                   (Miami, Florida, US, NA) ae9.miami16.mia.seabone.net                                                                         
+S (6762, 174)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 154.54.3.30     174     202.957                     (Santiago, RM, CL, SA) be2716.ccr51.scl01.atlas.cogentco.com                                                               
+╭─ 154.54.92.42    174     204.228   (Santiago, Santiago Metropolitan, CL, SA) be4156.rcr71.b072113-0.scl01.atlas.cogentco.com                                                     
+S (174, 1421)  
+├─ 154.24.5.114    1421    204.105                  (Los Angeles, CA, US, NA) te0-0-1-0.nr12.b027278-1.lax04.atlas.cogentco.com                                                   
+S (1421, 61506)  
+╰─ 138.204.229.98  61506   213.176             (Quillota, Valparaíso, CL, SA)                                                                                                     
+   138.204.228.160 61506   205.811                     (Quillota, VS, CL, SA) *                                                                                                   
+   138.204.228.2   61506   215.512                     (Quillota, VS, CL, SA) *                                                                                                   
+   138.204.228.25  61506   215.979           (Valparaíso, Valparaíso, CL, SA)                                                                                                     

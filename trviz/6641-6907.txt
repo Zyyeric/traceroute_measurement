@@ -1,0 +1,12 @@
+   103.153.176.122 131657  0.0                       (Taipei, Taiwan, TW, AS) 103-153-176-122.as131657.net                                                                        
+   103.153.176.254 131657  0.28                      (Taipei, Taiwan, TW, AS) 103-153-176-254.as131657.net                                                                        
+   103.51.91.5     *       0.446                     (Taipei, Taiwan, TW, AS) et-0-0-1.cr1.hd.tpe.as131657.net                                                                    
+╭─ 103.158.187.30  *       0.861                     (Taipei, Taiwan, TW, AS) as6939.ly.stuix.io                                                                                  
+S (, 6939)  eac-c2c ✘ || seamewe-3 ✘ || apcn-2 ✘ || trans-pacific-express-tpe-cable-system ✘ || asia-pacific-gateway-apg ✘ || new-cross-pacific-ncp-cable-system ✘ || flag-north-asia-loopreach-north-asia-loop ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.64.66   6939    62.744                         (Seoul, 28, KR, AS) 10ge0-2.core2.sel1.he.net                                                                           
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   45.80.212.35    199524  60.488                      (Seoul, Seoul, KR, AS) vrrp.gcore.com                                                                                      
+   92.38.135.131   202422  60.584                      (Seoul, Seoul, KR, AS)                                                                                                     

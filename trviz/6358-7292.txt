@@ -1,0 +1,25 @@
+   89.213.179.65   32167   0.0                 (Hong Kong, Hong Kong, HK, AS) 89-213-179-65.ip.lshiyusercontent.com                                                               
+   89.213.179.64   32167   0.201             (Kadoorie, Kowloon City, HK, AS) 89-213-179-64.ip.lshiyusercontent.com                                                               
+   103.203.243.10  955     0.353             (Kadoorie, Kowloon City, HK, AS) port-channe17.switch1.hkg1.bb.lshiy.net                                                             
+╭─ 184.104.194.90  6939    1.195               (Hong Kong, Hong Kong, HK, AS) port-channel5.core2.hkg2.he.net                                                                     
+S (6939)  asia-africa-europe-1-aae-1 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.105.81.29   6939    181.632                       (Paris, IDF, FR, EU) port-channel8.core2.par2.he.net                                                                     
+S&T (6939)  seamewe-3 ✓
+╰─ 72.52.92.165    6939    259.032                      (London, ENG, GB, EU) 100ge7-1.core1.lon2.he.net                                                                          
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 184.104.205.253 6939    234.673                  (London, England, GB, EU) mtn-globalconnect-solutions-ltd.port-channel7.core1.lon3.he.net                                     
+T (6939, 16637)  
+├─ 41.181.189.65   16637   235.389                     (Pretoria, GP, ZA, AF) *                                                                                                   
+T (16637)  
+╰─ 41.181.105.105  16637   234.453                  (London, England, GB, EU)                                                                                                     
+╭─ 41.181.244.176  16637   235.344                  (London, England, GB, EU)                                                                                                     
+T (16637, 20294)  
+├─ 41.181.247.39   20294   274.832                       (None, None, ZA, AF) *                                                                                                   
+LHL (20294)  
+╰─ 212.88.110.34   20294   270.816          (Kampala, Central Region, UG, AF)                                                                                                     
+   129.205.30.76   37063   272.334                       (Kampala, C, UG, AF) *                                                                                                   
+   41.191.77.206   328998  274.119                       (Kampala, C, UG, AF) *                                                                                                   
+   196.49.15.189   328998  273.967          (Kampala, Central Region, UG, AF)                                                                                                     

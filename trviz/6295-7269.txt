@@ -1,0 +1,15 @@
+   116.206.155.229 45117   0.0                   (Ahmedabad, Gujarat, IN, AS)                                                                                                     
+   116.206.155.225 45117   0.849                 (Ahmedabad, Gujarat, IN, AS)                                                                                                     
+   121.241.90.57   4755    0.608                 (Ahmedabad, Gujarat, IN, AS) 121.241.90.57.static-ahmedabad.vsnl.net.in                                                          
+   172.28.176.253  *       9.103                                          ***                                                                                                     
+   180.87.38.5     6453    8.991                         (Mumbai, MH, IN, AS) ix-ae-0-100.tcore1.mlv-mumbai.as6453.net                                                            
+╭─ 180.87.38.2     6453    138.716                       (Mumbai, MH, IN, AS) if-ae-2-2.tcore2.mlv-mumbai.as6453.net                                                              
+S (6453)  
+╰─ 180.87.39.21    6453    129.932                  (London, England, GB, EU) if-ae-12-2.tcore1.l78-london.as6453.net                                                             
+╭─ 80.231.130.130  6453    133.46                      (London, None, GB, EU) if-ae-17-2.tcore1.ldn-london.as6453.net                                                             
+S&T (6453, 42313)  
+├─ 195.22.192.197  42313   171.41                         (Milan, 25, IT, EU) albanian-telecom.milano51.mil.seabone.net                                                           
+S&T (42313, 42409)  
+╰─ 217.24.245.22   42409   169.427                       (None, None, AL, EU) *                                                                                                   
+   194.1.149.250   42409   175.426                       (None, None, AL, EU) *                                                                                                   
+   194.1.149.210   42409   170.487                   (Tirana, Tirana, AL, EU)                                                                                                     

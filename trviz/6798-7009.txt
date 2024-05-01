@@ -1,0 +1,12 @@
+   45.94.14.204    208520  0.0                (Riyadh, Riyadh Region, SA, AS)                                                                                                     
+   45.94.14.193    208520  0.248              (Riyadh, Riyadh Region, SA, AS)                                                                                                     
+╭─ 212.138.250.7   8895    0.569              (Riyadh, Riyadh Region, SA, AS)                                                                                                     
+S (8895, 3257)  europe-india-gateway-eig ✓ || seamewe-3 ✓ || flag-europe-asia-fea ✘
+├─ 154.14.64.197   3257    91.972                   (London, England, GB, EU) et-0-0-8-2.cr11-lon1.ip4.gtt.net                                                                    
+T (3257)  
+├─ 89.149.187.205  3257    205.552         (Frankfurt am Main, Hesse, DE, EU) ae5.cr2-dxb1.ip4.gtt.net                                                                            
+T (3257, 36236)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 185.34.2.114    36236   206.166                     (Dubai, Dubai, AE, AS)                                                                                                     

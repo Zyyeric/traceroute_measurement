@@ -1,0 +1,19 @@
+   103.170.154.254 142594  0.0                      (London, England, GB, EU) 254.154.170.103.speedyvps.uk                                                                        
+╭─ 103.170.154.1   142594  0.171                    (London, England, GB, EU)                                                                                                     
+T (142594, 60068)  
+├─ 156.146.32.94   60068   0.28                      (Prague, Prague, CZ, EU) unn-156-146-32-94.cdn77.com                                                                         
+T (60068, 201011)  
+╰─ 81.95.9.54      201011  0.417                    (London, England, GB, EU) ae22-401.lon10.core-backbone.com                                                                    
+╭─ 195.66.226.161  21320   0.746                      (London, ENG, GB, None) linx.ix.geant.net                                                                                   
+S&T (21320, 20965)  flag-europe-asia-fea ✘ || seamewe-3 ✓ || tata-tgn-western-europe ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 62.40.98.107    20965   7.314                          (Madrid, M, ES, EU) ae0.mx1.mad.es.geant.net                                                                            
+S&T (20965, 2200)  
+╰─ 83.97.89.10     2200    7.274                         (Paris, IDF, FR, EU) renater-ias-renater-gw.par.fr.geant.net                                                             
+   193.55.204.193  2200    19.565                       (Paris, None, FR, EU) et-2-0-0-ren-nr-paris2-rtr-131.noc.renater.fr                                                       
+   193.51.177.239  2200    19.949                  (Rennes, Brittany, FR, EU) hu0-3-0-1-ren-nr-lyon2-rtr-091.noc.renater.fr                                                       
+   193.55.204.15   2200    19.276                      (Rennes, None, FR, EU) te0-3-0-0-ren-nr-rennes-rtr-091.noc.renater.fr                                                      
+   193.51.181.93   2200    2602.768                  (Grenoble, None, FR, EU) man-tigre-te1-4-grenoble-rtr-021.noc.renater.fr                                                     
+   193.54.185.10   1942    20.046             (Épinay-sur-Seine, IDF, FR, EU) r-epn.grenet.fr                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   193.49.43.151   2200    19.492    (Grenoble, Auvergne-Rhône-Alpes, FR, EU)                                                                                                     

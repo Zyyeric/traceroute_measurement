@@ -1,0 +1,27 @@
+   185.39.208.23   199993  0.0                       (Lisbon, Lisbon, PT, EU) atlasancora01.wan.dns.pt                                                                            
+   185.39.208.60   199993  0.474                     (Lisbon, Lisbon, PT, EU)                                                                                                     
+   194.210.4.137   1930    0.975                     (Lisbon, Lisbon, PT, EU) router63.lisboa.fccn.pt                                                                             
+   194.210.6.112   1930    0.896                     (Lisbon, Lisbon, PT, EU) router30.lisboa.fccn.pt                                                                             
+   194.210.6.103   1930    1.204                     (Lisbon, Lisbon, PT, EU) router3.lisboa.fccn.pt                                                                              
+   194.210.6.102   1930    8.881                         (Lisbon, 11, PT, EU) Router30.Lisboa.fccn.pt                                                                             
+   193.136.1.9     1930    6.979                       (Porto, Porto, PT, EU) router20.porto.fccn.pt                                                                              
+   194.210.7.103   1930    7.17                           (Porto, 13, PT, EU) Router2.Porto.fccn.pt                                                                               
+╭─ 83.97.88.44     21320   6.695                     (Lisbon, Lisbon, PT, EU) fccn-ias-geant-gw.rt1.por.pt.geant.net                                                              
+S&T (21320, 20965)  west-africa-cable-system-wacs ✓ || africa-coast-to-europe-ace ✓ || tata-tgn-western-europe ✘ || sat-3wasc ✓ || seamewe-3 ✓
+├─ 62.40.98.220    20965   45.196                      (Bilbao, None, ES, EU) ae2.rt1.bil.es.geant.net                                                                            
+S&T (20965)  
+├─ 62.40.98.223    20965   45.232                        (Paris, IDF, FR, EU) ae4.mx1.par.fr.geant.net                                                                            
+T (20965)  
+╰─ 62.40.98.238    20965   47.427                    (Genève, Geneva, CH, EU) ae7.mx1.gen.ch.geant.net                                                                            
+╭─ 62.40.98.182    20965   46.943                      (Geneva, None, CH, EU) ae5.mx1.gen.ch.geant.net                                                                            
+T (20965, 3356)  
+╰─ 62.67.72.69     3356    46.946          (Frankfurt am Main, Hesse, DE, EU) lag-117.ear4.frankfurt1.level3.net                                                                  
+   171.75.8.101    3356    45.094          (Frankfurt am Main, Hesse, DE, EU) ae2.3222.edge9.frf1.neo.colt.net                                                                    
+╭─ 63.218.233.1    3491    47.228             (Frankfurt am Main, HE, DE, EU) 63-218-233-1.static.pccwglobal.net                                                                  
+LHL (3491)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 63.222.7.46     3491    304.966             (Hong Kong, Hong Kong, HK, AS) 63-222-7-46.static.pccwglobal.net                                                                   

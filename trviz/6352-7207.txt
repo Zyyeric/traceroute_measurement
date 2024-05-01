@@ -1,0 +1,24 @@
+   102.222.106.178 328699  0.0               (Port Louis, Port Louis, MU, AF)                                                                                                     
+   102.222.106.1   328699  0.246             (Ebene, Plaines Wilhems, MU, AF)                                                                                                     
+╭─ 196.46.49.33    36868   0.384             (Ebene, Plaines Wilhems, MU, AF)                                                                                                     
+S (36868, 6939)  meltingpot-indianoceanic-submarine-system-metiss ✘ || safe ✓
+╰─ 196.46.34.109   6939    43.976                  (Johannesburg, GT, ZA, AF) *                                                                                                   
+   105.22.34.173   37100   44.085             (Johannesburg, Gauteng, ZA, AF) ce-0-1-5-91.er-01-jnb.za.seacomnet.com                                                              
+   105.16.29.2     37100   207.527                 (Johannesburg, GT, ZA, AF) ce-0-3-0-0.cr-02-jnb.za.seacomnet.com                                                               
+╭─ 105.25.160.154  37100   205.9            (Cape Town, Western Cape, ZA, AF) ce-0-2-9.cr-02-cpt.za.seacomnet.com                                                                 
+T (37100)  
+╰─ 105.25.160.126  37100   202.806                  (London, England, GB, EU) ce-0-0-13.cr-02-lhr.uk.seacomnet.com                                                                
+   105.16.35.8     37100   202.571                      (London, ENG, GB, EU) ae-4-0.pp-01-lhr.uk.seacomnet.com                                                                   
+   195.66.225.24   2603    203.076                    (London, ENG, GB, None) *                                                                                                   
+╭─ 109.105.102.98  2603    212.028                      (London, ENG, GB, EU) ndn-gw.mx1.lon.uk.geant.net                                                                         
+S&T (2603, 20965)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 62.40.98.222    20965   229.896                     (Bilbao, None, ES, EU) ae4.rt1.bil.es.geant.net                                                                            
+S&T (20965, 21320)  
+├─ 83.97.90.19     21320   218.202                  (London, England, GB, EU) rediris-ias-geant.bil.es.geant.net                                                                  
+S&T (21320, 766)  
+╰─ 130.206.245.22  766     222.802                       (None, None, ES, EU) ehu.rt2.ethtrunk3.unizar.rt2.ara.red.rediris.es                                                     
+   130.206.245.94  766     221.883                       (None, None, ES, EU) unizar.rt2.ae6-323.telmad.rt4.mad.red.rediris.es                                                    
+   130.206.214.98  13041   236.309                       (None, None, ES, EU) anella-router.red.rediris.es                                                                        
+   84.88.18.254    13041   228.557             (Barcelona, Catalonia, ES, EU) anchor-anella.cesca.cat                                                                             

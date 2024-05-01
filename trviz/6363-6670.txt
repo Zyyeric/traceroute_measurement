@@ -1,0 +1,12 @@
+   92.223.59.77    202422  0.0                      (London, England, GB, EU)                                                                                                     
+   92.223.59.3     202422  0.417                        (London, ENG, GB, EU) vrrp.gcore.lu                                                                                       
+   10.255.85.181   *       0.427                                          ***                                                                                                     
+   10.255.85.179   *       1.247                                          ***                                                                                                     
+   10.255.19.137   *       1.237                                          ***                                                                                                     
+╭─ 195.66.226.161  21320   1.126                      (London, ENG, GB, None) linx.ix.geant.net                                                                                   
+S&T (21320, 20965)  circe-north ✓ || ulysses-2 ✘ || scylla ✘ || zeus ✓ || atlantic-crossing-1-ac-1 ✓ || concerto ✘ || farland-north ✘
+├─ 62.40.98.22     20965   12.96           (Amsterdam, North Holland, NL, EU) ae4.rt1.ams.nl.geant.net                                                                            
+T (20965)  
+╰─ 62.40.98.21     20965   12.992          (Frankfurt am Main, Hesse, DE, EU) ae8.rt1.fra.de.geant.net                                                                            
+   ***             *       -inf                                           *** *                                                                                                   
+   83.97.95.20     20965   28.748          (Frankfurt am Main, Hesse, DE, EU) prod-ripe-atlas-anchor.geant.net                                                                    

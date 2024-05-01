@@ -1,0 +1,13 @@
+   46.166.168.3    16125   0.0                   (Šiauliai, Siauliai, LT, EU)                                                                                                     
+   46.166.168.1    16125   0.693                 (Šiauliai, Siauliai, LT, EU)                                                                                                     
+   46.166.166.16   16125   0.574                 (Šiauliai, Siauliai, LT, EU)                                                                                                     
+╭─ 216.66.90.161   6939    0.594 (5.76)              (Vilnius, Vilnius, LT, EU) ve107.core2.vno1.he.net                                                                             
+S&T (6939)  bcs-east ✓
+├─ 184.104.192.89  6939    15.738                         (Riga, RIX, LV, EU) 100ge5-2.core1.rix1.he.net                                                                          
+LHL (6939)  latvia-sweden-1-lv-se-1 ✓ ↠ bcs-north---phase-1 ✓ || latvia-sweden-1-lv-se-1 ✓ ↠ eastern-light ✘ || latvia-sweden-1-lv-se-1 ✓ ↠ sweden-finland-4-sfs-4 ✓ || latvia-sweden-1-lv-se-1 ✓ ↠ baltic-sea-submarine-cable ✓ || sweden-latvia ✓ ↠ bcs-north---phase-1 ✓ || sweden-latvia ✓ ↠ eastern-light ✘ || sweden-latvia ✓ ↠ sweden-finland-4-sfs-4 ✓ || sweden-latvia ✓ ↠ baltic-sea-submarine-cable ✓ || latvia-sweden-1-lv-se-1 ✓ ↠ botnia ✓ || sweden-latvia ✓ ↠ botnia ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.192.98  6939    17.974                      (Helsinki, 18, FI, EU) 100ge4-2.core1.hel1.he.net                                                                          
+T (6939, )  
+╰─ 185.1.153.156   *       28.134    (Saint Petersburg, St.-Petersburg, RU, EU) pin1.spb.piter-ix.net                                                                               
+   ***             *       -inf                                           *** *                                                                                                   
+   188.143.128.12  44050   27.494    (Saint Petersburg, St.-Petersburg, RU, EU)                                                                                                     

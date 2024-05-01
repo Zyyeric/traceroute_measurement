@@ -1,0 +1,15 @@
+   92.38.135.131   202422  0.0                         (Seoul, Seoul, KR, AS)                                                                                                     
+   92.38.135.2     202422  0.279                       (Seoul, Seoul, KR, AS) vrrp.gcore.lu                                                                                       
+   10.255.17.209   *       0.332                                          ***                                                                                                     
+   10.255.17.213   *       0.272                                          ***                                                                                                     
+   10.255.17.147   *       0.266                                          ***                                                                                                     
+╭─ 113.29.52.41    3549    0.466                       (Seoul, Seoul, KR, AS)                                                                                                     
+S (3549, 3356)  korea-japan-cable-network-kjcn ✘ || seamewe-3 ✘
+╰─ 4.69.217.14     3356    31.181                         (Tokyo, 13, JP, AS) ae1.3505.edge2.Tokyo4.level3.net                                                                    
+╭─ 4.68.70.86      3491    31.154                         (Tokyo, 13, JP, AS) PCCW-level3-Tokyo4.Level3.net                                                                       
+S (3491)  seamewe-3 👍
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 63.223.193.193  3491    57.226                   (Hong Kong, None, HK, AS) TenG0-0-0-1.dcbr01.hkg39.pccwbtn.net                                                                
+   63.222.7.46     3491    56.591              (Hong Kong, Hong Kong, HK, AS) 63-222-7-46.static.pccwglobal.net                                                                   

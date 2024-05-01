@@ -1,0 +1,19 @@
+   185.209.84.141  57578   0.0               (Khabarovsk, Khabarovsk, RU, EU) ru-khv-as57578.anchors.atlas.ripe.net                                                               
+   ***             *       -inf                                           *** *                                                                                                   
+   92.38.191.67    210756  0.361             (Khabarovsk, Khabarovsk, RU, EU) vrrp.edgecenter.ru                                                                                  
+   92.223.110.3    210756  0.35              (Khabarovsk, Khabarovsk, RU, EU)                                                                                                     
+   10.255.10.186   *       0.487                                          ***                                                                                                     
+   188.254.90.105  12389   0.636             (Khabarovsk, Khabarovsk, RU, EU)                                                                                                     
+╭─ 185.140.148.29  12389   117.981   (Saint Petersburg, St.-Petersburg, RU, EU)                                                                                                     
+LHL (12389, 1299)  
+╰─ 80.239.128.74   1299    120.7               (Stockholm, Stockholm, SE, EU) s-b2-link.ip.twelve99.net                                                                           
+╭─ 62.115.140.216  1299    120.812             (Stockholm, Stockholm, SE, EU) s-bb2-link.ip.twelve99.net                                                                          
+LHL (1299)  atlantic-crossing-1-ac-1 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 62.115.132.135  1299    226.539                (Chicago, Illinois, US, NA) chi-bb2-link.ip.twelve99.net                                                                        
+   62.115.132.155  1299    268.78               (Seattle, Washington, US, NA) sea-b1-link.ip.twelve99.net                                                                         
+╭─ 213.248.74.221  1299    270.789              (Seattle, Washington, US, NA) telus-ic-326504.ip.twelve99-cust.net                                                                
+S&T (1299, 852)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 206.108.17.63   852     275.154      (Vancouver, British Columbia, CA, NA) host63.17.108.206.in-addr.arpa                                                                      

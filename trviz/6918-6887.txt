@@ -1,0 +1,15 @@
+   27.111.84.21    135132  0.0           (Cebu City, Central Visayas, PH, AS) ph-ceb-as135132.anchors.atlas.ripe.net                                                              
+   27.111.84.20    135132  1.311             (Baugo, Central Visayas, PH, AS) vlan509.core.ceb02.ds.network                                                                       
+   ***             *       -inf                                           *** *                                                                                                   
+   192.168.159.152 *       2.434                                          ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   192.168.159.165 *       3.892                                          ***                                                                                                     
+╭─ 43.224.189.33   137074  2.682             (Baugo, Central Visayas, PH, AS) 43-224-189-33.static.rise.as                                                                        
+S (137074, 63949)  national-digital-transmission-network-ndtn ✘ ↠ eac-c2c ✘ || national-digital-transmission-network-ndtn ✘ ↠ seamewe-3 ✘
+├  10.255.64.24    *       40.01                                          ***                                                                                                     
+├─ 27.111.228.235  63949   55.438                    (Seogwipo, None, KR, AS) 63949.sgw.equinix.com                                                                               
+S (63949)  
+├  10.209.32.2     *       44.091                                         ***                                                                                                     
+├  10.209.35.10    *       41.153                                         ***                                                                                                     
+├  10.209.1.183    *       42.517                                         ***                                                                                                     
+╰─ 139.162.3.33    63949   42.25               (Singapore, Singapore, SG, AS) li845-33.members.linode.com                                                                         

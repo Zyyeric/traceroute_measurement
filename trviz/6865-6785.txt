@@ -1,0 +1,14 @@
+   103.15.246.16   58717   0.0                         (Dhaka, Dhaka, BD, AS)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   172.16.203.70   *       0.978                                          ***                                                                                                     
+   157.119.185.197 58717   1.323                           (Dhaka, C, BD, AS) *                                                                                                   
+╭─ 103.199.87.38   58717   2.441                         (None, None, BD, AS) *                                                                                                   
+S (58717)  seamewe-5 ✓ || seamewe-4 ✓
+├─ 157.119.185.126 58717   45.825              (Singapore, Singapore, SG, AS) 157.119.185.126.summitiig.net                                                                       
+S (58717, 6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.193.154 6939    180.978                    (Brussels, BRU, BE, EU) 100ge0-35.core2.bru1.he.net                                                                         
+   184.104.206.254 212882  178.824                    (Brussels, BRU, BE, EU) dnx-network-sarl.10gigabitethernet11-4.core1.bru1.he.net                                            
+   91.237.218.10   212882  180.304               (Zaventem, Flanders, BE, EU) atlas.dnx.lu                                                                                        

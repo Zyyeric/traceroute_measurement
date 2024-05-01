@@ -1,0 +1,25 @@
+   196.49.14.25    30997   0.0                 (Accra, Greater Accra, GH, AF)                                                                                                     
+   196.49.14.1     30997   0.545               (Accra, Greater Accra, GH, AF)                                                                                                     
+╭─ 197.221.70.89   *       1.376               (Accra, Greater Accra, GH, AF)                                                                                                     
+S&T (, 3741)  
+╰─ 196.14.240.4    3741    1.338                         (None, None, ZA, AF) *                                                                                                   
+╭─ 168.209.160.109 3741    256.227                       (None, None, ZA, AF) *                                                                                                   
+T (3741)  
+├─ 168.209.160.108 3741    256.248                  (London, England, GB, EU)                                                                                                     
+T (3741)  
+├─ 168.209.246.1   3741    256.726                       (None, None, ZA, AF) core1b-dock-be-1.ip.ddii.network                                                                    
+LHL (3741, 6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 72.52.92.206    6939    206.281                   (Bratislava, BL, SK, EU) 100ge5-1.core1.bts1.he.net                                                                          
+LHL (6939)  
+├─ 184.105.222.129 6939    213.122                      (Belgrade, 0, RS, EU) 100ge0-36.core2.beg1.he.net                                                                         
+LHL (6939)  
+├─ 184.104.196.194 6939    215.687                       (Denver, CO, US, NA) port-channel1.core1.den3.he.net                                                                     
+LHL (6939)  
+╰─ 184.105.64.170  6939    226.878                       (Athens, A1, GR, EU) 100ge0-36.core1.ath1.he.net                                                                         
+   184.104.191.234 6939    226.917                   (Koropí, Attica, GR, EU) fast-telecom-p-c.e0-7.core1.ath1.he.net                                                             
+   ***             *       -inf                                           *** *                                                                                                   
+   185.14.96.225   211186  246.203            (Lamía, Central Greece, GR, EU) vlan4090.lamia.fast.net.gr                                                                          
+   185.14.96.232   211186  245.132            (Lamía, Central Greece, GR, EU)                                                                                                     

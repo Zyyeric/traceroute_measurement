@@ -1,0 +1,15 @@
+   37.252.245.94   42473   0.0                         (Dubai, Dubai, AE, AS)                                                                                                     
+   37.252.245.93   42473   9.535                       (Dubai, Dubai, AE, AS)                                                                                                     
+╭─ 213.202.2.0     8529    12.207                      (Dubai, Dubai, AE, AS)                                                                                                     
+S (8529)  seamewe-5 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 213.202.6.227   8529    82.235              (Singapore, Singapore, SG, AS)                                                                                                     
+S (8529, 9002)  
+├─ 103.231.152.156 9002    87.773                        (None, None, HK, AS) *                                                                                                   
+S (9002)  
+├─ 87.245.231.201  9002    107.661             (Singapore, Singapore, SG, AS) gw-as140443.retn.net                                                                                
+S&T (9002, 140443)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 38.47.188.1     140443  246.235       (Kuala Lumpur, Kuala Lumpur, MY, AS)                                                                                                     
+   38.47.189.189   140443  409.295       (Kuala Lumpur, Kuala Lumpur, MY, AS)                                                                                                     

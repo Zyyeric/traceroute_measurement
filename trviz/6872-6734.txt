@@ -1,0 +1,15 @@
+   95.217.19.69    24940   0.0                    (Helsinki, Uusimaa, FI, EU) fi-tuu-as24940-client.anchors.atlas.ripe.net                                                        
+   172.31.1.1      *       2.26                                           ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   88.198.252.117  24940   1.222                    (Vantaa, Uusimaa, FI, EU) spine2.cloud1.hel1.hetzner.com                                                                      
+   213.239.228.49  24940   1.352                    (Vantaa, Uusimaa, FI, EU) spine16.cloud1.hel1.hetzner.com                                                                     
+╭─ 213.239.228.9   24940   0.836                    (Vantaa, Uusimaa, FI, EU) core31.hel1.hetzner.com                                                                             
+S&T (24940)  
+├─ 213.239.224.37  24940   0.861                         (None, None, DE, EU) juniper4.dc1.hel1.hetzner.com                                                                       
+LHL (24940, 31500)  
+├─ 109.239.137.251 31500   7.649                         (None, None, AG, NA) gw1-bm18.global-ix.ru                                                                               
+LHL (31500, 43317)  
+╰─ 109.239.133.90  43317   7.563                       (Redkino, TVE, RU, EU) *                                                                                                   
+   94.242.0.7      43317   7.129     (Saint Petersburg, St.-Petersburg, RU, EU)                                                                                                     
+   94.242.1.50     43317   6.805     (Saint Petersburg, St.-Petersburg, RU, EU) ripe-anchor.rnet.ru                                                                                 

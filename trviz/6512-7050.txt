@@ -1,0 +1,27 @@
+╭─ 196.49.84.188   328913  0.0                     (Douala, Littoral, CM, AF) cm-dla-as328913.anchors.atlas.ripe.net                                                              
+S (328913)  
+╰─ 196.49.84.177   328913  0.49                    (Abidjan, Abidjan, CI, AF)                                                                                                     
+╭─ 196.49.84.34    328913  0.485                   (Abidjan, Abidjan, CI, AF) bdr2.std.douala-ix.net                                                                              
+S&T (328913, )  
+├─ 196.60.84.61    *       1.142                   (Douala, Littoral, CM, AF) as328840.member.std.douala-ix.net                                                                   
+S (, 60171)  
+├─ 102.219.44.42   60171   1.116                       (Lagos, Lagos, NG, AF)                                                                                                     
+S (60171)  
+├─ 185.10.164.44   60171   352.931             (Barcelona, Catalonia, ES, EU)                                                                                                     
+S (60171)  
+├─ 102.223.52.72   60171   353.424                     (Lagos, Lagos, NG, AF)                                                                                                     
+S (60171)  
+╰─ 185.10.164.33   60171   353.549             (Barcelona, Catalonia, ES, EU)                                                                                                     
+╭─ 185.10.164.134  60171   353.207             (Barcelona, Catalonia, ES, EU)                                                                                                     
+S&T (60171, 37542)  
+├─ 185.10.164.112  37542   355.996                      (London, ENG, GB, EU) *                                                                                                   
+S&T (37542, 60171)  
+╰─ 185.10.164.98   60171   355.955             (Barcelona, Catalonia, ES, EU)                                                                                                     
+   185.35.142.61   60171   355.954                       (None, None, ES, EU) *                                                                                                   
+╭─ 185.35.142.32   60171   355.918                       (None, None, ES, EU) *                                                                                                   
+S&T (60171, 28792)  
+╰─ 195.66.224.131  28792   353.016                    (London, ENG, GB, None) *                                                                                                   
+   80.82.243.141   28792   353.141                      (Witney, ENG, GB, EU) gi-2-1-0.lon-core-01.ip.pblin.net                                                                   
+   80.82.243.120   28792   355.703                      (Witney, ENG, GB, EU) oxf-core-02.ip.pblin.net                                                                            
+   80.82.243.127   28792   355.956                      (Witney, ENG, GB, EU) oxf-access-10.ip.pblin.net                                                                          
+   80.82.241.134   28792   355.911                  (London, England, GB, EU) 134-241-82-80.in-addr.pblin.net                                                                     

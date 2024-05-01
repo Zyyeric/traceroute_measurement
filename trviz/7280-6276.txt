@@ -1,0 +1,24 @@
+   194.149.138.252 5379    0.0                  (Skopje, Grad Skopje, MK, EU)                                                                                                     
+   194.149.138.254 5379    1.287                (Skopje, Grad Skopje, MK, EU)                                                                                                     
+   194.149.137.73  5379    0.493                (Skopje, Grad Skopje, MK, EU)                                                                                                     
+╭─ 194.149.130.90  5379    0.47                 (Skopje, Grad Skopje, MK, EU)                                                                                                     
+T (5379, 21320)  
+├─ 83.97.88.101    21320   0.542 (4.523)          (Sofia, Sofia-Capital, BG, EU) marnet-ias.mx1.sof.bg.geant.net                                                                     
+LHL (21320, 20965)  
+├─ 62.40.98.9      20965   19.952                    (Zagreb, Zagreb, HR, EU) ae0.mx2.zag.hr.geant.net                                                                            
+LHL (20965)  
+├─ 62.40.98.188    20965   20.994                         (Milan, 25, IT, EU) ae8.mx1.mil2.it.geant.net                                                                           
+T (20965, 6939)  
+├─ 193.188.137.175 6939    19.773                     (Budapest, 5, HU, None) bix.he.net                                                                                          
+T (6939)  
+├─ 72.52.92.206    6939    23.975                    (Bratislava, BL, SK, EU) 100ge5-1.core1.bts1.he.net                                                                          
+LHL (6939)  
+├─ 184.105.222.129 6939    31.504                       (Belgrade, 0, RS, EU) 100ge0-36.core2.beg1.he.net                                                                         
+T (6939)  
+├─ 184.105.65.134  6939    35.775                         (Sofia, 23, BG, EU) 100ge10-1.core1.sof1.he.net                                                                         
+T (6939)  
+╰─ 184.105.64.170  6939    47.187                        (Athens, A1, GR, EU) 100ge0-36.core1.ath1.he.net                                                                         
+   184.104.191.234 6939    47.017                    (Koropí, Attica, GR, EU) fast-telecom-p-c.e0-7.core1.ath1.he.net                                                             
+   ***             *       -inf                                           *** *                                                                                                   
+   185.14.96.225   211186  84.259             (Lamía, Central Greece, GR, EU) vlan4090.lamia.fast.net.gr                                                                          
+   185.14.96.232   211186  76.403             (Lamía, Central Greece, GR, EU)                                                                                                     

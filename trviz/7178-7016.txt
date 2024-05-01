@@ -1,0 +1,17 @@
+   103.160.63.222  140443  0.0                     (Jakarta, Jakarta, ID, AS) 222.63.160.103.in-addr.herza.id                                                                     
+╭─ 103.160.63.129  140443  0.319                   (Jakarta, Jakarta, ID, AS) 129.63.160.103.in-addr.herza.id                                                                     
+S&T (140443, 3491)  indonesia-global-gateway-igg-system ✓ || australia-singapore-cable-asc ✓ || matrix-cable-system ✘ || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || seamewe-3 ✓ || jasuka ✓ || indigo-west ✘ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || jakabare ✘
+├  10.111.220.46   *       0.447                                          ***                                                                                                     
+├  10.111.220.6    *       12.272                                         ***                                                                                                     
+├  10.111.222.209  *       12.582                                         ***                                                                                                     
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 63.216.144.42   3491    183.486             (Singapore, Singapore, SG, AS) 63-216-144-42.static.pccwglobal.net                                                                 
+LHL (3491, 3257)  seamewe-5 ✓ || seamewe-4 ✓ || peace-cable ✘ || seamewe-3 👍
+├─ 89.149.136.133  3257    252.483            (Frankfurt am Main, HE, DE, EU) et-10-0-2.cr8-fra2.ip4.gtt.net                                                                      
+T (3257, 25003)  
+├─ 46.33.95.118    25003   244.646                    (Rotterdam, ZH, NL, EU) ib-gw.ip4.gtt.net                                                                                   
+LHL (25003)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 94.188.255.2    25003   294.073              (Bnei Brak, Tel Aviv, IL, AS) 255.188.94-binat-smaug.in-addr.arpa                                                                 

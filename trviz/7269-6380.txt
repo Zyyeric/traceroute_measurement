@@ -1,0 +1,23 @@
+   196.49.14.25    30997   0.0                 (Accra, Greater Accra, GH, AF)                                                                                                     
+   196.49.14.1     30997   0.467               (Accra, Greater Accra, GH, AF)                                                                                                     
+╭─ 197.221.70.89   *       0.996               (Accra, Greater Accra, GH, AF)                                                                                                     
+S&T (, 3741)  
+╰─ 196.14.240.4    3741    1.053                         (None, None, ZA, AF) *                                                                                                   
+╭─ 168.209.160.109 3741    256.008                       (None, None, ZA, AF) *                                                                                                   
+T (3741)  
+├─ 168.209.160.108 3741    256.75                   (London, England, GB, EU)                                                                                                     
+T (3741)  
+├─ 168.209.246.65  3741    257.46                        (None, None, ZA, AF) core1b-dock-be-2.ip.ddii.network                                                                    
+T (3741, 174)  
+╰─ 149.6.148.129   174     255.712                      (London, ENG, GB, EU) te0-1-0-2-8.ccr21.lon02.atlas.cogentco.com                                                          
+╭─ 154.54.62.5     174     256.098                      (London, ENG, GB, EU) be2573.ccr42.lon13.atlas.cogentco.com                                                               
+S&T (174)  
+╰─ 130.117.51.42   174     263.595                    (Amsterdam, NH, NL, EU) be12488.ccr42.ams03.atlas.cogentco.com                                                              
+╭─ 130.117.14.142  6453    204.733                    (Amsterdam, NH, NL, EU) tata.ams03.atlas.cogentco.com                                                                       
+S&T (6453)  
+├─ 80.231.131.160  6453    198.558                     (London, None, GB, EU) if-ae-14-2.tcore2.l78-london.as6453.net                                                             
+S (6453)  
+╰─ 80.231.131.66   6453    362.075                       (Mumbai, MH, IN, AS) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   121.241.90.58   45117   386.641                    (Ahmedabad, GJ, IN, AS) 121.241.90.58.static-ahmedabad.vsnl.net.in                                                          
+   116.206.155.229 45117   371.409               (Ahmedabad, Gujarat, IN, AS)                                                                                                     

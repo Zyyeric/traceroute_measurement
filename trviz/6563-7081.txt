@@ -1,0 +1,11 @@
+   195.66.241.220  5459    0.0                      (London, England, GB, EU) ripe-anchor.linx.net                                                                                
+   195.66.241.219  5459    0.572                    (Poplar, England, GB, EU) hsrp1.tr1-tr6.linx.net                                                                              
+╭─ 195.66.243.23   5459    1.626                    (Poplar, England, GB, EU) et-0-0-1-border2-eq4.linx.net                                                                       
+S&T (5459, 6830)  circe-north ✘ || ulysses-2 ✘ || scylla ✘ || zeus ✘ || atlantic-crossing-1-ac-1 ✘ || concerto ✘ || farland-north ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 84.116.137.21   6830    10.929          (Amsterdam, North Holland, NL, EU) nl-ams17b-rc1-ae-14-0.aorta.net                                                                     
+   84.116.136.149  6830    11.035          (Amsterdam, North Holland, NL, EU) cz-prg02a-ra2-ae-99-45.aorta.net                                                                    
+   213.46.186.10   14907   11.094                     (Amsterdam, NH, NL, EU) nl-ams04a-rb2-lo0-100.aorta.net                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   185.15.59.74    14907   11.605          (Amsterdam, North Holland, NL, EU) atlas3001.wikimedia.org                                                                             

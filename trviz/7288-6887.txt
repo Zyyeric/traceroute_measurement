@@ -1,0 +1,19 @@
+   27.111.84.21    135132  0.0           (Cebu City, Central Visayas, PH, AS) ph-ceb-as135132.anchors.atlas.ripe.net                                                              
+   27.111.84.20    135132  1.235             (Baugo, Central Visayas, PH, AS) vlan509.core.ceb02.ds.network                                                                       
+   192.168.159.142 *       2.729                                          ***                                                                                                     
+   192.168.159.152 *       0.644                                          ***                                                                                                     
+   192.168.159.168 *       22.332                                         ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 203.177.209.217 4775    4.344             (Baugo, Central Visayas, PH, AS)                                                                                                     
+S (4775, 7713)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 103.16.102.84   7713    275.344                   (Singapore, 1, SG, None) telin-as7713-2.sgix.sg                                                                              
+   180.240.204.9   7713    275.723             (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 180.240.204.9   7713    275.723             (Singapore, Singapore, SG, AS)                                                                                                     
+S&T (7713)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 36.64.254.21    7713    272.292       (Gubengairlangga, East Java, ID, AS)                                                                                                     
+   36.64.254.22    7713    270.547                   (Denpasar, Bali, ID, AS)                                                                                                     
+   103.215.228.2   140443  271.03               (Surabaya, East Java, ID, AS) 2.228.215.103.in-addr.herza.id                                                                      
+   103.215.229.229 140443  269.241              (Surabaya, East Java, ID, AS) 229.229.215.103.in-addr.herza.id                                                                    

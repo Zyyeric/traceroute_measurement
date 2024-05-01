@@ -1,0 +1,13 @@
+   103.151.64.31   140627  0.0                     (Hagåtña, Hagatna, GU, OC) atlas.guam.as140627.net                                                                             
+╭─ 103.151.64.30   140627  0.34                  (Piti Village, Piti, GU, OC) oq-guam-cor01--atlas-probe.as140627.net                                                             
+S (140627)  asia-america-gateway-aag-cable-system ✓
+╰─ 103.151.64.207  140627  42.517              (Hong Kong, Hong Kong, HK, AS) oq-hkg-cor01--oq-guam-cor01-69.as140627.net                                                         
+╭─ 103.247.139.25  63927   42.651                        (None, None, HK, AS) *                                                                                                   
+S (63927, 135132)  tata-tgn-intra-asia-tgn-ia ✓ || asia-america-gateway-aag-cable-system ✓
+├  10.255.64.92    *       68.19                                          ***                                                                                                     
+╰─ 43.224.189.37   135132  68.134               (Lapu-Lapu City, CEB, PH, AS) vlan7.border1.ceb02.ds.network                                                                      
+   192.168.159.164 *       88.357                                         ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   192.168.159.153 *       87.335                                         ***                                                                                                     
+   192.168.159.143 *       71.903                                         ***                                                                                                     
+   27.111.84.21    135132  71.204        (Cebu City, Central Visayas, PH, AS) ph-ceb-as135132.anchors.atlas.ripe.net                                                              

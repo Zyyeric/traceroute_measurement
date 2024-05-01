@@ -1,0 +1,19 @@
+   146.185.219.73  202422  0.0        (Petaẖ Tiqva, Central District, IL, AS)                                                                                                     
+   146.185.219.3   202422  0.487                 (Tel Aviv, Tel Aviv, IL, AS) vrrp.gcore.lu                                                                                       
+   10.255.29.241   *       0.477                                          ***                                                                                                     
+   31.168.224.93   8551    0.474                 (Tel Aviv, Tel Aviv, IL, AS) bzq-224-168-31-93.red.bezeqint.net                                                                  
+   62.219.189.185  8551    0.879                 (Rishon LeZiyyon, M, IL, AS) bzq-219-189-185.dsl.bezeqint.net                                                                    
+   212.179.124.6   8551    60.916               (Ramat Gan, Tel Aviv, IL, AS) bzq-179-124-6.cust.bezeqint.net                                                                     
+╭─ 212.179.124.82  8551    1.14                        (Tel Aviv, TA, IL, AS) bzq-179-124-82.cust.bezeqint.net                                                                    
+LHL (8551, 37100)  mednautilus-submarine-system ✓ || jonah 👍 || lev-submarine-system ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 105.16.9.21     37100   202.903            (Frankfurt am Main, HE, DE, EU) ae-5-0.er-01-fra.de.seacomnet.com                                                                   
+╭─ 105.16.8.253    37100   213.274         (Frankfurt am Main, Hesse, DE, EU) xe-0-0-30-0.cr-02-mrs.fr.seacomnet.com                                                              
+LHL (37100)  africa-coast-to-europe-ace ✓
+╰─ 105.25.160.165  37100   200.979          (Cape Town, Western Cape, ZA, AF) ce-0-1-9.cr-02-cpt.za.seacomnet.com                                                                 
+   105.16.31.9     37100   202.257                    (Cape Town, WC, ZA, AF) xe-1-0-0-0.er-01-cpt.za.seacomnet.com                                                               
+   105.22.67.166   37100   213.68           (Cape Town, Western Cape, ZA, AF)                                                                                                     
+   102.220.178.118 328829  199.051          (Cape Town, Western Cape, ZA, AF) rnd-br2-sfp28-2-882.vumatel.co.za                                                                   
+   102.220.179.118 328829  202.634          (Cape Town, Western Cape, ZA, AF) unknown.vumatel.co.za                                                                               
+   102.220.178.25  328829  201.076          (Cape Town, Western Cape, ZA, AF) unknown.vumatel.co.za                                                                               

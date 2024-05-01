@@ -1,0 +1,19 @@
+   27.111.84.21    135132  0.0           (Cebu City, Central Visayas, PH, AS) ph-ceb-as135132.anchors.atlas.ripe.net                                                              
+   27.111.84.20    135132  1.927             (Baugo, Central Visayas, PH, AS) vlan509.core.ceb02.ds.network                                                                       
+   192.168.159.142 *       4.613                                          ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   192.168.159.168 *       14.234                                         ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 43.224.189.33   137074  2.669             (Baugo, Central Visayas, PH, AS) 43-224-189-33.static.rise.as                                                                        
+S (137074, 4637)  tata-tgn-intra-asia-tgn-ia ✘ || asia-america-gateway-aag-cable-system ✘
+├  10.255.64.28    *       28.789                                         ***                                                                                                     
+╰─ 210.57.80.17    4637    28.701              (Hong Kong, Hong Kong, HK, AS) unknown.telstraglobal.net                                                                           
+╭─ 202.84.153.25   4637    36.009    (Hong Kong, Central and Western, HK, AS)                                                                                                     
+S (4637)  apcn-2 👍 || southeast-asia-japan-cable-sjc ✓ || seamewe-3 👍 || eac-c2c 👍 || asia-pacific-gateway-apg ✓ || tata-tgn-intra-asia-tgn-ia ✓ || asia-submarine-cable-express-asecahaya-malaysia ✓ || asia-america-gateway-aag-cable-system 👍
+╰─ 202.84.141.109  4637    126.632             (Singapore, Singapore, SG, AS) i-15152.sgcn-core01.telstraglobal.net                                                               
+   202.84.141.109  4637    126.632             (Singapore, Singapore, SG, AS) i-15152.sgcn-core01.telstraglobal.net                                                               
+╭─ 202.84.207.190  4637    126.163             (Singapore, Singapore, SG, AS) unknown.telstraglobal.net                                                                           
+S (4637)  
+╰─ 202.84.204.45   4637    125.867                     (Dubai, Dubai, AE, AS) i-102.uddm01.telstraglobal.net                                                                      
+   217.151.46.27   4637    125.547                     (Dubai, Dubai, AE, AS) unknown.telstraglobal.net                                                                           
+   156.154.53.254  12008   125.278                     (Dubai, Dubai, AE, AS)                                                                                                     

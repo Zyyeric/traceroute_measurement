@@ -1,0 +1,17 @@
+   5.188.238.222   202422  0.0                 (São Paulo, São Paulo, BR, SA)                                                                                                     
+   5.188.238.3     202422  0.135               (São Paulo, São Paulo, BR, SA) vrrp.gcore.lu                                                                                       
+   10.255.22.182   *       0.125                                          ***                                                                                                     
+   10.255.22.188   *       0.368                                          ***                                                                                                     
+╭─ 149.3.181.116   6762    0.288               (São Paulo, São Paulo, BR, SA) et9-0-5-585.sanpaolo7.spa.seabone.net                                                               
+S (6762)  south-america-1-sam-1 ✓ || monet ✓ || seabras-1 👍 || america-movil-submarine-cable-system-1-amx-1 © || brusa ✓ || globenet ✘ || americas-ii 👍
+╰─ 195.22.199.179  6762    106.552                        (Miami, FL, US, NA) et2-0-5.miami15.mia.seabone.net                                                                     
+   89.221.41.199   1299    106.882                        (Miami, FL, US, NA) telia.miami15.mia.seabone.net                                                                       
+   62.115.113.48   1299    120.502                 (Atlanta, Georgia, US, NA) atl-b24-link.ip.twelve99.net                                                                        
+╭─ 62.115.116.46   1299    134.493                   (Houston, Texas, US, NA) hou-b3-link.ip.twelve99.net                                                                         
+S&T (1299)  arcos © || gignet-1 ✘ || america-movil-submarine-cable-system-1-amx-1 © || maya-1 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 62.115.124.13   1299    147.232            (Monterrey, Nuevo León, MX, NA) mny-b2-link.ip.twelve99.net                                                                         
+   62.115.123.239  1299    154.898            (Monterrey, Nuevo León, MX, NA) qro-b2-link.ip.twelve99.net                                                                         
+   62.115.124.48   1299    159.322   (Santiago de Querétaro, Querétaro, MX, NA) qro-b3-link.ip.twelve99.net                                                                         
+   62.115.166.226  42473   154.965               (Benito Juarez, CMX, MX, NA) *                                                                                                   
+   131.100.0.158   42473   156.26    (Santiago de Querétaro, Querétaro, MX, NA)                                                                                                     

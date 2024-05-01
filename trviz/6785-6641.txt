@@ -1,0 +1,22 @@
+   92.38.135.131   202422  0.0                         (Seoul, Seoul, KR, AS)                                                                                                     
+   92.38.135.3     202422  0.411                       (Seoul, Seoul, KR, AS) vrrp.gcore.lu                                                                                       
+   10.255.17.209   *       0.376                                          ***                                                                                                     
+   10.255.17.213   *       0.415                                          ***                                                                                                     
+   10.255.17.147   *       0.351                                          ***                                                                                                     
+╭─ 8.244.74.25     3356    0.691                       (Seoul, Seoul, KR, AS)                                                                                                     
+S (3356)  apcn-2 ✓ || asia-pacific-gateway-apg ✓ || flag-north-asia-loopreach-north-asia-loop ✓ || eac-c2c © || new-cross-pacific-ncp-cable-system ✓ || korea-japan-cable-network-kjcn ✓ || seamewe-3 ✓ || flag-europe-asia-fea © || trans-pacific-express-tpe-cable-system ✓
+├─ 4.69.217.14     3356    30.874                         (Tokyo, 13, JP, AS) ae1.3505.edge2.Tokyo4.level3.net                                                                    
+S (3356, 6453)  
+├─ 209.58.55.34    6453    31.098                        (None, None, US, NA) *                                                                                                   
+S (6453)  
+├─ 180.87.181.204  6453    302.762                        (Tokyo, 13, JP, AS) if-ae-33-2.tcore1.tv2-tokyo.as6453.net                                                              
+S (6453)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 180.87.12.1     6453    290.926                  (Singapore, None, SG, AS) if-ae-2-2.tcore1.svw-singapore.as6453.net                                                           
+S&T (6453)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 180.87.38.1     6453    308.61                        (Mumbai, MH, IN, AS) if-ae-2-2.tcore1.mlv-mumbai.as6453.net                                                              
+S (6453, 58717)  
+╰─ 157.119.185.36  58717   163.88            (Paltan, Dhaka Division, BD, AS) 157.119.185.36.summitiig.net                                                                        
+   ***             *       -inf                                           *** *                                                                                                   
+   103.15.246.16   58717   165.234                     (Dhaka, Dhaka, BD, AS)                                                                                                     

@@ -1,0 +1,10 @@
+   164.39.242.17   31655   0.0                  (Manchester, England, GB, EU)                                                                                                     
+   164.39.242.16   31655   0.33              (Trafford Park, England, GB, EU)                                                                                                     
+   5.57.80.176     31655   6.834                         (None, None, GB, EU) lonap-gw1.gammatelecom.com                                                                          
+   5.57.80.128     6939    7.032                        (London, ENG, GB, EU) 10gigabitethernet5-1.core1.lon1.he.net                                                              
+╭─ 195.66.224.21   6939    8.653                        (London, ENG, GB, EU) 40ge1-3.core1.lon2.he.net                                                                           
+S (6939)  exa-north-and-south ✓ || atlantic-crossing-1-ac-1 ✓ || flag-atlantic-1-fa-1 ✓ || apollo ✓ || yellow ✓ || tata-tgn-atlantic ✓
+╰─ 184.105.81.41   6939    75.581                      (New York, NY, US, NA) 100ge15-2.core1.nyc5.he.net                                                                         
+   184.104.194.250 6939    76.848                      (New York, NY, US, NA) 100ge0-35.core1.nyc9.he.net                                                                         
+   ***             *       -inf                                           *** *                                                                                                   
+   144.172.124.251 397031  75.967           (New York City, New York, US, NA)                                                                                                     

@@ -1,0 +1,19 @@
+   103.151.64.31   140627  0.0                     (Hagåtña, Hagatna, GU, OC) atlas.guam.as140627.net                                                                             
+╭─ 103.151.64.30   140627  0.526                 (Piti Village, Piti, GU, OC) oq-guam-cor01--atlas-probe.as140627.net                                                             
+S (140627)  asia-america-gateway-aag-cable-system ✓ || sea-us ✓ || tata-tgn-pacific ✓
+╰─ 103.151.64.29   140627  109.334          (Los Angeles, California, US, NA) losangeles.routers.as140627.net                                                                     
+   24.43.134.177   20001   109.333          (Los Angeles, California, US, NA) syn-024-043-134-177.biz.spectrum.com                                                                
+   24.43.15.120    20001   110.145          (Los Angeles, California, US, NA) syn-024-043-015-120.biz.spectrum.com                                                                
+   76.58.25.112    20001   111.898          (Los Angeles, California, US, NA) lag-210.mcr02cyprcabw.netops.charter.com                                                            
+   72.129.5.14     20001   111.739          (Los Angeles, California, US, NA) lag-103.mcr02tustcaft.netops.charter.com                                                            
+   72.129.5.116    20001   111.305          (Los Angeles, California, US, NA) lag-9-10.rcr01tustcaft.netops.charter.com                                                           
+   209.18.43.72    7843    112.888            (Dallas-Fort Worth, TX, US, NA) 209-18-43-72.dfw10.tbone.rr.com                                                                     
+   66.109.5.241    7843    112.347                  (Los Angeles, CA, US, NA) *                                                                                                   
+   206.223.123.95  2152    112.286                       (None, None, US, NA) eqix-la2.cenic.net                                                                                  
+   137.164.11.87   2152    117.691                    (Riverside, CA, US, NA) dc-riv-agg8--lax-agg10-300g.cenic.net                                                               
+   137.164.11.91   3292    124.303                     (Tri-City, OR, US, NA) dc-tri-agg2--riv-agg8-300g.cenic.net                                                                
+   137.164.46.7    2152    129.28                      (Tri-City, OR, US, NA) cor-agg8--tri-agg2--100ge.cenic.net                                                                 
+   137.164.50.243  2152    130.069                       (Corona, CA, US, NA) sha-coe-1--cor-agg8-10g.cenic.net                                                                   
+   137.164.34.84   2152    130.473                      (Shafter, CA, US, NA) sha-coe-2---to--sha-coe-1--10ge.cenic.net                                                           
+   137.164.13.11   23483   129.691                      (Shafter, CA, US, NA) shacoe-gw2--sha-coe-2-10g.cenic.net                                                                 
+   66.244.16.33    23483   130.013              (Redding, California, US, NA) us-rdd-as23483.anchors.atlas.ripe.net                                                               

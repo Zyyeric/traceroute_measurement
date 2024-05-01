@@ -1,0 +1,14 @@
+   185.157.231.49  41327   0.0                      (Palermo, Sicily, IT, EU) 49-231-157-185.fibertelecom.it                                                                      
+   185.157.231.48  41327   0.27                     (Palermo, Sicily, IT, EU) 48-231-157-185.fibertelecom.it                                                                      
+╭─ 185.157.228.24  41327   21.819                   (Milan, Lombardy, IT, EU) 24-228-157-185.fibertelecom.it                                                                      
+S&T (41327, 20473)  seamewe-4 ✓
+╰─ 37.49.237.90    20473   32.87                         (Paris, IDF, FR, EU) choopa.par.franceix.net                                                                             
+   10.76.2.226     *       33.493                                         ***                                                                                                     
+   10.76.0.14      *       32.99                                          ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 217.69.15.96    20473   32.856              (Paris, Île-de-France, FR, EU) router01-vul-par.as151332.net                                                                       
+S (20473)  seamewe-5 ✓ || peace-cable ✘ || seamewe-4 ✓
+├─ 45.77.39.153    20473   194.908             (Singapore, Singapore, SG, AS) router01-vul-sin.as151332.net                                                                       
+S (20473, 7545)  australia-singapore-cable-asc ✓ || indigo-west ✓ || seamewe-3 ✓
+╰─ 203.192.83.254  7545    310.529              (Melbourne, Victoria, AU, OC) ip-254-83-192-203.static.pipenetworks.com                                                           
+   103.179.37.157  151332  314.985              (Melbourne, Victoria, AU, OC)                                                                                                     

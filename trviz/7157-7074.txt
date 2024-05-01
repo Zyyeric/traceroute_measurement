@@ -1,0 +1,20 @@
+   103.143.136.43  63781   0.0                         (Tokyo, Tokyo, JP, AS) koba-103-143-136-43.rev.kobayashi.ad.jp                                                             
+   103.143.136.62  63781   1.086                       (Tokyo, Tokyo, JP, AS) koba-103-143-136-62.rev.kobayashi.ad.jp                                                             
+   103.143.136.25  63781   0.649                       (Tokyo, Tokyo, JP, AS) bgprt1-ospfrt1.kobayashi.ad.jp                                                                      
+   103.41.60.164   10010   0.765                       (Tokyo, Tokyo, JP, AS) bgp3.tokyo-ix.v4.open.ad.jp                                                                         
+   150.99.184.33   2907    2.115                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+   150.99.10.187   2907    1.73                          (None, None, JP, AS) *                                                                                                   
+╭─ 202.232.6.17    2497    2.492                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+S (2497)  japan-u-s-cable-network-jus ✓ || tata-tgn-pacific ✓ || pacific-crossing-1-pc-1 ✓ || faster ✓ || jupiter ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 58.138.88.230   2497    95.335               (Seattle, Washington, US, NA) sea001bb00.iij.net                                                                                  
+   ***             *       -inf                                           *** *                                                                                                   
+   154.54.95.173   174     96.959               (Seattle, Washington, US, NA)                                                                                                     
+   154.54.31.78    174     129.239                     (Portland, OR, US, NA) be2671.ccr21.pdx01.atlas.cogentco.com                                                               
+   154.54.31.101   174     122.125      (West Sacramento, California, US, NA) be4448.rcr71.smf01.atlas.cogentco.com                                                               
+   154.54.93.206   174     113.39       (West Sacramento, California, US, NA) be4425.agr61.smf01.atlas.cogentco.com                                                               
+   154.24.35.214   174     115.062                      (Atlanta, GA, US, NA) te0-0-2-0.nr11.b000189-0.atl01.atlas.cogentco.com                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   173.225.174.17  17018   118.701        (San Francisco, California, US, NA)                                                                                                     
+   65.74.145.159   17018   122.455        (San Francisco, California, US, NA)                                                                                                     
+   23.174.128.243  53698   120.378           (Sacramento, California, US, NA) us-sac-as53698.anchors.atlas.ripe.net                                                               

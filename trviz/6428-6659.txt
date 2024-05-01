@@ -1,0 +1,15 @@
+   5.188.238.222   202422  0.0                 (São Paulo, São Paulo, BR, SA)                                                                                                     
+╭─ 5.188.238.3     202422  0.153               (São Paulo, São Paulo, BR, SA) vrrp.gcore.lu                                                                                       
+S (202422, 6939)  
+├  10.255.22.181   *       0.128                                          ***                                                                                                     
+├  10.255.22.188   *       0.414                                          ***                                                                                                     
+├─ 64.191.232.76   6939    0.345 (1.393)                    (None, None, US, NA) *                                                                                                   
+S (6939)  
+├─ 184.105.80.54   6939    7.778     (Rio de Janeiro, Rio de Janeiro, BR, SA) 100ge0-28.core1.rio1.he.net                                                                         
+S (6939)  
+╰─ 184.105.64.122  6939    114.166                      (Norfolk, VA, US, NA) 100ge0-30.core1.orf2.he.net                                                                         
+   184.105.81.210  6939    114.596                       (Dallas, TX, US, NA) port-channel6.core2.dal1.he.net                                                                     
+   209.51.171.154  32425   114.163                     (Richmond, VA, US, NA) pixel-factory-inc.e0-5.switch1.ric1.he.net                                                          
+   208.73.136.156  32425   114.4                        (Ashland, VA, US, NA) sw-pxf-mmr-n3k1.pxfactorydc.net                                                                     
+   208.73.136.45   32425   114.355                      (Ashland, VA, US, NA) sw-pxf-t1-mng.v986.xe.pxfactorydc.net                                                               
+   208.73.138.12   32425   114.065                (Ashland, Virginia, US, NA)                                                                                                     

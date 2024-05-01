@@ -1,0 +1,15 @@
+   45.183.45.23    64116   0.0                  (Lima, Lima Province, PE, SA)                                                                                                     
+   45.183.45.1     64116   1.1                  (Lima, Lima Province, PE, SA)                                                                                                     
+   10.7.11.129     *       1.623                                          ***                                                                                                     
+╭─ 200.25.44.65    7195    1.685                (Lima, Lima Province, PE, SA) ae100.3007.edge1.lim1.as7195.net                                                                    
+LHL (7195)  south-america-1-sam-1 ✘ || america-movil-submarine-cable-system-1-amx-1 ✓ || globenet ✓
+├─ 200.25.51.99    7195    1.951                      (Sao Paulo, SP, BR, SA) ae1.0.edge2.gru1.as7195.net                                                                         
+S (7195)  brusa ✘ || america-movil-submarine-cable-system-1-amx-1 ✓ || south-america-1-sam-1 ✘ || globenet ✓ || monet ✓ || americas-ii ✓
+╰─ 200.25.51.189   7195    78.754                  (Flagami, Florida, US, NA) ae1051.0.edge2.mia1.as7195.net                                                                      
+╭─ 80.239.192.45   1299    78.484                    (Miami, Florida, US, NA) dominicancable-ic-375823.ip.twelve99-cust.net                                                       
+S (1299, 264605)  south-america-1-sam-1 ✓ || arcos © || america-movil-submarine-cable-system-1-amx-1 ©
+╰─ 131.108.236.65  264605  106.488                          (Moca, 9, DO, NA) *                                                                                                   
+   10.99.0.46      *       106.727                                        ***                                                                                                     
+   10.99.0.37      *       106.523                                        ***                                                                                                     
+   10.99.0.62      *       106.23                                         ***                                                                                                     
+   138.255.248.5   264605  106.5           (Moca, Espaillat Province, DO, NA)                                                                                                     

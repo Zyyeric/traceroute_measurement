@@ -1,0 +1,18 @@
+   197.189.194.147 37153   0.0                (Johannesburg, Gauteng, ZA, AF) atlas-anchor-jnb1.jnb.net.host-h.net                                                                
+   197.189.194.145 37153   0.619              (Johannesburg, Gauteng, ZA, AF)                                                                                                     
+   197.189.193.2   37153   0.413              (Johannesburg, Gauteng, ZA, AF) core-router1.jnb1.host-h.net                                                                        
+   196.60.8.42     6939    0.447 (2.112)             (Johannesburg, 6, ZA, None) he.ixp.joburg                                                                                       
+╭─ 184.105.223.210 6939    21.063                     (Cape Town, WC, ZA, AF) 100ge0-34.core1.cpt1.he.net                                                                         
+S&T (6939)  west-africa-cable-system-wacs ✓
+├─ 184.104.188.209 6939    132.714                   (Lisbon, Lisbon, PT, EU) 100ge0-79.core1.lis1.he.net                                                                         
+S&T (6939)  africa-coast-to-europe-ace ✓ || seamewe-3 ✓
+├─ 184.104.189.30  6939    154.89    (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) port-channel18.core4.mrs1.he.net                                                                    
+S&T (6939)  
+├─ 184.105.80.13   6939    161.358                        (Milan, 25, IT, EU) 100ge7-2.core1.mil2.he.net                                                                          
+S&T (6939)  oteglobe-kokkini-bari ✓ || mednautilus-submarine-system ✓ || italy-greece-1 ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.64.170  6939    192.436                       (Athens, A1, GR, EU) 100ge0-36.core1.ath1.he.net                                                                         
+   184.104.191.234 6939    192.04                    (Koropí, Attica, GR, EU) fast-telecom-p-c.e0-7.core1.ath1.he.net                                                             
+   ***             *       -inf                                           *** *                                                                                                   
+   185.14.96.225   211186  205.352            (Lamía, Central Greece, GR, EU) vlan4090.lamia.fast.net.gr                                                                          
+   185.14.96.232   211186  202.81             (Lamía, Central Greece, GR, EU)                                                                                                     

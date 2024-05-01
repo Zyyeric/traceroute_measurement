@@ -1,0 +1,17 @@
+   5.199.167.27    216444  0.0                 (Singapore, Singapore, SG, AS)                                                                                                     
+   5.199.167.25    216444  0.216               (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 8.245.2.161     3356    1.526               (Singapore, Singapore, SG, AS)                                                                                                     
+S (3356, 6939)  
+├─ 27.111.228.81   6939    2.193                     (Seogwipo, None, KR, AS) 6939.sgw.equinix.com                                                                                
+S (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.105.80.13   6939    144.949                        (Milan, 25, IT, EU) 100ge7-2.core1.mil2.he.net                                                                          
+LHL (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.105.81.141  6939    172.715                      (Ashburn, VA, US, NA) port-channel10.core3.ash1.he.net                                                                    
+S (6939, 56655)  
+╰─ 185.125.170.251 56655   177.299                       (Oslo, Oslo, NO, EU)                                                                                                     
+   185.125.170.252 56655   177.124                       (Oslo, Oslo, NO, EU)                                                                                                     
+   185.125.170.45  56655   177.211                       (Oslo, Oslo, NO, EU)                                                                                                     
+   185.14.97.165   56655   2863.422                      (Oslo, Oslo, NO, EU)                                                                                                     
+   185.14.97.165   56655   2863.422                      (Oslo, Oslo, NO, EU)                                                                                                     

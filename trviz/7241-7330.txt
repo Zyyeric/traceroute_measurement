@@ -1,0 +1,11 @@
+╭─ 192.189.157.25  64289   0.0              (Los Angeles, California, US, NA)                                                                                                     
+S (64289, 6939)  asia-america-gateway-aag-cable-system ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├  10.10.10.2      *       0.187                                          ***                                                                                                     
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.64.126  6939    145.015             (Hong Kong, Hong Kong, HK, AS) 100ge0-62.core2.hkg1.he.net                                                                         
+╭─ 184.104.212.74  23944   159.08                   (Hong Kong, None, HK, AS) sky-cable-corporation.port-channel4.switch1.hkg1.he.net                                             
+S (23944)  southeast-asia-japan-cable-sjc ✓ || eac-c2c ✓ || seamewe-3 ✓ || tata-tgn-intra-asia-tgn-ia ✓ || asia-america-gateway-aag-cable-system ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 182.18.209.9    23944   177.409             (Manila, Metro Manila, PH, AS)                                                                                                     

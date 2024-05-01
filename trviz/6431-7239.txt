@@ -1,0 +1,15 @@
+   102.130.66.11   37468   0.0                       (Luanda, Luanda, AO, AF)                                                                                                     
+╭─ 102.130.66.1    37468   0.363                     (Luanda, Luanda, AO, AF)                                                                                                     
+S (37468)  south-atlantic-cable-system-sacs 👍
+├  100.64.192.118  *       1.622                                          ***                                                                                                     
+╰─ 170.238.232.149 37468   62.291                        (None, None, BR, SA) *                                                                                                   
+╭─ 170.238.233.163 22697   125.188                       (None, None, BR, SA) 163.233.238.170.angolacables.ao                                                                     
+S (22697, 3356)  
+├─ 4.37.37.165     3356    127.874                   (Miami, Florida, US, NA) et-7-0-5.edge6.miami1.level3.net                                                                    
+S (3356, 50999)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 213.19.197.50   50999   300.818                      (Woking, ENG, GB, EU) *                                                                                                   
+S&T (50999)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 109.171.136.4   50999   301.508             (Jeddah, Mecca Region, SA, AS)                                                                                                     

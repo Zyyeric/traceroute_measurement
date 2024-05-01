@@ -1,0 +1,22 @@
+   195.130.66.103  199399  0.0                       (Athens, Attica, GR, EU) gr-ath-as199399.anchors.atlas.ripe.net                                                              
+   195.130.66.102  199399  1.163                    (Výronas, Attica, GR, EU) gw-ripe-anchor.gr-ix.gr                                                                             
+   62.217.98.52    5408    0.495                    (Výronas, Attica, GR, EU) grix-admin-gw.eier.access-link.grnet.gr                                                             
+   83.97.88.69     21320   0.506                    (Výronas, Attica, GR, EU) grnet-ias-geant-gw.mx2.ath.gr.geant.net                                                             
+╭─ 62.40.98.141    20965   25.906                        (Athens, A1, GR, EU) ae0.mx1.ath2.gr.geant.net                                                                           
+T (20965)  
+╰─ 62.40.98.147    20965   25.983                    (Vienna, Vienna, AT, EU) ae0.mx1.vie.at.geant.net                                                                            
+   212.133.7.165   3356    26.039                    (Vienna, Vienna, AT, EU) ae68.edge4.vienna1.level3.net                                                                       
+╭─ 62.115.11.50    1299    26.076                    (Vienna, Vienna, AT, EU) win-b2-link.ip.twelve99.net                                                                         
+T (1299)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 62.115.138.22   1299    37.216          (Frankfurt am Main, Hesse, DE, EU) ffm-bb2-link.ip.twelve99.net                                                                        
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 62.115.38.35    1299    40.174          (Frankfurt am Main, Hesse, DE, EU) trktelekomintat-ic-362428.ip.twelve99-cust.net                                                      
+T (1299, 9121)  
+╰─ 212.156.101.193 9121    62.09                       (Istanbul, 34, TR, AS) 34-acibadem-xrs-t2-1---301-fra-col-2.statik.turktelekom.com.tr                                      
+   195.175.166.202 9121    69.727                        (None, None, TR, AS) *                                                                                                   
+   212.156.251.98  9121    61.954                (Ataşehir, Istanbul, TR, AS) 00-itu-sr12e-t3-1---00-gayrettepe-sr14s-t2-1.statik.turktelekom.com.tr                              
+   195.175.203.86  57152   62.336                      (Tekirdağ, 59, TR, AS) 195.175.203.86.static.turktelekom.com.tr                                                            
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   213.238.162.218 48292   61.861                (Istanbul, Istanbul, TR, AS) tr-ist-as48292.anchors.atlas.ripe.net                                                               

@@ -1,0 +1,16 @@
+   192.102.254.220 395152  0.0          (Vancouver, British Columbia, CA, NA)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   216.251.158.70  14007   0.393        (Vancouver, British Columbia, CA, NA)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 65.49.79.249    6939    1.265        (Vancouver, British Columbia, CA, NA) e0-12.switch3.yvr2.he.net                                                                           
+LHL (6939)  exa-north-and-south ✓ ↠ seamewe-3 ✓ || exa-north-and-south ✓ ↠ flag-europe-asia-fea ✓ || exa-express ✓ ↠ seamewe-3 ✓ || exa-express ✓ ↠ flag-europe-asia-fea ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.105.213.118 6939    84.718                (Tokyo / Narita, 12, JP, AS) 100ge11-2.core1.tyo1.he.net                                                                         
+S (6939, 55569)  seamewe-3 ✓ || asia-submarine-cable-express-asecahaya-malaysia ✓ || flag-north-asia-loopreach-north-asia-loop ✓ || southeast-asia-japan-cable-sjc ✓ || flag-europe-asia-fea ✓ || eac-c2c ✓ || apcn-2 ✓ || asia-pacific-gateway-apg ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 202.127.73.191  55569   150.755                   (Tsuen Wan, NTW, HK, AS) unknown.telstraglobal.net                                                                           
+S (55569)  
+├  100.66.0.46     *       150.859                                        ***                                                                                                     
+╰─ 182.161.73.67   55569   151.491             (Singapore, Singapore, SG, AS)                                                                                                     
+   182.161.73.41   55569   151.518             (Singapore, Singapore, SG, AS)                                                                                                     

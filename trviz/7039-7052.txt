@@ -1,0 +1,20 @@
+   66.244.16.33    23483   0.0                  (Redding, California, US, NA) us-rdd-as23483.anchors.atlas.ripe.net                                                               
+   66.244.16.8     23483   0.303                (Redding, California, US, NA) shastacoe.net                                                                                       
+   137.164.13.10   2152    0.356                (Redding, California, US, NA) sha-coe-2--shacoe-gw2-10g.cenic.net                                                                 
+   137.164.34.85   2152    0.969                (Redding, California, US, NA) sha-coe-1---to--sha-coe-2--10ge.cenic.net                                                           
+   137.164.50.242  2152    0.811 (1.899)           (Redding, California, US, NA) cor-agg8--sha-coe-1-10g.cenic.net                                                                   
+   137.164.46.6    2152    6.507             (Sacramento, California, US, NA) sacr2-agg-01--cor-agg8--100g--01.cenic.net                                                          
+   198.71.47.30    11164   6.71              (Sacramento, California, US, NA) hundredge-0-0-0-24.98.core2.sacr.net.internet2.edu                                                  
+   163.253.1.191   11164   19.303                        (None, None, US, NA) fourhundredge-0-0-0-0.4079.core2.sunn.net.internet2.edu                                             
+   163.253.1.194   11164   16.797                        (None, None, US, NA) fourhundredge-0-0-0-2.4079.core2.losa.net.internet2.edu                                             
+╭─ 163.253.1.201   11164   18.513                        (None, None, US, NA) fourhundredge-0-0-0-49.4079.agg1.losa2.net.internet2.edu                                            
+S (11164, 3491)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 63.218.250.90   3491    116.738                     (Tokyo, Tokyo, JP, AS) be42.br05.tok02.as3491.net                                                                          
+S (3491, 60068)  
+├─ 63.216.242.194  60068   120.423                       (None, None, US, NA) 63-216-242-194.static.pccwglobal.net                                                                
+S (60068, 57695)  
+╰─ 84.17.33.105    57695   120.468               (Tokyo / Narita, 12, JP, AS) v3517.cr01.nrt04.jp.misaka.io                                                                       
+   199.119.64.143  969     120.644                     (Tokyo, Tokyo, JP, AS) e32-20.spine2.nrt04.jp.misaka.io                                                                    
+   103.170.232.11  142616  120.461                     (Tokyo, Tokyo, JP, AS) po-31.lag.nrt04.jp.misaka.io                                                                        
+   103.170.232.152 142616  120.625                     (Tokyo, Tokyo, JP, AS) user-103-170-232-152.nrt04.jp.misaka.io                                                             

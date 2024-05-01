@@ -1,0 +1,18 @@
+   103.153.176.122 131657  0.0                       (Taipei, Taiwan, TW, AS) 103-153-176-122.as131657.net                                                                        
+   103.153.176.254 131657  0.245                     (Taipei, Taiwan, TW, AS) 103-153-176-254.as131657.net                                                                        
+╭─ 103.51.91.5     *       0.594                     (Taipei, Taiwan, TW, AS) et-0-0-1.cr1.hd.tpe.as131657.net                                                                    
+S (, 6939)  seamewe-3 ✘ || apcn-2 ✘ || trans-pacific-express-tpe-cable-system ✘ || faster ✘ || eac-c2c ✘ || asia-pacific-gateway-apg ✘ || flag-north-asia-loopreach-north-asia-loop ✘ || new-cross-pacific-ncp-cable-system ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.199.145 6939    27.899                      (Osaka, Ōsaka, JP, AS) port-channel6.core1.osa1.he.net                                                                     
+S (6939, 6762)  tata-tgn-pacific ✓ || faster ✓ || japan-u-s-cable-network-jus ✓ || new-cross-pacific-ncp-cable-system ✓ || jupiter ✓ || trans-pacific-express-tpe-cable-system ✓ || unityeac-pacific ✓ || pacific-crossing-1-pc-1 ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 89.221.35.194   6762    130.271                  (Los Angeles, CA, US, NA) ae8.losangeles1.loa.seabone.net                                                                     
+LHL (6762)  apollo ✓ ↠ seamewe-3 👍 || apollo ✓ ↠ seamewe-5 👍 || apollo ✓ ↠ seamewe-4 👍 || apollo ✓ ↠ asia-africa-europe-1-aae-1 ✓ || apollo ✓ ↠ imewe 👍 || flag-atlantic-1-fa-1 © ↠ seamewe-3 👍 || flag-atlantic-1-fa-1 © ↠ seamewe-5 👍 || flag-atlantic-1-fa-1 © ↠ seamewe-4 👍 || flag-atlantic-1-fa-1 © ↠ asia-africa-europe-1-aae-1 ✓ || flag-atlantic-1-fa-1 © ↠ imewe 👍
+╰─ 195.22.205.39   6762    329.978                        (Milan, 25, IT, EU) ae21.milano51.mil.seabone.net                                                                       
+   195.22.205.39   6762    329.978                        (Milan, 25, IT, EU) ae21.milano51.mil.seabone.net                                                                       
+╭─ 195.22.192.199  42313   316.529                        (Milan, 25, IT, EU) albanian-telecom.milano51.mil.seabone.net                                                           
+S&T (42313, 42409)  
+╰─ 217.24.245.22   42409   316.562                       (None, None, AL, EU) *                                                                                                   
+   194.1.149.250   42409   321.128                       (None, None, AL, EU) *                                                                                                   
+   194.1.149.210   42409   321.232                   (Tirana, Tirana, AL, EU)                                                                                                     

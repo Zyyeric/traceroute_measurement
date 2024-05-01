@@ -1,0 +1,24 @@
+   92.38.135.131   202422  0.0                         (Seoul, Seoul, KR, AS)                                                                                                     
+   92.38.135.2     202422  0.298                       (Seoul, Seoul, KR, AS) vrrp.gcore.lu                                                                                       
+   10.255.17.210   *       0.213                                          ***                                                                                                     
+   10.255.17.213   *       0.231                                          ***                                                                                                     
+   10.255.17.147   *       0.469 (1.09)                                     ***                                                                                                     
+╭─ 8.244.74.25     3356    0.708                       (Seoul, Seoul, KR, AS)                                                                                                     
+S (3356)  apcn-2 ✓ || asia-pacific-gateway-apg ✓ || flag-north-asia-loopreach-north-asia-loop ✓ || eac-c2c © || new-cross-pacific-ncp-cable-system ✓ || korea-japan-cable-network-kjcn ✓ || seamewe-3 ✓ || flag-europe-asia-fea © || trans-pacific-express-tpe-cable-system ✓
+╰─ 4.69.217.14     3356    31.24                          (Tokyo, 13, JP, AS) ae1.3505.edge2.Tokyo4.level3.net                                                                    
+   213.155.129.38  1299    30.951                      (Tokyo, Tokyo, JP, AS) tky-b2-link.ip.twelve99.net                                                                         
+╭─ 62.115.126.135  1299    107.461                     (Tokyo, Tokyo, JP, AS) tky-b3-link.ip.twelve99.net                                                                         
+S (1299)  
+╰─ 62.115.134.186  1299    104.845             (Hong Kong, Hong Kong, HK, AS) hnk-b4-link.ip.twelve99.net                                                                         
+   62.115.135.142  1299    107.554   (Hong Kong, Central and Western, HK, AS) hnk-b1-link.ip.twelve99.net                                                                         
+╭─ 62.115.142.67   1299    108.356   (Hong Kong, Central and Western, HK, AS) hnk-b3-link.ip.twelve99.net                                                                         
+S (1299)  
+╰─ 62.115.112.98   1299    109.402             (Singapore, Singapore, SG, AS) snge-b4-link.ip.twelve99.net                                                                        
+   ***             *       -inf                                           *** *                                                                                                   
+   62.115.137.243  1299    112.957             (Singapore, Singapore, SG, AS) snge-b4-link.ip.twelve99.net                                                                        
+   213.248.78.190  1299    98.718              (Singapore, Singapore, SG, AS) ptlynx-ic-310271.ip.twelve99-cust.net                                                               
+╭─ 111.95.244.169  7632    95.608              (Singapore, Singapore, SG, AS) fm-dyn-111-95-244-169.fast.net.id                                                                   
+S&T (7632, 55666)  
+╰─ 103.247.123.218 55666   140.207           (Semarang, Central Java, ID, AS) ipv4-218-123-247.as55666.net                                                                        
+   103.170.24.254  142360  128.876                       (None, None, ID, AS) ipv4-254-24.170.103.as142360.net                                                                    
+   103.170.25.13   142360  139.617           (Semarang, Central Java, ID, AS) ipv4-13-25-170-103.nexa.net.id                                                                      

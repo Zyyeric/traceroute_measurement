@@ -1,0 +1,12 @@
+   5.180.57.81     56987   0.0           (Lyon, Auvergne-Rhône-Alpes, FR, EU) fr-lio-as56987.anchors.atlas.ripe.net                                                               
+   5.180.57.80     56987   0.206     (Saint-Fons, Auvergne-Rhône-Alpes, FR, EU) 80-57-180-5.rev.abaclouda.net                                                                       
+   5.180.58.70     56987   0.271     (Saint-Fons, Auvergne-Rhône-Alpes, FR, EU) 01-xe.bgp03.lyn.abaclouda.net                                                                       
+╭─ 5.180.58.71     56987   0.338     (Saint-Fons, Auvergne-Rhône-Alpes, FR, EU) 01-xe.bgp04.lyn.abaclouda.net                                                                       
+T (56987, 3356)  
+├─ 80.81.194.198   3356    29.578            (Frankfurt am Main, 5, DE, None) AMS-AM2-POP-CRS-1.du.ae                                                                             
+T (3356, 15802)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  10.100.128.21   *       148.743                                        ***                                                                                                     
+├  10.100.34.118   *       147.302                                        ***                                                                                                     
+╰─ 87.201.194.242  15802   147.353                        (Dubai, DU, AE, AS) *                                                                                                   

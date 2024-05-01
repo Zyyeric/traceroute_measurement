@@ -1,0 +1,12 @@
+   152.195.112.52  15133   0.0                         (Tokyo, Tokyo, JP, AS)                                                                                                     
+╭─ 152.195.112.49  15133   0.948                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+S (15133, 6939)  japan-u-s-cable-network-jus ✓ || tata-tgn-pacific ✓ || pacific-crossing-1-pc-1 ✓ || faster ✓ || jupiter ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.199.69  6939    126.719              (Seattle, Washington, US, NA) port-channel15.core2.sea1.he.net                                                                    
+S&T (6939)  
+╰─ 184.104.196.222 6939    130.038                    (Vancouver, BC, CA, NA) port-channel2.core2.yvr1.he.net                                                                     
+   65.19.133.197   6939    129.752      (Vancouver, British Columbia, CA, NA)                                                                                                     
+   192.30.89.87    394256  132.2        (Vancouver, British Columbia, CA, NA) ca-van-as394256.anchors.atlas.ripe.net                                                              

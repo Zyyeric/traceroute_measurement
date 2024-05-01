@@ -1,0 +1,13 @@
+   103.2.186.195   45345   0.0               (Nouméa, South Province, NC, OC) nc-nou-as45345.anchors.atlas.ripe.net                                                               
+   103.2.186.221   45345   0.658             (Nouméa, South Province, NC, OC) gw-ipv4-hosting-1010-mx204-f10.as45345.net                                                          
+   202.87.128.198  45345   0.665                          (Noumea, S, NC, OC) *                                                                                                   
+╭─ 202.87.128.197  18200   1.238             (Nouméa, South Province, NC, OC)                                                                                                     
+S (18200, 4788)  gondwana-1 👍
+╰─ 45.127.172.162  4788    22.694                       (Sydney, NSW, AU, OC) 55850.syd.equinix.com                                                                               
+╭─ 45.127.172.162  4788    22.694                       (Sydney, NSW, AU, OC) 55850.syd.equinix.com                                                                               
+S (4788, 55850)  tasman-global-access-tga-cable ✓ || southern-cross-cable-network-sccn ✓ || hawaiki ✘
+╰─ 103.26.202.198  55850   46.044                (Auckland, Auckland, NZ, OC) et-0-0-3.esy3-p-1.as55850.net                                                                       
+   116.251.185.234 55850   46.132                     (Tauranga, BOP, NZ, OC) et-0-0-10.atc-p-1.as55850.net                                                                       
+   116.251.187.224 55850   45.973                (Auckland, Auckland, NZ, OC) ip-116-251-187-224.kinect.net.nz                                                                    
+   116.251.187.225 55850   45.637                (Auckland, Auckland, NZ, OC) ip-116-251-187-225.kinect.net.nz                                                                    
+   185.121.168.251 61138   45.6                 (Newmarket, Auckland, NZ, OC) nz-akl-as61138.anchors.atlas.ripe.net                                                               

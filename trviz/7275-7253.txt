@@ -1,0 +1,14 @@
+   192.158.252.10  1280    0.0            (Mountain View, California, US, NA) us-pao-as1280.anchors.atlas.ripe.net                                                                
+   192.158.252.3   1280    0.313              (Palo Alto, California, US, NA) r2.pao2-guests.isc.org                                                                              
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 184.105.81.81   6939    1.382               (San Jose, California, US, NA) port-channel12.core4.sjc2.he.net                                                                    
+S (6939)  asia-america-gateway-aag-cable-system ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.64.253  6939    177.79                      (Singapore, 4, SG, AS) 100ge11-1.core1.sin1.he.net                                                                         
+╭─ 74.82.49.214    6939    175.207             (Singapore, Singapore, SG, AS) pt-jala-lintas-media.e0-3.switch5.sin1.he.net                                                       
+S&T (6939, 133840)  jakarta-bangka-bintan-batam-singapore-b3js ✘ || palapa-ring-west ✓
+╰─ 103.66.70.104   133840  186.968                 (Jakarta, Jakarta, ID, AS)                                                                                                     
+   121.100.0.45    38158   180.877                 (Jakarta, Jakarta, ID, AS)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   43.230.153.90   *       186.959                 (Jakarta, Jakarta, ID, AS)                                                                                                     
+   180.211.88.22   45725   187.136                 (Jakarta, Jakarta, ID, AS) id-jkt-as45725.anchors.atlas.ripe.net                                                               

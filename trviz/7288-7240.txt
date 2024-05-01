@@ -1,0 +1,16 @@
+   202.70.133.25   140443  0.0                 (Singapore, Singapore, SG, AS) 25.133.70.202.in-addr.herza.id                                                                      
+   202.70.133.1    140443  0.143               (Singapore, Singapore, SG, AS) 1.133.70.202.in-addr.herza.id                                                                       
+╭─ 202.70.132.1    140443  0.266               (Singapore, Singapore, SG, AS) 1.132.70.202.in-addr.herza.id                                                                       
+S (140443, 7713)  
+├  10.111.222.206  *       0.306                                          ***                                                                                                     
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 27.111.228.77   7713    2.222                     (Seogwipo, None, KR, AS) 7713.sgw.equinix.com                                                                                
+S (7713)  
+╰─ 180.240.204.9   7713    2.398               (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 180.240.204.9   7713    2.398               (Singapore, Singapore, SG, AS)                                                                                                     
+S&T (7713)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 36.64.254.21    7713    20.166        (Gubengairlangga, East Java, ID, AS)                                                                                                     
+   36.64.254.22    7713    20.038                    (Denpasar, Bali, ID, AS)                                                                                                     
+   10.111.222.246  *       22.074                                         ***                                                                                                     
+   103.215.229.229 140443  22.128               (Surabaya, East Java, ID, AS) 229.229.215.103.in-addr.herza.id                                                                    

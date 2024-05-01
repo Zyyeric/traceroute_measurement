@@ -1,0 +1,28 @@
+   197.80.104.36   10474   0.0                (Johannesburg, Gauteng, ZA, AF) 197-80-104-36.jhb.mweb.co.za                                                                        
+   197.80.75.3     10474   1.247                  (Randburg, Gauteng, ZA, AF) 20.bu-ether1.vic-pe-12.optinet.net                                                                  
+   197.80.7.79     10474   176.498                       (None, None, ZA, AF) 197-80-7-79.jhb.mweb.co.za                                                                          
+   197.80.4.37     10474   177.021                       (None, None, ZA, AF) bu-ether3.mca-pe-1.optinet.net                                                                      
+   197.80.4.224    10474   174.45                        (None, None, ZA, AF) bu-ether2.mca-pe-2.optinet.net                                                                      
+   197.80.5.60     10474   176.062                       (None, None, ZA, AF) 197-80-5-60.jhb.mweb.co.za                                                                          
+╭─ 197.80.4.216    10474   176.031                       (None, None, ZA, AF) 197-80-4-216.jhb.mweb.co.za                                                                         
+T (10474)  
+╰─ 197.80.5.85     10474   176.206                  (London, England, GB, EU) 197-80-5-85.jhb.mweb.co.za                                                                          
+╭─ 176.67.178.0    10474   178.221                     (London, None, GB, EU) *                                                                                                   
+T (10474)  
+├─ 176.67.178.1    10474   176.441                       (None, None, ZA, AF) *                                                                                                   
+T (10474)  
+├─ 176.67.177.228  10474   177.928                  (London, England, GB, EU) be-15-779-thd-linx-1.optinet.net                                                                    
+S&T (10474, 6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 72.52.92.214    6939    250.69                     (Amsterdam, NH, NL, EU) port-channel12.core2.ams1.he.net                                                                    
+   184.104.196.94  6939    182.727                    (Amsterdam, NH, NL, EU) ve1001.core1.ams7.he.net                                                                            
+╭─ 184.104.197.126 6939    182.808         (Amsterdam, North Holland, NL, EU) port-channel1.core2.ams7.he.net                                                                     
+S&T (6939)  
+├─ 184.105.213.198 6939    191.716                   (Copenhagen, 84, DK, EU) 100ge0-29.core2.cph1.he.net                                                                         
+S (6939)  
+├─ 184.105.81.141  6939    201.472                      (Ashburn, VA, US, NA) port-channel10.core3.ash1.he.net                                                                    
+S (6939, 56655)  
+╰─ 185.125.170.252 56655   203.099                       (Oslo, Oslo, NO, EU)                                                                                                     
+   185.125.170.45  56655   203.348                       (Oslo, Oslo, NO, EU)                                                                                                     
+   185.14.97.165   56655   2399.519                      (Oslo, Oslo, NO, EU)                                                                                                     
+   185.14.97.165   56655   2399.519                      (Oslo, Oslo, NO, EU)                                                                                                     

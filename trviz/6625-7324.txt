@@ -1,0 +1,16 @@
+   185.60.88.254   201898  0.0                     (Douglas, Douglas, IM, EU)                                                                                                     
+╭─ 185.60.88.227   201898  0.449                   (Douglas, Douglas, IM, EU)                                                                                                     
+S&T (201898)  bt-mt-1 ✘ || lanis-2 ✘ || lanis-1 ✘ || e-llan ✘ || havhingstenceltixconnect-2-cc-2 ✘
+├  100.64.0.5      *       3.325                                          ***                                                                                                     
+╰─ 185.60.91.149   201898  3.484                   (Salford, England, GB, EU) xe-1-1-0.edge1.lds3.aql.com                                                                         
+   141.170.30.97   33920   10.576                        (Leeds, ENG, GB, EU) xe-2-0-3.edge1.lon5.aql.com                                                                         
+   5.57.80.128     6939    10.829                       (London, ENG, GB, EU) 10gigabitethernet5-1.core1.lon1.he.net                                                              
+╭─ 184.104.198.126 6939    10.562                   (London, England, GB, EU) port-channel2.core2.lon5.he.net                                                                     
+S (6939)  exa-north-and-south ✓ || apollo ✓ || yellow ✓ || tata-tgn-atlantic ✓
+╰─ 184.104.199.78  6939    76.895             (Boston, Massachusetts, US, NA) port-channel1.core1.bos2.he.net                                                                     
+╭─ 184.104.194.87  6939    76.885             (Boston, Massachusetts, US, NA) 100ge0-40.core2.bos1.he.net                                                                         
+S&T (6939)  exa-north-and-south ✓
+╰─ 72.52.92.10     6939    89.44                        (Moncton, NB, CA, NA) 100ge0-33.core2.yqm1.he.net                                                                         
+   209.51.184.134  3367    89.411                       (Moncton, NB, CA, NA) f6-networks-inc.10gigabitethernet12-15.core1.yqm1.he.net                                            
+   98.143.249.21   21659   87.949                       (Moncton, NB, CA, NA) enova-98-143-249-21.e-novations.ca                                                                  
+   96.126.70.90    21659   88.0              (Moncton, New Brunswick, CA, NA) 96-126-70-90.apbx.ca                                                                                

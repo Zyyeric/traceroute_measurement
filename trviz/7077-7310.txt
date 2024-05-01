@@ -1,0 +1,26 @@
+   38.47.189.189   140443  0.0           (Kuala Lumpur, Kuala Lumpur, MY, AS)                                                                                                     
+   38.47.189.1     140443  0.195         (Kuala Lumpur, Kuala Lumpur, MY, AS)                                                                                                     
+╭─ 38.47.188.2     140443  0.188         (Kuala Lumpur, Kuala Lumpur, MY, AS)                                                                                                     
+S&T (140443, 174)  indonesia-global-gateway-igg-system ✓ || palapa-ring-west ✓ || batam-dumai-melaka-bdm-cable-system ✘ || jasuka ✓ || seamewe-4 ✘ || seamewe-5 ✓ || seax-1 ✘ || asia-submarine-cable-express-asecahaya-malaysia ✓ || asia-america-gateway-aag-cable-system ✓ || batam-rengit-cable-system-brcs ✘ || apcn-2 ✓
+├  10.111.220.141  *       0.189 (6.388)                                     ***                                                                                                     
+├─ 154.18.19.209   174     6.855               (Singapore, Singapore, SG, AS) te0-8-0-2-7.201.ccr31.sin01.atlas.cogentco.com                                                      
+S (174)  seamewe-5 ✓
+╰─ 154.54.87.214   174     143.945                   (Marseille, PAC, FR, EU) be2919.ccr32.mrs02.atlas.cogentco.com                                                               
+   154.54.72.225   174     154.515                       (Paris, IDF, FR, EU) be2780.ccr42.par01.atlas.cogentco.com                                                               
+   154.54.38.158   174     164.43                        (Paris, IDF, FR, EU) be3184.ccr31.par04.atlas.cogentco.com                                                               
+   154.54.37.238   174     191.776                       (Paris, IDF, FR, EU) be3169.agr21.par04.atlas.cogentco.com                                                               
+   130.117.15.70   6453    163.27                        (Paris, IDF, FR, EU) tata.par04.atlas.cogentco.com                                                                       
+   ***             *       -inf                                           *** *                                                                                                   
+   80.231.154.25   6453    168.301             (Paris, Île-de-France, FR, EU) if-bundle-13-2.qcore1.pye-paris.as6453.net                                                          
+╭─ 80.231.154.27   6453    168.733             (Paris, Île-de-France, FR, EU) if-bundle-2-2.qcore2.pye-paris.as6453.net                                                           
+S&T (6453)  
+╰─ 80.231.196.37   6453    168.487                  (London, England, GB, EU) if-bundle-13-2.qcore1.ldn-london.as6453.net                                                         
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 80.231.131.1    6453    168.511                     (London, None, GB, EU) if-ae-2-2.tcore2.l78-london.as6453.net                                                              
+S (6453)  
+╰─ 80.231.131.66   6453    177.318                       (Mumbai, MH, IN, AS) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   115.114.12.186  4755    195.916                     (Delhi, Delhi, IN, AS) 115.114.12.186.static-delhi.vsnl.net.in                                                             
+   180.179.197.198 17439   195.347                       (None, None, IN, AS) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   216.48.178.84   132420  193.238             (Noida, Uttar Pradesh, IN, AS) e2e-95-84.ssdcloudindia.net                                                                         

@@ -1,0 +1,23 @@
+   92.38.135.131   202422  0.0                         (Seoul, Seoul, KR, AS)                                                                                                     
+   92.38.135.3     202422  0.258                       (Seoul, Seoul, KR, AS) vrrp.gcore.lu                                                                                       
+   10.255.17.210   *       0.172                                          ***                                                                                                     
+   10.255.17.213   *       0.251                                          ***                                                                                                     
+   10.255.17.147   *       0.395                                          ***                                                                                                     
+╭─ 8.244.74.25     3356    0.605                       (Seoul, Seoul, KR, AS)                                                                                                     
+S (3356)  apcn-2 ✓ || asia-pacific-gateway-apg ✓ || flag-north-asia-loopreach-north-asia-loop ✓ || eac-c2c © || new-cross-pacific-ncp-cable-system ✓ || korea-japan-cable-network-kjcn ✓ || flag-europe-asia-fea © || trans-pacific-express-tpe-cable-system ✓
+╰─ 4.69.217.14     3356    31.69                          (Tokyo, 13, JP, AS) ae1.3505.edge2.Tokyo4.level3.net                                                                    
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 184.104.188.97  6939    38.951                      (Osaka, Ōsaka, JP, AS) port-channel10.core2.osa1.he.net                                                                    
+S (6939)  japan-u-s-cable-network-jus ✓ || tata-tgn-pacific ✓ || pacific-crossing-1-pc-1 ✘ || faster ✓ || jupiter ✓ || new-cross-pacific-ncp-cable-system ✓ || trans-pacific-express-tpe-cable-system ✓ || unityeac-pacific ✓
+╰─ 184.105.223.225 6939    147.984                       (Dallas, TX, US, NA) 100ge11-1.core1.dal1.he.net                                                                         
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   184.104.195.162 6939    198.706                       (Newark, NJ, US, NA) port-channel2.core1.ewr5.he.net                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 184.105.81.141  6939    283.224                      (Ashburn, VA, US, NA) port-channel10.core3.ash1.he.net                                                                    
+S (6939, 56655)  
+╰─ 185.125.170.252 56655   279.767                       (Oslo, Oslo, NO, EU)                                                                                                     
+   185.125.170.47  56655   280.158                       (Oslo, Oslo, NO, EU)                                                                                                     
+   185.14.97.165   56655   794.01                        (Oslo, Oslo, NO, EU)                                                                                                     
+   185.14.97.165   56655   794.01                        (Oslo, Oslo, NO, EU)                                                                                                     

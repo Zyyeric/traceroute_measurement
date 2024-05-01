@@ -1,0 +1,16 @@
+   117.20.118.21   45498   0.0               (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     
+   117.20.118.17   45498   3.09              (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     
+   27.109.113.25   45498   1.102             (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     
+   27.109.113.4    45498   1.107             (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     
+   172.16.100.137  *       1.436                                          ***                                                                                                     
+   172.16.16.6     *       1.591                                          ***                                                                                                     
+╭─ 184.105.81.38   6939    38.734                     (Phnom Penh, 8, KH, AS) 100ge0-36.core1.pnh1.he.net                                                                         
+S (6939)  asia-africa-europe-1-aae-1 ✓
+├─ 184.104.199.181 6939    69.803              (Hong Kong, Hong Kong, HK, AS) port-channel9.core2.hkg1.he.net                                                                     
+S (6939, )  seamewe-3 ✓ || asia-submarine-cable-express-asecahaya-malaysia ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 203.190.230.209 *       97.774                      (Tokyo, Tokyo, JP, AS)                                                                                                     
+   84.17.33.105    57695   97.51                 (Tokyo / Narita, 12, JP, AS) v3517.cr01.nrt04.jp.misaka.io                                                                       
+   199.119.64.143  969     97.563                      (Tokyo, Tokyo, JP, AS) e32-20.spine2.nrt04.jp.misaka.io                                                                    
+   103.170.232.11  142616  97.123                      (Tokyo, Tokyo, JP, AS) po-31.lag.nrt04.jp.misaka.io                                                                        
+   103.170.232.152 142616  97.68                       (Tokyo, Tokyo, JP, AS) user-103-170-232-152.nrt04.jp.misaka.io                                                             

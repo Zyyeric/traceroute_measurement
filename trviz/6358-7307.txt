@@ -1,0 +1,25 @@
+   138.117.32.11   264479  0.0              (Feira de Santana, Bahia, BR, SA) 138-117-32-11.static.turbozoneinternet.net.br                                                       
+   138.117.32.9    264479  1.25             (Feira de Santana, Bahia, BR, SA) 138-117-32-9.static.turbozoneinternet.net.br                                                        
+   131.255.120.234 264479  4.045            (Feira de Santana, Bahia, BR, SA) rt01-core.turbozoneinternet.net.br                                                                  
+   10.10.127.5     *       2.62                                           ***                                                                                                     
+   10.10.127.9     *       1.653                                          ***                                                                                                     
+╭─ 45.184.144.214  *       28.81                   (Fortaleza, Ceará, BR, SA) as6939.fortaleza.ce.ix.br                                                                           
+S (, 6939)  brusa ✘ || america-movil-submarine-cable-system-1-amx-1 ✘ || globenet ✘
+╰─ 184.104.199.177 6939    106.189                   (Miami, Florida, US, NA) 100ge0-53.core2.mia1.he.net                                                                         
+╭─ 184.104.188.78  6939    124.318          (New York City, New York, US, NA) 100ge0-40.core2.nyc5.he.net                                                                         
+S (6939)  exa-north-and-south ✓ || atlantic-crossing-1-ac-1 ✓ || yellow ✓ || apollo ✓ || tata-tgn-atlantic ✓ || flag-atlantic-1-fa-1 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.64.5    6939    194.835                  (London, England, GB, EU) port-channel4.core1.lon3.he.net                                                                     
+╭─ 184.104.205.253 6939    193.722                  (London, England, GB, EU) mtn-globalconnect-solutions-ltd.port-channel7.core1.lon3.he.net                                     
+T (6939, 16637)  
+├─ 41.181.189.65   16637   193.525                     (Pretoria, GP, ZA, AF) *                                                                                                   
+T (16637)  
+╰─ 41.181.105.105  16637   193.079                  (London, England, GB, EU)                                                                                                     
+╭─ 41.181.244.176  16637   195.011                  (London, England, GB, EU)                                                                                                     
+T (16637, 20294)  
+├─ 41.181.247.39   20294   342.431                       (None, None, ZA, AF) *                                                                                                   
+LHL (20294)  
+╰─ 212.88.110.34   20294   341.82           (Kampala, Central Region, UG, AF)                                                                                                     
+   129.205.30.76   37063   342.378                       (Kampala, C, UG, AF) *                                                                                                   
+   41.191.77.206   328998  343.243                       (Kampala, C, UG, AF) *                                                                                                   
+   196.49.15.189   328998  343.375          (Kampala, Central Region, UG, AF)                                                                                                     

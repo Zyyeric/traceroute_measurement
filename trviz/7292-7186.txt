@@ -1,0 +1,13 @@
+   45.87.135.252   208398  0.0                 (Singapore, Singapore, SG, AS)                                                                                                     
+   45.87.135.253   208398  1.31                (Singapore, Singapore, SG, AS)                                                                                                     
+   10.1.1.254      *       0.471                                          ***                                                                                                     
+   93.186.133.209  6762    0.435               (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 93.186.133.94   6762    0.563               (Singapore, Singapore, SG, AS) ae6.singapore2.sin.seabone.net                                                                      
+S (6762, 6939)  asia-pacific-gateway-apg ✓ || eac-c2c ✓ || apcn-2 ✓ || seamewe-3 👍
+├─ 27.111.228.81   6939    68.556                    (Seogwipo, None, KR, AS) 6939.sgw.equinix.com                                                                                
+S (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.220.67  6939    33.422              (Hong Kong, Hong Kong, HK, AS) lshiy.e0-30.switch1.hkg1.he.net                                                                     
+   103.203.243.11  955     33.232              (Hong Kong, Hong Kong, HK, AS) multi-user.port-channe17.switch1.hkg1.bb.lshiy.net                                                  
+   89.213.179.65   32167   33.286              (Hong Kong, Hong Kong, HK, AS) 89-213-179-65.ip.lshiyusercontent.com                                                               

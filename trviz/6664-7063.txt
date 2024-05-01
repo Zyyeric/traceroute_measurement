@@ -1,0 +1,18 @@
+   197.189.194.147 37153   0.0                (Johannesburg, Gauteng, ZA, AF) atlas-anchor-jnb1.jnb.net.host-h.net                                                                
+   197.189.194.145 37153   0.167 (1.87)         (Johannesburg, Gauteng, ZA, AF)                                                                                                     
+   197.189.193.2   37153   0.334              (Johannesburg, Gauteng, ZA, AF) core-router1.jnb1.host-h.net                                                                        
+   196.60.8.42     6939    41.245                 (Johannesburg, 6, ZA, None) he.ixp.joburg                                                                                       
+╭─ 184.105.223.210 6939    21.128                     (Cape Town, WC, ZA, AF) 100ge0-34.core1.cpt1.he.net                                                                         
+T (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.195.97  6939    159.45                       (London, ENG, GB, EU) 100ge0-35.core2.lon3.he.net                                                                         
+╭─ 184.105.64.4    6939    159.484                  (Poplar, England, GB, EU) port-channel18.core3.lon2.he.net                                                                    
+S&T (6939, 8551)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 80.249.209.46   8551    173.497                     (Schiphol, NH, NL, EU) *                                                                                                   
+LHL (8551)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 212.179.124.186 8551    224.461                     (Tel Aviv, TA, IL, AS) bzq-179-124-186.cust.bezeqint.net                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   146.185.219.73  202422  218.931    (Petaẖ Tiqva, Central District, IL, AS)                                                                                                     

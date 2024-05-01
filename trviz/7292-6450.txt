@@ -1,0 +1,14 @@
+   194.187.172.112 35574   0.0                          (Rome, Lazio, IT, EU)                                                                                                     
+╭─ 194.187.172.101 35574   0.327                        (Rome, Lazio, IT, EU)                                                                                                     
+LHL (35574, 6939)  seamewe-4 ✓ ↠ apollo ✘ || seamewe-4 ✓ ↠ flag-atlantic-1-fa-1 ✓ || asia-africa-europe-1-aae-1 ✘ ↠ apollo ✘ || asia-africa-europe-1-aae-1 ✘ ↠ flag-atlantic-1-fa-1 ✓ || seamewe-5 ✓ ↠ apollo ✘ || seamewe-5 ✓ ↠ flag-atlantic-1-fa-1 ✓ || imewe ✓ ↠ apollo ✘ || imewe ✓ ↠ flag-atlantic-1-fa-1 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.198.225 6939    158.542          (Los Angeles, California, US, NA) port-channel17.core2.lax1.he.net                                                                    
+╭─ 72.52.92.122    6939    159.143                  (Los Angeles, CA, US, NA) 100ge14-1.core1.lax2.he.net                                                                         
+S (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.220.67  6939    254.178             (Hong Kong, Hong Kong, HK, AS) lshiy.e0-30.switch1.hkg1.he.net                                                                     
+   103.203.243.11  955     251.137             (Hong Kong, Hong Kong, HK, AS) multi-user.port-channe17.switch1.hkg1.bb.lshiy.net                                                  
+   89.213.179.65   32167   251.105             (Hong Kong, Hong Kong, HK, AS) 89-213-179-65.ip.lshiyusercontent.com                                                               

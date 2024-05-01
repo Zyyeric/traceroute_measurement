@@ -1,0 +1,26 @@
+   102.130.49.144  328383  0.0                (Johannesburg, Gauteng, ZA, AF) za-jnb-as57695.anchors.atlas.ripe.net                                                               
+   ***             *       -inf                                           *** *                                                                                                   
+   102.130.49.3    328383  0.27               (Johannesburg, Gauteng, ZA, AF) spine2.v271.jnb01.za.misaka.io                                                                      
+   102.130.51.6    *       0.303              (Johannesburg, Gauteng, ZA, AF) e54-1-20.cr2a.tdjb1.jnb1.za.917.as                                                                  
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 63.218.151.2    3491    162.475            (Johannesburg, Gauteng, ZA, AF)                                                                                                     
+T (3491, 174)  
+╰─ 154.54.5.34     174     162.326                  (London, England, GB, EU) be4429.ccr41.lon13.atlas.cogentco.com                                                               
+╭─ 130.117.50.246  174     162.225                      (London, ENG, GB, EU) be2286.ccr42.lon13.atlas.cogentco.com                                                               
+S&T (174)  
+├─ 130.117.51.42   174     169.615                    (Amsterdam, NH, NL, EU) be12488.ccr42.ams03.atlas.cogentco.com                                                              
+T (174)  
+╰─ 130.117.0.142   174     175.938            (Frankfurt am Main, HE, DE, EU) be2814.ccr42.fra03.atlas.cogentco.com                                                               
+╭─ 154.54.36.254   174     181.679                       (Munich, BY, DE, EU) be2960.ccr22.muc03.atlas.cogentco.com                                                               
+T (174)  
+├─ 154.54.59.181   174     187.238                        (Vienna, 9, AT, EU) be3462.ccr52.vie01.atlas.cogentco.com                                                               
+LHL (174)  
+├─ 130.117.50.82   174     187.489                        (Dublin, D, IE, EU) be2209.rcr11.b022738-0.dub01.atlas.cogentco.com                                                     
+LHL (174)  
+├─ 149.6.175.250   174     243.785        (Le Pre-Saint-Gervais, IDF, FR, EU) *                                                                                                   
+S (174, 20965)  
+╰─ 62.40.98.146    20965   267.978                       (Athens, A1, GR, EU) ae1.mx1.ath2.gr.geant.net                                                                           
+   83.97.88.66     5408    269.667                       (Athens, A1, GR, EU) grnet-ias-grnet-gw.mx1.ath2.gr.geant.net                                                            
+   62.217.100.63   5408    269.129                       (None, None, GR, EU) eier-kolettir-AE.backbone.grnet.gr                                                                  
+   62.217.98.53    199399  270.585                       (None, None, GR, EU) grix-ADMIN.eier.access-link.grnet.gr                                                                
+   195.130.66.103  199399  269.344                   (Athens, Attica, GR, EU) gr-ath-as199399.anchors.atlas.ripe.net                                                              

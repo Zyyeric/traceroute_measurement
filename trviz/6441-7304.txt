@@ -1,0 +1,10 @@
+   85.233.1.54     29505   0.0           (Lübeck, Schleswig-Holstein, DE, EU) de-lbc-as29505.anchors.atlas.ripe.net                                                               
+   85.233.1.50     29505   0.243         (Lübeck, Schleswig-Holstein, DE, EU) svi9.rt-core-lbc-nls-01.net.glasfaser.swhl.de                                                       
+╭─ 85.233.1.1      29505   0.482         (Lübeck, Schleswig-Holstein, DE, EU) et-0-0-0-0.rt-edge-lbc-nls-01.net.glasfaser.swhl.de                                                 
+T (29505, 3399)  
+├─ 80.249.212.156  3399    16.041                     (Amsterdam, NH, NL, EU) xe-0-1-1-amsix.ams-evo.obe.net                                                                      
+T (3399)  
+╰─ 185.242.229.22  3399    27.293                    (OErsundsbro, C, SE, EU) ae2-10.mal-vg4.obe.net                                                                              
+   46.227.64.235   3399    269.693                         (Malmo, M, SE, EU) po1-100.mma-vg4-2.obe.net                                                                           
+   46.227.64.211   60396   28.801                        (None, None, SE, EU) xe-0-1-1-704-demarc.mal-vg4.obenetwork.net                                                          
+   91.209.0.21     60396   28.763                      (Malmö, Skåne, SE, EU) se-lud-as60396.anchors.atlas.ripe.net                                                               

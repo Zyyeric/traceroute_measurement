@@ -1,0 +1,20 @@
+   193.1.201.140   1213    0.0                   (Tallaght, Leinster, IE, EU) atlas-anchor.heanet.ie                                                                              
+   193.1.201.138   1213    0.375                   (Dublin, Leinster, IE, EU) pw-spine1-vlan11.services.hea.net                                                                   
+   87.44.56.177    1213    0.372                        (Dublin, L, IE, None) ae3.core1-pw.nn.hea.net                                                                             
+╭─ 212.222.58.253  3257    0.613              (Palmerstown, Leinster, IE, EU) ae1-100.cr0-dub4.ip4.gtt.net                                                                        
+S&T (3257)  geo-eirgrid ✘ || rockabill © || esat-2 ✘ || sirius-south ✘ || exa-north-and-south ✘ || havhingstenceltixconnect-2-cc-2 © || exa-express ✘ || pan-european-crossing-uk-ireland ✓ || esat-1 ✘ || solas ✓
+╰─ 89.149.140.253  3257    10.304                       (London, ENG, GB, EU) ae17.cr11-lon2.ip4.gtt.net                                                                          
+   62.115.47.218   1299    10.805                   (London, England, GB, EU) ldn-b2-link.ip.twelve99.net                                                                         
+╭─ 62.115.122.188  1299    11.328                   (London, England, GB, EU) ldn-bb1-link.ip.twelve99.net                                                                        
+T (1299)  
+├─ 80.91.249.11    1299    24.696                  (Hamburg, Hamburg, DE, EU) hbg-bb3-link.ip.twelve99.net                                                                        
+T (1299)  
+╰─ 62.115.134.76   1299    31.037        (Copenhagen, Capital Region, DK, EU) kbn-bb5-link.ip.twelve99.net                                                                        
+╭─ 62.115.143.7    1299    30.687        (Copenhagen, Capital Region, DK, EU) kbn-b1-link.ip.twelve99.net                                                                         
+S&T (1299, 12552)  
+├─ 62.115.185.221  12552   28.671                        (None, None, NO, EU) broadnet-svc078477-ic368141.c.telia.net                                                             
+T (12552)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 146.247.170.201 12552   37.282              (Stockholm, Stockholm, SE, EU)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   194.68.41.27    210422  50.794                  (Grillby, Uppsala, SE, EU)                                                                                                     

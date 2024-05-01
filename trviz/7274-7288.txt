@@ -1,0 +1,18 @@
+   103.215.229.229 140443  0.0                  (Surabaya, East Java, ID, AS) 229.229.215.103.in-addr.herza.id                                                                    
+   103.215.229.1   140443  0.283         (Gubengairlangga, East Java, ID, AS)                                                                                                     
+   103.215.228.1   140443  0.284         (Gubengairlangga, East Java, ID, AS) 1.228.215.103.in-addr.herza.id                                                                      
+╭─ 36.64.254.21    7713    0.284 (1.554)    (Gubengairlangga, East Java, ID, AS)                                                                                                     
+S&T (7713)  australia-singapore-cable-asc ✓ || matrix-cable-system ✘ || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || indonesia-global-gateway-igg-system 👍 || seamewe-3 ✓ || jasuka 👍 || indigo-west ✓ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || jakabare ✓
+╰─ 180.240.193.93  7713    18.655              (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 180.240.193.93  7713    18.655              (Singapore, Singapore, SG, AS)                                                                                                     
+LHL (7713)  seamewe-5 👍 || seamewe-4 ✓ || peace-cable ✘ || seamewe-3 ✓
+├─ 180.240.190.214 7713    185.304         (Frankfurt am Main, Hesse, DE, EU)                                                                                                     
+T (7713, 9121)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 212.156.102.39  9121    235.445                     (Istanbul, 34, TR, AS) 34-ebgp-acibadem-sr12e-k---302-ams-col-2.statik.turktelekom.com.tr                                  
+   81.212.197.109  9121    235.379                       (None, None, TR, AS) 34-acibadem-xrs-t2-1---34-ebgp-acibadem-sr12e-k.statik.turktelekom.com.tr                           
+   81.212.218.194  9121    241.129                   (Ankara, Ankara, TR, AS) 35-hatay-sr12e-t2-2---34-acibadem-xrs-t2-1.statik.turktelekom.com.tr                                
+   81.212.214.175  9121    241.056                   (Ankara, Ankara, TR, AS) 35-hatay-sr12e-t3-1---35-hatay-sr12e-t2-2.statik.turktelekom.com.tr                                 
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   77.223.128.226  43391   233.444            (İzmir, İzmir Province, TR, AS)                                                                                                     

@@ -1,0 +1,14 @@
+   103.170.232.152 142616  0.0                         (Tokyo, Tokyo, JP, AS) user-103-170-232-152.nrt04.jp.misaka.io                                                             
+   103.170.232.11  142616  0.157                       (Tokyo, Tokyo, JP, AS) po-31.lag.nrt04.jp.misaka.io                                                                        
+   103.170.232.2   142616  0.262                       (Tokyo, Tokyo, JP, AS) spine1.nrt04.jp.misaka.io                                                                           
+   199.119.64.136  969     0.216                       (Tokyo, Tokyo, JP, AS) e53-10.cr1a.eqty8.nrt4.jp.917.as                                                                    
+   199.119.64.95   969     0.313                       (Tokyo, Tokyo, JP, AS) po100.cr2a.eqty8.nrt4.jp.917.as                                                                     
+╭─ 84.17.33.106    60068   0.283                       (Tokyo, Tokyo, JP, AS) po66-3518.cr01.nrt04.jp.misaka.io                                                                   
+S (60068, 6939)  apcn-2 ✓ || eac-c2c ✓ || asia-pacific-gateway-apg ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.105.64.129  6939    53.366                   (Hong Kong, None, HK, AS) 100ge10-2.core1.hkg1.he.net                                                                         
+S (6939, )  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 203.174.80.22   *       76.822              (Singapore, Singapore, SG, AS) he.net.sin01.ne.com.sg                                                                              
+   ***             *       -inf                                           *** *                                                                                                   
+   203.174.85.106  38001   79.239              (Singapore, Singapore, SG, AS)                                                                                                     

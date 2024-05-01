@@ -1,0 +1,11 @@
+   103.202.216.76  59105   0.0                         (Chōfu, Tokyo, JP, AS)                                                                                                     
+   103.202.216.73  59105   0.264                       (Tokyo, Tokyo, JP, AS) ge-2-1-0.pop03er03.bb.homenoc.ad.jp                                                                 
+   103.48.31.50    59105   0.294                         (None, None, JP, AS) ge-0-0-6.pop03er02.bb.homenoc.ad.jp                                                                 
+╭─ 203.190.230.108 58453   0.289 (6.338)            (Tokyo / Narita, 12, JP, AS) 58453.tyo.equinix.com                                                                               
+S (58453)  apcn-2 ✓ || eac-c2c ✓ || asia-pacific-gateway-apg ✓
+╰─ 223.118.2.162   58453   58.394                        (None, None, HK, AS) *                                                                                                   
+╭─ 223.119.0.93    202196  58.804                        (None, None, HK, AS) *                                                                                                   
+S (202196)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 37.10.41.14     202196  84.244              (Singapore, Singapore, SG, AS)                                                                                                     

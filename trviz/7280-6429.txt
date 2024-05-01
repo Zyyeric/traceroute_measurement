@@ -1,0 +1,20 @@
+   213.238.162.218 48292   0.0                   (Istanbul, Istanbul, TR, AS) tr-ist-as48292.anchors.atlas.ripe.net                                                               
+   213.238.162.217 48292   0.282                 (Ataşehir, Istanbul, TR, AS) tr-ist-as48292.anchors.atlas.ripe.net                                                               
+   ***             *       -inf                                           *** *                                                                                                   
+   10.235.234.40   *       1.379                                          ***                                                                                                     
+   195.175.203.85  9121    0.81                  (Istanbul, Istanbul, TR, AS) 195.175.203.85.static.turktelekom.com.tr                                                            
+   212.156.251.17  9121    0.892                 (Istanbul, Istanbul, TR, AS) 00-gayrettepe-sr14s-t2-2---00-itu-sr12e-t3-1.statik.turktelekom.com.tr                              
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 212.156.101.196 9121    38.271                (Istanbul, Istanbul, TR, AS) 301-fra-col-2---00-ebgp-gayrettepe-k.statik.turktelekom.com.tr                                      
+LHL (9121, 6939)  seamewe-5 ✓ || seamewe-3 👍
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.105.65.110  6939    34.64                         (Munich, BY, DE, EU) 100ge0-35.core2.muc1.he.net                                                                         
+T (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.105.65.134  6939    49.242                         (Sofia, 23, BG, EU) 100ge10-1.core1.sof1.he.net                                                                         
+T (6939)  
+╰─ 184.105.64.170  6939    61.7                          (Athens, A1, GR, EU) 100ge0-36.core1.ath1.he.net                                                                         
+   184.104.191.234 6939    58.675                    (Koropí, Attica, GR, EU) fast-telecom-p-c.e0-7.core1.ath1.he.net                                                             
+   ***             *       -inf                                           *** *                                                                                                   
+   185.14.96.225   211186  74.984             (Lamía, Central Greece, GR, EU) vlan4090.lamia.fast.net.gr                                                                          
+   185.14.96.232   211186  79.29              (Lamía, Central Greece, GR, EU)                                                                                                     

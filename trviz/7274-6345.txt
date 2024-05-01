@@ -1,0 +1,41 @@
+   103.102.166.20  14907   0.0                 (Singapore, Singapore, SG, AS) ripe-atlas-eqsin.wikimedia.org                                                                      
+   103.102.166.19  14907   1.086               (Singapore, Singapore, SG, AS) ae1-530.cr2-eqsin.wikimedia.org                                                                     
+   180.87.164.61   6453    1.297               (Singapore, Singapore, SG, AS) ix-xe-0-0-1-0.thar1.40b-singapore.as6453.net                                                        
+   ***             *       -inf                                           *** *                                                                                                   
+   209.58.82.129   6453    176.763             (Singapore, Singapore, SG, AS) if-bundle-2-2.qcore2.svw-singapore.as6453.net                                                       
+╭─ 180.87.84.128   6453    183.197             (Singapore, Singapore, SG, AS) if-ae-33-2.tcore2.svw-singapore.as6453.net                                                          
+S (6453, 3786)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 64.86.252.66    3786    174.767                  (Los Angeles, CA, US, NA) if-ae-6-20.tcore1.eql-losangeles.as6453.net                                                         
+   154.54.11.193   174     181.564                  (Los Angeles, CA, US, NA) be3003.ccr41.lax05.atlas.cogentco.com                                                               
+   154.54.27.117   174     194.028                  (Los Angeles, CA, US, NA) be3243.ccr41.lax01.atlas.cogentco.com                                                               
+   154.54.44.85    174     254.159                      (Phoenix, AZ, US, NA) be2931.ccr31.phx01.atlas.cogentco.com                                                               
+   154.54.5.218    174     190.919                   (El Paso, Texas, US, NA) be2979.ccr21.elp02.atlas.cogentco.com                                                               
+   154.54.0.53     174     218.24                    (Houston, Texas, US, NA) be3850.ccr41.iah01.atlas.cogentco.com                                                               
+   154.54.28.69    174     249.676                      (Atlanta, GA, US, NA) be2687.ccr41.atl01.atlas.cogentco.com                                                               
+   154.54.7.157    174     241.335                   (Washington, DC, US, NA) be2112.ccr41.dca01.atlas.cogentco.com                                                               
+╭─ 154.54.40.105   174     240.34                      (New York, NY, US, NA) be2806.ccr41.jfk02.atlas.cogentco.com                                                               
+S (174)  
+├─ 66.28.4.198     174     239.824                       (Paris, IDF, FR, EU) be3627.ccr41.par01.atlas.cogentco.com                                                               
+T (174)  
+╰─ 154.54.58.233   174     240.272            (Frankfurt am Main, HE, DE, EU) be2799.ccr41.fra03.atlas.cogentco.com                                                               
+╭─ 154.54.36.54    174     268.925                       (Munich, BY, DE, EU) be2959.ccr21.muc03.atlas.cogentco.com                                                               
+T (174)  
+├─ 154.54.58.6     174     264.548                        (Vienna, 9, AT, EU) be2974.ccr51.vie01.atlas.cogentco.com                                                               
+T (174)  
+├─ 154.54.59.85    174     299.943                   (Bratislava, BL, SK, EU) be2988.ccr21.bts01.atlas.cogentco.com                                                               
+T (174)  
+├─ 130.117.3.138   174     286.818                     (Budapest, PE, HU, EU) be3261.ccr31.bud01.atlas.cogentco.com                                                               
+T (174)  
+├─ 154.54.38.246   174     277.148                     (Bucharest, B, RO, EU) be3262.ccr31.buh01.atlas.cogentco.com                                                               
+S&T (174)  
+├─ 154.54.77.237   174     276.955               (Istanbul, Istanbul, TR, AS) be3572.rcr71.ist01.atlas.cogentco.com                                                               
+S (174)  
+├─ 154.54.74.206   174     298.924                        (Lyon, ARA, FR, EU) be2880.rcr21.lys01.atlas.cogentco.com                                                               
+S (174, 43391)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 77.223.128.226  43391   322.398            (İzmir, İzmir Province, TR, AS)                                                                                                     

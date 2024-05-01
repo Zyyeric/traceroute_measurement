@@ -1,0 +1,16 @@
+   23.157.160.140  21700   0.0              (New York City, New York, US, NA)                                                                                                     
+   23.157.160.129  21700   0.167            (New York City, New York, US, NA)                                                                                                     
+   23.157.160.4    21700   0.283            (New York City, New York, US, NA)                                                                                                     
+╭─ 209.120.135.41  3257    0.264 (0.966)       (New York City, New York, US, NA) ae0-502.cr3-nyc3.ip4.gtt.net                                                                        
+S (3257)  
+├─ 89.149.129.62   3257    75.321                        (Paris, IDF, FR, EU) et-1-1-0.cr0-par9.ip4.gtt.net                                                                       
+S (3257, 29169)  
+╰─ 77.67.98.130    29169   75.187                        (None, None, US, NA) ip4.gtt.net                                                                                         
+╭─ 173.246.102.32  29169   73.544                        (None, None, US, NA) po2000.edge-1.sd4.paris.ip4.as29169.net                                                             
+S (29169, 34019)  
+╰─ 193.17.192.255  34019   73.57               (Paris, Île-de-France, FR, EU) et-202-0-48-er01-std.bb.hivane.net                                                                  
+   193.164.153.192 34019   84.085                        (None, None, FR, EU) ae0-486-rt2-th2.bb.hivane.net                                                                       
+   193.200.43.85   34019   84.016              (Paris, Île-de-France, FR, EU) gw-grifon-th2.bb.hivane.net                                                                         
+   89.234.186.43   204092  80.639                        (None, None, FR, EU) eth1.33.asbr02.cogent-rns.grifon.fr                                                                 
+   89.234.186.42   204092  80.538                  (Rennes, Brittany, FR, EU) hv03.cogent-rns.bb.grifon.fr                                                                        
+   80.67.190.218   204092  80.954                  (Rennes, Brittany, FR, EU) ripe-anchor.grifon.fr                                                                               

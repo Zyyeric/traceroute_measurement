@@ -1,0 +1,11 @@
+   45.94.14.204    208520  0.0                (Riyadh, Riyadh Region, SA, AS)                                                                                                     
+   45.94.14.193    208520  0.831              (Riyadh, Riyadh Region, SA, AS)                                                                                                     
+╭─ 212.138.250.7   8895    0.914              (Riyadh, Riyadh Region, SA, AS)                                                                                                     
+S (8895, 3257)  europe-india-gateway-eig ✓ || seamewe-3 ✓ || flag-europe-asia-fea ✘
+╰─ 154.14.64.197   3257    93.117                   (London, England, GB, EU) et-0-0-8-2.cr11-lon1.ip4.gtt.net                                                                    
+   89.149.128.214  3257    92.772                       (London, ENG, GB, EU) ae10.cr10-lon2.ip4.gtt.net                                                                          
+╭─ 77.67.94.154    3491    93.207                      (London, None, GB, EU) as3491.ip4.gtt.net                                                                                  
+LHL (3491)  europe-india-gateway-eig ✓ ↠ seacomtata-tgn-eurasia ✓ || seamewe-3 👍 ↠ seacomtata-tgn-eurasia ✓ || flag-europe-asia-fea ✓ ↠ seacomtata-tgn-eurasia ✓
+├─ 63.223.6.46     3491    252.982                      (Maputo, MPM, MZ, AF) be42.br01.mpm02.pccwbtn.net                                                                         
+S (3491)  
+╰─ 41.221.208.94   3491    253.476            (Johannesburg, Gauteng, ZA, AF) 41-221-208-94.static.pccwglobal.net                                                                 

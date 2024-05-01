@@ -1,0 +1,16 @@
+   103.170.25.13   142360  0.0               (Semarang, Central Java, ID, AS) ipv4-13-25-170-103.nexa.net.id                                                                      
+   103.170.25.9    142360  0.158             (Semarang, Central Java, ID, AS) ipv4-9-25-170-103.nexa.net.id                                                                       
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 103.87.186.178  136106  9.018              (Mega, Southwest Papua, ID, AS) ip186-178.fiberstar.net.id                                                                          
+S&T (136106)  matrix-cable-system ✘ || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || indonesia-global-gateway-igg-system ✓ || indigo-west ✓ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || jasuka ✓
+╰─ 103.87.186.29   136106  20.552              (Singapore, Singapore, SG, AS) ip186-29.fiberstar.net.id                                                                           
+   184.104.210.181 6939    19.67               (Singapore, Singapore, SG, AS) port-channel6.switch2.sin2.he.net                                                                   
+╭─ 184.104.199.149 6939    30.59               (Singapore, Singapore, SG, AS) port-channel19.core3.sin1.he.net                                                                    
+S (6939)  seamewe-5 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.105.81.29   6939    168.08                        (Paris, IDF, FR, EU) port-channel8.core2.par2.he.net                                                                     
+S&T (6939)  
+╰─ 184.104.193.138 6939    175.584                    (Brussels, BRU, BE, EU) 100ge0-33.core2.bru1.he.net                                                                         
+   185.1.127.26    *       173.451        (Ixelles, Brussels Capital, BE, EU) devrandom.belgiumix.net                                                                             
+   45.87.79.251    208725  175.106       (Brussels, Brussels Capital, BE, EU) router01.sw1.core.devrandom.be                                                                      
+   45.87.76.6      208725  173.558       (Brussels, Brussels Capital, BE, EU) ansible.devrandom.be                                                                                

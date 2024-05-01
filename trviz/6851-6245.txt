@@ -1,0 +1,12 @@
+   5.20.2.255      21412   0.0                     (Vilnius, Vilnius, LT, EU) dmz-2-255.cgates.lt                                                                                 
+   5.20.2.254      21412   0.641                   (Vilnius, Vilnius, LT, EU) dmz-2-254.cgates.lt                                                                                 
+╭─ 5.20.2.251      21412   1.184                        (Vilnius, VL, LT, EU) dmz-2-251.cgates.lt                                                                                 
+LHL (21412, 2119)  nordbalt ✘ ↠ baltica ✓ || bcs-east-west-interlink ✓ ↠ baltica ✓
+├─ 80.81.194.121   2119    26.091            (Frankfurt am Main, 5, DE, None) Ti9006b400.ti.telenor.net                                                                           
+T (2119)  
+╰─ 146.172.105.82  2119    33.787                        (None, None, NO, EU) ti3003c400-ae14-0.ti.telenor.net                                                                    
+╭─ 146.172.98.45   2119    33.543                        (None, None, NO, EU) ti3163c360-ae2-0.ti.telenor.net                                                                     
+T (2119, 197564)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 62.119.32.90    197564  34.293                     (Stockholm, AB, SE, EU) *                                                                                                   
+   213.108.25.10   197564  32.115                   (Täby, Stockholm, SE, EU) ripe-atlas2.iis.se                                                                                  

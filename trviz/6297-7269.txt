@@ -1,0 +1,24 @@
+   116.206.155.229 45117   0.0                   (Ahmedabad, Gujarat, IN, AS)                                                                                                     
+   116.206.155.225 45117   0.826                 (Ahmedabad, Gujarat, IN, AS)                                                                                                     
+   121.241.90.57   4755    0.659                 (Ahmedabad, Gujarat, IN, AS) 121.241.90.57.static-ahmedabad.vsnl.net.in                                                          
+   172.28.176.253  *       8.966                                          ***                                                                                                     
+   180.87.38.5     6453    9.028                         (Mumbai, MH, IN, AS) ix-ae-0-100.tcore1.mlv-mumbai.as6453.net                                                            
+╭─ 180.87.38.2     6453    138.867                       (Mumbai, MH, IN, AS) if-ae-2-2.tcore2.mlv-mumbai.as6453.net                                                              
+S (6453)  
+├─ 180.87.39.21    6453    131.483                  (London, England, GB, EU) if-ae-12-2.tcore1.l78-london.as6453.net                                                             
+S&T (6453, 1273)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 195.2.24.225    1273    171.426             (Paris, Île-de-France, FR, EU) ae6-tcr1.pae.cw.net                                                                                 
+T (1273)  
+├─ 195.2.10.62     1273    167.012                   (Zürich, Zurich, CH, EU) ae7-ucr1.zue.cw.net                                                                                 
+T (1273)  
+╰─ 195.2.8.145     1273    155.489                       (None, None, GB, EU) ae11-xcr1.mld.cw.net                                                                                
+   195.2.16.186    1273    172.384                       (None, None, GB, EU) ae41-xcr1.sof.cw.net                                                                                
+╭─ 195.2.12.58     3329    175.047                       (None, None, GB, EU) vfgr1-vf-gw.sof.cw.net                                                                              
+S&T (3329)  
+╰─ 62.74.30.102    3329    178.818                        (Athens, I, GR, EU) *                                                                                                   
+   62.74.30.101    3329    177.363                        (Athens, I, GR, EU) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   62.74.226.30    12361   193.637                   (Athens, Attica, GR, EU) dumy30.panafonet.gr                                                                                 
+   ***             *       -inf                                           *** *                                                                                                   
+   139.91.68.3     8522    198.476                 (Irákleion, Crete, GR, EU)                                                                                                     

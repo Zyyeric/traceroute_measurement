@@ -1,0 +1,15 @@
+   45.12.55.69     208972  0.0                   (Istanbul, Istanbul, TR, AS) 45.12.55.69.addr-arpa.gibir.net                                                                     
+   192.168.1.19    *       0.307                                          ***                                                                                                     
+   10.255.0.17     *       0.493                                          ***                                                                                                     
+   10.252.2.138    *       1.168                                          ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 154.25.16.81    174     3.08                  (Istanbul, Istanbul, TR, AS) be3821.rcr71.ist01.atlas.cogentco.com                                                               
+S (174)  
+├─ 154.54.74.226   174     11.266                         (Lyon, ARA, FR, EU) be2881.rcr21.lys01.atlas.cogentco.com                                                               
+S&T (174, 25003)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 212.113.14.250  25003   50.781                      (London, None, GB, EU) IB.edge5.London1.Level3.net                                                                         
+T (25003)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 94.188.255.2    25003   94.99                (Bnei Brak, Tel Aviv, IL, AS) 255.188.94-binat-smaug.in-addr.arpa                                                                 

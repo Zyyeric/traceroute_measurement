@@ -1,0 +1,13 @@
+   92.38.135.131   202422  0.0                         (Seoul, Seoul, KR, AS)                                                                                                     
+   92.38.135.2     202422  0.328                       (Seoul, Seoul, KR, AS) vrrp.gcore.lu                                                                                       
+   10.255.17.210   *       0.432                                          ***                                                                                                     
+   10.255.17.213   *       0.401                                          ***                                                                                                     
+   10.255.17.147   *       0.369                                          ***                                                                                                     
+   192.145.251.68  14828   1.328                       (Seoul, Seoul, KR, AS)                                                                                                     
+   141.101.82.7    13335   0.645                       (Seoul, Seoul, KR, AS)                                                                                                     
+   141.101.83.55   13335   0.598                       (Seoul, Seoul, KR, AS)                                                                                                     
+   141.101.83.125  13335   0.661                       (Seoul, Seoul, KR, AS)                                                                                                     
+╭─ 141.101.83.123  13335   1.04                        (Seoul, Seoul, KR, AS)                                                                                                     
+S (13335, 141235)  eac-c2c ✓ || asia-pacific-gateway-apg ✓ || apcn-2 ✓ || seamewe-3 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 103.156.251.7   141235  95.011              (Singapore, Singapore, SG, AS)                                                                                                     

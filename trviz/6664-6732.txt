@@ -1,0 +1,22 @@
+   163.117.253.5   766     0.0                       (Madrid, Madrid, ES, EU)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   172.17.0.53     *       1.095                                          ***                                                                                                     
+   193.145.15.49   766     1.475                    (Leganés, Madrid, ES, EU) csic-rt-ju-02-xe-4-0-6.net.redimadrid.es                                                            
+   130.206.216.1   766     1.943                     (Madrid, Madrid, ES, EU) redimadrid-backup.ethtrunk8-103.telmad.rt1.mad.red.rediris.es                                       
+   130.206.245.26  766     2.139                         (None, None, ES, EU) telmad.rt1.ethtrunk13.ciemat.rt2.mad.red.rediris.es                                                 
+   185.79.175.244  6939    3.477                       (Madrid, 29, ES, None) hurricane.alta.espanix.net                                                                          
+╭─ 193.242.98.151  *       15.121              (Barcelona, Catalonia, ES, EU) hurricane-electric.02.catnix.net                                                                    
+S&T (, 6939)  
+├─ 184.104.188.203 6939    23.241    (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) port-channel17.core4.mrs1.he.net                                                                    
+S (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 72.52.92.69     6939    35.457                    (Pleasanton, CA, US, NA) 10ge4-5.core1.pao1.he.net                                                                           
+LHL (6939, 8551)  
+├─ 80.81.193.191   8551    34.827            (Frankfurt am Main, 5, DE, None) decix3.bezeqint.net                                                                                 
+T (8551)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 212.179.124.186 8551    81.327                      (Tel Aviv, TA, IL, AS) bzq-179-124-186.cust.bezeqint.net                                                                   
+   82.81.82.2      8551    84.977                (Tel Aviv, Tel Aviv, IL, AS) bzq-82-81-82-2.red.bezeqint.net                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   146.185.219.73  202422  92.326     (Petaẖ Tiqva, Central District, IL, AS)                                                                                                     

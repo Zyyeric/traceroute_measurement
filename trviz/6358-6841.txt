@@ -1,0 +1,25 @@
+   195.130.66.103  199399  0.0                       (Athens, Attica, GR, EU) gr-ath-as199399.anchors.atlas.ripe.net                                                              
+   195.130.66.102  199399  1.754                    (Výronas, Attica, GR, EU) gw-ripe-anchor.gr-ix.gr                                                                             
+╭─ 176.126.38.47   *       2.451                 (Áno Liósia, Attica, GR, EU) he.gr-ix.gr                                                                                         
+T (, 6939)  
+├─ 184.105.64.169  6939    14.375              (Sofia, Sofia-Capital, BG, EU) 100ge0-75.core3.sof1.he.net                                                                         
+T (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.65.110  6939    32.502                        (Munich, BY, DE, EU) 100ge0-35.core2.muc1.he.net                                                                         
+╭─ 184.105.64.217  6939    38.578          (Frankfurt am Main, Hesse, DE, EU) 100ge0-69.core3.fra2.he.net                                                                         
+T (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 72.52.92.5      6939    42.459                     (Amsterdam, NH, NL, EU) port-channel13.core2.ams1.he.net                                                                    
+   216.66.83.127   6939    58.177          (Amsterdam, North Holland, NL, EU) mtn-globalconnect-solutions-ltd.e0-30.switch1.ams6.he.net                                           
+╭─ 41.181.105.195  16637   49.12           (Amsterdam, North Holland, NL, EU)                                                                                                     
+LHL (16637)  africa-coast-to-europe-ace 👍
+├─ 41.181.190.198  16637   49.96                       (Pretoria, GP, ZA, AF) *                                                                                                   
+T (16637)  
+├─ 41.181.244.176  16637   51.464                   (London, England, GB, EU)                                                                                                     
+T (16637, 20294)  
+├─ 41.181.247.39   20294   200.284                       (None, None, ZA, AF) *                                                                                                   
+LHL (20294)  
+╰─ 212.88.110.34   20294   199.45           (Kampala, Central Region, UG, AF)                                                                                                     
+   129.205.30.76   37063   200.381                       (Kampala, C, UG, AF) *                                                                                                   
+   41.191.77.206   328998  198.768                       (Kampala, C, UG, AF) *                                                                                                   
+   196.49.15.189   328998  199.275          (Kampala, Central Region, UG, AF)                                                                                                     

@@ -1,0 +1,15 @@
+   193.50.97.164   2200    0.0                   (Plouzané, Brittany, FR, EU) anchor.netlab.enstb.org                                                                             
+   193.50.97.161   2200    0.491                 (Plouzané, Brittany, FR, EU) netlab-gw.enstb.org                                                                                 
+   192.108.116.201 50897   0.634                 (Plouzané, Brittany, FR, EU) asr-vlan39.enst-bretagne.fr                                                                         
+   193.51.188.10   2200    0.61 (6.259)        (Saint-Brieuc, Brittany, FR, EU) vl807-pc1-brest1-rtr-021.noc.renater.fr                                                             
+   193.51.177.174  2200    12.138              (Paris, Île-de-France, FR, EU) et-5-2-1-ren-nr-paris1-rtr-131.noc.renater.fr                                                       
+╭─ 62.40.124.69    20965   12.134                        (Paris, IDF, FR, EU) renater-lb1.mx1.par.fr.geant.net                                                                    
+T (20965)  
+├─ 62.40.98.238    20965   48.722                    (Genève, Geneva, CH, EU) ae7.mx1.gen.ch.geant.net                                                                            
+T (20965)  
+├─ 62.40.98.233    20965   27.691                   (Milan, Lombardy, IT, EU) ae2.rt1.mil2.it.geant.net                                                                           
+S&T (20965)  
+╰─ 62.40.98.151    20965   49.219                        (Athens, A1, GR, EU) ae3.mx2.ath.gr.geant.net                                                                            
+   62.40.124.90    5408    51.198                        (Athens, A1, GR, EU) grnet-gw.mx2.ath.gr.geant.net                                                                       
+   62.217.98.53    199399  50.567                        (None, None, GR, EU) grix-ADMIN.eier.access-link.grnet.gr                                                                
+   195.130.66.103  199399  49.622                    (Athens, Attica, GR, EU) gr-ath-as199399.anchors.atlas.ripe.net                                                              

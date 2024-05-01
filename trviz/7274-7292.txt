@@ -1,0 +1,16 @@
+   89.213.179.65   32167   0.0                 (Hong Kong, Hong Kong, HK, AS) 89-213-179-65.ip.lshiyusercontent.com                                                               
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 103.203.243.10  955     0.408             (Kadoorie, Kowloon City, HK, AS) port-channe17.switch1.hkg1.bb.lshiy.net                                                             
+S (955, 6939)  asia-africa-europe-1-aae-1 ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.194.200 6939    172.702   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) port-channel15.core4.mrs1.he.net                                                                    
+S (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.196.194 6939    195.385                       (Denver, CO, US, NA) port-channel1.core1.den3.he.net                                                                     
+LHL (6939)  
+╰─ 184.104.196.46  6939    208.503                     (Istanbul, 34, TR, AS) 100ge0-36.core1.ist1.he.net                                                                         
+   185.1.48.6      43391   205.623                   (Istanbul, 34, TR, None) de-cix.ist.netdirekt.com.tr                                                                         
+   10.34.35.12     *       222.077                                        ***                                                                                                     
+   10.20.0.1       *       218.937                                        ***                                                                                                     
+   77.223.128.226  43391   221.509            (İzmir, İzmir Province, TR, AS)                                                                                                     

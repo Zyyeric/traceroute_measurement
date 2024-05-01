@@ -1,0 +1,16 @@
+   197.189.194.147 37153   0.0                (Johannesburg, Gauteng, ZA, AF) atlas-anchor-jnb1.jnb.net.host-h.net                                                                
+   197.189.194.145 37153   1.418 (34.01)         (Johannesburg, Gauteng, ZA, AF)                                                                                                     
+   197.189.193.2   37153   0.363              (Johannesburg, Gauteng, ZA, AF) core-router1.jnb1.host-h.net                                                                        
+   196.60.8.42     6939    2.259                  (Johannesburg, 6, ZA, None) he.ixp.joburg                                                                                       
+╭─ 184.105.80.102  6939    9.225                         (Durban, NL, ZA, AF) 100ge0-34.core1.dur1.he.net                                                                         
+S&T (6939)  eastern-africa-submarine-system-eassy ✓ || seacomtata-tgn-eurasia ✓
+├─ 184.104.198.50  6939    55.262                      (Mombasa, 300, KE, AF) port-channel3.core1.mba1.he.net                                                                     
+S&T (6939)  seacomtata-tgn-eurasia ✓ || djibouti-africa-regional-express-1-dare1 ✓ || peace-cable ✘ || eastern-africa-submarine-system-eassy ✓
+├─ 184.104.197.225 6939    139.389                (Djibouti City, DJ, DJ, AF) 10ge14-8.core1.jib1.he.net                                                                          
+S&T (6939)  europe-india-gateway-eig ✓ || seamewe-5 ✓ || asia-africa-europe-1-aae-1 ✓ || seamewe-3 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.189.46  6939    270.575                     (Dubai, Dubai, AE, AS) ve1002.core2.dxb1.he.net                                                                            
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   185.34.2.114    36236   270.629                     (Dubai, Dubai, AE, AS)                                                                                                     

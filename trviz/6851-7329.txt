@@ -1,0 +1,16 @@
+   95.175.97.22    49282   0.0                      (Pori, Satakunta, FI, EU)                                                                                                     
+   95.175.97.18    49282   0.636                    (Pori, Satakunta, FI, EU)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   95.175.96.7     49282   5.47                   (Helsinki, Uusimaa, FI, EU) 0000-rsegc-dc2-uut.mgmt.fi.ficolo.net                                                               
+╭─ 184.104.231.210 6939    5.905                  (Helsinki, Uusimaa, FI, EU) e0-8.switch1.hel1.he.net                                                                            
+S&T (6939, 8240)  finland-estonia-3-eesf-3 ✓ || baltic-sea-submarine-cable ✓ || finland-estonia-connection-fec ✓ || finland-estonia-2-eesf-2 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 213.184.52.121  8240    7.403                  (Tallinn, Harjumaa, EE, EU) tele2.rtix.ee                                                                                       
+   91.129.14.212   1257    11.468                 (Tallinn, Harjumaa, EE, EU) ada345-agg-1.bundle-ether3.tele2.net                                                                
+╭─ 91.129.14.224   1257    12.3                   (Tallinn, Harjumaa, EE, EU) hgd-cagg-1.bundle-ether11.tele2.net                                                                 
+S&T (1257)  
+╰─ 91.129.12.4     1257    11.989                        (None, None, SE, EU) ssol1-core-2.bundle-ether3.tele2.net                                                                
+   91.129.13.67    1257    11.669              (Stockholm, Stockholm, SE, EU) ch-glo-cagg-1.bundle-ether2.tele2.net                                                               
+   91.129.16.139   1257    11.882              (Stockholm, Stockholm, SE, EU) ch-glo-sn-1.eth-trunk1.tele2.net                                                                    
+   212.247.125.22  197564  12.067                     (Stockholm, AB, SE, EU) static-212-247-125-22.cust.tele2.se                                                                 
+   213.108.25.10   197564  12.095                   (Täby, Stockholm, SE, EU) ripe-atlas2.iis.se                                                                                  

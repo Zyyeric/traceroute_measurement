@@ -1,0 +1,14 @@
+   38.47.189.189   140443  0.0           (Kuala Lumpur, Kuala Lumpur, MY, AS)                                                                                                     
+   38.47.189.1     140443  0.539         (Kuala Lumpur, Kuala Lumpur, MY, AS)                                                                                                     
+   38.47.188.2     140443  0.507         (Kuala Lumpur, Kuala Lumpur, MY, AS)                                                                                                     
+╭─ 218.100.44.120  *       0.512 (3.213)    (Kuala Lumpur, Kuala Lumpur, MY, AS) he.myix.my                                                                                          
+S (, 6939)  
+├─ 27.111.228.81   6939    11.279                    (Seogwipo, None, KR, AS) 6939.sgw.equinix.com                                                                                
+S (6939)  
+╰─ 184.104.199.150 6939    9.034               (Singapore, Singapore, SG, AS) port-channel1.core1.sin2.he.net                                                                     
+╭─ 184.104.210.182 136106  9.07                        (Singapore, 4, SG, AS) pt-mega-akses-persada.e0-2.switch2.sin2.he.net                                                      
+S&T (136106)  
+╰─ 103.87.186.2    136106  23.818                        (None, None, ID, AS) ip186-2.fiberstar.net.id                                                                            
+   103.87.186.179  136106  26.721                  (Jakarta, Jakarta, ID, AS) ip186-179.fiberstar.net.id                                                                          
+   103.170.24.254  142360  32.34                         (None, None, ID, AS) ipv4-254-24.170.103.as142360.net                                                                    
+   103.170.25.13   142360  32.687            (Semarang, Central Java, ID, AS) ipv4-13-25-170-103.nexa.net.id                                                                      

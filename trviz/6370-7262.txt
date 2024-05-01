@@ -1,0 +1,27 @@
+   203.41.0.254    1221    0.0             (Perth, Western Australia, AU, OC) atlas-per.telstra.net                                                                               
+   203.41.0.253    1221    0.496           (Perth, Western Australia, AU, OC)                                                                                                     
+   138.217.126.78  1221    0.483           (Perth, Western Australia, AU, OC) tel4198820.lnk.telstra.net                                                                          
+   138.217.126.77  1221    1.002           (Perth, Western Australia, AU, OC) bundle-ether801-219.pie-edge903.perth.telstra.net                                                   
+   203.50.6.176    1221    1.493                          (Perth, WA, AU, OC) bundle-ether11.pie-core10.perth.telstra.net                                                         
+   203.50.6.234    1221    29.296                      (Adelaide, SA, AU, OC) bundle-ether3.way-core10.adelaide.telstra.net                                                       
+   203.50.6.231    1221    40.925                    (Melbourne, VIC, AU, OC) bundle-ether16.exi-core10.melbourne.telstra.net                                                     
+   203.50.13.124   1221    41.787               (Melbourne, Victoria, AU, OC) bundle-ether2.cla-core30.melbourne.telstra.net                                                      
+   203.50.13.132   1221    52.402           (Sydney, New South Wales, AU, OC) bundle-ether3.hay-core30.sydney.telstra.net                                                         
+╭─ 203.50.6.106    1221    52.255           (Sydney, New South Wales, AU, OC) bundle-ether2.oxf-gw30.sydney.telstra.net                                                           
+S (1221, 4637)  
+├─ 203.50.13.94    4637    52.522                        (None, None, HK, AS) *                                                                                                   
+S (4637)  
+╰─ 202.84.222.129  4637    54.085           (Sydney, New South Wales, AU, OC) i-10304.sydo-core03.telstraglobal.net                                                               
+   202.84.222.129  4637    54.085           (Sydney, New South Wales, AU, OC) i-10304.sydo-core03.telstraglobal.net                                                               
+   202.84.222.169  4637    166.214          (Sydney, New South Wales, AU, OC) i-10203.sydp-core04.telstraglobal.net                                                               
+╭─ 202.84.222.169  4637    166.214          (Sydney, New South Wales, AU, OC) i-10203.sydp-core04.telstraglobal.net                                                               
+S (4637)  
+╰─ 202.84.140.221  4637    169.143                     (Tokyo, Tokyo, JP, AS) i-14202.jtha-core02.telstraglobal.net                                                               
+╭─ 202.84.140.221  4637    169.143                     (Tokyo, Tokyo, JP, AS) i-14202.jtha-core02.telstraglobal.net                                                               
+S (4637)  
+├─ 202.47.216.146  4637    165.637                       (None, None, HK, AS) i-95.jtha01.telstraglobal.net                                                                       
+S (4637)  
+╰─ 210.57.79.11    4637    166.193                     (Tokyo, Tokyo, JP, AS) unknown.telstraglobal.net                                                                           
+   ***             *       -inf                                           *** *                                                                                                   
+   182.161.74.64   55569   166.233                     (Tokyo, Tokyo, JP, AS)                                                                                                     
+   182.161.74.241  55569   166.221                     (Tokyo, Tokyo, JP, AS)                                                                                                     

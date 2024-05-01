@@ -1,0 +1,13 @@
+   45.87.135.252   208398  0.0                 (Singapore, Singapore, SG, AS)                                                                                                     
+   45.87.135.253   208398  1.104               (Singapore, Singapore, SG, AS)                                                                                                     
+   10.1.1.254      *       0.503                                          ***                                                                                                     
+   93.186.133.209  6762    0.407               (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 93.186.133.94   6762    0.63                (Singapore, Singapore, SG, AS) ae6.singapore2.sin.seabone.net                                                                      
+S (6762, 6939)  
+├─ 27.111.228.81   6939    2.13                      (Seogwipo, None, KR, AS) 6939.sgw.equinix.com                                                                                
+S (6939, 7642)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 74.82.51.50     7642    84.625                      (Singapore, 4, SG, AS) dhivehi-raajjeyge-gulhan-plc.10gigabitethernet1-1-28.switch2.sin1.he.net                            
+S (7642)  
+╰─ 202.1.205.242   7642    213.463                       (None, None, MV, AS) xe-1-0-0-1.rt.dhivehinet.net.mv                                                                     
+   123.176.1.4     7642    226.261                (Male, Kaafu Atoll, MV, AS)                                                                                                     

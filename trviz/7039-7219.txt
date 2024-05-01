@@ -1,0 +1,16 @@
+   102.219.127.20  37468   0.0                 (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 102.219.127.17  37468   0.413               (Singapore, Singapore, SG, AS)                                                                                                     
+S (37468, 137409)  
+├─ 27.111.229.213  137409  0.549                     (Seogwipo, None, KR, AS) 137409.sgw.equinix.com                                                                              
+S (137409, 7578)  
+╰─ 206.148.24.79   7578    0.629               (Singapore, Singapore, SG, AS) po4.sg-eqxsg3-cr2.globalsecurelayer.com                                                             
+╭─ 206.148.24.26   7578    0.443               (Singapore, Singapore, SG, AS) po1.sg-eqxsg3-bb1.globalsecurelayer.com                                                             
+S (7578)  
+├─ 206.148.24.67   7578    67.346           (Sydney, New South Wales, AU, OC) e2.ty-eqxty8-bb1.globalsecurelayer.com                                                              
+S (7578)  
+╰─ 206.148.24.34   7578    67.423                      (Tokyo, Tokyo, JP, AS) po50-2.ty-eqxty8-cr2.globalsecurelayer.com                                                          
+   206.148.24.35   7578    67.186                      (Tokyo, Tokyo, JP, AS) po10-2.ty-eqxty8-sw4.globalsecurelayer.com                                                          
+   45.11.107.52    969     201.917                     (Tokyo, Tokyo, JP, AS) e52-1-gsl.cr1a.eqty8.nrt4.jp.917.as                                                                 
+   199.119.64.139  969     196.713                   (Urayasu, Tokyo, JP, AS) e31-10.spine2.nrt04.jp.misaka.io                                                                    
+   103.170.232.11  142616  201.946                     (Tokyo, Tokyo, JP, AS) po-31.lag.nrt04.jp.misaka.io                                                                        
+   103.170.232.152 142616  201.947                     (Tokyo, Tokyo, JP, AS) user-103-170-232-152.nrt04.jp.misaka.io                                                             

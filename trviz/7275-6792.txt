@@ -1,0 +1,17 @@
+   141.164.39.1    20473   0.0                      (Paripark, Seoul, KR, AS) 141.164.39.1.vultrusercontent.com                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   100.100.100.1   *       0.666                                          ***                                                                                                     
+   10.84.0.17      *       1.221                                          ***                                                                                                     
+   10.84.2.49      *       1.228                                          ***                                                                                                     
+╭─ 192.145.251.32  14828   8.587                       (Seoul, Seoul, KR, AS)                                                                                                     
+S (14828, 6939)  apcn-2 ✘ || eac-c2c ✘ || flag-north-asia-loopreach-north-asia-loop ✘ || asia-pacific-gateway-apg ✘ || flag-europe-asia-fea ✘ || seamewe-3 ✘
+├─ 184.105.81.69   6939    45.926              (Hong Kong, Hong Kong, HK, AS) 10ge0-131.core2.hkg1.he.net                                                                         
+S (6939)  
+╰─ 184.104.199.182 6939    68.926              (Singapore, Singapore, SG, AS) port-channel3.core3.sin1.he.net                                                                     
+╭─ 74.82.49.214    6939    78.58               (Singapore, Singapore, SG, AS) pt-jala-lintas-media.e0-3.switch5.sin1.he.net                                                       
+S&T (6939, 133840)  
+╰─ 103.66.70.104   133840  80.853                  (Jakarta, Jakarta, ID, AS)                                                                                                     
+   121.100.0.45    38158   80.747                  (Jakarta, Jakarta, ID, AS)                                                                                                     
+   43.230.152.226  *       80.625                  (Jakarta, Jakarta, ID, AS) global-in.kings.id                                                                                  
+   43.230.153.90   *       80.366                  (Jakarta, Jakarta, ID, AS)                                                                                                     
+   180.211.88.22   45725   77.773                  (Jakarta, Jakarta, ID, AS) id-jkt-as45725.anchors.atlas.ripe.net                                                               

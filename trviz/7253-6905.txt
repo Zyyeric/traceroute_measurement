@@ -1,0 +1,15 @@
+   103.253.132.25  59238   0.0                     (Bangkok, Bangkok, TH, AS) th-bkk-as59238.anchors.atlas.ripe.net                                                               
+   103.253.132.1   59238   0.352                (Khlong San, Bangkok, TH, AS) gw-cat.idc.inox.co.th                                                                               
+   172.24.132.24   *       0.38                                           ***                                                                                                     
+   172.21.21.2     *       0.458                                          ***                                                                                                     
+╭─ 122.155.224.73  4651    0.436 (2.147)           (Khlong San, Bangkok, TH, AS)                                                                                                     
+S&T (4651)  asia-america-gateway-aag-cable-system ✓ || seamewe-4 ✓ || seamewe-3 ✓
+├─ 61.19.9.90      4651    28.514                   (Singapore, None, SG, AS) *                                                                                                   
+S (4651, 6939)  asia-america-gateway-aag-cable-system ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.81.82   6939    202.377             (San Jose, California, US, NA) port-channel10.core2.pao1.he.net                                                                    
+   64.62.180.46    6939    197.685             (San Jose, California, US, NA) isc-as-1280-as1280.e0-30.switch2.pao1.he.net                                                        
+   192.158.252.10  1280    198.09         (Mountain View, California, US, NA) us-pao-as1280.anchors.atlas.ripe.net                                                                

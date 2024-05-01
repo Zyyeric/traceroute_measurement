@@ -1,0 +1,20 @@
+   197.189.194.147 37153   0.0                (Johannesburg, Gauteng, ZA, AF) atlas-anchor-jnb1.jnb.net.host-h.net                                                                
+   197.189.194.145 37153   0.157 (4.07)         (Johannesburg, Gauteng, ZA, AF)                                                                                                     
+   197.189.193.3   37153   0.314              (Johannesburg, Gauteng, ZA, AF) core-router2.jnb1.host-h.net                                                                        
+   41.66.132.245   37179   0.37               (Johannesburg, Gauteng, ZA, AF) 41-66-132-245-f5.customer.xe-0-0-2-gp-sm-dce-2.africainx.net                                        
+   41.84.12.109    37179   1.695              (Johannesburg, Gauteng, ZA, AF) core.ge-0-1-0-gp-id-pbr-1.za.africainx.net                                                          
+   105.25.146.5    37100   1.537              (Johannesburg, Gauteng, ZA, AF)                                                                                                     
+   105.16.29.1     37100   169.063                 (Johannesburg, GT, ZA, AF) ce-0-3-0-0.cr-01-jnb.za.seacomnet.com                                                               
+╭─ 105.25.160.173  37100   171.969          (Cape Town, Western Cape, ZA, AF) ce-0-0-9.cr-01-cpt.za.seacomnet.com                                                                 
+T (37100)  
+├─ 105.16.15.86    37100   172.518                  (London, England, GB, EU) ce-0-0-17.cr-01-lhr.uk.seacomnet.com                                                                
+S&T (37100)  
+╰─ 105.16.13.125   37100   168.95                     (Amsterdam, NH, NL, EU) ce-3-0-5.er-01-ams.nl.seacomnet.com                                                                 
+╭─ 105.16.9.14     37100   169.008                    (Amsterdam, NH, NL, EU) ae-0-0.pp-01-ams.nl.seacomnet.com                                                                   
+T (37100, 15802)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 87.201.194.242  15802   293.263                        (Dubai, DU, AE, AS) *                                                                                                   

@@ -1,0 +1,16 @@
+   103.2.186.195   45345   0.0               (Nouméa, South Province, NC, OC) nc-nou-as45345.anchors.atlas.ripe.net                                                               
+   103.2.186.221   45345   0.581 (5.53)        (Nouméa, South Province, NC, OC) gw-ipv4-hosting-1010-mx204-f10.as45345.net                                                          
+   202.87.128.198  45345   1.162                          (Noumea, S, NC, OC) *                                                                                                   
+╭─ 202.87.128.197  18200   1.396             (Nouméa, South Province, NC, OC)                                                                                                     
+S (18200, 6939)  gondwana-1 👍
+╰─ 64.71.180.153   6939    22.981                       (Sydney, NSW, AU, OC) e0-9.core2.syd1.he.net                                                                              
+╭─ 64.71.180.153   6939    22.981                       (Sydney, NSW, AU, OC) e0-9.core2.syd1.he.net                                                                              
+S (6939)  hawaiki ✘ || southern-cross-cable-network-sccn ✓ || telstra-endeavour ✓
+├─ 72.52.92.113    6939    115.137                     (New York, NY, US, NA) 100ge11-2.core1.nyc4.he.net                                                                         
+S (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.199.181 6939    148.15              (Hong Kong, Hong Kong, HK, AS) port-channel9.core2.hkg1.he.net                                                                     
+╭─ 184.104.212.74  23944   162.89                   (Hong Kong, None, HK, AS) sky-cable-corporation.port-channel4.switch1.hkg1.he.net                                             
+S (23944)  
+╰─ 130.105.0.33    23944   160.574                   (Quezon City, 0, PH, AS) *                                                                                                   
+   182.18.209.9    23944   162.044             (Manila, Metro Manila, PH, AS)                                                                                                     

@@ -1,0 +1,14 @@
+   27.111.84.21    135132  0.0           (Cebu City, Central Visayas, PH, AS) ph-ceb-as135132.anchors.atlas.ripe.net                                                              
+   27.111.84.20    135132  1.639             (Baugo, Central Visayas, PH, AS) vlan509.core.ceb02.ds.network                                                                       
+   192.168.159.142 *       15.713                                         ***                                                                                                     
+   192.168.159.152 *       2.762                                          ***                                                                                                     
+   192.168.159.168 *       22.583                                         ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 203.177.209.217 4775    4.126             (Baugo, Central Visayas, PH, AS)                                                                                                     
+S (4775, 3491)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 63.218.2.189    3491    34.367              (Hong Kong, Hong Kong, HK, AS)                                                                                                     
+S (3491)  
+╰─ 63.223.9.198    3491    112.557                     (Taipei, None, TW, AS) HundredGE0-3-0-1.br01.tap04.pccwbtn.net                                                             
+   63.222.40.114   3491    112.537                   (Taipei, Taiwan, TW, AS) ncic.te0-1-0-23.br01.tap04.as3491.net                                                               

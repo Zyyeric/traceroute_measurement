@@ -1,0 +1,24 @@
+   103.215.229.229 140443  0.0                  (Surabaya, East Java, ID, AS) 229.229.215.103.in-addr.herza.id                                                                    
+   103.215.229.1   140443  0.193         (Gubengairlangga, East Java, ID, AS)                                                                                                     
+   103.215.228.1   140443  0.194         (Gubengairlangga, East Java, ID, AS) 1.228.215.103.in-addr.herza.id                                                                      
+╭─ 36.64.254.21    7713    0.194 (3.322)    (Gubengairlangga, East Java, ID, AS)                                                                                                     
+S&T (7713)  australia-singapore-cable-asc ✓ || matrix-cable-system ✘ || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || indonesia-global-gateway-igg-system 👍 || seamewe-3 ✓ || jasuka 👍 || indigo-west ✓ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || jakabare ✓
+╰─ 180.240.193.93  7713    18.517              (Singapore, Singapore, SG, AS)                                                                                                     
+   180.240.193.93  7713    18.517              (Singapore, Singapore, SG, AS)                                                                                                     
+   180.240.204.8   7713    19.381              (Singapore, Singapore, SG, AS)                                                                                                     
+   120.29.214.169  6453    19.899              (Singapore, Singapore, SG, AS) ix-be-15.ecore2.svq-singapore.as6453.net                                                            
+   63.243.180.160  6453    19.491              (Singapore, Singapore, SG, AS) if-bundle-22-2.qcore2.esin4-singapore.as6453.net                                                    
+   63.243.180.131  6453    19.64               (Singapore, Singapore, SG, AS) if-bundle-19-2.qcore1.svw-singapore.as6453.net                                                      
+╭─ 202.84.244.42   4637    20.683              (Singapore, Singapore, SG, AS) i-91.sgpl-core03.telstraglobal.net                                                                  
+S (4637)  eac-c2c 👍 || asia-pacific-gateway-apg ✓ || southeast-asia-japan-cable-sjc ✓ || asia-america-gateway-aag-cable-system 👍 || seamewe-3 👍 || asia-submarine-cable-express-asecahaya-malaysia ✓ || apcn-2 👍 || tata-tgn-intra-asia-tgn-ia ✓
+├─ 202.84.249.253  4637    66.248    (Hong Kong, Central and Western, HK, AS)                                                                                                     
+S (4637, 1221)  seamewe-3 👍
+╰─ 203.50.9.1      1221    223.041                        (Perth, WA, AU, OC) bundle-ether5.pie-core10.perth.telstra.net                                                          
+   203.50.6.234    1221    222.725                     (Adelaide, SA, AU, OC) bundle-ether3.way-core10.adelaide.telstra.net                                                       
+   203.50.6.231    1221    222.581                   (Melbourne, VIC, AU, OC) bundle-ether16.exi-core10.melbourne.telstra.net                                                     
+   203.50.13.124   1221    224.069              (Melbourne, Victoria, AU, OC) bundle-ether2.cla-core30.melbourne.telstra.net                                                      
+   203.50.13.132   1221    224.059          (Sydney, New South Wales, AU, OC) bundle-ether3.hay-core30.sydney.telstra.net                                                         
+   203.50.11.173   1221    222.296                      (Sydney, NSW, AU, OC) bundle-ether1.ken-edge903.sydney.telstra.net                                                        
+   203.48.8.170    1221    218.91           (Sydney, New South Wales, AU, OC) tel4239951.lnk.telstra.net                                                                          
+   ***             *       -inf                                           *** *                                                                                                   
+   203.41.0.43     1221    225.14           (Sydney, New South Wales, AU, OC)                                                                                                     

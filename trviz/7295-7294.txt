@@ -1,0 +1,19 @@
+   10.252.4.170    *       0.0                                            ***                                                                                                     
+   10.252.4.169    *       0.291                                          ***                                                                                                     
+   10.252.4.153    *       0.372                                          ***                                                                                                     
+   10.252.0.37     *       11.531                                         ***                                                                                                     
+   195.175.203.217 9121    14.55             (Bahçelievler, Istanbul, TR, AS) 195.175.203.217.static.turktelekom.com.tr                                                           
+   81.212.199.166  9121    13.236                (Istanbul, Istanbul, TR, AS) 00-atakoy-sr14s-t2-2---00-atakoy-sr12e-t3-7.statik.turktelekom.com.tr                               
+   81.212.203.145  9121    13.544                        (None, None, TR, AS) 34-acibadem-xrs-t2-2---00-atakoy-xrs-t2-2.statik.turktelekom.com.tr                                 
+   81.212.209.216  9121    13.733                        (None, None, TR, AS) 34-ebgp-acibadem-sr12e-k---34-acibadem-xrs-t2-2.statik.turktelekom.com.tr                           
+   81.212.25.182   9121    12.369                        (None, None, TR, AS) 81.212.25.182.static.turktelekom.com.tr                                                             
+╭─ 212.156.139.60  9121    28.142                      (Istanbul, 34, TR, AS) *                                                                                                   
+S&T (9121, 3356)  
+├─ 212.162.26.177  3356    29.23               (Bucharest, București, RO, EU) ae52.edge3.bucharest1.level3.net                                                                    
+T (3356)  
+├─ 171.75.10.41    3356    69.961                   (London, England, GB, EU) ae2.15.edge1.xit2.neo.colt.net                                                                      
+S&T (3356)  
+╰─ 217.163.144.34  3356    71.604                       (Rome, Lazio, IT, EU) 8route-srl.edge1.italy2.level3.net                                                                  
+   193.41.57.250   34428   86.327             (Caltanissetta, Sicily, IT, EU)                                                                                                     
+   185.249.157.254 34428   87.738                   (Palermo, Sicily, IT, EU)                                                                                                     
+   185.249.157.253 34428   84.955                   (Palermo, Sicily, IT, EU)                                                                                                     

@@ -1,0 +1,26 @@
+   92.38.135.131   202422  0.0                         (Seoul, Seoul, KR, AS)                                                                                                     
+   92.38.135.2     202422  0.208                       (Seoul, Seoul, KR, AS) vrrp.gcore.lu                                                                                       
+   10.255.17.209   *       0.34                                           ***                                                                                                     
+   10.255.17.213   *       0.335                                          ***                                                                                                     
+   10.255.17.147   *       0.351                                          ***                                                                                                     
+╭─ 113.29.52.41    3549    0.605                       (Seoul, Seoul, KR, AS)                                                                                                     
+S (3549, 3356)  new-cross-pacific-ncp-cable-system ✘ || trans-pacific-express-tpe-cable-system ✘
+├─ 4.69.142.118    3356    128.026                     (Portland, OR, US, NA) ae-26-3603.ebr4.NewYork1.Level3.net                                                                 
+S&T (3356, 16276)  
+╰─ 142.44.208.248  16276   126.782                         (None, QC, CA, NA) pdx-pdx02-pb1-nc5.oregon.us                                                                         
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   142.44.208.160  16276   172.548                         (None, QC, CA, NA) chi-5-a9.il.us                                                                                      
+   192.99.146.140  16276   188.255                       (None, None, CA, NA) be103.bhs-g2-nc5.qc.ca                                                                              
+╭─ 192.99.146.139  16276   196.164                       (None, None, CA, NA) nyc-ny1-sbb2-8k.nj.us                                                                               
+LHL (16276)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 213.251.128.64  16276   258.89                        (None, None, FR, EU) be103.gra-g2-nc5.fr.eu                                                                              
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   51.255.243.207  16276   258.21        (Boeschepe, Hauts-de-France, FR, EU)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   145.239.14.84   16276   258.17        (Dunkerque, Hauts-de-France, FR, EU) fr-grv-as16276.anchors.atlas.ripe.net                                                               

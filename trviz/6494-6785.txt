@@ -1,0 +1,19 @@
+   103.15.246.16   58717   0.0                         (Dhaka, Dhaka, BD, AS)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   172.16.203.70   *       0.95                                           ***                                                                                                     
+   103.199.87.153  58717   1.087                         (None, None, BD, AS) *                                                                                                   
+╭─ 103.199.87.12   58717   1.695                         (None, None, BD, AS) *                                                                                                   
+LHL (58717, 35280)  seamewe-5 ✓ ↠ seamewe-3 ✓ || seamewe-5 ✓ ↠ flag-europe-asia-fea ✘ || seamewe-4 ✓ ↠ seamewe-3 ✓ || seamewe-4 ✓ ↠ flag-europe-asia-fea ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 27.111.229.245  35280   44.886                    (Seogwipo, None, KR, AS) 35280.sgw.equinix.com                                                                               
+S (35280, 34019)  
+├  100.99.0.93     *       193.285                                        ***                                                                                                     
+├  100.99.1.85     *       193.508                                        ***                                                                                                     
+├  100.99.0.132    *       193.575                                        ***                                                                                                     
+├  100.100.0.229   *       193.278                                        ***                                                                                                     
+╰─ 193.17.192.255  34019   193.339             (Paris, Île-de-France, FR, EU) et-202-0-48-er01-std.bb.hivane.net                                                                  
+   193.164.153.192 34019   193.81                        (None, None, FR, EU) ae0-486-rt2-th2.bb.hivane.net                                                                       
+   193.200.43.85   34019   193.655             (Paris, Île-de-France, FR, EU) gw-grifon-th2.bb.hivane.net                                                                         
+   89.234.186.144  204092  201.56              (Paris, Île-de-France, FR, EU) enp1s0.201.asbr03.grifon.fr                                                                         
+   89.234.186.42   204092  201.731                 (Rennes, Brittany, FR, EU) hv03.cogent-rns.bb.grifon.fr                                                                        
+   80.67.190.218   204092  202.051                 (Rennes, Brittany, FR, EU) ripe-anchor.grifon.fr                                                                               

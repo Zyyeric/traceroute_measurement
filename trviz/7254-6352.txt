@@ -1,0 +1,11 @@
+   84.88.18.254    13041   0.0                 (Barcelona, Catalonia, ES, EU) anchor-anella.cesca.cat                                                                             
+   84.88.18.253    13041   0.939               (Barcelona, Catalonia, ES, EU) anella-anchor.cesca.cat                                                                             
+   130.206.214.97  766     9.628                     (Madrid, Madrid, ES, EU) anella-ppal-as13041.ethtrunk11-81.telmad.rt3.mad.red.rediris.es                                     
+   130.206.245.1   766     10.159                        (None, None, ES, EU) telmad.rt4.ethtrunk9.ciemat.rt2.mad.red.rediris.es                                                  
+╭─ 193.149.1.141   201011  10.139                      (Madrid, 29, ES, None) core-backbone.baja.espanix.net                                                                      
+T (201011, 47815)  
+├─ 80.255.14.46    47815   33.022                        (Berlin, BE, DE, EU) core-backbone.server-ware.com                                                                       
+T (47815, 60068)  
+╰─ 169.150.195.74  60068   33.074                   (London, England, GB, EU) coreb-lon.cdn77.com                                                                                 
+   156.146.32.95   60068   33.02                    (Poplar, England, GB, EU)                                                                                                     
+   103.170.154.254 142594  33.176                   (London, England, GB, EU) 254.154.170.103.speedyvps.uk                                                                        

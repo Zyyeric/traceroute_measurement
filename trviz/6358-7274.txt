@@ -1,0 +1,27 @@
+   77.223.128.226  43391   0.0                (İzmir, İzmir Province, TR, AS)                                                                                                     
+   10.200.0.1      *       0.326                                          ***                                                                                                     
+   10.20.0.251     *       1.022                                          ***                                                                                                     
+   10.34.35.10     *       14.861                                         ***                                                                                                     
+╭─ 185.1.48.16     *       16.081                (Ataşehir, Istanbul, TR, AS) ipv4.decix-istanbul.he.net                                                                          
+S&T (, 6939)  kafos ✘
+├─ 184.104.196.45  6939    24.135              (Sofia, Sofia-Capital, BG, EU) 100ge0-70.core3.sof1.he.net                                                                         
+T (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.65.110  6939    43.36                         (Munich, BY, DE, EU) 100ge0-35.core2.muc1.he.net                                                                         
+╭─ 184.105.64.217  6939    71.654          (Frankfurt am Main, Hesse, DE, EU) 100ge0-69.core3.fra2.he.net                                                                         
+T (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 72.52.92.5      6939    53.676                     (Amsterdam, NH, NL, EU) port-channel13.core2.ams1.he.net                                                                    
+   216.66.83.127   6939    70.687          (Amsterdam, North Holland, NL, EU) mtn-globalconnect-solutions-ltd.e0-30.switch1.ams6.he.net                                           
+╭─ 41.181.105.195  16637   71.143          (Amsterdam, North Holland, NL, EU)                                                                                                     
+LHL (16637)  
+├─ 41.181.190.198  16637   76.32                       (Pretoria, GP, ZA, AF) *                                                                                                   
+T (16637)  
+├─ 41.181.244.176  16637   76.953                   (London, England, GB, EU)                                                                                                     
+T (16637, 20294)  
+├─ 41.181.247.39   20294   226.344                       (None, None, ZA, AF) *                                                                                                   
+LHL (20294)  
+╰─ 212.88.110.34   20294   225.028          (Kampala, Central Region, UG, AF)                                                                                                     
+   129.205.30.76   37063   226.298                       (Kampala, C, UG, AF) *                                                                                                   
+   41.191.77.206   328998  226.402                       (Kampala, C, UG, AF) *                                                                                                   
+   196.49.15.189   328998  226.085          (Kampala, Central Region, UG, AF)                                                                                                     

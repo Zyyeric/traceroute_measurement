@@ -1,0 +1,14 @@
+   171.67.70.16    32      0.0                 (Stanford, California, US, NA) us-pao-as32.anchors.atlas.ripe.net                                                                  
+   171.67.70.1     32      1.003               (Stanford, California, US, NA) sw-tor-01.esrg.stanford.edu                                                                         
+   10.214.4.253    *       1.116                                          ***                                                                                                     
+   171.66.0.209    32      1.191               (Stanford, California, US, NA)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   64.62.244.149   6939    1.25               (Palo Alto, California, US, NA)                                                                                                     
+   195.22.206.0    6762    74.826                       (Ashburn, VA, US, NA) *                                                                                                   
+╭─ 185.70.202.114  6762    74.601                 (Ashburn, Virginia, US, NA) teletech-114.ashburn2.ash.seabone.net                                                               
+S (6762, 13238)  atlantic-crossing-1-ac-1 ✓
+├─ 87.250.239.18   13238   186.108         (Amsterdam, North Holland, NL, EU) ams1-b1-fti4.yndx.net                                                                               
+LHL (13238)  seamewe-3 ✓ || seamewe-5 ✘
+╰─ 93.158.160.15   13238   264.747             (Singapore, Singapore, SG, AS) sin-b1-fti0.yndx.net                                                                                
+   ***             *       -inf                                           *** *                                                                                                   
+   45.87.135.252   208398  265.606             (Singapore, Singapore, SG, AS)                                                                                                     

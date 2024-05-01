@@ -1,0 +1,23 @@
+   45.12.55.69     208972  0.0                   (Istanbul, Istanbul, TR, AS) 45.12.55.69.addr-arpa.gibir.net                                                                     
+   192.168.1.19    *       0.249                                          ***                                                                                                     
+   10.255.0.17     *       0.431                                          ***                                                                                                     
+   195.175.203.217 9121    0.591             (Bahçelievler, Istanbul, TR, AS) 195.175.203.217.static.turktelekom.com.tr                                                           
+   81.212.199.166  9121    0.678                 (Istanbul, Istanbul, TR, AS) 00-atakoy-sr14s-t2-2---00-atakoy-sr12e-t3-7.statik.turktelekom.com.tr                               
+   81.212.203.145  9121    1.035                         (None, None, TR, AS) 34-acibadem-xrs-t2-2---00-atakoy-xrs-t2-2.statik.turktelekom.com.tr                                 
+   81.212.209.216  9121    1.625                         (None, None, TR, AS) 34-ebgp-acibadem-sr12e-k---34-acibadem-xrs-t2-2.statik.turktelekom.com.tr                           
+   81.212.25.182   9121    1.549                         (None, None, TR, AS) 81.212.25.182.static.turktelekom.com.tr                                                             
+╭─ 212.156.139.60  9121    14.441                      (Istanbul, 34, TR, AS) *                                                                                                   
+S&T (9121, 3356)  
+╰─ 212.162.26.177  3356    16.225              (Bucharest, București, RO, EU) ae52.edge3.bucharest1.level3.net                                                                    
+╭─ 171.75.10.162   3356    16.462              (Bucharest, București, RO, EU) ae2.2.edge2.bch1.neo.colt.net                                                                       
+S&T (3356, 174)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 130.117.48.181  174     18.34                          (Sofia, 23, BG, EU) be3331.ccr31.sof02.atlas.cogentco.com                                                               
+LHL (174)  
+├─ 130.117.0.190   174     23.022                        (Malaga, AN, ES, EU) be3304.rcr21.agp01.atlas.cogentco.com                                                               
+S (174)  
+╰─ 154.54.37.142   174     29.306                    (Athens, Attica, GR, EU) be2047.rcr21.ath01.atlas.cogentco.com                                                               
+   149.11.120.66   174     28.78                (Metamórfosi, Attica, GR, EU) fastpath1.demarc.cogentco.com                                                                       
+   185.201.254.27  56457   28.911               (Metamórfosi, Attica, GR, EU) be3502.ef2.ath01.fastpath.gr                                                                        
+   185.201.254.39  56457   29.555               (Metamórfosi, Attica, GR, EU) te1-24.sp1.ath01.fastpath.gr                                                                        
+   176.119.210.244 56457   29.193                    (Athens, Attica, GR, EU)                                                                                                     

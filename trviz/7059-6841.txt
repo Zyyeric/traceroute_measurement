@@ -1,0 +1,16 @@
+   195.130.66.103  199399  0.0                       (Athens, Attica, GR, EU) gr-ath-as199399.anchors.atlas.ripe.net                                                              
+   195.130.66.102  199399  1.214                    (Výronas, Attica, GR, EU) gw-ripe-anchor.gr-ix.gr                                                                             
+╭─ 176.126.38.47   *       2.17                  (Áno Liósia, Attica, GR, EU) he.gr-ix.gr                                                                                         
+T (, 6939)  
+├─ 184.105.64.169  6939    13.206              (Sofia, Sofia-Capital, BG, EU) 100ge0-75.core3.sof1.he.net                                                                         
+LHL (6939)  atlantic-crossing-1-ac-1 ✓
+├─ 184.104.196.193 6939    32.14                         (Denver, CO, US, NA) 100ge2-1.core1.den1.he.net                                                                          
+S (6939)  
+├─ 184.105.80.14   6939    42.94                     (Marseille, PAC, FR, EU) 100ge14-1.core1.mrs1.he.net                                                                         
+S (6939, 131111)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 65.49.108.46    131111  176.495                     (Singapore, 4, SG, AS) moratel-international-pte-ltd.10gigabitethernet3-13.core1.sin1.he.net                               
+S&T (131111, )  
+╰─ 103.111.193.61  *       198.854           (Yogyakarta, Yogyakarta, ID, AS)                                                                                                     
+   202.152.153.9   23951   220.258                      (Babadan, JT, ID, AS) 202-152-153-9.as23951.net                                                                           
+   202.152.129.74  23951   220.67            (Yogyakarta, Yogyakarta, ID, AS) 202-152-129-74.citra.net.id                                                                         

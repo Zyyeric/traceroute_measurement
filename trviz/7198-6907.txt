@@ -1,0 +1,14 @@
+   103.153.176.122 131657  0.0                       (Taipei, Taiwan, TW, AS) 103-153-176-122.as131657.net                                                                        
+   103.153.176.254 131657  0.23                      (Taipei, Taiwan, TW, AS) 103-153-176-254.as131657.net                                                                        
+╭─ 103.51.91.5     *       0.625                     (Taipei, Taiwan, TW, AS) et-0-0-1.cr1.hd.tpe.as131657.net                                                                    
+S (, 174)  seamewe-3 ✘ || apcn-2 ✘ || trans-pacific-express-tpe-cable-system ✘ || eac-c2c ✘ || faster ✘ || asia-pacific-gateway-apg ✘ || flag-north-asia-loopreach-north-asia-loop ✘ || new-cross-pacific-ncp-cable-system ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 66.28.4.233     174     30.989                      (Tokyo, Tokyo, JP, AS) be2012.ccr71.tyo01.atlas.cogentco.com                                                               
+S (174, 36249)  
+├─ 154.54.83.190   36249   31.0               (Dallas-Fort Worth, TX, US, NA) be2709.rcr01.b027338-0.dfw01.atlas.cogentco.com                                                     
+S (36249, 3491)  
+├─ 63.216.242.109  3491    30.887                         (Tokyo, 13, JP, AS) 63-216-242-109.static.pccwglobal.net                                                                
+S (3491)  
+├─ 63.223.23.62    3491    189.325             (Singapore, Singapore, SG, AS) be41.br01.dub04.as3491.net                                                                          
+S (3491)  
+╰─ 63.222.248.5    3491    184.732                     (Dubai, Dubai, AE, AS)                                                                                                     

@@ -1,0 +1,18 @@
+   185.70.144.118  200567  0.0                     (Hamburg, Hamburg, DE, EU)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   185.39.176.28   200567  4.017                         (None, None, DE, EU) br-hs-wt2-bond0-vl994.mdex.ag                                                                       
+   84.46.110.246   15943   5.318     (Norderstedt, Schleswig-Holstein, DE, EU) ipa_bgp.v1875.b900.hbko-asr-gk.ipv4.wtnet.de                                                        
+   84.46.114.32    15943   4.843                   (Hamburg, Hamburg, DE, EU) b902.ernie.ipv4.wtnet.de                                                                            
+   84.46.112.58    15943   5.511                    (Norderstedt, SH, DE, EU) b203.Bert.ipv4.wtnet.de                                                                             
+   84.46.112.62    15943   5.211                    (Norderstedt, SH, DE, EU) b101.Graf-Zahl.ipv4.wtnet.de                                                                        
+╭─ 149.6.142.185   174     13.754                  (Hamburg, Hamburg, DE, EU) be5883.ccr42.ham01.atlas.cogentco.com                                                               
+T (174)  
+├─ 154.54.61.230   174     20.659                    (Copenhagen, 84, DK, EU) be2504.rcr21.cph01.atlas.cogentco.com                                                               
+S&T (174)  energinet-laeso-varberg ✘ || globalconnect-2-gc2 ✘ || kattegat-2 ✘ || denmark-sweden-16 ✘ || ip-only-denmark-sweden ✘ || scandinavian-ring-south ✓ || danica-north ✓ || rnne-rdvig ✘
+├─ 154.54.61.242   174     28.199                     (Stockholm, AB, SE, EU) be2557.ccr22.sto03.atlas.cogentco.com                                                               
+S&T (174)  sweden-estonia-ee-s-1 ✓ || baltic-sea-submarine-cable ©
+╰─ 154.54.60.193   174     33.795                       (Tallinn, 37, EE, EU) be3741.rcr51.tll01.atlas.cogentco.com                                                               
+   154.25.13.10    174     33.832                       (Tallinn, 37, EE, EU) be2459.nr12.b069785-0.tll01.atlas.cogentco.com                                                      
+   149.6.188.66    8728    34.21                        (Tallinn, 37, EE, EU) infonet.demarc.cogentco.com                                                                         
+   212.7.30.43     8728    33.74                  (Tallinn, Harjumaa, EE, EU) c-30-43.infonet.ee                                                                                  
+   212.7.0.250     8728    33.246                 (Tallinn, Harjumaa, EE, EU) ee-tll-as8728.anchors.atlas.ripe.net                                                                

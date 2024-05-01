@@ -1,0 +1,29 @@
+   92.38.135.131   202422  0.0                         (Seoul, Seoul, KR, AS)                                                                                                     
+   92.38.135.2     202422  0.354                       (Seoul, Seoul, KR, AS) vrrp.gcore.lu                                                                                       
+   10.255.17.209   *       0.293                                          ***                                                                                                     
+   10.255.17.213   *       0.296                                          ***                                                                                                     
+   10.255.17.147   *       0.314                                          ***                                                                                                     
+╭─ 8.244.74.25     3356    0.605                       (Seoul, Seoul, KR, AS)                                                                                                     
+S (3356)  apcn-2 ✓ || asia-pacific-gateway-apg ✓ || flag-north-asia-loopreach-north-asia-loop ✓ || eac-c2c © || new-cross-pacific-ncp-cable-system ✓ || korea-japan-cable-network-kjcn ✓ || seamewe-3 ✓ || flag-europe-asia-fea © || trans-pacific-express-tpe-cable-system ✓
+╰─ 4.69.217.14     3356    32.816                         (Tokyo, 13, JP, AS) ae1.3505.edge2.Tokyo4.level3.net                                                                    
+╭─ 4.68.75.130     2914    31.158                         (Tokyo, 13, JP, AS) NTT-level3-Tokyo4.Level3.net                                                                        
+S (2914)  japan-u-s-cable-network-jus 👍 || tata-tgn-pacific ✓ || pacific-crossing-1-pc-1 👍 || faster ✓ || jupiter 👍 || new-cross-pacific-ncp-cable-system ✓ || unityeac-pacific ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 129.250.4.142   2914    126.865                       (None, None, US, NA) ae-5.sayonara-dorian.r24.sttlwa01.us.bb.gin.ntt.net                                                 
+   129.250.6.176   2914    192.815                       (None, None, US, NA) ae-11.sayonara-dorian.r20.nwrknj03.us.bb.gin.ntt.net                                                
+   ***             *       -inf                                           *** *                                                                                                   
+   129.250.4.195   2914    252.474                       (None, None, US, NA) ae-11.r20.parsfr04.fr.bb.gin.ntt.net                                                                
+   ***             *       -inf                                           *** *                                                                                                   
+   129.250.4.189   2914    257.264                       (None, None, US, NA) ae-6.r20.mlanit02.it.bb.gin.ntt.net                                                                 
+╭─ 129.250.3.121   2914    256.61                        (None, None, US, NA) ae-40.sayonara-dorian.r02.snjsca04.us.bb.gin.ntt.net                                                
+LHL (2914, 9121)  exa-north-and-south ✘ || atlantic-crossing-1-ac-1 ✓ || apollo ✓ || yellow ✓ || tata-tgn-atlantic ✓ || flag-atlantic-1-fa-1 ©
+├─ 81.25.202.134   9121    309.979                       (None, None, SE, EU) fastweb-0.r01.mlanit01.it.bb.gin.ntt.net                                                            
+LHL (9121)  mednautilus-submarine-system ✘ || seamewe-5 ✓ || seamewe-3 👍
+╰─ 212.156.141.219 9121    308.306                         (Aydin, 9, TR, AS) 06-incesu-xrs-t2-2---306-mil-col-3.statik.turktelekom.com.tr                                        
+   81.212.211.160  9121    308.109                       (None, None, TR, AS) 06-incesu-xrs-t2-1---06-incesu-xrs-t2-2.statik.turktelekom.com.tr                                   
+   81.212.210.104  9121    308.267                       (None, None, TR, AS) 06-ulus-xrs-t2-1---06-incesu-xrs-t2-1.statik.turktelekom.com.tr                                     
+╭─ 212.156.76.30   9121    347.463                   (Ankara, Ankara, TR, AS) 212.156.76.30.static.turktelekom.com.tr                                                             
+T (9121, 3216)  
+╰─ 79.104.241.98   3216    345.216                    (Ivanovo, None, RU, AS) pe01.Ivanovo.gldn.net                                                                               
+   ***             *       -inf                                           *** *                                                                                                   
+   195.209.139.36  29114   339.558          (Ivanovo, Ivanovo Oblast, RU, EU) anchor1.atlas.ruitb.ru                                                                              

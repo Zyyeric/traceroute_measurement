@@ -1,0 +1,17 @@
+   27.131.108.126  38880   0.0                  (Melbourne, Victoria, AU, OC)                                                                                                     
+   27.131.108.97   38880   0.501                (Melbourne, Victoria, AU, OC)                                                                                                     
+   192.168.164.1   *       0.748                                          ***                                                                                                     
+   192.168.248.1   *       1.083                                          ***                                                                                                     
+   192.168.247.78  *       1.854                                          ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   45.127.173.24   6939    12.297                       (Sydney, NSW, AU, OC) 6939.syd.equinix.com                                                                                
+╭─ 184.105.65.223  6939    58.446          (Perth, Western Australia, AU, OC) 100ge0-32.core1.per1.he.net                                                                         
+S (6939, 131111)  seamewe-3 ✓ || indigo-west ✓ || australia-singapore-cable-asc ©
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 65.49.108.46    131111  230.699                     (Singapore, 4, SG, AS) moratel-international-pte-ltd.10gigabitethernet3-13.core1.sin1.he.net                               
+S&T (131111, 45701)  
+╰─ 103.129.217.2   45701   108.368                       (None, None, ID, AS) *                                                                                                   
+   103.129.217.2   45701   108.368                       (None, None, ID, AS) *                                                                                                   
+   202.58.202.252  *       108.517                 (Jakarta, Jakarta, ID, AS) ae-1-0-r2-jkt1.globalxtreme.net                                                                     
+   103.225.148.38  45701   108.825                 (Jakarta, Jakarta, ID, AS) ip-38-148-225-103.globalxtreme.net                                                                  

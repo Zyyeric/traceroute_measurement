@@ -1,0 +1,23 @@
+   196.49.15.189   328998  0.0              (Kampala, Central Region, UG, AF)                                                                                                     
+   196.49.15.253   328998  0.368            (Kampala, Central Region, UG, AF)                                                                                                     
+   41.191.77.205   37063   0.65             (Kampala, Central Region, UG, AF)                                                                                                     
+   129.205.30.77   37063   0.734                         (Kampala, C, UG, AF) *                                                                                                   
+╭─ 212.88.110.33   20294   0.69 (2.202)       (Kampala, Central Region, UG, AF)                                                                                                     
+LHL (20294, 16637)  
+╰─ 41.181.247.38   16637   151.998                  (London, England, GB, EU)                                                                                                     
+   41.181.244.177  16637   151.696                  (London, England, GB, EU)                                                                                                     
+╭─ 41.181.105.104  16637   152.338                  (London, England, GB, EU)                                                                                                     
+T (16637)  
+├─ 41.181.189.64   16637   153.231                     (Pretoria, GP, ZA, AF) *                                                                                                   
+T (16637, 6939)  
+╰─ 184.104.205.252 6939    152.423                  (London, England, GB, EU) e0-45.core1.lon3.he.net                                                                             
+╭─ 184.105.64.4    6939    153.867                  (Poplar, England, GB, EU) port-channel18.core3.lon2.he.net                                                                    
+S&T (6939, 2200)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 37.49.236.19    2200    158.74                        (Paris, IDF, FR, EU) renater.par.franceix.net                                                                            
+   193.51.177.239  2200    170.995                 (Rennes, Brittany, FR, EU) hu0-3-0-1-ren-nr-lyon2-rtr-091.noc.renater.fr                                                       
+   193.55.204.15   2200    171.217                     (Rennes, None, FR, EU) te0-3-0-0-ren-nr-rennes-rtr-091.noc.renater.fr                                                      
+   ***             *       -inf                                           *** *                                                                                                   
+   193.54.185.10   1942    170.531            (Épinay-sur-Seine, IDF, FR, EU) r-epn.grenet.fr                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   193.49.43.151   2200    169.441   (Grenoble, Auvergne-Rhône-Alpes, FR, EU)                                                                                                     

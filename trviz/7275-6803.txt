@@ -1,0 +1,14 @@
+   103.121.34.150  138398  0.0                   (Auckland, Auckland, NZ, OC) 103-121-34-150.netbydesign.nz                                                                       
+   103.121.34.131  138398  0.184                 (Auckland, Auckland, NZ, OC) eth2.vrt2.akl.netbydesign.nz                                                                        
+   103.130.69.89   138398  0.211                 (Auckland, Auckland, NZ, OC) 103-130-69-89.netbydesign.nz                                                                        
+╭─ 43.243.21.17    6939    0.206 (0.975)                 (Auckland, AUK, NZ, OC) as6939.akl.ix.nz                                                                                    
+S (6939, )  tasman-global-access-tga-cable ✓ || southern-cross-cable-network-sccn ✓ || hawaiki ✘
+╰─ 218.100.52.249  *       30.416           (Sydney, New South Wales, AU, OC) as6939.nsw.ix.asn.au                                                                                
+╭─ 184.105.65.223  6939    76.335          (Perth, Western Australia, AU, OC) 100ge0-32.core1.per1.he.net                                                                         
+S (6939, 133840)  indigo-west ✓ || seamewe-3 ✓ || australia-singapore-cable-asc © || oman-australia-cable-oac ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 103.66.70.104   133840  133.293                 (Jakarta, Jakarta, ID, AS)                                                                                                     
+   121.100.0.45    38158   133.858                 (Jakarta, Jakarta, ID, AS)                                                                                                     
+   43.230.152.226  *       133.848                 (Jakarta, Jakarta, ID, AS) global-in.kings.id                                                                                  
+   43.230.153.90   *       134.119                 (Jakarta, Jakarta, ID, AS)                                                                                                     
+   180.211.88.22   45725   134.289                 (Jakarta, Jakarta, ID, AS) id-jkt-as45725.anchors.atlas.ripe.net                                                               

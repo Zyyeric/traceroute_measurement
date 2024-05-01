@@ -1,0 +1,27 @@
+   195.130.66.103  199399  0.0                       (Athens, Attica, GR, EU) gr-ath-as199399.anchors.atlas.ripe.net                                                              
+   195.130.66.102  199399  0.97                     (Výronas, Attica, GR, EU) gw-ripe-anchor.gr-ix.gr                                                                             
+╭─ 176.126.38.47   *       2.153                 (Áno Liósia, Attica, GR, EU) he.gr-ix.gr                                                                                         
+T (, 6939)  
+├─ 184.105.64.169  6939    13.074              (Sofia, Sofia-Capital, BG, EU) 100ge0-75.core3.sof1.he.net                                                                         
+LHL (6939)  atlantic-crossing-1-ac-1 ✓
+├─ 184.104.196.193 6939    32.586                        (Denver, CO, US, NA) 100ge2-1.core1.den1.he.net                                                                          
+LHL (6939)  apollo ✓ ↠ africa-coast-to-europe-ace ✓ || apollo ✓ ↠ seamewe-3 ✓ || flag-atlantic-1-fa-1 ✓ ↠ africa-coast-to-europe-ace ✓ || flag-atlantic-1-fa-1 ✓ ↠ seamewe-3 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.189.31  6939    61.471                    (Lisbon, Lisbon, PT, EU) port-channel8.core1.lis1.he.net                                                                     
+S&T (6939)  
+├─ 184.104.188.210 6939    173.213          (Cape Town, Western Cape, ZA, AF) 100ge0-33.core1.cpt1.he.net                                                                         
+S&T (6939)  
+╰─ 184.104.188.94  6939    228.668                     (Lagos, Lagos, NG, AF) 10ge0-20.core1.los1.he.net                                                                          
+╭─ 216.66.89.5     6939    227.58                      (Lagos, Lagos, NG, AF) virtual-technologies-and-solutions.e0-7.core1.los1.he.net                                           
+S&T (6939, 37721)  
+├─ 102.67.97.78    37721   227.653                       (Lisbon, 11, PT, EU) xe-0-0-1-2007.bb1.lis1.vts.bf                                                                       
+S&T (37721)  
+╰─ 102.67.97.205   37721   228.636                     (Lagos, Lagos, NG, AF) ce1-2017.bb1.los1.vts.bf                                                                            
+╭─ 102.67.97.96    37721   238.31                      (Lagos, Lagos, NG, AF)                                                                                                     
+LHL (37721)  
+╰─ 102.67.96.45    37721   249.573                 (Ouagadougou, KAD, BF, AF) et-0-0-1-2022.bb2.oua1.vts.bf                                                                       
+   102.67.96.30    37721   254.293              (Ouagadougou, Centre, BF, AF)                                                                                                     
+   102.67.97.182   37721   251.662              (Ouagadougou, Centre, BF, AF) ce0-355.pe3.oua1.vts.bf                                                                             
+   165.16.221.42   37721   254.067                       (None, None, BF, AF) *                                                                                                   
+   197.239.73.57   37577   253.742              (Ouagadougou, Centre, BF, AF)                                                                                                     
+   197.239.73.59   37577   254.371              (Ouagadougou, Centre, BF, AF)                                                                                                     

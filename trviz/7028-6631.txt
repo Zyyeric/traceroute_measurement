@@ -1,0 +1,12 @@
+   92.38.178.149   202422  0.0                       (Urayasu, Tokyo, JP, AS)                                                                                                     
+   92.38.178.1     202422  0.191                     (Urayasu, Tokyo, JP, AS) gw.gcore.lu                                                                                         
+   10.255.16.182   *       0.171                                          ***                                                                                                     
+   10.255.16.184   *       0.412                                          ***                                                                                                     
+   101.203.88.62   *       0.911                     (Urayasu, Tokyo, JP, AS)                                                                                                     
+   103.22.201.23   13335   0.25                      (Urayasu, Tokyo, JP, AS)                                                                                                     
+   172.70.121.196  13335   0.238                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+   172.70.121.151  13335   0.373                          (Tokyo, 13, JP, AS) *                                                                                                   
+╭─ 172.70.121.129  13335   0.394                          (Tokyo, 13, JP, AS) *                                                                                                   
+S (13335, 141235)  asia-pacific-gateway-apg ✓ || eac-c2c ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 103.156.251.7   141235  68.678              (Singapore, Singapore, SG, AS)                                                                                                     

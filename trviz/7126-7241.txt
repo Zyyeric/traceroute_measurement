@@ -1,0 +1,15 @@
+   182.18.209.9    23944   0.0                 (Manila, Metro Manila, PH, AS)                                                                                                     
+   182.18.209.1    23944   0.752          (Quezon City, Metro Manila, PH, AS) 209-182.gw.skybroadband.com.ph                                                                      
+   172.31.31.4     *       0.548                                          ***                                                                                                     
+╭─ 184.104.188.51  6939    16.678         (Quezon City, Metro Manila, PH, AS) 10ge0-8.core1.mnl1.he.net                                                                           
+S (6939)  eac-c2c ✓ || seamewe-3 ✓ || southeast-asia-japan-cable-sjc ✓ || tata-tgn-intra-asia-tgn-ia ✓ || asia-america-gateway-aag-cable-system ✓
+├─ 184.104.212.73  6939    32.739              (Hong Kong, Hong Kong, HK, AS) e0-20.switch1.hkg1.he.net                                                                           
+S (6939)  
+╰─ 184.104.199.182 6939    56.082              (Singapore, Singapore, SG, AS) port-channel3.core3.sin1.he.net                                                                     
+╭─ 184.104.208.93  6939    39.469              (Singapore, Singapore, SG, AS) true-internet-corporation-co-ltd.port-channel18.core3.sin1.he.net                                   
+S&T (6939, 38082)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 113.21.241.209  38082   63.446                        (None, None, TH, AS) TH-ICR-MTT1-241-209.trueintergateway.com                                                            
+   113.21.243.146  137566  66.187                        (None, None, TH, AS) TIG-Net243-146.trueintergateway.com                                                                 
+   103.113.176.2   137566  65.995                        (None, None, TH, AS) *                                                                                                   
+   103.113.176.82  137566  68.957        (Ban Talat Bueng, Chon Buri, TH, AS)                                                                                                     

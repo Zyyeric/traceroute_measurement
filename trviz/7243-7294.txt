@@ -1,0 +1,24 @@
+   10.252.4.170    *       0.0                                            ***                                                                                                     
+   10.252.4.169    *       0.086                                          ***                                                                                                     
+   10.252.4.153    *       0.152                                          ***                                                                                                     
+   10.252.0.37     *       9.502                                          ***                                                                                                     
+   195.175.203.217 9121    12.551            (Bahçelievler, Istanbul, TR, AS) 195.175.203.217.static.turktelekom.com.tr                                                           
+   81.212.199.166  9121    11.395                (Istanbul, Istanbul, TR, AS) 00-atakoy-sr14s-t2-2---00-atakoy-sr12e-t3-7.statik.turktelekom.com.tr                               
+   212.156.252.237 9121    14.772                       (Aksaray, 68, TR, AS) 00-gayrettepe-xrs-t2-2---00-atakoy-xrs-t2-2.statik.turktelekom.com.tr                               
+   81.212.213.76   9121    12.12                 (Istanbul, Istanbul, TR, AS) 81.212.213.76.static.turktelekom.com.tr                                                             
+   81.212.209.102  9121    11.986                        (None, None, TR, AS) 10-balya-sr12-t4-1---10-balikesir-sr12e-t3-3.statik.turktelekom.com.tr                              
+╭─ 212.156.139.62  42926   27.809                      (Istanbul, 34, TR, AS) 308-buk-col-2---00-ebgp-gayrettepe-k.statik.turktelekom.com.tr                                      
+S&T (42926, 1299)  kafos ✘
+├─ 62.115.37.72    1299    43.804              (Bucharest, București, RO, EU) buca-b3-link.ip.twelve99.net                                                                        
+T (1299)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 62.115.138.22   1299    52.383          (Frankfurt am Main, Hesse, DE, EU) ffm-bb2-link.ip.twelve99.net                                                                        
+T (1299)  
+├─ 62.115.122.138  1299    63.188              (Paris, Île-de-France, FR, EU) prs-bb2-link.ip.twelve99.net                                                                        
+S&T (1299)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 62.115.127.103  1299    67.784                   (London, England, GB, EU) ldn-b13-link.ip.twelve99.net                                                                        
+╭─ 213.248.100.21  1299    69.557                   (London, England, GB, EU) angolacables-ic-380093.ip.twelve99-cust.net                                                         
+S&T (1299, 37468)  
+╰─ 185.148.112.46  37468   102.166                   (Lisbon, Lisbon, PT, EU) 46.112.148.185.angolacables.ao                                                                      
+   185.148.112.152 37468   100.724                   (Lisbon, Lisbon, PT, EU) 152.112.148.185.angolacables.ao                                                                     

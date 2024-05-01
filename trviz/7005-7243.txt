@@ -1,0 +1,9 @@
+╭─ 185.148.112.152 37468   0.0                       (Lisbon, Lisbon, PT, EU) 152.112.148.185.angolacables.ao                                                                     
+S&T (37468)  tata-tgn-western-europe ✓ || europe-india-gateway-eig ✓ || seamewe-3 ✓
+├  10.42.104.1     *       0.628                                          ***                                                                                                     
+├─ 185.148.112.47  37468   38.086                   (London, England, GB, EU) 47.112.148.185.angolacables.ao                                                                      
+S&T (37468, 204059)  seamewe-3 ✓ || pan-european-crossing-uk-belgium ✓ || tangerine ✓ || concerto ✘
+├  100.64.192.38   *       38.243                                         ***                                                                                                     
+╰─ 80.67.181.2     204059  48.359                     (Brussels, BRU, BE, EU) edge-02.louise.neutri.net                                                                           
+   80.67.181.18    204059  48.676        (Brussels, Brussels Capital, BE, EU) core-01.louise.neutri.net                                                                           
+   80.67.181.29    204059  48.97         (Brussels, Brussels Capital, BE, EU) be-bru-as204059.anchors.atlas.ripe.net                                                              

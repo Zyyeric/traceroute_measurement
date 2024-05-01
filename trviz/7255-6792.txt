@@ -1,0 +1,19 @@
+   141.164.39.1    20473   0.0                      (Paripark, Seoul, KR, AS) 141.164.39.1.vultrusercontent.com                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   100.100.100.1   *       0.617                                          ***                                                                                                     
+   10.84.0.17      *       0.658                                          ***                                                                                                     
+   10.84.2.41      *       1.123                                          ***                                                                                                     
+   10.84.2.38      *       12.39                                          ***                                                                                                     
+╭─ 192.145.251.32  14828   2.253                       (Seoul, Seoul, KR, AS)                                                                                                     
+S (14828, 6939)  apcn-2 ✘ || asia-pacific-gateway-apg ✘ || flag-north-asia-loopreach-north-asia-loop ✘ || eac-c2c ✘ || new-cross-pacific-ncp-cable-system ✘ || korea-japan-cable-network-kjcn ✘ || seamewe-3 ✘ || flag-europe-asia-fea ✘ || trans-pacific-express-tpe-cable-system ✘
+├─ 184.105.64.65   6939    31.322                      (Tokyo, Tokyo, JP, AS) 10ge0-91.core3.tyo1.he.net                                                                          
+S (6939, 7545)  australia-japan-cable-ajc ✓ || seamewe-3 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 216.218.139.234 7545    292.98                       (Sydney, NSW, AU, OC) tpg-internet-pty-ltd.100gigabitethernet11-1.core1.sjc1.he.net                                       
+   203.29.134.110  7545    221.359          (Sydney, New South Wales, AU, OC) syd-apt-ros-crt3-be-200.tpgi.com.au                                                                 
+   203.26.22.118   7545    231.235             (North Melbourne, VIC, AU, OC) syd-sot-ken-crs2-Te-0-6-0-10.tpgi.com.au                                                            
+   27.32.160.25    7545    230.614              (Melbourne, Victoria, AU, OC) au-vi-1015-ipg-221-bundle-ether1.tpgi.com.au                                                        
+   203.220.216.70  7545    230.619                      (Sydney, NSW, AU, OC) 203-220-216-70.tpgi.com.au                                                                          
+   203.192.83.254  7545    230.744              (Melbourne, Victoria, AU, OC) ip-254-83-192-203.static.pipenetworks.com                                                           
+   103.179.37.157  151332  230.909              (Melbourne, Victoria, AU, OC)                                                                                                     

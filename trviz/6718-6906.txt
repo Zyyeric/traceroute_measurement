@@ -1,0 +1,14 @@
+   185.92.128.30   60924   0.0                         (Dubai, Dubai, AE, AS)                                                                                                     
+   185.92.128.3    60924   0.321                       (Dubai, Dubai, AE, AS)                                                                                                     
+╭─ 151.248.103.94  59605   0.746                       (Dubai, Dubai, AE, AS)                                                                                                     
+S (59605)  seamewe-3 ✓ || seamewe-5 ✓ || seamewe-4 ✓
+╰─ 151.248.96.33   59605   119.382             (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 151.248.96.33   59605   119.382             (Singapore, Singapore, SG, AS)                                                                                                     
+S (59605, 24173)  
+├─ 27.111.228.52   24173   92.289                    (Seogwipo, None, KR, AS) 24173.sgw.equinix.com                                                                               
+S (24173, 24176)  
+╰─ 210.86.233.17   24176   113.75     (Ho Chi Minh City, Ho Chi Minh, VN, AS) ci233-17.netnam.vn                                                                                  
+   210.86.233.30   24176   125.548    (Ho Chi Minh City, Ho Chi Minh, VN, AS) ci233-30.netnam.vn                                                                                  
+   210.86.232.101  24173   111.312                        (Hanoi, HN, VN, AS) ci232-101.netnam.vn                                                                                 
+   10.11.1.68      *       113.704                                        ***                                                                                                     
+   101.53.31.6     24173   113.285    (Ho Chi Minh City, Ho Chi Minh, VN, AS) ci53.31-6.netnam.vn                                                                                 

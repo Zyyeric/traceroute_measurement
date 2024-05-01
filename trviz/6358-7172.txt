@@ -1,0 +1,32 @@
+   63.222.106.8    3491    0.0                         (Seoul, Seoul, KR, AS) 63-222-106-8.static.pccwglobal.net                                                                  
+   63.222.106.2    3491    0.727                (Yongsan-dong, Seoul, KR, AS) 63-222-106-2.static.pccwglobal.net                                                                  
+   63.218.236.94   3491    0.854                        (Seoul, None, KR, AS) TenGE0-0-0-0.br02.seo03.pccwbtn.net                                                                 
+╭─ 116.0.77.16     6453    0.684                (Yongsan-dong, Seoul, KR, AS) ix-be-13.ecore1.aseoa-seoul.as6453.net                                                              
+S (6453)  apcn-2 👍 || asia-pacific-gateway-apg ✓ || flag-north-asia-loopreach-north-asia-loop ✓ || eac-c2c ✓ || new-cross-pacific-ncp-cable-system ✓ || korea-japan-cable-network-kjcn ✓ || seamewe-3 👍 || flag-europe-asia-fea ✓ || trans-pacific-express-tpe-cable-system ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 180.87.181.92   6453    284.525                     (Tokyo, Tokyo, JP, AS) if-ae-6-2.tcore2.tv2-tokyo.as6453.net                                                               
+S (6453)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 66.198.101.133  6453    276.205             (San Jose, California, US, NA) if-bundle-20-2.qcore1.sqn-sanjose.as6453.net                                                        
+   66.198.101.131  6453    284.381             (San Jose, California, US, NA) if-ae-33-2.tcore1.sqn-sanjose.as6453.net                                                            
+   63.243.205.187  6453    275.813                     (New York, NY, US, NA) if-ae-17-2.tcore1.nto-newyork.as6453.net                                                            
+╭─ 63.243.128.18   6453    285.015                     (New York, NY, US, NA) if-ae-22-2.tcore3.nto-newyork.as6453.net                                                            
+S (6453)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 80.231.62.58    6453    275.46                      (London, None, GB, EU) if-ae-26-2.tcore1.ldn-london.as6453.net                                                             
+S (6453, 16637)  
+├─ 80.231.76.121   16637   294.689                       (None, None, CA, NA) *                                                                                                   
+LHL (16637)  
+├─ 41.181.189.65   16637   291.714                     (Pretoria, GP, ZA, AF) *                                                                                                   
+T (16637)  
+╰─ 41.181.105.105  16637   291.454                  (London, England, GB, EU)                                                                                                     
+╭─ 41.181.244.176  16637   301.65                   (London, England, GB, EU)                                                                                                     
+T (16637, 20294)  
+├─ 41.181.247.39   20294   340.247                       (None, None, ZA, AF) *                                                                                                   
+LHL (20294)  
+╰─ 212.88.110.34   20294   339.809          (Kampala, Central Region, UG, AF)                                                                                                     
+   129.205.30.76   37063   339.687                       (Kampala, C, UG, AF) *                                                                                                   
+   41.191.77.206   328998  339.931                       (Kampala, C, UG, AF) *                                                                                                   
+   196.49.15.189   328998  340.216          (Kampala, Central Region, UG, AF)                                                                                                     

@@ -1,0 +1,21 @@
+   193.1.201.140   1213    0.0                   (Tallaght, Leinster, IE, EU) atlas-anchor.heanet.ie                                                                              
+   193.1.201.138   1213    0.445                   (Dublin, Leinster, IE, EU) pw-spine1-vlan11.services.hea.net                                                                   
+   87.44.56.177    1213    0.513                        (Dublin, L, IE, None) ae3.core1-pw.nn.hea.net                                                                             
+   87.44.53.59     1213    0.747              (Blessington, Leinster, IE, EU) ae4-0.core1-cwt.nn.hea.net                                                                          
+╭─ 83.97.88.73     21320   1.401                          (Dublin, D, IE, EU) heanet-ias-geant-gw.dub.ie.geant.net                                                                
+S&T (21320, 20965)  geo-eirgrid ✘ || rockabill ✘ || esat-2 ✓ || sirius-south ✘ || exa-north-and-south ✘ || havhingstenceltixconnect-2-cc-2 ✓ || exa-express ✘ || pan-european-crossing-uk-ireland ✓ || esat-1 ✓ || solas ✘
+├─ 62.40.98.27     20965   11.801                   (London, England, GB, EU) ae6.mx1.lon.uk.geant.net                                                                            
+S (20965, 16276)  exa-north-and-south ✘ || exa-express ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 192.99.146.133  16276   79.978                        (None, None, CA, NA) nyc-ny1-sbb2-8k.nj.us                                                                               
+   192.99.146.138  16276   85.88                         (None, None, CA, NA) be102.bhs-g2-nc5.qc.ca                                                                              
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   149.56.60.164   16276   85.372               (Beauharnois, Quebec, CA, NA)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   54.39.185.31    16276   89.385               (Châteauguay, Quebec, CA, NA) ca-bha-as16276.anchors.atlas.ripe.net                                                               

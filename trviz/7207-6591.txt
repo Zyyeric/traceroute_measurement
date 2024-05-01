@@ -1,0 +1,22 @@
+   172.17.48.40    *       0.0                                            ***                                                                                                     
+   172.17.48.254   *       0.343                                          ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   172.22.6.7      *       1.291                                          ***                                                                                                     
+   172.25.0.197    *       1.214                                          ***                                                                                                     
+   172.16.86.37    *       4.856                                          ***                                                                                                     
+   172.16.5.233    *       5.282                                          ***                                                                                                     
+   172.16.2.138    *       4.542                                          ***                                                                                                     
+╭─ 195.219.87.198  6453    117.009         (Frankfurt am Main, Hesse, DE, EU) ix-et-4-0-5-0.tcore2.fnm-frankfurt.as6453.net                                                       
+T (6453)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 195.219.187.3   6453    130.595   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) if-be-34-2.ecore2.emrs2-marseille.as6453.net                                                        
+╭─ 105.16.32.1     37100   259.555                   (Marseille, PAC, FR, EU) ae-1.cr-01-mrs.fr.seacomnet.com                                                                     
+S&T (37100)  
+╰─ 105.16.12.97    37100   253.335          (Cape Town, Western Cape, ZA, AF) ce-0-2-5.cr-01-cpt.za.seacomnet.com                                                                 
+   105.16.15.249   37100   253.486                 (Johannesburg, GT, ZA, AF) ce-0-2-0-1.cr-01-jnb.za.seacomnet.com                                                               
+   105.16.29.9     37100   258.105                 (Johannesburg, GT, ZA, AF) ce-4-0-2.er-01-jnb.za.seacomnet.com                                                                 
+╭─ 105.22.34.174   37100   255.468            (Johannesburg, Gauteng, ZA, AF) ce-0-1-5-91.customer-gw-rogers-capital.er-01-jnb.za.seacomnet.com                                   
+S (37100, 36868)  
+╰─ 196.46.34.108   36868   298.009                       (None, None, MU, AF) *                                                                                                   
+   196.46.49.34    36868   299.58    (Quatre Bornes, Plaines Wilhems, MU, AF)                                                                                                     
+   102.222.106.178 328699  298.952           (Port Louis, Port Louis, MU, AF)                                                                                                     

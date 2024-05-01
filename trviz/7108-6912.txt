@@ -1,0 +1,22 @@
+   202.165.66.5    137409  0.0              (Sydney, New South Wales, AU, OC)                                                                                                     
+   202.165.66.1    137409  0.504            (Sydney, New South Wales, AU, OC)                                                                                                     
+   100.64.1.9      *       0.466                                          ***                                                                                                     
+   206.148.24.116  7578    0.481            (Sydney, New South Wales, AU, OC)                                                                                                     
+   206.148.24.112  7578    0.483            (Sydney, New South Wales, AU, OC)                                                                                                     
+   206.148.24.114  7578    0.538            (Sydney, New South Wales, AU, OC) po1.syd-eqxsy5-bb7.globalsecurelayer.com                                                            
+   206.148.24.9    7578    45.96         (Belmont, Western Australia, AU, OC) e53.per-ndcp2-bb2.globalsecurelayer.com                                                             
+╭─ 206.148.24.21   7578    92.063           (Sydney, New South Wales, AU, OC) e54.sg-eqxsg3-bb4.globalsecurelayer.com                                                             
+S (7578)  
+├─ 206.148.24.27   7578    92.234              (Singapore, Singapore, SG, AS) po1.sg-eqxsg3-cr2.globalsecurelayer.com                                                             
+S (7578)  
+├─ 206.148.24.78   7578    92.224           (Sydney, New South Wales, AU, OC) po4.sg-eqxsg3-cr4.globalsecurelayer.com                                                             
+S (7578, 7713)  
+├─ 27.111.228.155  7713    92.879                    (Seogwipo, None, KR, AS) 7713.sgw.equinix.com                                                                                
+S (7713)  
+╰─ 180.240.204.137 7713    93.24               (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 180.240.204.137 7713    93.24               (Singapore, Singapore, SG, AS)                                                                                                     
+S&T (7713)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 36.93.255.177   7713    111.844                      (Batam, Riau, ID, AS)                                                                                                     
+   36.93.255.178   58475   110.808                       (None, None, ID, AS) *                                                                                                   
+   103.23.232.7    58475   111.009    (Banjarmasin, South Kalimantan, ID, AS)                                                                                                     

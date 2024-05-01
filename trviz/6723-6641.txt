@@ -1,0 +1,19 @@
+   92.38.135.131   202422  0.0                         (Seoul, Seoul, KR, AS)                                                                                                     
+   92.38.135.2     202422  0.412                       (Seoul, Seoul, KR, AS) vrrp.gcore.lu                                                                                       
+   10.255.17.210   *       0.452                                          ***                                                                                                     
+   10.255.17.213   *       0.259                                          ***                                                                                                     
+   10.255.17.147   *       0.405                                          ***                                                                                                     
+╭─ 113.29.52.41    3549    0.686                       (Seoul, Seoul, KR, AS)                                                                                                     
+S (3549, 3356)  apcn-2 ✘ || asia-pacific-gateway-apg ✘ || flag-north-asia-loopreach-north-asia-loop ✘ || eac-c2c ✘ || new-cross-pacific-ncp-cable-system ✘ || korea-japan-cable-network-kjcn ✘ || seamewe-3 ✘ || flag-europe-asia-fea ✘ || trans-pacific-express-tpe-cable-system ✘
+╰─ 4.69.217.14     3356    31.667                         (Tokyo, 13, JP, AS) ae1.3505.edge2.Tokyo4.level3.net                                                                    
+╭─ 4.68.75.130     2914    30.996                         (Tokyo, 13, JP, AS) NTT-level3-Tokyo4.Level3.net                                                                        
+S (2914)  
+╰─ 129.250.7.55    2914    31.811                        (None, None, US, NA) ae-1.r30.tokyjp05.jp.bb.gin.ntt.net                                                                 
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 129.250.4.245   2914    104.667                       (None, None, US, NA) ae-3.r05.londen12.uk.bb.gin.ntt.net                                                                 
+S (2914)  
+├─ 203.131.243.42  2914    104.732             (Hong Kong, Hong Kong, HK, AS)                                                                                                     
+LHL (2914, 45204)  
+╰─ 180.149.97.157  45204   221.013          (Ulan Bator, Ulaanbaatar, MN, AS)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   180.149.98.146  45204   222.229          (Ulan Bator, Ulaanbaatar, MN, AS)                                                                                                     

@@ -1,0 +1,22 @@
+   209.195.0.34    6597    0.0                     (Atlanta, Georgia, US, NA)                                                                                                     
+   208.73.219.169  6597    0.634                   (Atlanta, Georgia, US, NA)                                                                                                     
+   208.73.216.130  6597    0.286                   (Atlanta, Georgia, US, NA) 100ge0-0-0-10.cr2.ag1.atl1.coloblox.net                                                             
+╭─ 216.66.23.17    6939    1.438                   (Atlanta, Georgia, US, NA) e0-2.switch1.atl8.he.net                                                                            
+S (6939)  
+├─ 184.104.197.53  6939    1.543                        (London, ENG, GB, EU) 100ge0-54.core3.lon2.he.net                                                                         
+S (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.199.246 6939    35.942                  (Phoenix, Arizona, US, NA) port-channel8.core1.phx2.he.net                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   206.223.123.202 32098   45.657                        (None, None, US, NA) eqix-la1.transtelco.com                                                                             
+╭─ 201.174.244.88  32098   43.721           (Los Angeles, California, US, NA) 201-174-244-88.transtelco.net                                                                       
+S&T (32098)  arcos ✘ || gignet-1 ✘ || pan-american-crossing-pac ✘ || america-movil-submarine-cable-system-1-amx-1 ✓ || maya-1 ✓
+╰─ 201.174.250.159 32098   43.837               (Piedras Negras, COA, MX, NA) 201-174-250-159.transtelco.net                                                                      
+   201.174.251.25  32098   56.825               (Piedras Negras, COA, MX, NA) 201-174-251-25.transtelco.net                                                                       
+   201.174.154.26  32098   60.505                     (Saltillo, COA, MX, NA) 201-174-154-26.transtelco.net                                                                       
+   10.3.1.46       *       61.906                                         ***                                                                                                     
+   10.3.5.43       *       64.276                                         ***                                                                                                     
+   10.3.2.72       *       62.257                                         ***                                                                                                     
+   177.242.222.97  13999   61.944                (Hermosillo, Sonora, MX, NA) customer-qro-222-97.megared.net.mx                                                                  
+   148.225.112.222 4493    62.028                (Hermosillo, Sonora, MX, NA)                                                                                                     

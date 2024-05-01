@@ -1,0 +1,17 @@
+   176.119.210.244 56457   0.0                       (Athens, Attica, GR, EU)                                                                                                     
+   176.119.210.253 56457   0.514                 (Áno Liósia, Attica, GR, EU)                                                                                                     
+   185.201.254.32  56457   0.417                 (Áno Liósia, Attica, GR, EU) te0-3.ef1.ath01.fastpath.gr                                                                         
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 176.126.38.47   *       2.106                 (Áno Liósia, Attica, GR, EU) he.gr-ix.gr                                                                                         
+T (, 6939)  
+├─ 184.105.64.169  6939    12.75               (Sofia, Sofia-Capital, BG, EU) 100ge0-75.core3.sof1.he.net                                                                         
+LHL (6939)  seamewe-5 ✓ || seamewe-4 ✓ || seamewe-3 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.194.201 6939    189.24              (Singapore, Singapore, SG, AS) port-channel14.core3.sin1.he.net                                                                    
+╭─ 184.104.208.93  6939    190.116             (Singapore, Singapore, SG, AS) true-internet-corporation-co-ltd.port-channel18.core3.sin1.he.net                                   
+S&T (6939, 38082)  seamewe-4 ✓ || seamewe-3 ✓
+╰─ 122.144.26.19   38082   213.287                       (None, None, TH, AS) TIG-Net26-19.trueintergateway.com                                                                   
+   113.21.243.146  137566  298.361                       (None, None, TH, AS) TIG-Net243-146.trueintergateway.com                                                                 
+   103.113.176.2   137566  293.475                       (None, None, TH, AS) *                                                                                                   
+   103.113.176.82  137566  217.634       (Ban Talat Bueng, Chon Buri, TH, AS)                                                                                                     

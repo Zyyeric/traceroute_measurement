@@ -1,0 +1,11 @@
+   152.195.112.52  15133   0.0                         (Tokyo, Tokyo, JP, AS)                                                                                                     
+   152.195.112.49  15133   1.361                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+╭─ 152.195.112.203 15133   1.434                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+S (15133, 6453)  asia-pacific-gateway-apg ✓ || eac-c2c ✓
+╰─ 120.29.217.118  6453    68.471                   (Singapore, None, SG, AS) if-ae-36-3.tcore1.svw-singapore.as6453.net                                                          
+╭─ 180.87.106.131  6453    71.633              (Singapore, Singapore, SG, AS)                                                                                                     
+S&T (6453, 38082)  seamewe-4 👍 || seamewe-3 👍
+╰─ 122.144.26.19   38082   94.484                        (None, None, TH, AS) TIG-Net26-19.trueintergateway.com                                                                   
+   113.21.243.146  137566  97.172                        (None, None, TH, AS) TIG-Net243-146.trueintergateway.com                                                                 
+   103.113.176.2   137566  95.677                        (None, None, TH, AS) *                                                                                                   
+   103.113.176.82  137566  97.014        (Ban Talat Bueng, Chon Buri, TH, AS)                                                                                                     

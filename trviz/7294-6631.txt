@@ -1,0 +1,33 @@
+   92.38.178.149   202422  0.0                       (Urayasu, Tokyo, JP, AS)                                                                                                     
+   92.38.178.1     202422  0.285                     (Urayasu, Tokyo, JP, AS) gw.gcore.lu                                                                                         
+   10.255.16.182   *       0.28                                           ***                                                                                                     
+   10.255.16.183   *       0.475                                          ***                                                                                                     
+   10.255.16.170   *       0.507                                          ***                                                                                                     
+   63.222.57.173   3491    0.705                     (Urayasu, Tokyo, JP, AS) 63-222-57-173.static.pccwglobal.net                                                                 
+   63.218.250.82   3491    1.168                       (Tokyo, Tokyo, JP, AS) be41.br04.tok02.as3491.net                                                                          
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 154.54.83.189   174     1.274                       (Tokyo, Tokyo, JP, AS) be3929.ccr71.tyo01.atlas.cogentco.com                                                               
+S (174)  apcn-2 ✓ || eac-c2c ✘ || asia-pacific-gateway-apg ✓
+├─ 154.54.89.202   174     56.342              (Hong Kong, Hong Kong, HK, AS) be3011.ccr21.hkg02.atlas.cogentco.com                                                               
+S (174)  asia-africa-europe-1-aae-1 ✓
+├─ 154.54.6.25     174     244.441                   (Marseille, PAC, FR, EU) be2900.ccr32.mrs02.atlas.cogentco.com                                                               
+S&T (174)  
+├─ 154.54.74.178   174     252.865                        (Milan, 25, IT, EU) be2865.rcr21.mil01.atlas.cogentco.com                                                               
+T (174)  
+├─ 154.54.63.221   174     255.013                  (Munich, Bavaria, DE, EU) be3814.ccr22.muc03.atlas.cogentco.com                                                               
+T (174)  
+├─ 154.54.59.181   174     260.85                         (Vienna, 9, AT, EU) be3462.ccr52.vie01.atlas.cogentco.com                                                               
+T (174)  
+├─ 154.54.59.186   174     302.449                   (Bratislava, BL, SK, EU) be3463.ccr22.bts01.atlas.cogentco.com                                                               
+T (174)  
+├─ 154.54.59.178   174     302.16                      (Budapest, PE, HU, EU) be3263.ccr31.bud01.atlas.cogentco.com                                                               
+T (174)  
+├─ 154.54.38.246   174     302.284                     (Bucharest, B, RO, EU) be3262.ccr31.buh01.atlas.cogentco.com                                                               
+S&T (174)  
+╰─ 154.54.77.237   174     302.413               (Istanbul, Istanbul, TR, AS) be3572.rcr71.ist01.atlas.cogentco.com                                                               
+   154.25.16.82    174     302.614               (Istanbul, Istanbul, TR, AS) be3821.nr71.b061536-0.ist01.atlas.cogentco.com                                                      
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   149.34.193.159  208972  319.357               (Istanbul, Istanbul, TR, AS)                                                                                                     
+   149.34.193.159  208972  319.357               (Istanbul, Istanbul, TR, AS)                                                                                                     

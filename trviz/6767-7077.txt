@@ -1,0 +1,15 @@
+   216.48.178.84   132420  0.0                 (Noida, Uttar Pradesh, IN, AS) e2e-95-84.ssdcloudindia.net                                                                         
+   216.48.176.1    132420  2.686                       (Delhi, Delhi, IN, AS) e2e-93-1.ssdcloudindia.net                                                                          
+   180.179.210.65  17439   0.455                   (Pitampura, Delhi, IN, AS) 180-179-210-65.static.e2enetworks.in                                                                
+   180.179.197.205 17439   0.642                   (Najafgarh, Delhi, IN, AS)                                                                                                     
+   14.141.116.105  4755    1.505                       (Delhi, Delhi, IN, AS) 14.141.116.105.static-delhi.vsnl.net.in                                                             
+   ***             *       -inf                                           *** *                                                                                                   
+   180.87.38.5     6453    23.934                        (Mumbai, MH, IN, AS) ix-ae-0-100.tcore1.mlv-mumbai.as6453.net                                                            
+╭─ 180.87.38.2     6453    153.243                       (Mumbai, MH, IN, AS) if-ae-2-2.tcore2.mlv-mumbai.as6453.net                                                              
+S (6453)  
+╰─ 180.87.39.21    6453    148.695                  (London, England, GB, EU) if-ae-12-2.tcore1.l78-london.as6453.net                                                             
+╭─ 80.231.130.130  6453    152.105                     (London, None, GB, EU) if-ae-17-2.tcore1.ldn-london.as6453.net                                                             
+S (6453, 41364)  
+├─ 141.136.97.102  41364   175.429                       (None, None, US, NA) consorzio-gw.ip4.gtt.net                                                                            
+LHL (41364)  
+╰─ 194.116.77.35   41364   178.823                  (Turin, Piedmont, IT, EU)                                                                                                     

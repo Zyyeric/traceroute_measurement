@@ -1,0 +1,13 @@
+   92.38.135.131   202422  0.0                         (Seoul, Seoul, KR, AS)                                                                                                     
+   92.38.135.3     202422  0.234                       (Seoul, Seoul, KR, AS) vrrp.gcore.lu                                                                                       
+   10.255.17.210   *       0.244                                          ***                                                                                                     
+   10.255.17.213   *       0.472                                          ***                                                                                                     
+   10.255.17.147   *       0.618                                          ***                                                                                                     
+╭─ 8.244.74.25     3356    1.028                       (Seoul, Seoul, KR, AS)                                                                                                     
+LHL (3356)  seamewe-3 ✓
+├─ 171.75.9.128    3356    246.459                   (Berlin, Berlin, DE, EU) ae3.3.edge1.xit2.neo.colt.net                                                                       
+T (3356)  
+╰─ 217.163.144.34  3356    284.389                      (Rome, Lazio, IT, EU) 8route-srl.edge1.italy2.level3.net                                                                  
+   193.41.57.30    34428   313.893                  (Palermo, Sicily, IT, EU)                                                                                                     
+   185.249.157.254 34428   314.632                  (Palermo, Sicily, IT, EU)                                                                                                     
+   185.249.157.253 34428   299.526                  (Palermo, Sicily, IT, EU)                                                                                                     

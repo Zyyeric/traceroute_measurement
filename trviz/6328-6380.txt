@@ -1,0 +1,25 @@
+   196.49.14.25    30997   0.0                 (Accra, Greater Accra, GH, AF)                                                                                                     
+   196.49.14.1     30997   0.42                (Accra, Greater Accra, GH, AF)                                                                                                     
+╭─ 197.221.70.89   *       0.876               (Accra, Greater Accra, GH, AF)                                                                                                     
+S&T (, 3741)  
+╰─ 196.14.240.4    3741    0.966                         (None, None, ZA, AF) *                                                                                                   
+╭─ 168.209.160.109 3741    255.927                       (None, None, ZA, AF) *                                                                                                   
+T (3741)  
+╰─ 168.209.160.108 3741    256.165                  (London, England, GB, EU)                                                                                                     
+╭─ 168.209.246.3   3741    257.824                     (London, None, GB, EU) core2b-dock-be-1.ip.ddii.network                                                                    
+T (3741)  
+├─ 168.209.246.65  3741    257.278                       (None, None, ZA, AF) core1b-dock-be-2.ip.ddii.network                                                                    
+T (3741, 6461)  
+╰─ 195.66.224.76   6461    255.79                       (London, ENG, GB, EU) ae15.mpr1.lhr15.uk.above.net                                                                        
+╭─ 64.125.28.150   6461    197.412                      (London, ENG, GB, EU) ae3.cs1.lhr15.uk.eth.zayo.com                                                                       
+S&T (6461)  
+╰─ 64.125.29.16    6461    198.463                    (Amsterdam, NH, NL, EU) ae10.cs3.ams10.nl.eth.zayo.com                                                                      
+   64.125.31.105   6461    197.413                    (Amsterdam, NH, NL, EU) ae11.er1.ams1.nl.zip.zayo.com                                                                       
+╭─ 193.28.62.102   6461    260.327         (Amsterdam, North Holland, NL, EU) 193.28.62.102.idia-386943-006-zyo.zip.zayo.com                                                      
+T (6461, 47787)  
+├─ 193.109.190.74  47787   280.802                   (Madrid, Madrid, ES, EU) er1.mad1.edgoo.net                                                                                  
+S&T (47787)  
+╰─ 193.163.151.209 47787   289.915                       (Lisbon, 11, PT, EU) cr1.lis1.edgoo.net                                                                                  
+   193.109.188.7   47787   191.822                   (Lisbon, Lisbon, PT, EU)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   185.32.189.249  62416   191.807                 (Odivelas, Lisbon, PT, EU) pt-lis-as62416.anchors.atlas.ripe.net                                                               

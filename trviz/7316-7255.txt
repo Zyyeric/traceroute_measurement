@@ -1,0 +1,23 @@
+   103.179.37.157  151332  0.0                  (Melbourne, Victoria, AU, OC)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   203.192.83.253  7545    1.561                (Melbourne, Victoria, AU, OC) ip-253-83-192-203.static.pipenetworks.com                                                           
+   203.220.216.69  9942    1.731                (Melbourne, Victoria, AU, OC) au-vi-1015-ipg-221-bundle-ether28.tpgi.com.au                                                       
+   27.32.160.67    7545    1.442                        (Sydney, NSW, AU, OC) 27-32-160-67.static.tpgi.com.au                                                                     
+   202.7.162.202   7545    1.9                  (Melbourne, Victoria, AU, OC) 202-7-162-202.tpgi.com.au                                                                           
+   139.130.48.225  1221    2.027                (Melbourne, Victoria, AU, OC) bundle-ether70.lon-edge903.melbourne.telstra.net                                                    
+   203.50.11.198   1221    1.744                     (Melbourne, VIC, AU, OC) bundle-ether13.exi-core10.melbourne.telstra.net                                                     
+   203.50.13.124   1221    2.189                (Melbourne, Victoria, AU, OC) bundle-ether2.cla-core30.melbourne.telstra.net                                                      
+╭─ 203.50.13.132   1221    12.286           (Sydney, New South Wales, AU, OC) bundle-ether3.hay-core30.sydney.telstra.net                                                         
+S (1221, 4637)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 203.50.13.94    4637    160.243                       (None, None, HK, AS) *                                                                                                   
+╭─ 203.50.13.94    4637    160.243                       (None, None, HK, AS) *                                                                                                   
+S (4637)  
+╰─ 202.84.222.198  4637    158.974          (Sydney, New South Wales, AU, OC) i-91.sydo10.telstraglobal.net                                                                       
+╭─ 210.57.5.186    4637    156.94           (Sydney, New South Wales, AU, OC) unknown.telstraglobal.net                                                                           
+S (4637, 55850)  
+╰─ 116.251.184.88  55850   187.78                (Auckland, Auckland, NZ, OC) et-0-0-16.esy3-p-1.as55850.net                                                                      
+   116.251.185.234 55850   185.491                    (Tauranga, BOP, NZ, OC) et-0-0-10.atc-p-1.as55850.net                                                                       
+   116.251.187.224 55850   185.47                (Auckland, Auckland, NZ, OC) ip-116-251-187-224.kinect.net.nz                                                                    
+   116.251.187.225 55850   185.547               (Auckland, Auckland, NZ, OC) ip-116-251-187-225.kinect.net.nz                                                                    
+   185.121.168.251 61138   186.734              (Newmarket, Auckland, NZ, OC) nz-akl-as61138.anchors.atlas.ripe.net                                                               

@@ -1,0 +1,20 @@
+   27.131.108.126  38880   0.0                  (Melbourne, Victoria, AU, OC)                                                                                                     
+╭─ 27.131.108.97   38880   0.759                (Melbourne, Victoria, AU, OC)                                                                                                     
+S (38880, 16276)  
+├  192.168.164.2   *       0.659                                          ***                                                                                                     
+├  192.168.248.5   *       1.221                                          ***                                                                                                     
+├  192.168.247.78  *       1.646                                          ***                                                                                                     
+├  192.168.249.186 *       86.637                                         ***                                                                                                     
+├─ 27.111.228.106  16276   86.777                    (Seogwipo, None, KR, AS) 16276.sgw.equinix.com                                                                               
+S (16276)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 103.5.15.5      16276   87.481                      (Central, HCW, HK, AS) sin1-sgcs2-g1-nc5.sgp.asia                                                                          
+S (16276)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 139.99.78.22    16276   87.507              (Singapore, Singapore, SG, AS) sg-sin-as16276.anchors.atlas.ripe.net                                                               

@@ -1,0 +1,15 @@
+   103.170.25.13   142360  0.0               (Semarang, Central Java, ID, AS) ipv4-13-25-170-103.nexa.net.id                                                                      
+   103.170.25.9    142360  0.186             (Semarang, Central Java, ID, AS) ipv4-9-25-170-103.nexa.net.id                                                                       
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 103.87.186.178  136106  9.053              (Mega, Southwest Papua, ID, AS) ip186-178.fiberstar.net.id                                                                          
+S&T (136106)  australia-singapore-cable-asc ✓ || matrix-cable-system ✘ || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || indonesia-global-gateway-igg-system ✓ || seamewe-3 ✓ || indigo-west ✓ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || jasuka ✓ || jakabare ✘
+├─ 103.87.187.88   136106  21.206              (Singapore, Singapore, SG, AS) ip187-88.fiberstar.net.id                                                                           
+S (136106, 38880)  asia-pacific-gateway-apg ✓ || eac-c2c ✘ || apcn-2 ✓ || seamewe-3 ✓
+├─ 27.111.228.169  38880   112.088                   (Seogwipo, None, KR, AS) 38880.sgw.equinix.com                                                                               
+S (38880, )  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 183.177.61.21   *       114.269              (Melbourne, Victoria, AU, OC) 38880.mel.equinix.com                                                                               
+   192.168.247.77  *       114.628                                        ***                                                                                                     
+   192.168.248.2   *       114.297                                        ***                                                                                                     
+   10.101.220.1    *       114.695                                        ***                                                                                                     
+   27.131.108.126  38880   114.426              (Melbourne, Victoria, AU, OC)                                                                                                     

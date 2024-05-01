@@ -1,0 +1,15 @@
+   80.67.181.29    204059  0.0           (Brussels, Brussels Capital, BE, EU) be-bru-as204059.anchors.atlas.ripe.net                                                              
+   ***             *       -inf                                           *** *                                                                                                   
+   80.67.181.1     204059  0.454                      (Brussels, BRU, BE, EU) edge-01.louise.neutri.net                                                                           
+   62.112.29.66    6696    1.277                         (None, None, BE, EU) edg01.blutw.bra.be.verixi.net                                                                       
+   87.238.225.10   6696    1.598          (Ixelles, Brussels Capital, BE, EU) edg01.intx1.bra.be.verixi.net                                                                       
+╭─ 81.20.71.96     2914    1.05      (Woluwe-Saint-Lambert, Brussels Capital, BE, EU)                                                                                                     
+S&T (2914)  pan-european-crossing-uk-belgium ✓ || tangerine ✓ || concerto ✘
+├─ 129.250.4.36    2914    6.703                    (London, England, GB, EU) ae-5.r21.londen12.uk.bb.gin.ntt.net                                                                 
+S (2914)  
+├─ 129.250.3.251   2914    6.196                         (None, None, US, NA) ae-1.a03.londen12.uk.bb.gin.ntt.net                                                                 
+S (2914, 3491)  
+├─ 205.177.136.225 3491    6.629                       (London, None, GB, EU) 205-177-136-225.static.pccwglobal.net                                                               
+S (3491)  
+╰─ 63.223.9.198    3491    277.148                     (Taipei, None, TW, AS) HundredGE0-3-0-1.br01.tap04.pccwbtn.net                                                             
+   63.222.40.114   3491    267.23                    (Taipei, Taiwan, TW, AS) ncic.te0-1-0-23.br01.tap04.as3491.net                                                               

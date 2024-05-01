@@ -1,0 +1,29 @@
+   197.189.194.147 37153   0.0                (Johannesburg, Gauteng, ZA, AF) atlas-anchor-jnb1.jnb.net.host-h.net                                                                
+   197.189.194.145 37153   1.208              (Johannesburg, Gauteng, ZA, AF)                                                                                                     
+   197.189.193.2   37153   1.146              (Johannesburg, Gauteng, ZA, AF) core-router1.jnb1.host-h.net                                                                        
+   41.66.132.241   37179   0.34               (Johannesburg, Gauteng, ZA, AF) 41-66-132-241-f1.customer.xe-0-0-2-gp-sm-het-mee-1.africainx.net                                    
+   41.84.12.109    37179   1.658              (Johannesburg, Gauteng, ZA, AF) core.ge-0-1-0-gp-id-pbr-1.za.africainx.net                                                          
+   105.25.146.5    37100   1.356              (Johannesburg, Gauteng, ZA, AF)                                                                                                     
+   105.16.29.1     37100   163.68                  (Johannesburg, GT, ZA, AF) ce-0-3-0-0.cr-01-jnb.za.seacomnet.com                                                               
+╭─ 105.16.15.250   37100   161.671                    (Cape Town, WC, ZA, AF) ce-0-2-0-1.cr-01-cpt.za.seacomnet.com                                                               
+T (37100)  
+╰─ 105.25.160.170  37100   162.141                  (London, England, GB, EU) ce-0-0-49.cr-01-lhr.uk.seacomnet.com                                                                
+   105.16.35.253   37100   161.624                      (London, ENG, GB, EU) xe-0-0-1-0.br-02-lhr.uk.seacomnet.com                                                               
+╭─ 82.112.115.169  2914    158.43             (Stockton-on-Tees, ENG, GB, EU) *                                                                                                   
+S (2914)  
+╰─ 129.250.3.212   2914    158.961                       (None, None, US, NA) ae-0.r20.londen12.uk.bb.gin.ntt.net                                                                 
+   129.250.6.147   2914    238.89                        (None, None, US, NA) ae-7.sayonara-dorian.r20.nwrknj03.us.bb.gin.ntt.net                                                 
+   129.250.6.17    2914    233.834                       (None, None, US, NA) ae-0.sayonara-dorian.r21.nwrknj03.us.bb.gin.ntt.net                                                 
+   129.250.6.116   2914    241.806                       (None, None, US, NA) ae-3.sayonara-dorian.r25.asbnva02.us.bb.gin.ntt.net                                                 
+   129.250.3.189   2914    303.196                       (None, None, US, NA) ae-2.sayonara-dorian.r25.lsanca07.us.bb.gin.ntt.net                                                 
+   129.250.3.218   2914    299.445                       (None, None, US, NA) ae-1.sayonara-dorian.r24.lsanca07.us.bb.gin.ntt.net                                                 
+   129.250.2.53    2914    444.443                       (None, None, US, NA) ae-4.r02.mdrdsp03.es.bb.gin.ntt.net                                                                 
+╭─ 129.250.3.209   2914    448.028                       (None, None, US, NA) ae-7.sayonara-dorian.r22.miamfl02.us.bb.gin.ntt.net                                                 
+S (2914)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 129.250.5.242   2914    432.528             (Singapore, Singapore, SG, AS) ae-1.a03.sngpsi07.sg.bb.gin.ntt.net                                                                 
+╭─ 116.51.26.82    2914    434.344                  (Singapore, None, SG, AS) ae-0.emirates-du.sngpsi07.sg.bb.gin.ntt.net                                                         
+S (2914, 15802)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 94.203.76.219   15802   459.436                     (Dubai, Dubai, AE, AS)                                                                                                     

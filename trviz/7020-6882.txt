@@ -1,0 +1,18 @@
+   196.6.220.42    37578   0.0              (Nairobi, Nairobi County, KE, AF)                                                                                                     
+   196.6.220.1     37578   0.429            (Nairobi, Nairobi County, KE, AF)                                                                                                     
+   197.155.93.66   30844   0.712            (Nairobi, Nairobi County, KE, AF) 197.155.93.66.liquidtelecom.net                                                                     
+   197.155.94.50   30844   165.226                    (Nairobi, None, KE, AF) hu-0-4-0-2.lke-p2-nbi.liquidtelecom.net                                                             
+╭─ 197.155.94.189  30844   155.599                      (Nairobi, 30, KE, AF) et-1-1-10.lke-p2-msa.liquidtelecom.net                                                              
+S (30844)  
+├─ 5.11.9.126      30844   165.09                   (Marseille, None, FR, EU) 5.11.9.126.liquidtelecom.net                                                                        
+S&T (30844)  
+╰─ 5.11.13.108     30844   192.93                   (London, England, GB, EU) hu-0-0-0-12.luk-p2-tho.liquidtelecom.com                                                            
+   5.11.12.19      30844   173.059                  (London, England, GB, EU) luk-p1-tcy.hu0-0-0-4.liquidtelecom.com                                                              
+╭─ 212.187.136.145 3356    172.839                  (London, England, GB, EU) et-1-0-24.edge7.london1.level3.net                                                                  
+LHL (3356)  
+├─ 171.75.9.233    3356    198.104             (Sofia, Sofia-Capital, BG, EU) ae2.20.bar2.sof2.neo.colt.net                                                                       
+LHL (3356, 198589)  
+├─ 212.162.31.130  198589  277.078                       (None, None, GB, EU) *                                                                                                   
+LHL (198589, 21277)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 130.193.166.22  21277   280.2                       (Erbil, Arbīl, IQ, AS)                                                                                                     

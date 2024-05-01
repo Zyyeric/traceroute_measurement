@@ -1,0 +1,18 @@
+   92.38.135.131   202422  0.0                         (Seoul, Seoul, KR, AS)                                                                                                     
+   92.38.135.2     202422  0.344                       (Seoul, Seoul, KR, AS) vrrp.gcore.lu                                                                                       
+   10.255.17.210   *       0.517                                          ***                                                                                                     
+   10.255.17.213   *       0.359                                          ***                                                                                                     
+   10.255.17.147   *       0.534                                          ***                                                                                                     
+╭─ 192.145.251.32  14828   1.923                       (Seoul, Seoul, KR, AS)                                                                                                     
+S (14828, 6939)  seamewe-3 ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.196.77  6939    267.988                   (Marseille, PAC, FR, EU) port-channel3.core2.mrs1.he.net                                                                     
+S&T (6939)  
+├─ 184.105.80.13   6939    276.712                        (Milan, 25, IT, EU) 100ge7-2.core1.mil2.he.net                                                                          
+T (6939)  
+├─ 184.105.65.134  6939    263.971                        (Sofia, 23, BG, EU) 100ge10-1.core1.sof1.he.net                                                                         
+T (6939)  
+╰─ 184.105.64.170  6939    275.831                       (Athens, A1, GR, EU) 100ge0-36.core1.ath1.he.net                                                                         
+   176.126.38.123  *       292.846               (Áno Liósia, Attica, GR, EU)                                                                                                     
+   195.130.66.103  199399  302.541                   (Athens, Attica, GR, EU) gr-ath-as199399.anchors.atlas.ripe.net                                                              

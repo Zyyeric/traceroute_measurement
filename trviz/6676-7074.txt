@@ -1,0 +1,11 @@
+   103.143.136.43  63781   0.0                         (Tokyo, Tokyo, JP, AS) koba-103-143-136-43.rev.kobayashi.ad.jp                                                             
+   103.143.136.62  63781   1.843                       (Tokyo, Tokyo, JP, AS) koba-103-143-136-62.rev.kobayashi.ad.jp                                                             
+   103.143.136.29  63781   0.193                       (Tokyo, Tokyo, JP, AS) bgprt2-ospfrt1.kobayashi.ad.jp                                                                      
+   103.143.136.17  63781   0.276                       (Tokyo, Tokyo, JP, AS) koba-103-143-136-17.rev.kobayashi.ad.jp                                                             
+   103.41.60.164   10010   0.389                       (Tokyo, Tokyo, JP, AS) bgp3.tokyo-ix.v4.open.ad.jp                                                                         
+   150.99.184.33   2907    1.828                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+╭─ 150.99.10.187   2907    1.551                         (None, None, JP, AS) *                                                                                                   
+S (2907, 24482)  asia-pacific-gateway-apg ✓ || eac-c2c ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 203.175.175.206 24482   67.577              (Singapore, Singapore, SG, AS)                                                                                                     

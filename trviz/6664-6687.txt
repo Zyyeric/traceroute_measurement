@@ -1,0 +1,20 @@
+   147.84.200.125  39069   0.0                       (Murcia, Murcia, ES, EU)                                                                                                     
+   147.84.200.11   39069   1.098                     (Murcia, Murcia, ES, EU)                                                                                                     
+   10.250.42.181   *       13.054                                         ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 184.105.222.166 6939    21.851                     (Barcelona, CT, ES, EU) 100ge0-54.core2.bcn1.he.net                                                                         
+S&T (6939)  
+├─ 184.104.188.203 6939    27.015    (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) port-channel17.core4.mrs1.he.net                                                                    
+T (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.198.58  6939    93.786             (Frankfurt am Main, HE, DE, EU) port-channel2.core3.fra1.he.net                                                                     
+╭─ 80.81.192.191   8551    42.616            (Frankfurt am Main, 5, DE, None) decix1.bezeqint.net                                                                                 
+T (8551)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 212.179.124.81  8551    80.775                      (Tel Aviv, TA, IL, AS) bzq-179-124-81.cust.bezeqint.net                                                                    
+   212.179.124.5   8551    80.614                (Tel Aviv, Tel Aviv, IL, AS) bzq-179-124-5.cust.bezeqint.net                                                                     
+   62.219.189.186  8551    80.764                (Rishon LeZiyyon, M, IL, AS) bzq-219-189-186.cablep.bezeqint.net                                                                 
+   31.168.224.126  8551    80.552                      (Tel Aviv, TA, IL, AS) bzq-224-168-31-126.red.bezeqint.net                                                                 
+   ***             *       -inf                                           *** *                                                                                                   
+   146.185.219.73  202422  79.435     (Petaẖ Tiqva, Central District, IL, AS)                                                                                                     

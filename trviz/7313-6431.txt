@@ -1,0 +1,19 @@
+   109.171.136.4   50999   0.0                 (Jeddah, Mecca Region, SA, AS)                                                                                                     
+╭─ 109.171.136.2   50999   0.812               (Jeddah, Mecca Region, SA, AS)                                                                                                     
+LHL (50999, 3356)  seamewe-5 ✘ || seamewe-4 ✘ || asia-africa-europe-1-aae-1 ✓ || peace-cable ✘ || imewe ✘ || seamewe-3 ✓
+├  10.126.145.197  *       0.883                                          ***                                                                                                     
+├  192.168.13.14   *       1.058                                          ***                                                                                                     
+├─ 213.19.197.49   3356    65.312          (Amsterdam, North Holland, NL, EU) lag-140.ear3.amsterdam1.level3.net                                                                  
+T (3356)  
+├─ 171.75.8.243    3356    84.629    (Septèmes-les-Vallons, Provence-Alpes-Côte d'Azur, FR, EU) ae1.3505.edge4.mrs1.neo.colt.net                                                                    
+S (3356, 35819)  
+├─ 212.133.4.70    35819   84.642                        (None, None, SA, AS) *                                                                                                   
+S (35819, 37100)  seamewe-5 ✓ || seamewe-4 ✓ || asia-africa-europe-1-aae-1 👍 || peace-cable ✘ || imewe ✓ || seamewe-3 ✓
+├─ 105.16.32.1     37100   217.899                   (Marseille, PAC, FR, EU) ae-1.cr-01-mrs.fr.seacomnet.com                                                                     
+S&T (37100)  
+╰─ 105.16.12.97    37100   225.458          (Cape Town, Western Cape, ZA, AF) ce-0-2-5.cr-01-cpt.za.seacomnet.com                                                                 
+   105.16.31.9     37100   225.485                    (Cape Town, WC, ZA, AF) xe-1-0-0-0.er-01-cpt.za.seacomnet.com                                                               
+   105.22.67.166   37100   225.173          (Cape Town, Western Cape, ZA, AF)                                                                                                     
+   102.220.178.118 328829  225.389          (Cape Town, Western Cape, ZA, AF) rnd-br2-sfp28-2-882.vumatel.co.za                                                                   
+   102.220.179.118 328829  225.706          (Cape Town, Western Cape, ZA, AF) unknown.vumatel.co.za                                                                               
+   102.220.178.25  328829  225.977          (Cape Town, Western Cape, ZA, AF) unknown.vumatel.co.za                                                                               

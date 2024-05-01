@@ -1,0 +1,18 @@
+   203.174.85.106  38001   0.0                 (Singapore, Singapore, SG, AS)                                                                                                     
+   203.174.85.105  38001   2.689               (Singapore, Singapore, SG, AS)                                                                                                     
+   10.15.62.214    *       3.531                                          ***                                                                                                     
+   203.174.80.54   *       3.463               (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 203.208.158.206 4845    5.458               (Singapore, Singapore, SG, AS)                                                                                                     
+S (4845, 7473)  
+├─ 203.208.151.122 7473    37.889              (Hong Kong, Hong Kong, HK, AS)                                                                                                     
+S (7473)  
+╰─ 203.208.151.93  7473    40.344                        (None, None, SG, AS) *                                                                                                   
+╭─ 203.208.178.17  7473    40.292                        (None, None, SG, AS) *                                                                                                   
+S (7473, 41095)  
+├─ 103.6.131.145   41095   37.878              (Hong Kong, Hong Kong, HK, AS) 3-3.r0.409.mi.hk.iptp.net                                                                           
+S (41095, 21699)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 98.158.103.225  21699   192.856                  (Los Angeles, CA, US, NA) 40g.la2.la1.coloexchange.com                                                                        
+   149.20.160.25   21699   2240.401                      (None, None, US, NA) *                                                                                                   
+   149.20.162.6    21699   192.828          (Los Angeles, California, US, NA)                                                                                                     

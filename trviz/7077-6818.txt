@@ -1,0 +1,20 @@
+   63.222.40.114   3491    0.0                       (Taipei, Taiwan, TW, AS) ncic.te0-1-0-23.br01.tap04.as3491.net                                                               
+╭─ 63.222.40.113   3491    0.978                      (Neihu, Taiwan, TW, AS) te0-1-0-23.br01.tap04.as3491.net                                                                    
+S (3491)  seamewe-3 👍 || eac-c2c ✓ || apcn-2 👍 || flag-north-asia-loopreach-north-asia-loop 👍 || asia-pacific-gateway-apg ✓
+╰─ 63.218.210.86   3491    80.09                    (Hong Kong, None, HK, AS) HundredGE0-0-0-0.br05.hkg15.pccwbtn.net                                                             
+   180.87.169.10   6453    79.994                   (Hong Kong, None, HK, AS) ix-be-6.ecore1.hk2-hongkong.as6453.net                                                              
+╭─ 116.0.67.4      6453    145.473                  (Hong Kong, None, HK, AS) if-ae-46-2.tcore1.hk2-hongkong.as6453.net                                                           
+S (6453)  
+╰─ 116.0.93.138    6453    146.221                       (None, None, SG, AS) *                                                                                                   
+╭─ 180.87.15.80    6453    146.091                       (None, None, SG, AS) *                                                                                                   
+S&T (6453)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 180.87.36.82    6453    146.349                      (Chennai, TN, IN, AS) if-ae-13-2.tcore1.cxr-chennai.as6453.net                                                            
+S&T (6453)  
+├─ 180.87.36.10    6453    145.904                  (Singapore, None, SG, AS) *                                                                                                   
+S&T (6453, 4755)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 115.114.12.186  4755    191.404                     (Delhi, Delhi, IN, AS) 115.114.12.186.static-delhi.vsnl.net.in                                                             
+   180.179.197.202 17439   187.724                       (None, None, IN, AS) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   216.48.178.84   132420  186.835             (Noida, Uttar Pradesh, IN, AS) e2e-95-84.ssdcloudindia.net                                                                         

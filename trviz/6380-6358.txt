@@ -1,0 +1,24 @@
+   196.49.15.189   328998  0.0              (Kampala, Central Region, UG, AF)                                                                                                     
+   196.49.15.253   328998  0.253            (Kampala, Central Region, UG, AF)                                                                                                     
+   41.191.77.205   37063   0.538            (Kampala, Central Region, UG, AF)                                                                                                     
+   129.205.30.77   37063   0.838                         (Kampala, C, UG, AF) *                                                                                                   
+╭─ 129.205.30.230  37063   8.644            (Kampala, Central Region, UG, AF)                                                                                                     
+T (37063, 6939)  
+├─ 196.223.21.74   6939    160.498                     (Nairobi, 5, KE, None) *                                                                                                   
+S&T (6939)  
+├─ 184.104.189.42  6939    161.329               (Djibouti, Djibouti, DJ, AF) ve1004.core2.jib1.he.net                                                                            
+S (6939)  
+╰─ 184.104.193.102 6939    161.277   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) port-channel1.core3.mrs1.he.net                                                                     
+╭─ 184.105.81.30   6939    161.706                   (Marseille, PAC, FR, EU) port-channel4.core2.mrs1.he.net                                                                     
+S&T (6939, 37613)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.224.178 37613   176.532                       (Lisbon, 11, PT, EU) etg-is-nigeria.e0-21.switch1.lis1.he.net                                                            
+S&T (37613)  
+╰─ 41.242.114.121  37613   247.677                     (Lagos, Lagos, NG, AF)                                                                                                     
+╭─ 196.216.148.158 *       217.392                     (Lagos, Lagos, NG, AF)                                                                                                     
+S&T (, 37727)  
+╰─ 154.65.16.37    37727   216.476             (Accra, Greater Accra, GH, AF)                                                                                                     
+   154.65.18.77    37727   265.808             (Accra, Greater Accra, GH, AF)                                                                                                     
+   154.65.16.114   37727   220.385             (Accra, Greater Accra, GH, AF)                                                                                                     
+   196.201.2.126   30997   333.922                       (Accra, 1, GH, None) *                                                                                                   
+   196.49.14.25    30997   333.897             (Accra, Greater Accra, GH, AF)                                                                                                     

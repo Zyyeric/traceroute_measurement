@@ -1,0 +1,26 @@
+╭─ 196.49.84.188   328913  0.0                     (Douala, Littoral, CM, AF) cm-dla-as328913.anchors.atlas.ripe.net                                                              
+S (328913, 60171)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 102.219.44.42   60171   1.243                       (Lagos, Lagos, NG, AF)                                                                                                     
+S (60171)  
+├─ 185.10.164.44   60171   19.83               (Barcelona, Catalonia, ES, EU)                                                                                                     
+S (60171)  
+╰─ 102.223.52.72   60171   20.119                      (Lagos, Lagos, NG, AF)                                                                                                     
+╭─ 184.104.188.94  6939    212.352                     (Lagos, Lagos, NG, AF) 10ge0-20.core1.los1.he.net                                                                          
+S&T (6939)  
+├─ 184.104.188.210 6939    212.235          (Cape Town, Western Cape, ZA, AF) 100ge0-33.core1.cpt1.he.net                                                                         
+S&T (6939)  
+├─ 184.104.224.112 6939    216.599                   (Lisbon, Lisbon, PT, EU) e0-18.switch1.lis1.he.net                                                                           
+S&T (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.105.80.13   6939    239.499                        (Milan, 25, IT, EU) 100ge7-2.core1.mil2.he.net                                                                          
+LHL (6939)  
+├─ 184.104.196.194 6939    262.039                       (Denver, CO, US, NA) port-channel1.core1.den3.he.net                                                                     
+LHL (6939)  
+╰─ 184.105.64.170  6939    273.382                       (Athens, A1, GR, EU) 100ge0-36.core1.ath1.he.net                                                                         
+   184.104.191.234 6939    272.476                   (Koropí, Attica, GR, EU) fast-telecom-p-c.e0-7.core1.ath1.he.net                                                             
+   ***             *       -inf                                           *** *                                                                                                   
+   185.14.96.225   211186  371.813            (Lamía, Central Greece, GR, EU) vlan4090.lamia.fast.net.gr                                                                          
+   185.14.96.232   211186  365.255            (Lamía, Central Greece, GR, EU)                                                                                                     

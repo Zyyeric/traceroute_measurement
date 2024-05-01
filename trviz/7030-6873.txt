@@ -1,0 +1,22 @@
+   193.50.97.164   2200    0.0                   (Plouzané, Brittany, FR, EU) anchor.netlab.enstb.org                                                                             
+   193.50.97.161   2200    0.35                  (Plouzané, Brittany, FR, EU) netlab-gw.enstb.org                                                                                 
+   192.108.116.201 50897   0.501                 (Plouzané, Brittany, FR, EU) asr-vlan39.enst-bretagne.fr                                                                         
+   193.51.188.10   2200    6.631             (Saint-Brieuc, Brittany, FR, EU) vl807-pc1-brest1-rtr-021.noc.renater.fr                                                             
+   193.51.177.174  2200    12.485              (Paris, Île-de-France, FR, EU) et-5-2-1-ren-nr-paris1-rtr-131.noc.renater.fr                                                       
+   193.55.204.195  2200    12.73                        (Paris, None, FR, EU) et-3-1-2-ren-nr-paris2-rtr-131.noc.renater.fr                                                       
+╭─ 195.42.145.40   *       12.74               (Paris, Île-de-France, FR, EU)                                                                                                     
+S (, 7578)  apollo ✘ || flag-atlantic-1-fa-1 ✘
+╰─ 206.148.26.57   7578    87.208                 (Ashburn, Virginia, US, NA) e56.ash-eqxdc10-bb3.globalsecurelayer.com                                                           
+   206.148.25.48   7578    100.998              (East Point, Georgia, US, NA) e52.atl-drtatl1-bb1.globalsecurelayer.com                                                           
+   206.148.25.24   7578    115.546           (University Park, Texas, US, NA) e51.dal-eqxda11-bb1.globalsecurelayer.com                                                           
+   206.148.25.23   7578    138.942                 (Phoenix, Arizona, US, NA) e50.phx-pnap-bb1.globalsecurelayer.com                                                              
+   206.148.25.19   7578    143.869          (Los Angeles, California, US, NA) e51.lax-csla2-bb1.globalsecurelayer.com                                                             
+╭─ 206.148.25.84   7578    241.26           (Los Angeles, California, US, NA) e50.ty-eqxty8-bb5.globalsecurelayer.com                                                             
+S (7578)  
+╰─ 206.148.24.51   7578    241.604          (Sydney, New South Wales, AU, OC) e30.ty-eqxty8-bb1.globalsecurelayer.com                                                             
+╭─ 206.148.24.66   7578    308.126          (Sydney, New South Wales, AU, OC) e51.sg-eqxsg3-bb1.globalsecurelayer.com                                                             
+S (7578)  
+╰─ 206.148.24.27   7578    308.129             (Singapore, Singapore, SG, AS) po1.sg-eqxsg3-cr2.globalsecurelayer.com                                                             
+╭─ 206.148.24.90   7578    338.154             (Singapore, Singapore, SG, AS) e51.hk-eqxhk1-bb3.globalsecurelayer.com                                                             
+S (7578, 57695)  
+╰─ 45.11.104.146   57695   253.059             (Hong Kong, Hong Kong, HK, AS) hk-hkg-as57695.anchors.atlas.ripe.net                                                               

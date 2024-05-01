@@ -1,0 +1,27 @@
+   103.15.246.16   58717   0.0                         (Dhaka, Dhaka, BD, AS)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   172.16.203.70   *       1.102                                          ***                                                                                                     
+   103.199.87.153  58717   1.436                         (None, None, BD, AS) *                                                                                                   
+╭─ 103.199.87.233  58717   6.322                         (None, None, BD, AS) *                                                                                                   
+S (58717)  seamewe-5 ✓ || seamewe-4 ✓
+╰─ 103.199.87.70   58717   50.972              (Singapore, Singapore, SG, AS) 103.199.87.70.summitiig.net                                                                         
+╭─ 184.105.80.45   6939    261.699             (Singapore, Singapore, SG, AS) port-channel21.core2.sin1.he.net                                                                    
+S (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.188.98  6939    263.034                     (Osaka, Ōsaka, JP, AS) port-channel1.core1.osa1.he.net                                                                     
+╭─ 184.104.198.218 6939    263.182                     (Osaka, Ōsaka, JP, AS) port-channel7.core2.osa1.he.net                                                                     
+S (6939, 1299)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 213.248.89.210  1299    267.875                 (Phoenix, Arizona, US, NA)                                                                                                     
+   62.115.63.26    1299    261.631                    (Dallas, Texas, US, NA) hurricane-ic-376179.ip.twelve99-cust.net                                                            
+╭─ 184.105.64.246  6939    261.181                      (Houston, TX, US, NA) ve954.core2.hou2.he.net                                                                             
+S (6939)  
+├─ 184.104.197.42  6939    262.44                    (Marseille, PAC, FR, EU) port-channel1.core2.mrs1.he.net                                                                     
+S (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.199.178 6939    339.521                   (Miami, Florida, US, NA) 100ge0-35.core1.for1.he.net                                                                         
+S (6939, )  
+╰─ 45.184.145.15   *       354.604                 (Fortaleza, Ceará, BR, SA) as264479.fortaleza.ce.ix.br                                                                         
+   10.10.127.10    *       356.967                                        ***                                                                                                     
+   138.117.32.6    264479  354.623          (Feira de Santana, Bahia, BR, SA) 138-117-32-6.static.turbozoneinternet.net.br                                                        
+   138.117.32.11   264479  354.803          (Feira de Santana, Bahia, BR, SA) 138-117-32-11.static.turbozoneinternet.net.br                                                       

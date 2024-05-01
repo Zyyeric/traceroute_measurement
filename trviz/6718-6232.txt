@@ -1,0 +1,15 @@
+   212.43.17.42    42961   0.0         (Al Farwānīyah, Al Farwaniyah, KW, AS)                                                                                                     
+   212.43.17.41    42961   1.235             (Kuwait City, Al Asimah, KW, AS)                                                                                                     
+   10.32.1.10      *       1.12                                           ***                                                                                                     
+   10.32.1.1       *       3.038                                          ***                                                                                                     
+╭─ 151.248.98.145  59605   0.976             (Kuwait City, Al Asimah, KW, AS)                                                                                                     
+LHL (59605)  falcon ✓ ↠ seamewe-4 ✓ || falcon ✓ ↠ seamewe-3 ✓ || falcon ✓ ↠ seamewe-5 ✓ || falcon ✓ ↠ peace-cable ✘
+├─ 151.248.96.33   59605   127.876             (Singapore, Singapore, SG, AS)                                                                                                     
+S (59605, 24173)  
+├─ 27.111.228.52   24173   117.381                   (Seogwipo, None, KR, AS) 24173.sgw.equinix.com                                                                               
+S (24173, 24176)  
+╰─ 210.86.233.17   24176   136.289    (Ho Chi Minh City, Ho Chi Minh, VN, AS) ci233-17.netnam.vn                                                                                  
+   210.86.233.30   24176   140.098    (Ho Chi Minh City, Ho Chi Minh, VN, AS) ci233-30.netnam.vn                                                                                  
+   210.86.232.101  24173   136.37                         (Hanoi, HN, VN, AS) ci232-101.netnam.vn                                                                                 
+   ***             *       -inf                                           *** *                                                                                                   
+   101.53.31.6     24173   138.306    (Ho Chi Minh City, Ho Chi Minh, VN, AS) ci53.31-6.netnam.vn                                                                                 

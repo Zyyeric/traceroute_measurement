@@ -1,0 +1,22 @@
+   116.206.155.229 45117   0.0                   (Ahmedabad, Gujarat, IN, AS)                                                                                                     
+   116.206.155.225 45117   0.659                 (Ahmedabad, Gujarat, IN, AS)                                                                                                     
+   121.241.90.57   4755    0.624                 (Ahmedabad, Gujarat, IN, AS) 121.241.90.57.static-ahmedabad.vsnl.net.in                                                          
+   172.28.176.253  *       9.132                                          ***                                                                                                     
+╭─ 180.87.38.5     6453    9.145                         (Mumbai, MH, IN, AS) ix-ae-0-100.tcore1.mlv-mumbai.as6453.net                                                            
+S (6453)  europe-india-gateway-eig ✓ || seamewe-3 👍 || flag-europe-asia-fea ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 80.231.131.1    6453    137.286                     (London, None, GB, EU) if-ae-2-2.tcore2.l78-london.as6453.net                                                              
+╭─ 80.231.131.118  6453    139.194                     (London, None, GB, EU) if-ae-15-2.tcore2.ldn-london.as6453.net                                                             
+T (6453, 3320)  
+╰─ 80.150.171.217  3320    138.292                    (Hochstadt, BY, DE, EU) *                                                                                                   
+   217.239.46.10   3320    160.271                       (None, None, DE, EU) pd9ef2e0a.dip0.t-ipconnect.de                                                                       
+╭─ 80.156.161.217  9121    155.765                 (Froendenberg, NW, DE, EU) *                                                                                                   
+T (9121)  
+╰─ 212.156.140.193 9121    189.769                         (Aydin, 9, TR, AS) 00-gayrettepe-xrs-t2-2---305-vie-col-1.statik.turktelekom.com.tr                                    
+   81.212.212.252  9121    190.714                       (None, None, TR, AS) 34-acibadem-xrs-t2-2---00-gayrettepe-xrs-t2-2.statik.turktelekom.com.tr                             
+   81.212.216.13   9121    185.675                     (Istanbul, 34, TR, AS) 34-acibadem-sr12e-t3-8---34-acibadem-xrs-t2-2.statik.turktelekom.com.tr                             
+   81.212.78.44    9121    192.396               (Istanbul, Istanbul, TR, AS) 81.212.78.44.static.turktelekom.com.tr                                                              
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   78.189.206.22   9121    194.973               (Adapazarı, Sakarya, TR, AS) 78.189.206.22.static.ttnet.com.tr                                                                   

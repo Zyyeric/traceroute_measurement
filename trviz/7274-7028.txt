@@ -1,0 +1,45 @@
+   103.156.251.7   141235  0.0                 (Singapore, Singapore, SG, AS)                                                                                                     
+   103.156.251.3   141235  0.294               (Singapore, Singapore, SG, AS)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 62.115.137.243  1299    1.742               (Singapore, Singapore, SG, AS) snge-b4-link.ip.twelve99.net                                                                        
+S (1299)  eac-c2c © || asia-pacific-gateway-apg ✓ || southeast-asia-japan-cable-sjc ✓ || asia-america-gateway-aag-cable-system © || seamewe-3 ✓ || asia-submarine-cable-express-asecahaya-malaysia ✓ || apcn-2 ✓
+├─ 62.115.112.223  1299    38.074              (Hong Kong, Hong Kong, HK, AS) hnk-b4-link.ip.twelve99.net                                                                         
+S (1299)  flag-north-asia-loopreach-north-asia-loop ✓ || asia-submarine-cable-express-asecahaya-malaysia ✓ || asia-pacific-gateway-apg ✓ || eac-c2c © || southeast-asia-japan-cable-sjc ✓
+╰─ 62.115.134.187  1299    92.239                      (Tokyo, Tokyo, JP, AS) tky-b3-link.ip.twelve99.net                                                                         
+   62.115.126.134  1299    81.417                      (Tokyo, Tokyo, JP, AS) tky-b2-link.ip.twelve99.net                                                                         
+╭─ 62.115.115.65   1299    109.768                     (Osaka, Ōsaka, JP, AS) osa-b1-link.ip.twelve99.net                                                                         
+S (1299)  japan-u-s-cable-network-jus ✓
+╰─ 62.115.112.34   1299    194.99           (Los Angeles, California, US, NA) lax-b23-link.ip.twelve99.net                                                                        
+   ***             *       -inf                                           *** *                                                                                                   
+   154.54.3.69     174     185.333                  (Los Angeles, CA, US, NA) be3359.ccr42.lax01.atlas.cogentco.com                                                               
+╭─ 154.54.45.161   174     194.772                      (Phoenix, AZ, US, NA) be2932.ccr32.phx01.atlas.cogentco.com                                                               
+S&T (174)  
+├─ 154.54.26.54    174     216.251                       (Ottawa, ON, CA, NA) be3349.rcr11.yow01.atlas.cogentco.com                                                               
+S&T (174)  
+╰─ 154.54.2.5      174     223.227                   (Houston, Texas, US, NA) be3851.ccr42.iah01.atlas.cogentco.com                                                               
+   154.54.28.129   174     275.906                      (Atlanta, GA, US, NA) be2690.ccr42.atl01.atlas.cogentco.com                                                               
+   154.54.24.221   174     266.825                   (Washington, DC, US, NA) be2113.ccr42.dca01.atlas.cogentco.com                                                               
+╭─ 154.54.40.109   174     329.996                     (New York, NY, US, NA) be2807.ccr42.jfk02.atlas.cogentco.com                                                               
+S (174)  
+├─ 154.54.27.170   174     275.753                       (Paris, IDF, FR, EU) be3628.ccr42.par01.atlas.cogentco.com                                                               
+T (174)  
+╰─ 154.54.58.237   174     254.331            (Frankfurt am Main, HE, DE, EU) be2800.ccr42.fra03.atlas.cogentco.com                                                               
+╭─ 154.54.36.254   174     272.538                       (Munich, BY, DE, EU) be2960.ccr22.muc03.atlas.cogentco.com                                                               
+T (174)  
+├─ 154.54.59.181   174     264.823                        (Vienna, 9, AT, EU) be3462.ccr52.vie01.atlas.cogentco.com                                                               
+T (174)  
+├─ 154.54.59.186   174     288.343                   (Bratislava, BL, SK, EU) be3463.ccr22.bts01.atlas.cogentco.com                                                               
+T (174)  
+├─ 154.54.59.178   174     370.494                     (Budapest, PE, HU, EU) be3263.ccr31.bud01.atlas.cogentco.com                                                               
+T (174)  
+├─ 154.54.38.246   174     304.26                      (Bucharest, B, RO, EU) be3262.ccr31.buh01.atlas.cogentco.com                                                               
+S&T (174)  
+├─ 154.54.77.237   174     280.712               (Istanbul, Istanbul, TR, AS) be3572.rcr71.ist01.atlas.cogentco.com                                                               
+S (174)  
+├─ 154.54.74.206   174     280.543                        (Lyon, ARA, FR, EU) be2880.rcr21.lys01.atlas.cogentco.com                                                               
+S (174, 43391)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 77.223.128.226  43391   385.73             (İzmir, İzmir Province, TR, AS)                                                                                                     

@@ -1,0 +1,19 @@
+   103.143.136.43  63781   0.0                         (Tokyo, Tokyo, JP, AS) koba-103-143-136-43.rev.kobayashi.ad.jp                                                             
+   103.143.136.62  63781   2.086                       (Tokyo, Tokyo, JP, AS) koba-103-143-136-62.rev.kobayashi.ad.jp                                                             
+   103.143.136.25  63781   0.313                       (Tokyo, Tokyo, JP, AS) bgprt1-ospfrt1.kobayashi.ad.jp                                                                      
+   103.41.60.164   10010   0.51                        (Tokyo, Tokyo, JP, AS) bgp3.tokyo-ix.v4.open.ad.jp                                                                         
+   150.99.184.33   2907    1.929                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+   150.99.10.187   2907    1.427                         (None, None, JP, AS) *                                                                                                   
+   202.232.6.17    2497    2.338                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+╭─ 58.138.114.221  2497    2.638                       (Tokyo, Tokyo, JP, AS) tky009bb01.iij.net                                                                                  
+S (2497)  japan-u-s-cable-network-jus ✓ || tata-tgn-pacific ✓ || pacific-crossing-1-pc-1 ✓ || faster ✓ || jupiter ✓
+├─ 58.138.88.238   2497    101.576             (San Jose, California, US, NA) sjc002bb00.iij.net                                                                                  
+S (2497, 1299)  atlantic-crossing-1-ac-1 ✓ || havfrueaec-2 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 80.91.254.90    1299    260.201       (Copenhagen, Capital Region, DK, EU) kbn-bb6-link.ip.twelve99.net                                                                        
+S&T (1299)  
+╰─ 62.115.139.172  1299    264.217             (Stockholm, Stockholm, SE, EU) s-bb2-link.ip.twelve99.net                                                                          
+   62.115.188.85   1299    281.578             (Stockholm, Stockholm, SE, EU) hydro-ic-354237.ip.twelve99-cust.net                                                                
+   62.115.188.85   1299    281.578             (Stockholm, Stockholm, SE, EU) hydro-ic-354237.ip.twelve99-cust.net                                                                
+   185.71.177.180  200675  260.133                (Boden, Norrbotten, SE, EU)                                                                                                     

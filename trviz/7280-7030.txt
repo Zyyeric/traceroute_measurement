@@ -1,0 +1,20 @@
+   45.11.104.146   57695   0.0                 (Hong Kong, Hong Kong, HK, AS) hk-hkg-as57695.anchors.atlas.ripe.net                                                               
+   ***             *       -inf                                           *** *                                                                                                   
+   45.11.104.7     57695   0.252                    (Hong Kong, None, HK, AS) po-07.lag.hkg12.hk.misaka.io                                                                        
+   199.119.64.150  969     0.326               (Hong Kong, Hong Kong, HK, AS) po103-10.cr1a.eqhk2.hkg12.hk.917.as                                                                 
+   185.229.189.198 60068   0.334               (Hong Kong, Hong Kong, HK, AS) p77-6.cr1a.eqhk2.hkg12.hk.917.as                                                                    
+╭─ 36.255.56.8     *       0.675               (Hong Kong, Hong Kong, HK, AS) 6939.hkg.equinix.com                                                                                
+S (, 6939)  apcn-2 ✘ || southeast-asia-japan-cable-sjc ✘ || eac-c2c ✘ || asia-pacific-gateway-apg ✘ || asia-america-gateway-aag-cable-system ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.105.223.134 6939    30.975              (Singapore, Singapore, SG, AS) port-channel1.core3.sin1.he.net                                                                     
+S (6939, )  seamewe-5 ✓ || seamewe-4 ✓ || seamewe-3 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 185.1.106.24    *       260.234                  (Milan, Lombardy, IT, EU) 6939-mlb-ix-equinix.com                                                                             
+T ()  
+├─ 193.169.198.70  *       278.447             (Sofia, Sofia-Capital, BG, EU) henet.bix.bg                                                                                        
+T (, 6939)  
+╰─ 184.105.64.170  6939    290.058                       (Athens, A1, GR, EU) 100ge0-36.core1.ath1.he.net                                                                         
+   184.104.191.234 6939    289.748                   (Koropí, Attica, GR, EU) fast-telecom-p-c.e0-7.core1.ath1.he.net                                                             
+   ***             *       -inf                                           *** *                                                                                                   
+   185.14.96.225   211186  288.357            (Lamía, Central Greece, GR, EU) vlan4090.lamia.fast.net.gr                                                                          
+   185.14.96.232   211186  289.962            (Lamía, Central Greece, GR, EU)                                                                                                     

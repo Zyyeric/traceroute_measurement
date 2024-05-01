@@ -1,0 +1,13 @@
+   103.153.176.122 131657  0.0                       (Taipei, Taiwan, TW, AS) 103-153-176-122.as131657.net                                                                        
+   103.153.176.254 131657  0.453                     (Taipei, Taiwan, TW, AS) 103-153-176-254.as131657.net                                                                        
+   103.51.91.5     *       0.568                     (Taipei, Taiwan, TW, AS) et-0-0-1.cr1.hd.tpe.as131657.net                                                                    
+╭─ 103.158.187.30  *       0.992                     (Taipei, Taiwan, TW, AS) as6939.ly.stuix.io                                                                                  
+S (, 6939)  
+╰─ 184.104.199.145 6939    27.935                      (Osaka, Ōsaka, JP, AS) port-channel6.core1.osa1.he.net                                                                     
+╭─ 184.104.188.97  6939    28.41                       (Osaka, Ōsaka, JP, AS) port-channel10.core2.osa1.he.net                                                                    
+LHL (6939, 199610)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 92.38.170.97    199610  129.985                       (None, None, DE, EU) *                                                                                                   
+LHL (199610)  
+╰─ 37.10.126.72    199610  134.412          (Los Angeles, California, US, NA)                                                                                                     

@@ -1,0 +1,15 @@
+   185.14.96.232   211186  0.0                (Lamía, Central Greece, GR, EU)                                                                                                     
+   185.14.96.225   211186  0.575              (Lamía, Central Greece, GR, EU) vlan4090.lamia.fast.net.gr                                                                          
+   212.205.28.249  6799    0.648              (Lamía, Central Greece, GR, EU) 249.28.205.212.static.otenet.gr                                                                     
+   79.128.234.128  6799    3.626                    (Maroúsi, Attica, GR, EU)                                                                                                     
+   62.75.3.17      12713   3.856             (Néa Chalkidóna, Attica, GR, EU) kolasr02-hu-0-8-0-0.ath.oteglobe.gr                                                                 
+╭─ 62.75.6.10      *       36.751                    (Athens, Attica, GR, EU)                                                                                                     
+LHL (, 34019)  mednautilus-submarine-system ✘ ↠ asia-africa-europe-1-aae-1 ✘ || mednautilus-submarine-system ✘ ↠ seamewe-3 ✘
+├─ 80.81.193.145   34019   55.209            (Frankfurt am Main, 5, DE, None) ipv4.de-cix.fra.de.as34019.hivane.net                                                               
+T (34019)  
+╰─ 193.164.153.246 34019   53.409                        (None, None, FR, EU) ae0-704-rt2-th2.bb.hivane.net                                                                       
+   193.164.153.207 34019   53.379                        (None, None, FR, EU) ae0-3000-rt2-th2-j.bb.hivane.net                                                                    
+   193.201.149.156 *       53.05         (Saint-Denis, Île-de-France, FR, EU) as204092.fnc-ix.net                                                                                 
+   89.234.186.43   204092  65.391                        (None, None, FR, EU) eth1.33.asbr02.cogent-rns.grifon.fr                                                                 
+   89.234.186.42   204092  65.423                  (Rennes, Brittany, FR, EU) hv03.cogent-rns.bb.grifon.fr                                                                        
+   80.67.190.218   204092  67.031                  (Rennes, Brittany, FR, EU) ripe-anchor.grifon.fr                                                                               

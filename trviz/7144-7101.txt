@@ -1,0 +1,18 @@
+   143.129.80.132  2611    0.0                  (Antwerpen, Flanders, BE, EU)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   143.129.67.252  2611    1.589                  (Berchem, Flanders, BE, EU)                                                                                                     
+   192.168.141.40  *       2.266                                          ***                                                                                                     
+   192.168.148.101 *       2.629                                          ***                                                                                                     
+   193.191.18.9    2611    2.094                  (Berchem, Flanders, BE, EU) r1.antwil.belnet.net                                                                                
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 194.53.172.33   6939    3.755                    (Brussels, BRU, BE, None) he.bnix.net                                                                                         
+S&T (6939)  concerto ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.198.118 6939    10.037          (Amsterdam, North Holland, NL, EU) port-channel1.core1.ams1.he.net                                                                     
+S&T (6939, 201933)  farland-north ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.204.238 201933  12.011                       (London, ENG, GB, EU) cxs-connected-enterprise-ltd.10gigabitethernet1-1-21.switch1.lon3.he.net                            
+   91.193.116.89   209669  31.56                      (Brighton, ENG, GB, EU) 1ge-0-0.edge.pd1.lon.gbr.primonetwork.co.uk                                                         
+   ***             *       -inf                                           *** *                                                                                                   
+   185.251.232.156 209669  12.702                   (Bexley, England, GB, EU) 156.232.251.185.arpa.primonetwork.co.uk                                                             

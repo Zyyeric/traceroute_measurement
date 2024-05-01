@@ -1,0 +1,10 @@
+   103.202.216.76  59105   0.0                         (Chōfu, Tokyo, JP, AS)                                                                                                     
+   103.202.216.73  59105   0.254                       (Tokyo, Tokyo, JP, AS) ge-2-1-0.pop03er03.bb.homenoc.ad.jp                                                                 
+   103.48.31.180   59105   0.313                         (None, None, JP, AS) gi0-2-0.pop03cr01.bb.homenoc.ad.jp                                                                  
+╭─ 103.48.31.63    59105   0.269                       (Tokyo, Tokyo, JP, AS) ge-0-0-8.pop03er01.bb.homenoc.ad.jp                                                                 
+S (59105, 6939)  apcn-2 ✓ || eac-c2c ✓ || asia-pacific-gateway-apg ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.64.129  6939    54.794                   (Hong Kong, None, HK, AS) 100ge10-2.core1.hkg1.he.net                                                                         
+   184.104.220.67  6939    54.517              (Hong Kong, Hong Kong, HK, AS) lshiy.e0-30.switch1.hkg1.he.net                                                                     
+   103.203.243.11  955     54.55               (Hong Kong, Hong Kong, HK, AS) multi-user.port-channe17.switch1.hkg1.bb.lshiy.net                                                  
+   89.213.179.65   32167   54.535              (Hong Kong, Hong Kong, HK, AS) 89-213-179-65.ip.lshiyusercontent.com                                                               

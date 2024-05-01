@@ -1,0 +1,24 @@
+   116.206.155.229 45117   0.0                   (Ahmedabad, Gujarat, IN, AS)                                                                                                     
+   116.206.155.225 45117   1.478                 (Ahmedabad, Gujarat, IN, AS)                                                                                                     
+   121.241.90.57   4755    0.716                 (Ahmedabad, Gujarat, IN, AS) 121.241.90.57.static-ahmedabad.vsnl.net.in                                                          
+   172.28.176.253  *       9.221                                          ***                                                                                                     
+╭─ 180.87.38.5     6453    9.185                         (Mumbai, MH, IN, AS) ix-ae-0-100.tcore1.mlv-mumbai.as6453.net                                                            
+S (6453)  seamewe-3 👍 || flag-europe-asia-fea ✓ || europe-india-gateway-eig ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 80.231.130.130  6453    137.158                     (London, None, GB, EU) if-ae-17-2.tcore1.ldn-london.as6453.net                                                             
+S (6453)  
+├─ 80.231.62.2     6453    137.191                       (None, None, CA, NA) *                                                                                                   
+LHL (6453, 6461)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 64.125.29.87    6461    141.118                       (Paris, IDF, FR, EU) ae1.mcs1.cdg12.fr.eth.zayo.com                                                                      
+   64.125.30.183   8218    144.428                       (Paris, IDF, FR, EU) v3.ae10.ter3.eqx2.par.as8218.eu                                                                     
+   83.167.55.99    8218    150.104                   (Lyon/Bron, ARA, FR, EU) ae8.tcr2.sfr.lyn.core.as8218.eu                                                                     
+   83.167.55.206   8218    151.333                   (Marseille, PAC, FR, EU) ae9.tcr1.itx.mrs.core.as8218.eu                                                                     
+   83.167.55.212   8218    153.556    (Montpellier/Mediterranee, OCC, FR, EU) ae2.ter1.neodc.mpl.core.as8218.eu                                                                   
+   83.167.55.235   8218    156.096    (Montpellier/Mediterranee, OCC, FR, EU) ae4.ter2.neodc.mpl.core.as8218.eu                                                                   
+   83.167.56.247   8218    156.611            (Toulouse/Blagnac, OCC, FR, EU) ae3.tcr2.bal.tls.core.as8218.eu                                                                     
+   213.152.16.90   15826   157.041            (Toulouse/Blagnac, OCC, FR, EU) nfrance-gw2.tcr2.bal.tls.cust.as8218.eu                                                             
+   ***             *       -inf                                           *** *                                                                                                   
+   80.247.237.225  15826   161.745   (Ramonville-Saint-Agne, Occitanie, FR, EU) ancre-atlas.nfrance.com                                                                             

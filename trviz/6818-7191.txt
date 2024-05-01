@@ -1,0 +1,12 @@
+   117.20.118.21   45498   0.0               (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     
+   117.20.118.17   45498   2.906             (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     
+   27.109.113.25   45498   1.19              (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     
+╭─ 27.109.113.4    45498   1.096             (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     
+S (45498, 3491)  asia-africa-europe-1-aae-1 ✘
+├  172.16.100.137  *       1.365                                          ***                                                                                                     
+├  172.16.16.6     *       1.483                                          ***                                                                                                     
+├  172.16.16.153   *       38.589                                         ***                                                                                                     
+├─ 63.216.82.157   3491    51.224              (Hong Kong, Hong Kong, HK, AS) 63-216-82-157.static.pccwglobal.net                                                                 
+S (3491)  seamewe-3 👍 || eac-c2c ✓ || apcn-2 👍 || asia-pacific-gateway-apg ✓ || flag-north-asia-loopreach-north-asia-loop 👍
+╰─ 63.223.9.198    3491    130.289                     (Taipei, None, TW, AS) HundredGE0-3-0-1.br01.tap04.pccwbtn.net                                                             
+   63.222.40.114   3491    130.229                   (Taipei, Taiwan, TW, AS) ncic.te0-1-0-23.br01.tap04.as3491.net                                                               

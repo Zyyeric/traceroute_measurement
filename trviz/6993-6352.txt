@@ -1,0 +1,24 @@
+   84.88.18.254    13041   0.0                 (Barcelona, Catalonia, ES, EU) anchor-anella.cesca.cat                                                                             
+   84.88.18.253    13041   1.023               (Barcelona, Catalonia, ES, EU) anella-anchor.cesca.cat                                                                             
+   130.206.214.97  766     9.492                     (Madrid, Madrid, ES, EU) anella-ppal-as13041.ethtrunk11-81.telmad.rt3.mad.red.rediris.es                                     
+╭─ 83.97.90.20     21320   9.42                      (Madrid, Madrid, ES, EU) rediris-ias-geant-gw.mad.es.geant.net                                                               
+S&T (21320, 20965)  seamewe-3 ✓
+├─ 62.40.98.227    20965   43.416    (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) ae2.rt1.mar.fr.geant.net                                                                            
+T (20965)  
+├─ 62.40.98.236    20965   43.45                     (Genève, Geneva, CH, EU) ae4.mx1.gen.ch.geant.net                                                                            
+T (20965)  
+├─ 62.40.98.239    20965   43.263              (Paris, Île-de-France, FR, EU) ae7.mx1.par.fr.geant.net                                                                            
+S&T (20965)  africa-coast-to-europe-ace ✘ || seamewe-3 ✘
+├─ 62.40.98.106    20965   43.743                        (Lisbon, 11, PT, EU) ae0.mx2.lis.pt.geant.net                                                                            
+S&T (20965)  
+├─ 62.40.98.64     20965   39.596                   (London, England, GB, EU) ae2.mx1.lon.uk.geant.net                                                                            
+S&T (20965, 30844)  
+├─ 195.66.224.68   30844   43.296                    (Turnhout, None, BE, EU) ae-0-0-0.luk-pr3-tho.liquidtelecom.net                                                              
+S&T (30844)  
+├─ 5.11.13.44      30844   43.761              (Camden Town, England, GB, EU) hu-0-0-0-6.luk-p2-tho.liquidtelecom.net                                                             
+T (30844)  
+╰─ 5.11.12.210     30844   213.687          (Cape Town, Western Cape, ZA, AF) hu0-1-0-4.lza-p1-cpt.liquidtelecom.com                                                              
+   46.17.232.122   30844   196.189            (Johannesburg, Gauteng, ZA, AF) 46.17.232.122.liquidtelecom.net                                                                     
+   41.60.135.93    30844   213.215                     (Mokopane, LP, ZA, AF) be-20.lza-pe2-jhb.liquidtelecom.net                                                                 
+   41.60.134.175   12008   195.622                    (Bela-Bela, LP, ZA, AF) 41.60.134.175.liquidtelecom.net                                                                     
+   156.154.135.254 12008   196.007            (Johannesburg, Gauteng, ZA, AF)                                                                                                     

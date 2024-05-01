@@ -1,0 +1,14 @@
+   92.38.171.55    202422  0.0       (San Sebastián de los Reyes, Madrid, ES, EU)                                                                                                     
+   92.38.171.2     202422  0.239                     (Madrid, Madrid, ES, EU) vrrp.gcore.lu                                                                                       
+   10.255.32.226   *       0.224                                          ***                                                                                                     
+   10.255.37.169   *       1.935                                          ***                                                                                                     
+╭─ 80.239.194.252  1299    1.487                     (Madrid, Madrid, ES, EU) mad-b4-link.ip.twelve99.net                                                                         
+S&T (1299)  
+├─ 213.155.131.152 1299    23.988              (Paris, Île-de-France, FR, EU) prs-bb1-link.ip.twelve99.net                                                                        
+S&T (1299)  seamewe-3 ✓
+├─ 62.115.135.24   1299    33.575                   (London, England, GB, EU) ldn-bb1-link.ip.twelve99.net                                                                        
+S (1299)  exa-north-and-south ✘ || atlantic-crossing-1-ac-1 ✓ || flag-atlantic-1-fa-1 © || apollo © || yellow ✓ || tata-tgn-atlantic ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 62.115.126.179  1299    119.119               (Edison, New Jersey, US, NA) ewr-b1-link.ip.twelve99.net                                                                         
+   62.115.44.133   1299    102.245                   (Miami, Florida, US, NA) marbisgmbh-ic-383538.ip.twelve99-cust.net                                                           
+   109.230.208.226 199610  108.113              (Clifton, New Jersey, US, NA)                                                                                                     

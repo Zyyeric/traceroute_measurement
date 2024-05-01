@@ -1,0 +1,13 @@
+   92.223.93.208   202422  0.0                      (Milan, Lombardy, IT, EU)                                                                                                     
+   92.223.93.195   202422  0.269                    (Milan, Lombardy, IT, EU) vrrp.gcore.lu                                                                                       
+   45.82.101.3     199524  0.294                    (Milan, Lombardy, IT, EU)                                                                                                     
+   10.255.169.177  *       0.347                                          ***                                                                                                     
+╭─ 195.22.196.90   6762    0.894                    (Milan, Lombardy, IT, EU)                                                                                                     
+S&T (6762, 2914)  
+╰─ 213.144.170.29  2914    7.987                    (Marseille, None, FR, EU) dueitc.marsiglia2.mar.seabone.net                                                                   
+╭─ 213.144.176.139 9498    8.787                    (Marseille, None, FR, EU) bharti.marsiglia2.mar.seabone.net                                                                   
+S (9498)  seamewe-4 👍 || asia-africa-europe-1-aae-1 ✓ || imewe 👍 || seamewe-3 ✓
+├─ 182.79.188.62   9498    131.086                       (None, None, IN, AS) *                                                                                                   
+S (9498, 60924)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 185.92.128.30   60924   113.48                      (Dubai, Dubai, AE, AS)                                                                                                     

@@ -1,0 +1,17 @@
+   202.152.129.74  23951   0.0               (Yogyakarta, Yogyakarta, ID, AS) 202-152-129-74.citra.net.id                                                                         
+   202.152.129.73  23951   0.395     (Pugeran Maguwoharjo, Yogyakarta, ID, AS) 202-152-129-73.citra.net.id                                                                         
+   202.152.153.4   23951   0.708     (Pugeran Maguwoharjo, Yogyakarta, ID, AS) 202-152-153-4.as23951.net                                                                           
+╭─ 202.152.131.233 23951   23.867            (Yogyakarta, Yogyakarta, ID, AS) eie.rtr1-sgw-eq.citra.net.id                                                                        
+S (23951, 35280)  
+├─ 27.111.229.245  35280   24.363                    (Seogwipo, None, KR, AS) 35280.sgw.equinix.com                                                                               
+S (35280, 34019)  
+├  100.99.0.93     *       204.281                                        ***                                                                                                     
+├  100.99.1.85     *       180.135                                        ***                                                                                                     
+├  100.99.0.132    *       189.41                                         ***                                                                                                     
+├  100.100.0.229   *       172.587                                        ***                                                                                                     
+╰─ 193.17.192.255  34019   191.221             (Paris, Île-de-France, FR, EU) et-202-0-48-er01-std.bb.hivane.net                                                                  
+   193.164.153.192 34019   179.577                       (None, None, FR, EU) ae0-486-rt2-th2.bb.hivane.net                                                                       
+   193.200.43.85   34019   195.348             (Paris, Île-de-France, FR, EU) gw-grifon-th2.bb.hivane.net                                                                         
+   89.234.186.144  204092  189.414             (Paris, Île-de-France, FR, EU) enp1s0.201.asbr03.grifon.fr                                                                         
+   89.234.186.42   204092  187.278                 (Rennes, Brittany, FR, EU) hv03.cogent-rns.bb.grifon.fr                                                                        
+   80.67.190.218   204092  187.347                 (Rennes, Brittany, FR, EU) ripe-anchor.grifon.fr                                                                               

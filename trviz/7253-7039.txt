@@ -1,0 +1,14 @@
+   103.170.232.152 142616  0.0                         (Tokyo, Tokyo, JP, AS) user-103-170-232-152.nrt04.jp.misaka.io                                                             
+   ***             *       -inf                                           *** *                                                                                                   
+   103.170.232.2   142616  0.259                       (Tokyo, Tokyo, JP, AS) spine1.nrt04.jp.misaka.io                                                                           
+   199.119.64.140  969     0.252                       (Tokyo, Tokyo, JP, AS) e53-20.cr2a.eqty8.nrt4.jp.917.as                                                                    
+   84.17.33.104    60068   0.248                       (Tokyo, Tokyo, JP, AS) po66-3517.cr02.nrt04.jp.misaka.io                                                                   
+   62.115.189.145  1299    0.705                       (Tokyo, Tokyo, JP, AS) tky-b3-link.ip.twelve99.net                                                                         
+╭─ 62.115.126.134  1299    0.389                       (Tokyo, Tokyo, JP, AS) tky-b2-link.ip.twelve99.net                                                                         
+S (1299)  apcn-2 ✓ || eac-c2c © || asia-pacific-gateway-apg ✓
+├─ 62.115.116.198  1299    107.286             (Singapore, Singapore, SG, AS) lax-b23-link.ip.twelve99.net                                                                        
+S (1299)  
+╰─ 62.115.116.40   1299    105.964             (San Jose, California, US, NA) sjo-b23-link.ip.twelve99.net                                                                        
+   62.115.115.216  1299    107.417          (Santa Clara, California, US, NA) palo-b24-link.ip.twelve99.net                                                                       
+   62.115.46.191   1299    107.453             (San Jose, California, US, NA) isc-ic-380208.ip.twelve99-cust.net                                                                  
+   192.158.252.10  1280    107.702        (Mountain View, California, US, NA) us-pao-as1280.anchors.atlas.ripe.net                                                                

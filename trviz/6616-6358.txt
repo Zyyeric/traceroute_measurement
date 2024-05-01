@@ -1,0 +1,19 @@
+   196.49.15.189   328998  0.0              (Kampala, Central Region, UG, AF)                                                                                                     
+   196.49.15.253   328998  0.176            (Kampala, Central Region, UG, AF)                                                                                                     
+   41.191.77.205   37063   1.375            (Kampala, Central Region, UG, AF)                                                                                                     
+   129.205.30.77   37063   1.229                         (Kampala, C, UG, AF) *                                                                                                   
+╭─ 129.205.30.230  37063   8.462            (Kampala, Central Region, UG, AF)                                                                                                     
+T (37063, 6939)  
+├─ 196.223.21.74   6939    160.476                     (Nairobi, 5, KE, None) *                                                                                                   
+S&T (6939)  
+├─ 184.104.189.42  6939    161.224               (Djibouti, Djibouti, DJ, AF) ve1004.core2.jib1.he.net                                                                            
+S (6939)  
+├─ 184.104.193.102 6939    161.197   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) port-channel1.core3.mrs1.he.net                                                                     
+T (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 72.52.92.6      6939    165.673            (Frankfurt am Main, HE, DE, EU) port-channel3.core3.fra1.he.net                                                                     
+LHL (6939, 47794)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 94.77.210.130   47794   260.533            (Riyadh, Riyadh Region, SA, AS) 94-77-210-130.static.go.com.sa                                                                      
+   94.77.252.90    47794   260.941            (Riyadh, Riyadh Region, SA, AS) 94-77-252-90.static.go.com.sa                                                                       

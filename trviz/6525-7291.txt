@@ -1,0 +1,12 @@
+   103.133.238.187 132808  0.0                 (Brisbane, Queensland, AU, OC) iptelco.com.au                                                                                      
+   103.133.238.130 132808  0.406               (Brisbane, Queensland, AU, OC) vmnet-hsrp66.bdr01-bne-br1.iptelco.net.au                                                           
+   103.133.238.14  132808  0.456               (Brisbane, Queensland, AU, OC) te0-0-0-402.bdr01-bne-br1.iptelco.net.au                                                            
+   184.104.197.182 6939    13.844                     (Brisbane, QLD, AU, OC) port-channel1.core1.bne1.he.net                                                                     
+╭─ 103.26.68.236   *       13.465           (Sydney, New South Wales, AU, OC) as6939.sydney.megaport.com                                                                          
+S (, 6939)  hawaiki ✘ || southern-cross-cable-network-sccn ✘ || southern-cross-next ✘
+╰─ 184.104.194.233 6939    154.948             (San Jose, California, US, NA) 100ge0-65.core3.sjc1.he.net                                                                         
+   ***             *       -inf                                           *** *                                                                                                   
+   184.105.177.238 46749   155.467                   (Pleasanton, CA, US, NA) stanford-university.100gigabitethernet5-1.core1.pao1.he.net                                         
+   171.66.0.238    32      155.739                     (Stanford, CA, US, NA) csee-west-rtr-vl12.SUNet                                                                            
+   ***             *       -inf                                           *** *                                                                                                   
+   171.67.70.16    32      155.99              (Stanford, California, US, NA) us-pao-as32.anchors.atlas.ripe.net                                                                  

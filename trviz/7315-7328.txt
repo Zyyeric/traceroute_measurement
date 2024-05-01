@@ -1,0 +1,16 @@
+   102.212.60.247  329276  0.0              (Cape Town, Western Cape, ZA, AF) za-cpt-as329276.anchors.atlas.ripe.net                                                              
+   102.212.60.2    329276  0.138             (Rosebank, Western Cape, ZA, AF) net.lnx-solutions.com                                                                               
+   196.250.236.121 37662   0.268             (Rosebank, Western Cape, ZA, AF)                                                                                                     
+╭─ 154.66.247.234  37662   0.246 (2.186)                 (Trichardt, MP, ZA, AF) *                                                                                                   
+S&T (37662)  eastern-africa-submarine-system-eassy 👍 || seacomtata-tgn-eurasia ✓
+├─ 154.66.247.99   37662   115.591                       (None, None, KE, AF) *                                                                                                   
+LHL (37662, 6939)  peace-cable ✘ ↠ flag-europe-asia-fea ✘ || peace-cable ✘ ↠ seamewe-3 ✓ || seacomtata-tgn-eurasia ✓ ↠ flag-europe-asia-fea ✘ || seacomtata-tgn-eurasia ✓ ↠ seamewe-3 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.105.222.69  6939    126.012           (Bilbao, Basque Country, ES, EU) port-channel5.core1.bio1.he.net                                                                     
+S (6939)  marea ✓
+╰─ 184.104.197.94  6939    191.901         (Virginia Beach, Virginia, US, NA) port-channel1.core2.orf2.he.net                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 184.104.199.178 6939    286.272                   (Miami, Florida, US, NA) 100ge0-35.core1.for1.he.net                                                                         
+S (6939, 266152)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 45.6.36.173     266152  297.854          (Campina Grande, Paraíba, BR, SA) 45.6.36.173.pjmfibra.com.br                                                                         

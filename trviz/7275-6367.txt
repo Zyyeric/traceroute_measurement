@@ -1,0 +1,12 @@
+   152.195.112.52  15133   0.0                         (Tokyo, Tokyo, JP, AS)                                                                                                     
+╭─ 152.195.112.49  15133   5.802                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+S (15133, 6939)  apcn-2 ✓ || eac-c2c ✓ || asia-pacific-gateway-apg ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.64.253  6939    116.313                     (Singapore, 4, SG, AS) 100ge11-1.core1.sin1.he.net                                                                         
+╭─ 74.82.49.214    6939    89.422              (Singapore, Singapore, SG, AS) pt-jala-lintas-media.e0-3.switch5.sin1.he.net                                                       
+S&T (6939, 133840)  
+╰─ 103.66.70.104   133840  88.988                  (Jakarta, Jakarta, ID, AS)                                                                                                     
+   121.100.0.45    38158   77.805                  (Jakarta, Jakarta, ID, AS)                                                                                                     
+   43.230.152.226  *       77.987                  (Jakarta, Jakarta, ID, AS) global-in.kings.id                                                                                  
+   ***             *       -inf                                           *** *                                                                                                   
+   180.211.88.22   45725   86.133                  (Jakarta, Jakarta, ID, AS) id-jkt-as45725.anchors.atlas.ripe.net                                                               

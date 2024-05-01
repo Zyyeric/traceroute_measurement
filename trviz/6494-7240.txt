@@ -1,0 +1,17 @@
+   202.70.133.25   140443  0.0                 (Singapore, Singapore, SG, AS) 25.133.70.202.in-addr.herza.id                                                                      
+   202.70.133.1    140443  0.148               (Singapore, Singapore, SG, AS) 1.133.70.202.in-addr.herza.id                                                                       
+╭─ 202.70.132.1    140443  0.291               (Singapore, Singapore, SG, AS) 1.132.70.202.in-addr.herza.id                                                                       
+S (140443, 35280)  
+├  10.111.222.206  *       0.509                                          ***                                                                                                     
+├─ 27.111.229.245  35280   0.443 (1.355)                (Seogwipo, None, KR, AS) 35280.sgw.equinix.com                                                                               
+S (35280, 34019)  
+├  100.99.0.93     *       159.873                                        ***                                                                                                     
+├  100.99.1.85     *       159.797                                        ***                                                                                                     
+├  100.99.0.132    *       160.064                                        ***                                                                                                     
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 193.17.192.255  34019   159.481             (Paris, Île-de-France, FR, EU) et-202-0-48-er01-std.bb.hivane.net                                                                  
+   193.164.153.192 34019   159.508                       (None, None, FR, EU) ae0-486-rt2-th2.bb.hivane.net                                                                       
+   193.200.43.85   34019   159.493             (Paris, Île-de-France, FR, EU) gw-grifon-th2.bb.hivane.net                                                                         
+   89.234.186.144  204092  167.255             (Paris, Île-de-France, FR, EU) enp1s0.201.asbr03.grifon.fr                                                                         
+   89.234.186.42   204092  167.381                 (Rennes, Brittany, FR, EU) hv03.cogent-rns.bb.grifon.fr                                                                        
+   80.67.190.218   204092  167.523                 (Rennes, Brittany, FR, EU) ripe-anchor.grifon.fr                                                                               

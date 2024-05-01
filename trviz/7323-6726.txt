@@ -1,0 +1,20 @@
+╭─ 139.99.78.22    16276   0.0                 (Singapore, Singapore, SG, AS) sg-sin-as16276.anchors.atlas.ripe.net                                                               
+S (16276, 4826)  asia-pacific-gateway-apg ✓ || eac-c2c ✓ || apcn-2 ✓ || seamewe-3 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  10.29.210.254   *       0.444                                          ***                                                                                                     
+├  10.29.192.54    *       0.378                                          ***                                                                                                     
+├  10.29.135.100   *       0.789                                          ***                                                                                                     
+├  10.133.65.52    *       1.07                                           ***                                                                                                     
+├  10.75.0.74      *       0.728                                          ***                                                                                                     
+├  10.75.248.14    *       1.073                                          ***                                                                                                     
+├  ***             *       -inf                                           *** *                                                                                                   
+├  10.200.0.196    *       1.429                                          ***                                                                                                     
+├─ 27.111.228.74   4826    93.446                    (Seogwipo, None, KR, AS) 4826.sgw.equinix.com                                                                                
+S (4826)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 103.1.77.0      4826    91.109                        (None, None, AU, OC) be200.lsr01.brdg.nsw.vocus.network                                                                  
+   103.1.76.144    4826    90.532                        (None, None, AU, OC) be803.lsr01.brdg.nsw.vocus.network                                                                  
+   ***             *       -inf                                           *** *                                                                                                   
+   114.31.192.105  4826    89.753           (Sydney, New South Wales, AU, OC) be2.bdr02.syd11.nsw.vocus.network                                                                   
+   114.31.201.91   4826    89.407           (Sydney, New South Wales, AU, OC) 91.201.31.114.core.vocus.network                                                                    

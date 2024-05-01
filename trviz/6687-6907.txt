@@ -1,0 +1,22 @@
+   103.153.176.122 131657  0.0                       (Taipei, Taiwan, TW, AS) 103-153-176-122.as131657.net                                                                        
+   103.153.176.254 131657  0.395                     (Taipei, Taiwan, TW, AS) 103-153-176-254.as131657.net                                                                        
+╭─ 103.51.91.5     *       0.633                     (Taipei, Taiwan, TW, AS) et-0-0-1.cr1.hd.tpe.as131657.net                                                                    
+S (, 174)  seamewe-3 ✘ || apcn-2 ✘ || trans-pacific-express-tpe-cable-system ✘ || eac-c2c ✘ || faster ✘ || asia-pacific-gateway-apg ✘ || flag-north-asia-loopreach-north-asia-loop ✘ || new-cross-pacific-ncp-cable-system ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 66.28.4.233     174     30.751                      (Tokyo, Tokyo, JP, AS) be2012.ccr71.tyo01.atlas.cogentco.com                                                               
+S (174)  korea-japan-cable-network-kjcn ✓ || seamewe-3 ✓ || apcn-2 ✓ || eac-c2c ✘ || asia-pacific-gateway-apg ✓ || flag-north-asia-loopreach-north-asia-loop ✓ || new-cross-pacific-ncp-cable-system © || flag-europe-asia-fea © || trans-pacific-express-tpe-cable-system ✓
+╰─ 154.54.89.198   174     91.255                      (Seoul, Seoul, KR, AS) be3010.ccr71.sel01.atlas.cogentco.com                                                               
+╭─ 154.54.93.182   174     95.31                       (Seoul, Seoul, KR, AS) be4409.ccr72.sel01.atlas.cogentco.com                                                               
+S (174)  
+╰─ 154.54.30.206   174     91.166                   (Hong Kong, None, HK, AS) be2223.ccr21.hkg02.atlas.cogentco.com                                                               
+   154.54.88.50    174     96.255                   (Hong Kong, None, HK, AS) be2414.rcr51.hkg01.atlas.cogentco.com                                                               
+   154.54.140.14   15133   95.85                    (Hong Kong, None, HK, AS) edgecast.hkg01.atlas.cogentco.com                                                                   
+╭─ 195.2.20.230    1273    282.254             (Hong Kong, Hong Kong, HK, AS) ae5-xcr1.hkg.cw.net                                                                                 
+S (1273)  
+╰─ 195.2.10.178    1273    282.2                         (None, None, GB, EU) ae51-xcr1.sng.cw.net                                                                                
+   195.2.2.57      1273    273.929                       (None, None, GB, EU) ae34-xcr1.mrx.cw.net                                                                                
+╭─ 195.2.27.157    1273    282.224                       (None, None, GB, EU) ae6-xcr1.bsb.cw.net                                                                                 
+S&T (1273, 12430)  
+╰─ 195.89.97.98    12430   282.279                       (None, None, ES, EU) vfspain-barcelona-gw.bsb.cw.net                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   147.84.200.125  39069   295.614                   (Murcia, Murcia, ES, EU)                                                                                                     

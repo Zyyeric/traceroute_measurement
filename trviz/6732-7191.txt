@@ -1,0 +1,25 @@
+   117.20.118.21   45498   0.0               (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     
+   117.20.118.17   45498   2.108             (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     
+   27.109.113.21   45498   1.253             (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     
+   27.109.113.7    45498   1.296                     (Phnom Penh, 12, KH, AS) *                                                                                                   
+   27.109.113.4    45498   1.141             (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     
+   172.16.100.137  *       1.741                                          ***                                                                                                     
+   172.16.16.2     *       1.553                                          ***                                                                                                     
+╭─ 184.105.81.38   6939    38.925                     (Phnom Penh, 8, KH, AS) 100ge0-36.core1.pnh1.he.net                                                                         
+S (6939)  
+├─ 184.104.198.86  6939    36.841                       (Bangkok, 10, TH, AS) port-channel3.core1.bkk1.he.net                                                                     
+S&T (6939)  
+├─ 184.104.197.102 6939    38.835                  (Kuala Lumpur, 14, MY, AS) ve955.core1.kul1.he.net                                                                             
+S&T (6939)  
+├─ 184.105.223.133 6939    39.33               (Singapore, Singapore, SG, AS) port-channel22.core2.sin1.he.net                                                                    
+S (6939, )  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 193.242.98.19   *       189.316             (Barcelona, Catalonia, ES, EU) rediris.01.catnix.net                                                                               
+   130.206.245.21  766     195.411                       (None, None, ES, EU) unizar.rt2.ethtrunk4.ehu.rt2.pav.red.rediris.es                                                     
+   130.206.245.17  766     196.925                       (None, None, ES, EU) EHU.RT2.ETHTRUNK2.telmad.rt1.mad.red.rediris.es                                                     
+   130.206.216.2   766     196.57                        (None, None, ES, EU) redimadrid-backup-router.red.rediris.es                                                             
+   193.145.15.50   766     198.109                       (None, None, ES, EU) uc3m-rt-ju-01-xe-0-1-0.net.redimadrid.es                                                            
+   ***             *       -inf                                           *** *                                                                                                   
+   163.117.49.4    766     197.433                       (Madrid, MD, ES, EU) b01014zr.uc3m.es                                                                                    
+   163.117.253.5   766     198.898                   (Madrid, Madrid, ES, EU)                                                                                                     

@@ -1,0 +1,14 @@
+   103.153.176.122 131657  0.0                       (Taipei, Taiwan, TW, AS) 103-153-176-122.as131657.net                                                                        
+   103.153.176.254 131657  0.283                     (Taipei, Taiwan, TW, AS) 103-153-176-254.as131657.net                                                                        
+╭─ 103.51.91.5     *       0.437                     (Taipei, Taiwan, TW, AS) et-0-0-1.cr1.hd.tpe.as131657.net                                                                    
+S (, 15802)  eac-c2c ✘ || seamewe-3 ✘ || apcn-2 ✘ || trans-pacific-express-tpe-cable-system ✘ || asia-pacific-gateway-apg ✘ || new-cross-pacific-ncp-cable-system ✘ || flag-north-asia-loopreach-north-asia-loop ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 27.111.228.108  15802   109.317                   (Seogwipo, None, KR, AS) 15802.sgw.equinix.com                                                                               
+S (15802)  seamewe-3 ✓ || flag-europe-asia-fea ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 87.201.194.242  15802   313.182                        (Dubai, DU, AE, AS) *                                                                                                   

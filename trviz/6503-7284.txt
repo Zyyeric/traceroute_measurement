@@ -1,0 +1,15 @@
+   103.225.148.38  45701   0.0                     (Jakarta, Jakarta, ID, AS) ip-38-148-225-103.globalxtreme.net                                                                  
+   103.225.148.34  45701   0.248                   (Jakarta, Jakarta, ID, AS) ip-34-148-225-103.globalxtreme.net                                                                  
+   103.139.162.86  *       0.484                   (Jakarta, Jakarta, ID, AS) ip-86.162.hsp.net                                                                                   
+╭─ 103.139.162.228 147120  0.544                         (None, None, ID, AS) ip-228.162.hsp.net                                                                                  
+S&T (147120, 6939)  australia-singapore-cable-asc ✘ || matrix-cable-system ✘ || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || indonesia-global-gateway-igg-system ✓ || seamewe-3 ✘ || indigo-west ✓ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || jasuka ✓ || jakabare ✘
+├─ 184.105.223.134 6939    12.431              (Singapore, Singapore, SG, AS) port-channel1.core3.sin1.he.net                                                                     
+S (6939)  
+├─ 72.52.92.113    6939    61.82                       (New York, NY, US, NA) 100ge11-2.core1.nyc4.he.net                                                                         
+S (6939)  
+╰─ 184.105.65.222  6939    107.07           (Sydney, New South Wales, AU, OC) 100ge0-76.core1.syd1.he.net                                                                         
+   202.77.88.33    20473   104.453                      (Sydney, NSW, AU, OC) as20473.syd.edgeix.net.au                                                                           
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   45.76.126.106   20473   105.003          (Sydney, New South Wales, AU, OC) 45.76.126.106.vultrusercontent.com                                                                  

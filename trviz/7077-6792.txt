@@ -1,0 +1,25 @@
+   141.164.39.1    20473   0.0                      (Paripark, Seoul, KR, AS) 141.164.39.1.vultrusercontent.com                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   100.100.100.1   *       0.621                                          ***                                                                                                     
+   10.84.0.17      *       0.832                                          ***                                                                                                     
+   10.84.2.49      *       1.148                                          ***                                                                                                     
+   210.176.150.116 4637    1.483                       (Seoul, Seoul, KR, AS) unknown.telstraglobal.net                                                                           
+╭─ 202.84.149.101  4637    1.638                       (Seoul, Seoul, KR, AS)                                                                                                     
+S (4637)  asia-pacific-gateway-apg ✓ || flag-north-asia-loopreach-north-asia-loop 👍 || flag-europe-asia-fea ✓ || seamewe-3 👍 || eac-c2c 👍
+╰─ 202.84.141.253  4637    37.153    (Hong Kong, Central and Western, HK, AS) i-1088.hkth-core03.telstraglobal.net                                                                
+   202.84.153.26   4637    37.388    (Hong Kong, Central and Western, HK, AS)                                                                                                     
+╭─ 210.57.53.25    6453    39.172                        (None, None, HK, AS) unknown.telstraglobal.net                                                                           
+S (6453)  apcn-2 👍 || southeast-asia-japan-cable-sjc ✓ || seamewe-3 👍 || eac-c2c ✓ || asia-pacific-gateway-apg ✓ || tata-tgn-intra-asia-tgn-ia 👍 || asia-submarine-cable-express-asecahaya-malaysia ✓ || asia-america-gateway-aag-cable-system ✓
+╰─ 116.0.93.146    6453    256.559                       (None, None, SG, AS) *                                                                                                   
+╭─ 180.87.15.80    6453    261.475                       (None, None, SG, AS) *                                                                                                   
+S&T (6453)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 180.87.36.82    6453    256.255                      (Chennai, TN, IN, AS) if-ae-13-2.tcore1.cxr-chennai.as6453.net                                                            
+S&T (6453)  
+├─ 180.87.36.10    6453    259.741                  (Singapore, None, SG, AS) *                                                                                                   
+S&T (6453, 4755)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 115.114.12.186  4755    281.111                     (Delhi, Delhi, IN, AS) 115.114.12.186.static-delhi.vsnl.net.in                                                             
+   180.179.197.202 17439   282.102                       (None, None, IN, AS) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   216.48.178.84   132420  280.139             (Noida, Uttar Pradesh, IN, AS) e2e-95-84.ssdcloudindia.net                                                                         

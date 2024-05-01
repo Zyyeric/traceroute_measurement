@@ -1,0 +1,16 @@
+   180.211.88.22   45725   0.0                     (Jakarta, Jakarta, ID, AS) id-jkt-as45725.anchors.atlas.ripe.net                                                               
+   180.211.88.21   45725   0.471                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+   43.230.153.89   *       0.494                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+╭─ 111.92.161.4    55655   0.642                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+S (55655, 58511)  
+├  10.110.4.12     *       12.336                                         ***                                                                                                     
+├─ 27.111.229.175  58511   12.777                    (Seogwipo, None, KR, AS) 58511.sgw.equinix.com                                                                               
+S (58511, )  
+╰─ 103.30.216.60   *       115.413       (The Rocks, New South Wales, AU, OC) hu0-0-0-1.cor101.ndcp1.au.as58511.net                                                               
+   103.30.218.217  *       150.432         (Perth, Western Australia, AU, OC) hu0-0-0-31.cor102.ndcp1.au.as58511.net                                                              
+   103.30.216.42   *       115.671 (489.505)      (Perth, Western Australia, AU, OC) et-0-0-16.cor102.eqsy3.au.as58511.net                                                               
+   103.30.217.135  *       115.655          (Sydney, New South Wales, AU, OC) et-0-0-6.cor102.ndcb2.au.as58511.net                                                                
+   103.30.218.136  *       115.661             (Brisbane, Queensland, AU, OC) et-0-0-5.cor102.ndcb2.au.as58511.net                                                                
+   103.30.218.119  58511   114.886                       (None, None, AU, OC) et-0-0-1.bdr101.ndcb1.au.as58511.net                                                                
+   103.17.223.162  58511   116.448             (Brisbane, Queensland, AU, OC) ce.7005398.as132808.net.au.223.17.103.in-addr.arpa                                                  
+   103.133.238.187 132808  116.822             (Brisbane, Queensland, AU, OC) iptelco.com.au                                                                                      

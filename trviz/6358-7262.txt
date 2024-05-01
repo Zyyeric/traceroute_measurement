@@ -1,0 +1,37 @@
+   203.41.0.254    1221    0.0             (Perth, Western Australia, AU, OC) atlas-per.telstra.net                                                                               
+   203.41.0.253    1221    0.355           (Perth, Western Australia, AU, OC)                                                                                                     
+   138.217.126.78  1221    0.293           (Perth, Western Australia, AU, OC) tel4198820.lnk.telstra.net                                                                          
+   138.217.126.77  1221    1.039           (Perth, Western Australia, AU, OC) bundle-ether801-219.pie-edge903.perth.telstra.net                                                   
+   203.50.6.176    1221    1.314                          (Perth, WA, AU, OC) bundle-ether11.pie-core10.perth.telstra.net                                                         
+   203.50.6.234    1221    28.772                      (Adelaide, SA, AU, OC) bundle-ether3.way-core10.adelaide.telstra.net                                                       
+   203.50.6.231    1221    40.337                    (Melbourne, VIC, AU, OC) bundle-ether16.exi-core10.melbourne.telstra.net                                                     
+   203.50.13.124   1221    40.656               (Melbourne, Victoria, AU, OC) bundle-ether2.cla-core30.melbourne.telstra.net                                                      
+╭─ 203.50.13.132   1221    52.701           (Sydney, New South Wales, AU, OC) bundle-ether3.hay-core30.sydney.telstra.net                                                         
+S (1221, 4637)  seamewe-3 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 203.50.13.94    4637    190.428                       (None, None, HK, AS) *                                                                                                   
+╭─ 203.50.13.94    4637    190.428                       (None, None, HK, AS) *                                                                                                   
+S (4637)  
+╰─ 202.84.141.225  4637    224.918          (Los Angeles, California, US, NA) i-10604.1wlt-core02.telstraglobal.net                                                               
+   202.84.141.225  4637    224.918          (Los Angeles, California, US, NA) i-10604.1wlt-core02.telstraglobal.net                                                               
+   202.84.253.86   4637    224.7            (Los Angeles, California, US, NA) i-93.tlot02.bi.telstraglobal.net                                                                    
+   ***             *       -inf                                           *** *                                                                                                   
+   184.104.198.226 6939    288.465                (Ashburn, Virginia, US, NA) port-channel20.core3.ash1.he.net                                                                    
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 184.104.199.222 6939    256.285          (New York City, New York, US, NA) port-channel1.core2.nyc4.he.net                                                                     
+S (6939)  
+╰─ 184.104.192.133 6939    329.931                      (London, ENG, GB, EU) 100ge0-75.core3.lon2.he.net                                                                         
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 184.104.205.253 6939    329.631                  (London, England, GB, EU) mtn-globalconnect-solutions-ltd.port-channel7.core1.lon3.he.net                                     
+T (6939, 16637)  
+├─ 41.181.189.65   16637   378.208                     (Pretoria, GP, ZA, AF) *                                                                                                   
+T (16637)  
+╰─ 41.181.105.105  16637   377.933                  (London, England, GB, EU)                                                                                                     
+╭─ 41.181.244.176  16637   379.001                  (London, England, GB, EU)                                                                                                     
+T (16637, 20294)  
+├─ 41.181.247.39   20294   526.949                       (None, None, ZA, AF) *                                                                                                   
+LHL (20294)  
+╰─ 212.88.110.34   20294   526.959          (Kampala, Central Region, UG, AF)                                                                                                     
+   129.205.30.76   37063   526.789                       (Kampala, C, UG, AF) *                                                                                                   
+   41.191.77.206   328998  527.048                       (Kampala, C, UG, AF) *                                                                                                   
+   196.49.15.189   328998  528.156          (Kampala, Central Region, UG, AF)                                                                                                     

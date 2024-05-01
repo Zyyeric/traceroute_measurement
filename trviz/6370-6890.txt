@@ -1,0 +1,18 @@
+   192.102.254.220 395152  0.0          (Vancouver, British Columbia, CA, NA)                                                                                                     
+   192.102.254.3   395152  0.353        (Vancouver, British Columbia, CA, NA)                                                                                                     
+   216.251.158.70  14007   0.49         (Vancouver, British Columbia, CA, NA)                                                                                                     
+   216.251.132.72  14007   0.601        (Vancouver, British Columbia, CA, NA) edgea.skywaywest.net                                                                                
+╭─ 65.49.79.249    6939    2.425        (Vancouver, British Columbia, CA, NA) e0-12.switch3.yvr2.he.net                                                                           
+LHL (6939)  exa-north-and-south ✓ || exa-express ✓
+├─ 184.104.195.13  6939    1.293              (Frankfurt am Main, HE, DE, EU) 100ge4-2.core1.fra1.he.net                                                                          
+LHL (6939)  
+╰─ 184.104.196.221 6939    4.114                        (Seattle, WA, US, NA) port-channel3.core2.sea1.he.net                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 184.105.81.81   6939    23.106              (San Jose, California, US, NA) port-channel12.core4.sjc2.he.net                                                                    
+S (6939, )  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 203.190.230.227 *       130.169             (Motoyoyogichō, Tokyo, JP, AS)                                                                                                     
+   103.48.31.51    59105   130.165             (Motoyoyogichō, Tokyo, JP, AS) ge-2-1-8.pop03er03.bb.homenoc.ad.jp                                                                 
+   103.41.60.172   10010   130.943                     (Tokyo, Tokyo, JP, AS) koba-bgprt2.tokyo-ix.v4.open.ad.jp                                                                  
+   103.143.136.30  63781   132.599             (Motoyoyogichō, Tokyo, JP, AS) ospfrt1-bgprt2.kobayashi.ad.jp                                                                      
+   103.143.136.43  63781   130.926                     (Tokyo, Tokyo, JP, AS) koba-103-143-136-43.rev.kobayashi.ad.jp                                                             

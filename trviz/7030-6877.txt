@@ -1,0 +1,26 @@
+   45.87.76.6      208725  0.0           (Brussels, Brussels Capital, BE, EU) ansible.devrandom.be                                                                                
+   45.87.79.252    208725  0.233         (Brussels, Brussels Capital, BE, EU) router01.sw2.core.devrandom.be                                                                      
+   45.87.79.249    208725  0.127         (Brussels, Brussels Capital, BE, EU) router03.core.devrandom.be                                                                          
+   109.68.160.66   39923   0.225         (Brussels, Brussels Capital, BE, EU) xe-10-2-1.br20.zav.as39923.net                                                                      
+╭─ 213.246.245.217 8220    1.348                 (Nossegem, Flanders, BE, EU) pw-ether94.3030-lo0-sr2.bru.router.colt.net                                                         
+S&T (8220, )  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 80.249.214.204  *       4.481           (Amsterdam, North Holland, NL, EU)                                                                                                     
+╭─ 206.148.26.80   7578    4.781           (Amsterdam, North Holland, NL, EU)                                                                                                     
+S&T (7578)  ulysses-2 ✘ || zeus ✘ || circe-north ✘ || scylla ✘ || concerto ✘ || farland-north ✘
+╰─ 206.148.26.23   7578    7.803                    (London, England, GB, EU) e49.lon-eqxld8-bb6.globalsecurelayer.com                                                            
+╭─ 206.148.26.14   7578    7.578                    (London, England, GB, EU) e59.lon-thn-bb1.globalsecurelayer.com                                                               
+S (7578)  exa-north-and-south ✘ || atlantic-crossing-1-ac-1 ✘ || flag-atlantic-1-fa-1 ✘ || apollo ✘ || yellow ✘ || tata-tgn-atlantic ✘
+╰─ 206.148.26.7    7578    75.848           (New York City, New York, US, NA) e52.nyc-eqxny2-bb1.globalsecurelayer.com                                                            
+   206.148.25.42   7578    91.764                 (Chicago, Illinois, US, NA) e3.chi-eqxch1-bb1.globalsecurelayer.com                                                             
+   206.148.25.79   7578    134.944          (Los Angeles, California, US, NA) e52.lax-csla2-cr2.globalsecurelayer.com                                                             
+   206.148.25.91   7578    134.974          (Los Angeles, California, US, NA) e49.lax-csla2-bb1.globalsecurelayer.com                                                             
+╭─ 206.148.25.84   7578    225.529          (Los Angeles, California, US, NA) e50.ty-eqxty8-bb5.globalsecurelayer.com                                                             
+S (7578)  
+╰─ 206.148.24.51   7578    225.27           (Sydney, New South Wales, AU, OC) e30.ty-eqxty8-bb1.globalsecurelayer.com                                                             
+╭─ 206.148.24.66   7578    224.77           (Sydney, New South Wales, AU, OC) e51.sg-eqxsg3-bb1.globalsecurelayer.com                                                             
+S (7578)  
+╰─ 206.148.24.27   7578    224.717             (Singapore, Singapore, SG, AS) po1.sg-eqxsg3-cr2.globalsecurelayer.com                                                             
+╭─ 206.148.24.90   7578    254.942             (Singapore, Singapore, SG, AS) e51.hk-eqxhk1-bb3.globalsecurelayer.com                                                             
+S (7578, 57695)  
+╰─ 45.11.104.146   57695   237.611             (Hong Kong, Hong Kong, HK, AS) hk-hkg-as57695.anchors.atlas.ripe.net                                                               

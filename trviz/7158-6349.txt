@@ -1,0 +1,20 @@
+   200.132.1.32    2716    0.0       (Porto Alegre, Rio Grande do Sul, BR, SA) ripe.grupo-redes.inf.ufrgs.br                                                                       
+   200.132.1.2     2716    0.36           (Viamão, Rio Grande do Sul, BR, SA) gw-core1.colo.tche.br                                                                               
+   170.79.214.36   *       0.446          (Viamão, Rio Grande do Sul, BR, SA) crs1-poprs.bkb.rnp.br                                                                               
+   170.79.212.254  1916    11.013                        (None, None, BR, SA) cpr1-crs1-eltsul.bkb.rnp.br                                                                         
+   170.79.213.108  *       15.953              (São Paulo, São Paulo, BR, SA) csp2-cpr1-tlb.bkb.rnp.br                                                                            
+   170.79.213.2    1916    56.991                        (None, None, BR, SA) *                                                                                                   
+╭─ 170.79.213.47   *       123.113     (Belo Horizonte, Minas Gerais, BR, SA) mia2-cce2-monet.bkb.rnp.br                                                                          
+S (, 174)  
+╰─ 38.88.165.65    174     121.359                        (Miami, FL, US, NA) te0-1-0-5-4.ccr21.mia03.atlas.cogentco.com                                                          
+   154.54.88.233   174     121.075                   (Miami, Florida, US, NA) be3087.ccr22.mia01.atlas.cogentco.com                                                               
+   154.54.28.49    174     133.294                      (Atlanta, GA, US, NA) be3483.ccr42.atl01.atlas.cogentco.com                                                               
+   154.54.5.154    174     138.846                    (Charlotte, NC, US, NA) be2037.rcr21.clt01.atlas.cogentco.com                                                               
+   154.54.83.78    174     141.802             (Cary, North Carolina, US, NA) be2190.rcr71.rdu02.atlas.cogentco.com                                                               
+   154.24.36.186   174     145.964                   (Greensboro, NC, US, NA) be2924.rcr61.gso01.atlas.cogentco.com                                                               
+   154.24.71.93    174     151.211                     (Richmond, VA, US, NA) be2912.rcr01.ric01.atlas.cogentco.com                                                               
+   154.24.27.78    22845   151.503                     (Richmond, VA, US, NA) te0-0-2-3.nr11.b002102-0.ric01.atlas.cogentco.com                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   209.10.65.43    53907   151.321                (Ashburn, Virginia, US, NA)                                                                                                     
+   209.10.80.169   53907   151.506             (Glen Allen, Virginia, US, NA)                                                                                                     
+   23.152.192.245  53698   151.81                (Richmond, Virginia, US, NA) us-rcd-as53698-client.anchors.atlas.ripe.net                                                        

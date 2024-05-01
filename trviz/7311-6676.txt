@@ -1,0 +1,12 @@
+   203.175.175.206 24482   0.0                 (Singapore, Singapore, SG, AS)                                                                                                     
+   103.14.247.241  24482   0.521               (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 103.16.102.30   24482   0.658                     (Singapore, 1, SG, None) sggs.sgix.sg                                                                                        
+S (24482, )  asia-submarine-cable-express-asecahaya-malaysia ✓ || seamewe-3 ✓ || eac-c2c ✓ || apcn-2 ✓ || southeast-asia-japan-cable-sjc ✓ || asia-pacific-gateway-apg ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 203.190.230.40  *       67.492                      (Tokyo, Tokyo, JP, AS) 6939.tyo.equinix.com                                                                                
+S (, 6939)  tata-tgn-pacific ✘ || faster ✘ || japan-u-s-cable-network-jus ✘ || new-cross-pacific-ncp-cable-system ✘ || jupiter ✘ || trans-pacific-express-tpe-cable-system ✘ || unityeac-pacific ✘ || pacific-crossing-1-pc-1 ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.65.113  6939    173.484                     (San Jose, CA, US, NA) 100ge13-2.core1.sjc1.he.net                                                                         
+   64.71.166.231   6939    233.133             (San Jose, California, US, NA) macarne-llc.e0-1.switch1.snt3.he.net                                                                
+   10.10.10.1      *       233.116                                        ***                                                                                                     
+   23.155.72.145   64289   233.278          (Santa Clara, California, US, NA)                                                                                                     

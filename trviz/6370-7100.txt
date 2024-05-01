@@ -1,0 +1,25 @@
+   185.239.193.37  39484   0.0                   (Tampere, Pirkanmaa, FI, EU) fi-tmp-as39484.anchors.atlas.ripe.net                                                               
+   185.239.193.33  39484   0.917                 (Tampere, Pirkanmaa, FI, EU) her0-rtr1.poasnet.fi                                                                                
+   193.167.244.180 1741    0.423                 (Tampere, Pirkanmaa, FI, EU) tampere1-et-0-1-5-666.ip.funet.fi                                                                   
+   86.50.255.220   1741    3.11             (Hämeenlinna, Kanta-Häme, FI, EU) hameenlinna2.ip.funet.fi                                                                            
+   86.50.255.224   1741    2.87             (Hämeenlinna, Kanta-Häme, FI, EU) hameenlinna1.ip.funet.fi                                                                            
+   86.50.255.223   1741    2.983                     (Espoo, Uusimaa, FI, EU) espoo2.ip.funet.fi                                                                                  
+╭─ 86.50.255.232   1741    2.81                           (Espoo, 18, FI, EU) espoo1.ip.funet.fi                                                                                  
+LHL (1741, 2603)  
+├─ 109.105.102.168 2603    2.972                         (None, None, DK, EU) fi-csc2.nordu.net                                                                                   
+T (2603)  
+╰─ 109.105.97.77   2603    18.401                       (Hamburg, HH, DE, EU) de-hmb.nordu.net                                                                                    
+╭─ 109.105.97.105  2603    26.893             (Frankfurt am Main, HE, DE, EU) de-ffm.nordu.net                                                                                    
+T (2603)  
+├─ 109.105.97.78   2603    33.484                      (Hexton, None, GB, EU) uk-hex.nordu.net                                                                                    
+S&T (2603)  
+├─ 109.105.97.241  2603    229.907                       (None, None, DK, EU) hk-chw.nordu.net                                                                                    
+LHL (2603, 7713)  
+├─ 123.255.90.195  7713    321.839                 (Hong Kong, HCW, HK, None) telin1-100g.hkix.net                                                                                
+S (7713)  
+╰─ 180.240.190.150 7713    302.693                       (None, None, ID, AS) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   36.64.254.21    7713    319.567       (Gubengairlangga, East Java, ID, AS)                                                                                                     
+   36.64.254.22    7713    339.567                   (Denpasar, Bali, ID, AS)                                                                                                     
+   103.215.228.2   140443  319.314              (Surabaya, East Java, ID, AS) 2.228.215.103.in-addr.herza.id                                                                      
+   103.215.229.229 140443  319.552              (Surabaya, East Java, ID, AS) 229.229.215.103.in-addr.herza.id                                                                    

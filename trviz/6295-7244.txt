@@ -1,0 +1,15 @@
+   146.255.64.30   34547   0.0                  (Skopje, Grad Skopje, MK, EU)                                                                                                     
+   146.255.64.29   34547   0.918              (Krušopek, Grad Skopje, MK, EU)                                                                                                     
+╭─ 184.104.231.214 6939    1.356              (Krušopek, Grad Skopje, MK, EU) e0-2.core1.skp1.he.net                                                                              
+T (6939)  
+╰─ 184.104.194.202 6939    1.283 (4.633)          (Sofia, Sofia-Capital, BG, EU) 100ge0-65.core3.sof1.he.net                                                                         
+╭─ 184.104.191.102 6939    37.6                (Sofia, Sofia-Capital, BG, EU) seabone-net-as6762.e0-73.core3.sof1.he.net                                                          
+LHL (6939, 6762)  
+├─ 93.186.129.191  6762    37.811                       (Cascais, 11, PT, EU) ae7.catania7.cat.seabone.net                                                                        
+S&T (6762, 42313)  
+├─ 93.186.129.227  42313   28.979                         (Milan, 25, IT, EU) albanian-telecom.catania7.cat.seabone.net                                                           
+S&T (42313, 42409)  
+├  10.1.8.18       *       29.173                                         ***                                                                                                     
+╰─ 217.24.245.22   42409   29.757                        (None, None, AL, EU) *                                                                                                   
+   194.1.149.250   42409   31.692                        (None, None, AL, EU) *                                                                                                   
+   194.1.149.210   42409   32.638                    (Tirana, Tirana, AL, EU)                                                                                                     

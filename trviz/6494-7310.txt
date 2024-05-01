@@ -1,0 +1,17 @@
+   38.47.189.189   140443  0.0           (Kuala Lumpur, Kuala Lumpur, MY, AS)                                                                                                     
+   38.47.189.1     140443  0.365         (Kuala Lumpur, Kuala Lumpur, MY, AS)                                                                                                     
+╭─ 38.47.188.2     140443  0.406         (Kuala Lumpur, Kuala Lumpur, MY, AS)                                                                                                     
+S (140443, 35280)  
+├  10.111.220.145  *       0.399 (6.431)                                     ***                                                                                                     
+├─ 27.111.229.245  35280   6.586                     (Seogwipo, None, KR, AS) 35280.sgw.equinix.com                                                                               
+S (35280, 34019)  
+├  100.99.0.93     *       165.775                                        ***                                                                                                     
+├  100.99.1.85     *       165.829                                        ***                                                                                                     
+├  100.99.0.132    *       165.895                                        ***                                                                                                     
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 193.17.192.255  34019   165.567             (Paris, Île-de-France, FR, EU) et-202-0-48-er01-std.bb.hivane.net                                                                  
+   193.164.153.192 34019   165.454                       (None, None, FR, EU) ae0-486-rt2-th2.bb.hivane.net                                                                       
+   193.200.43.85   34019   165.398             (Paris, Île-de-France, FR, EU) gw-grifon-th2.bb.hivane.net                                                                         
+   89.234.186.144  204092  173.147             (Paris, Île-de-France, FR, EU) enp1s0.201.asbr03.grifon.fr                                                                         
+   89.234.186.42   204092  173.248                 (Rennes, Brittany, FR, EU) hv03.cogent-rns.bb.grifon.fr                                                                        
+   80.67.190.218   204092  173.479                 (Rennes, Brittany, FR, EU) ripe-anchor.grifon.fr                                                                               

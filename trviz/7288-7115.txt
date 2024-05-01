@@ -1,0 +1,15 @@
+   123.176.1.4     7642    0.0                    (Male, Kaafu Atoll, MV, AS)                                                                                                     
+╭─ 123.176.1.2     7642    0.584                  (Male, Kaafu Atoll, MV, AS)                                                                                                     
+S (7642)  
+├─ 202.1.205.241   7642    0.861                       (Singapore, 4, SG, AS) xe-1-0-0-0.rt.dhivehinet.net.mv                                                                     
+S (7642, 7713)  
+├─ 27.111.228.77   7713    45.466                    (Seogwipo, None, KR, AS) 7713.sgw.equinix.com                                                                                
+S (7713)  
+╰─ 180.240.204.9   7713    43.955              (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 180.240.204.9   7713    43.955              (Singapore, Singapore, SG, AS)                                                                                                     
+S&T (7713)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 36.64.254.21    7713    61.791        (Gubengairlangga, East Java, ID, AS)                                                                                                     
+   36.64.254.22    7713    61.538                    (Denpasar, Bali, ID, AS)                                                                                                     
+   103.215.228.2   140443  64.024               (Surabaya, East Java, ID, AS) 2.228.215.103.in-addr.herza.id                                                                      
+   103.215.229.229 140443  63.946               (Surabaya, East Java, ID, AS) 229.229.215.103.in-addr.herza.id                                                                    

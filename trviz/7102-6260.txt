@@ -1,0 +1,37 @@
+   185.39.208.23   199993  0.0                       (Lisbon, Lisbon, PT, EU) atlasancora01.wan.dns.pt                                                                            
+   185.39.208.60   199993  0.729                     (Lisbon, Lisbon, PT, EU)                                                                                                     
+   194.210.4.137   1930    1.354                     (Lisbon, Lisbon, PT, EU) router63.lisboa.fccn.pt                                                                             
+   194.210.6.112   1930    1.183                     (Lisbon, Lisbon, PT, EU) router30.lisboa.fccn.pt                                                                             
+   194.210.6.103   1930    1.409                     (Lisbon, Lisbon, PT, EU) router3.lisboa.fccn.pt                                                                              
+   194.210.6.102   1930    9.19                          (Lisbon, 11, PT, EU) Router30.Lisboa.fccn.pt                                                                             
+   193.136.1.9     1930    7.269                       (Porto, Porto, PT, EU) router20.porto.fccn.pt                                                                              
+   194.210.7.103   1930    7.542                          (Porto, 13, PT, EU) Router2.Porto.fccn.pt                                                                               
+╭─ 83.97.88.44     21320   7.189                     (Lisbon, Lisbon, PT, EU) fccn-ias-geant-gw.rt1.por.pt.geant.net                                                              
+S&T (21320, 20965)  
+├─ 62.40.98.220    20965   36.937                      (Bilbao, None, ES, EU) ae2.rt1.bil.es.geant.net                                                                            
+S&T (20965)  
+├─ 62.40.98.223    20965   36.824                        (Paris, IDF, FR, EU) ae4.mx1.par.fr.geant.net                                                                            
+S&T (20965)  
+├─ 62.40.98.106    20965   36.793                        (Lisbon, 11, PT, EU) ae0.mx2.lis.pt.geant.net                                                                            
+S&T (20965)  
+├─ 62.40.98.64     20965   35.589                   (London, England, GB, EU) ae2.mx1.lon.uk.geant.net                                                                            
+S (20965, 6461)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 64.125.29.114   6461    39.932                        (None, None, US, NA) cs1.lhr15.uk.zip.zayo.com.29.125.64.in-addr.arpa                                                    
+S (6461)  
+├─ 64.125.29.129   6461    39.452                       (London, ENG, GB, EU) ae1.mcs1.lhr15.uk.eth.zayo.com                                                                      
+S (6461, 4637)  
+├─ 82.98.196.161   4637    50.781                        (None, None, HK, AS) 82.98.196.161.IPYX-284545-900-ZYO.zip.zayo.com                                                      
+S (4637)  
+╰─ 202.84.178.37   4637    52.102                   (London, England, GB, EU) i-1107.ulhc-core03.telstraglobal.net                                                                
+╭─ 202.84.178.9    4637    48.608                   (London, England, GB, EU) i-1003.ulcn-core01.telstraglobal.net                                                                
+S (4637)  
+╰─ 202.84.140.141  4637    287.873             (Singapore, Singapore, SG, AS) i-1000.sgcn-core01.telstraglobal.net                                                                
+   202.84.140.141  4637    287.873             (Singapore, Singapore, SG, AS) i-1000.sgcn-core01.telstraglobal.net                                                                
+╭─ 202.84.219.173  4637    282.608             (Singapore, Singapore, SG, AS) i-92.sggs01.telstraglobal.net                                                                       
+S (4637, 55569)  
+├─ 128.241.10.117  55569   206.399                       (None, None, US, NA) ce-1-1-3.a02.sngpsi07.sg.ce.gin.ntt.net                                                             
+S (55569)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 182.161.73.67   55569   205.009             (Singapore, Singapore, SG, AS)                                                                                                     
+   182.161.73.41   55569   207.375             (Singapore, Singapore, SG, AS)                                                                                                     

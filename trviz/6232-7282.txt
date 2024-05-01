@@ -1,0 +1,36 @@
+   80.247.237.225  15826   0.0       (Ramonville-Saint-Agne, Occitanie, FR, EU) ancre-atlas.nfrance.com                                                                             
+   80.247.237.238  15826   0.419                (Toulouse, Occitanie, FR, EU)                                                                                                     
+   192.168.1.248   *       0.791                                          ***                                                                                                     
+   213.152.16.77   8218    0.938                (Toulouse, Occitanie, FR, EU) vl104.xe-150-0-38.ter1.batl.tls.core.as8218.eu                                                      
+   83.167.55.237   8218    1.55                 (Toulouse, Occitanie, FR, EU) ae0.tcr2.bal.tls.core.as8218.eu                                                                     
+   83.167.56.246   8218    4.71                 (Toulouse, Occitanie, FR, EU) ae3.ter2.neodc.mpl.core.as8218.eu                                                                   
+   83.167.55.234   8218    3.507 (5.224)           (Toulouse, Occitanie, FR, EU) ae4.ter1.neodc.mpl.core.as8218.eu                                                                   
+   83.167.56.138   8218    7.063     (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) ae8.tcr1.itx.mrs.core.as8218.eu                                                                     
+   83.167.55.207   8218    11.351                    (Lyon/Bron, ARA, FR, EU) ae9.tcr2.sfr.lyn.core.as8218.eu                                                                     
+╭─ 83.167.55.98    8218    17.477                        (Paris, IDF, FR, EU) ae8.ter3.eqx2.par.core.as8218.eu                                                                    
+T (8218, )  
+├─ 193.239.117.133 *       26.205          (Amsterdam, North Holland, NL, EU) gsl.nikhef.nl-ix.net                                                                                
+T (, 7578)  
+├─ 206.148.26.66   7578    34.695              (Paris, Île-de-France, FR, EU) e21.par-eqxpa3-cr1.globalsecurelayer.com                                                            
+S (7578)  
+╰─ 206.148.26.57   7578    108.743                (Ashburn, Virginia, US, NA) e56.ash-eqxdc10-bb3.globalsecurelayer.com                                                           
+   206.148.25.48   7578    122.531              (East Point, Georgia, US, NA) e52.atl-drtatl1-bb1.globalsecurelayer.com                                                           
+   206.148.25.24   7578    137.059           (University Park, Texas, US, NA) e51.dal-eqxda11-bb1.globalsecurelayer.com                                                           
+   206.148.25.23   7578    160.293                 (Phoenix, Arizona, US, NA) e50.phx-pnap-bb1.globalsecurelayer.com                                                              
+   206.148.25.19   7578    159.766          (Los Angeles, California, US, NA) e51.lax-csla2-bb1.globalsecurelayer.com                                                             
+╭─ 206.148.25.84   7578    257.246          (Los Angeles, California, US, NA) e50.ty-eqxty8-bb5.globalsecurelayer.com                                                             
+S (7578)  
+╰─ 206.148.24.51   7578    257.176          (Sydney, New South Wales, AU, OC) e30.ty-eqxty8-bb1.globalsecurelayer.com                                                             
+╭─ 206.148.24.66   7578    323.803          (Sydney, New South Wales, AU, OC) e51.sg-eqxsg3-bb1.globalsecurelayer.com                                                             
+S (7578)  
+╰─ 31.217.251.74   7578    324.1               (Singapore, Singapore, SG, AS) unknown.globalsecurelayer.com                                                                       
+╭─ 160.202.164.165 137409  260.211             (Singapore, Singapore, SG, AS)                                                                                                     
+S (137409, 8529)  
+╰─ 213.202.6.198   8529    261.442                   (Muscat, Muscat, OM, AS)                                                                                                     
+╭─ 213.202.1.189   8529    269.442                   (Muscat, Muscat, OM, AS)                                                                                                     
+S&T (8529, 42961)  
+├─ 151.248.98.137  42961   270.2                         (None, None, BH, AS) *                                                                                                   
+S (42961)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 212.43.17.42    42961   265.963     (Al Farwānīyah, Al Farwaniyah, KW, AS)                                                                                                     

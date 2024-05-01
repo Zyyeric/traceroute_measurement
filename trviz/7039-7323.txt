@@ -1,0 +1,24 @@
+   114.31.201.91   4826    0.0              (Sydney, New South Wales, AU, OC) 91.201.31.114.core.vocus.network                                                                    
+   114.31.201.90   4826    0.783            (Sydney, New South Wales, AU, OC) 90.201.31.114.core.vocus.network                                                                    
+   ***             *       -inf                                           *** *                                                                                                   
+   103.1.77.38     *       92.108           (Sydney, New South Wales, AU, OC) be203.lsr01.brdg.nsw.vocus.network                                                                  
+   103.1.76.145    4826    92.619                        (None, None, AU, OC) be803.lsr01.stpk.wa.vocus.network                                                                   
+╭─ 103.1.77.97     4826    92.344                        (None, None, AU, OC) be200.cor03.per02.wa.vocus.network                                                                  
+S (4826)  
+╰─ 114.31.206.51   4826    91.874                      (Singapore, 4, SG, AS) be201.bdr01.sin01.sin.vocus.network                                                                 
+   80.81.65.217    15412   92.02                       (Singapore, 4, SG, AS) *                                                                                                   
+╭─ 62.216.137.165  15412   93.424                      (Singapore, 4, SG, AS) ae18.0.cjr01.sin001.flagtel.com                                                                     
+S (15412, 137409)  
+├─ 27.111.229.213  137409  91.858                    (Seogwipo, None, KR, AS) 137409.sgw.equinix.com                                                                              
+S (137409, 7578)  
+╰─ 206.148.24.79   7578    92.22               (Singapore, Singapore, SG, AS) po4.sg-eqxsg3-cr2.globalsecurelayer.com                                                             
+╭─ 206.148.24.26   7578    92.355              (Singapore, Singapore, SG, AS) po1.sg-eqxsg3-bb1.globalsecurelayer.com                                                             
+S (7578)  
+├─ 206.148.24.67   7578    159.234          (Sydney, New South Wales, AU, OC) e2.ty-eqxty8-bb1.globalsecurelayer.com                                                              
+S (7578)  
+╰─ 206.148.24.34   7578    158.456                     (Tokyo, Tokyo, JP, AS) po50-2.ty-eqxty8-cr2.globalsecurelayer.com                                                          
+   206.148.24.35   7578    158.655                     (Tokyo, Tokyo, JP, AS) po10-2.ty-eqxty8-sw4.globalsecurelayer.com                                                          
+   45.11.107.52    969     169.942                     (Tokyo, Tokyo, JP, AS) e52-1-gsl.cr1a.eqty8.nrt4.jp.917.as                                                                 
+   199.119.64.137  969     169.416                     (Tokyo, Tokyo, JP, AS) e31-10.spine1.nrt04.jp.misaka.io                                                                    
+   103.170.232.11  142616  169.34                      (Tokyo, Tokyo, JP, AS) po-31.lag.nrt04.jp.misaka.io                                                                        
+   103.170.232.152 142616  169.416                     (Tokyo, Tokyo, JP, AS) user-103-170-232-152.nrt04.jp.misaka.io                                                             

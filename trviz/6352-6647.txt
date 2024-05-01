@@ -1,0 +1,18 @@
+   5.62.127.14     199610  0.0                      (London, England, GB, EU)                                                                                                     
+╭─ 5.62.127.1      199610  0.381                    (London, England, GB, EU)                                                                                                     
+T (199610)  
+├─ 46.251.228.201  199610  1.856       (Köln, North Rhine-Westphalia, DE, EU)                                                                                                     
+T (199610, 21320)  
+├  169.254.0.82    *       2.044                                          ***                                                                                                     
+├─ 195.66.226.161  21320   2.188                      (London, ENG, GB, None) linx.ix.geant.net                                                                                   
+S&T (21320, 20965)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 62.40.98.222    20965   20.476                      (Bilbao, None, ES, EU) ae4.rt1.bil.es.geant.net                                                                            
+S&T (20965, 21320)  
+├─ 83.97.90.19     21320   20.655                   (London, England, GB, EU) rediris-ias-geant.bil.es.geant.net                                                                  
+S&T (21320, 766)  
+╰─ 130.206.245.5   766     32.18                         (None, None, ES, EU) ehu.rt2.ethtrunk5.ciemat.rt2.mad.red.rediris.es                                                     
+   130.206.245.2   766     32.307                        (None, None, ES, EU) ciemat.rt2.ae1-0.telmad.rt4.mad.red.rediris.es                                                      
+   130.206.214.98  13041   41.328                        (None, None, ES, EU) anella-router.red.rediris.es                                                                        
+   84.88.18.254    13041   40.847              (Barcelona, Catalonia, ES, EU) anchor-anella.cesca.cat                                                                             

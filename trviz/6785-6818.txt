@@ -1,0 +1,17 @@
+   63.222.40.114   3491    0.0                       (Taipei, Taiwan, TW, AS) ncic.te0-1-0-23.br01.tap04.as3491.net                                                               
+╭─ 63.222.40.113   3491    0.982                      (Neihu, Taiwan, TW, AS) te0-1-0-23.br01.tap04.as3491.net                                                                    
+S (3491)  seamewe-3 👍 || eac-c2c ✓ || apcn-2 👍 || flag-north-asia-loopreach-north-asia-loop 👍 || asia-pacific-gateway-apg ✓
+╰─ 63.218.210.86   3491    80.094                   (Hong Kong, None, HK, AS) HundredGE0-0-0-0.br05.hkg15.pccwbtn.net                                                             
+╭─ 180.87.169.10   6453    80.471                   (Hong Kong, None, HK, AS) ix-be-6.ecore1.hk2-hongkong.as6453.net                                                              
+S (6453)  asia-africa-europe-1-aae-1 ✓ || flag-europe-asia-fea ✓ || seamewe-3 👍
+├─ 180.87.168.6    6453    194.445                       (None, None, IN, AS) *                                                                                                   
+S&T (6453)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 180.87.12.1     6453    177.159                  (Singapore, None, SG, AS) if-ae-2-2.tcore1.svw-singapore.as6453.net                                                           
+S&T (6453)  
+╰─ 180.87.36.82    6453    174.326                      (Chennai, TN, IN, AS) if-ae-13-2.tcore1.cxr-chennai.as6453.net                                                            
+╭─ 180.87.36.1     58717   173.705                      (Kolkata, WB, IN, AS) if-be-10-2.ecore2.klk-kolkata.as6453.net                                                            
+S (58717)  
+╰─ 157.119.185.169 58717   187.901                         (Dhaka, C, BD, AS) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   103.15.246.16   58717   188.589                     (Dhaka, Dhaka, BD, AS)                                                                                                     

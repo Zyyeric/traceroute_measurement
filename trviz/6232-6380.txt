@@ -1,0 +1,36 @@
+   196.49.14.25    30997   0.0                 (Accra, Greater Accra, GH, AF)                                                                                                     
+   196.49.14.1     30997   0.379               (Accra, Greater Accra, GH, AF)                                                                                                     
+╭─ 197.221.70.89   *       0.948               (Accra, Greater Accra, GH, AF)                                                                                                     
+S&T (, 3741)  
+╰─ 196.14.240.4    3741    0.901                         (None, None, ZA, AF) *                                                                                                   
+╭─ 168.209.160.109 3741    255.807                       (None, None, ZA, AF) *                                                                                                   
+T (3741)  
+╰─ 168.209.160.108 3741    258.095                  (London, England, GB, EU)                                                                                                     
+╭─ 168.209.246.3   3741    257.854                     (London, None, GB, EU) core2b-dock-be-1.ip.ddii.network                                                                    
+T (3741)  
+├─ 168.209.246.65  3741    257.944                       (None, None, ZA, AF) core1b-dock-be-2.ip.ddii.network                                                                    
+T (3741, 6461)  
+╰─ 195.66.224.76   6461    255.561                      (London, ENG, GB, EU) ae15.mpr1.lhr15.uk.above.net                                                                        
+   94.31.33.31     6461    255.719                  (London, England, GB, EU) 94.31.33.31.idia-288174-013-zyo.zip.zayo.com                                                        
+╭─ 206.148.26.8    7578    192.925                  (Poplar, England, GB, EU) po10.lon-thn-bb1.globalsecurelayer.com                                                              
+S (7578)  
+╰─ 206.148.26.7    7578    258.869          (New York City, New York, US, NA) e52.nyc-eqxny2-bb1.globalsecurelayer.com                                                            
+   206.148.25.42   7578    274.743                (Chicago, Illinois, US, NA) e3.chi-eqxch1-bb1.globalsecurelayer.com                                                             
+   206.148.25.0    7578    315.96           (Los Angeles, California, US, NA) e50.lax-csla2-bb1.globalsecurelayer.com                                                             
+   206.148.25.91   7578    315.875          (Los Angeles, California, US, NA) e49.lax-csla2-bb1.globalsecurelayer.com                                                             
+╭─ 206.148.25.84   7578    412.761          (Los Angeles, California, US, NA) e50.ty-eqxty8-bb5.globalsecurelayer.com                                                             
+S (7578)  
+╰─ 206.148.24.51   7578    413.446          (Sydney, New South Wales, AU, OC) e30.ty-eqxty8-bb1.globalsecurelayer.com                                                             
+╭─ 206.148.24.66   7578    480.109          (Sydney, New South Wales, AU, OC) e51.sg-eqxsg3-bb1.globalsecurelayer.com                                                             
+S (7578)  
+╰─ 31.217.251.74   7578    479.485             (Singapore, Singapore, SG, AS) unknown.globalsecurelayer.com                                                                       
+╭─ 160.202.164.165 137409  396.529             (Singapore, Singapore, SG, AS)                                                                                                     
+S (137409, 8529)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 213.202.1.189   8529    424.957                   (Muscat, Muscat, OM, AS)                                                                                                     
+S&T (8529, 42961)  
+├─ 151.248.98.137  42961   427.15                        (None, None, BH, AS) *                                                                                                   
+S (42961)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 212.43.17.42    42961   426.818     (Al Farwānīyah, Al Farwaniyah, KW, AS)                                                                                                     

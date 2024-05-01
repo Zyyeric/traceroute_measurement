@@ -1,0 +1,12 @@
+   45.183.45.23    64116   0.0                  (Lima, Lima Province, PE, SA)                                                                                                     
+   45.183.45.1     64116   1.063                (Lima, Lima Province, PE, SA)                                                                                                     
+   10.7.11.129     *       1.764                                          ***                                                                                                     
+╭─ 200.25.44.65    7195    1.569                (Lima, Lima Province, PE, SA) ae100.3007.edge1.lim1.as7195.net                                                                    
+LHL (7195)  south-america-1-sam-1 ✘ || america-movil-submarine-cable-system-1-amx-1 ✓ || globenet ✓
+├─ 200.25.51.99    7195    1.808                      (Sao Paulo, SP, BR, SA) ae1.0.edge2.gru1.as7195.net                                                                         
+S (7195)  brusa ✘ || america-movil-submarine-cable-system-1-amx-1 ✓ || south-america-1-sam-1 ✘ || globenet ✓ || monet ✓ || americas-ii ✓
+╰─ 200.25.51.189   7195    78.904                  (Flagami, Florida, US, NA) ae1051.0.edge2.mia1.as7195.net                                                                      
+   206.41.108.11   19151   78.607                        (None, None, US, NA) fl-ix-c01.bboi.net                                                                                  
+   66.216.2.12     19151   83.936                         (Tampa, FL, US, NA) *                                                                                                   
+   66.216.50.42    19151   83.892                    (Tampa, Florida, US, NA)                                                                                                     
+   199.47.174.227  12110   83.444                    (Tampa, Florida, US, NA) atlas-anchor.tampa.coop                                                                             

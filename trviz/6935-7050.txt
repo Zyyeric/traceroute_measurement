@@ -1,0 +1,26 @@
+╭─ 196.49.84.188   328913  0.0                     (Douala, Littoral, CM, AF) cm-dla-as328913.anchors.atlas.ripe.net                                                              
+S (328913, 60171)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 102.219.44.42   60171   1.431                       (Lagos, Lagos, NG, AF)                                                                                                     
+S (60171)  
+├─ 185.10.164.44   60171   236.991             (Barcelona, Catalonia, ES, EU)                                                                                                     
+S (60171)  
+├─ 102.223.52.72   60171   237.477                     (Lagos, Lagos, NG, AF)                                                                                                     
+S (60171)  
+╰─ 185.10.164.33   60171   237.782             (Barcelona, Catalonia, ES, EU)                                                                                                     
+╭─ 185.10.164.134  60171   237.856             (Barcelona, Catalonia, ES, EU)                                                                                                     
+S&T (60171, 37542)  
+├─ 185.10.164.112  37542   238.065                      (London, ENG, GB, EU) *                                                                                                   
+S&T (37542, 60171)  
+├─ 185.10.164.98   60171   237.213             (Barcelona, Catalonia, ES, EU)                                                                                                     
+S&T (60171, 6939)  
+├─ 184.104.224.112 6939    238.361                   (Lisbon, Lisbon, PT, EU) e0-18.switch1.lis1.he.net                                                                           
+S&T (6939)  
+╰─ 184.104.188.210 6939    347.281          (Cape Town, Western Cape, ZA, AF) 100ge0-33.core1.cpt1.he.net                                                                         
+   184.105.223.209 6939    370.555                 (Johannesburg, GT, ZA, AF) 100ge0-36.core2.jnb1.he.net                                                                         
+   196.60.11.69    *       365.427            (Johannesburg, Gauteng, ZA, AF) misaka-2.ixp.joburg                                                                                 
+   102.130.51.7    *       365.275            (Johannesburg, Gauteng, ZA, AF) e36-1-20.spine2.jnb01.za.misaka.io                                                                  
+   102.130.49.21   328383  367.765            (Johannesburg, Gauteng, ZA, AF) po-21.lag.jnb01.za.misaka.io                                                                        
+   102.130.49.144  328383  365.007            (Johannesburg, Gauteng, ZA, AF) za-jnb-as57695.anchors.atlas.ripe.net                                                               

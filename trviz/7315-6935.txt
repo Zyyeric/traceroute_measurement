@@ -1,0 +1,17 @@
+   102.130.49.144  328383  0.0                (Johannesburg, Gauteng, ZA, AF) za-jnb-as57695.anchors.atlas.ripe.net                                                               
+   ***             *       -inf                                           *** *                                                                                                   
+   102.130.49.3    328383  0.306              (Johannesburg, Gauteng, ZA, AF) spine2.v271.jnb01.za.misaka.io                                                                      
+╭─ 102.130.51.2    *       0.375              (Johannesburg, Gauteng, ZA, AF) e54-1-10.cr1a.tdjb1.jnb1.za.917.as                                                                  
+LHL (, 60068)  africa-coast-to-europe-ace ✘
+├─ 37.19.193.192   60068   0.343                     (Prague, Prague, CZ, EU) p77-3503.cr1a.tdjb1.jnb1.za.917.as                                                                  
+LHL (60068, 37468)  
+├─ 102.130.70.57   37468   0.563              (Johannesburg, Gauteng, ZA, AF)                                                                                                     
+S&T (37468)  africa-coast-to-europe-ace ✓
+╰─ 102.130.68.112  37468   15.702                        (None, None, AO, AF) *                                                                                                   
+╭─ 102.130.68.139  37468   52.03                         (None, None, AO, AF) *                                                                                                   
+S (37468)  south-atlantic-cable-system-sacs 👍
+╰─ 170.238.232.152 37468   112.834                       (None, None, BR, SA) *                                                                                                   
+   170.238.232.191 37468   157.011                (Osasco, São Paulo, BR, SA) 191.232.238.170.angolacables.ao                                                                     
+   170.238.234.25  27693   172.762                       (None, None, BR, SA) 25.234.238.170.angolacables.ao                                                                      
+   ***             *       -inf                                           *** *                                                                                                   
+   45.6.36.173     266152  172.856          (Campina Grande, Paraíba, BR, SA) 45.6.36.173.pjmfibra.com.br                                                                         

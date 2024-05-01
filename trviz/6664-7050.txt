@@ -1,0 +1,29 @@
+╭─ 196.49.84.188   328913  0.0                     (Douala, Littoral, CM, AF) cm-dla-as328913.anchors.atlas.ripe.net                                                              
+S (328913)  
+╰─ 196.49.84.177   328913  0.316                   (Abidjan, Abidjan, CI, AF)                                                                                                     
+╭─ 196.49.84.34    328913  0.834                   (Abidjan, Abidjan, CI, AF) bdr2.std.douala-ix.net                                                                              
+S&T (328913, )  
+├─ 196.60.84.61    *       1.641                   (Douala, Littoral, CM, AF) as328840.member.std.douala-ix.net                                                                   
+S (, 60171)  
+├─ 102.219.44.42   60171   1.155                       (Lagos, Lagos, NG, AF)                                                                                                     
+S (60171)  
+├─ 185.10.164.44   60171   353.304             (Barcelona, Catalonia, ES, EU)                                                                                                     
+S (60171)  
+├─ 102.223.52.72   60171   353.5                       (Lagos, Lagos, NG, AF)                                                                                                     
+S (60171)  
+╰─ 185.10.164.33   60171   353.171             (Barcelona, Catalonia, ES, EU)                                                                                                     
+╭─ 185.10.164.134  60171   353.834             (Barcelona, Catalonia, ES, EU)                                                                                                     
+S&T (60171, 37542)  
+├─ 185.10.164.112  37542   353.545                      (London, ENG, GB, EU) *                                                                                                   
+S&T (37542, 60171)  
+╰─ 185.10.164.98   60171   353.214             (Barcelona, Catalonia, ES, EU)                                                                                                     
+   185.35.142.61   60171   353.115                       (None, None, ES, EU) *                                                                                                   
+╭─ 185.35.142.32   60171   353.228                       (None, None, ES, EU) *                                                                                                   
+S&T (60171, 8551)  
+├─ 195.66.225.44   8551    409.006                    (London, ENG, GB, None) linx1.bezeqint.co.il                                                                                
+T (8551)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 62.219.189.186  8551    405.946               (Rishon LeZiyyon, M, IL, AS) bzq-219-189-186.cablep.bezeqint.net                                                                 
+   31.168.224.126  8551    405.88                      (Tel Aviv, TA, IL, AS) bzq-224-168-31-126.red.bezeqint.net                                                                 
+   ***             *       -inf                                           *** *                                                                                                   
+   146.185.219.73  202422  406.135    (Petaẖ Tiqva, Central District, IL, AS)                                                                                                     

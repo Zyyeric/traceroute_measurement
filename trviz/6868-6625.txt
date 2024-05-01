@@ -1,0 +1,16 @@
+   96.126.70.90    21659   0.0               (Moncton, New Brunswick, CA, NA) 96-126-70-90.apbx.ca                                                                                
+   ***             *       -inf                                           *** *                                                                                                   
+   98.143.249.17   3367    1.722             (Moncton, New Brunswick, CA, NA) enova-98-143-249-17.e-novations.ca                                                                  
+╭─ 209.51.184.133  6939    1.798             (Moncton, New Brunswick, CA, NA) port-channel2.core2.yqm1.he.net                                                                     
+S&T (6939)  exa-north-and-south ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 72.52.92.9      6939    14.89              (Boston, Massachusetts, US, NA) 100ge0-78.core2.bos1.he.net                                                                         
+╭─ 184.104.194.86  6939    18.084           (New York City, New York, US, NA) 100ge0-17.core2.nyc4.he.net                                                                         
+S (6939, 50304)  exa-north-and-south ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 195.66.225.9    50304   91.912                       (London, ENG, GB, EU) ncs-ld8-lhr.blix.com                                                                                
+S&T (50304)  tampnet-offshore-foc-network ✘ || no-uk ✓
+╰─ 31.169.49.128   50304   104.738                       (Oslo, Oslo, NO, EU) 100ge3.cra-dpu-osl.blix.com                                                                         
+   31.169.49.93    50304   104.793                       (Oslo, Oslo, NO, EU) 100ge3.ncs-dpu-osl.blix.com                                                                         
+   31.169.48.101   50304   104.506                   (Stodsbuoye, 34, NO, EU) *                                                                                                   
+   195.43.159.22   207788  104.501                       (Oslo, Oslo, NO, EU) anchors.as207788.net                                                                                

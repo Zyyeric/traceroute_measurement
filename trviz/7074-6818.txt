@@ -1,0 +1,12 @@
+   63.222.40.114   3491    0.0                       (Taipei, Taiwan, TW, AS) ncic.te0-1-0-23.br01.tap04.as3491.net                                                               
+   63.222.40.113   3491    0.969                      (Neihu, Taiwan, TW, AS) te0-1-0-23.br01.tap04.as3491.net                                                                    
+╭─ 63.223.9.102    3491    0.915                       (Taipei, None, TW, AS) Bundle-Ether41.br02.tap04.pccwbtn.net                                                               
+S (3491, 41095)  
+├─ 63.217.71.46    41095   1.154                         (None, None, US, NA) 63-217-71-46.static.pccwglobal.net                                                                  
+S (41095)  
+╰─ 103.23.168.233  41095   80.536                         (Tokyo, 13, JP, AS) be2.r0.bc05.bbt.ty.jp.iptp.net                                                                      
+   103.23.168.233  41095   80.536                         (Tokyo, 13, JP, AS) be2.r0.bc05.bbt.ty.jp.iptp.net                                                                      
+   103.23.168.198  59103   31.167                         (Tokyo, 13, JP, AS) as59103.r0.214.ty2.eq.jp.iptp.net                                                                   
+   103.41.60.171   59103   31.196                        (None, None, JP, AS) koba-bgprt1.tokyo-ix.v4.open.ad.jp                                                                  
+   103.143.136.26  63781   34.315                        (None, None, JP, AS) ospfrt1-bgprt1.kobayashi.ad.jp                                                                      
+   103.143.136.43  63781   31.773                      (Tokyo, Tokyo, JP, AS) koba-103-143-136-43.rev.kobayashi.ad.jp                                                             

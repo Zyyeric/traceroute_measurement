@@ -1,0 +1,21 @@
+   193.50.97.164   2200    0.0                   (Plouzané, Brittany, FR, EU) anchor.netlab.enstb.org                                                                             
+   193.50.97.161   2200    0.287                 (Plouzané, Brittany, FR, EU) netlab-gw.enstb.org                                                                                 
+   192.108.116.201 50897   0.534                 (Plouzané, Brittany, FR, EU) asr-vlan39.enst-bretagne.fr                                                                         
+   193.51.188.10   2200    0.493 (6.416)        (Saint-Brieuc, Brittany, FR, EU) vl807-pc1-brest1-rtr-021.noc.renater.fr                                                             
+   193.51.177.174  2200    12.41               (Paris, Île-de-France, FR, EU) et-5-2-1-ren-nr-paris1-rtr-131.noc.renater.fr                                                       
+   193.55.204.195  2200    12.499                       (Paris, None, FR, EU) et-3-1-2-ren-nr-paris2-rtr-131.noc.renater.fr                                                       
+╭─ 195.42.144.104  6939    14.026                        (Paris, IDF, FR, EU) 10gigabitethernet-2-2.par2.he.net                                                                   
+T (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.81.110  6939    20.474                     (Amsterdam, NH, NL, EU) port-channel14.core2.ams1.he.net                                                                    
+   184.104.196.94  6939    21.007                     (Amsterdam, NH, NL, EU) ve1001.core1.ams7.he.net                                                                            
+╭─ 184.104.197.126 6939    20.618          (Amsterdam, North Holland, NL, EU) port-channel1.core2.ams7.he.net                                                                     
+S (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.105.81.141  6939    38.19                        (Ashburn, VA, US, NA) port-channel10.core3.ash1.he.net                                                                    
+S (6939, 56655)  
+╰─ 185.125.170.251 56655   39.157                        (Oslo, Oslo, NO, EU)                                                                                                     
+   185.125.170.252 56655   39.035                        (Oslo, Oslo, NO, EU)                                                                                                     
+   185.125.170.45  56655   39.006                        (Oslo, Oslo, NO, EU)                                                                                                     
+   185.14.97.165   56655   2195.894                      (Oslo, Oslo, NO, EU)                                                                                                     
+   185.14.97.165   56655   2195.894                      (Oslo, Oslo, NO, EU)                                                                                                     

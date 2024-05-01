@@ -1,0 +1,13 @@
+   192.102.254.220 395152  0.0          (Vancouver, British Columbia, CA, NA)                                                                                                     
+   192.102.254.3   395152  0.414        (Vancouver, British Columbia, CA, NA)                                                                                                     
+   216.251.158.70  14007   0.483        (Vancouver, British Columbia, CA, NA)                                                                                                     
+   216.251.132.67  14007   0.497        (Vancouver, British Columbia, CA, NA) peera.skywaywest.net                                                                                
+╭─ 65.49.79.249    6939    1.18         (Vancouver, British Columbia, CA, NA) e0-12.switch3.yvr2.he.net                                                                           
+LHL (6939)  
+├─ 184.104.195.13  6939    1.121              (Frankfurt am Main, HE, DE, EU) 100ge4-2.core1.fra1.he.net                                                                          
+LHL (6939)  
+╰─ 184.104.196.221 6939    4.178                        (Seattle, WA, US, NA) port-channel3.core2.sea1.he.net                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   64.62.180.46    6939    22.722              (San Jose, California, US, NA) isc-as-1280-as1280.e0-30.switch2.pao1.he.net                                                        
+   192.158.252.10  1280    22.929         (Mountain View, California, US, NA) us-pao-as1280.anchors.atlas.ripe.net                                                                

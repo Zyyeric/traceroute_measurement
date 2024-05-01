@@ -1,0 +1,14 @@
+   199.47.174.227  12110   0.0                       (Tampa, Florida, US, NA) atlas-anchor.tampa.coop                                                                             
+   199.47.174.225  12110   1.139                     (Tampa, Florida, US, NA) vlan-200.coop-stack.tampa.coop                                                                      
+   66.216.50.41    19151   1.122                     (Tampa, Florida, US, NA)                                                                                                     
+   66.216.2.13     19151   5.321               (South Plainfield, NJ, US, NA) *                                                                                                   
+╭─ 206.41.108.77   262589  5.319                         (None, None, US, NA) *                                                                                                   
+S (262589)  arcos ✓ || colombia-florida-subsea-fiber-cfx-1 ✓ || america-movil-submarine-cable-system-1-amx-1 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 179.1.115.6     262589  46.4                 (Bogotá, Bogota D.C., CO, SA)                                                                                                     
+S&T (262589, 263703)  arcos ✓
+├  172.23.0.138    *       56.983                                         ***                                                                                                     
+╰─ 190.97.246.90   263703  56.948                  (El Vigía, Mérida, VE, SA)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   172.26.0.94     *       57.029                                         ***                                                                                                     
+   170.254.172.12  265641  57.206                  (Maturín, Monagas, VE, SA) rev170-254-172-12.cixve.net                                                                         

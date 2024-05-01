@@ -1,0 +1,16 @@
+   163.117.253.5   766     0.0                       (Madrid, Madrid, ES, EU)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   172.17.0.53     *       1.088                                          ***                                                                                                     
+   193.145.15.49   766     1.468                    (Leganés, Madrid, ES, EU) csic-rt-ju-02-xe-4-0-6.net.redimadrid.es                                                            
+   130.206.216.1   766     1.864                     (Madrid, Madrid, ES, EU) redimadrid-backup.ethtrunk8-103.telmad.rt1.mad.red.rediris.es                                       
+╭─ 130.206.245.126 766     11.301                        (None, None, ES, EU) telmad.rt1.ethtrunk2.cica.rt2.and.red.rediris.es                                                    
+S&T (766, 13335)  seamewe-3 ✘
+╰─ 193.136.250.200 13335   20.026                      (Lisbon, 14, PT, None) Cloudflare.AS13335.gigapix.pt                                                                       
+   172.68.101.11   13335   19.913                    (Lisbon, Lisbon, PT, EU)                                                                                                     
+   172.68.101.74   13335   20.071                        (Lisbon, 11, PT, EU) *                                                                                                   
+╭─ 172.68.101.95   13335   20.208                    (Lisbon, Lisbon, PT, EU)                                                                                                     
+S (13335, 133800)  seamewe-3 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 137.59.127.34   133800  187.852                       (None, None, ID, AS) ip-34-127-59-137.core.biznetg.io                                                                    
+   103.77.105.3    133800  187.279                 (Jakarta, Jakarta, ID, AS) ip-3-105-77-103.jkt-1.biznetg.io                                                                    

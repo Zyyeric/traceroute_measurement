@@ -1,0 +1,14 @@
+   209.195.0.34    6597    0.0                     (Atlanta, Georgia, US, NA)                                                                                                     
+   208.73.219.169  6597    0.628                   (Atlanta, Georgia, US, NA)                                                                                                     
+   208.73.216.194  6597    0.359                   (Atlanta, Georgia, US, NA) 100ge0-1-0-20.cr2.ag2.atl1.coloblox.net                                                             
+╭─ 216.66.23.17    6939    1.191                   (Atlanta, Georgia, US, NA) e0-2.switch1.atl8.he.net                                                                            
+S (6939)  
+├─ 184.104.197.53  6939    1.845                        (London, ENG, GB, EU) 100ge0-54.core3.lon2.he.net                                                                         
+S (6939, 52468)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 206.41.108.150  52468   15.829                        (None, None, US, NA) *                                                                                                   
+   172.16.24.178   *       59.454                                         ***                                                                                                     
+   10.244.253.18   *       58.814                                         ***                                                                                                     
+╭─ 23.168.104.10   54082   44.017                    (Miami, Florida, US, NA)                                                                                                     
+S&T (54082, 64150)  arcos ✘ || maya-1 ✘
+╰─ 45.68.35.213    64150   44.415    (San Pedro Sula, Cortés Department, HN, NA)                                                                                                     

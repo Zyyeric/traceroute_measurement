@@ -1,0 +1,9 @@
+   203.175.175.206 24482   0.0                 (Singapore, Singapore, SG, AS)                                                                                                     
+   203.175.175.252 24482   0.349                         (None, None, SG, AS) edge-1.v10.sg3.sg.gs                                                                                
+   103.16.102.30   24482   0.616                     (Singapore, 1, SG, None) sggs.sgix.sg                                                                                        
+╭─ 103.16.102.75   136106  1.554                     (Singapore, 1, SG, None) fiberstar.sgix.sg                                                                                   
+S&T (136106)  australia-singapore-cable-asc ✓ || indigo-west ✓ || indonesia-global-gateway-igg-system ✓ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || seamewe-3 ✓ || matrix-cable-system ✘ || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || jasuka ✓ || jakabare ✘
+╰─ 103.87.186.28   136106  12.841                        (None, None, ID, AS) ip186-28.fiberstar.net.id                                                                           
+   103.87.186.179  136106  19.522                  (Jakarta, Jakarta, ID, AS) ip186-179.fiberstar.net.id                                                                          
+   103.170.24.254  142360  19.56                         (None, None, ID, AS) ipv4-254-24.170.103.as142360.net                                                                    
+   103.170.25.13   142360  19.932            (Semarang, Central Java, ID, AS) ipv4-13-25-170-103.nexa.net.id                                                                      

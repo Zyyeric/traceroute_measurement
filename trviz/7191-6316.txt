@@ -1,0 +1,16 @@
+   213.212.129.68  12779   0.0                      (Turin, Piedmont, IT, EU) it-trn-as12779.anchors.atlas.ripe.net                                                               
+   213.212.129.65  12779   1.328                    (Turin, Piedmont, IT, EU)                                                                                                     
+╭─ 213.254.30.220  12779   1.211                         (Torino, 21, IT, EU) be20.Scrappy-Monster.core.TRN.itgate.net                                                            
+S&T (12779)  
+├─ 213.254.31.244  12779   15.312                        (Paris, IDF, FR, EU) if-0-1-0-2.Asterix.core.PAR.itgate.net                                                              
+T (12779, 58453)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 223.118.21.254  58453   29.39           (Frankfurt am Main, Hesse, DE, EU)                                                                                                     
+LHL (58453)  seamewe-3 ✓ || asia-africa-europe-1-aae-1 ✓ || flag-europe-asia-fea ✓
+├─ 223.120.10.137  58453   27.753                        (None, None, HK, AS) *                                                                                                   
+LHL (58453)  
+├─ 223.120.11.13   58453   43.56           (Frankfurt am Main, Hesse, DE, EU)                                                                                                     
+LHL (58453, 45498)  seamewe-3 ✓ ↠ asia-africa-europe-1-aae-1 ✓ || asia-africa-europe-1-aae-1 ✓ ↠ asia-africa-europe-1-aae-1 ✓ || flag-europe-asia-fea ✓ ↠ asia-africa-europe-1-aae-1 ✓
+╰─ 27.109.113.57   45498   238.502           (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     
+   27.109.113.22   45498   239.568                   (Phnom Penh, 12, KH, AS) *                                                                                                   
+   117.20.118.21   45498   229.063           (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     

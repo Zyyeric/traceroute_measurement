@@ -1,0 +1,17 @@
+   46.227.202.97   41495   0.0                  (Manchester, England, GB, EU) uk-mnc-as41495.anchors.atlas.ripe.net                                                               
+   46.227.207.255  41495   2.711                    (London, England, GB, EU) anycast.gateway.faelix.net                                                                          
+   46.227.206.41   41495   1.073                (Manchester, England, GB, EU) host-46-227-206-41.rev.as41495.net                                                                  
+   ***             *       -inf                                           *** *                                                                                                   
+   46.227.200.125  41495   1.456                (Manchester, England, GB, EU) v102.eth5.bly.w.faelix.net                                                                          
+   ***             *       -inf                                           *** *                                                                                                   
+   31.217.131.65   4455    1.305                     (Liverpool, ENG, GB, EU) *                                                                                                   
+╭─ 91.196.184.101  4455    9.501                        (London, ENG, GB, EU) ae0-3113.bb.thn.lon.as43531.net                                                                     
+S&T (4455)  seamewe-3 ✓ || uk-channel-islands-8 ✘ || high-capacity-undersea-guernsey-optical-fibre-hugo ✓ || channel-islands-9-liberty-submarine-cable ✓ || uk-channel-islands-7 ✓
+├─ 91.196.184.125  4455    14.596                        (Paris, IDF, FR, EU) ae0-3803.bb.th2.par.as43531.net                                                                     
+LHL (4455, 43557)  seamewe-3 ✓ ↠ atlantic-crossing-1-ac-1 ✘ || seamewe-3 ✓ ↠ havhingstennorth-sea-connect-nsc © || high-capacity-undersea-guernsey-optical-fibre-hugo ✓ ↠ atlantic-crossing-1-ac-1 ✘ || uk-channel-islands-8 ✘ ↠ atlantic-crossing-1-ac-1 ✘ || high-capacity-undersea-guernsey-optical-fibre-hugo ✓ ↠ havhingstennorth-sea-connect-nsc © || uk-channel-islands-8 ✘ ↠ havhingstennorth-sea-connect-nsc © || channel-islands-9-liberty-submarine-cable ✓ ↠ atlantic-crossing-1-ac-1 ✘ || uk-channel-islands-7 ✓ ↠ atlantic-crossing-1-ac-1 ✘ || channel-islands-9-liberty-submarine-cable ✓ ↠ havhingstennorth-sea-connect-nsc © || uk-channel-islands-7 ✓ ↠ havhingstennorth-sea-connect-nsc ©
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 139.45.29.175   43557   30.124        (Silkeborg, Central Jutland, DK, EU) be-200.koldt-cor03.ip.norlys.io                                                                     
+   139.45.18.118   43557   30.557        (Silkeborg, Central Jutland, DK, EU) be-190.koldb-dist02.ip.norlys.io                                                                    
+   212.10.13.217   197288  29.906                    (Copenhagen, 84, DK, EU) be217.dck-pe02.link.stofa.net                                                                       
+   212.10.11.213   39642   29.446            (Kolding, South Denmark, DK, EU) dk-kol-as39642.anchors.atlas.ripe.net                                                               

@@ -1,0 +1,18 @@
+   66.244.16.33    23483   0.0                  (Redding, California, US, NA) us-rdd-as23483.anchors.atlas.ripe.net                                                               
+   66.244.16.8     23483   0.35                 (Redding, California, US, NA) shastacoe.net                                                                                       
+   137.164.13.10   2152    0.304                (Redding, California, US, NA) sha-coe-2--shacoe-gw2-10g.cenic.net                                                                 
+   137.164.34.85   2152    0.94                 (Redding, California, US, NA) sha-coe-1---to--sha-coe-2--10ge.cenic.net                                                           
+   137.164.50.242  2152    0.785 (1.921)           (Redding, California, US, NA) cor-agg8--sha-coe-1-10g.cenic.net                                                                   
+   137.164.46.6    2152    8.197             (Sacramento, California, US, NA) sacr2-agg-01--cor-agg8--100g--01.cenic.net                                                          
+   137.164.11.88   2152    8.07                         (Oakland, CA, US, NA) dc-oak-agg8--tri-agg2-300g.cenic.net                                                                
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 184.105.64.137  6939    27.476                       (Seattle, WA, US, NA) port-channel2.core2.sea1.he.net                                                                     
+S&T (6939)  
+╰─ 184.104.196.222 6939    30.537                     (Vancouver, BC, CA, NA) port-channel2.core2.yvr1.he.net                                                                     
+╭─ 184.104.195.14  6939    30.567       (Vancouver, British Columbia, CA, NA) port-channel1.core1.yvr2.he.net                                                                     
+S&T (6939, 14007)  
+├─ 65.49.79.250    14007   29.801                        (None, None, US, NA) *                                                                                                   
+S&T (14007)  
+╰─ 216.251.132.66  14007   30.283                         (Delta, BC, CA, NA) tranAvan2.skywaywest.net                                                                            
+   216.251.158.65  395152  30.448               (North Vancouver, BC, CA, NA) *                                                                                                   
+   192.102.254.220 395152  30.212       (Vancouver, British Columbia, CA, NA)                                                                                                     

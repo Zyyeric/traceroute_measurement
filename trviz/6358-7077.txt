@@ -1,0 +1,25 @@
+   216.48.178.84   132420  0.0                 (Noida, Uttar Pradesh, IN, AS) e2e-95-84.ssdcloudindia.net                                                                         
+   216.48.176.1    132420  2.555                       (Delhi, Delhi, IN, AS) e2e-93-1.ssdcloudindia.net                                                                          
+   180.179.210.65  17439   0.691                   (Pitampura, Delhi, IN, AS) 180-179-210-65.static.e2enetworks.in                                                                
+   180.179.197.213 17439   0.768                       (Delhi, Delhi, IN, AS)                                                                                                     
+   115.114.12.185  4755    1.208                       (Delhi, Delhi, IN, AS) 115.114.12.185.static-delhi.vsnl.net.in                                                             
+   ***             *       -inf                                           *** *                                                                                                   
+   180.87.38.5     6453    23.909                        (Mumbai, MH, IN, AS) ix-ae-0-100.tcore1.mlv-mumbai.as6453.net                                                            
+╭─ 180.87.38.2     6453    153.219                       (Mumbai, MH, IN, AS) if-ae-2-2.tcore2.mlv-mumbai.as6453.net                                                              
+S (6453)  
+╰─ 180.87.39.21    6453    143.314                  (London, England, GB, EU) if-ae-12-2.tcore1.l78-london.as6453.net                                                             
+╭─ 80.231.130.130  6453    146.823                     (London, None, GB, EU) if-ae-17-2.tcore1.ldn-london.as6453.net                                                             
+S (6453, 16637)  
+├─ 80.231.76.121   16637   143.437                       (None, None, CA, NA) *                                                                                                   
+LHL (16637)  
+├─ 41.181.189.65   16637   148.472                     (Pretoria, GP, ZA, AF) *                                                                                                   
+T (16637)  
+╰─ 41.181.105.105  16637   147.233                  (London, England, GB, EU)                                                                                                     
+╭─ 41.181.244.176  16637   148.243                  (London, England, GB, EU)                                                                                                     
+T (16637, 20294)  
+├─ 41.181.247.39   20294   298.651                       (None, None, ZA, AF) *                                                                                                   
+LHL (20294)  
+╰─ 212.88.110.34   20294   297.526          (Kampala, Central Region, UG, AF)                                                                                                     
+   129.205.30.76   37063   296.076                       (Kampala, C, UG, AF) *                                                                                                   
+   41.191.77.206   328998  297.514                       (Kampala, C, UG, AF) *                                                                                                   
+   196.49.15.189   328998  293.674          (Kampala, Central Region, UG, AF)                                                                                                     

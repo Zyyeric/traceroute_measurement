@@ -1,0 +1,18 @@
+   103.179.37.157  151332  0.0                  (Melbourne, Victoria, AU, OC)                                                                                                     
+   103.179.37.156  151332  0.434                (Melbourne, Victoria, AU, OC)                                                                                                     
+   203.192.83.253  7545    1.541                (Melbourne, Victoria, AU, OC) ip-253-83-192-203.static.pipenetworks.com                                                           
+   203.220.216.73  7545    2.102                        (Sydney, NSW, AU, OC) 203-220-216-73.tpgi.com.au                                                                          
+   27.32.160.129   7545    85.519              (North Melbourne, VIC, AU, OC) 27-32-160-129.static.tpgi.com.au                                                                    
+╭─ 203.219.57.14   7545    84.917          (Perth, Western Australia, AU, OC) per-apt-stg-crt1-be20.tpgi.com.au                                                                   
+S (7545)  
+├─ 203.219.107.114 7545    85.545              (Singapore, Singapore, SG, AS) sin-eqx-aye-int1-hu-0-0-0-20.tpg.com.au                                                             
+S (7545, 132602)  
+├─ 27.111.229.146  132602  86.268                    (Seogwipo, None, KR, AS) 132602.sgw.equinix.com                                                                              
+S (132602)  
+├─ 103.16.153.22   132602  126.317                     (Singapore, 4, SG, AS) 103-16-153-22-noc.bsccl.com                                                                         
+S (132602)  
+├─ 103.16.152.81   132602  131.679                       (None, None, BD, AS) 103-16-152-81-noc.bsccl.com                                                                         
+S (132602, 9829)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 117.250.113.140 9829    152.571                  (Guwahati, Assam, IN, AS) static.ill.117.250.113.140.bsnl.co.in                                                               

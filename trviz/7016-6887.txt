@@ -1,0 +1,15 @@
+   27.111.84.21    135132  0.0           (Cebu City, Central Visayas, PH, AS) ph-ceb-as135132.anchors.atlas.ripe.net                                                              
+   27.111.84.20    135132  1.333             (Baugo, Central Visayas, PH, AS) vlan509.core.ceb02.ds.network                                                                       
+   192.168.159.142 *       23.115                                         ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   192.168.159.168 *       12.387                                         ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 43.224.189.33   137074  1.952             (Baugo, Central Visayas, PH, AS) 43-224-189-33.static.rise.as                                                                        
+S (137074, )  tata-tgn-intra-asia-tgn-ia ✘ || asia-america-gateway-aag-cable-system ✘
+├  10.255.64.24    *       40.611                                         ***                                                                                                     
+├─ 27.111.230.188  *       43.139              (Singapore, Singapore, SG, AS) 140443.sgw.equinix.com                                                                              
+S&T (, 140443)  jasuka ✘ || jakabare ✘ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || b2js-jakarta-bangka-batam-singapore-cable-system ✘
+├  10.111.222.205  *       41.644                                         ***                                                                                                     
+├  10.111.220.5    *       54.811                                         ***                                                                                                     
+├  10.111.220.45   *       52.117                                         ***                                                                                                     
+╰─ 103.160.63.222  140443  52.973                  (Jakarta, Jakarta, ID, AS) 222.63.160.103.in-addr.herza.id                                                                     

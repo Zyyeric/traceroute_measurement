@@ -1,0 +1,11 @@
+   212.116.14.178  6659    0.0                     (Hamburg, Hamburg, DE, EU)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   212.116.21.244  6659    0.966     (Norderstedt, Schleswig-Holstein, DE, EU)                                                                                                     
+   194.15.144.153  *       1.002     (Norderstedt, Schleswig-Holstein, DE, EU)                                                                                                     
+   85.119.200.129  61157   0.741     (Norderstedt, Schleswig-Holstein, DE, EU) ae4.cr1.ham5.plusserver.com                                                                         
+   85.119.200.85   61157   13.132                        (None, None, DE, EU) ae6.cr2.fra.plusserver.com                                                                          
+╭─ 80.81.196.243   12578   41.579            (Frankfurt am Main, 5, DE, None) de-cix-3.telekom.lv                                                                                 
+LHL (12578, 51349)  baltica ✓ ↠ latvia-sweden-1-lv-se-1 👍 || baltica ✓ ↠ sweden-latvia ©
+├─ 195.122.18.250  51349   36.429                         (Riga, RIX, LV, EU) *                                                                                                   
+LHL (51349)  latvia-sweden-1-lv-se-1 ✓ ↠ sweden-estonia-ee-s-1 ✘ || latvia-sweden-1-lv-se-1 ✓ ↠ baltic-sea-submarine-cable ✘ || sweden-latvia ✘ ↠ sweden-estonia-ee-s-1 ✘ || sweden-latvia ✘ ↠ baltic-sea-submarine-cable ✘
+╰─ 195.43.87.140   51349   36.534                 (Tallinn, Harjumaa, EE, EU) rr-s-140.internet.ee                                                                                

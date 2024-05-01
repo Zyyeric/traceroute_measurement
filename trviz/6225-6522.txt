@@ -1,0 +1,27 @@
+   172.93.18.42    1403    0.0                    (Longueuil, Quebec, CA, NA) ca-lon-as1403.anchors.atlas.ripe.net                                                                
+   172.93.18.41    1403    0.628                  (Longueuil, Quebec, CA, NA) 1804.ae12.er1.1225stco.yhu.ebox.ca                                                                  
+   96.127.249.161  1403    0.7                    (Longueuil, Quebec, CA, NA) 0.ae0.er2.mtl3.yul.ebox.ca                                                                          
+   66.198.64.9     6453    0.774                  (Longueuil, Quebec, CA, NA) ix-ae-12-0.thar1.a0met-montreal.as6453.net                                                          
+   64.86.31.30     6453    91.964                      (Montreal, QC, CA, NA) if-ae-22-2.tcore1.mtt-montreal.as6453.net                                                           
+╭─ 216.6.115.90    6453    88.167                      (Montreal, QC, CA, NA) if-ae-0-2.tcore2.mtt-montreal.as6453.net                                                            
+S&T (6453)  
+╰─ 64.86.226.58    6453    90.065                      (New York, NY, US, NA) if-ae-5-2.tcore2.n0v-newyork.as6453.net                                                             
+   216.6.90.21     6453    90.128                      (New York, NY, US, NA) if-ae-2-2.tcore1.n0v-newyork.as6453.net                                                             
+╭─ 216.6.90.14     6453    88.419                        (Newark, NJ, US, NA) if-ae-0-2.tcore3.njy-newark.as6453.net                                                              
+S (6453)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 80.231.131.1    6453    88.342                      (London, None, GB, EU) if-ae-2-2.tcore2.l78-london.as6453.net                                                              
+S&T (6453)  
+╰─ 80.231.131.161  6453    87.945                     (Amsterdam, NH, NL, EU) if-ae-14-2.tcore2.av2-amsterdam.as6453.net                                                          
+╭─ 80.231.152.26   6453    87.901                     (Amsterdam, NH, NL, EU) if-ae-11-2.tcore1.ad1-amsterdam.as6453.net                                                          
+S&T (6453, 2119)  
+╰─ 148.122.9.221   2119    87.811                        (None, None, NO, EU) ti9000b400-xe1-2-2.ti.telenor.net                                                                   
+   146.172.105.10  2119    114.019                       (None, None, NO, EU) ti3004c400-ae2-0.ti.telenor.net                                                                     
+╭─ 146.172.99.177  2119    114.02                        (None, None, NO, EU) ti3006c400-ae1-0.ti.telenor.net                                                                     
+T (2119)  
+├─ 146.172.105.109 2119    111.775                    (Båstad, Skåne, SE, EU) ti3006b400-ae1-0.ti.telenor.net                                                                     
+T (2119)  
+├─ 148.122.10.198  2119    102.458                       (Oslo, Oslo, NO, EU)                                                                                                     
+S&T (2119, 9158)  
+╰─ 77.214.52.101   9158    107.826                        (Farum, 84, DK, EU) *                                                                                                   
+   77.214.52.102   9158    107.814           (Aalborg, North Denmark, DK, EU)                                                                                                     

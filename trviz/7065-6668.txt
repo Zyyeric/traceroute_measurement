@@ -1,0 +1,18 @@
+   92.38.171.55    202422  0.0       (San Sebastián de los Reyes, Madrid, ES, EU)                                                                                                     
+   92.38.171.2     202422  0.363                     (Madrid, Madrid, ES, EU) vrrp.gcore.lu                                                                                       
+   10.255.32.226   *       0.438                                          ***                                                                                                     
+   10.255.37.169   *       1.487                                          ***                                                                                                     
+╭─ 80.239.194.252  1299    1.071                     (Madrid, Madrid, ES, EU) mad-b4-link.ip.twelve99.net                                                                         
+S&T (1299)  seamewe-3 ✓
+├─ 213.155.131.152 1299    23.822              (Paris, Île-de-France, FR, EU) prs-bb1-link.ip.twelve99.net                                                                        
+T (1299)  
+├─ 62.115.123.12   1299    31.829          (Frankfurt am Main, Hesse, DE, EU) ffm-bb1-link.ip.twelve99.net                                                                        
+T (1299)  
+╰─ 62.115.137.203  1299    43.329                    (Vienna, Vienna, AT, EU) win-bb1-link.ip.twelve99.net                                                                        
+╭─ 62.115.114.185  1299    44.549                    (Vienna, Vienna, AT, EU) win-b2-link.ip.twelve99.net                                                                         
+T (1299, 3320)  
+├─ 87.128.239.252  3320    43.432                        (None, None, DE, EU) *                                                                                                   
+LHL (3320)  
+╰─ 62.154.5.202    3320    114.653                     (New York, NY, US, NA) nyc-sb6-i.NYC.US.NET.DTAG.DE                                                                        
+   62.154.5.202    3320    114.653                     (New York, NY, US, NA) nyc-sb6-i.NYC.US.NET.DTAG.DE                                                                        
+   217.243.179.165 3320    114.398          (New York City, New York, US, NA)                                                                                                     

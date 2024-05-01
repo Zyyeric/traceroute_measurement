@@ -1,0 +1,40 @@
+   77.223.128.226  43391   0.0                (İzmir, İzmir Province, TR, AS)                                                                                                     
+   10.200.0.1      *       0.41                                           ***                                                                                                     
+   10.20.0.250     *       0.919                                          ***                                                                                                     
+   10.34.35.9      *       14.779                                         ***                                                                                                     
+   149.14.44.1     174     14.499                (Istanbul, Istanbul, TR, AS) te0-6-0-6.agr21.ist01.atlas.cogentco.com                                                            
+╭─ 154.54.74.205   174     14.648                (Istanbul, Istanbul, TR, AS) be3510.rcr71.ist01.atlas.cogentco.com                                                               
+S (174)  
+├─ 154.54.74.226   174     23.515                         (Lyon, ARA, FR, EU) be2881.rcr21.lys01.atlas.cogentco.com                                                               
+LHL (174)  
+├─ 130.117.0.94    174     28.254                       (Belgrade, 0, RS, EU) be3421.ccr51.beg03.atlas.cogentco.com                                                               
+T (174)  
+├─ 130.117.0.125   174     33.374                      (Budapest, PE, HU, EU) be3422.ccr31.bud01.atlas.cogentco.com                                                               
+T (174)  
+├─ 130.117.3.137   174     36.117                    (Bratislava, BL, SK, EU) be3261.ccr21.bts01.atlas.cogentco.com                                                               
+T (174)  
+├─ 154.54.59.86    174     41.035                         (Vienna, 9, AT, EU) be2988.ccr51.vie01.atlas.cogentco.com                                                               
+T (174)  
+╰─ 154.54.58.5     174     45.322                        (Munich, BY, DE, EU) be2974.ccr21.muc03.atlas.cogentco.com                                                               
+╭─ 154.54.36.53    174     52.031             (Frankfurt am Main, HE, DE, EU) be2959.ccr41.fra03.atlas.cogentco.com                                                               
+T (174)  
+├─ 154.54.58.234   174     60.074                        (Paris, IDF, FR, EU) be2799.ccr41.par01.atlas.cogentco.com                                                               
+S&T (174)  
+├─ 154.54.61.113   174     73.533                        (Bilbao, PV, ES, EU) be2315.ccr31.bio02.atlas.cogentco.com                                                               
+S&T (174)  
+╰─ 154.54.61.102   174     84.989                         (Porto, 13, PT, EU) be2313.rcr21.opo01.atlas.cogentco.com                                                               
+   154.54.57.42    174     90.757                    (Lisbon, Lisbon, PT, EU) be3268.rcr71.lis01.atlas.cogentco.com                                                               
+╭─ 149.14.104.209  174     90.659                    (Lisbon, Lisbon, PT, EU) gi100-0-0-6.rcr21.lis01.atlas.cogentco.com                                                          
+S&T (174, 36937)  
+├─ 41.173.241.195  36937   288.716                     (Lagos, Lagos, NG, AF)                                                                                                     
+S&T (36937)  
+╰─ 41.173.241.196  36937   212.488          (Cape Town, Western Cape, ZA, AF)                                                                                                     
+╭─ 46.17.232.122   30844   230.178            (Johannesburg, Gauteng, ZA, AF) 46.17.232.122.liquidtelecom.net                                                                     
+T (30844)  
+├─ 77.246.56.246   30844   290.395                       (Harare, HA, ZW, AF) te-0-2-0-0.lke-p2-msa.liquidtelecom.net                                                             
+LHL (30844)  
+╰─ 197.155.94.15   30844   288.543                      (Nairobi, 30, KE, AF) et-0-1-11.lke-p2-msa.liquidtelecom.net                                                              
+   197.155.94.74   30844   290.199                      (Nairobi, 30, KE, AF) hu-0-4-0-3.lke-p1-msa.liquidtelecom.net                                                             
+   197.155.94.51   30844   289.728                    (Nairobi, None, KE, AF) xe-0-1-0-1.lke-pe3-nbi.liquidtelecom.net                                                            
+   197.155.93.65   37578   288.354                      (Nairobi, 30, KE, AF) 197.155.93.65.liquidtelecom.net                                                                     
+   196.6.220.42    37578   288.611          (Nairobi, Nairobi County, KE, AF)                                                                                                     

@@ -1,0 +1,17 @@
+   101.53.31.6     24173   0.0        (Ho Chi Minh City, Ho Chi Minh, VN, AS) ci53.31-6.netnam.vn                                                                                 
+   101.53.31.5     24173   0.519              (Quận Một, Ho Chi Minh, VN, AS) ci53.31-5.netnam.vn                                                                                 
+   10.11.1.65      *       1.496                                          ***                                                                                                     
+   210.86.232.90   24173   1.169 (2.973)         (Quận Một, Ho Chi Minh, VN, AS) ci232-90.netnam.vn                                                                                  
+╭─ 210.86.233.41   24176   0.843              (Quận Một, Ho Chi Minh, VN, AS) ci233-41.netnam.vn                                                                                  
+S&T (24176)  
+├─ 210.86.233.10   24176   18.914              (Singapore, Singapore, SG, AS) ci233-10.netnam.vn                                                                                  
+S (24176, 132602)  
+├─ 27.111.229.146  132602  19.456                    (Seogwipo, None, KR, AS) 132602.sgw.equinix.com                                                                              
+S (132602)  
+├─ 103.16.153.22   132602  56.471                      (Singapore, 4, SG, AS) 103-16-153-22-noc.bsccl.com                                                                         
+S (132602)  
+├─ 103.16.152.81   132602  60.823                        (None, None, BD, AS) 103-16-152-81-noc.bsccl.com                                                                         
+S (132602, 9829)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 117.250.113.140 9829    81.076                   (Guwahati, Assam, IN, AS) static.ill.117.250.113.140.bsnl.co.in                                                               

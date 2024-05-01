@@ -1,0 +1,24 @@
+╭─ 139.99.78.22    16276   0.0                 (Singapore, Singapore, SG, AS) sg-sin-as16276.anchors.atlas.ripe.net                                                               
+S (16276)  eac-c2c ✓ || asia-pacific-gateway-apg ✓ || southeast-asia-japan-cable-sjc ✓ || asia-america-gateway-aag-cable-system ✓ || seamewe-3 ✓ || asia-submarine-cable-express-asecahaya-malaysia ✓ || apcn-2 ✓ || tata-tgn-intra-asia-tgn-ia ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  192.168.143.254 *       0.405                                          ***                                                                                                     
+├  10.29.210.254   *       0.52                                           ***                                                                                                     
+├  10.29.192.52    *       0.489                                          ***                                                                                                     
+├  10.29.135.96    *       0.585                                          ***                                                                                                     
+├  10.133.65.54    *       0.863                                          ***                                                                                                     
+├  10.75.0.78      *       0.787                                          ***                                                                                                     
+├  10.75.248.14    *       1.065                                          ***                                                                                                     
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 103.5.15.27     16276   89.184                      (Central, HCW, HK, AS) syd-sy2-bb1-a9.au.asia                                                                              
+S (16276, 1221)  
+├  10.200.6.1      *       87.418                                         ***                                                                                                     
+╰─ 144.130.164.245 1221    87.961           (Sydney, New South Wales, AU, OC) bundle-ether14.ken-edge903.sydney.telstra.net                                                       
+   203.50.11.172   1221    87.964                       (Sydney, NSW, AU, OC) bundle-ether17.ken-core10.sydney.telstra.net                                                        
+   203.50.13.133   1221    98.684               (Melbourne, Victoria, AU, OC) bundle-ether3.cla-core30.melbourne.telstra.net                                                      
+   203.50.13.125   1221    102.916              (Melbourne, Victoria, AU, OC) bundle-ether2.exi-core30.melbourne.telstra.net                                                      
+   203.50.6.230    1221    117.952                     (Adelaide, SA, AU, OC) bundle-ether2.way-core10.adelaide.telstra.net                                                       
+   203.50.6.235    1221    143.258                        (Perth, WA, AU, OC) bundle-ether3.pie-core10.perth.telstra.net                                                          
+   203.50.6.177    1221    139.504                        (Perth, WA, AU, OC) bundle-ether1.pie-edge903.perth.telstra.net                                                         
+   138.217.126.78  1221    138.826         (Perth, Western Australia, AU, OC) tel4198820.lnk.telstra.net                                                                          
+   ***             *       -inf                                           *** *                                                                                                   
+   203.41.0.254    1221    143.026         (Perth, Western Australia, AU, OC) atlas-per.telstra.net                                                                               

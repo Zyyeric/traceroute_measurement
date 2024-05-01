@@ -1,0 +1,22 @@
+   213.212.129.68  12779   0.0                      (Turin, Piedmont, IT, EU) it-trn-as12779.anchors.atlas.ripe.net                                                               
+   213.212.129.65  12779   0.74                     (Turin, Piedmont, IT, EU)                                                                                                     
+╭─ 213.254.30.220  12779   1.265                         (Torino, 21, IT, EU) be20.Scrappy-Monster.core.TRN.itgate.net                                                            
+LHL (12779)  asia-africa-europe-1-aae-1 ✓ || seamewe-5 ✓ || imewe ✓
+├─ 213.254.31.241  12779   18.022          (Amsterdam, North Holland, NL, EU) if-0-1-0-0.amstel.core.ams.itgate.net                                                               
+S&T (12779, 2603)  ulysses-2 ✘ || zeus ✓ || circe-north ✓ || scylla ✓ || concerto ✓ || farland-north ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 109.105.102.97  2603    22.48                       (Hexton, None, GB, EU) uk-hex.nordu.net                                                                                    
+╭─ 109.105.102.98  2603    25.757                       (London, ENG, GB, EU) ndn-gw.mx1.lon.uk.geant.net                                                                         
+S&T (2603, 20965)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 62.40.98.222    20965   42.4                        (Bilbao, None, ES, EU) ae4.rt1.bil.es.geant.net                                                                            
+S&T (20965, 21320)  
+├─ 83.97.90.19     21320   38.203                   (London, England, GB, EU) rediris-ias-geant.bil.es.geant.net                                                                  
+S&T (21320, 766)  
+╰─ 130.206.245.17  766     38.341                        (None, None, ES, EU) EHU.RT2.ETHTRUNK2.telmad.rt1.mad.red.rediris.es                                                     
+   130.206.216.2   766     38.588                        (None, None, ES, EU) redimadrid-backup-router.red.rediris.es                                                             
+   193.145.15.50   766     38.778                        (None, None, ES, EU) uc3m-rt-ju-01-xe-0-1-0.net.redimadrid.es                                                            
+   ***             *       -inf                                           *** *                                                                                                   
+   163.117.49.4    766     39.391                        (Madrid, MD, ES, EU) b01014zr.uc3m.es                                                                                    
+   163.117.253.5   766     39.173                    (Madrid, Madrid, ES, EU)                                                                                                     

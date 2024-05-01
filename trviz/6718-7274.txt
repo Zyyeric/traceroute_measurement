@@ -1,0 +1,21 @@
+   77.223.128.226  43391   0.0                (İzmir, İzmir Province, TR, AS)                                                                                                     
+   10.200.0.1      *       0.29                                           ***                                                                                                     
+   10.20.0.251     *       0.902                                          ***                                                                                                     
+   212.156.144.45  9121    0.629            (Bornova, İzmir Province, TR, AS) 212.156.144.45.static.turktelekom.com.tr                                                            
+   81.212.214.180  9121    0.608            (Bornova, İzmir Province, TR, AS) 35-hatay-sr12e-t2-1---35-hatay-sr12e-t3-1.statik.turktelekom.com.tr                                 
+   81.212.212.240  9121    0.908                         (None, None, TR, AS) 35-izmir-xrs-t2-1---35-hatay-sr12e-t2-1.statik.turktelekom.com.tr                                   
+╭─ 81.212.30.5     9121    0.773            (Bornova, İzmir Province, TR, AS) 35-ebgp-izmir-sr12e-k---35-izmir-xrs-t2-1.statik.turktelekom.com.tr                                 
+S&T (9121)  kafos ✘
+├─ 212.156.102.186 9121    55.338               (Zalău, Sălaj County, RO, EU) 302-ams-col-2---35-ebgp-izmir-sr12e-k.statik.turktelekom.com.tr                                     
+LHL (9121, 41095)  circe-north ✓ || scylla ✘ || ulysses-2 ✘ || zeus ✓ || atlantic-crossing-1-ac-1 ✓ || concerto ✘ || farland-north ✘
+├─ 80.249.209.196  41095   56.272                     (Amsterdam, NH, NL, EU) ams-ix.iptp.net                                                                                     
+LHL (41095)  seamewe-4 ✓ || seamewe-3 ✓ || seamewe-5 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 103.242.73.133  41095   209.02              (Singapore, Singapore, SG, AS) rt986164.r0.616.eq.sg.iptp.net                                                                      
+S&T (41095, 24176)  
+╰─ 210.86.233.17   24176   222.178    (Ho Chi Minh City, Ho Chi Minh, VN, AS) ci233-17.netnam.vn                                                                                  
+   210.86.233.30   24176   219.049    (Ho Chi Minh City, Ho Chi Minh, VN, AS) ci233-30.netnam.vn                                                                                  
+   210.86.232.101  24173   221.815                        (Hanoi, HN, VN, AS) ci232-101.netnam.vn                                                                                 
+   ***             *       -inf                                           *** *                                                                                                   
+   101.53.31.6     24173   217.387    (Ho Chi Minh City, Ho Chi Minh, VN, AS) ci53.31-6.netnam.vn                                                                                 

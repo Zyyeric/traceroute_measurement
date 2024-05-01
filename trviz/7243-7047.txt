@@ -1,0 +1,24 @@
+   80.77.4.60      15412   0.0                         (Dubai, Dubai, AE, AS)                                                                                                     
+╭─ 80.77.4.57      15412   1.976                       (Dubai, Dubai, AE, AS)                                                                                                     
+S (15412)  
+├─ 62.216.130.46   15412   27.239                          (Ozora, 1, JP, AS) xe-2-0-2.0.pjr04.mmb004.flagtel.com                                                                 
+S (15412)  
+├─ 62.216.128.249  15412   80.119                      (Singapore, 4, SG, AS) ge-7-0-0.0.ejr04.sin001.flagtel.com                                                                 
+S (15412, 6453)  
+├─ 62.216.157.162  6453    82.809                        (None, None, GB, EU) *                                                                                                   
+S (6453)  
+╰─ 120.29.214.11   6453    339.451                  (Singapore, None, SG, AS) if-be-46-2.ecore2.svq-singapore.as6453.net                                                          
+╭─ 63.243.180.160  6453    342.9               (Singapore, Singapore, SG, AS) if-bundle-22-2.qcore2.esin4-singapore.as6453.net                                                    
+S (6453)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 195.219.174.10  6453    343.46    (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) if-be-30-2.ecore1.emrs2-marseille.as6453.net                                                        
+╭─ 80.231.165.25   6453    343.079   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) if-bundle-2-2.qcore2.emrs2-marseille.as6453.net                                                     
+S&T (6453)  
+╰─ 80.231.91.88    6453    342.148                   (Madrid, Madrid, ES, EU) if-ae-24-2.tcore1.wv6-madrid.as6453.net                                                             
+   80.231.91.94    6453    343.269                        (Madrid, M, ES, EU) if-ae-17-2.thar1.mdo-madrid.as6453.net                                                              
+╭─ 80.231.0.35     6453    343.545                        (Madrid, M, ES, EU) *                                                                                                   
+S&T (6453)  
+╰─ 80.231.159.40   6453    341.416                     (Lisbon, None, PT, EU) if-ae-31-2.tcore2.pv9-lisbon.as6453.net                                                             
+   80.231.159.26   37468   341.496                       (Lisbon, 11, PT, EU) *                                                                                                   
+   185.148.112.152 37468   186.917                   (Lisbon, Lisbon, PT, EU) 152.112.148.185.angolacables.ao                                                                     

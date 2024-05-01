@@ -1,0 +1,37 @@
+   10.252.4.170    *       0.0                                            ***                                                                                                     
+   10.252.4.169    *       0.112                                          ***                                                                                                     
+   10.252.4.153    *       0.16                                           ***                                                                                                     
+   10.252.0.37     *       14.241                                         ***                                                                                                     
+   10.252.2.138    *       16.794                                         ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 154.25.16.81    174     18.492                (Istanbul, Istanbul, TR, AS) be3821.rcr71.ist01.atlas.cogentco.com                                                               
+S (174)  
+├─ 154.54.74.226   174     27.063                         (Lyon, ARA, FR, EU) be2881.rcr21.lys01.atlas.cogentco.com                                                               
+LHL (174)  
+├─ 130.117.0.94    174     35.21                        (Belgrade, 0, RS, EU) be3421.ccr51.beg03.atlas.cogentco.com                                                               
+T (174)  
+├─ 130.117.0.125   174     37.431                      (Budapest, PE, HU, EU) be3422.ccr31.bud01.atlas.cogentco.com                                                               
+T (174)  
+├─ 130.117.3.137   174     39.781                    (Bratislava, BL, SK, EU) be3261.ccr21.bts01.atlas.cogentco.com                                                               
+T (174)  
+├─ 154.54.59.86    174     43.46                          (Vienna, 9, AT, EU) be2988.ccr51.vie01.atlas.cogentco.com                                                               
+LHL (174, 1299)  
+├─ 130.117.14.182  1299    44.603                        (None, None, SE, EU) *                                                                                                   
+S&T (1299)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 62.115.138.22   1299    54.286          (Frankfurt am Main, Hesse, DE, EU) ffm-bb2-link.ip.twelve99.net                                                                        
+T (1299)  
+├─ 62.115.122.138  1299    64.895              (Paris, Île-de-France, FR, EU) prs-bb2-link.ip.twelve99.net                                                                        
+S&T (1299)  
+╰─ 62.115.133.238  1299    69.869                   (London, England, GB, EU) ldn-bb2-link.ip.twelve99.net                                                                        
+   62.115.122.181  1299    72.693           (Shepherds Bush, England, GB, EU) ldn-b3-link.ip.twelve99.net                                                                         
+   62.115.52.253   1299    68.73                    (Poplar, England, GB, EU) telstra-ic-365605.ip.twelve99-cust.net                                                              
+╭─ 202.84.178.13   4637    73.096              (Camden Town, England, GB, EU) i-1008.ulcn-core01.telstraglobal.net                                                                
+S (4637)  
+╰─ 202.84.140.141  4637    379.229             (Singapore, Singapore, SG, AS) i-1000.sgcn-core01.telstraglobal.net                                                                
+   202.84.140.141  4637    379.229             (Singapore, Singapore, SG, AS) i-1000.sgcn-core01.telstraglobal.net                                                                
+╭─ 202.84.207.190  4637    381.198             (Singapore, Singapore, SG, AS) unknown.telstraglobal.net                                                                           
+S (4637)  
+╰─ 202.84.204.45   4637    379.827                     (Dubai, Dubai, AE, AS) i-102.uddm01.telstraglobal.net                                                                      
+   217.151.46.27   4637    379.369                     (Dubai, Dubai, AE, AS) unknown.telstraglobal.net                                                                           
+   156.154.53.254  12008   382.374                     (Dubai, Dubai, AE, AS)                                                                                                     

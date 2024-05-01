@@ -1,0 +1,21 @@
+   27.111.84.21    135132  0.0           (Cebu City, Central Visayas, PH, AS) ph-ceb-as135132.anchors.atlas.ripe.net                                                              
+   27.111.84.20    135132  1.832             (Baugo, Central Visayas, PH, AS) vlan509.core.ceb02.ds.network                                                                       
+   192.168.159.142 *       17.804                                         ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   192.168.159.168 *       34.713                                         ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 203.177.209.217 4775    3.421             (Baugo, Central Visayas, PH, AS)                                                                                                     
+S (4775, 1299)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 62.115.182.112  1299    65.064                      (Tokyo, Tokyo, JP, AS) tky-b2-link.ip.twelve99.net                                                                         
+╭─ 62.115.126.135  1299    64.482                      (Tokyo, Tokyo, JP, AS) tky-b3-link.ip.twelve99.net                                                                         
+S (1299)  
+╰─ 62.115.127.10   1299    157.822                 (Portland, Oregon, US, NA) port-b3-link.ip.twelve99.net                                                                        
+   62.115.142.89   1299    155.655                 (Portland, Oregon, US, NA) port-b2-link.ip.twelve99.net                                                                        
+   62.115.139.133  1299    157.674              (Seattle, Washington, US, NA) sea-b3-link.ip.twelve99.net                                                                         
+   62.115.132.157  1299    181.87               (Seattle, Washington, US, NA) sea-b1-link.ip.twelve99.net                                                                         
+   62.115.166.37   1299    176.549              (Seattle, Washington, US, NA) datacamp-ic-383205.ip.twelve99-cust.net                                                             
+   84.17.33.9      60068   176.147              (Seattle, Washington, US, NA) po77-3528.cr01.sea02.us.misaka.io                                                                   
+   170.39.227.9    35487   179.511                      (Seattle, WA, US, NA) po-09.lag.sea02.us.misaka.io                                                                        
+   170.39.227.194  917     177.261              (Seattle, Washington, US, NA) us-sea-as57695.anchors.atlas.ripe.net                                                               

@@ -1,0 +1,34 @@
+   196.49.15.189   328998  0.0              (Kampala, Central Region, UG, AF)                                                                                                     
+   196.49.15.253   328998  0.526            (Kampala, Central Region, UG, AF)                                                                                                     
+   41.191.77.205   37063   0.961            (Kampala, Central Region, UG, AF)                                                                                                     
+   129.205.30.77   37063   1.056                         (Kampala, C, UG, AF) *                                                                                                   
+╭─ 212.88.110.33   20294   0.996 (2.681)       (Kampala, Central Region, UG, AF)                                                                                                     
+LHL (20294, 16637)  
+╰─ 41.181.247.38   16637   152.355                  (London, England, GB, EU)                                                                                                     
+╭─ 41.181.244.177  16637   151.176                  (London, England, GB, EU)                                                                                                     
+T (16637)  
+├─ 41.181.190.150  16637   151.766                     (Pretoria, GP, ZA, AF) *                                                                                                   
+T (16637)  
+├─ 41.181.190.186  16637   176.936                  (London, England, GB, EU)                                                                                                     
+S&T (16637)  
+├─ 41.181.105.49   16637   151.442                  (Marseille, None, FR, EU) *                                                                                                   
+S&T (16637, 174)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 154.54.74.178   174     159.775                        (Milan, 25, IT, EU) be2865.rcr21.mil01.atlas.cogentco.com                                                               
+T (174)  
+├─ 154.54.63.221   174     182.324                  (Munich, Bavaria, DE, EU) be3814.ccr22.muc03.atlas.cogentco.com                                                               
+T (174)  
+├─ 154.54.59.181   174     188.774                        (Vienna, 9, AT, EU) be3462.ccr52.vie01.atlas.cogentco.com                                                               
+LHL (174)  
+├─ 154.54.59.190   174     214.476                      (Belgrade, 0, RS, EU) be3464.ccr51.beg03.atlas.cogentco.com                                                               
+T (174)  
+├─ 130.117.0.93    174     214.2                          (Sofia, 23, BG, EU) be3421.ccr31.sof02.atlas.cogentco.com                                                               
+S&T (174)  
+├─ 154.54.74.225   174     213.737               (Istanbul, Istanbul, TR, AS) be3571.rcr71.ist01.atlas.cogentco.com                                                               
+S (174)  
+├─ 154.54.74.206   174     212.799                        (Lyon, ARA, FR, EU) be2880.rcr21.lys01.atlas.cogentco.com                                                               
+S (174, 43391)  
+├  10.34.34.1      *       213.139                                        ***                                                                                                     
+├  10.34.35.11     *       227.615                                        ***                                                                                                     
+├  10.20.0.1       *       226.669                                        ***                                                                                                     
+╰─ 77.223.128.226  43391   226.458            (İzmir, İzmir Province, TR, AS)                                                                                                     

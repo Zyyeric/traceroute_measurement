@@ -1,0 +1,19 @@
+   84.88.18.254    13041   0.0                 (Barcelona, Catalonia, ES, EU) anchor-anella.cesca.cat                                                                             
+   84.88.18.253    13041   0.846               (Barcelona, Catalonia, ES, EU) anella-anchor.cesca.cat                                                                             
+   130.206.214.97  766     9.265                     (Madrid, Madrid, ES, EU) anella-ppal-as13041.ethtrunk11-81.telmad.rt3.mad.red.rediris.es                                     
+╭─ 83.97.90.20     21320   9.119                     (Madrid, Madrid, ES, EU) rediris-ias-geant-gw.mad.es.geant.net                                                               
+S&T (21320, 20965)  
+├─ 62.40.98.227    20965   30.166    (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) ae2.rt1.mar.fr.geant.net                                                                            
+T (20965)  
+╰─ 62.40.98.236    20965   29.609                    (Genève, Geneva, CH, EU) ae4.mx1.gen.ch.geant.net                                                                            
+╭─ 62.40.98.182    20965   43.843                      (Geneva, None, CH, EU) ae5.mx1.gen.ch.geant.net                                                                            
+T (20965, 6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.223.253 6939    40.186                       (London, ENG, GB, EU) port-channel7.core3.lon2.he.net                                                                     
+   184.104.197.217 6939    38.82                        (London, ENG, GB, EU) ve958.core2.lon2.he.net                                                                             
+╭─ 216.66.88.58    15412   42.953                       (London, ENG, GB, EU) flag-as-as15412.10gigabitethernet2-2.core1.lon2.he.net                                              
+S&T (15412)  
+╰─ 85.95.26.146    15412   69.868                    (Marseille, PAC, FR, EU) ae4.0.cjr01.mrs002.flagtel.com                                                                      
+╭─ 85.95.25.93     15412   172.441                   (Marseille, PAC, FR, EU) xe-4-0-1.0.cjr01.mrs002.flagtel.com                                                                 
+S&T (15412)  
+╰─ 80.77.4.60      15412   170.256                     (Dubai, Dubai, AE, AS)                                                                                                     

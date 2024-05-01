@@ -1,0 +1,12 @@
+   185.14.96.232   211186  0.0                (Lamía, Central Greece, GR, EU)                                                                                                     
+   185.14.96.225   211186  0.633              (Lamía, Central Greece, GR, EU) vlan4090.lamia.fast.net.gr                                                                          
+   212.205.28.249  6799    0.693              (Lamía, Central Greece, GR, EU) 249.28.205.212.static.otenet.gr                                                                     
+   79.128.234.128  6799    3.667                    (Maroúsi, Attica, GR, EU)                                                                                                     
+   62.75.3.17      12713   2.918 (5.035)        (Néa Chalkidóna, Attica, GR, EU) kolasr02-hu-0-8-0-0.ath.oteglobe.gr                                                                 
+╭─ 62.75.4.226     *       39.982                    (Athens, Attica, GR, EU)                                                                                                     
+LHL (, 3491)  mednautilus-submarine-system ✘ ↠ asia-africa-europe-1-aae-1 ✘ || mednautilus-submarine-system ✘ ↠ seamewe-3 ✘
+├─ 80.249.209.37   3491    58.674                     (Amsterdam, NH, NL, EU) TenGE13-2.br02.ams01.pccwbtn.net                                                                    
+LHL (3491)  falcon ✓ ↠ seacomtata-tgn-eurasia ✓ || seamewe-4 ✓ ↠ seacomtata-tgn-eurasia ✓ || seamewe-3 👍 ↠ seacomtata-tgn-eurasia ✓ || seamewe-5 ✓ ↠ seacomtata-tgn-eurasia ✓ || asia-africa-europe-1-aae-1 👍 ↠ seacomtata-tgn-eurasia ✓ || flag-europe-asia-fea ✓ ↠ seacomtata-tgn-eurasia ✓ || europe-india-gateway-eig ✓ ↠ seacomtata-tgn-eurasia ✓ || imewe ✓ ↠ seacomtata-tgn-eurasia ✓
+├─ 63.223.6.46     3491    218.888                      (Maputo, MPM, MZ, AF) be42.br01.mpm02.pccwbtn.net                                                                         
+S (3491)  
+╰─ 41.221.208.94   3491    218.22             (Johannesburg, Gauteng, ZA, AF) 41-221-208-94.static.pccwglobal.net                                                                 

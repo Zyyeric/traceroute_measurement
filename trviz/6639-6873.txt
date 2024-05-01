@@ -1,0 +1,30 @@
+   193.50.97.164   2200    0.0                   (Plouzané, Brittany, FR, EU) anchor.netlab.enstb.org                                                                             
+   193.50.97.161   2200    0.325                 (Plouzané, Brittany, FR, EU) netlab-gw.enstb.org                                                                                 
+   192.108.116.201 50897   0.399                 (Plouzané, Brittany, FR, EU) asr-vlan39.enst-bretagne.fr                                                                         
+   193.51.188.10   2200    0.387 (6.41)        (Saint-Brieuc, Brittany, FR, EU) vl807-pc1-brest1-rtr-021.noc.renater.fr                                                             
+   193.51.177.174  2200    12.063              (Paris, Île-de-France, FR, EU) et-5-2-1-ren-nr-paris1-rtr-131.noc.renater.fr                                                       
+╭─ 83.97.89.9      20965   11.987                        (Paris, IDF, FR, EU) renater-ias-geant-gw.par.fr.geant.net                                                               
+S&T (20965)  
+├─ 62.40.98.106    20965   19.549                        (Lisbon, 11, PT, EU) ae0.mx2.lis.pt.geant.net                                                                            
+S&T (20965)  
+├─ 62.40.98.64     20965   18.494                   (London, England, GB, EU) ae2.mx1.lon.uk.geant.net                                                                            
+S (20965, 6461)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 64.125.29.126   6461    154.624                     (New York, NY, US, NA) ae5.cs1.lga5.us.eth.zayo.com                                                                        
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 64.125.29.53    6461    152.562                  (Los Angeles, CA, US, NA) ae3.cs1.lax112.us.eth.zayo.com                                                                      
+S (6461, 7473)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 203.208.171.117 7473    153.059                       (None, None, SG, AS) *                                                                                                   
+   203.208.182.77  7473    317.123                       (None, None, SG, AS) *                                                                                                   
+   203.208.158.10  7473    314.339             (Singapore, Singapore, SG, AS)                                                                                                     
+   203.208.158.162 4845    327.648             (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 203.208.148.82  202196  326.217                       (None, None, SG, AS) *                                                                                                   
+S (202196)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 37.10.40.14     202196  328.503             (Hong Kong, Hong Kong, HK, AS)                                                                                                     

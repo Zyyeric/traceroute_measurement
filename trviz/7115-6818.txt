@@ -1,0 +1,11 @@
+   63.222.40.114   3491    0.0                       (Taipei, Taiwan, TW, AS) ncic.te0-1-0-23.br01.tap04.as3491.net                                                               
+╭─ 63.222.40.113   3491    0.915                      (Neihu, Taiwan, TW, AS) te0-1-0-23.br01.tap04.as3491.net                                                                    
+S (3491)  seamewe-3 👍 || eac-c2c ✓ || apcn-2 👍 || flag-north-asia-loopreach-north-asia-loop 👍 || asia-pacific-gateway-apg ✓
+├─ 63.218.210.86   3491    80.116                   (Hong Kong, None, HK, AS) HundredGE0-0-0-0.br05.hkg15.pccwbtn.net                                                             
+S (3491, 7642)  apcn-2 👍 || southeast-asia-japan-cable-sjc ✓ || seamewe-3 👍 || eac-c2c ✓ || asia-pacific-gateway-apg ✓ || tata-tgn-intra-asia-tgn-ia ✓ || asia-submarine-cable-express-asecahaya-malaysia ✓ || asia-america-gateway-aag-cable-system ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 74.82.51.50     7642    158.025                     (Singapore, 4, SG, AS) dhivehi-raajjeyge-gulhan-plc.10gigabitethernet1-1-28.switch2.sin1.he.net                            
+S (7642)  
+╰─ 202.1.205.242   7642    159.893                       (None, None, MV, AS) xe-1-0-0-1.rt.dhivehinet.net.mv                                                                     
+   123.176.1.4     7642    161.112                (Male, Kaafu Atoll, MV, AS)                                                                                                     

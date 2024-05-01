@@ -1,0 +1,13 @@
+   116.206.155.229 45117   0.0                   (Ahmedabad, Gujarat, IN, AS)                                                                                                     
+   116.206.155.225 45117   0.908                 (Ahmedabad, Gujarat, IN, AS)                                                                                                     
+   121.241.90.57   4755    0.643                 (Ahmedabad, Gujarat, IN, AS) 121.241.90.57.static-ahmedabad.vsnl.net.in                                                          
+   172.28.176.253  *       8.998                                          ***                                                                                                     
+   180.87.38.5     6453    9.139                         (Mumbai, MH, IN, AS) ix-ae-0-100.tcore1.mlv-mumbai.as6453.net                                                            
+╭─ 180.87.38.2     6453    138.506                       (Mumbai, MH, IN, AS) if-ae-2-2.tcore2.mlv-mumbai.as6453.net                                                              
+S (6453)  
+├─ 180.87.39.21    6453    136.203                  (London, England, GB, EU) if-ae-12-2.tcore1.l78-london.as6453.net                                                             
+S (6453, 41364)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 141.136.97.102  41364   160.834                       (None, None, US, NA) consorzio-gw.ip4.gtt.net                                                                            
+LHL (41364)  
+╰─ 194.116.77.35   41364   161.735                  (Turin, Piedmont, IT, EU)                                                                                                     

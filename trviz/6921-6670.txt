@@ -1,0 +1,13 @@
+   92.223.59.77    202422  0.0                      (London, England, GB, EU)                                                                                                     
+   92.223.59.3     202422  0.383                        (London, ENG, GB, EU) vrrp.gcore.lu                                                                                       
+   10.255.85.181   *       0.278                                          ***                                                                                                     
+   10.255.85.179   *       0.772                                          ***                                                                                                     
+   10.255.19.137   *       1.06                                           ***                                                                                                     
+╭─ 195.66.225.161  6762    0.905 (1.885)                 (London, ENG, GB, None) cc-uk-thn-01-linx-01.controlcircle.com                                                              
+S (6762, 29169)  
+├  100.99.0.229    *       7.563                                          ***                                                                                                     
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 173.246.102.25  29169   12.638                        (None, None, US, NA) et20-1.core-2.csd5.paris.ip4.as29169.net                                                            
+S (29169, 203476)  
+╰─ 217.70.176.11   203476  7.26               (Maisons-Laffitte, IDF, FR, EU) Ethernet31-1.dcgw-1b.sd5.paris.ip4.as29169.net                                                      
+   92.243.9.77     203476  7.732               (Paris, Île-de-France, FR, EU) ripe-atlas-sd5.ghst.net                                                                             

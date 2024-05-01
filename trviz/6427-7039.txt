@@ -1,0 +1,20 @@
+   103.170.232.152 142616  0.0                         (Tokyo, Tokyo, JP, AS) user-103-170-232-152.nrt04.jp.misaka.io                                                             
+   103.170.232.11  142616  0.107                       (Tokyo, Tokyo, JP, AS) po-31.lag.nrt04.jp.misaka.io                                                                        
+   103.170.232.2   142616  0.186                       (Tokyo, Tokyo, JP, AS) spine1.nrt04.jp.misaka.io                                                                           
+╭─ 199.119.64.140  969     0.185                       (Tokyo, Tokyo, JP, AS) e53-20.cr2a.eqty8.nrt4.jp.917.as                                                                    
+S (969)  
+├─ 199.119.64.94   969     0.272               (San Jose, California, US, NA) po100.cr1a.eqty8.nrt4.jp.917.as                                                                     
+S (969, 137409)  
+╰─ 160.202.164.140 137409  0.315                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+   206.148.24.34   7578    0.323                       (Tokyo, Tokyo, JP, AS) po50-2.ty-eqxty8-cr2.globalsecurelayer.com                                                          
+   206.148.24.47   7578    0.448                       (Tokyo, Tokyo, JP, AS) po2.ty-eqxty8-bb5.globalsecurelayer.com                                                             
+╭─ 206.148.24.50   7578    0.555                       (Tokyo, Tokyo, JP, AS) e52.ty-eqxty8-bb5.globalsecurelayer.com                                                             
+S (7578)  
+╰─ 206.148.25.85   7578    97.692           (Los Angeles, California, US, NA) e50.lax-csla2-bb1.globalsecurelayer.com                                                             
+╭─ 206.148.27.251  7578    97.823           (Los Angeles, California, US, NA)                                                                                                     
+S (7578, 9268)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 119.17.170.244  9268    197.155          (Sydney, New South Wales, AU, OC) gen-119-17-170-244.ptr4.otw.net.au                                                                  

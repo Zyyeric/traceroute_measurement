@@ -1,0 +1,14 @@
+   180.211.88.22   45725   0.0                     (Jakarta, Jakarta, ID, AS) id-jkt-as45725.anchors.atlas.ripe.net                                                               
+   180.211.88.21   45725   0.462                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+╭─ 43.230.153.89   *       0.553                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+S&T (, 6939)  australia-singapore-cable-asc ✘ || matrix-cable-system ✘ || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || indonesia-global-gateway-igg-system ✘ || seamewe-3 ✘ || indigo-west ✘ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || jasuka ✘ || jakabare ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├  10.110.4.6      *       12.754                                         ***                                                                                                     
+╰─ 103.16.102.146  6939    14.491                    (Singapore, 1, SG, None) argon.sgix.sg                                                                                       
+   10.79.3.46      *       14.151                                         ***                                                                                                     
+   10.79.2.66      *       13.492                                         ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 45.77.39.153    20473   13.759              (Singapore, Singapore, SG, AS) router01-vul-sin.as151332.net                                                                       
+S (20473, 7545)  australia-singapore-cable-asc ✓ || indigo-west ✓ || seamewe-3 ✓
+╰─ 203.192.83.254  7545    132.195              (Melbourne, Victoria, AU, OC) ip-254-83-192-203.static.pipenetworks.com                                                           
+   103.179.37.157  151332  132.315              (Melbourne, Victoria, AU, OC)                                                                                                     

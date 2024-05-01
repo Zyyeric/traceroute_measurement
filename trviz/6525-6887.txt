@@ -1,0 +1,18 @@
+   27.111.84.21    135132  0.0           (Cebu City, Central Visayas, PH, AS) ph-ceb-as135132.anchors.atlas.ripe.net                                                              
+   27.111.84.20    135132  1.177             (Baugo, Central Visayas, PH, AS) vlan509.core.ceb02.ds.network                                                                       
+   192.168.159.142 *       3620.679                                       ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   192.168.159.165 *       1.084                                          ***                                                                                                     
+╭─ 203.177.209.217 4775    2.583             (Baugo, Central Visayas, PH, AS)                                                                                                     
+S (4775, 6939)  sea-us 👍 || pacific-light-cable-network-plcn ✓ || asia-america-gateway-aag-cable-system ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.223.126 6939    197.67              (San Jose, California, US, NA) port-channel1.core4.sjc2.he.net                                                                     
+   184.104.198.254 6939    198.254             (San Jose, California, US, NA) port-channel7.core2.pao1.he.net                                                                     
+   184.105.177.238 46749   194.44                    (Pleasanton, CA, US, NA) stanford-university.100gigabitethernet5-1.core1.pao1.he.net                                         
+   171.66.0.238    32      193.216                     (Stanford, CA, US, NA) csee-west-rtr-vl12.SUNet                                                                            
+   ***             *       -inf                                           *** *                                                                                                   
+   171.67.70.16    32      194.458             (Stanford, California, US, NA) us-pao-as32.anchors.atlas.ripe.net                                                                  

@@ -1,0 +1,23 @@
+   176.119.210.244 56457   0.0                       (Athens, Attica, GR, EU)                                                                                                     
+   176.119.210.253 56457   0.693                 (Áno Liósia, Attica, GR, EU)                                                                                                     
+   185.201.254.38  56457   0.225                 (Áno Liósia, Attica, GR, EU) te0-4.ef2.ath01.fastpath.gr                                                                         
+   185.201.254.26  56457   0.411                 (Áno Liósia, Attica, GR, EU) be3502.er0.ath01.fastpath.gr                                                                        
+╭─ 149.11.120.65   174     1.072                 (Áno Liósia, Attica, GR, EU) be7183.rcr21.ath01.atlas.cogentco.com                                                               
+S (174)  
+├─ 154.54.37.141   174     7.879                         (Malaga, AN, ES, EU) be2694.rcr21.agp01.atlas.cogentco.com                                                               
+LHL (174)  
+├─ 130.117.0.189   174     12.676              (Sofia, Sofia-Capital, BG, EU) be2046.ccr31.sof02.atlas.cogentco.com                                                               
+S&T (174)  
+├─ 130.117.48.182  174     21.267                      (Bucharest, B, RO, EU) be3331.ccr31.buh01.atlas.cogentco.com                                                               
+LHL (174, 1299)  
+├─ 130.117.14.218  1299    20.746                        (Prague, PR, CZ, EU) telia.prg01.atlas.cogentco.com                                                                      
+LHL (1299, 3257)  
+╰─ 213.200.119.214 3257    55.915                        (Paris, IDF, FR, EU) et-3-3-0.cr2-par7.ip4.gtt.net                                                                       
+   77.67.123.206   2200    61.472                        (Paris, IDF, FR, EU) renater-gw-ix1.gtt.net                                                                              
+   193.55.204.193  2200    64.011                       (Paris, None, FR, EU) et-2-0-0-ren-nr-paris2-rtr-131.noc.renater.fr                                                       
+   193.51.177.239  2200    63.599                  (Rennes, Brittany, FR, EU) hu0-3-0-1-ren-nr-lyon2-rtr-091.noc.renater.fr                                                       
+   193.55.204.15   2200    63.639                      (Rennes, None, FR, EU) te0-3-0-0-ren-nr-rennes-rtr-091.noc.renater.fr                                                      
+   193.51.181.93   2200    2659.658                  (Grenoble, None, FR, EU) man-tigre-te1-4-grenoble-rtr-021.noc.renater.fr                                                     
+   193.54.185.10   1942    63.867             (Épinay-sur-Seine, IDF, FR, EU) r-epn.grenet.fr                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   193.49.43.151   2200    63.848    (Grenoble, Auvergne-Rhône-Alpes, FR, EU)                                                                                                     

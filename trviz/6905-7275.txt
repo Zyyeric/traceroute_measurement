@@ -1,0 +1,11 @@
+   180.211.88.22   45725   0.0                     (Jakarta, Jakarta, ID, AS) id-jkt-as45725.anchors.atlas.ripe.net                                                               
+   180.211.88.21   45725   0.511                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+   43.230.153.89   *       0.53                    (Jakarta, Jakarta, ID, AS)                                                                                                     
+╭─ 111.92.161.4    55655   0.87                    (Jakarta, Jakarta, ID, AS)                                                                                                     
+S&T (55655, 59238)  australia-singapore-cable-asc ✘ || matrix-cable-system ✘ || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || indonesia-global-gateway-igg-system ✘ || seamewe-3 ✘ || indigo-west ✘ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || jasuka ✘ || jakabare ✘
+├  10.110.4.6      *       12.592                                         ***                                                                                                     
+├─ 103.135.108.11  59238   12.144                        (None, None, SG, AS) csw-sg1.csw.byteark.com                                                                             
+S&T (59238)  asia-america-gateway-aag-cable-system ✓ || seamewe-4 ✘ || seamewe-3 ✘
+├  172.21.21.4     *       39.675                                         ***                                                                                                     
+├  172.24.132.102  *       38.532                                         ***                                                                                                     
+╰─ 103.253.132.25  59238   39.955                  (Bangkok, Bangkok, TH, AS) th-bkk-as59238.anchors.atlas.ripe.net                                                               

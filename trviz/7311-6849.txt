@@ -1,0 +1,11 @@
+   203.119.111.139 4608    0.0                 (Brisbane, Queensland, AU, OC) anchor.apnic.net                                                                                    
+   203.119.111.131 4608    0.583               (Brisbane, Queensland, AU, OC) vl-1705.nxcs2.hosted.au.apnic.net                                                                   
+   203.119.104.29  4608    0.447                      (Brisbane, QLD, AU, OC) te-0-1-5.nxgw2.bne.apnic.net                                                                        
+   203.119.104.81  4608    0.492                   (Hope Island, QLD, AU, OC) po-11-921.nxgw1.bne.apnic.net                                                                       
+   184.104.197.182 6939    14.245                     (Brisbane, QLD, AU, OC) port-channel1.core1.bne1.he.net                                                                     
+╭─ 64.71.180.153   6939    16.463                       (Sydney, NSW, AU, OC) e0-9.core2.syd1.he.net                                                                              
+S (6939)  hawaiki ✘ || southern-cross-cable-network-sccn ✓ || southern-cross-next ✓
+╰─ 64.71.184.45    6939    162.336                     (San Jose, CA, US, NA) 10gigabitethernet5-13.core1.sjc1.he.net                                                             
+   64.71.166.231   6939    159.205             (San Jose, California, US, NA) macarne-llc.e0-1.switch1.snt3.he.net                                                                
+   ***             *       -inf                                           *** *                                                                                                   
+   23.155.72.145   64289   161.975          (Santa Clara, California, US, NA)                                                                                                     

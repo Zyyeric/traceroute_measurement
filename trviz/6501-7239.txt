@@ -1,0 +1,18 @@
+   102.130.66.11   37468   0.0                       (Luanda, Luanda, AO, AF)                                                                                                     
+╭─ 102.130.66.1    37468   0.347                     (Luanda, Luanda, AO, AF)                                                                                                     
+S (37468)  south-atlantic-cable-system-sacs 👍
+├  100.64.192.118  *       0.347 (1.787)                                     ***                                                                                                     
+╰─ 170.238.232.145 37468   62.35                         (None, None, BR, SA) *                                                                                                   
+╭─ 170.238.233.163 22697   125.303                       (None, None, BR, SA) 163.233.238.170.angolacables.ao                                                                     
+S (22697, 3356)  
+├─ 4.37.37.165     3356    127.13                    (Miami, Florida, US, NA) et-7-0-5.edge6.miami1.level3.net                                                                    
+S (3356, 206347)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 212.187.165.78  206347  206.691                     (London, None, GB, EU) RANSTON-LIM.ear1.London1.Level3.net                                                                 
+   138.124.175.82  206347  209.157                  (Gillingham, ENG, GB, EU) *                                                                                                   
+   138.124.175.150 206347  209.694         (Iwerne Courtney, England, GB, EU)                                                                                                     
+   138.124.175.158 206347  209.804         (Blandford Forum, England, GB, EU)                                                                                                     
+   138.124.175.174 206347  210.05          (Blandford Forum, England, GB, EU)                                                                                                     
+   138.124.175.190 206347  210.194         (Blandford Forum, England, GB, EU)                                                                                                     
+   37.143.136.249  196745  210.252                 (Bournemouth, ENG, GB, EU) *                                                                                                   
+   37.143.141.141  196745  210.231                   (Poole, England, GB, EU) atlas.datacenta.net                                                                                 

@@ -1,0 +1,15 @@
+   103.253.132.25  59238   0.0                     (Bangkok, Bangkok, TH, AS) th-bkk-as59238.anchors.atlas.ripe.net                                                               
+   103.253.132.1   59238   0.37                 (Khlong San, Bangkok, TH, AS) gw-cat.idc.inox.co.th                                                                               
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 122.155.224.73  4651    2.032                (Khlong San, Bangkok, TH, AS)                                                                                                     
+S&T (4651)  asia-america-gateway-aag-cable-system ✓ || seamewe-4 ✓ || seamewe-3 ✓
+╰─ 61.19.9.90      4651    28.695                   (Singapore, None, SG, AS) *                                                                                                   
+   180.87.96.148   6453    39.503                   (Singapore, None, SG, AS) ix-ae-39-0.tcore1.svq-singapore.as6453.net                                                          
+   62.216.157.161  15412   53.708                      (Singapore, 4, SG, AS) *                                                                                                   
+╭─ 62.216.137.166  15412   53.727                      (Singapore, 4, SG, AS) ae7.0.cjr02.sin001.flagtel.com                                                                      
+S (15412, 12486)  
+├─ 80.77.2.206     12486   59.625                        (None, None, GB, EU) *                                                                                                   
+S (12486, 23944)  
+├  172.31.31.109   *       57.803                                         ***                                                                                                     
+╰─ 182.18.209.9    23944   56.647              (Manila, Metro Manila, PH, AS)                                                                                                     

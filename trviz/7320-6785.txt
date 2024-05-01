@@ -1,0 +1,18 @@
+   103.15.246.16   58717   0.0                         (Dhaka, Dhaka, BD, AS)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   172.16.203.70   *       0.782                                          ***                                                                                                     
+   157.119.185.30  58717   1.71                            (Dhaka, C, BD, AS) *                                                                                                   
+╭─ 103.199.87.233  58717   6.165                         (None, None, BD, AS) *                                                                                                   
+S (58717)  
+╰─ 103.199.87.208  58717   51.325              (Singapore, Singapore, SG, AS) 103.199.87.208.summitiig.net                                                                        
+╭─ 184.105.80.45   6939    262.051             (Singapore, Singapore, SG, AS) port-channel21.core2.sin1.he.net                                                                    
+LHL (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.193.134 6939    183.377                       (Geneva, GE, CH, EU) 100ge0-35.core2.gva1.he.net                                                                         
+LHL (6939)  
+├─ 62.115.180.2    6939    184.537                       (None, None, SE, EU) hurricane-svc077938-ic367435.c.telia.net                                                            
+LHL (6939, )  
+├─ 91.206.52.62    *       189.62                    (Zürich, Zurich, CH, EU) swissix.ixp.abaclouda.net                                                                           
+T (, 56987)  
+╰─ 5.180.58.66     56987   183.084       (Lyon, Auvergne-Rhône-Alpes, FR, EU) 01-xe.lns01.lyn.abaclouda.net                                                                       
+   5.180.57.81     56987   181.482       (Lyon, Auvergne-Rhône-Alpes, FR, EU) fr-lio-as56987.anchors.atlas.ripe.net                                                               

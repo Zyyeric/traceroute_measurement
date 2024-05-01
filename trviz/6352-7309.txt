@@ -1,0 +1,21 @@
+   37.252.253.18   42473   0.0                      (Palermo, Sicily, IT, EU)                                                                                                     
+   37.252.253.17   42473   0.404                    (Palermo, Sicily, IT, EU) cr-01.0v-04-28.anx35.pmo.it.anexia-it.com                                                           
+   213.144.186.81  6762    0.616                    (Palermo, Sicily, IT, EU)                                                                                                     
+   185.100.113.147 6762    41.735                        (None, None, IT, EU) *                                                                                                   
+╭─ 185.100.113.147 6762    41.735                        (None, None, IT, EU) *                                                                                                   
+LHL (6762, 2603)  seamewe-4 👍 || asia-africa-europe-1-aae-1 ✓ || seamewe-5 👍 || imewe 👍 || seamewe-3 👍
+├─ 80.249.209.203  2603    47.907                     (Amsterdam, NH, NL, EU) nl-ams.nordu.net                                                                                    
+S&T (2603)  
+╰─ 109.105.102.97  2603    48.375                      (Hexton, None, GB, EU) uk-hex.nordu.net                                                                                    
+╭─ 109.105.102.98  2603    51.991                       (London, ENG, GB, EU) ndn-gw.mx1.lon.uk.geant.net                                                                         
+S&T (2603, 20965)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 62.40.98.222    20965   79.58                       (Bilbao, None, ES, EU) ae4.rt1.bil.es.geant.net                                                                            
+S&T (20965, 21320)  
+├─ 83.97.90.19     21320   62.92                    (London, England, GB, EU) rediris-ias-geant.bil.es.geant.net                                                                  
+S&T (21320, 766)  
+╰─ 130.206.245.5   766     65.966                        (None, None, ES, EU) ehu.rt2.ethtrunk5.ciemat.rt2.mad.red.rediris.es                                                     
+   130.206.245.2   766     63.424                        (None, None, ES, EU) ciemat.rt2.ae1-0.telmad.rt4.mad.red.rediris.es                                                      
+   130.206.214.98  13041   72.267                        (None, None, ES, EU) anella-router.red.rediris.es                                                                        
+   84.88.18.254    13041   71.935              (Barcelona, Catalonia, ES, EU) anchor-anella.cesca.cat                                                                             

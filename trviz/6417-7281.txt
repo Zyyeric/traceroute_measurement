@@ -1,0 +1,18 @@
+   77.92.233.166   35805   0.0                     (Tbilisi, Tbilisi, GE, AS)                                                                                                     
+   77.92.233.165   35805   0.288                   (Tbilisi, Tbilisi, GE, AS)                                                                                                     
+   188.123.128.85  35805   0.733                   (Tbilisi, Tbilisi, GE, AS) 188-123-128-85.dsl.utg.ge                                                                           
+╭─ 188.123.128.84  35805   0.717                   (Tbilisi, Tbilisi, GE, AS) 188-123-128-84.dsl.utg.ge                                                                           
+T (35805, 3356)  
+├─ 213.249.104.57  3356    18.783                    (Ankara, Ankara, TR, AS) et-0-0-25.edge1.malikoy2.level3.net                                                                 
+LHL (3356)  mednautilus-submarine-system ✓ || seamewe-5 ✓
+├─ 171.75.10.143   3356    48.665                (Budapest, Budapest, HU, EU) ae2.3203.edge1.bdp1.neo.colt.net                                                                    
+T (3356, 1299)  
+├─ 212.133.21.14   1299    51.339                        (None, None, GB, EU) *                                                                                                   
+LHL (1299, 8708)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 81.196.8.33     8708    62.437                (Targu Secuiesc, CV, RO, EU) *                                                                                                   
+   185.173.16.165  57984   62.776                        (None, None, RO, EU) *                                                                                                   
+   185.173.16.180  48112   62.989                        (None, None, RO, EU) vpe1a-ro-buh-001-vl900.xindi.eu                                                                     
+   185.173.16.151  48112   63.396              (Bucharest, București, RO, EU) ro-buh-as48112.anchors.atlas.ripe.net                                                               

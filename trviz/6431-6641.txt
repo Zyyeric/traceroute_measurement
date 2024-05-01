@@ -1,0 +1,17 @@
+   92.38.135.131   202422  0.0                         (Seoul, Seoul, KR, AS)                                                                                                     
+   92.38.135.2     202422  0.483                       (Seoul, Seoul, KR, AS) vrrp.gcore.lu                                                                                       
+   10.255.17.210   *       0.497                                          ***                                                                                                     
+   10.255.17.213   *       0.339                                          ***                                                                                                     
+   10.255.17.146   *       0.498                                          ***                                                                                                     
+╭─ 8.244.72.213    3356    0.473 (1.383)                  (Seoul, Seoul, KR, AS)                                                                                                     
+S (3356)  korea-japan-cable-network-kjcn ✓ || seamewe-3 ✓
+╰─ 4.69.217.14     3356    31.983                         (Tokyo, 13, JP, AS) ae1.3505.edge2.Tokyo4.level3.net                                                                    
+╭─ 4.68.70.86      3491    31.2                           (Tokyo, 13, JP, AS) PCCW-level3-Tokyo4.Level3.net                                                                       
+S (3491)  asia-submarine-cable-express-asecahaya-malaysia ✓ || seamewe-3 👍
+╰─ 63.223.58.66    3491    88.705                      (Singapore, 4, SG, AS) HundredGE0-3-0-0.br02.sin03.pccwbtn.net                                                             
+   63.223.58.66    3491    88.705                      (Singapore, 4, SG, AS) HundredGE0-3-0-0.br02.sin03.pccwbtn.net                                                             
+╭─ 63.218.249.166  3491    269.426             (Singapore, Singapore, SG, AS) 63-218-249-166.static.pccwglobal.net                                                                
+S (3491, 50999)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 109.171.136.4   50999   265.518             (Jeddah, Mecca Region, SA, AS)                                                                                                     

@@ -1,0 +1,16 @@
+   96.126.70.90    21659   0.0               (Moncton, New Brunswick, CA, NA) 96-126-70-90.apbx.ca                                                                                
+   96.126.70.1     21659   0.378             (Moncton, New Brunswick, CA, NA) 96-126-70-1.apbx.ca                                                                                 
+   98.143.249.17   3367    1.348             (Moncton, New Brunswick, CA, NA) enova-98-143-249-17.e-novations.ca                                                                  
+╭─ 209.51.184.133  6939    1.347             (Moncton, New Brunswick, CA, NA) port-channel2.core2.yqm1.he.net                                                                     
+S&T (6939)  exa-north-and-south ✓
+╰─ 72.52.92.9      6939    11.84              (Boston, Massachusetts, US, NA) 100ge0-78.core2.bos1.he.net                                                                         
+╭─ 184.104.194.86  6939    17.264           (New York City, New York, US, NA) 100ge0-17.core2.nyc4.he.net                                                                         
+S (6939)  exa-north-and-south ✓ || atlantic-crossing-1-ac-1 ✓ || yellow ✓ || apollo ✓ || tata-tgn-atlantic ✓ || flag-atlantic-1-fa-1 ✓
+├─ 184.104.198.125 6939    80.145                   (London, England, GB, EU) port-channel4.core3.lon2.he.net                                                                     
+S&T (6939)  circe-north ✓ || ulysses-2 ✘ || scylla ✓ || zeus ✓ || concerto ✓ || farland-north ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.193.194 6939    85.238                     (Amsterdam, NH, NL, EU) 100ge0-33.core2.ams2.he.net                                                                         
+S&T (6939, 9158)  atlantic-crossing-1-ac-1 ✓ || hronn ✘ || cantat-3 ✘ || cobracable ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 77.214.52.101   9158    108.67                         (Farum, 84, DK, EU) *                                                                                                   
+   77.214.52.102   9158    108.792           (Aalborg, North Denmark, DK, EU)                                                                                                     

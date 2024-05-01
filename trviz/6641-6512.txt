@@ -1,0 +1,19 @@
+   80.82.241.134   28792   0.0                      (London, England, GB, EU) 134-241-82-80.in-addr.pblin.net                                                                     
+   80.82.241.133   28792   0.654                    (Oxford, England, GB, EU) 133-241-82-80.in-addr.pblin.net                                                                     
+   80.82.243.126   28792   0.253                    (Witney, England, GB, EU) gi0-0-1.oxf-core-02.ip.pblin.net                                                                    
+   80.82.243.121   28792   2.797                    (London, England, GB, EU) gi2-0-1.lon-core-01.ip.pblin.net                                                                    
+╭─ 5.57.80.128     6939    3.179                        (London, ENG, GB, EU) 10gigabitethernet5-1.core1.lon1.he.net                                                              
+S (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 72.52.92.166    6939    71.455                      (New York, NY, US, NA) 100ge4-1.core1.nyc4.he.net                                                                          
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 184.105.81.150  6939    80.332                       (Ashburn, VA, US, NA) 100ge0-56.core3.ash1.he.net                                                                         
+S (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.81.70   6939    245.061                        (Seoul, 28, KR, AS) 10ge0-1.core2.sel1.he.net                                                                           
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   45.80.212.34    199524  268.108                     (Seoul, Seoul, KR, AS) vrrp.gcore.com                                                                                      
+   92.38.135.131   202422  268.411                     (Seoul, Seoul, KR, AS)                                                                                                     

@@ -1,0 +1,18 @@
+   212.43.17.42    42961   0.0         (Al Farwānīyah, Al Farwaniyah, KW, AS)                                                                                                     
+   212.43.17.41    42961   1.366             (Kuwait City, Al Asimah, KW, AS)                                                                                                     
+   10.32.1.110     *       1.027                                          ***                                                                                                     
+   10.32.1.101     *       1.604                                          ***                                                                                                     
+╭─ 151.248.98.145  59605   1.009             (Kuwait City, Al Asimah, KW, AS)                                                                                                     
+LHL (59605)  falcon ✓ ↠ seamewe-5 ✓ || falcon ✓ ↠ seamewe-4 ✓ || falcon ✓ ↠ asia-africa-europe-1-aae-1 ✓ || falcon ✓ ↠ peace-cable ✘ || falcon ✓ ↠ imewe ✓ || falcon ✓ ↠ seamewe-3 ✓
+├─ 151.248.96.28   59605   84.363          (Frankfurt am Main, Hesse, DE, EU)                                                                                                     
+LHL (59605, 6939)  apollo ✘ || flag-atlantic-1-fa-1 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 72.52.92.70     6939    90.742                      (San Jose, CA, US, NA) 10ge7-5.core1.sjc2.he.net                                                                           
+S (6939)  sea-us ✓ ↠ asia-america-gateway-aag-cable-system ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.194.201 6939    248.775             (Singapore, Singapore, SG, AS) port-channel14.core3.sin1.he.net                                                                    
+S (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.220.67  6939    194.164             (Hong Kong, Hong Kong, HK, AS) lshiy.e0-30.switch1.hkg1.he.net                                                                     
+   103.203.243.11  955     196.223             (Hong Kong, Hong Kong, HK, AS) multi-user.port-channe17.switch1.hkg1.bb.lshiy.net                                                  
+   89.213.179.65   32167   194.019             (Hong Kong, Hong Kong, HK, AS) 89-213-179-65.ip.lshiyusercontent.com                                                               

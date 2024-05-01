@@ -1,0 +1,20 @@
+   77.223.128.226  43391   0.0                (İzmir, İzmir Province, TR, AS)                                                                                                     
+   10.200.0.1      *       0.377                                          ***                                                                                                     
+   10.20.0.251     *       1.107                                          ***                                                                                                     
+   212.156.144.45  9121    0.711            (Bornova, İzmir Province, TR, AS) 212.156.144.45.static.turktelekom.com.tr                                                            
+   81.212.214.180  9121    0.659            (Bornova, İzmir Province, TR, AS) 35-hatay-sr12e-t2-1---35-hatay-sr12e-t3-1.statik.turktelekom.com.tr                                 
+   81.212.212.240  9121    0.939                         (None, None, TR, AS) 35-izmir-xrs-t2-1---35-hatay-sr12e-t2-1.statik.turktelekom.com.tr                                   
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 212.156.141.28  9121    49.827             (İzmir, İzmir Province, TR, AS) 306-mil-col-1---35-ebgp-izmir-sr12e-k.statik.turktelekom.com.tr                                     
+S&T (9121, 2914)  
+╰─ 81.25.202.149   2914    48.692                   (Milan, Lombardy, IT, EU)                                                                                                     
+╭─ 129.250.5.150   2914    50.04                    (Milan, Lombardy, IT, EU) ae-1.r21.mlanit02.it.bb.gin.ntt.net                                                                 
+LHL (2914)  
+╰─ 129.250.3.183   2914    53.093                        (None, None, US, NA) ae-6.r21.frnkge13.de.bb.gin.ntt.net                                                                 
+   129.250.6.1     2914    52.969                        (None, None, US, NA) ae-0.r20.frnkge13.de.bb.gin.ntt.net                                                                 
+   129.250.3.12    2914    62.51                         (None, None, US, NA) ae-14.r21.londen12.uk.bb.gin.ntt.net                                                                
+╭─ 129.250.3.215   2914    61.718                        (None, None, US, NA) ae-1.a02.londen12.uk.bb.gin.ntt.net                                                                 
+S (2914)  
+╰─ 157.238.226.5   2914    67.59                    (Poplar, England, GB, EU) ae-0.marbis.londen12.uk.bb.gin.ntt.net                                                              
+   46.251.228.200  199610  68.973                        (None, None, GB, EU) *                                                                                                   
+   5.62.127.14     199610  70.457                   (London, England, GB, EU)                                                                                                     

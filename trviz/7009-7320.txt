@@ -1,0 +1,13 @@
+   5.180.57.81     56987   0.0           (Lyon, Auvergne-Rhône-Alpes, FR, EU) fr-lio-as56987.anchors.atlas.ripe.net                                                               
+   5.180.57.80     56987   0.197     (Saint-Fons, Auvergne-Rhône-Alpes, FR, EU) 80-57-180-5.rev.abaclouda.net                                                                       
+   5.180.58.70     56987   0.261     (Saint-Fons, Auvergne-Rhône-Alpes, FR, EU) 01-xe.bgp03.lyn.abaclouda.net                                                                       
+   213.248.78.142  1299    0.544     (Saint-Fons, Auvergne-Rhône-Alpes, FR, EU) lyon-b1-link.ip.twelve99.net                                                                        
+   62.115.115.234  1299    0.468 (4.522)(Marseille, Provence-Alpes-Côte d'Azur, FR, EU) mei-b5-link.ip.twelve99.net                                                                         
+╭─ 212.221.88.253  3257    11.165                    (Marseille, PAC, FR, EU) ae9.cr6-mrs1.ip4.gtt.net                                                                            
+S&T (3257)  seamewe-3 ✓
+├─ 89.149.139.25   3257    19.114                       (London, ENG, GB, EU) ae22.cr11-lon1.ip4.gtt.net                                                                          
+S&T (3257, 8895)  circe-north ✓ || ulysses-2 ✘ || scylla © || zeus ✓ || atlantic-crossing-1-ac-1 ✓ || concerto ✘ || farland-north ✘
+├─ 154.14.64.198   8895    110.574                    (Amsterdam, NH, NL, EU) ip4.gtt.net                                                                                         
+LHL (8895, 208520)  tata-tgn-gulf ✓ || falcon ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 45.94.14.204    208520  101.817            (Riyadh, Riyadh Region, SA, AS)                                                                                                     

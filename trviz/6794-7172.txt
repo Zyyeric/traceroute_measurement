@@ -1,0 +1,12 @@
+   63.222.106.8    3491    0.0                         (Seoul, Seoul, KR, AS) 63-222-106-8.static.pccwglobal.net                                                                  
+╭─ 63.222.106.2    3491    0.712                (Yongsan-dong, Seoul, KR, AS) 63-222-106-2.static.pccwglobal.net                                                                  
+S (3491)  apcn-2 👍 || asia-pacific-gateway-apg ✓ || flag-north-asia-loopreach-north-asia-loop 👍 || eac-c2c ✓ || new-cross-pacific-ncp-cable-system ✓ || korea-japan-cable-network-kjcn ✓ || seamewe-3 👍 || flag-europe-asia-fea ✓ || trans-pacific-express-tpe-cable-system ✓
+╰─ 63.218.250.78   3491    30.517                      (Tokyo, Tokyo, JP, AS) bundle-eth53.clbr01.tok02.as3491.net                                                                
+╭─ 63.216.242.46   20473   31.496                         (Tokyo, 13, JP, AS) ssi-labo.gi0-0-0-3.843.br04.tok01.pccwbtn.net                                                       
+S (20473, 46997)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 141.193.21.2    46997   30.747                        (None, None, US, NA) tky01.jp.nat.moe                                                                                    
+   141.193.21.6    46997   130.965              (Seattle, Washington, US, NA) sea01.us.nat.moe                                                                                    
+   141.193.21.100  46997   131.918              (Seattle, Washington, US, NA) us-sea-as46997.anchors.atlas.ripe.net                                                               

@@ -1,0 +1,13 @@
+   89.213.179.65   32167   0.0                 (Hong Kong, Hong Kong, HK, AS) 89-213-179-65.ip.lshiyusercontent.com                                                               
+   89.213.179.64   32167   0.064             (Kadoorie, Kowloon City, HK, AS) 89-213-179-64.ip.lshiyusercontent.com                                                               
+╭─ 103.203.243.10  955     0.19              (Kadoorie, Kowloon City, HK, AS) port-channe17.switch1.hkg1.bb.lshiy.net                                                             
+S (955, 6939)  asia-america-gateway-aag-cable-system ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.194.37  6939    152.077                     (San Jose, CA, US, NA) 100ge12-2.core1.sjc2.he.net                                                                         
+   184.105.81.82   6939    153.895             (San Jose, California, US, NA) port-channel10.core2.pao1.he.net                                                                    
+   184.104.193.26  6939    172.43                      (Portland, OR, US, NA) 100ge14-1.core1.pdx1.he.net                                                                         
+   184.104.199.69  6939    171.298              (Seattle, Washington, US, NA) port-channel15.core2.sea1.he.net                                                                    
+   206.81.80.21    13331   175.403                    (Seattle, WA, US, None) six1.metapeer.com                                                                                   
+   207.229.73.34   13331   183.357                       (None, None, US, NA) irb-983.c8cc1.sea.metapeer.com                                                                      
+   204.15.11.34    13331   171.067               (SeaTac, Washington, US, NA)                                                                                                     

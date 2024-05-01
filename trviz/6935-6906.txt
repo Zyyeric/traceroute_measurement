@@ -1,0 +1,17 @@
+   185.92.128.30   60924   0.0                         (Dubai, Dubai, AE, AS)                                                                                                     
+   185.92.128.3    60924   0.262                       (Dubai, Dubai, AE, AS)                                                                                                     
+╭─ 151.248.103.94  59605   0.768                       (Dubai, Dubai, AE, AS)                                                                                                     
+S (59605)  fiber-optic-gulf-fog ✓ || falcon ✓ || tata-tgn-gulf ✓ || gulf-bridge-international-cable-system-gbicsmiddle-east-north-africa-mena-cable-system ✓
+╰─ 151.248.96.175  59605   175.507                       (None, None, BH, AS) *                                                                                                   
+╭─ 151.248.96.175  59605   175.507                       (None, None, BH, AS) *                                                                                                   
+LHL (59605, 37468)  falcon ✓ ↠ europe-india-gateway-eig ✓ || falcon ✓ ↠ seamewe-3 ✓ || falcon ✓ ↠ flag-europe-asia-fea ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 185.148.112.209 37468   251.789                      (London, ENG, GB, EU) *                                                                                                   
+T (37468)  
+├  100.64.192.12   *       320.803                                        ***                                                                                                     
+╰─ 102.130.68.113  37468   334.154                 (Johannesburg, GT, ZA, AF) *                                                                                                   
+   102.130.70.58   37468   416.838            (Johannesburg, Gauteng, ZA, AF)                                                                                                     
+   37.19.193.193   60068   418.924                (Edenvale, Gauteng, ZA, AF) p77-3503.cr1a.tdjb1.jnb1.za.917.as                                                                  
+   ***             *       -inf                                           *** *                                                                                                   
+   102.130.49.21   328383  418.539            (Johannesburg, Gauteng, ZA, AF) po-21.lag.jnb01.za.misaka.io                                                                        
+   102.130.49.144  328383  418.675            (Johannesburg, Gauteng, ZA, AF) za-jnb-as57695.anchors.atlas.ripe.net                                                               

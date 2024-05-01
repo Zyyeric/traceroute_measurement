@@ -1,0 +1,32 @@
+   102.220.178.25  328829  0.0              (Cape Town, Western Cape, ZA, AF) unknown.vumatel.co.za                                                                               
+   102.220.178.30  328829  0.169            (Cape Town, Western Cape, ZA, AF) unknown.vumatel.co.za                                                                               
+   102.220.179.117 328829  0.679            (Cape Town, Western Cape, ZA, AF) unknown.vumatel.co.za                                                                               
+   102.220.178.122 328829  0.79             (Cape Town, Western Cape, ZA, AF) rnd-br1-sfp3-862.vumatel.co.za                                                                      
+   102.220.177.105 328829  22.145                (Diepsloot, Gauteng, ZA, AF) tri-br2-sfp2-834.vumatel.co.za                                                                      
+   102.220.177.114 328829  22.299                 (Pretoria, Gauteng, ZA, AF) tri-br1-sfp28-2-861.vumatel.co.za                                                                   
+╭─ 102.220.179.122 328829  31.91              (Johannesburg, Gauteng, ZA, AF) unknown.vumatel.co.za                                                                               
+S&T (328829, 6939)  eastern-africa-submarine-system-eassy ✓ || seacomtata-tgn-eurasia ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.198.50  6939    74.132                      (Mombasa, 300, KE, AF) port-channel3.core1.mba1.he.net                                                                     
+S&T (6939)  seacomtata-tgn-eurasia ✓ || djibouti-africa-regional-express-1-dare1 ✓ || peace-cable ✘ || eastern-africa-submarine-system-eassy ✓
+├─ 184.105.64.14   6939    152.428                (Djibouti City, DJ, DJ, AF) 10ge4-6.core1.jib1.he.net                                                                           
+S (6939)  
+╰─ 184.104.193.102 6939    176.923   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) port-channel1.core3.mrs1.he.net                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   62.115.165.37   1299    187.969   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) mei-b5-link.ip.twelve99.net                                                                         
+╭─ 62.115.124.54   1299    189.285             (Paris, Île-de-France, FR, EU) prs-bb1-link.ip.twelve99.net                                                                        
+T (1299)  
+╰─ 62.115.134.96   1299    191.58          (Amsterdam, North Holland, NL, EU) adm-bb1-link.ip.twelve99.net                                                                        
+   62.115.120.227  1299    193.412         (Amsterdam, North Holland, NL, EU) adm-b10-link.ip.twelve99.net                                                                        
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 195.219.194.26  6453    323.727                    (Amsterdam, NH, NL, EU) if-ae-41-2.tcore1.av2-amsterdam.as6453.net                                                          
+T (6453)  
+├─ 195.219.194.150 6453    322.357            (Frankfurt am Main, HE, DE, EU) if-ae-6-2.tcore1.fnm-frankfurt.as6453.net                                                           
+T (6453)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 195.219.87.215  6453    324.57    (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) if-be-50-2.ecore2.emrs2-marseille.as6453.net                                                        
+S (6453, 58717)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 103.15.246.16   58717   331.734                     (Dhaka, Dhaka, BD, AS)                                                                                                     

@@ -1,0 +1,22 @@
+   92.38.135.131   202422  0.0                         (Seoul, Seoul, KR, AS)                                                                                                     
+   92.38.135.2     202422  0.27                        (Seoul, Seoul, KR, AS) vrrp.gcore.lu                                                                                       
+   10.255.17.210   *       0.212                                          ***                                                                                                     
+   10.255.17.213   *       0.237                                          ***                                                                                                     
+   10.255.17.146   *       0.376                                          ***                                                                                                     
+╭─ 8.244.72.213    3356    0.333 (6.369)                  (Seoul, Seoul, KR, AS)                                                                                                     
+S (3356)  apcn-2 ✓ || asia-pacific-gateway-apg ✓ || flag-north-asia-loopreach-north-asia-loop ✓ || eac-c2c © || new-cross-pacific-ncp-cable-system ✓ || korea-japan-cable-network-kjcn ✓ || seamewe-3 ✓ || flag-europe-asia-fea © || trans-pacific-express-tpe-cable-system ✓
+╰─ 4.69.217.14     3356    31.249                         (Tokyo, 13, JP, AS) ae1.3505.edge2.Tokyo4.level3.net                                                                    
+╭─ 4.68.75.130     2914    30.937                         (Tokyo, 13, JP, AS) NTT-level3-Tokyo4.Level3.net                                                                        
+S (2914)  
+╰─ 129.250.7.55    2914    42.29                         (None, None, US, NA) ae-1.r30.tokyjp05.jp.bb.gin.ntt.net                                                                 
+   129.250.4.142   2914    125.494                       (None, None, US, NA) ae-5.sayonara-dorian.r24.sttlwa01.us.bb.gin.ntt.net                                                 
+   129.250.6.176   2914    192.024                       (None, None, US, NA) ae-11.sayonara-dorian.r20.nwrknj03.us.bb.gin.ntt.net                                                
+   129.250.6.146   2914    258.847                       (None, None, US, NA) ae-9.r20.londen12.uk.bb.gin.ntt.net                                                                 
+   129.250.2.183   2914    257.944                       (None, None, US, NA) ae-1.r21.londen12.uk.bb.gin.ntt.net                                                                 
+╭─ 129.250.4.37    2914    262.188                       (None, None, US, NA) ae-8.r02.brslbe01.be.bb.gin.ntt.net                                                                 
+LHL (2914)  
+╰─ 81.20.71.97     2914    271.893               (Zaventem, Flanders, BE, EU)                                                                                                     
+   87.238.225.11   6696    272.469                       (None, None, BE, EU) edg01.blutw.bra.be.verixi.net                                                                       
+   80.67.181.1     204059  272.438                    (Brussels, BRU, BE, EU) edge-01.louise.neutri.net                                                                           
+   80.67.181.18    204059  272.756       (Brussels, Brussels Capital, BE, EU) core-01.louise.neutri.net                                                                           
+   80.67.181.29    204059  272.468       (Brussels, Brussels Capital, BE, EU) be-bru-as204059.anchors.atlas.ripe.net                                                              

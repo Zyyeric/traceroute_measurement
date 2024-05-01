@@ -1,0 +1,19 @@
+   46.227.202.97   41495   0.0                  (Manchester, England, GB, EU) uk-mnc-as41495.anchors.atlas.ripe.net                                                               
+   46.227.207.255  41495   0.488                    (London, England, GB, EU) anycast.gateway.faelix.net                                                                          
+   46.227.206.41   41495   0.535                (Manchester, England, GB, EU) host-46-227-206-41.rev.as41495.net                                                                  
+   46.227.206.84   41495   0.781                (Manchester, England, GB, EU) v0100.bond0.fossey.a.faelix.net                                                                     
+   46.227.200.125  41495   0.777                (Manchester, England, GB, EU) v102.eth5.bly.w.faelix.net                                                                          
+   46.227.200.123  41495   0.792                (Manchester, England, GB, EU) v2313.eth5.aebi.m.faelix.net                                                                        
+   31.217.131.65   4455    0.957                     (Liverpool, ENG, GB, EU) *                                                                                                   
+   91.196.184.101  4455    7.937                        (London, ENG, GB, EU) ae0-3113.bb.thn.lon.as43531.net                                                                     
+   216.66.84.218   4455    7.678                        (London, ENG, GB, EU) ixreach-ltd.10gigabitethernet8-1.core1.lon1.he.net                                                  
+   216.66.84.217   6939    8.562                    (London, England, GB, EU) port-channel4.core3.lon1.he.net                                                                     
+╭─ 184.104.192.133 6939    10.549                       (London, ENG, GB, EU) 100ge0-75.core3.lon2.he.net                                                                         
+S (6939)  exa-north-and-south ✓ || atlantic-crossing-1-ac-1 ✓ || flag-atlantic-1-fa-1 ✓ || apollo ✓ || yellow ✓ || tata-tgn-atlantic ✓
+╰─ 184.105.81.41   6939    76.504                      (New York, NY, US, NA) 100ge15-2.core1.nyc5.he.net                                                                         
+   184.104.188.151 6939    75.392           (New York City, New York, US, NA) port-channel4.core2.nyc7.he.net                                                                     
+   184.104.188.165 6939    77.096           (New York City, New York, US, NA) port-channel7.core1.nyc7.he.net                                                                     
+╭─ 209.51.184.242  852     75.11                       (New York, NY, US, NA) asn852-as852.10gigabitethernet4.switch1.nyc7.he.net                                                 
+S&T (852)  exa-north-and-south ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 206.162.189.131 852     90.058                  (Montréal, Quebec, CA, NA) pcisrv.consultik.qc.ca                                                                              

@@ -1,0 +1,29 @@
+   141.164.39.1    20473   0.0                      (Paripark, Seoul, KR, AS) 141.164.39.1.vultrusercontent.com                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   100.100.100.1   *       0.303                                          ***                                                                                                     
+   10.84.0.17      *       4.497                                          ***                                                                                                     
+   10.84.2.41      *       0.934                                          ***                                                                                                     
+   10.84.2.38      *       1.045                                          ***                                                                                                     
+   210.176.150.116 4637    1.437                       (Seoul, Seoul, KR, AS) unknown.telstraglobal.net                                                                           
+╭─ 202.84.149.97   4637    2.103                       (Seoul, Seoul, KR, AS)                                                                                                     
+S (4637)  apcn-2 👍 || asia-pacific-gateway-apg ✓ || flag-north-asia-loopreach-north-asia-loop 👍 || eac-c2c 👍 || new-cross-pacific-ncp-cable-system ✓ || seamewe-3 👍 || flag-europe-asia-fea ✓ || trans-pacific-express-tpe-cable-system ✓
+╰─ 202.84.137.26   4637    32.645                      (Tokyo, Tokyo, JP, AS) i-14232.jtha-core02.telstraglobal.net                                                               
+╭─ 202.84.137.26   4637    32.645                      (Tokyo, Tokyo, JP, AS) i-14232.jtha-core02.telstraglobal.net                                                               
+S (4637)  
+├─ 202.47.216.146  4637    32.888                        (None, None, HK, AS) i-95.jtha01.telstraglobal.net                                                                       
+S (4637, 6453)  
+╰─ 180.87.180.5    6453    36.432                         (Tokyo, 13, JP, AS) ix-xe-8-2-2-0.tcore1.tv2-tokyo.as6453.net                                                           
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 120.29.211.3    6453    37.663                       (Chiba, None, JP, AS) if-et-1-2.hcore2.kv8-chiba.as6453.net                                                               
+S (6453)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 207.45.219.128  6453    291.529          (Los Angeles, California, US, NA) if-bundle-34-2.qcore2.lvw-losangeles.as6453.net                                                     
+S (6453)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 63.243.137.149  6453    290.429             (Paris, Île-de-France, FR, EU)                                                                                                     
+S&T (6453)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 80.231.154.141  6453    292.696                       (Rome, None, IT, EU) if-ae-32-2.thar1.rct-rome.as6453.net                                                                
+   5.23.4.2        6453    302.5                         (None, None, IT, EU) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   194.187.172.112 35574   305.31                       (Rome, Lazio, IT, EU)                                                                                                     

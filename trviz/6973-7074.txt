@@ -1,0 +1,20 @@
+   103.143.136.43  63781   0.0                         (Tokyo, Tokyo, JP, AS) koba-103-143-136-43.rev.kobayashi.ad.jp                                                             
+   103.143.136.62  63781   1.407                       (Tokyo, Tokyo, JP, AS) koba-103-143-136-62.rev.kobayashi.ad.jp                                                             
+   103.143.136.25  63781   0.371                       (Tokyo, Tokyo, JP, AS) bgprt1-ospfrt1.kobayashi.ad.jp                                                                      
+   103.41.60.164   10010   0.529                       (Tokyo, Tokyo, JP, AS) bgp3.tokyo-ix.v4.open.ad.jp                                                                         
+   150.99.184.33   2907    1.959                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+   150.99.10.187   2907    1.645                         (None, None, JP, AS) *                                                                                                   
+   202.232.6.17    2497    2.33                        (Tokyo, Tokyo, JP, AS)                                                                                                     
+╭─ 58.138.114.253  2497    2.609                       (Tokyo, Tokyo, JP, AS) tky009bb11.iij.net                                                                                  
+S (2497)  japan-u-s-cable-network-jus ✓ || tata-tgn-pacific ✓ || pacific-crossing-1-pc-1 ✓ || faster ✓ || jupiter ✓
+╰─ 58.138.88.230   2497    95.387               (Seattle, Washington, US, NA) sea001bb00.iij.net                                                                                  
+   131.103.116.21  2914    114.478              (Seattle, Washington, US, NA) ae-25.a03.sttlwa01.us.bb.gin.ntt.net                                                                
+   129.250.2.206   2914    114.334                       (None, None, US, NA) ae-3.sayonara-dorian.r25.sttlwa01.us.bb.gin.ntt.net                                                 
+   129.250.3.124   2914    111.146                       (None, None, US, NA) ae-3.sayonara-dorian.r25.snjsca04.us.bb.gin.ntt.net                                                 
+   129.250.2.241   2914    110.627                       (None, None, US, NA) ae-12.r23.sngpsi07.sg.bb.gin.ntt.net                                                                
+   157.238.227.41  2914    110.688          (Foster City, California, US, NA) ae-0.digital-ocean.snjsca04.us.bb.gin.ntt.net                                                       
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   128.199.5.28    14061   116.579          (Santa Clara, California, US, NA) us-sjc-as14061.anchors.atlas.ripe.net                                                               

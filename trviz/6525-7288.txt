@@ -1,0 +1,17 @@
+   103.215.229.229 140443  0.0                  (Surabaya, East Java, ID, AS) 229.229.215.103.in-addr.herza.id                                                                    
+   103.215.229.1   140443  0.142         (Gubengairlangga, East Java, ID, AS)                                                                                                     
+   103.215.228.1   140443  0.196         (Gubengairlangga, East Java, ID, AS) 1.228.215.103.in-addr.herza.id                                                                      
+╭─ 36.64.254.21    7713    0.187 (2.68)    (Gubengairlangga, East Java, ID, AS)                                                                                                     
+S&T (7713)  australia-singapore-cable-asc ✓ || matrix-cable-system ✘ || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || indonesia-global-gateway-igg-system 👍 || seamewe-3 ✓ || jasuka 👍 || indigo-west ✓ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || jakabare ✓
+├─ 180.240.192.33  7713    24.405              (Singapore, Singapore, SG, AS)                                                                                                     
+S (7713)  eac-c2c ✓ || asia-pacific-gateway-apg ✓ || southeast-asia-japan-cable-sjc 👍 || asia-america-gateway-aag-cable-system 👍 || seamewe-3 ✓ || asia-submarine-cable-express-asecahaya-malaysia ✓ || apcn-2 ✓ || tata-tgn-intra-asia-tgn-ia ✓
+├─ 180.240.197.113 7713    74.434              (Hong Kong, Hong Kong, HK, AS)                                                                                                     
+S (7713, 6939)  asia-america-gateway-aag-cable-system 👍
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 198.32.176.20   6939    209.209                   (Pleasanton, CA, US, NA) as6939.30gigabitethernet2-1.core1.pao1.he.net                                                       
+   184.105.177.238 46749   208.893                   (Pleasanton, CA, US, NA) stanford-university.100gigabitethernet5-1.core1.pao1.he.net                                         
+   171.66.0.238    32      208.784                     (Stanford, CA, US, NA) csee-west-rtr-vl12.SUNet                                                                            
+   ***             *       -inf                                           *** *                                                                                                   
+   171.67.70.16    32      209.499             (Stanford, California, US, NA) us-pao-as32.anchors.atlas.ripe.net                                                                  

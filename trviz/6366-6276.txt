@@ -1,0 +1,24 @@
+   194.149.138.252 5379    0.0                  (Skopje, Grad Skopje, MK, EU)                                                                                                     
+   194.149.138.254 5379    1.533                (Skopje, Grad Skopje, MK, EU)                                                                                                     
+   194.149.137.73  5379    0.507                (Skopje, Grad Skopje, MK, EU)                                                                                                     
+╭─ 194.149.130.90  5379    0.517                (Skopje, Grad Skopje, MK, EU)                                                                                                     
+T (5379, 21320)  
+├─ 83.97.88.101    21320   0.6 (4.451)          (Sofia, Sofia-Capital, BG, EU) marnet-ias.mx1.sof.bg.geant.net                                                                     
+LHL (21320, 20965)  
+├─ 62.40.98.9      20965   19.392                    (Zagreb, Zagreb, HR, EU) ae0.mx2.zag.hr.geant.net                                                                            
+LHL (20965)  
+├─ 62.40.98.188    20965   19.296                         (Milan, 25, IT, EU) ae8.mx1.mil2.it.geant.net                                                                           
+T (20965, 6939)  
+├─ 193.188.137.175 6939    19.207                     (Budapest, 5, HU, None) bix.he.net                                                                                          
+T (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.193.114 6939    28.719                        (Zagreb, 21, HR, EU) 100ge0-36.core2.zag1.he.net                                                                         
+   184.104.205.22  5391    29.627                        (Zagreb, 21, HR, EU) hrvatski-telekom-d-d.100gigabitethernet8-2.core1.zag1.he.net                                        
+   195.29.3.197    5391    29.921                        (Zagreb, 21, HR, EU) hdr11-gte02-3.ip.t-com.hr                                                                           
+╭─ 195.29.225.178  5391    29.729                       (Varaždin, 5, HR, EU) gtr11-hdr11-2.ip.t-com.hr                                                                           
+T (5391, 9146)  
+╰─ 185.12.77.109   9146    36.695                        (None, None, BA, EU) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   195.222.41.54   8670    32.873                     (Sarajevo, BIH, BA, EU) dlp-54.as3.kl.bih.net.ba                                                                            
+   195.130.45.58   8670    32.657                     (Sarajevo, BIH, BA, EU) travnik.bbone.utic.net.ba                                                                           
+   195.130.61.208  8670    32.42        (Sarajevo, Federation of B&H, BA, EU) travnik.bbone.utic.net.ba                                                                           

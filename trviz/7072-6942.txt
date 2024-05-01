@@ -1,0 +1,14 @@
+   46.166.168.3    16125   0.0                   (Šiauliai, Siauliai, LT, EU)                                                                                                     
+   46.166.168.1    16125   0.687                 (Šiauliai, Siauliai, LT, EU)                                                                                                     
+╭─ 46.166.166.4    16125   0.598                 (Šiauliai, Siauliai, LT, EU)                                                                                                     
+S&T (16125, 6939)  bcs-east ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.192.89  6939    12.593                         (Riga, RIX, LV, EU) 100ge5-2.core1.rix1.he.net                                                                          
+LHL (6939)  latvia-sweden-1-lv-se-1 ✓ ↠ bcs-north---phase-1 ✓ || latvia-sweden-1-lv-se-1 ✓ ↠ eastern-light ✘ || latvia-sweden-1-lv-se-1 ✓ ↠ sweden-finland-4-sfs-4 ✓ || latvia-sweden-1-lv-se-1 ✓ ↠ baltic-sea-submarine-cable ✓ || sweden-latvia ✓ ↠ bcs-north---phase-1 ✓ || sweden-latvia ✓ ↠ eastern-light ✘ || sweden-latvia ✓ ↠ sweden-finland-4-sfs-4 ✓ || sweden-latvia ✓ ↠ baltic-sea-submarine-cable ✓ || latvia-sweden-1-lv-se-1 ✓ ↠ botnia ✓ || sweden-latvia ✓ ↠ botnia ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.192.98  6939    18.859                      (Helsinki, 18, FI, EU) 100ge4-2.core1.hel1.he.net                                                                          
+T (6939, )  
+╰─ 185.1.152.234   *       29.169                    (Moscow, Moscow, RU, EU) misaka9172.spb.piter-ix.net                                                                         
+   102.130.51.87   *       30.562                    (Moscow, Moscow, RU, EU) e51-10.spine3.mow01.ru.misaka.io                                                                    
+   45.131.68.11    57578   29.061                    (Moscow, Moscow, RU, EU) po-31.lag.mow01.ru.misaka.io                                                                        
+   45.142.246.158  57578   29.179                    (Moscow, Moscow, RU, EU) user-45-142-246-158.mow01.ru.misaka.io                                                              

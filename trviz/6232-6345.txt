@@ -1,0 +1,13 @@
+   103.102.166.20  14907   0.0                 (Singapore, Singapore, SG, AS) ripe-atlas-eqsin.wikimedia.org                                                                      
+╭─ 103.102.166.19  14907   0.387               (Singapore, Singapore, SG, AS) ae1-530.cr2-eqsin.wikimedia.org                                                                     
+S (14907, 8529)  
+├─ 103.231.152.139 8529    0.464                         (None, None, HK, AS) *                                                                                                   
+S (8529)  
+╰─ 213.202.6.201   8529    73.002                    (Muscat, Muscat, OM, AS)                                                                                                     
+╭─ 213.202.1.189   8529    123.223                   (Muscat, Muscat, OM, AS)                                                                                                     
+S&T (8529, 42961)  
+├─ 151.248.98.137  42961   123.912                       (None, None, BH, AS) *                                                                                                   
+S (42961)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 212.43.17.42    42961   120.322     (Al Farwānīyah, Al Farwaniyah, KW, AS)                                                                                                     

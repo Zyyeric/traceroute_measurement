@@ -1,0 +1,10 @@
+   193.1.201.140   1213    0.0                   (Tallaght, Leinster, IE, EU) atlas-anchor.heanet.ie                                                                              
+   193.1.201.138   1213    0.16                    (Dublin, Leinster, IE, EU) pw-spine1-vlan11.services.hea.net                                                                   
+   87.44.56.177    1213    0.276                        (Dublin, L, IE, None) ae3.core1-pw.nn.hea.net                                                                             
+╭─ 212.222.58.253  3257    0.298              (Palmerstown, Leinster, IE, EU) ae1-100.cr0-dub4.ip4.gtt.net                                                                        
+S (3257)  exa-north-and-south ✘ || aec-1 ✘ || havfrueaec-2 ✓
+╰─ 89.149.129.218  3257    69.792                      (New York, NY, US, NA) ae7.cr1-nyc2.ip4.gtt.net                                                                            
+╭─ 76.74.108.55    852     68.909                        (None, None, US, NA) *                                                                                                   
+S&T (852)  exa-north-and-south ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 206.162.189.131 852     86.046                  (Montréal, Quebec, CA, NA) pcisrv.consultik.qc.ca                                                                              

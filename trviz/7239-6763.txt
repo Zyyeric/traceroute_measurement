@@ -1,0 +1,23 @@
+   109.168.125.243 5602    0.0                      (Milan, Lombardy, IT, EU) 243.125.168.109.host.static.ip.kpnqwest.it                                                          
+   109.168.125.194 5602    1.273                   (Figino, Lombardy, IT, EU) 194.125.168.109.host.static.ip.kpnqwest.it                                                          
+   94.141.0.137    5602    0.378                   (Figino, Lombardy, IT, EU) er2-xe-1-3-0-0-cal4.mil.kpnqwest.it                                                                 
+   94.141.0.201    5602    0.343                   (Figino, Lombardy, IT, EU) er1-xe-0-0-3-0-cal4.mil.kpnqwest.it                                                                 
+   109.168.0.22    5602    1.093                           (Lodi, 25, IT, EU) cr2-hunge0-0-1-1-cal1.mil.kpnqwest.it                                                               
+   109.168.0.166   5602    0.438                          (Milan, 25, IT, EU) br1-xe-0-1-0-0-cal1.mil.kpnqwest.it                                                                 
+   62.196.8.245    3302    0.527                   (Figino, Lombardy, IT, EU)                                                                                                     
+   37.32.106.2     *       8.254                    (Milan, Lombardy, IT, EU)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   154.54.57.94    174     15.47                     (Genoa, Liguria, IT, EU) be2749.rcr71.goa01.atlas.cogentco.com                                                               
+╭─ 154.54.36.226   174     20.124            (Quinzano d'Oglio, None, IT, EU) be3138.rcr12.qzo03.atlas.cogentco.com                                                               
+S&T (174)  
+├─ 154.54.72.225   174     30.856                        (Paris, IDF, FR, EU) be2780.ccr42.par01.atlas.cogentco.com                                                               
+S&T (174)  seamewe-3 ✓
+╰─ 154.54.57.69    174     37.5                         (London, ENG, GB, EU) be12489.ccr42.lon13.atlas.cogentco.com                                                              
+   130.117.3.102   174     37.715                       (London, ENG, GB, EU) be2540.rcr21.b015589-1.lon13.atlas.cogentco.com                                                     
+╭─ 149.11.44.138   174     37.467                   (London, England, GB, EU)                                                                                                     
+T (174, 37468)  
+├  100.64.192.12   *       173.871                                        ***                                                                                                     
+╰─ 102.130.68.139  37468   208.208                       (None, None, AO, AF) *                                                                                                   
+   102.130.70.110  37468   208.384                   (Luanda, Luanda, AO, AF)                                                                                                     
+   102.130.68.106  37468   209.489                       (None, None, AO, AF) *                                                                                                   
+   102.130.66.11   37468   209.594                   (Luanda, Luanda, AO, AF)                                                                                                     

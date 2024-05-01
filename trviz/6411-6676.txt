@@ -1,0 +1,13 @@
+   203.175.175.206 24482   0.0                 (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 203.175.175.252 24482   0.469                         (None, None, SG, AS) edge-1.v10.sg3.sg.gs                                                                                
+S (24482)  seamewe-5 ✓ || peace-cable ✘
+╰─ 195.42.144.232  24482   148.135                      (Paris, 11, FR, None) sg-gs.equinix-ix.fr                                                                                 
+╭─ 195.42.145.114  36924   148.178                       (Paris, IDF, FR, EU) equinix-ix.pa2.par.acorus.net                                                                       
+S (36924, 55002)  apollo ✘ || flag-atlantic-1-fa-1 ✘
+├  100.99.0.0      *       148.199                                        ***                                                                                                     
+├  100.99.0.36     *       226.698                                        ***                                                                                                     
+├  100.99.0.25     *       226.836                                        ***                                                                                                     
+├  100.99.1.38     *       244.404                                        ***                                                                                                     
+├  100.99.1.58     *       232.628                                        ***                                                                                                     
+├  100.100.1.17    *       232.52                                         ***                                                                                                     
+╰─ 107.162.217.5   55002   232.731             (San Jose, California, US, NA)                                                                                                     

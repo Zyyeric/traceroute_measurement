@@ -1,0 +1,22 @@
+   196.49.15.189   328998  0.0              (Kampala, Central Region, UG, AF)                                                                                                     
+   196.49.15.253   328998  0.527            (Kampala, Central Region, UG, AF)                                                                                                     
+   41.191.77.205   37063   1.064            (Kampala, Central Region, UG, AF)                                                                                                     
+   129.205.30.77   37063   1.367                         (Kampala, C, UG, AF) *                                                                                                   
+╭─ 129.205.30.230  37063   9.282            (Kampala, Central Region, UG, AF)                                                                                                     
+T (37063, 6939)  
+├─ 196.223.21.74   6939    161.595                     (Nairobi, 5, KE, None) *                                                                                                   
+S&T (6939)  
+├─ 184.104.189.42  6939    161.828               (Djibouti, Djibouti, DJ, AF) ve1004.core2.jib1.he.net                                                                            
+S (6939)  
+├─ 184.104.193.102 6939    161.991   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) port-channel1.core3.mrs1.he.net                                                                     
+S&T (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.105.65.34   6939    166.213                        (Milan, 25, IT, EU) 100ge7-1.core1.mil2.he.net                                                                          
+T (6939)  
+├─ 184.105.65.134  6939    184.376                        (Sofia, 23, BG, EU) 100ge10-1.core1.sof1.he.net                                                                         
+T (6939)  
+╰─ 184.105.64.170  6939    195.032                       (Athens, A1, GR, EU) 100ge0-36.core1.ath1.he.net                                                                         
+   184.104.191.234 6939    194.884                   (Koropí, Attica, GR, EU) fast-telecom-p-c.e0-7.core1.ath1.he.net                                                             
+   ***             *       -inf                                           *** *                                                                                                   
+   185.14.96.225   211186  199.843            (Lamía, Central Greece, GR, EU) vlan4090.lamia.fast.net.gr                                                                          
+   185.14.96.232   211186  198.667            (Lamía, Central Greece, GR, EU)                                                                                                     

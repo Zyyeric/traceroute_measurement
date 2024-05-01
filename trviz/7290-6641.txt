@@ -1,0 +1,19 @@
+   92.38.135.131   202422  0.0                         (Seoul, Seoul, KR, AS)                                                                                                     
+   92.38.135.2     202422  0.318                       (Seoul, Seoul, KR, AS) vrrp.gcore.lu                                                                                       
+   10.255.17.209   *       0.245                                          ***                                                                                                     
+   10.255.17.213   *       0.27                                           ***                                                                                                     
+   10.255.17.146   *       0.237                                          ***                                                                                                     
+╭─ 8.244.72.213    3356    0.247 (1.213)                  (Seoul, Seoul, KR, AS)                                                                                                     
+S (3356)  apcn-2 ✓ || asia-pacific-gateway-apg ✓ || flag-north-asia-loopreach-north-asia-loop ✓ || eac-c2c © || new-cross-pacific-ncp-cable-system ✓ || korea-japan-cable-network-kjcn ✓ || seamewe-3 ✓ || flag-europe-asia-fea © || trans-pacific-express-tpe-cable-system ✓
+╰─ 4.69.217.14     3356    31.531                         (Tokyo, 13, JP, AS) ae1.3505.edge2.Tokyo4.level3.net                                                                    
+   213.155.129.38  1299    31.184                      (Tokyo, Tokyo, JP, AS) tky-b2-link.ip.twelve99.net                                                                         
+╭─ 62.115.126.135  1299    101.678                     (Tokyo, Tokyo, JP, AS) tky-b3-link.ip.twelve99.net                                                                         
+S (1299)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 62.115.138.21   1299    101.012             (Singapore, Singapore, SG, AS) snge-b5-link.ip.twelve99.net                                                                        
+╭─ 62.115.155.135  1299    176.09              (Singapore, Singapore, SG, AS) naplintasnusa-ic-325251.ip.twelve99-cust.net                                                        
+S&T (1299, 45147)  
+╰─ 119.110.114.66  45147   186.741                       (None, None, ID, AS) *                                                                                                   
+   119.110.121.82  45147   100.101                 (Jakarta, Jakarta, ID, AS)                                                                                                     
+   202.58.202.34   *       118.117                 (Jakarta, Jakarta, ID, AS) ae-1-8-r1.dps1.globalxtreme.net                                                                     
+   103.225.148.27  45701   118.787                 (Jakarta, Jakarta, ID, AS) ip-27-148-225-103.globalxtreme.net                                                                  

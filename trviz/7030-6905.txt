@@ -1,0 +1,18 @@
+   103.253.132.25  59238   0.0                     (Bangkok, Bangkok, TH, AS) th-bkk-as59238.anchors.atlas.ripe.net                                                               
+   103.253.132.1   59238   0.233                (Khlong San, Bangkok, TH, AS) gw-cat.idc.inox.co.th                                                                               
+   172.24.132.24   *       0.183                                          ***                                                                                                     
+   172.21.21.2     *       0.532                                          ***                                                                                                     
+╭─ 122.155.224.73  4651    0.449 (1.578)           (Khlong San, Bangkok, TH, AS)                                                                                                     
+S (4651)  
+├─ 61.19.9.114     4651    209.617                  (London, England, GB, EU)                                                                                                     
+T (4651, 969)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 45.11.107.204   969     226.791                   (Berlin, Berlin, DE, EU) po100.cr1a.a36s.ber2.de.917.as                                                                      
+╭─ 45.11.107.196   969     226.896                   (Berlin, Berlin, DE, EU) e51-1-361.cr1a.a36s.ber2.de.917.as                                                                  
+LHL (969)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 45.11.107.131   969     219.089             (Hong Kong, Hong Kong, HK, AS) e9-1-395-906.cr1a.eqhk2.hkg12.hk.917.as                                                             
+   199.119.64.151  969     200.754             (Hong Kong, Hong Kong, HK, AS) po103-10.spine3.hkg12.hk.misaka.io                                                                  
+   45.11.104.9     57695   200.812             (Hong Kong, Hong Kong, HK, AS) po30.0103.hkg12.hk.misaka.io                                                                        
+   45.11.104.146   57695   201.156             (Hong Kong, Hong Kong, HK, AS) hk-hkg-as57695.anchors.atlas.ripe.net                                                               

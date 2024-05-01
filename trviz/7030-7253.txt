@@ -1,0 +1,15 @@
+   192.158.252.10  1280    0.0            (Mountain View, California, US, NA) us-pao-as1280.anchors.atlas.ripe.net                                                                
+   192.158.252.3   1280    0.287              (Palo Alto, California, US, NA) r2.pao2-guests.isc.org                                                                              
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   206.72.210.199  *       8.023            (Los Angeles, California, US, NA) 206.72.210.199.any2ix.coresite.com                                                                  
+   206.148.25.4    7578    10.499           (Los Angeles, California, US, NA) po2.lax-csla2-bb1.globalsecurelayer.com                                                             
+╭─ 206.148.25.84   7578    106.095          (Los Angeles, California, US, NA) e50.ty-eqxty8-bb5.globalsecurelayer.com                                                             
+S (7578)  
+╰─ 206.148.24.51   7578    106.097          (Sydney, New South Wales, AU, OC) e30.ty-eqxty8-bb1.globalsecurelayer.com                                                             
+╭─ 206.148.24.66   7578    172.791          (Sydney, New South Wales, AU, OC) e51.sg-eqxsg3-bb1.globalsecurelayer.com                                                             
+S (7578)  
+╰─ 206.148.24.27   7578    174.874             (Singapore, Singapore, SG, AS) po1.sg-eqxsg3-cr2.globalsecurelayer.com                                                             
+╭─ 206.148.24.90   7578    202.791             (Singapore, Singapore, SG, AS) e51.hk-eqxhk1-bb3.globalsecurelayer.com                                                             
+S (7578, 57695)  
+╰─ 45.11.104.146   57695   240.009             (Hong Kong, Hong Kong, HK, AS) hk-hkg-as57695.anchors.atlas.ripe.net                                                               

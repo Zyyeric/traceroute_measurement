@@ -1,0 +1,14 @@
+   116.206.155.229 45117   0.0                   (Ahmedabad, Gujarat, IN, AS)                                                                                                     
+   116.206.155.225 45117   0.959                 (Ahmedabad, Gujarat, IN, AS)                                                                                                     
+   121.241.90.57   4755    0.871                 (Ahmedabad, Gujarat, IN, AS) 121.241.90.57.static-ahmedabad.vsnl.net.in                                                          
+   172.28.176.253  *       9.033                                          ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 180.87.38.2     6453    138.563                       (Mumbai, MH, IN, AS) if-ae-2-2.tcore2.mlv-mumbai.as6453.net                                                              
+S (6453)  
+├─ 180.87.39.21    6453    134.782                  (London, England, GB, EU) if-ae-12-2.tcore1.l78-london.as6453.net                                                             
+S&T (6453, 25003)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 46.33.95.118    25003   148.3                      (Rotterdam, ZH, NL, EU) ib-gw.ip4.gtt.net                                                                                   
+LHL (25003)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 94.188.255.2    25003   199.559              (Bnei Brak, Tel Aviv, IL, AS) 255.188.94-binat-smaug.in-addr.arpa                                                                 

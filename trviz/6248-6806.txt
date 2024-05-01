@@ -1,0 +1,17 @@
+   212.116.14.178  6659    0.0                     (Hamburg, Hamburg, DE, EU)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   212.116.21.244  6659    0.966     (Norderstedt, Schleswig-Holstein, DE, EU)                                                                                                     
+   194.15.144.153  *       0.99      (Norderstedt, Schleswig-Holstein, DE, EU)                                                                                                     
+   85.119.200.129  61157   0.667     (Norderstedt, Schleswig-Holstein, DE, EU) ae4.cr1.ham5.plusserver.com                                                                         
+╭─ 85.119.200.70   61157   0.783     (Norderstedt, Schleswig-Holstein, DE, EU) ae0.cr2.ham5.plusserver.com                                                                         
+T (61157, 1299)  
+├─ 62.115.37.164   1299    8.026           (Amsterdam, North Holland, NL, EU) adm-b10-link.ip.twelve99.net                                                                        
+T (1299)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 62.115.132.109  1299    8.403                   (Hamburg, Hamburg, DE, EU) hbg-b2-link.ip.twelve99.net                                                                         
+╭─ 80.239.132.173  1299    9.047                   (Hamburg, Hamburg, DE, EU) elisa-ic-372279.ip.twelve99-cust.net                                                                
+S (1299, 6667)  
+╰─ 213.192.184.103 6667    25.562                        (None, None, FI, EU) *                                                                                                   
+   213.192.184.176 6667    23.685                        (None, None, FI, EU) *                                                                                                   
+   213.192.184.42  6667    25.985                 (Helsinki, Uusimaa, FI, EU) ae1-0.bbr1.sto2.se.eunetip.net                                                                      

@@ -1,0 +1,12 @@
+   87.201.194.242  15802   0.0                            (Dubai, DU, AE, AS) *                                                                                                   
+   87.201.194.241  15802   1.867                          (Dubai, DU, AE, AS) *                                                                                                   
+   10.100.35.117   *       2.191                                          ***                                                                                                     
+   10.100.129.22   *       2.828                                          ***                                                                                                     
+   10.53.17.77     *       4.432                                          ***                                                                                                     
+╭─ 185.1.8.63      *       4.073                       (Dubai, Dubai, AE, AS) ipv4.uaeix-dubai.core1.dxb1.he.net                                                                  
+S (, 6939)  seamewe-3 ✘ || seamewe-5 ✘ || seamewe-4 ✘
+╰─ 184.105.223.134 6939    87.701              (Singapore, Singapore, SG, AS) port-channel1.core3.sin1.he.net                                                                     
+╭─ 74.82.51.50     7642    122.882                     (Singapore, 4, SG, AS) dhivehi-raajjeyge-gulhan-plc.10gigabitethernet1-1-28.switch2.sin1.he.net                            
+S (7642)  
+╰─ 202.1.205.242   7642    123.049                       (None, None, MV, AS) xe-1-0-0-1.rt.dhivehinet.net.mv                                                                     
+   123.176.1.4     7642    120.642                (Male, Kaafu Atoll, MV, AS)                                                                                                     

@@ -1,0 +1,29 @@
+   103.153.176.122 131657  0.0                       (Taipei, Taiwan, TW, AS) 103-153-176-122.as131657.net                                                                        
+   103.153.176.254 131657  0.247                     (Taipei, Taiwan, TW, AS) 103-153-176-254.as131657.net                                                                        
+╭─ 103.51.91.5     *       0.564                     (Taipei, Taiwan, TW, AS) et-0-0-1.cr1.hd.tpe.as131657.net                                                                    
+S (, 174)  seamewe-3 ✘ || apcn-2 ✘ || trans-pacific-express-tpe-cable-system ✘ || eac-c2c ✘ || faster ✘ || asia-pacific-gateway-apg ✘ || flag-north-asia-loopreach-north-asia-loop ✘ || new-cross-pacific-ncp-cable-system ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 66.28.4.233     174     30.866                      (Tokyo, Tokyo, JP, AS) be2012.ccr71.tyo01.atlas.cogentco.com                                                               
+╭─ 154.54.91.126   174     158.707                     (Tokyo, Tokyo, JP, AS) be2915.ccr71.gum01.atlas.cogentco.com                                                               
+S (174)  
+╰─ 154.54.5.174    174     158.629                      (El Paso, TX, US, NA) be2301.ccr21.elp01.atlas.cogentco.com                                                               
+   154.54.40.146   174     158.75                      (San Jose, CA, US, NA) be3177.ccr22.sjc01.atlas.cogentco.com                                                               
+╭─ 154.54.5.102    174     158.493                     (San Jose, CA, US, NA) be3144.ccr41.sjc03.atlas.cogentco.com                                                               
+S&T (174, 16276)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 198.27.73.149   16276   206.365                       (None, None, CA, NA) chi-1-a9.il.us                                                                                      
+   198.27.73.206   16276   222.938                       (None, None, CA, NA) be103.bhs-g1-nc5.qc.ca                                                                              
+╭─ 198.27.73.205   16276   231.405                       (None, None, CA, NA) nyc-ny1-sbb1-8k.nj.us                                                                               
+LHL (16276)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 91.121.215.178  16276   309.549                       (None, None, FR, EU) be103.gra-g1-nc5.fr.eu                                                                              
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   51.255.243.207  16276   308.113       (Boeschepe, Hauts-de-France, FR, EU)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   145.239.14.84   16276   309.178       (Dunkerque, Hauts-de-France, FR, EU) fr-grv-as16276.anchors.atlas.ripe.net                                                               

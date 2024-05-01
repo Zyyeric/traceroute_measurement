@@ -1,0 +1,16 @@
+   196.49.14.25    30997   0.0                 (Accra, Greater Accra, GH, AF)                                                                                                     
+   196.49.14.1     30997   0.389               (Accra, Greater Accra, GH, AF)                                                                                                     
+╭─ 197.221.70.89   *       1.105               (Accra, Greater Accra, GH, AF)                                                                                                     
+S&T (, 3741)  
+╰─ 196.14.240.4    3741    1.207                         (None, None, ZA, AF) *                                                                                                   
+╭─ 168.209.160.109 3741    256.108                       (None, None, ZA, AF) *                                                                                                   
+T (3741)  
+├─ 168.209.160.108 3741    256.007                  (London, England, GB, EU)                                                                                                     
+T (3741)  
+├─ 168.209.246.1   3741    257.176                       (None, None, ZA, AF) core1b-dock-be-1.ip.ddii.network                                                                    
+T (3741, 3356)  
+╰─ 195.50.122.229  3356    255.389                  (Colchester, ENG, GB, EU) *                                                                                                   
+╭─ 212.113.14.250  25003   256.304                     (London, None, GB, EU) IB.edge5.London1.Level3.net                                                                         
+T (25003)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 94.188.255.2    25003   253.503              (Bnei Brak, Tel Aviv, IL, AS) 255.188.94-binat-smaug.in-addr.arpa                                                                 

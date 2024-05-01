@@ -1,0 +1,18 @@
+   102.212.60.247  329276  0.0              (Cape Town, Western Cape, ZA, AF) za-cpt-as329276.anchors.atlas.ripe.net                                                              
+   102.212.60.2    329276  0.137             (Rosebank, Western Cape, ZA, AF) net.lnx-solutions.com                                                                               
+   196.250.236.121 37662   0.277             (Rosebank, Western Cape, ZA, AF)                                                                                                     
+╭─ 154.66.247.234  37662   0.254 (0.879)                 (Trichardt, MP, ZA, AF) *                                                                                                   
+S&T (37662)  eastern-africa-submarine-system-eassy 👍 || seacomtata-tgn-eurasia ✓
+├─ 154.66.247.99   37662   113.226                       (None, None, KE, AF) *                                                                                                   
+LHL (37662, 6939)  peace-cable ✘ ↠ seamewe-3 ✓ || peace-cable ✘ ↠ europe-india-gateway-eig ✓ || seacomtata-tgn-eurasia ✓ ↠ seamewe-3 ✓ || seacomtata-tgn-eurasia ✓ ↠ europe-india-gateway-eig ✓
+├─ 184.104.204.93  6939    112.691                   (Lisbon, Lisbon, PT, EU) e0-18.core1.lis1.he.net                                                                             
+S&T (6939)  tata-tgn-western-europe ✓ || europe-india-gateway-eig ✓ || seamewe-3 ✓
+╰─ 184.104.195.97  6939    139.426                      (London, ENG, GB, EU) 100ge0-35.core2.lon3.he.net                                                                         
+   ***             *       -inf                                           *** *                                                                                                   
+   184.104.197.217 6939    140.692                      (London, ENG, GB, EU) ve958.core2.lon2.he.net                                                                             
+╭─ 216.66.88.58    15412   141.597                      (London, ENG, GB, EU) flag-as-as15412.10gigabitethernet2-2.core1.lon2.he.net                                              
+S&T (15412)  seamewe-3 ✓ || high-capacity-undersea-guernsey-optical-fibre-hugo ✓ || uk-channel-islands-8 ✘ || channel-islands-9-liberty-submarine-cable ✘ || uk-channel-islands-7 ✓
+╰─ 85.95.26.146    15412   151.441                   (Marseille, PAC, FR, EU) ae4.0.cjr01.mrs002.flagtel.com                                                                      
+╭─ 85.95.25.93     15412   253.945                   (Marseille, PAC, FR, EU) xe-4-0-1.0.cjr01.mrs002.flagtel.com                                                                 
+S&T (15412)  
+╰─ 80.77.4.60      15412   253.609                     (Dubai, Dubai, AE, AS)                                                                                                     

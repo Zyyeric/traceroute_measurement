@@ -1,0 +1,16 @@
+   103.170.154.254 142594  0.0                      (London, England, GB, EU) 254.154.170.103.speedyvps.uk                                                                        
+╭─ 103.170.154.1   142594  0.168                    (London, England, GB, EU)                                                                                                     
+T (142594, 60068)  
+├─ 156.146.32.92   60068   0.289                     (Prague, Prague, CZ, EU) unn-156-146-32-92.cdn77.com                                                                         
+T (60068, 201011)  
+├─ 81.95.9.56      201011  0.336                  (Shadwell, England, GB, EU) ae22-407.lon10.core-backbone.com                                                                    
+S&T (201011, 30844)  seamewe-3 ✘ || pan-european-crossing-uk-belgium ✘ || tangerine ✘ || concerto ✘
+├─ 195.66.224.68   30844   0.352                     (Turnhout, None, BE, EU) ae-0-0-0.luk-pr3-tho.liquidtelecom.net                                                              
+S&T (30844)  
+├─ 5.11.13.44      30844   0.334 (0.897)          (Camden Town, England, GB, EU) hu-0-0-0-6.luk-p2-tho.liquidtelecom.net                                                             
+T (30844)  seamewe-3 ✓ ↠ seamewe-3 ✓ ↠ seacomtata-tgn-eurasia ✓ || pan-european-crossing-uk-belgium ✓ ↠ seamewe-3 ✓ ↠ seacomtata-tgn-eurasia ✓ || tangerine ✓ ↠ seamewe-3 ✓ ↠ seacomtata-tgn-eurasia ✓ || concerto ✓ ↠ seamewe-3 ✓ ↠ seacomtata-tgn-eurasia ✓
+╰─ 5.11.12.210     30844   163.713          (Cape Town, Western Cape, ZA, AF) hu0-1-0-4.lza-p1-cpt.liquidtelecom.com                                                              
+   46.17.232.122   30844   160.728            (Johannesburg, Gauteng, ZA, AF) 46.17.232.122.liquidtelecom.net                                                                     
+   41.60.135.93    30844   164.704                     (Mokopane, LP, ZA, AF) be-20.lza-pe2-jhb.liquidtelecom.net                                                                 
+   41.60.134.175   12008   159.954                    (Bela-Bela, LP, ZA, AF) 41.60.134.175.liquidtelecom.net                                                                     
+   156.154.135.254 12008   160.939            (Johannesburg, Gauteng, ZA, AF)                                                                                                     

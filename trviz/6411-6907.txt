@@ -1,0 +1,15 @@
+   103.153.176.122 131657  0.0                       (Taipei, Taiwan, TW, AS) 103-153-176-122.as131657.net                                                                        
+   103.153.176.254 131657  0.252                     (Taipei, Taiwan, TW, AS) 103-153-176-254.as131657.net                                                                        
+   103.51.91.5     *       0.394                     (Taipei, Taiwan, TW, AS) et-0-0-1.cr1.hd.tpe.as131657.net                                                                    
+╭─ 103.158.187.30  *       0.955                     (Taipei, Taiwan, TW, AS) as6939.ly.stuix.io                                                                                  
+S (, 6939)  seamewe-3 ✘ || apcn-2 ✘ || trans-pacific-express-tpe-cable-system ✘ || faster ✘ || eac-c2c ✘ || asia-pacific-gateway-apg ✘ || flag-north-asia-loopreach-north-asia-loop ✘ || new-cross-pacific-ncp-cable-system ✘
+╰─ 184.104.199.145 6939    28.736                      (Osaka, Ōsaka, JP, AS) port-channel6.core1.osa1.he.net                                                                     
+╭─ 184.104.188.97  6939    28.339                      (Osaka, Ōsaka, JP, AS) port-channel10.core2.osa1.he.net                                                                    
+S (6939)  tata-tgn-pacific ✓ || faster ✓ || japan-u-s-cable-network-jus ✓ || new-cross-pacific-ncp-cable-system ✓ || jupiter ✓ || trans-pacific-express-tpe-cable-system ✓ || unityeac-pacific ✓ || pacific-crossing-1-pc-1 ✘
+╰─ 184.104.198.217 6939    138.093          (Los Angeles, California, US, NA) port-channel7.core3.lax2.he.net                                                                     
+   184.104.197.109 6939    132.916                  (Los Angeles, CA, US, NA) port-channel8.core2.lax1.he.net                                                                     
+   184.104.195.50  6939    139.798                     (San Jose, CA, US, NA) 100ge0-30.core2.sjc2.he.net                                                                         
+   ***             *       -inf                                           *** *                                                                                                   
+   206.223.117.89  35280   243.596                   (Secaucus, NJ, US, None) 35280-sv5-ix.equinix.com                                                                            
+   100.100.1.17    *       243.677                                        ***                                                                                                     
+   107.162.217.5   55002   244.16              (San Jose, California, US, NA)                                                                                                     

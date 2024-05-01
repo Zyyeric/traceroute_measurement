@@ -1,0 +1,12 @@
+   203.174.85.106  38001   0.0                 (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 203.174.85.105  38001   3.032               (Singapore, Singapore, SG, AS)                                                                                                     
+S (38001, 38880)  asia-pacific-gateway-apg ✓ || eac-c2c ✓ || apcn-2 ✓ || seamewe-3 ✓
+├  10.15.62.210    *       3.219                                          ***                                                                                                     
+├─ 27.111.228.169  38880   95.366                    (Seogwipo, None, KR, AS) 38880.sgw.equinix.com                                                                               
+S (38880, )  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 183.177.61.21   *       98.049               (Melbourne, Victoria, AU, OC) 38880.mel.equinix.com                                                                               
+   192.168.247.145 *       98.326                                         ***                                                                                                     
+   192.168.248.10  *       97.479                                         ***                                                                                                     
+   10.101.220.1    *       97.921                                         ***                                                                                                     
+   27.131.108.126  38880   97.654               (Melbourne, Victoria, AU, OC)                                                                                                     

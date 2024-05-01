@@ -1,0 +1,15 @@
+   102.212.60.247  329276  0.0              (Cape Town, Western Cape, ZA, AF) za-cpt-as329276.anchors.atlas.ripe.net                                                              
+   102.212.60.2    329276  0.333             (Rosebank, Western Cape, ZA, AF) net.lnx-solutions.com                                                                               
+   196.250.236.121 37662   0.477             (Rosebank, Western Cape, ZA, AF)                                                                                                     
+╭─ 154.66.247.234  37662   0.924                      (Trichardt, MP, ZA, AF) *                                                                                                   
+S&T (37662)  eastern-africa-submarine-system-eassy 👍 || seacomtata-tgn-eurasia ✓
+├─ 154.66.247.99   37662   113.386                       (None, None, KE, AF) *                                                                                                   
+LHL (37662, 6939)  peace-cable ✘ ↠ seamewe-3 ✓ || peace-cable ✘ ↠ europe-india-gateway-eig ✓ || seacomtata-tgn-eurasia ✓ ↠ seamewe-3 ✓ || seacomtata-tgn-eurasia ✓ ↠ europe-india-gateway-eig ✓
+├─ 184.104.204.93  6939    112.694                   (Lisbon, Lisbon, PT, EU) e0-18.core1.lis1.he.net                                                                             
+S&T (6939)  
+├─ 184.104.193.149 6939    119.692                        (Madrid, M, ES, EU) ve960.core1.mad1.he.net                                                                             
+S&T (6939, 15826)  seamewe-3 ✓ || africa-coast-to-europe-ace ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 80.247.237.225  15826   155.01    (Ramonville-Saint-Agne, Occitanie, FR, EU) ancre-atlas.nfrance.com                                                                             

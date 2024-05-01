@@ -1,0 +1,15 @@
+   92.38.171.55    202422  0.0       (San Sebastián de los Reyes, Madrid, ES, EU)                                                                                                     
+   92.38.171.2     202422  0.298                     (Madrid, Madrid, ES, EU) vrrp.gcore.lu                                                                                       
+   10.255.32.226   *       0.269                                          ***                                                                                                     
+   10.255.37.169   *       1.707                                          ***                                                                                                     
+╭─ 193.251.152.167 5511    1.255                     (Madrid, Madrid, ES, EU)                                                                                                     
+S&T (5511)  
+╰─ 193.251.151.134 5511    22.663              (Paris, Île-de-France, FR, EU)                                                                                                     
+   193.251.250.188 6461    21.78                         (None, None, FR, EU) *                                                                                                   
+╭─ 64.125.24.246   6461    86.783                        (Paris, IDF, FR, EU) ae22.cs1.cdg12.fr.eth.zayo.com                                                                      
+S (6461)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 64.125.29.121   6461    87.83                 (Washington, DC, VA, US, NA) ae22.er2.iad10.us.zip.zayo.com                                                                      
+   64.124.161.18   11039   88.526                       (Houston, TX, US, NA) 64.124.161.18.allocated.above.net                                                                   
+   128.164.203.212 11039   98.327                    (Washington, DC, US, NA) *                                                                                                   
+   128.164.88.178  11039   89.384      (Washington, Washington, D.C., US, NA) us-dca-as11039.anchors.atlas.ripe.net                                                               

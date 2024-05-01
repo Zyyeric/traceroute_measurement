@@ -1,0 +1,17 @@
+   193.49.43.151   2200    0.0       (Grenoble, Auvergne-Rhône-Alpes, FR, EU)                                                                                                     
+   193.49.43.99    2200    0.261     (Fontaine, Auvergne-Rhône-Alpes, FR, EU) rteie.epn-campus.eu                                                                                 
+   ***             *       -inf                                           *** *                                                                                                   
+   193.54.185.9    2200    8.353     (Fontaine, Auvergne-Rhône-Alpes, FR, EU) tigre1.grenet.fr                                                                                    
+   193.51.181.94   2200    1.676     (Fontaine, Auvergne-Rhône-Alpes, FR, EU) hu0-2-0-2-ren-nr-grenoble-rtr-091.noc.renater.fr                                                    
+   193.55.204.14   2200    4.253     (Grenoble, Auvergne-Rhône-Alpes, FR, EU) hu0-3-0-3-ren-nr-lyon2-rtr-091.noc.renater.fr                                                       
+╭─ 193.51.180.172  2200    7.454     (Grenoble, Auvergne-Rhône-Alpes, FR, EU) et-3-1-3-ren-nr-lyon1-rtr-131.noc.renater.fr                                                        
+T (2200, 20965)  
+╰─ 83.97.89.13     20965   12.903                      (Geneva, None, CH, EU) renater-ias-geant-gw.gen.ch.geant.net                                                               
+╭─ 62.40.98.182    20965   22.521                      (Geneva, None, CH, EU) ae5.mx1.gen.ch.geant.net                                                                            
+T (20965, 60068)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 5.56.17.18      60068   31.621                        (None, None, DE, EU) core-backbone.cdn77.com                                                                             
+T (60068)  
+╰─ 169.150.195.74  60068   46.285                   (London, England, GB, EU) coreb-lon.cdn77.com                                                                                 
+   156.146.32.95   60068   105.203                  (Poplar, England, GB, EU)                                                                                                     
+   103.170.154.254 142594  110.621                  (London, England, GB, EU) 254.154.170.103.speedyvps.uk                                                                        

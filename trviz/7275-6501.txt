@@ -1,0 +1,18 @@
+   37.143.141.141  196745  0.0                       (Poole, England, GB, EU) atlas.datacenta.net                                                                                 
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   193.251.248.53  5511    4.985                    (London, England, GB, EU)                                                                                                     
+   5.57.80.128     6939    4.781                        (London, ENG, GB, EU) 10gigabitethernet5-1.core1.lon1.he.net                                                              
+╭─ 195.66.224.21   6939    14.85                        (London, ENG, GB, EU) 40ge1-3.core1.lon2.he.net                                                                           
+S&T (6939)  seamewe-3 ✓ || high-capacity-undersea-guernsey-optical-fibre-hugo ✓ || uk-channel-islands-8 ✘ || channel-islands-9-liberty-submarine-cable ✓ || uk-channel-islands-7 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.188.203 6939    35.818    (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) port-channel17.core4.mrs1.he.net                                                                    
+S (6939)  seamewe-5 ✓ || peace-cable ✘ || seamewe-4 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 74.82.49.214    6939    194.627             (Singapore, Singapore, SG, AS) pt-jala-lintas-media.e0-3.switch5.sin1.he.net                                                       
+S&T (6939, 133840)  
+╰─ 103.66.70.104   133840  194.734                 (Jakarta, Jakarta, ID, AS)                                                                                                     
+   121.100.0.45    38158   184.461                 (Jakarta, Jakarta, ID, AS)                                                                                                     
+   43.230.152.226  *       184.636                 (Jakarta, Jakarta, ID, AS) global-in.kings.id                                                                                  
+   ***             *       -inf                                           *** *                                                                                                   
+   180.211.88.22   45725   172.066                 (Jakarta, Jakarta, ID, AS) id-jkt-as45725.anchors.atlas.ripe.net                                                               

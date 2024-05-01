@@ -1,0 +1,15 @@
+   182.161.73.41   55569   0.0                 (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 182.161.73.40   55569   0.154               (Singapore, Singapore, SG, AS)                                                                                                     
+S (55569, 13335)  
+├  100.66.0.44     *       0.749                                          ***                                                                                                     
+├  100.66.0.43     *       0.837                                          ***                                                                                                     
+├─ 27.111.228.132  13335   1.737                     (Seogwipo, None, KR, AS) 13335.sgw.equinix.com                                                                               
+S (13335)  
+╰─ 172.70.144.3    13335   1.942                    (Singapore, None, SG, AS) *                                                                                                   
+   172.70.145.82   13335   1.212               (Singapore, Singapore, SG, AS)                                                                                                     
+   172.70.145.215  13335   1.226               (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 172.70.145.62   13335   1.332               (Singapore, Singapore, SG, AS)                                                                                                     
+S&T (13335, 133800)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 137.59.127.34   133800  14.781                        (None, None, ID, AS) ip-34-127-59-137.core.biznetg.io                                                                    
+   103.77.105.3    133800  14.934                  (Jakarta, Jakarta, ID, AS) ip-3-105-77-103.jkt-1.biznetg.io                                                                    

@@ -1,0 +1,26 @@
+   213.238.162.218 48292   0.0                   (Istanbul, Istanbul, TR, AS) tr-ist-as48292.anchors.atlas.ripe.net                                                               
+   213.238.162.217 48292   0.272                 (Ataşehir, Istanbul, TR, AS) tr-ist-as48292.anchors.atlas.ripe.net                                                               
+   ***             *       -inf                                           *** *                                                                                                   
+   10.235.234.40   *       1.389                                          ***                                                                                                     
+   195.175.203.85  9121    0.781                 (Istanbul, Istanbul, TR, AS) 195.175.203.85.static.turktelekom.com.tr                                                            
+   212.156.251.17  9121    0.793                 (Istanbul, Istanbul, TR, AS) 00-gayrettepe-sr14s-t2-2---00-itu-sr12e-t3-1.statik.turktelekom.com.tr                              
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 212.156.139.62  42926   13.039                      (Istanbul, 34, TR, AS) 308-buk-col-2---00-ebgp-gayrettepe-k.statik.turktelekom.com.tr                                      
+S&T (42926, 1299)  
+├─ 62.115.37.72    1299    15.385              (Bucharest, București, RO, EU) buca-b3-link.ip.twelve99.net                                                                        
+T (1299)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 62.115.114.183  1299    37.12                     (Vienna, Vienna, AT, EU) win-b2-link.ip.twelve99.net                                                                         
+╭─ 130.117.14.181  174     42.009                         (Vienna, 9, AT, EU) be1300.ccr51.vie01.atlas.cogentco.com                                                               
+T (174)  
+├─ 154.54.59.85    174     43.031                    (Bratislava, BL, SK, EU) be2988.ccr21.bts01.atlas.cogentco.com                                                               
+T (174)  
+├─ 130.117.3.138   174     45.668                      (Budapest, PE, HU, EU) be3261.ccr31.bud01.atlas.cogentco.com                                                               
+T (174)  
+╰─ 154.54.38.246   174     57.56                       (Bucharest, B, RO, EU) be3262.ccr31.buh01.atlas.cogentco.com                                                               
+╭─ 154.54.63.246   174     56.027                     (Constanta, CT, RO, EU) te0-0-2-2.rcr11.cnd01.atlas.cogentco.com                                                            
+S&T (174)  
+╰─ 130.117.2.53    174     58.733                          (Varna, 3, BG, EU) te0-0-1-0.rcr11.var01.atlas.cogentco.com                                                            
+   77.71.113.2     57619   59.559                        (None, None, BG, EU) ns2.varnadatacenter.net                                                                             
+   77.71.113.143   57619   60.295                      (Varna, Varna, BG, EU) ip-143-113-71-77.varnadatacenter.net                                                                
+   185.184.62.4    213093  60.65                       (Varna, Varna, BG, EU)                                                                                                     

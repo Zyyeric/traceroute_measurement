@@ -1,0 +1,14 @@
+   27.111.84.21    135132  0.0           (Cebu City, Central Visayas, PH, AS) ph-ceb-as135132.anchors.atlas.ripe.net                                                              
+   27.111.84.20    135132  1.875             (Baugo, Central Visayas, PH, AS) vlan509.core.ceb02.ds.network                                                                       
+   192.168.159.142 *       15.503                                         ***                                                                                                     
+   192.168.159.152 *       1.009                                          ***                                                                                                     
+   192.168.159.168 *       19.926                                         ***                                                                                                     
+   192.168.159.165 *       1.356                                          ***                                                                                                     
+   43.224.189.33   137074  3.613             (Baugo, Central Visayas, PH, AS) 43-224-189-33.static.rise.as                                                                        
+╭─ 103.44.232.39   63927   41.259                      (Cebu City, 7, PH, AS) 103-44-232-39.static.rise.as                                                                        
+LHL (63927, 3356)  national-digital-transmission-network-ndtn ✘ ↠ seamewe-3 ✓
+├─ 80.81.194.198   3356    200.579           (Frankfurt am Main, 5, DE, None) AMS-AM2-POP-CRS-1.du.ae                                                                             
+T (3356, 57187)  
+├  10.65.8.233     *       220.737                                        ***                                                                                                     
+╰─ 94.206.39.74    57187   232.657                        (Dubai, DU, AE, AS) j48-1.dxa.dxb.ae.datamena.net                                                                       
+   94.207.43.2     57187   220.032                     (Dubai, Dubai, AE, AS) -094-207-043-002.datamena.net                                                                       

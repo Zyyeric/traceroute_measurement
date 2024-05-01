@@ -1,0 +1,20 @@
+   94.24.115.154   15699   0.0                 (Barcelona, Catalonia, ES, EU)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   94.24.115.146   15699   0.632     (Cerdanyola del Vallès, Catalonia, ES, EU)                                                                                                     
+   185.11.200.65   15699   1.319     (Cerdanyola del Vallès, Catalonia, ES, EU)                                                                                                     
+   87.236.216.217  15699   10.449                        (None, None, ES, EU) *                                                                                                   
+   87.236.216.214  15699   10.414         (Alcalá de Henares, Madrid, ES, EU)                                                                                                     
+   185.1.192.47    6939    10.896                         (Madrid, M, ES, EU) ipv4.decix-madrid.core1.mad1.he.net                                                                 
+╭─ 193.242.98.151  *       10.252              (Barcelona, Catalonia, ES, EU) hurricane-electric.02.catnix.net                                                                    
+S&T (, 6939)  
+├─ 184.104.188.203 6939    24.692    (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) port-channel17.core4.mrs1.he.net                                                                    
+S&T (6939)  
+├─ 184.105.80.13   6939    23.022                         (Milan, 25, IT, EU) 100ge7-2.core1.mil2.he.net                                                                          
+LHL (6939)  
+├─ 184.104.196.194 6939    42.405                        (Denver, CO, US, NA) port-channel1.core1.den3.he.net                                                                     
+LHL (6939)  apollo ✓ ↠ seamewe-3 ✓ || apollo ✓ ↠ asia-africa-europe-1-aae-1 ✓ || flag-atlantic-1-fa-1 ✓ ↠ seamewe-3 ✓ || flag-atlantic-1-fa-1 ✓ ↠ asia-africa-europe-1-aae-1 ✓
+╰─ 184.105.64.170  6939    52.653                        (Athens, A1, GR, EU) 100ge0-36.core1.ath1.he.net                                                                         
+   184.104.191.234 6939    53.311                    (Koropí, Attica, GR, EU) fast-telecom-p-c.e0-7.core1.ath1.he.net                                                             
+   ***             *       -inf                                           *** *                                                                                                   
+   185.14.96.225   211186  67.484             (Lamía, Central Greece, GR, EU) vlan4090.lamia.fast.net.gr                                                                          
+   185.14.96.232   211186  66.634             (Lamía, Central Greece, GR, EU)                                                                                                     

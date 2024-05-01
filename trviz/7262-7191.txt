@@ -1,0 +1,21 @@
+   117.20.118.21   45498   0.0               (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     
+   117.20.118.17   45498   2.32              (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     
+╭─ 27.109.113.21   45498   1.188             (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     
+LHL (45498)  asia-africa-europe-1-aae-1 ✘ ↠ seamewe-4 ✘ || asia-africa-europe-1-aae-1 ✘ ↠ seamewe-3 ✓ || asia-africa-europe-1-aae-1 ✘ ↠ seamewe-5 ✓ || asia-africa-europe-1-aae-1 ✘ ↠ peace-cable ✘
+╰─ 27.109.113.56   45498   36.866              (Singapore, Singapore, SG, AS)                                                                                                     
+   223.119.82.77   58453   37.085              (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 223.118.5.197   58453   36.147              (Singapore, Singapore, SG, AS)                                                                                                     
+S (58453)  eac-c2c ✓ || asia-pacific-gateway-apg ✓ || southeast-asia-japan-cable-sjc ✓ || asia-america-gateway-aag-cable-system ✓ || seamewe-3 ✓ || asia-submarine-cable-express-asecahaya-malaysia ✓ || apcn-2 ✓ || tata-tgn-intra-asia-tgn-ia ✘
+╰─ 223.118.4.218   58453   129.01                        (None, None, HK, AS) *                                                                                                   
+╭─ 223.119.82.110  58453   123.913             (Hong Kong, Hong Kong, HK, AS)                                                                                                     
+S (58453, 4637)  
+╰─ 202.84.222.85   4637    128.434          (Sydney, New South Wales, AU, OC) i-91.sydp-core04.telstraglobal.net                                                                  
+   203.50.13.89    1221    129.999                      (Sydney, NSW, AU, OC) bundle-ether3.pad-gw11.sydney.telstra.net                                                           
+   203.50.13.134   1221    131.646          (Sydney, New South Wales, AU, OC) bundle-ether3.par-core30.sydney.telstra.net                                                         
+   203.50.13.135   1221    131.015              (Melbourne, Victoria, AU, OC) bundle-ether3.exi-core30.melbourne.telstra.net                                                      
+   203.50.6.230    1221    131.474                     (Adelaide, SA, AU, OC) bundle-ether2.way-core10.adelaide.telstra.net                                                       
+   203.50.6.235    1221    130.767                        (Perth, WA, AU, OC) bundle-ether3.pie-core10.perth.telstra.net                                                          
+   203.50.6.177    1221    130.347                        (Perth, WA, AU, OC) bundle-ether1.pie-edge903.perth.telstra.net                                                         
+   138.217.126.78  1221    130.064         (Perth, Western Australia, AU, OC) tel4198820.lnk.telstra.net                                                                          
+   ***             *       -inf                                           *** *                                                                                                   
+   203.41.0.254    1221    129.959         (Perth, Western Australia, AU, OC) atlas-per.telstra.net                                                                               

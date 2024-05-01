@@ -1,0 +1,17 @@
+   185.39.208.23   199993  0.0                       (Lisbon, Lisbon, PT, EU) atlasancora01.wan.dns.pt                                                                            
+   185.39.208.60   199993  0.52                      (Lisbon, Lisbon, PT, EU)                                                                                                     
+   194.210.4.137   1930    1.085                     (Lisbon, Lisbon, PT, EU) router63.lisboa.fccn.pt                                                                             
+   194.210.6.212   1930    0.978                     (Lisbon, Lisbon, PT, EU)                                                                                                     
+   194.210.6.205   1930    1.414                     (Lisbon, Lisbon, PT, EU) router6.lisboa.fccn.pt                                                                              
+╭─ 193.136.250.25  6939    1.359                       (Lisbon, 14, PT, None) HurricaneElectric.AS6939.gigapix.pt                                                                 
+S&T (6939)  africa-coast-to-europe-ace ✓ || seamewe-3 ✓
+├─ 184.104.189.30  6939    23.414    (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) port-channel18.core4.mrs1.he.net                                                                    
+S (6939)  seamewe-5 ✓ || peace-cable ✘ || seamewe-4 ✓ || seamewe-3 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 74.82.49.214    6939    269.735             (Singapore, Singapore, SG, AS) pt-jala-lintas-media.e0-3.switch5.sin1.he.net                                                       
+S&T (6939, 133840)  
+╰─ 103.66.70.104   133840  284.906                 (Jakarta, Jakarta, ID, AS)                                                                                                     
+   121.100.0.45    38158   268.196                 (Jakarta, Jakarta, ID, AS)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   43.230.153.90   *       171.394                 (Jakarta, Jakarta, ID, AS)                                                                                                     
+   180.211.88.22   45725   171.666                 (Jakarta, Jakarta, ID, AS) id-jkt-as45725.anchors.atlas.ripe.net                                                               

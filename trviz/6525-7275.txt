@@ -1,0 +1,14 @@
+   180.211.88.22   45725   0.0                     (Jakarta, Jakarta, ID, AS) id-jkt-as45725.anchors.atlas.ripe.net                                                               
+   180.211.88.21   45725   0.601                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+   43.230.153.89   *       0.532                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+╭─ 111.92.161.4    55655   0.842                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+S (55655, 6939)  indonesia-global-gateway-igg-system ✘ ↠ sea-us ✘
+├  10.110.1.0      *       12.318                                         ***                                                                                                     
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.194.37  6939    186.429                     (San Jose, CA, US, NA) 100ge12-2.core1.sjc2.he.net                                                                         
+   ***             *       -inf                                           *** *                                                                                                   
+   184.105.177.238 46749   187.148                   (Pleasanton, CA, US, NA) stanford-university.100gigabitethernet5-1.core1.pao1.he.net                                         
+   171.66.0.238    32      186.923                     (Stanford, CA, US, NA) csee-west-rtr-vl12.SUNet                                                                            
+   ***             *       -inf                                           *** *                                                                                                   
+   171.67.70.16    32      187.385             (Stanford, California, US, NA) us-pao-as32.anchors.atlas.ripe.net                                                                  

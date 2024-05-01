@@ -1,0 +1,32 @@
+   138.117.32.11   264479  0.0              (Feira de Santana, Bahia, BR, SA) 138-117-32-11.static.turbozoneinternet.net.br                                                       
+   138.117.32.9    264479  1.312            (Feira de Santana, Bahia, BR, SA) 138-117-32-9.static.turbozoneinternet.net.br                                                        
+   131.255.120.234 264479  1.466            (Feira de Santana, Bahia, BR, SA) rt01-core.turbozoneinternet.net.br                                                                  
+   10.10.127.5     *       1.345                                          ***                                                                                                     
+   10.10.127.9     *       1.391                                          ***                                                                                                     
+╭─ 45.184.144.214  *       28.991                  (Fortaleza, Ceará, BR, SA) as6939.fortaleza.ce.ix.br                                                                           
+S (, 6939)  brusa ✘ || america-movil-submarine-cable-system-1-amx-1 ✘ || south-america-1-sam-1 ✘ || globenet ✘ || monet ✘ || americas-ii ✘
+╰─ 184.104.199.177 6939    100.333                   (Miami, Florida, US, NA) 100ge0-53.core2.mia1.he.net                                                                         
+╭─ 184.105.222.150 6939    121.466                      (Norfolk, VA, US, NA) 100ge0-28.core1.orf2.he.net                                                                         
+S (6939)  marea ✓
+├─ 184.104.197.93  6939    187.211           (Bilbao, Basque Country, ES, EU) port-channel4.core1.bio1.he.net                                                                     
+S&T (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.224.113 6939    198.474                   (Lisbon, Lisbon, PT, EU) afrix-telecom-s-l.e0-19.switch1.lis1.he.net                                                         
+S&T (6939, 60171)  
+├─ 185.10.164.99   60171   433.025             (Barcelona, Catalonia, ES, EU)                                                                                                     
+S&T (60171)  
+╰─ 185.10.164.113  60171   435.653                      (London, ENG, GB, EU) *                                                                                                   
+╭─ 185.10.164.135  60171   433.054                      (London, ENG, GB, EU) *                                                                                                   
+S&T (60171)  
+├─ 185.10.164.32   60171   433.172             (Paris, Île-de-France, FR, EU)                                                                                                     
+S (60171)  
+├─ 102.223.52.73   60171   435.33                      (Lagos, Lagos, NG, AF)                                                                                                     
+S&T (60171)  
+├─ 185.10.164.45   60171   432.539                      (London, ENG, GB, EU) *                                                                                                   
+S&T (60171)  
+├─ 102.219.44.43   60171   435.72                      (Lagos, Lagos, NG, AF)                                                                                                     
+S&T (60171, 328913)  
+╰─ 196.49.84.51    328913  435.708                 (Abidjan, Abidjan, CI, AF) bdr3.std.douala-ix.net                                                                              
+╭─ 196.49.84.36    328913  436.167                 (Abidjan, Abidjan, CI, AF) gw1.std.douala-ix.net                                                                               
+S&T (328913)  
+╰─ 196.49.84.188   328913  433.884                 (Douala, Littoral, CM, AF) cm-dla-as328913.anchors.atlas.ripe.net                                                              

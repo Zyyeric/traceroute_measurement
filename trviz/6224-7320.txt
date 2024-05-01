@@ -1,0 +1,14 @@
+   5.180.57.81     56987   0.0           (Lyon, Auvergne-Rhône-Alpes, FR, EU) fr-lio-as56987.anchors.atlas.ripe.net                                                               
+   5.180.57.80     56987   0.19      (Saint-Fons, Auvergne-Rhône-Alpes, FR, EU) 80-57-180-5.rev.abaclouda.net                                                                       
+   5.180.58.70     56987   0.23      (Saint-Fons, Auvergne-Rhône-Alpes, FR, EU) 01-xe.bgp03.lyn.abaclouda.net                                                                       
+╭─ 5.180.57.71     56987   0.329     (Saint-Fons, Auvergne-Rhône-Alpes, FR, EU) 01-xe.bgp04.lyn.abaclouda.net                                                                       
+T (56987, 30844)  
+├─ 80.81.193.228   30844   34.801            (Frankfurt am Main, 5, DE, None) decix-frankfurt.liquidtelecom.net                                                                   
+LHL (30844)  seamewe-3 ✓ ↠ safe 👍 || flag-europe-asia-fea ✓ ↠ safe 👍 || bay-of-bengal-gateway-bbg ✓ ↠ safe 👍 || asia-africa-europe-1-aae-1 ✓ ↠ safe 👍 || seamewe-4 ✓ ↠ safe 👍 || seamewe-5 ✓ ↠ safe 👍
+╰─ 41.175.212.3    30844   147.18                        (None, None, MU, AF) *                                                                                                   
+╭─ 197.155.94.1    30844   145.484                       (None, None, MU, AF) xe-0-0-3-LTZ-P1-DAR.liquidtelecom.net                                                               
+LHL (30844)  safe 👍 ↠ seamewe-3 ✓ ↠ seacomtata-tgn-eurasia ✓
+├─ 197.155.94.195  30844   144.64                       (Nairobi, 30, KE, AF) xe-0-0-4.ltz-pe1-rah.liquidtelecom.net                                                              
+S&T (30844)  
+╰─ 41.175.46.58    30844   146.716                       (None, None, TZ, AF) *                                                                                                   
+   196.49.5.98     327844  146.872   (Dar es Salaam, Dar es Salaam Region, TZ, AF)                                                                                                     

@@ -1,0 +1,22 @@
+   197.189.194.147 37153   0.0                (Johannesburg, Gauteng, ZA, AF) atlas-anchor-jnb1.jnb.net.host-h.net                                                                
+   197.189.194.145 37153   0.173 (3.487)         (Johannesburg, Gauteng, ZA, AF)                                                                                                     
+   197.189.193.2   37153   0.346              (Johannesburg, Gauteng, ZA, AF) core-router1.jnb1.host-h.net                                                                        
+   41.66.132.241   37179   0.313              (Johannesburg, Gauteng, ZA, AF) 41-66-132-241-f1.customer.xe-0-0-2-gp-sm-het-mee-1.africainx.net                                    
+   41.84.12.109    37179   1.631              (Johannesburg, Gauteng, ZA, AF) core.ge-0-1-0-gp-id-pbr-1.za.africainx.net                                                          
+   105.25.146.5    37100   1.426              (Johannesburg, Gauteng, ZA, AF)                                                                                                     
+   105.16.29.1     37100   161.879                 (Johannesburg, GT, ZA, AF) ce-0-3-0-0.cr-01-jnb.za.seacomnet.com                                                               
+╭─ 105.25.160.150  37100   165.012          (Cape Town, Western Cape, ZA, AF) ce-0-2-9.cr-01-cpt.za.seacomnet.com                                                                 
+T (37100)  
+╰─ 105.25.160.170  37100   160.147                  (London, England, GB, EU) ce-0-0-49.cr-01-lhr.uk.seacomnet.com                                                                
+   105.16.35.8     37100   161.659                      (London, ENG, GB, EU) ae-4-0.pp-01-lhr.uk.seacomnet.com                                                                   
+   195.66.225.24   2603    161.723                    (London, ENG, GB, None) *                                                                                                   
+╭─ 109.105.102.98  2603    178.574                      (London, ENG, GB, EU) ndn-gw.mx1.lon.uk.geant.net                                                                         
+S&T (2603, 20965)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 62.40.98.151    20965   204.247                       (Athens, A1, GR, EU) ae3.mx2.ath.gr.geant.net                                                                            
+   83.97.88.70     5408    205.745                       (Athens, A1, GR, EU) grnet-ias-grnet-gw.mx2.ath.gr.geant.net                                                             
+   62.217.98.53    199399  212.42                        (None, None, GR, EU) grix-ADMIN.eier.access-link.grnet.gr                                                                
+   195.130.66.103  199399  204.166                   (Athens, Attica, GR, EU) gr-ath-as199399.anchors.atlas.ripe.net                                                              

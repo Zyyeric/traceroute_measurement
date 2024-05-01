@@ -1,0 +1,28 @@
+   193.50.97.164   2200    0.0                   (Plouzané, Brittany, FR, EU) anchor.netlab.enstb.org                                                                             
+   193.50.97.161   2200    0.309                 (Plouzané, Brittany, FR, EU) netlab-gw.enstb.org                                                                                 
+   192.108.116.201 50897   0.444                 (Plouzané, Brittany, FR, EU) asr-vlan39.enst-bretagne.fr                                                                         
+   193.51.188.10   2200    0.422 (6.364)        (Saint-Brieuc, Brittany, FR, EU) vl807-pc1-brest1-rtr-021.noc.renater.fr                                                             
+   193.51.177.174  2200    11.954              (Paris, Île-de-France, FR, EU) et-5-2-1-ren-nr-paris1-rtr-131.noc.renater.fr                                                       
+╭─ 83.97.89.9      20965   12.021                        (Paris, IDF, FR, EU) renater-ias-geant-gw.par.fr.geant.net                                                               
+S&T (20965)  
+├─ 62.40.98.106    20965   19.587                        (Lisbon, 11, PT, EU) ae0.mx2.lis.pt.geant.net                                                                            
+S&T (20965)  
+├─ 62.40.98.64     20965   18.407                   (London, England, GB, EU) ae2.mx1.lon.uk.geant.net                                                                            
+S (20965, 6461)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 64.125.29.114   6461    19.694                        (None, None, US, NA) cs1.lhr15.uk.zip.zayo.com.29.125.64.in-addr.arpa                                                    
+S (6461)  
+├─ 64.125.29.129   6461    19.817                       (London, ENG, GB, EU) ae1.mcs1.lhr15.uk.eth.zayo.com                                                                      
+S (6461, 4637)  
+├─ 82.98.196.161   4637    19.773                        (None, None, HK, AS) 82.98.196.161.IPYX-284545-900-ZYO.zip.zayo.com                                                      
+S (4637)  
+╰─ 202.84.178.37   4637    19.545                   (London, England, GB, EU) i-1107.ulhc-core03.telstraglobal.net                                                                
+╭─ 202.84.178.9    4637    19.998                   (London, England, GB, EU) i-1003.ulcn-core01.telstraglobal.net                                                                
+S (4637)  
+╰─ 202.84.140.141  4637    329.184             (Singapore, Singapore, SG, AS) i-1000.sgcn-core01.telstraglobal.net                                                                
+   202.84.140.141  4637    329.184             (Singapore, Singapore, SG, AS) i-1000.sgcn-core01.telstraglobal.net                                                                
+╭─ 202.84.207.190  4637    329.477             (Singapore, Singapore, SG, AS) unknown.telstraglobal.net                                                                           
+S (4637)  
+╰─ 202.84.204.45   4637    328.464                     (Dubai, Dubai, AE, AS) i-102.uddm01.telstraglobal.net                                                                      
+   ***             *       -inf                                           *** *                                                                                                   
+   185.92.128.30   60924   190.338                     (Dubai, Dubai, AE, AS)                                                                                                     

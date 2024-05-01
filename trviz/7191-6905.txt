@@ -1,0 +1,14 @@
+   103.253.132.25  59238   0.0                     (Bangkok, Bangkok, TH, AS) th-bkk-as59238.anchors.atlas.ripe.net                                                               
+   103.253.132.1   59238   0.429                (Khlong San, Bangkok, TH, AS) gw-cat.idc.inox.co.th                                                                               
+   172.24.132.102  *       0.338                                          ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 122.155.224.73  4651    3.156                (Khlong San, Bangkok, TH, AS)                                                                                                     
+S&T (4651)  asia-america-gateway-aag-cable-system ✓
+├─ 61.19.9.90      4651    28.789                   (Singapore, None, SG, AS) *                                                                                                   
+S (4651, 45498)  
+├─ 103.231.152.160 45498   30.207                        (None, None, HK, AS) *                                                                                                   
+S (45498)  
+╰─ 27.109.113.57   45498   70.252            (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     
+   27.109.113.22   45498   70.815                    (Phnom Penh, 12, KH, AS) *                                                                                                   
+   117.20.118.21   45498   68.962            (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     

@@ -1,0 +1,14 @@
+   102.130.66.11   37468   0.0                       (Luanda, Luanda, AO, AF)                                                                                                     
+   102.130.66.1    37468   0.396                     (Luanda, Luanda, AO, AF)                                                                                                     
+   102.130.68.105  37468   0.698                         (None, None, AO, AF) *                                                                                                   
+   102.130.68.111  37468   0.648 (2.038)                (Luanda, Luanda, AO, AF)                                                                                                     
+╭─ 102.130.68.138  37468   36.519                        (None, None, AO, AF) *                                                                                                   
+LHL (37468, 9002)  west-africa-cable-system-wacs 👍 ↠ tata-tgn-western-europe ✓ || west-africa-cable-system-wacs 👍 ↠ europe-india-gateway-eig ✓ || west-africa-cable-system-wacs 👍 ↠ seamewe-3 ✓ || sat-3wasc ✓ ↠ tata-tgn-western-europe ✓ || sat-3wasc ✓ ↠ europe-india-gateway-eig ✓ || sat-3wasc ✓ ↠ seamewe-3 ✓
+├  100.64.192.13   *       185.733                                        ***                                                                                                     
+├─ 195.66.224.193  9002    186.367                    (London, ENG, GB, None) linx-224.retn.net                                                                                   
+S&T (9002)  
+╰─ 87.245.233.115  9002    210.822                  (Milan, Lombardy, IT, EU) et302-10.rt.vsx.pda.it.retn.net                                                                     
+   87.245.241.129  9002    213.459                  (Milan, Lombardy, IT, EU) gw-as201333.retn.net                                                                                
+   185.78.48.22    201333  209.863                  (Milan, Lombardy, IT, EU) ens1f4-920-r02.pia1.naquadria.net                                                                   
+   185.78.48.244   201333  209.883                    (Parabiago, 25, IT, EU) lf01b5-vlan910.pia1.naquadria.net                                                                   
+   185.78.49.100   201333  210.0           (Piacenza, Emilia-Romagna, IT, EU) it-pcz-as201333.anchors.atlas.ripe.net                                                              

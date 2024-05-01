@@ -1,0 +1,13 @@
+   193.50.97.164   2200    0.0                   (Plouzané, Brittany, FR, EU) anchor.netlab.enstb.org                                                                             
+   193.50.97.161   2200    0.363                 (Plouzané, Brittany, FR, EU) netlab-gw.enstb.org                                                                                 
+   192.108.116.201 50897   0.337                 (Plouzané, Brittany, FR, EU) asr-vlan39.enst-bretagne.fr                                                                         
+   193.51.188.10   2200    0.341 (6.176)        (Saint-Brieuc, Brittany, FR, EU) vl807-pc1-brest1-rtr-021.noc.renater.fr                                                             
+   193.51.177.174  2200    11.992              (Paris, Île-de-France, FR, EU) et-5-2-1-ren-nr-paris1-rtr-131.noc.renater.fr                                                       
+╭─ 77.67.123.205   3257    11.798                        (Paris, IDF, FR, EU) ae7-81.cr4-par7.ip4.gtt.net                                                                         
+S&T (3257)  seamewe-3 ✓
+├─ 89.149.139.25   3257    18.206                       (London, ENG, GB, EU) ae22.cr11-lon1.ip4.gtt.net                                                                          
+S&T (3257, 8895)  circe-north ✓ || ulysses-2 ✘ || scylla © || zeus ✓ || atlantic-crossing-1-ac-1 ✓ || concerto ✘ || farland-north ✘
+├─ 154.14.64.198   8895    108.346                    (Amsterdam, NH, NL, EU) ip4.gtt.net                                                                                         
+LHL (8895, 208520)  falcon ✘ || tata-tgn-gulf ✓ || gulf-bridge-international-cable-system-gbicsmiddle-east-north-africa-mena-cable-system ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 45.94.14.204    208520  108.349            (Riyadh, Riyadh Region, SA, AS)                                                                                                     

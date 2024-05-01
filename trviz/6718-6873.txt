@@ -1,0 +1,31 @@
+   193.50.97.164   2200    0.0                   (Plouzané, Brittany, FR, EU) anchor.netlab.enstb.org                                                                             
+   193.50.97.161   2200    0.391                 (Plouzané, Brittany, FR, EU) netlab-gw.enstb.org                                                                                 
+   192.108.116.201 50897   0.372                 (Plouzané, Brittany, FR, EU) asr-vlan39.enst-bretagne.fr                                                                         
+   193.51.188.10   2200    0.375 (6.461)        (Saint-Brieuc, Brittany, FR, EU) vl807-pc1-brest1-rtr-021.noc.renater.fr                                                             
+   193.51.177.174  2200    12.174              (Paris, Île-de-France, FR, EU) et-5-2-1-ren-nr-paris1-rtr-131.noc.renater.fr                                                       
+╭─ 83.97.89.9      20965   12.034                        (Paris, IDF, FR, EU) renater-ias-geant-gw.par.fr.geant.net                                                               
+S&T (20965)  
+├─ 62.40.98.106    20965   20.105                        (Lisbon, 11, PT, EU) ae0.mx2.lis.pt.geant.net                                                                            
+S&T (20965)  
+├─ 62.40.98.64     20965   19.214                   (London, England, GB, EU) ae2.mx1.lon.uk.geant.net                                                                            
+S (20965, 6461)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 64.125.24.69    6461    19.81                       (San Jose, CA, US, NA) ae17.cs1.sjc2.us.eth.zayo.com                                                                       
+S (6461, 4637)  
+├─ 82.98.196.161   4637    20.057                        (None, None, HK, AS) 82.98.196.161.IPYX-284545-900-ZYO.zip.zayo.com                                                      
+S (4637)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 202.84.178.9    4637    20.36                    (London, England, GB, EU) i-1003.ulcn-core01.telstraglobal.net                                                                
+S (4637)  
+╰─ 202.84.140.141  4637    253.046             (Singapore, Singapore, SG, AS) i-1000.sgcn-core01.telstraglobal.net                                                                
+   202.84.140.141  4637    253.046             (Singapore, Singapore, SG, AS) i-1000.sgcn-core01.telstraglobal.net                                                                
+   202.84.219.173  4637    252.28              (Singapore, Singapore, SG, AS) i-92.sggs01.telstraglobal.net                                                                       
+╭─ 210.57.30.171   4637    254.206             (Singapore, Singapore, SG, AS) unknown.telstraglobal.net                                                                           
+S&T (4637, 7552)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 27.68.237.138   7552    272.756                        (Hanoi, HN, VN, AS) localhost                                                                                           
+   210.86.233.30   24176   274.809    (Ho Chi Minh City, Ho Chi Minh, VN, AS) ci233-30.netnam.vn                                                                                  
+   210.86.232.101  24173   274.129                        (Hanoi, HN, VN, AS) ci232-101.netnam.vn                                                                                 
+   ***             *       -inf                                           *** *                                                                                                   
+   101.53.31.6     24173   274.624    (Ho Chi Minh City, Ho Chi Minh, VN, AS) ci53.31-6.netnam.vn                                                                                 

@@ -1,0 +1,17 @@
+   196.40.111.147  37153   0.0              (Cape Town, Western Cape, ZA, AF) atlas-anchor-cpt3.cpt.net.host-h.net                                                                
+   196.40.111.145  37153   10.218           (Cape Town, Western Cape, ZA, AF)                                                                                                     
+╭─ 41.204.206.37   37153   0.288            (Cape Town, Western Cape, ZA, AF) core-router1.cpt2.host-h.net                                                                        
+S&T (37153, 6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.198.50  6939    67.574                      (Mombasa, 300, KE, AF) port-channel3.core1.mba1.he.net                                                                     
+S&T (6939)  
+├─ 184.105.64.14   6939    145.794                (Djibouti City, DJ, DJ, AF) 10ge4-6.core1.jib1.he.net                                                                           
+S (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 65.49.109.214   6939    304.281             (Singapore, Singapore, SG, AS) pakistan-telecommunication-co-ltd.e0-26.switch1.sin1.he.net                                         
+S (6939, 7590)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 202.125.149.58  7590    322.804                   (Rawalpindi, PB, PK, AS) Touchstone-4.rwp44d1.pie.net.pk                                                                     
+   210.56.8.180    7590    311.813                    (Islamabad, IS, PK, AS) *                                                                                                   
+   210.56.11.202   7590    323.194             (Islamabad, Islamabad, PK, AS)                                                                                                     

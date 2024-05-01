@@ -1,0 +1,21 @@
+   37.10.40.14     202196  0.0                 (Hong Kong, Hong Kong, HK, AS)                                                                                                     
+   37.10.40.9      202196  0.405            (Tai Yuen Estate, Tai Po, HK, AS)                                                                                                     
+   210.176.141.185 4637    1.498            (Tai Yuen Estate, Tai Po, HK, AS) unknown.telstraglobal.net                                                                           
+   ***             *       -inf                                           *** *                                                                                                   
+   202.84.153.26   4637    1.874     (Hong Kong, Central and Western, HK, AS)                                                                                                     
+╭─ 210.57.53.25    6453    1.812                         (None, None, HK, AS) unknown.telstraglobal.net                                                                           
+S (6453)  apcn-2 👍 || southeast-asia-japan-cable-sjc ✓ || seamewe-3 👍 || eac-c2c ✓ || asia-pacific-gateway-apg ✓ || tata-tgn-intra-asia-tgn-ia 👍 || asia-submarine-cable-express-asecahaya-malaysia ✓ || asia-america-gateway-aag-cable-system ✓
+├─ 116.0.93.146    6453    261.421                       (None, None, SG, AS) *                                                                                                   
+S (6453)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 195.219.174.10  6453    264.757   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) if-be-30-2.ecore1.emrs2-marseille.as6453.net                                                        
+╭─ 80.231.165.25   6453    264.244   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) if-bundle-2-2.qcore2.emrs2-marseille.as6453.net                                                     
+T (6453)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 195.219.156.150 6453    264.463            (Frankfurt am Main, HE, DE, EU) if-ae-29-2.tcore1.fnm-frankfurt.as6453.net                                                          
+T (6453)  
+╰─ 195.219.163.22  6453    263.766                       (Rome, None, IT, EU) if-ae-25-2.thar1.rct-rome.as6453.net                                                                
+   5.23.4.2        6453    219.359                       (None, None, IT, EU) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   194.187.172.112 35574   220.202                      (Rome, Lazio, IT, EU)                                                                                                     

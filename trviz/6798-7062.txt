@@ -1,0 +1,15 @@
+   196.40.111.147  37153   0.0              (Cape Town, Western Cape, ZA, AF) atlas-anchor-cpt3.cpt.net.host-h.net                                                                
+   196.40.111.145  37153   0.516 (11.859)       (Cape Town, Western Cape, ZA, AF)                                                                                                     
+   196.40.108.2    37153   0.34             (Cape Town, Western Cape, ZA, AF)                                                                                                     
+╭─ 196.60.70.165   6939    1.396                    (Cape Town, 11, ZA, None) 196-10-140-165.ixp.capetown                                                                         
+S&T (6939)  west-africa-cable-system-wacs ✓
+├─ 184.104.188.209 6939    113.065                   (Lisbon, Lisbon, PT, EU) 100ge0-79.core1.lis1.he.net                                                                         
+S&T (6939)  africa-coast-to-europe-ace ✓ || seamewe-3 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.193.102 6939    135.415   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) port-channel1.core3.mrs1.he.net                                                                     
+S&T (6939)  seamewe-5 ✓ || seamewe-4 ✓ || asia-africa-europe-1-aae-1 ✓ || imewe ✓
+╰─ 184.104.189.46  6939    233.512                     (Dubai, Dubai, AE, AS) ve1002.core2.dxb1.he.net                                                                            
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   185.34.2.114    36236   233.561                     (Dubai, Dubai, AE, AS)                                                                                                     

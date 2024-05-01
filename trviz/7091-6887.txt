@@ -1,0 +1,13 @@
+   27.111.84.21    135132  0.0           (Cebu City, Central Visayas, PH, AS) ph-ceb-as135132.anchors.atlas.ripe.net                                                              
+   27.111.84.20    135132  1.383             (Baugo, Central Visayas, PH, AS) vlan509.core.ceb02.ds.network                                                                       
+   192.168.159.142 *       938.785                                        ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   192.168.159.165 *       4.15                                           ***                                                                                                     
+╭─ 43.224.189.33   137074  3.8               (Baugo, Central Visayas, PH, AS) 43-224-189-33.static.rise.as                                                                        
+S (137074, 38001)  
+├  10.255.64.24    *       41.401                                         ***                                                                                                     
+├─ 27.111.228.86   38001   43.573                    (Seogwipo, None, KR, AS) 38001.sgw.equinix.com                                                                               
+S (38001)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 203.174.85.106  38001   56.674              (Singapore, Singapore, SG, AS)                                                                                                     

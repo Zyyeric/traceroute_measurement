@@ -1,0 +1,18 @@
+   196.49.15.189   328998  0.0              (Kampala, Central Region, UG, AF)                                                                                                     
+   196.49.15.253   328998  0.736            (Kampala, Central Region, UG, AF)                                                                                                     
+   41.191.77.205   37063   0.721            (Kampala, Central Region, UG, AF)                                                                                                     
+   129.205.30.77   37063   1.039                         (Kampala, C, UG, AF) *                                                                                                   
+╭─ 129.205.30.230  37063   8.842            (Kampala, Central Region, UG, AF)                                                                                                     
+T (37063, 6939)  
+├─ 196.223.21.74   6939    161.36                      (Nairobi, 5, KE, None) *                                                                                                   
+S&T (6939)  
+├─ 184.104.189.42  6939    162.174               (Djibouti, Djibouti, DJ, AF) ve1004.core2.jib1.he.net                                                                            
+S (6939)  
+╰─ 184.104.194.201 6939    265.147             (Singapore, Singapore, SG, AS) port-channel14.core3.sin1.he.net                                                                    
+╭─ 184.104.208.93  6939    240.727             (Singapore, Singapore, SG, AS) true-internet-corporation-co-ltd.port-channel18.core3.sin1.he.net                                   
+S&T (6939, 38082)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 113.21.241.209  38082   263.259                       (None, None, TH, AS) TH-ICR-MTT1-241-209.trueintergateway.com                                                            
+   113.21.243.146  137566  269.839                       (None, None, TH, AS) TIG-Net243-146.trueintergateway.com                                                                 
+   103.113.176.2   137566  269.763                       (None, None, TH, AS) *                                                                                                   
+   103.113.176.82  137566  269.647       (Ban Talat Bueng, Chon Buri, TH, AS)                                                                                                     

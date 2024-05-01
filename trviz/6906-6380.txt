@@ -1,0 +1,23 @@
+   196.49.14.25    30997   0.0                 (Accra, Greater Accra, GH, AF)                                                                                                     
+   196.49.14.1     30997   0.332               (Accra, Greater Accra, GH, AF)                                                                                                     
+╭─ 197.221.70.89   *       0.811               (Accra, Greater Accra, GH, AF)                                                                                                     
+S&T (, 3741)  
+╰─ 196.14.240.4    3741    0.93                          (None, None, ZA, AF) *                                                                                                   
+╭─ 168.209.160.109 3741    255.766                       (None, None, ZA, AF) *                                                                                                   
+T (3741)  
+├─ 168.209.160.108 3741    256.079                  (London, England, GB, EU)                                                                                                     
+T (3741)  
+├─ 168.209.246.1   3741    257.345                       (None, None, ZA, AF) core1b-dock-be-1.ip.ddii.network                                                                    
+T (3741, 3356)  
+╰─ 195.50.122.229  3356    255.208                  (Colchester, ENG, GB, EU) *                                                                                                   
+   171.75.8.227    3356    255.224                 (Archway, England, GB, EU) ae1.3114.edge5.lon1.neo.colt.net                                                                    
+   4.68.111.206    4637    192.66                       (London, ENG, GB, EU) *                                                                                                   
+╭─ 202.84.178.13   4637    193.017             (Camden Town, England, GB, EU) i-1008.ulcn-core01.telstraglobal.net                                                                
+S (4637)  
+╰─ 202.84.140.141  4637    435.611             (Singapore, Singapore, SG, AS) i-1000.sgcn-core01.telstraglobal.net                                                                
+   202.84.140.141  4637    435.611             (Singapore, Singapore, SG, AS) i-1000.sgcn-core01.telstraglobal.net                                                                
+╭─ 202.84.207.190  4637    434.111             (Singapore, Singapore, SG, AS) unknown.telstraglobal.net                                                                           
+S (4637)  
+╰─ 202.84.204.41   4637    432.829                     (Dubai, Dubai, AE, AS) i-103.uddm01.telstraglobal.net                                                                      
+   185.1.8.23      60924   434.094                       (Dubai, 3, AE, None) dxb-gw03.orixcom.net                                                                                
+   185.92.128.30   60924   432.106                     (Dubai, Dubai, AE, AS)                                                                                                     

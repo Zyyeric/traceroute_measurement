@@ -1,0 +1,22 @@
+   114.31.201.91   4826    0.0              (Sydney, New South Wales, AU, OC) 91.201.31.114.core.vocus.network                                                                    
+   114.31.201.90   4826    0.871            (Sydney, New South Wales, AU, OC) 90.201.31.114.core.vocus.network                                                                    
+   ***             *       -inf                                           *** *                                                                                                   
+   103.1.77.38     *       92.547           (Sydney, New South Wales, AU, OC) be203.lsr01.brdg.nsw.vocus.network                                                                  
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 114.31.206.75   4826    91.741                         (Perth, WA, AU, OC) be203.bdr02.sin01.sin.vocus.network                                                                 
+S (4826, 4766)  
+╰─ 27.111.229.142  4766    92.059                    (Seogwipo, None, KR, AS) 4766.sgw.equinix.com                                                                                
+   112.174.87.93   4766    126.03                        (None, None, KR, AS) *                                                                                                   
+╭─ 112.174.88.241  4766    126.204                     (Seoul, Seoul, KR, AS)                                                                                                     
+S (4766, 4775)  
+├─ 121.189.2.150   4775    133.135                  (Hong Kong, None, HK, AS) *                                                                                                   
+S (4775)  
+╰─ 120.28.0.13     4775    130.516                       (None, None, PH, AS) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   203.177.209.218 135132  140.721              (Lapu-Lapu City, CEB, PH, AS) vlan5.vsrx.ceb02.ds.network                                                                         
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   27.111.84.21    135132  144.316       (Cebu City, Central Visayas, PH, AS) ph-ceb-as135132.anchors.atlas.ripe.net                                                              

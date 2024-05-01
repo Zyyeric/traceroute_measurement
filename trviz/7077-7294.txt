@@ -1,0 +1,35 @@
+   10.252.4.170    *       0.0                                            ***                                                                                                     
+   10.252.4.169    *       0.136                                          ***                                                                                                     
+   10.252.4.153    *       0.164                                          ***                                                                                                     
+   10.252.0.37     *       9.557                                          ***                                                                                                     
+   10.252.2.138    *       12.11                                          ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 154.25.16.81    174     13.876                (Istanbul, Istanbul, TR, AS) be3821.rcr71.ist01.atlas.cogentco.com                                                               
+S (174)  
+├─ 154.54.74.226   174     22.372                         (Lyon, ARA, FR, EU) be2881.rcr21.lys01.atlas.cogentco.com                                                               
+LHL (174)  
+├─ 130.117.0.94    174     30.438                       (Belgrade, 0, RS, EU) be3421.ccr51.beg03.atlas.cogentco.com                                                               
+T (174)  
+├─ 130.117.0.125   174     32.751                      (Budapest, PE, HU, EU) be3422.ccr31.bud01.atlas.cogentco.com                                                               
+T (174)  
+├─ 130.117.3.137   174     34.943                    (Bratislava, BL, SK, EU) be3261.ccr21.bts01.atlas.cogentco.com                                                               
+T (174)  
+├─ 154.54.59.86    174     38.534                         (Vienna, 9, AT, EU) be2988.ccr51.vie01.atlas.cogentco.com                                                               
+T (174)  
+╰─ 154.54.58.5     174     44.237                        (Munich, BY, DE, EU) be2974.ccr21.muc03.atlas.cogentco.com                                                               
+   154.54.36.53    174     50.918             (Frankfurt am Main, HE, DE, EU) be2959.ccr41.fra03.atlas.cogentco.com                                                               
+   130.117.15.114  6453    53.804             (Frankfurt am Main, HE, DE, EU) tata.fra03.atlas.cogentco.com                                                                       
+   80.231.65.20    6453    63.925             (Frankfurt am Main, HE, DE, EU) if-ae-25-2.tcore2.fr0-frankfurt.as6453.net                                                          
+╭─ 5.23.30.16      6453    65.104             (Frankfurt am Main, HE, DE, EU) if-ae-9-2.tcore1.fnm-frankfurt.as6453.net                                                           
+T (6453)  
+╰─ 195.219.194.149 6453    65.213                     (Amsterdam, NH, NL, EU) if-ae-6-2.tcore1.av2-amsterdam.as6453.net                                                           
+╭─ 195.219.194.6   6453    65.679                     (Amsterdam, NH, NL, EU) if-ae-2-2.tcore2.av2-amsterdam.as6453.net                                                           
+S&T (6453)  
+├─ 80.231.131.160  6453    63.56                       (London, None, GB, EU) if-ae-14-2.tcore2.l78-london.as6453.net                                                             
+S (6453)  
+╰─ 80.231.131.66   6453    183.558                       (Mumbai, MH, IN, AS) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   115.114.12.186  4755    207.733                     (Delhi, Delhi, IN, AS) 115.114.12.186.static-delhi.vsnl.net.in                                                             
+   180.179.197.198 17439   201.692                       (None, None, IN, AS) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   216.48.178.84   132420  204.551             (Noida, Uttar Pradesh, IN, AS) e2e-95-84.ssdcloudindia.net                                                                         

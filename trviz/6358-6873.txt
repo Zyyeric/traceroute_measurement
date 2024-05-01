@@ -1,0 +1,25 @@
+   193.50.97.164   2200    0.0                   (Plouzané, Brittany, FR, EU) anchor.netlab.enstb.org                                                                             
+   ***             *       -inf                                           *** *                                                                                                   
+   192.108.116.201 50897   0.518                 (Plouzané, Brittany, FR, EU) asr-vlan39.enst-bretagne.fr                                                                         
+   193.51.188.10   2200    6.547             (Saint-Brieuc, Brittany, FR, EU) vl807-pc1-brest1-rtr-021.noc.renater.fr                                                             
+   193.51.177.174  2200    11.99               (Paris, Île-de-France, FR, EU) et-5-2-1-ren-nr-paris1-rtr-131.noc.renater.fr                                                       
+╭─ 83.97.89.9      20965   12.059                        (Paris, IDF, FR, EU) renater-ias-geant-gw.par.fr.geant.net                                                               
+S&T (20965)  
+├─ 62.40.98.106    20965   20.529                        (Lisbon, 11, PT, EU) ae0.mx2.lis.pt.geant.net                                                                            
+S&T (20965)  
+╰─ 62.40.98.64     20965   18.474                   (London, England, GB, EU) ae2.mx1.lon.uk.geant.net                                                                            
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 184.104.205.253 6939    20.895                   (London, England, GB, EU) mtn-globalconnect-solutions-ltd.port-channel7.core1.lon3.he.net                                     
+T (6939, 16637)  
+╰─ 41.181.189.65   16637   22.244                      (Pretoria, GP, ZA, AF) *                                                                                                   
+╭─ 41.181.190.151  16637   20.577                      (Pretoria, GP, ZA, AF) *                                                                                                   
+T (16637)  
+├─ 41.181.244.176  16637   21.951                   (London, England, GB, EU)                                                                                                     
+T (16637, 20294)  
+├─ 41.181.247.39   20294   171.14                        (None, None, ZA, AF) *                                                                                                   
+LHL (20294)  
+╰─ 212.88.110.34   20294   170.239          (Kampala, Central Region, UG, AF)                                                                                                     
+   129.205.30.76   37063   171.001                       (Kampala, C, UG, AF) *                                                                                                   
+   41.191.77.206   328998  170.469                       (Kampala, C, UG, AF) *                                                                                                   
+   196.49.15.189   328998  169.807          (Kampala, Central Region, UG, AF)                                                                                                     

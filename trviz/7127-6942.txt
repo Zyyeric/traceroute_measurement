@@ -1,0 +1,18 @@
+   46.166.168.3    16125   0.0                   (Šiauliai, Siauliai, LT, EU)                                                                                                     
+   46.166.168.1    16125   0.63                  (Šiauliai, Siauliai, LT, EU)                                                                                                     
+   46.166.166.16   16125   0.581                 (Šiauliai, Siauliai, LT, EU)                                                                                                     
+╭─ 216.66.90.161   6939    0.589 (6.063)              (Vilnius, Vilnius, LT, EU) ve107.core2.vno1.he.net                                                                             
+S&T (6939)  bcs-east ✓
+├─ 184.104.192.89  6939    12.451                         (Riga, RIX, LV, EU) 100ge5-2.core1.rix1.he.net                                                                          
+LHL (6939)  latvia-sweden-1-lv-se-1 ✓ ↠ sweden-estonia-ee-s-1 ✓ || latvia-sweden-1-lv-se-1 ✓ ↠ baltic-sea-submarine-cable ✓ || sweden-latvia ✓ ↠ sweden-estonia-ee-s-1 ✓ || sweden-latvia ✓ ↠ baltic-sea-submarine-cable ✓
+├─ 184.104.192.93  6939    19.048                       (Tallinn, 37, EE, EU) 100ge8-2.core1.tll1.he.net                                                                          
+S&T (6939)  
+├─ 184.104.192.98  6939    17.89                       (Helsinki, 18, FI, EU) 100ge4-2.core1.hel1.he.net                                                                          
+S&T (6939, 8473)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 85.24.220.2     8473    30.478              (Stockholm, Stockholm, SE, EU) sto2-p1.se.as8473.net                                                                               
+   46.59.112.82    8473    30.15               (Stockholm, Stockholm, SE, EU) sto2-p1.sto1-p1.as8473.net                                                                          
+   46.59.112.85    8473    28.991              (Stockholm, Stockholm, SE, EU) sto1-p1.sto-cr4.as8473.net                                                                          
+   46.59.112.133   8473    28.814                          (Malmo, M, SE, EU) sto-cr4.mmo-cr3.bahnhof.net                                                                         
+   46.59.112.207   8473    29.244                          (Malmo, M, SE, EU) mmo-cr3.mmo-cr4.bahnhof.net                                                                         
+   192.42.97.214   8473    28.351                      (Malmö, Skåne, SE, EU) se-mma-as8473.anchors.atlas.ripe.net                                                                

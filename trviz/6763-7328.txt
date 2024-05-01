@@ -1,0 +1,19 @@
+   102.212.60.247  329276  0.0              (Cape Town, Western Cape, ZA, AF) za-cpt-as329276.anchors.atlas.ripe.net                                                              
+   102.212.60.2    329276  0.147             (Rosebank, Western Cape, ZA, AF) net.lnx-solutions.com                                                                               
+   196.250.236.121 37662   0.275             (Rosebank, Western Cape, ZA, AF)                                                                                                     
+╭─ 154.66.247.234  37662   0.254 (2.079)                 (Trichardt, MP, ZA, AF) *                                                                                                   
+S&T (37662)  eastern-africa-submarine-system-eassy 👍 || seacomtata-tgn-eurasia ✓
+├─ 154.66.247.99   37662   114.595                       (None, None, KE, AF) *                                                                                                   
+LHL (37662, 6939)  peace-cable ✘ ↠ seamewe-3 ✓ || peace-cable ✘ ↠ europe-india-gateway-eig ✓ || seacomtata-tgn-eurasia ✓ ↠ seamewe-3 ✓ || seacomtata-tgn-eurasia ✓ ↠ europe-india-gateway-eig ✓
+├─ 184.104.204.93  6939    114.023                   (Lisbon, Lisbon, PT, EU) e0-18.core1.lis1.he.net                                                                             
+S&T (6939)  africa-coast-to-europe-ace ✓ || seamewe-3 ✓
+├─ 184.104.189.30  6939    137.429   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) port-channel18.core4.mrs1.he.net                                                                    
+S&T (6939, 5602)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 62.196.8.238    5602    150.532               (Vigolo Vattaro, 32, IT, EU) *                                                                                                   
+   109.168.0.173   5602    151.502                         (Lodi, 25, IT, EU) cr2-tenge0-0-0-0-cal2.mil.kpnqwest.it                                                               
+   109.168.0.14    5602    150.485                         (Lodi, 25, IT, EU) cr2-hunge0-0-1-1-cal4.mil.kpnqwest.it                                                               
+   94.141.0.138    5602    151.302                         (Rome, 62, IT, EU) cs1-xe-1-1-2-0-cal4.mil.kpnqwest.it                                                                 
+   109.168.125.243 5602    150.365                  (Milan, Lombardy, IT, EU) 243.125.168.109.host.static.ip.kpnqwest.it                                                          

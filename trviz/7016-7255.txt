@@ -1,0 +1,14 @@
+   103.179.37.157  151332  0.0                  (Melbourne, Victoria, AU, OC)                                                                                                     
+   103.179.37.156  151332  0.308                (Melbourne, Victoria, AU, OC)                                                                                                     
+   203.192.83.253  7545    1.217                (Melbourne, Victoria, AU, OC) ip-253-83-192-203.static.pipenetworks.com                                                           
+   203.220.216.73  7545    1.723                        (Sydney, NSW, AU, OC) 203-220-216-73.tpgi.com.au                                                                          
+   27.32.160.193   7545    85.55               (North Melbourne, VIC, AU, OC) 27-32-160-193.static.tpgi.com.au                                                                    
+╭─ 203.219.57.14   7545    85.015          (Perth, Western Australia, AU, OC) per-apt-stg-crt1-be20.tpgi.com.au                                                                   
+S (7545)  
+╰─ 203.219.107.114 7545    85.505              (Singapore, Singapore, SG, AS) sin-eqx-aye-int1-hu-0-0-0-20.tpg.com.au                                                             
+╭─ 27.111.230.188  *       85.086              (Singapore, Singapore, SG, AS) 140443.sgw.equinix.com                                                                              
+S&T (, 140443)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 103.160.63.222  140443  97.159                  (Jakarta, Jakarta, ID, AS) 222.63.160.103.in-addr.herza.id                                                                     

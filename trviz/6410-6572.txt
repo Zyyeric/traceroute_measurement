@@ -1,0 +1,11 @@
+   152.195.80.35   15133   0.0                     (Atlanta, Georgia, US, NA)                                                                                                     
+   152.195.80.33   15133   1.162                   (Atlanta, Georgia, US, NA)                                                                                                     
+   198.32.132.75   6939    0.957                        (Atlanta, GA, US, NA) 10gigabitethernet1-3.core1.atl1.he.net                                                              
+╭─ 184.104.198.18  6939    13.995          (Virginia Beach, Virginia, US, NA) port-channel3.core2.orf2.he.net                                                                     
+S (6939)  brusa ✓ || america-movil-submarine-cable-system-1-amx-1 ✓ || monet ✓ || south-america-1-sam-1 ✓ || globenet © || americas-ii ✓ || seabras-1 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.80.53   6939    121.731             (São Paulo, São Paulo, BR, SA) 100ge0-31.core3.sao1.he.net                                                                         
+   209.51.184.198  22548   120.425                       (None, None, BR, SA) ae0-0.gw1.nu.registro.br                                                                            
+   200.160.0.157   22548   129.189                       (None, None, BR, SA) xe-0-1-3-0.core1.jd.registro.br                                                                     
+   200.160.0.249   22548   130.474                       (None, None, BR, SA) ae0-0.ar3.nu.registro.br                                                                            
+   200.160.6.19    22548   122.864             (São Paulo, São Paulo, BR, SA) br-sao-as22548.anchors.atlas.ripe.net                                                               

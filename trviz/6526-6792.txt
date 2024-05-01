@@ -1,0 +1,20 @@
+   141.164.39.1    20473   0.0                      (Paripark, Seoul, KR, AS) 141.164.39.1.vultrusercontent.com                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   100.100.200.1   *       0.487                                          ***                                                                                                     
+   10.84.0.29      *       0.47                                           ***                                                                                                     
+   10.84.2.49      *       1.447                                          ***                                                                                                     
+   210.176.150.116 4637    1.443                       (Seoul, Seoul, KR, AS) unknown.telstraglobal.net                                                                           
+╭─ 202.84.149.101  4637    1.735                       (Seoul, Seoul, KR, AS)                                                                                                     
+S (4637)  apcn-2 👍 || asia-pacific-gateway-apg ✓ || flag-north-asia-loopreach-north-asia-loop 👍 || eac-c2c 👍 || new-cross-pacific-ncp-cable-system ✓ || korea-japan-cable-network-kjcn ✓ || seamewe-3 👍 || flag-europe-asia-fea ✓ || trans-pacific-express-tpe-cable-system ✓
+├─ 202.84.138.37   4637    31.221                      (Tokyo, Tokyo, JP, AS)                                                                                                     
+S (4637)  japan-u-s-cable-network-jus 👍 || tata-tgn-pacific ✓ || pacific-crossing-1-pc-1 ✓ || faster ✓ || jupiter ✓ || new-cross-pacific-ncp-cable-system ✓ || trans-pacific-express-tpe-cable-system ✓ || unityeac-pacific 👍
+╰─ 202.84.141.1    4637    139.741             (San Jose, California, US, NA) i-10857.eqnx-core02.telstraglobal.net                                                               
+   202.84.247.17   4637    137.537             (San Jose, California, US, NA) i-92.eqnx03.telstraglobal.net                                                                       
+╭─ 4.68.68.125     3356    137.819       (East Palo Alto, California, US, NA)                                                                                                     
+S (3356, 3216)  atlantic-crossing-1-ac-1 👍
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 213.19.197.34   3216    329.042                    (Amsterdam, NH, NL, EU) EDN-SOVINTE.ear4.Amsterdam1.Level3.net                                                              
+T (3216, 29114)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 195.209.139.36  29114   324.477          (Ivanovo, Ivanovo Oblast, RU, EU) anchor1.atlas.ruitb.ru                                                                              

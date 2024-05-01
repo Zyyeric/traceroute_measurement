@@ -1,0 +1,14 @@
+   103.143.136.43  63781   0.0                         (Tokyo, Tokyo, JP, AS) koba-103-143-136-43.rev.kobayashi.ad.jp                                                             
+   103.143.136.62  63781   2.104                       (Tokyo, Tokyo, JP, AS) koba-103-143-136-62.rev.kobayashi.ad.jp                                                             
+   103.143.136.25  63781   0.679                       (Tokyo, Tokyo, JP, AS) bgprt1-ospfrt1.kobayashi.ad.jp                                                                      
+   103.41.60.164   10010   3.196                       (Tokyo, Tokyo, JP, AS) bgp3.tokyo-ix.v4.open.ad.jp                                                                         
+   150.99.184.33   2907    4.612                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+╭─ 150.99.10.187   2907    3.386                         (None, None, JP, AS) *                                                                                                   
+S (2907, 12389)  russia-japan-cable-network-rjcn ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 188.128.126.205 12389   25.78                        (Moscow, MOW, RU, EU) *                                                                                                   
+   188.254.90.106  12389   25.92             (Khabarovsk, Khabarovsk, RU, EU)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   92.38.191.67    210756  184.804           (Khabarovsk, Khabarovsk, RU, EU) vrrp.edgecenter.ru                                                                                  
+   185.209.84.10   198412  184.41                   (Khabarovsk, KHA, RU, AS) ae1-0.c10.khv01.ru.misaka.io                                                                        
+   185.209.84.141  57578   184.532           (Khabarovsk, Khabarovsk, RU, EU) ru-khv-as57578.anchors.atlas.ripe.net                                                               

@@ -1,0 +1,14 @@
+   213.184.86.101  59795   0.0           (Copenhagen, Capital Region, DK, EU) dk-cph-as59795.anchors.atlas.ripe.net                                                               
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 185.212.169.49  9009    0.872             (Herlev, Capital Region, DK, EU) vlan108.as04.cph1.dk.m247.ro                                                                        
+S (9009)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 77.243.185.214  9009    1.587                    (Manchester, ENG, GB, EU) te-13-7-0.core-dc2.man4.uk.m247.com                                                                 
+S&T (9009)  
+├─ 37.120.220.16   9009    11.48                      (Barcelona, CT, ES, EU) *                                                                                                   
+LHL (9009, )  
+├─ 194.68.123.74   *       10.172              (Stockholm, Stockholm, SE, EU) netnod-ix-ge-a-sth-1500.blix.com                                                                    
+T (, 50304)  
+╰─ 178.255.145.176 50304   13.614                           (Oslo, 2, NO, EU) 100ge1.ncs-dpu-osl.blix.com                                                                         
+   31.169.48.101   50304   13.424                    (Stodsbuoye, 34, NO, EU) *                                                                                                   
+   195.43.159.22   207788  13.328                        (Oslo, Oslo, NO, EU) anchors.as207788.net                                                                                

@@ -1,0 +1,17 @@
+   103.143.136.43  63781   0.0                         (Tokyo, Tokyo, JP, AS) koba-103-143-136-43.rev.kobayashi.ad.jp                                                             
+   103.143.136.62  63781   2.605                       (Tokyo, Tokyo, JP, AS) koba-103-143-136-62.rev.kobayashi.ad.jp                                                             
+   103.143.136.25  63781   0.455                       (Tokyo, Tokyo, JP, AS) bgprt1-ospfrt1.kobayashi.ad.jp                                                                      
+   103.41.60.164   10010   0.634                       (Tokyo, Tokyo, JP, AS) bgp3.tokyo-ix.v4.open.ad.jp                                                                         
+   150.99.184.33   2907    1.925                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+   150.99.10.187   2907    1.804                         (None, None, JP, AS) *                                                                                                   
+   202.232.6.17    2497    1.953                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+   58.138.114.253  2497    3.141                       (Tokyo, Tokyo, JP, AS) tky009bb11.iij.net                                                                                  
+╭─ 58.138.84.153   2497    2.382                       (Tokyo, Tokyo, JP, AS) tky001bb01.iij.net                                                                                  
+S (2497)  
+╰─ 58.138.81.174   2497    63.812    (Hong Kong, Central and Western, HK, AS) hkg002bb11.iij.net                                                                                  
+╭─ 58.138.80.233   2497    59.553    (Hong Kong, Central and Western, HK, AS) hkg002bb10.iij.net                                                                                  
+LHL (2497, 45204)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 180.149.97.121  45204   114.528                       (None, None, MN, AS) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   180.149.98.146  45204   116.878          (Ulan Bator, Ulaanbaatar, MN, AS)                                                                                                     

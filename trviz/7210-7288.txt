@@ -1,0 +1,17 @@
+   103.215.229.229 140443  0.0                  (Surabaya, East Java, ID, AS) 229.229.215.103.in-addr.herza.id                                                                    
+   103.215.229.1   140443  0.151         (Gubengairlangga, East Java, ID, AS)                                                                                                     
+   103.215.228.1   140443  0.193         (Gubengairlangga, East Java, ID, AS) 1.228.215.103.in-addr.herza.id                                                                      
+╭─ 36.64.254.21    7713    1.048         (Gubengairlangga, East Java, ID, AS)                                                                                                     
+S&T (7713)  australia-singapore-cable-asc ✓ || matrix-cable-system ✘ || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || indonesia-global-gateway-igg-system 👍 || seamewe-3 ✓ || jasuka 👍 || indigo-west ✓ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || jakabare ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 180.240.193.93  7713    18.739              (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 180.240.204.8   7713    19.717              (Singapore, Singapore, SG, AS)                                                                                                     
+S (7713, 8220)  
+├─ 27.111.229.123  8220    20.033                    (Seogwipo, None, KR, AS) 8220.sgw.equinix.com                                                                                
+LHL (8220)  
+├─ 212.74.86.208   8220    199.512            (Frankfurt am Main, HE, DE, EU) te0-3-0-9-crs2.FRA.router.colt.net                                                                  
+LHL (8220, 47720)  
+╰─ 62.23.108.46    47720   201.997                      (Dublin, L, IE, None) host.46.108.23.62.rev.coltfrance.com                                                                
+   91.103.0.196    47720   205.389                          (Cork, M, IE, EU) *                                                                                                   
+   91.103.0.99     42953   203.253                          (Cork, M, IE, EU) *                                                                                                   
+   185.6.39.132    42953   202.217                    (Cork, Munster, IE, EU)                                                                                                     

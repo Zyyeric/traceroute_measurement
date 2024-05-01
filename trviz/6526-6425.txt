@@ -1,0 +1,15 @@
+   202.214.97.16   2497    0.0                      (Hatsudai, Tokyo, JP, AS)                                                                                                     
+   202.214.97.2    2497    2.565                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+   210.138.93.41   2497    0.487                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+   58.138.114.233  2497    1.0                         (Tokyo, Tokyo, JP, AS) tky009ipgw00.iij.net                                                                                
+   58.138.114.193  2497    0.977                       (Tokyo, Tokyo, JP, AS) tky009bb01.iij.net                                                                                  
+   58.138.112.54   2497    1.954                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+╭─ 58.138.88.13    2497    1.079                       (Tokyo, Tokyo, JP, AS) tky001bb01.iij.net                                                                                  
+S (2497)  apcn-2 ✓ || eac-c2c ✓ || asia-pacific-gateway-apg ✓
+╰─ 58.138.81.174   2497    54.101    (Hong Kong, Central and Western, HK, AS) hkg002bb11.iij.net                                                                                  
+   58.138.80.245   2497    54.017    (Hong Kong, Central and Western, HK, AS) hkg002bb10.iij.net                                                                                  
+╭─ 123.255.91.209  *       56.046              (Hong Kong, Hong Kong, HK, AS) vimpelcom1-10g.hkix.net                                                                             
+LHL (, 29114)  seamewe-3 ✘ || asia-africa-europe-1-aae-1 ✘ || flag-europe-asia-fea ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 195.209.139.36  29114   253.209          (Ivanovo, Ivanovo Oblast, RU, EU) anchor1.atlas.ruitb.ru                                                                              

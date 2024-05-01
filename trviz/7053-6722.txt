@@ -1,0 +1,13 @@
+   195.43.87.140   51349   0.0                    (Tallinn, Harjumaa, EE, EU) rr-s-140.internet.ee                                                                                
+   195.43.87.139   51349   0.355                  (Tallinn, Harjumaa, EE, EU) rr-s-139.internet.ee                                                                                
+╭─ 212.107.37.94   1257    0.847                  (Tallinn, Harjumaa, EE, EU) static-212-107-37-94.cust.tele2.ee                                                                  
+T (1257)  
+╰─ 91.129.14.187   1257    10.767                  (Vilnius, Vilnius, LT, EU) vlna00-peer-1.ae1-unit0.tele2.net                                                                   
+╭─ 87.245.242.170  9002    11.143                  (Vilnius, Vilnius, LT, EU) ae5.rt.tic.vno.lt.retn.net                                                                          
+LHL (9002)  bcs-east-west-interlink ✓ ↠ bcs-north---phase-1 ✓ || bcs-east-west-interlink ✓ ↠ eastern-light ✘ || bcs-east-west-interlink ✓ ↠ sweden-finland-4-sfs-4 ✓ || bcs-east-west-interlink ✓ ↠ baltic-sea-submarine-cable ✓ || nordbalt ✘ ↠ bcs-north---phase-1 ✓ || nordbalt ✘ ↠ eastern-light ✘ || nordbalt ✘ ↠ sweden-finland-4-sfs-4 ✓ || nordbalt ✘ ↠ baltic-sea-submarine-cable ✓
+╰─ 87.245.232.176  9002    17.018                    (Espoo, Uusimaa, FI, EU) ae3-7.rt.tnr.hki.fi.retn.net                                                                        
+   87.245.248.46   47605   40.915                        (None, None, FI, EU) GW-FNE.retn.net                                                                                     
+   87.236.158.197  47605   24.036                        (None, None, FI, EU) *                                                                                                   
+   87.236.154.213  47605   23.964                        (None, None, FI, EU) *                                                                                                   
+   87.236.154.129  57692   24.106                        (None, None, FI, EU) *                                                                                                   
+   91.232.156.247  57692   24.094                 (Helsinki, Uusimaa, FI, EU) fi-hel-as57692.anchors.atlas.ripe.net                                                               

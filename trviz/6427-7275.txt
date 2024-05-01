@@ -1,0 +1,14 @@
+   180.211.88.22   45725   0.0                     (Jakarta, Jakarta, ID, AS) id-jkt-as45725.anchors.atlas.ripe.net                                                               
+   180.211.88.21   45725   0.369                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+   43.230.153.89   *       0.3                     (Jakarta, Jakarta, ID, AS)                                                                                                     
+╭─ 111.92.161.4    55655   0.703                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+S (55655, 4764)  
+├  10.110.1.0      *       12.443                                         ***                                                                                                     
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 27.111.229.181  4764    12.762                    (Seogwipo, None, KR, AS) 4764.sgw.equinix.com                                                                                
+S (4764, 9268)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  10.254.248.126  *       12.931                                         ***                                                                                                     
+├  10.254.251.52   *       104.758                                        ***                                                                                                     
+╰─ 119.17.170.244  9268    104.844          (Sydney, New South Wales, AU, OC) gen-119-17-170-244.ptr4.otw.net.au                                                                  

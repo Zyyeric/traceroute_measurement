@@ -1,0 +1,13 @@
+   212.45.159.245  8816    0.0                      (Milan, Lombardy, IT, EU) it-mil-as8816.anchors.atlas.ripe.net                                                                
+   212.45.159.246  8816    2.255                    (Milan, Lombardy, IT, EU) asr-luc1-gi7.metrolink.it                                                                           
+   212.45.137.202  8816    0.814                    (Milan, Lombardy, IT, EU) asr-luc2-te27.metrolink.it                                                                          
+╭─ 212.45.137.197  8816    1.244                    (Milan, Lombardy, IT, EU) br-ava-te28.metrolink.it                                                                            
+LHL (8816, 6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.196.194 6939    20.108                        (Denver, CO, US, NA) port-channel1.core1.den3.he.net                                                                     
+LHL (6939)  
+╰─ 184.105.64.170  6939    31.774                        (Athens, A1, GR, EU) 100ge0-36.core1.ath1.he.net                                                                         
+   184.104.191.234 6939    31.389                    (Koropí, Attica, GR, EU) fast-telecom-p-c.e0-7.core1.ath1.he.net                                                             
+   ***             *       -inf                                           *** *                                                                                                   
+   185.14.96.225   211186  51.876             (Lamía, Central Greece, GR, EU) vlan4090.lamia.fast.net.gr                                                                          
+   185.14.96.232   211186  51.25              (Lamía, Central Greece, GR, EU)                                                                                                     

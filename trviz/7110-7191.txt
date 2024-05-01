@@ -1,0 +1,18 @@
+   117.20.118.21   45498   0.0               (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     
+   117.20.118.17   45498   2.195             (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     
+   27.109.113.25   45498   1.4               (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     
+   27.109.113.4    45498   1.328             (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     
+   172.16.100.137  *       1.525                                          ***                                                                                                     
+   172.16.16.6     *       1.735                                          ***                                                                                                     
+╭─ 184.105.81.38   6939    38.721                     (Phnom Penh, 8, KH, AS) 100ge0-36.core1.pnh1.he.net                                                                         
+S (6939)  
+├─ 184.104.198.86  6939    36.841                       (Bangkok, 10, TH, AS) port-channel3.core1.bkk1.he.net                                                                     
+S&T (6939)  
+├─ 184.104.197.102 6939    36.439                  (Kuala Lumpur, 14, MY, AS) ve955.core1.kul1.he.net                                                                             
+S (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.80.13   6939    179.774                        (Milan, 25, IT, EU) 100ge7-2.core1.mil2.he.net                                                                          
+   184.104.194.10  6939    188.494                         (Rome, 62, IT, EU) 100ge8-1.core1.rom1.he.net                                                                          
+   193.201.28.218  *       217.436                      (Rome, Lazio, IT, EU) micso.rom.namex.it                                                                                  
+   195.32.69.197   21034   204.945                 (Pescara, Abruzzo, IT, EU) ripe-atlas.micso.it                                                                                 

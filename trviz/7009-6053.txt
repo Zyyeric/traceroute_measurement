@@ -1,0 +1,22 @@
+   197.80.104.36   10474   0.0                (Johannesburg, Gauteng, ZA, AF) 197-80-104-36.jhb.mweb.co.za                                                                        
+   197.80.75.3     10474   1.174                  (Randburg, Gauteng, ZA, AF) 20.bu-ether1.vic-pe-12.optinet.net                                                                  
+   197.80.7.79     10474   176.285                       (None, None, ZA, AF) 197-80-7-79.jhb.mweb.co.za                                                                          
+   197.80.4.37     10474   176.819                       (None, None, ZA, AF) bu-ether3.mca-pe-1.optinet.net                                                                      
+   197.80.4.224    10474   174.704                       (None, None, ZA, AF) bu-ether2.mca-pe-2.optinet.net                                                                      
+   197.80.5.60     10474   176.113                       (None, None, ZA, AF) 197-80-5-60.jhb.mweb.co.za                                                                          
+   197.80.4.216    10474   176.11                        (None, None, ZA, AF) 197-80-4-216.jhb.mweb.co.za                                                                         
+╭─ 197.80.5.49     10474   190.796                       (None, None, ZA, AF) 197-80-5-49.jhb.mweb.co.za                                                                          
+T (10474)  
+╰─ 176.67.178.4    10474   175.251                     (London, None, GB, EU) *                                                                                                   
+╭─ 83.231.233.141  2914    174.352                  (London, England, GB, EU)                                                                                                     
+S (2914)  
+├─ 129.250.3.212   2914    174.235                       (None, None, US, NA) ae-0.r20.londen12.uk.bb.gin.ntt.net                                                                 
+S (2914)  
+╰─ 129.250.4.141   2914    174.653                       (None, None, GB, EU) ae-1.r04.londen05.uk.bb.gin.ntt.net                                                                 
+   77.67.98.53     3257    175.668                      (London, ENG, GB, EU) ae15.cr11-lon2.ip4.gtt.net                                                                          
+╭─ 89.149.139.25   3257    175.163                      (London, ENG, GB, EU) ae22.cr11-lon1.ip4.gtt.net                                                                          
+S&T (3257, 8895)  
+├─ 154.14.64.198   8895    262.997                    (Amsterdam, NH, NL, EU) ip4.gtt.net                                                                                         
+LHL (8895, 208520)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 45.94.14.204    208520  263.383            (Riyadh, Riyadh Region, SA, AS)                                                                                                     

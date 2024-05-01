@@ -1,0 +1,12 @@
+   152.195.112.52  15133   0.0                         (Tokyo, Tokyo, JP, AS)                                                                                                     
+   152.195.112.49  15133   1.068                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+╭─ 152.195.112.203 15133   0.389                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+S (15133, 6453)  apcn-2 ✓ || eac-c2c ✓ || asia-pacific-gateway-apg ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 180.87.12.34    6453    124.674                       (None, None, SG, AS) *                                                                                                   
+S&T (6453, 45117)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 121.241.90.58   45117   138.818                    (Ahmedabad, GJ, IN, AS) 121.241.90.58.static-ahmedabad.vsnl.net.in                                                          
+   116.206.155.229 45117   132.344               (Ahmedabad, Gujarat, IN, AS)                                                                                                     

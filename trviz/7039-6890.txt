@@ -1,0 +1,18 @@
+   192.102.254.220 395152  0.0          (Vancouver, British Columbia, CA, NA)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   216.251.158.70  14007   0.617        (Vancouver, British Columbia, CA, NA)                                                                                                     
+   216.251.132.72  14007   1.513        (Vancouver, British Columbia, CA, NA) edgea.skywaywest.net                                                                                
+╭─ 65.49.79.249    6939    1.718        (Vancouver, British Columbia, CA, NA) e0-12.switch3.yvr2.he.net                                                                           
+LHL (6939)  exa-north-and-south ✓ || exa-express ✓
+├─ 184.104.195.13  6939    1.626              (Frankfurt am Main, HE, DE, EU) 100ge4-2.core1.fra1.he.net                                                                          
+LHL (6939)  apollo ✓ || flag-atlantic-1-fa-1 ✓
+├─ 184.104.196.221 6939    4.368                        (Seattle, WA, US, NA) port-channel3.core2.sea1.he.net                                                                     
+S (6939, )  faster ✓ || japan-u-s-cable-network-jus ✓ || pacific-crossing-1-pc-1 ✘ || jupiter ✓ || tata-tgn-pacific ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 203.190.230.209 *       167.15                      (Tokyo, Tokyo, JP, AS)                                                                                                     
+   84.17.33.105    57695   130.362               (Tokyo / Narita, 12, JP, AS) v3517.cr01.nrt04.jp.misaka.io                                                                       
+   199.119.64.141  969     130.304                     (Tokyo, Tokyo, JP, AS) e32-20.spine1.nrt04.jp.misaka.io                                                                    
+   103.170.232.11  142616  130.211                     (Tokyo, Tokyo, JP, AS) po-31.lag.nrt04.jp.misaka.io                                                                        
+   103.170.232.152 142616  130.45                      (Tokyo, Tokyo, JP, AS) user-103-170-232-152.nrt04.jp.misaka.io                                                             

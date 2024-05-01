@@ -1,0 +1,17 @@
+   212.43.17.42    42961   0.0         (Al Farwānīyah, Al Farwaniyah, KW, AS)                                                                                                     
+   212.43.17.41    42961   0.718             (Kuwait City, Al Asimah, KW, AS)                                                                                                     
+   10.32.1.110     *       0.715                                          ***                                                                                                     
+   10.32.1.105     *       1.368                                          ***                                                                                                     
+╭─ 151.248.98.136  59605   0.571             (Kuwait City, Al Asimah, KW, AS)                                                                                                     
+S (59605, 8529)  gulf-bridge-international-cable-system-gbicsmiddle-east-north-africa-mena-cable-system ✓ || falcon ✓
+╰─ 213.202.1.188   8529    21.654                    (Muscat, Muscat, OM, AS)                                                                                                     
+╭─ 213.202.6.221   8529    101.434                   (Muscat, Muscat, OM, AS)                                                                                                     
+S (8529)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 213.202.6.227   8529    100.743             (Singapore, Singapore, SG, AS)                                                                                                     
+S (8529, 45498)  
+├─ 103.231.152.160 45498   92.64                         (None, None, HK, AS) *                                                                                                   
+S (45498)  
+╰─ 27.109.113.57   45498   136.206           (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     
+   27.109.113.22   45498   130.221                   (Phnom Penh, 12, KH, AS) *                                                                                                   
+   117.20.118.21   45498   129.038           (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     

@@ -1,0 +1,13 @@
+   203.175.175.206 24482   0.0                 (Singapore, Singapore, SG, AS)                                                                                                     
+   203.175.175.252 24482   0.431                         (None, None, SG, AS) edge-1.v10.sg3.sg.gs                                                                                
+   116.51.23.66    24482   0.746                    (Singapore, None, SG, AS) ntt-sg.sg.gs                                                                                        
+╭─ 116.51.23.65    2914    1.237               (Singapore, Singapore, SG, AS) ce-6-4-1.a02.sngpsi07.sg.bb.gin.ntt.net                                                             
+S (2914)  australia-singapore-cable-asc ✘ || indigo-west ✓ || seamewe-3 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 129.250.6.148   2914    93.799           (Sydney, New South Wales, AU, OC) ae-6.r21.sydnau06.au.bb.gin.ntt.net                                                                 
+   129.250.7.49    2914    93.139           (Sydney, New South Wales, AU, OC) ae-2.a00.sydnau05.au.bb.gin.ntt.net                                                                 
+   202.68.65.6     20473   103.997                  (Gordonvale, QLD, AU, OC) xe-1-1-10.r20.sydnau02.au.ce.gin.ntt.net                                                            
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   45.76.126.106   20473   104.002          (Sydney, New South Wales, AU, OC) 45.76.126.106.vultrusercontent.com                                                                  

@@ -1,0 +1,23 @@
+   80.77.4.60      15412   0.0                         (Dubai, Dubai, AE, AS)                                                                                                     
+╭─ 80.77.4.57      15412   1.78                        (Dubai, Dubai, AE, AS)                                                                                                     
+S (15412)  
+├─ 62.216.130.46   15412   27.176                          (Ozora, 1, JP, AS) xe-2-0-2.0.pjr04.mmb004.flagtel.com                                                                 
+S (15412)  
+├─ 62.216.128.249  15412   79.861                      (Singapore, 4, SG, AS) ge-7-0-0.0.ejr04.sin001.flagtel.com                                                                 
+S (15412, 6453)  
+├─ 62.216.157.162  6453    79.979                        (None, None, GB, EU) *                                                                                                   
+S (6453)  
+╰─ 120.29.214.11   6453    324.031                  (Singapore, None, SG, AS) if-be-46-2.ecore2.svq-singapore.as6453.net                                                          
+   63.243.180.160  6453    329.95              (Singapore, Singapore, SG, AS) if-bundle-22-2.qcore2.esin4-singapore.as6453.net                                                    
+   63.243.180.131  6453    324.098             (Singapore, Singapore, SG, AS) if-bundle-19-2.qcore1.svw-singapore.as6453.net                                                      
+╭─ 209.58.82.130   6453    330.729             (Singapore, Singapore, SG, AS) if-ae-33-2.tcore1.svw-singapore.as6453.net                                                          
+S (6453)  
+╰─ 195.219.174.10  6453    325.847   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) if-be-30-2.ecore1.emrs2-marseille.as6453.net                                                        
+   80.231.165.49   6453    332.161   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) if-be-33-2.ecore1.emrs2-marseille.as6453.net                                                        
+   195.219.174.5   6453    326.823                  (Marseille, None, FR, EU) if-ae-3-2.thar1.emrs2-marseille.as6453.net                                                          
+╭─ 80.231.217.142  6453    223.956   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU)                                                                                                     
+S&T (6453, 35819)  
+├─ 86.51.65.205    35819   225.488                     (London, None, GB, EU) static-86-51-65.mobily.com.sa                                                                       
+S&T (35819)  
+╰─ 86.51.21.147    35819   236.415            (Riyadh, Riyadh Region, SA, AS)                                                                                                     
+   94.77.252.90    47794   236.321            (Riyadh, Riyadh Region, SA, AS) 94-77-252-90.static.go.com.sa                                                                       

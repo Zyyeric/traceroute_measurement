@@ -1,0 +1,15 @@
+   45.94.14.204    208520  0.0                (Riyadh, Riyadh Region, SA, AS)                                                                                                     
+   45.94.14.193    208520  0.538              (Riyadh, Riyadh Region, SA, AS)                                                                                                     
+╭─ 212.138.250.7   8895    0.749              (Riyadh, Riyadh Region, SA, AS)                                                                                                     
+S (8895, 3356)  seamewe-5 ✓ || asia-africa-europe-1-aae-1 ✓ || seamewe-4 ✓ || peace-cable ✘ || imewe ✓
+├─ 213.242.126.197 3356    69.572    (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) et-7-0-17-3.edge4.marseille1.level3.net                                                             
+T (3356)  
+├─ 171.75.9.225    3356    95.523    (Düsseldorf, North Rhine-Westphalia, DE, EU) ae1.3104.ear2.dus1.neo.colt.net                                                                     
+T (3356, 24961)  
+├─ 212.162.19.26   24961   97.128                        (None, None, GB, EU) po18-h63e8.core2-dus1.bb.as24961.net                                                                
+T (24961)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 62.141.35.93    24961   96.981    (Düsseldorf, North Rhine-Westphalia, DE, EU)                                                                                                     
+T (24961, 41047)  
+╰─ 87.237.165.29   41047   98.318          (Amsterdam, North Holland, NL, EU)                                                                                                     

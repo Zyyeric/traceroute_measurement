@@ -1,0 +1,17 @@
+   92.38.135.131   202422  0.0                         (Seoul, Seoul, KR, AS)                                                                                                     
+   92.38.135.3     202422  0.236                       (Seoul, Seoul, KR, AS) vrrp.gcore.lu                                                                                       
+   10.255.17.210   *       0.247                                          ***                                                                                                     
+   10.255.17.213   *       0.353                                          ***                                                                                                     
+   10.255.17.147   *       0.655                                          ***                                                                                                     
+╭─ 8.244.74.25     3356    0.895                       (Seoul, Seoul, KR, AS)                                                                                                     
+S (3356)  eac-c2c © || asia-pacific-gateway-apg ✓ || apcn-2 ✓ || seamewe-3 ✓
+├─ 4.69.211.62     3356    96.022                   (Singapore, None, SG, AS) ae14.14.bar1.Singapore4.level3.net                                                                  
+S (3356, 1273)  
+╰─ 195.2.16.177    1273    95.897                        (None, None, GB, EU) ae14-xcr2.sgs.cw.net                                                                                
+   195.2.24.165    1273    343.438                       (None, None, GB, EU) ae9-xcr1.sng.cw.net                                                                                 
+   195.2.2.57      1273    320.845                       (None, None, GB, EU) ae34-xcr1.mrx.cw.net                                                                                
+╭─ 195.2.27.157    1273    341.068                       (None, None, GB, EU) ae6-xcr1.bsb.cw.net                                                                                 
+S&T (1273, 12430)  
+╰─ 195.89.97.98    12430   284.918                       (None, None, ES, EU) vfspain-barcelona-gw.bsb.cw.net                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   147.84.200.125  39069   292.407                   (Murcia, Murcia, ES, EU)                                                                                                     

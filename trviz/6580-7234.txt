@@ -1,0 +1,24 @@
+   193.42.115.222  51724   0.0                  (Tomsk, Tomsk Oblast, RU, EU) p7234-probes-atlas-ripe.flynet.pro                                                                  
+   193.42.115.137  51724   0.332                (Tomsk, Tomsk Oblast, RU, EU) border2vlan13.flynet.pro                                                                            
+   31.131.196.10   9049    1.065                (Tomsk, Tomsk Oblast, RU, EU) 31x131x196x10.static.ertelecom.ru                                                                   
+   188.234.72.200  9049    59.261                    (Moscow, Moscow, RU, EU) bbr21.msk.ertelecom.ru                                                                              
+╭─ 87.245.193.174  57304   57.75                     (Moscow, Moscow, RU, EU)                                                                                                     
+LHL (57304, 9002)  
+╰─ 87.245.232.244  9002    93.361             (Frankfurt am Main, HE, DE, EU) ae1-5.RT.IRX.FKT.DE.retn.net                                                                        
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 171.75.10.151   3356    93.943          (Frankfurt am Main, Hesse, DE, EU) ae2.3221.edge8.frf1.neo.colt.net                                                                    
+LHL (3356, 2914)  apollo © || flag-atlantic-1-fa-1 ©
+╰─ 129.250.9.5     2914    87.387                        (None, None, US, NA) ae-37.r01.frnkge07.de.bb.gin.ntt.net                                                                
+   129.250.7.17    2914    89.053                        (None, None, US, NA) *                                                                                                   
+   129.250.6.2     2914    88.842                        (None, None, US, NA) ae-0.r21.frnkge13.de.bb.gin.ntt.net                                                                 
+   129.250.5.27    2914    100.593                       (None, None, US, NA) ae-12.r21.parsfr04.fr.bb.gin.ntt.net                                                                
+   129.250.6.6     2914    177.248                       (None, None, US, NA) ae-13.sayonara-dorian.r24.asbnva02.us.bb.gin.ntt.net                                                
+   129.250.6.237   2914    229.3                         (None, None, US, NA) ae-2.sayonara-dorian.r24.snjsca04.us.bb.gin.ntt.net                                                 
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 129.250.6.131   2914    329.386                       (None, None, US, NA) ae-2.r01.tokyjp08.jp.bb.gin.ntt.net                                                                 
+S (2914)  
+╰─ 61.213.146.129  2914    351.243                     (Tokyo, Tokyo, JP, AS)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   5.8.70.17       199524  341.242                        (Tokyo, 13, JP, AS) gw.gcore.lu                                                                                         
+   92.38.178.149   202422  331.908                   (Urayasu, Tokyo, JP, AS)                                                                                                     

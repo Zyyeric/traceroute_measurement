@@ -1,0 +1,15 @@
+   27.111.84.21    135132  0.0           (Cebu City, Central Visayas, PH, AS) ph-ceb-as135132.anchors.atlas.ripe.net                                                              
+   27.111.84.20    135132  1.294             (Baugo, Central Visayas, PH, AS) vlan509.core.ceb02.ds.network                                                                       
+   192.168.159.142 *       21.413                                         ***                                                                                                     
+   192.168.159.152 *       3.133                                          ***                                                                                                     
+   192.168.159.168 *       26.029                                         ***                                                                                                     
+   192.168.159.165 *       3.431                                          ***                                                                                                     
+╭─ 43.224.189.33   137074  3.546             (Baugo, Central Visayas, PH, AS) 43-224-189-33.static.rise.as                                                                        
+S (137074, 3491)  
+├  10.255.64.24    *       41.709                                         ***                                                                                                     
+├─ 63.222.113.104  3491    57.235              (Singapore, Singapore, SG, AS)                                                                                                     
+S (3491)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 63.223.193.193  3491    53.043                   (Hong Kong, None, HK, AS) TenG0-0-0-1.dcbr01.hkg39.pccwbtn.net                                                                
+   63.223.193.193  3491    53.043                   (Hong Kong, None, HK, AS) TenG0-0-0-1.dcbr01.hkg39.pccwbtn.net                                                                
+   63.222.7.46     3491    54.753              (Hong Kong, Hong Kong, HK, AS) 63-222-7-46.static.pccwglobal.net                                                                   

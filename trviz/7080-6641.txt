@@ -1,0 +1,11 @@
+   92.38.135.131   202422  0.0                         (Seoul, Seoul, KR, AS)                                                                                                     
+   92.38.135.2     202422  0.374                       (Seoul, Seoul, KR, AS) vrrp.gcore.lu                                                                                       
+   10.255.17.209   *       0.321                                          ***                                                                                                     
+   10.255.17.213   *       0.396                                          ***                                                                                                     
+   10.255.17.147   *       0.381                                          ***                                                                                                     
+╭─ 113.29.52.41    3549    0.553                       (Seoul, Seoul, KR, AS)                                                                                                     
+S (3549, 3356)  apcn-2 ✘ || korea-japan-cable-network-kjcn ✘ || eac-c2c ✘ || asia-pacific-gateway-apg ✘
+╰─ 4.69.217.14     3356    38.957                         (Tokyo, 13, JP, AS) ae1.3505.edge2.Tokyo4.level3.net                                                                    
+   4.68.70.86      3491    31.222                         (Tokyo, 13, JP, AS) PCCW-level3-Tokyo4.Level3.net                                                                       
+   63.223.16.82    3491    30.852                         (Tokyo, 13, JP, AS) HundredGE0-3-0-0.br03.tok01.pccwbtn.net                                                             
+   63.222.190.5    3491    30.748                      (Tokyo, Tokyo, JP, AS)                                                                                                     

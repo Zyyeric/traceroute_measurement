@@ -1,0 +1,15 @@
+   80.67.190.218   204092  0.0                     (Rennes, Brittany, FR, EU) ripe-anchor.grifon.fr                                                                               
+   80.67.190.193   204092  0.245                   (Rennes, Brittany, FR, EU) xn--beurresal-j4a.grifon.fr                                                                         
+   89.234.186.34   204092  0.442                         (None, None, FR, EU) asbr02.cogent-rns.bb.grifon.fr                                                                      
+   31.172.233.208  30781   0.409 (1.52)(Marseille, Provence-Alpes-Côte d'Azur, FR, EU) po6-54.er01.ren02.jaguar-network.net                                                                
+   78.153.231.235  30781   6.798                (Saint-Victoret, PAC, FR, EU) be1.er01.par01.jaguar-network.net                                                                   
+   81.52.188.23    5511    6.759               (Paris, Île-de-France, FR, EU)                                                                                                     
+   193.251.133.23  5511    7.219                  (Saint-Denis, None, FR, EU) bundle-ether305.partr2.saint-denis.opentransit.net                                                  
+╭─ 212.115.150.89  3257    7.927                         (Paris, IDF, FR, EU) ae4.cr0-par9.ip4.gtt.net                                                                            
+S&T (3257)  seamewe-3 ✓
+├─ 89.149.139.25   3257    20.551                       (London, ENG, GB, EU) ae22.cr11-lon1.ip4.gtt.net                                                                          
+S&T (3257, 8895)  circe-north ✓ || ulysses-2 ✘ || scylla © || zeus ✓ || atlantic-crossing-1-ac-1 ✓ || concerto ✘ || farland-north ✘
+├─ 154.14.64.198   8895    95.129                     (Amsterdam, NH, NL, EU) ip4.gtt.net                                                                                         
+LHL (8895, 208520)  falcon ✘ || tata-tgn-gulf ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 45.94.14.204    208520  95.346             (Riyadh, Riyadh Region, SA, AS)                                                                                                     

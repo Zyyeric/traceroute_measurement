@@ -1,0 +1,19 @@
+   27.111.84.21    135132  0.0           (Cebu City, Central Visayas, PH, AS) ph-ceb-as135132.anchors.atlas.ripe.net                                                              
+   27.111.84.20    135132  1.611             (Baugo, Central Visayas, PH, AS) vlan509.core.ceb02.ds.network                                                                       
+   192.168.159.142 *       18.097                                         ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   192.168.159.168 *       15.499                                         ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 43.224.189.33   137074  2.156             (Baugo, Central Visayas, PH, AS) 43-224-189-33.static.rise.as                                                                        
+S (137074, 9498)  national-digital-transmission-network-ndtn ✘ ↠ seamewe-3 ✘
+├  10.255.64.24    *       40.665                                         ***                                                                                                     
+├─ 27.111.228.40   9498    42.769                    (Seogwipo, None, KR, AS) 9498.sgw.equinix.com                                                                                
+S (9498)  
+╰─ 116.119.106.32  9498    75.583                        (None, None, IN, AS) *                                                                                                   
+   182.79.27.226   9498    89.755              (Bengaluru, Karnataka, IN, AS)                                                                                                     
+   143.244.225.127 *       90.858              (Bengaluru, Karnataka, IN, AS)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   159.65.150.114  14061   79.954         (Doddaballapura, Karnataka, IN, AS) in-blr-as14061.anchors.atlas.ripe.net                                                               

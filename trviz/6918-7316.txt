@@ -1,0 +1,11 @@
+   185.121.168.251 61138   0.0                  (Newmarket, Auckland, NZ, OC) nz-akl-as61138.anchors.atlas.ripe.net                                                               
+   10.0.0.1        *       0.115                                          ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 116.251.184.174 55850   114.881               (Auckland, Auckland, NZ, OC) et-0-2-1.atc-p-3.as55850.net                                                                        
+LHL (55850, 63949)  hawaiki ✘ ↠ new-cross-pacific-ncp-cable-system ✓ || hawaiki ✘ ↠ trans-pacific-express-tpe-cable-system ✓ || southern-cross-cable-network-sccn ✘ ↠ new-cross-pacific-ncp-cable-system ✓ || southern-cross-cable-network-sccn ✘ ↠ trans-pacific-express-tpe-cable-system ✓ || southern-cross-next ✘ ↠ new-cross-pacific-ncp-cable-system ✓ || southern-cross-next ✘ ↠ trans-pacific-express-tpe-cable-system ✓
+├─ 27.111.228.235  63949   114.853                   (Seogwipo, None, KR, AS) 63949.sgw.equinix.com                                                                               
+S (63949)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 139.162.3.33    63949   115.036             (Singapore, Singapore, SG, AS) li845-33.members.linode.com                                                                         

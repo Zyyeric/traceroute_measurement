@@ -1,0 +1,16 @@
+   5.62.127.14     199610  0.0                      (London, England, GB, EU)                                                                                                     
+╭─ 5.62.127.1      199610  0.708                    (London, England, GB, EU)                                                                                                     
+T (199610)  
+├─ 46.251.228.201  199610  2.025       (Köln, North Rhine-Westphalia, DE, EU)                                                                                                     
+T (199610, 2914)  
+├─ 157.238.226.4   2914    2.052                    (London, England, GB, EU) ae-13.a02.londen12.uk.bb.gin.ntt.net                                                                
+S (2914)  
+╰─ 129.250.3.212   2914    2.076                         (None, None, US, NA) ae-0.r20.londen12.uk.bb.gin.ntt.net                                                                 
+╭─ 129.250.3.249   2914    2.247                         (None, None, US, NA) ae-13.a03.londen12.uk.bb.gin.ntt.net                                                                
+S (2914)  
+├─ 129.250.9.2     2914    9.105                    (Poplar, England, GB, EU) ae-0.telecom-italia.londen12.uk.bb.gin.ntt.net                                                      
+S&T (2914, 6762)  
+╰─ 213.144.168.153 6762    15.079                        (Paris, IDF, FR, EU) ae19.parigi52.par.seabone.net                                                                       
+   213.144.183.25  6762    14.808              (Paris, Île-de-France, FR, EU) abaclouda.parigi52.par.seabone.net                                                                  
+   5.180.58.66     56987   14.803        (Lyon, Auvergne-Rhône-Alpes, FR, EU) 01-xe.lns01.lyn.abaclouda.net                                                                       
+   5.180.57.81     56987   15.173        (Lyon, Auvergne-Rhône-Alpes, FR, EU) fr-lio-as56987.anchors.atlas.ripe.net                                                               

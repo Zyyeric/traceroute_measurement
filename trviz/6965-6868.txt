@@ -1,0 +1,22 @@
+   195.43.159.22   207788  0.0                           (Oslo, Oslo, NO, EU) anchors.as207788.net                                                                                
+   195.43.159.17   207788  0.305                         (Oslo, Oslo, NO, EU)                                                                                                     
+╭─ 31.169.48.100   50304   0.848                         (Oslo, Oslo, NO, EU)                                                                                                     
+T (50304)  
+╰─ 178.255.145.177 50304   7.845                      (Stockholm, AB, SE, EU) 100ge1.ncs-ix-arn.blix.com                                                                          
+   178.255.145.138 50304   8.369                      (Stockholm, AB, SE, EU) be-3.ncs-vbdc-arn-blix.com                                                                          
+   192.121.80.45   *       7.875               (Stockholm, Stockholm, SE, EU) as2603-20g-ix1.sthix.net                                                                            
+╭─ 109.105.101.26  2603    8.07                (Stockholm, Stockholm, SE, EU) se-tug.nordu.net                                                                                    
+S&T (2603)  energinet-laeso-varberg ✘ || globalconnect-2-gc2 ✘ || kattegat-2 ✓ || ip-only-denmark-sweden ✓ || danica-north ✓ || scandinavian-ring-south ✓ || denmark-sweden-16 ✓ || rnne-rdvig ✓
+╰─ 109.105.97.10   2603    18.329                    (Ballerup, None, DK, EU) dk-bal2.nordu.net                                                                                   
+╭─ 109.105.97.3    2603    25.171                        (None, None, DK, EU) dk-esbj.nordu.net                                                                                   
+S&T (2603)  
+├─ 109.105.97.75   2603    25.153                     (Amsterdam, NH, NL, EU) nl-ams.nordu.net                                                                                    
+S&T (2603)  
+╰─ 109.105.102.97  2603    24.795                      (Hexton, None, GB, EU) uk-hex.nordu.net                                                                                    
+╭─ 109.105.102.98  2603    33.533                       (London, ENG, GB, EU) ndn-gw.mx1.lon.uk.geant.net                                                                         
+S&T (2603, 20965)  
+╰─ 62.40.98.26     20965   43.174                  (Dublin, Leinster, IE, EU) ae6.mx1.dub.ie.geant.net                                                                            
+   83.97.88.74     1213    34.472                         (Dublin, D, IE, EU) heanet-ias-heanet-gw.dub.ie.geant.net                                                               
+   87.44.53.58     1213    34.301                  (Dublin, Leinster, IE, EU) ae4-0.core1-pw.nn.hea.net                                                                           
+   87.44.56.178    1213    34.202                           (Cork, M, IE, EU) po2.pw-spine1.nn.hea.net                                                                            
+   193.1.201.140   1213    34.428                (Tallaght, Leinster, IE, EU) atlas-anchor.heanet.ie                                                                              

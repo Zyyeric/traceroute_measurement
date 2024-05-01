@@ -1,0 +1,11 @@
+   27.111.84.21    135132  0.0           (Cebu City, Central Visayas, PH, AS) ph-ceb-as135132.anchors.atlas.ripe.net                                                              
+   27.111.84.20    135132  1.635             (Baugo, Central Visayas, PH, AS) vlan509.core.ceb02.ds.network                                                                       
+   192.168.159.142 *       27.568                                         ***                                                                                                     
+   192.168.159.152 *       2.26                                           ***                                                                                                     
+   192.168.159.168 *       22.732                                         ***                                                                                                     
+   192.168.159.165 *       2.216                                          ***                                                                                                     
+╭─ 43.224.189.33   137074  2.97              (Baugo, Central Visayas, PH, AS) 43-224-189-33.static.rise.as                                                                        
+S (137074, 14907)  tata-tgn-intra-asia-tgn-ia ✘ || asia-america-gateway-aag-cable-system ✘
+├  10.255.64.24    *       42.709                                         ***                                                                                                     
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 103.102.166.20  14907   56.87               (Singapore, Singapore, SG, AS) ripe-atlas-eqsin.wikimedia.org                                                                      

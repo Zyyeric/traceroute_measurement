@@ -1,0 +1,13 @@
+   103.133.238.187 132808  0.0                 (Brisbane, Queensland, AU, OC) iptelco.com.au                                                                                      
+   103.133.238.130 132808  0.294               (Brisbane, Queensland, AU, OC) vmnet-hsrp66.bdr01-bne-br1.iptelco.net.au                                                           
+   103.133.238.14  132808  0.405               (Brisbane, Queensland, AU, OC) te0-0-0-402.bdr01-bne-br1.iptelco.net.au                                                            
+   103.26.70.97    *       0.713               (Brisbane, Queensland, AU, OC) as4826.brisbane.megaport.com                                                                        
+   114.31.194.37   4826    0.839                      (Brisbane, QLD, AU, OC) be103.bdr02.bne03.qld.vocus.network                                                                 
+   49.255.232.67   13335   1.527                      (Brisbane, QLD, AU, OC) ip-67.232.255.49.VOCUS.net.au                                                                       
+   172.68.84.83    13335   0.712               (Brisbane, Queensland, AU, OC)                                                                                                     
+   172.68.84.87    13335   0.854               (Brisbane, Queensland, AU, OC)                                                                                                     
+╭─ 172.68.84.88    13335   0.756               (Brisbane, Queensland, AU, OC)                                                                                                     
+S (13335, 133800)  indigo-west ✓ || seamewe-3 ✓ || australia-singapore-cable-asc ✓ || oman-australia-cable-oac ✘
+├  172.16.18.101   *       120.293                                        ***                                                                                                     
+╰─ 137.59.127.34   133800  120.357                       (None, None, ID, AS) ip-34-127-59-137.core.biznetg.io                                                                    
+   103.77.105.3    133800  120.521                 (Jakarta, Jakarta, ID, AS) ip-3-105-77-103.jkt-1.biznetg.io                                                                    

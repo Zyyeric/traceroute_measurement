@@ -1,0 +1,19 @@
+   197.239.73.59   37577   0.0                  (Ouagadougou, Centre, BF, AF)                                                                                                     
+   197.239.73.57   37577   3.304                (Ouagadougou, Centre, BF, AF)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 102.67.96.224   37721   19.372               (Ouagadougou, Centre, BF, AF) po48-2048.bb2.acc1.vts.bf                                                                           
+LHL (37721)  west-africa-cable-system-wacs ✓ || africa-coast-to-europe-ace ✓ || mainone ✘ || sat-3wasc ✓
+├─ 102.67.96.245   37721   116.761                   (Lisbon, Lisbon, PT, EU) et-0-0-1-2035.bb1.lis1.vts.bf                                                                       
+S&T (37721)  
+╰─ 102.67.97.166   37721   114.792                        (Madrid, M, ES, EU) xe-0-0-1-2013.bb1.mad1.vts.bf                                                                       
+   102.67.97.186   37721   109.836                        (Madrid, M, ES, EU) xe-0-0-2-81.br2.mad1.vts.bf                                                                         
+╭─ 185.1.192.133   201011  134.573                        (Madrid, M, ES, EU) ae8-1.mad10.core-backbone.com                                                                       
+T (201011, 47815)  
+├─ 80.255.14.46    47815   135.556                       (Berlin, BE, DE, EU) core-backbone.server-ware.com                                                                       
+T (47815, 60068)  
+╰─ 169.150.195.74  60068   136.936                  (London, England, GB, EU) coreb-lon.cdn77.com                                                                                 
+   156.146.32.95   60068   143.513                  (Poplar, England, GB, EU)                                                                                                     
+   103.170.154.254 142594  143.902                  (London, England, GB, EU) 254.154.170.103.speedyvps.uk                                                                        

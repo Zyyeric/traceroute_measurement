@@ -1,0 +1,27 @@
+   103.179.37.157  151332  0.0                  (Melbourne, Victoria, AU, OC)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   203.192.83.253  7545    1.636                (Melbourne, Victoria, AU, OC) ip-253-83-192-203.static.pipenetworks.com                                                           
+   203.220.216.73  7545    1.952                        (Sydney, NSW, AU, OC) 203-220-216-73.tpgi.com.au                                                                          
+   27.32.160.130   7545    12.868                       (Sydney, NSW, AU, OC) 27-32-160-130.static.tpgi.com.au                                                                    
+   202.7.173.17    7545    12.787                       (Sydney, NSW, AU, OC) syd-gls-har-crt2-be-10.tpgi.com.au                                                                  
+╭─ 203.221.3.68    7545    12.522                       (Sydney, NSW, AU, OC) syd-gls-har-int2-be200.tpgi.com.au                                                                  
+S (7545, 6939)  hawaiki ✘ || southern-cross-cable-network-sccn ✓ || southern-cross-next ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.195.49  6939    168.153          (Los Angeles, California, US, NA) port-channel18.core2.lax1.he.net                                                                    
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 184.104.188.35  6939    217.978                (Ashburn, Virginia, US, NA) 100ge0-71.core2.ash1.he.net                                                                         
+LHL (6939)  apollo ✓ || flag-atlantic-1-fa-1 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.105.65.6    6939    314.003                        (Vienna, 9, AT, EU) 100ge5-2.core1.vie1.he.net                                                                          
+T (6939)  
+├─ 72.52.92.206    6939    309.849                   (Bratislava, BL, SK, EU) 100ge5-1.core1.bts1.he.net                                                                          
+LHL (6939)  
+├─ 184.105.222.129 6939    317.019                      (Belgrade, 0, RS, EU) 100ge0-36.core2.beg1.he.net                                                                         
+T (6939)  
+├─ 184.105.65.134  6939    321.336                        (Sofia, 23, BG, EU) 100ge10-1.core1.sof1.he.net                                                                         
+T (6939)  
+╰─ 184.105.64.170  6939    332.856                       (Athens, A1, GR, EU) 100ge0-36.core1.ath1.he.net                                                                         
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   185.14.96.225   211186  318.423            (Lamía, Central Greece, GR, EU) vlan4090.lamia.fast.net.gr                                                                          
+   185.14.96.232   211186  317.427            (Lamía, Central Greece, GR, EU)                                                                                                     

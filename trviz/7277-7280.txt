@@ -1,0 +1,21 @@
+   185.14.96.232   211186  0.0                (Lamía, Central Greece, GR, EU)                                                                                                     
+   185.14.96.225   211186  0.636              (Lamía, Central Greece, GR, EU) vlan4090.lamia.fast.net.gr                                                                          
+   212.205.28.249  6799    0.606              (Lamía, Central Greece, GR, EU) 249.28.205.212.static.otenet.gr                                                                     
+   79.128.234.128  6799    3.73                     (Maroúsi, Attica, GR, EU)                                                                                                     
+   62.75.3.17      12713   2.952 (5.729)        (Néa Chalkidóna, Attica, GR, EU) kolasr02-hu-0-8-0-0.ath.oteglobe.gr                                                                 
+╭─ 62.75.6.190     *       36.999                    (Athens, Attica, GR, EU)                                                                                                     
+LHL (, 6939)  mednautilus-submarine-system ✘ ↠ asia-africa-europe-1-aae-1 ✘ || mednautilus-submarine-system ✘ ↠ seamewe-3 ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.105.64.217  6939    43.44           (Frankfurt am Main, Hesse, DE, EU) 100ge0-69.core3.fra2.he.net                                                                         
+LHL (6939, 132602)  seamewe-5 ✓ || seamewe-4 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.209.214 132602  229.003                       (None, None, BD, AS) bangladesh-submarine-cable-company-limited.e0-2.switch1.sin1.he.net                                 
+S (132602)  
+├─ 103.16.152.73   132602  227.939                     (Singapore, 4, SG, AS) 103-16-152-73-noc.bsccl.com                                                                         
+S (132602)  
+├─ 103.16.152.81   132602  234.923                       (None, None, BD, AS) 103-16-152-81-noc.bsccl.com                                                                         
+S (132602, 9829)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 117.250.113.140 9829    346.528                  (Guwahati, Assam, IN, AS) static.ill.117.250.113.140.bsnl.co.in                                                               

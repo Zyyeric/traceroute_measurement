@@ -1,0 +1,13 @@
+   103.77.105.3    133800  0.0                     (Jakarta, Jakarta, ID, AS) ip-3-105-77-103.jkt-1.biznetg.io                                                                    
+   ***             *       -inf                                           *** *                                                                                                   
+   137.59.127.33   *       0.352                   (Jakarta, Jakarta, ID, AS) xe-0-2.cr01.jkt.biznetg.io                                                                          
+   202.169.59.21   17451   1.355                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+   117.102.79.158  17451   2.448                         (None, None, ID, AS) *                                                                                                   
+╭─ 112.78.190.1    17451   2.011                   (Depok, West Java, ID, AS) id-jkt-mtr-1.biznetnetworks.com                                                                     
+S&T (17451)  australia-singapore-cable-asc ✓ || matrix-cable-system ✘ || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || indonesia-global-gateway-igg-system ✓ || seamewe-3 ✓ || indigo-west ✓ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || jasuka ✓ || jakabare ✓
+├─ 112.78.190.5    17451   15.944              (Singapore, Singapore, SG, AS)                                                                                                     
+S (17451, 4764)  
+├─ 27.111.229.181  4764    14.251                    (Seogwipo, None, KR, AS) 4764.sgw.equinix.com                                                                                
+S (4764)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 202.142.143.178 4764    101.812              (Melbourne, Victoria, AU, OC) be3.bng1.vdc03.mel.aussiebb.net                                                                     

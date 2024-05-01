@@ -1,0 +1,12 @@
+   103.170.154.254 142594  0.0                      (London, England, GB, EU) 254.154.170.103.speedyvps.uk                                                                        
+╭─ 103.170.154.1   142594  0.135                    (London, England, GB, EU)                                                                                                     
+T (142594, 60068)  
+╰─ 156.146.32.92   60068   0.22                      (Prague, Prague, CZ, EU) unn-156-146-32-92.cdn77.com                                                                         
+╭─ 169.150.194.1   60068   75.73                     (Prague, Prague, CZ, EU) vl1115.nyc-tlx3-core-1.cdn77.com                                                                    
+LHL (60068)  
+╰─ 169.150.194.19  60068   92.693                 (Chicago, Illinois, US, NA) vl1117.chi-cs1-core-1.cdn77.com                                                                     
+   185.229.188.47  60068   92.757                 (Chicago, Illinois, US, NA) vl211.chi-eq2-edge-1.cdn77.com                                                                      
+╭─ 169.150.195.29  60068   92.439                 (Chicago, Illinois, US, NA) telus-chi.cdn77.com                                                                                 
+S&T (60068, 852)  exa-north-and-south ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 206.162.189.131 852     109.038                 (Montréal, Quebec, CA, NA) pcisrv.consultik.qc.ca                                                                              

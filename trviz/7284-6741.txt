@@ -1,0 +1,17 @@
+   176.119.210.244 56457   0.0                       (Athens, Attica, GR, EU)                                                                                                     
+   176.119.210.254 56457   0.45                  (Áno Liósia, Attica, GR, EU)                                                                                                     
+   185.201.254.36  56457   0.263                 (Áno Liósia, Attica, GR, EU) te0-3.ef2.ath01.fastpath.gr                                                                         
+   185.201.254.30  56457   0.669                 (Áno Liósia, Attica, GR, EU) be3503.er1.ath01.fastpath.gr                                                                        
+╭─ 176.126.38.47   *       0.583 (1.89)            (Áno Liósia, Attica, GR, EU) he.gr-ix.gr                                                                                         
+T (, 6939)  
+├─ 184.105.64.169  6939    12.929              (Sofia, Sofia-Capital, BG, EU) 100ge0-75.core3.sof1.he.net                                                                         
+LHL (6939, 131111)  seamewe-5 ✓ || seamewe-4 ✓ || seamewe-3 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 65.49.108.46    131111  175.334                     (Singapore, 4, SG, AS) moratel-international-pte-ltd.10gigabitethernet3-13.core1.sin1.he.net                               
+S&T (131111, 45701)  australia-singapore-cable-asc ✘ || indigo-west ✘ || indonesia-global-gateway-igg-system ✓ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || seamewe-3 ✘ || matrix-cable-system ✘ || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || jasuka ✓ || jakabare ✘
+╰─ 103.129.217.2   45701   204.696                       (None, None, ID, AS) *                                                                                                   
+   103.129.217.2   45701   204.696                       (None, None, ID, AS) *                                                                                                   
+   202.58.202.252  *       188.517                 (Jakarta, Jakarta, ID, AS) ae-1-0-r2-jkt1.globalxtreme.net                                                                     
+   103.225.148.38  45701   188.604                 (Jakarta, Jakarta, ID, AS) ip-38-148-225-103.globalxtreme.net                                                                  

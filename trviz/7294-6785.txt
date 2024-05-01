@@ -1,0 +1,34 @@
+   103.15.246.16   58717   0.0                         (Dhaka, Dhaka, BD, AS)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   172.16.203.70   *       1.015                                          ***                                                                                                     
+   157.119.185.30  58717   1.648                           (Dhaka, C, BD, AS) *                                                                                                   
+   103.199.87.233  58717   6.246                         (None, None, BD, AS) *                                                                                                   
+╭─ 103.199.87.58   58717   7.473                         (None, None, BD, AS) *                                                                                                   
+S (58717, 6453)  
+╰─ 115.108.48.48   6453    9.621               (Kolkata, West Bengal, IN, AS) 115.108.48.48.static-mumbai.vsnl.net.in                                                             
+╭─ 180.87.38.94    6453    153.618              (Mumbai, Maharashtra, IN, AS) if-ae-20-2.tcore1.mlv-mumbai.as6453.net                                                             
+S (6453)  
+╰─ 195.219.174.16  6453    154.763   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) if-be-6-2.ecore1.emrs2-marseille.as6453.net                                                         
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   130.117.15.69   174     155.59                        (Paris, IDF, FR, EU) be6453.agr21.par04.atlas.cogentco.com                                                               
+   154.54.37.237   174     154.093                       (Paris, IDF, FR, EU) be3169.ccr31.par04.atlas.cogentco.com                                                               
+╭─ 154.54.38.157   174     155.547                       (Paris, IDF, FR, EU) be3184.ccr42.par01.atlas.cogentco.com                                                               
+T (174)  
+╰─ 154.54.58.237   174     158.423            (Frankfurt am Main, HE, DE, EU) be2800.ccr42.fra03.atlas.cogentco.com                                                               
+╭─ 154.54.36.254   174     163.939                       (Munich, BY, DE, EU) be2960.ccr22.muc03.atlas.cogentco.com                                                               
+T (174)  
+├─ 154.54.59.181   174     169.524                        (Vienna, 9, AT, EU) be3462.ccr52.vie01.atlas.cogentco.com                                                               
+LHL (174)  
+├─ 154.54.59.190   174     193.976                      (Belgrade, 0, RS, EU) be3464.ccr51.beg03.atlas.cogentco.com                                                               
+T (174)  
+├─ 130.117.0.93    174     194.288                        (Sofia, 23, BG, EU) be3421.ccr31.sof02.atlas.cogentco.com                                                               
+S&T (174)  
+╰─ 154.54.74.225   174     195.391               (Istanbul, Istanbul, TR, AS) be3571.rcr71.ist01.atlas.cogentco.com                                                               
+   154.25.16.82    174     196.281               (Istanbul, Istanbul, TR, AS) be3821.nr71.b061536-0.ist01.atlas.cogentco.com                                                      
+   10.252.2.142    *       194.719                                        ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   149.34.193.159  208972  224.943               (Istanbul, Istanbul, TR, AS)                                                                                                     
+   149.34.193.159  208972  224.943               (Istanbul, Istanbul, TR, AS)                                                                                                     

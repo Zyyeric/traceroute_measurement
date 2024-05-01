@@ -1,0 +1,12 @@
+   190.124.192.162 28109   0.0           (Bahía Blanca, Buenos Aires, AR, SA) anchorr.criba.edu.ar                                                                                
+   190.124.192.129 28109   0.496         (Bahía Blanca, Buenos Aires, AR, SA) gatevm.criba.edu.ar                                                                                 
+   190.124.210.20  28109   0.708         (Bahía Blanca, Buenos Aires, AR, SA)                                                                                                     
+╭─ 190.124.210.6   28109   0.736         (Bahía Blanca, Buenos Aires, AR, SA) rtmetro6.criba.edu.ar                                                                               
+S (28109, 6461)  south-america-1-sam-1 ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 198.32.243.180  6461    154.393                   (Miami, Florida, US, NA) eqix-mi1.globenet-1.com                                                                             
+╭─ 198.32.242.225  6461    136.471                   (Miami, Florida, US, NA) eqix-mi1.ufinetlatam-2.com                                                                          
+S&T (6461, 52468)  pacific-caribbean-cable-system-pccs ✓ || arcos ✘ || maya-1 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 181.78.120.102  52468   231.706                   (Panamá, Panamá, PA, NA) 102.120.78.181.ufinet.com.pa                                                                        
+   179.0.200.36    272037  234.047                   (Panamá, Panamá, PA, NA)                                                                                                     

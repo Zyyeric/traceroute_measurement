@@ -1,0 +1,30 @@
+   77.223.128.226  43391   0.0                (İzmir, İzmir Province, TR, AS)                                                                                                     
+   10.200.0.1      *       0.306                                          ***                                                                                                     
+   10.20.0.250     *       1.088                                          ***                                                                                                     
+   10.34.35.9      *       15.156                                         ***                                                                                                     
+   149.14.44.1     174     14.586                (Istanbul, Istanbul, TR, AS) te0-6-0-6.agr21.ist01.atlas.cogentco.com                                                            
+╭─ 154.54.74.205   174     14.743                (Istanbul, Istanbul, TR, AS) be3510.rcr71.ist01.atlas.cogentco.com                                                               
+S (174)  
+├─ 154.54.74.226   174     23.86                          (Lyon, ARA, FR, EU) be2881.rcr21.lys01.atlas.cogentco.com                                                               
+LHL (174)  
+├─ 130.117.0.94    174     28.449                       (Belgrade, 0, RS, EU) be3421.ccr51.beg03.atlas.cogentco.com                                                               
+T (174)  
+├─ 130.117.0.125   174     33.634                      (Budapest, PE, HU, EU) be3422.ccr31.bud01.atlas.cogentco.com                                                               
+T (174)  
+├─ 130.117.3.137   174     36.021                    (Bratislava, BL, SK, EU) be3261.ccr21.bts01.atlas.cogentco.com                                                               
+T (174)  
+├─ 154.54.59.86    174     40.989                         (Vienna, 9, AT, EU) be2988.ccr51.vie01.atlas.cogentco.com                                                               
+T (174)  
+╰─ 154.54.58.5     174     45.195                        (Munich, BY, DE, EU) be2974.ccr21.muc03.atlas.cogentco.com                                                               
+   154.54.36.53    174     52.003             (Frankfurt am Main, HE, DE, EU) be2959.ccr41.fra03.atlas.cogentco.com                                                               
+   ***             *       -inf                                           *** *                                                                                                   
+   80.231.65.20    6453    197.758            (Frankfurt am Main, HE, DE, EU) if-ae-25-2.tcore2.fr0-frankfurt.as6453.net                                                          
+╭─ 5.23.30.16      6453    198.219            (Frankfurt am Main, HE, DE, EU) if-ae-9-2.tcore1.fnm-frankfurt.as6453.net                                                           
+T (6453)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 195.219.87.215  6453    201.628   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) if-be-50-2.ecore2.emrs2-marseille.as6453.net                                                        
+S (6453, 58717)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 103.15.246.16   58717   205.961                     (Dhaka, Dhaka, BD, AS)                                                                                                     

@@ -1,0 +1,13 @@
+   201.219.153.38  20015   0.0       (Santiago, Santiago Metropolitan, CL, SA) 38.static.netline.cl                                                                                
+   201.219.153.33  20015   0.348     (Santiago, Santiago Metropolitan, CL, SA)                                                                                                     
+   192.168.199.9   *       0.512                                          ***                                                                                                     
+   192.168.20.4    *       0.543                                          ***                                                                                                     
+╭─ 184.104.188.169 6939    57.82     (Santiago, Santiago Metropolitan, CL, SA) 100ge0-35.core1.scl1.he.net                                                                         
+T (6939)  
+├─ 184.104.188.74  6939    58.011    (Buenos Aires, Buenos Aires F.D., AR, SA) port-channel1.core1.bue1.he.net                                                                     
+S&T (6939, 22548)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 209.51.184.198  22548   58.088                        (None, None, BR, SA) ae0-0.gw1.nu.registro.br                                                                            
+   200.160.0.160   22548   51.474                        (None, None, BR, SA) xe-0-1-2-0.core1.nu.registro.br                                                                     
+   200.160.0.250   22548   51.165                        (None, None, BR, SA) ae0-0.ar3.jd.registro.br                                                                            
+   200.160.6.19    22548   52.744              (São Paulo, São Paulo, BR, SA) br-sao-as22548.anchors.atlas.ripe.net                                                               

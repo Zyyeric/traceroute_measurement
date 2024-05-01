@@ -1,0 +1,25 @@
+   117.250.113.140 9829    0.0                      (Guwahati, Assam, IN, AS) static.ill.117.250.113.140.bsnl.co.in                                                               
+   117.250.113.138 9829    0.705              (North Guwāhāti, Assam, IN, AS) static.ill.117.250.113.138.bsnl.co.in                                                               
+   117.216.207.122 9829    42.163                       (Chennai, TN, IN, AS) *                                                                                                   
+   49.44.187.216   55836   44.716               (Chennai, Tamil Nadu, IN, AS)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 103.198.140.170 64049   42.146               (Chennai, Tamil Nadu, IN, AS)                                                                                                     
+LHL (64049)  seamewe-4 ✓ ↠ apollo ✘ || seamewe-4 ✓ ↠ flag-atlantic-1-fa-1 ✘ || asia-africa-europe-1-aae-1 ✓ ↠ apollo ✘ || asia-africa-europe-1-aae-1 ✓ ↠ flag-atlantic-1-fa-1 ✘ || imewe ✓ ↠ apollo ✘ || imewe ✓ ↠ flag-atlantic-1-fa-1 ✘ || seamewe-3 ✓ ↠ apollo ✘ || seamewe-3 ✓ ↠ flag-atlantic-1-fa-1 ✘
+╰─ 49.45.4.85      64049   250.122          (Los Angeles, California, US, NA)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   184.104.198.226 6939    304.972                (Ashburn, Virginia, US, NA) port-channel20.core3.ash1.he.net                                                                    
+╭─ 184.105.80.201  6939    302.365                      (Ashburn, VA, US, NA) 100ge12-1.core1.ash1.he.net                                                                         
+LHL (6939)  apollo ✓ || flag-atlantic-1-fa-1 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.195.190 6939    357.167                        (Vienna, 9, AT, EU) 100ge12-1.core1.vie1.he.net                                                                         
+T (6939)  
+├─ 72.52.92.206    6939    313.787                   (Bratislava, BL, SK, EU) 100ge5-1.core1.bts1.he.net                                                                          
+LHL (6939)  
+├─ 184.105.222.129 6939    321.352                      (Belgrade, 0, RS, EU) 100ge0-36.core2.beg1.he.net                                                                         
+LHL (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.64.170  6939    334.9                         (Athens, A1, GR, EU) 100ge0-36.core1.ath1.he.net                                                                         
+   184.104.191.234 6939    334.314                   (Koropí, Attica, GR, EU) fast-telecom-p-c.e0-7.core1.ath1.he.net                                                             
+   ***             *       -inf                                           *** *                                                                                                   
+   185.14.96.225   211186  344.262            (Lamía, Central Greece, GR, EU) vlan4090.lamia.fast.net.gr                                                                          
+   185.14.96.232   211186  346.721            (Lamía, Central Greece, GR, EU)                                                                                                     

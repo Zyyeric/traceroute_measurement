@@ -1,0 +1,12 @@
+   154.18.86.7     151420  0.0                         (Tokyo, Tokyo, JP, AS)                                                                                                     
+   154.18.86.1     151420  0.098               (Motoyoyogichō, Tokyo, JP, AS)                                                                                                     
+╭─ 101.203.88.74   *       0.098 (0.526)                  (Tokyo, Tokyo, JP, AS)                                                                                                     
+S (, 6939)  apcn-2 ✘ || eac-c2c ✘ || asia-pacific-gateway-apg ✘
+├─ 184.105.64.129  6939    53.178                   (Hong Kong, None, HK, AS) 100ge10-2.core1.hkg1.he.net                                                                         
+S (6939)  flag-europe-asia-fea ✓ || asia-africa-europe-1-aae-1 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.64.198  6939    151.452                        (Dubai, DU, AE, AS) 10ge4-11.core1.dxb1.he.net                                                                          
+╭─ 185.1.8.35      47794   257.509                       (Dubai, 3, AE, None) atheeb.net                                                                                          
+S&T (47794)  tata-tgn-gulf ✘ || falcon ✘
+╰─ 94.77.210.70    47794   283.127                        (Jeddah, 2, SA, AS) *                                                                                                   
+   94.77.252.90    47794   265.301            (Riyadh, Riyadh Region, SA, AS) 94-77-252-90.static.go.com.sa                                                                       

@@ -1,0 +1,17 @@
+   146.185.219.73  202422  0.0        (Petaẖ Tiqva, Central District, IL, AS)                                                                                                     
+   146.185.219.3   202422  0.296                 (Tel Aviv, Tel Aviv, IL, AS) vrrp.gcore.lu                                                                                       
+   10.255.29.242   *       0.31                                           ***                                                                                                     
+╭─ 192.115.73.153  12400   6.668                       (Tel Aviv, TA, IL, AS) *                                                                                                   
+LHL (12400)  mednautilus-submarine-system ✓ ↠ seamewe-4 ✓ || mednautilus-submarine-system ✓ ↠ asia-africa-europe-1-aae-1 ✓ || mednautilus-submarine-system ✓ ↠ seamewe-5 ✓ || mednautilus-submarine-system ✓ ↠ imewe ✓ || mednautilus-submarine-system ✓ ↠ seamewe-3 ✓ || jonah ✘ ↠ seamewe-4 ✓ || jonah ✘ ↠ asia-africa-europe-1-aae-1 ✓ || jonah ✘ ↠ seamewe-5 ✓ || jonah ✘ ↠ imewe ✓ || jonah ✘ ↠ seamewe-3 ✓ || lev-submarine-system ✘ ↠ seamewe-4 ✓ || lev-submarine-system ✘ ↠ asia-africa-europe-1-aae-1 ✓ || lev-submarine-system ✘ ↠ seamewe-5 ✓ || lev-submarine-system ✘ ↠ imewe ✓ || lev-submarine-system ✘ ↠ seamewe-3 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 82.102.129.225  12400   39.885    (Marseille, Provence-Alpes-Côte d'Azur, FR, EU)                                                                                                     
+╭─ 37.49.232.60    30844   55.204                   (Marseille, 93, FR, None) france-ix.liquidtelecom.net                                                                         
+LHL (30844)  seamewe-5 ✓ ↠ safe 👍 || asia-africa-europe-1-aae-1 ✓ ↠ safe 👍 || seamewe-4 ✓ ↠ safe 👍 || seamewe-3 ✓ ↠ safe 👍
+╰─ 41.175.212.3    30844   167.265                       (None, None, MU, AF) *                                                                                                   
+╭─ 197.155.94.1    30844   165.4                         (None, None, MU, AF) xe-0-0-3-LTZ-P1-DAR.liquidtelecom.net                                                               
+LHL (30844)  safe 👍 ↠ seamewe-3 ✓ ↠ seacomtata-tgn-eurasia ✓
+├─ 197.155.94.195  30844   164.841                      (Nairobi, 30, KE, AF) xe-0-0-4.ltz-pe1-rah.liquidtelecom.net                                                              
+S&T (30844)  
+╰─ 41.175.46.58    30844   166.148                       (None, None, TZ, AF) *                                                                                                   
+   196.49.5.98     327844  166.704   (Dar es Salaam, Dar es Salaam Region, TZ, AF)                                                                                                     

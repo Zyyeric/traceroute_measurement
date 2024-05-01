@@ -1,0 +1,14 @@
+   92.38.135.131   202422  0.0                         (Seoul, Seoul, KR, AS)                                                                                                     
+   92.38.135.2     202422  0.39                        (Seoul, Seoul, KR, AS) vrrp.gcore.lu                                                                                       
+   10.255.17.210   *       0.339                                          ***                                                                                                     
+   10.255.17.213   *       0.336                                          ***                                                                                                     
+   10.255.17.146   *       0.427                                          ***                                                                                                     
+╭─ 192.145.251.44  14828   36.144                      (Seoul, Seoul, KR, AS)                                                                                                     
+S (14828, 4788)  asia-pacific-gateway-apg ✘ || apcn-2 ✘ || flag-europe-asia-fea ✘ || seamewe-3 ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 1.9.253.38      4788    160.219       (Kuala Lumpur, Kuala Lumpur, MY, AS)                                                                                                     
+S (4788, 7590)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 202.125.149.58  7590    179.63                    (Rawalpindi, PB, PK, AS) Touchstone-4.rwp44d1.pie.net.pk                                                                     
+   210.56.8.180    7590    170.175                    (Islamabad, IS, PK, AS) *                                                                                                   
+   210.56.11.202   7590    179.939             (Islamabad, Islamabad, PK, AS)                                                                                                     

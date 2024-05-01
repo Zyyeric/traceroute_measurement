@@ -1,0 +1,14 @@
+   63.222.40.114   3491    0.0                       (Taipei, Taiwan, TW, AS) ncic.te0-1-0-23.br01.tap04.as3491.net                                                               
+╭─ 63.222.40.113   3491    1.009                      (Neihu, Taiwan, TW, AS) te0-1-0-23.br01.tap04.as3491.net                                                                    
+S (3491)  seamewe-3 👍 || eac-c2c ✓ || apcn-2 👍 || flag-north-asia-loopreach-north-asia-loop 👍 || asia-pacific-gateway-apg ✓
+├─ 63.218.210.86   3491    80.171                   (Hong Kong, None, HK, AS) HundredGE0-0-0-0.br05.hkg15.pccwbtn.net                                                             
+S (3491, 6939)  apcn-2 👍 || southeast-asia-japan-cable-sjc ✓ || seamewe-3 👍 || eac-c2c ✓ || asia-pacific-gateway-apg ✓ || tata-tgn-intra-asia-tgn-ia ✓ || asia-submarine-cable-express-asecahaya-malaysia ✓ || asia-america-gateway-aag-cable-system ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 74.82.49.214    6939    125.652             (Singapore, Singapore, SG, AS) pt-jala-lintas-media.e0-3.switch5.sin1.he.net                                                       
+S&T (6939, 133840)  
+╰─ 103.66.70.104   133840  125.956                 (Jakarta, Jakarta, ID, AS)                                                                                                     
+   121.100.0.45    38158   125.704                 (Jakarta, Jakarta, ID, AS)                                                                                                     
+   43.230.152.226  *       129.839                 (Jakarta, Jakarta, ID, AS) global-in.kings.id                                                                                  
+   43.230.153.90   *       124.934                 (Jakarta, Jakarta, ID, AS)                                                                                                     
+   180.211.88.22   45725   126.628                 (Jakarta, Jakarta, ID, AS) id-jkt-as45725.anchors.atlas.ripe.net                                                               

@@ -1,0 +1,17 @@
+   203.175.175.206 24482   0.0                 (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 103.14.247.241  24482   0.649               (Singapore, Singapore, SG, AS)                                                                                                     
+S&T (24482, 6453)  
+├─ 180.87.106.10   6453    0.659                         (None, None, IN, AS) *                                                                                                   
+S&T (6453)  
+╰─ 180.87.106.9    6453    0.892                    (Singapore, None, SG, AS) ix-hge-0-0-0-20.ecore1.svw-singapore.as6453.net                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   210.57.53.84    4637    1.381               (Singapore, Singapore, SG, AS) unknown.telstraglobal.net                                                                           
+   202.84.219.174  4637    83.519              (Singapore, Singapore, SG, AS) i-92.sgcn-core01.telstraglobal.net                                                                  
+╭─ 202.84.219.174  4637    83.519              (Singapore, Singapore, SG, AS) i-92.sgcn-core01.telstraglobal.net                                                                  
+S (4637)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 202.84.148.70   4637    88.951                      (Tokyo, Tokyo, JP, AS) unknown.telstraglobal.net                                                                           
+   61.200.82.18    2914    73.095                      (Tokyo, Tokyo, JP, AS) ce-4-3-3.a00.tokyjp09.jp.ce.gin.ntt.net                                                             
+   ***             *       -inf                                           *** *                                                                                                   
+   182.161.74.64   55569   73.376                      (Tokyo, Tokyo, JP, AS)                                                                                                     
+   182.161.74.241  55569   73.388                      (Tokyo, Tokyo, JP, AS)                                                                                                     

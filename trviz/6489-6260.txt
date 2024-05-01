@@ -1,0 +1,40 @@
+   185.39.208.23   199993  0.0                       (Lisbon, Lisbon, PT, EU) atlasancora01.wan.dns.pt                                                                            
+   185.39.208.60   199993  0.909                     (Lisbon, Lisbon, PT, EU)                                                                                                     
+   194.210.4.137   1930    1.547                     (Lisbon, Lisbon, PT, EU) router63.lisboa.fccn.pt                                                                             
+   194.210.6.112   1930    1.565                     (Lisbon, Lisbon, PT, EU) router30.lisboa.fccn.pt                                                                             
+   194.210.6.103   1930    1.52                      (Lisbon, Lisbon, PT, EU) router3.lisboa.fccn.pt                                                                              
+   194.210.6.102   1930    9.534                         (Lisbon, 11, PT, EU) Router30.Lisboa.fccn.pt                                                                             
+   193.136.1.9     1930    7.215                       (Porto, Porto, PT, EU) router20.porto.fccn.pt                                                                              
+   194.210.7.103   1930    7.958                          (Porto, 13, PT, EU) Router2.Porto.fccn.pt                                                                               
+╭─ 83.97.88.44     21320   7.122                     (Lisbon, Lisbon, PT, EU) fccn-ias-geant-gw.rt1.por.pt.geant.net                                                              
+S&T (21320, 20965)  
+├─ 62.40.98.220    20965   36.841                      (Bilbao, None, ES, EU) ae2.rt1.bil.es.geant.net                                                                            
+S&T (20965)  
+├─ 62.40.98.223    20965   36.801                        (Paris, IDF, FR, EU) ae4.mx1.par.fr.geant.net                                                                            
+S&T (20965)  
+├─ 62.40.98.106    20965   37.307                        (Lisbon, 11, PT, EU) ae0.mx2.lis.pt.geant.net                                                                            
+S&T (20965)  
+├─ 62.40.98.64     20965   35.977                   (London, England, GB, EU) ae2.mx1.lon.uk.geant.net                                                                            
+S (20965, 6461)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 64.125.24.229   6461    181.559                      (Atlanta, GA, US, NA) ae7.cs1.atl10.us.eth.zayo.com                                                                       
+   ***             *       -inf                                           *** *                                                                                                   
+   64.125.29.53    6461    176.102                  (Los Angeles, CA, US, NA) ae3.cs1.lax112.us.eth.zayo.com                                                                      
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 64.125.35.202   7473    1169.836                        (Lehi, UT, US, NA) 64.125.35.202.IPYX-145641-004-ZYO.zip.zayo.com                                                      
+S (7473)  
+╰─ 203.208.171.117 7473    1031.002                      (None, None, SG, AS) *                                                                                                   
+   203.208.154.69  7473    955.616             (Singapore, Singapore, SG, AS)                                                                                                     
+   203.208.158.10  7473    854.768             (Singapore, Singapore, SG, AS)                                                                                                     
+   203.208.158.9   7473    551.547                       (None, None, SG, AS) *                                                                                                   
+   203.208.149.170 7473    373.271             (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 203.208.174.138 7473    374.532             (Singapore, Singapore, SG, AS)                                                                                                     
+S (7473, 15802)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 87.201.194.242  15802   293.752                        (Dubai, DU, AE, AS) *                                                                                                   

@@ -1,0 +1,17 @@
+   197.239.73.59   37577   0.0                  (Ouagadougou, Centre, BF, AF)                                                                                                     
+   197.239.73.57   37577   1.815                (Ouagadougou, Centre, BF, AF)                                                                                                     
+   165.16.221.42   37721   4.088                         (None, None, BF, AF) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   102.67.97.181   37721   2.931                (Ouagadougou, Centre, BF, AF) ce5-355.bb2.oua2.vts.bf                                                                             
+╭─ 102.67.97.41    37721   4.422                   (Ouagadougou, KAD, BF, AF) et-0-0-1-2003.bb1.oua2.vts.bf                                                                       
+LHL (37721)  africa-coast-to-europe-ace ✓
+├─ 102.67.96.46    37721   19.644                       (Paris, None, FR, EU) xe-0-0-1-2022.bb2.prs1.vts.bf                                                                       
+S&T (37721)  africa-coast-to-europe-ace ✓ || seamewe-3 ✓
+╰─ 102.67.96.247   37721   95.009                    (Lisbon, Lisbon, PT, EU) ce1-2036.bb2.lis1.vts.bf                                                                            
+   102.67.97.58    37721   98.863                        (Lisbon, 11, PT, EU) xe-0-0-4-815.br2.lis1.vts.bf                                                                        
+╭─ 193.136.250.35  766     107.482                     (Lisbon, 14, PT, None) REDIRIS.AS766.gigapix.pt                                                                            
+S&T (766)  seamewe-3 ✘ || sat-3wasc ✘
+╰─ 130.206.245.34  766     119.171                       (None, None, ES, EU) cica.rt2.ethtrunk4.uv.rt2.val.red.rediris.es                                                        
+   130.206.245.90  766     120.551                       (None, None, ES, EU) uv.rt2.ae3-322.telmad.rt4.mad.red.rediris.es                                                        
+   130.206.214.98  13041   140.124                       (None, None, ES, EU) anella-router.red.rediris.es                                                                        
+   84.88.18.254    13041   129.305             (Barcelona, Catalonia, ES, EU) anchor-anella.cesca.cat                                                                             

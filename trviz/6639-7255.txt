@@ -1,0 +1,15 @@
+   103.179.37.157  151332  0.0                  (Melbourne, Victoria, AU, OC)                                                                                                     
+   103.179.37.156  151332  0.276                (Melbourne, Victoria, AU, OC)                                                                                                     
+   203.192.83.253  7545    1.362                (Melbourne, Victoria, AU, OC) ip-253-83-192-203.static.pipenetworks.com                                                           
+   203.220.216.73  7545    1.909                        (Sydney, NSW, AU, OC) 203-220-216-73.tpgi.com.au                                                                          
+   27.32.160.193   7545    14.792              (North Melbourne, VIC, AU, OC) 27-32-160-193.static.tpgi.com.au                                                                    
+   202.7.171.173   7545    12.6             (Sydney, New South Wales, AU, OC) syd-gls-har-crt1-be-10.tpgi.com.au                                                                  
+╭─ 203.221.3.4     7545    14.164                       (Sydney, NSW, AU, OC) syd-gls-har-int2-be100.tpgi.com.au                                                                  
+S (7545, 4637)  
+╰─ 123.255.91.39   4637    248.692                 (Hong Kong, HCW, HK, None) telstra4-lacp-100g.hkix.net                                                                         
+   202.84.153.25   4637    249.177   (Hong Kong, Central and Western, HK, AS)                                                                                                     
+╭─ 202.84.153.38   4637    248.849   (Hong Kong, Central and Western, HK, AS)                                                                                                     
+S (4637, 202196)  
+├─ 210.176.141.186 202196  276.262                      (Sydney, NSW, AU, OC) unknown.telstraglobal.net                                                                           
+S (202196)  
+╰─ 37.10.40.14     202196  276.113             (Hong Kong, Hong Kong, HK, AS)                                                                                                     

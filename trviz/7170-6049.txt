@@ -1,0 +1,14 @@
+   185.42.136.158  8674    0.0                 (Stockholm, Stockholm, SE, EU) se-sto-as8674.anchors.atlas.ripe.net                                                                
+   169.254.255.2   *       1.363                                          ***                                                                                                     
+╭─ 195.245.240.137 28917   0.726                    (Stockholm, 26, SE, None) netnod-ix-ge-a-sth-4470.fiord.ru                                                                    
+S&T (28917)  latvia-sweden-1-lv-se-1 ✓ || sweden-latvia ✓
+├─ 62.140.245.131  28917   7.147                          (Riga, RIX, LV, EU) riga-tvt-b1-ae5-vlan3702.fiord.net                                                                  
+S&T (28917)  bcs-east ✘
+╰─ 93.191.9.112    28917   13.815                     (Vilnius, None, LT, EU) vilnius-sk-b1-ae1-vlan3601.fiord.net                                                                
+   80.77.167.185   15440   13.945                       (Vilnius, VL, LT, EU) baltnet-gw.fiord.net                                                                                
+   213.197.128.22  15440   13.924                       (Vilnius, VL, LT, EU) *                                                                                                   
+   213.197.128.102 174     14.057                       (Vilnius, VL, LT, EU) ocean.data.lt                                                                                       
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   86.38.3.141     15419   14.118                    (Kaunas, Kaunas, LT, EU) 141.3.38.86.static.telecentras.lt                                                                   

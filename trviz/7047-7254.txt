@@ -1,0 +1,12 @@
+   103.170.154.254 142594  0.0                      (London, England, GB, EU) 254.154.170.103.speedyvps.uk                                                                        
+╭─ 103.170.154.1   142594  0.254                    (London, England, GB, EU)                                                                                                     
+T (142594, 60068)  
+├─ 156.146.32.92   60068   0.321                     (Prague, Prague, CZ, EU) unn-156-146-32-92.cdn77.com                                                                         
+LHL (60068)  
+├─ 185.229.188.204 60068   17.204    (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) vl1102.mrs-itx2-core-2.cdn77.com                                                                    
+T (60068)  
+├─ 84.17.32.155    60068   21.997                    (Prague, Prague, CZ, EU) gce-mrs.cdn77.com                                                                                   
+LHL (60068, 15412)  
+├─ 85.95.25.93     15412   125.944                   (Marseille, PAC, FR, EU) xe-4-0-1.0.cjr01.mrs002.flagtel.com                                                                 
+S&T (15412)  
+╰─ 80.77.4.60      15412   127.489                     (Dubai, Dubai, AE, AS)                                                                                                     

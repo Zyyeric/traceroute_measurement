@@ -1,0 +1,10 @@
+   203.119.111.139 4608    0.0                 (Brisbane, Queensland, AU, OC) anchor.apnic.net                                                                                    
+   203.119.111.130 4608    0.81                (Brisbane, Queensland, AU, OC) vl-1705.nxcs1.hosted.au.apnic.net                                                                   
+╭─ 203.119.104.25  4608    0.561                      (Brisbane, QLD, AU, OC) te-0-1-4.nxgw2.bne.apnic.net                                                                        
+S (4608, )  seamewe-3 ✓ || indigo-west ✓ || australia-singapore-cable-asc ✓
+├─ 27.111.230.188  *       103.986             (Singapore, Singapore, SG, AS) 140443.sgw.equinix.com                                                                              
+S&T (, 140443)  australia-singapore-cable-asc ✘ || indigo-west ✘ || indonesia-global-gateway-igg-system ✘ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || seamewe-3 ✘ || matrix-cable-system ✘ || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || jasuka ✘ || jakabare ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 103.160.63.222  140443  119.08                  (Jakarta, Jakarta, ID, AS) 222.63.160.103.in-addr.herza.id                                                                     

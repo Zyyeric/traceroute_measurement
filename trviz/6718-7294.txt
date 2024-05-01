@@ -1,0 +1,23 @@
+   10.252.4.170    *       0.0                                            ***                                                                                                     
+   10.252.4.169    *       0.109                                          ***                                                                                                     
+   10.252.4.153    *       0.159                                          ***                                                                                                     
+   10.252.0.37     *       9.564                                          ***                                                                                                     
+   10.252.2.138    *       12.207                                         ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 154.25.16.81    174     14.038                (Istanbul, Istanbul, TR, AS) be3821.rcr71.ist01.atlas.cogentco.com                                                               
+S&T (174)  kafos ✘
+├─ 154.54.77.238   174     31.41               (Bucharest, București, RO, EU) be3572.ccr31.buh01.atlas.cogentco.com                                                               
+LHL (174, 6762)  seamewe-3 ✓
+├─ 130.117.15.6    6762    31.095                    (Marseille, PAC, FR, EU) telecomitalia.mrs01.atlas.cogentco.com                                                              
+T (6762, 3356)  
+╰─ 171.75.10.155   3356    31.93               (Sofia, Sofia-Capital, BG, EU) ae4.4.edge1.sof1.neo.colt.net                                                                       
+╭─ 212.162.31.182  3356    31.616              (Sofia, Sofia-Capital, BG, EU) iptriplepla.edge1.sofia1.level3.net                                                                 
+LHL (3356, 41095)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 103.242.73.133  41095   211.557             (Singapore, Singapore, SG, AS) rt986164.r0.616.eq.sg.iptp.net                                                                      
+S&T (41095, 24176)  
+╰─ 210.86.233.17   24176   235.128    (Ho Chi Minh City, Ho Chi Minh, VN, AS) ci233-17.netnam.vn                                                                                  
+   210.86.233.30   24176   228.203    (Ho Chi Minh City, Ho Chi Minh, VN, AS) ci233-30.netnam.vn                                                                                  
+   210.86.232.101  24173   236.603                        (Hanoi, HN, VN, AS) ci232-101.netnam.vn                                                                                 
+   ***             *       -inf                                           *** *                                                                                                   
+   101.53.31.6     24173   240.158    (Ho Chi Minh City, Ho Chi Minh, VN, AS) ci53.31-6.netnam.vn                                                                                 

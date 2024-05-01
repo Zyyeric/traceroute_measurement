@@ -1,0 +1,30 @@
+   212.43.17.42    42961   0.0         (Al Farwānīyah, Al Farwaniyah, KW, AS)                                                                                                     
+   212.43.17.41    42961   1.197             (Kuwait City, Al Asimah, KW, AS)                                                                                                     
+   10.32.1.10      *       1.724                                          ***                                                                                                     
+   10.32.1.1       *       1.825                                          ***                                                                                                     
+╭─ 151.248.98.145  59605   2.256             (Kuwait City, Al Asimah, KW, AS)                                                                                                     
+LHL (59605)  falcon ✓ ↠ europe-india-gateway-eig ✓ || falcon ✓ ↠ seamewe-3 ✓ || falcon ✓ ↠ flag-europe-asia-fea ✓
+╰─ 151.248.96.196  59605   96.25                    (London, England, GB, EU)                                                                                                     
+   195.66.226.123  60171   92.282                     (London, ENG, GB, None) *                                                                                                   
+   185.10.164.69   60171   449.783                      (London, ENG, GB, EU) *                                                                                                   
+╭─ 185.10.164.65   60171   445.005                      (London, ENG, GB, EU) *                                                                                                   
+S&T (60171)  
+├─ 185.10.164.75   60171   440.076             (Paris, Île-de-France, FR, EU)                                                                                                     
+S&T (60171)  
+├─ 102.220.219.74  60171   438.993            (Johannesburg, Gauteng, ZA, AF)                                                                                                     
+T (60171)  
+╰─ 185.10.164.113  60171   458.005                      (London, ENG, GB, EU) *                                                                                                   
+╭─ 185.10.164.135  60171   448.422                      (London, ENG, GB, EU) *                                                                                                   
+S&T (60171)  
+├─ 185.10.164.32   60171   449.847             (Paris, Île-de-France, FR, EU)                                                                                                     
+S (60171)  
+├─ 102.223.52.73   60171   467.142                     (Lagos, Lagos, NG, AF)                                                                                                     
+S&T (60171)  
+├─ 185.10.164.45   60171   452.124                      (London, ENG, GB, EU) *                                                                                                   
+S&T (60171)  
+├─ 102.219.44.43   60171   449.176                     (Lagos, Lagos, NG, AF)                                                                                                     
+S&T (60171, 328913)  
+╰─ 196.49.84.51    328913  449.588                 (Abidjan, Abidjan, CI, AF) bdr3.std.douala-ix.net                                                                              
+╭─ 196.49.84.36    328913  446.347                 (Abidjan, Abidjan, CI, AF) gw1.std.douala-ix.net                                                                               
+S&T (328913)  
+╰─ 196.49.84.188   328913  445.22                  (Douala, Littoral, CM, AF) cm-dla-as328913.anchors.atlas.ripe.net                                                              

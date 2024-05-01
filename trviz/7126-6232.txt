@@ -1,0 +1,14 @@
+   212.43.17.42    42961   0.0         (Al Farwānīyah, Al Farwaniyah, KW, AS)                                                                                                     
+   212.43.17.41    42961   2.847             (Kuwait City, Al Asimah, KW, AS)                                                                                                     
+   10.32.1.10      *       1.481                                          ***                                                                                                     
+   10.32.1.1       *       1.846                                          ***                                                                                                     
+╭─ 151.248.98.145  59605   1.464             (Kuwait City, Al Asimah, KW, AS)                                                                                                     
+LHL (59605)  falcon ✓ ↠ seamewe-4 ✓ || falcon ✓ ↠ seamewe-3 ✓ || falcon ✓ ↠ seamewe-5 ✓ || falcon ✓ ↠ peace-cable ✘
+├─ 151.248.96.33   59605   128.102             (Singapore, Singapore, SG, AS)                                                                                                     
+S (59605, 45796)  asia-pacific-gateway-apg ✓ || eac-c2c ✓ || apcn-2 ✓ || seamewe-3 ✓
+├─ 27.111.228.192  45796   241.035                   (Seogwipo, None, KR, AS) 45796.sgw.equinix.com                                                                               
+S (45796)  
+╰─ 115.31.164.31   45796   257.731                       (None, None, TH, AS) *                                                                                                   
+   115.31.164.203  137566  221.363                       (None, None, TH, AS) *                                                                                                   
+   103.113.176.2   137566  220.08                        (None, None, TH, AS) *                                                                                                   
+   103.113.176.82  137566  147.137       (Ban Talat Bueng, Chon Buri, TH, AS)                                                                                                     

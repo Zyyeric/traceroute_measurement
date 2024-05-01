@@ -1,0 +1,18 @@
+   202.165.66.5    137409  0.0              (Sydney, New South Wales, AU, OC)                                                                                                     
+   202.165.66.1    137409  0.421            (Sydney, New South Wales, AU, OC)                                                                                                     
+   100.64.1.9      *       0.376                                          ***                                                                                                     
+   206.148.24.116  7578    0.448            (Sydney, New South Wales, AU, OC)                                                                                                     
+   206.148.24.112  7578    0.451            (Sydney, New South Wales, AU, OC)                                                                                                     
+   206.148.24.114  7578    0.675            (Sydney, New South Wales, AU, OC) po1.syd-eqxsy5-bb7.globalsecurelayer.com                                                            
+   206.148.24.9    7578    45.957        (Belmont, Western Australia, AU, OC) e53.per-ndcp2-bb2.globalsecurelayer.com                                                             
+╭─ 206.148.24.21   7578    92.026           (Sydney, New South Wales, AU, OC) e54.sg-eqxsg3-bb4.globalsecurelayer.com                                                             
+S (7578)  
+╰─ 206.148.24.70   7578    92.262              (Singapore, Singapore, SG, AS) e53.sg-eqxsg3-cr3.globalsecurelayer.com                                                             
+╭─ 206.148.24.75   7578    92.236              (Singapore, Singapore, SG, AS)                                                                                                     
+S (7578, 58500)  
+├─ 27.111.229.143  58500   92.084                    (Seogwipo, None, KR, AS) 58500.sgw.equinix.com                                                                               
+S (58500, 23951)  
+╰─ 202.152.131.232 23951   115.094           (Yogyakarta, Yogyakarta, ID, AS) 202-152-131-232.citra.net.id                                                                        
+   202.152.153.32  23951   115.034                       (Sleman, YO, ID, AS) 202-152-153-32.as23951.net                                                                          
+   202.152.153.9   23951   115.464                      (Babadan, JT, ID, AS) 202-152-153-9.as23951.net                                                                           
+   202.152.129.74  23951   115.822           (Yogyakarta, Yogyakarta, ID, AS) 202-152-129-74.citra.net.id                                                                         

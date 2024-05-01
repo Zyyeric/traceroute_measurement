@@ -1,0 +1,19 @@
+   5.188.238.222   202422  0.0                 (São Paulo, São Paulo, BR, SA)                                                                                                     
+   5.188.238.3     202422  0.132               (São Paulo, São Paulo, BR, SA) vrrp.gcore.lu                                                                                       
+   10.255.22.181   *       0.128                                          ***                                                                                                     
+   10.255.22.187   *       0.362                                          ***                                                                                                     
+   10.255.22.166   *       0.469                                          ***                                                                                                     
+╭─ 149.3.181.116   6762    0.292               (São Paulo, São Paulo, BR, SA) et9-0-5-585.sanpaolo7.spa.seabone.net                                                               
+S (6762)  south-america-1-sam-1 ✓ || monet ✓ || seabras-1 👍 || america-movil-submarine-cable-system-1-amx-1 © || brusa ✓ || globenet ✘ || americas-ii 👍
+├─ 89.221.41.221   6762    103.895                   (Miami, Florida, US, NA) ae10.miami16.mia.seabone.net                                                                        
+S (6762, 174)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 154.54.3.30     174     211.829                     (Santiago, RM, CL, SA) be2716.ccr51.scl01.atlas.cogentco.com                                                               
+╭─ 154.54.92.42    174     212.718   (Santiago, Santiago Metropolitan, CL, SA) be4156.rcr71.b072113-0.scl01.atlas.cogentco.com                                                     
+S (174, 1421)  
+├─ 154.24.5.114    1421    203.101                  (Los Angeles, CA, US, NA) te0-0-1-0.nr12.b027278-1.lax04.atlas.cogentco.com                                                   
+S (1421, 61506)  
+╰─ 138.204.229.98  61506   211.719             (Quillota, Valparaíso, CL, SA)                                                                                                     
+   138.204.228.160 61506   213.947                     (Quillota, VS, CL, SA) *                                                                                                   
+   138.204.228.2   61506   214.112                     (Quillota, VS, CL, SA) *                                                                                                   
+   138.204.228.25  61506   214.75            (Valparaíso, Valparaíso, CL, SA)                                                                                                     

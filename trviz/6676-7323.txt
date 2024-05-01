@@ -1,0 +1,12 @@
+   114.31.201.91   4826    0.0              (Sydney, New South Wales, AU, OC) 91.201.31.114.core.vocus.network                                                                    
+   114.31.201.90   4826    0.625            (Sydney, New South Wales, AU, OC) 90.201.31.114.core.vocus.network                                                                    
+   ***             *       -inf                                           *** *                                                                                                   
+   103.1.77.14     *       92.123           (Sydney, New South Wales, AU, OC) be202.lsr01.dody.nsw.vocus.network                                                                  
+   ***             *       -inf                                           *** *                                                                                                   
+   103.1.77.9      4826    91.655                       (Sydney, NSW, AU, OC) be221.cor02.syd04.nsw.vocus.network                                                                 
+╭─ 114.31.206.75   4826    91.794                         (Perth, WA, AU, OC) be203.bdr02.sin01.sin.vocus.network                                                                 
+S (4826, 24482)  
+├─ 27.111.228.159  24482   91.469                    (Seogwipo, None, KR, AS) 24482.sgw.equinix.com                                                                               
+S (24482)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 203.175.175.206 24482   92.808              (Singapore, Singapore, SG, AS)                                                                                                     

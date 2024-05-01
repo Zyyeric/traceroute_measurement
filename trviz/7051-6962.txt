@@ -1,0 +1,16 @@
+   94.203.76.219   15802   0.0                         (Dubai, Dubai, AE, AS)                                                                                                     
+   94.203.76.209   15802   0.57                        (Dubai, Dubai, AE, AS)                                                                                                     
+   10.53.17.73     *       4.735                                          ***                                                                                                     
+╭─ 185.1.8.63      *       3.315                       (Dubai, Dubai, AE, AS) ipv4.uaeix-dubai.core1.dxb1.he.net                                                                  
+S (, 6939)  seamewe-5 ✘ || asia-africa-europe-1-aae-1 ✘ || imewe ✘ || seamewe-4 ✘
+├─ 184.104.193.102 6939    115.874   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) port-channel1.core3.mrs1.he.net                                                                     
+S (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.105.81.141  6939    139.204                      (Ashburn, VA, US, NA) port-channel10.core3.ash1.he.net                                                                    
+S (6939, 56655)  
+╰─ 185.125.170.252 56655   140.927                       (Oslo, Oslo, NO, EU)                                                                                                     
+   185.125.170.47  56655   141.047                       (Oslo, Oslo, NO, EU)                                                                                                     
+   185.14.97.165   56655   3061.729                      (Oslo, Oslo, NO, EU)                                                                                                     
+   185.14.97.165   56655   3061.729                      (Oslo, Oslo, NO, EU)                                                                                                     

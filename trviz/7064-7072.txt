@@ -1,0 +1,20 @@
+   45.142.246.158  57578   0.0                       (Moscow, Moscow, RU, EU) user-45-142-246-158.mow01.ru.misaka.io                                                              
+   ***             *       -inf                                           *** *                                                                                                   
+   45.131.68.3     57578   0.292                     (Moscow, Moscow, RU, EU) spine4.mow01.ru.misaka.io                                                                           
+╭─ 102.130.51.88   *       0.304                     (Moscow, Moscow, RU, EU) e54-10.cr1a.mmts9.mow1.ru.917.as                                                                    
+T ()  
+├─ 185.0.12.117    *       17.203                 (Helsinki, Uusimaa, FI, EU) he.msk.piter-ix.net                                                                                 
+T (, 6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.192.94  6939    25.425                         (Riga, RIX, LV, EU) 100ge5-1.core1.rix1.he.net                                                                          
+S&T (6939)  bcs-east ✓
+├─ 184.104.192.90  6939    29.422                       (Vilnius, VL, LT, EU) 100ge5-1.core1.vno1.he.net                                                                          
+LHL (6939)  nordbalt ✘ ↠ baltica ✓ || nordbalt ✘ ↠ denmark-poland-2 ✓ || bcs-east-west-interlink ✓ ↠ baltica ✓ || bcs-east-west-interlink ✓ ↠ denmark-poland-2 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 216.66.94.46    6939    36.615                   (Warsaw, Mazovia, PL, EU) orange.port-channel8.core2.waw1.he.net                                                              
+   195.149.239.1   29535   36.686                        (None, None, PL, EU) *                                                                                                   
+   80.54.111.102   50599   51.828                        (Chodecz, 4, PL, EU) z-orange.dataspace.pl                                                                               
+   89.40.145.241   50599   49.608         (Toruń, Kujawsko-Pomorskie, PL, EU) ae0.4.tor-cloud-r1.dspace.pl                                                                        
+   91.204.162.3    50599   51.499         (Toruń, Kujawsko-Pomorskie, PL, EU) lag-wan.dss.dspace.pl                                                                               
+   91.204.160.249  50599   50.932         (Toruń, Kujawsko-Pomorskie, PL, EU) cloud-public1.dss.dspace.pl                                                                         
+   91.236.55.69    50599   51.798         (Toruń, Kujawsko-Pomorskie, PL, EU) host-91-236-55-69.dataspace.pl                                                                      

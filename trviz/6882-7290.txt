@@ -1,0 +1,13 @@
+   103.225.148.27  45701   0.0                     (Jakarta, Jakarta, ID, AS) ip-27-148-225-103.globalxtreme.net                                                                  
+   103.225.148.17  45701   0.357                   (Jakarta, Jakarta, ID, AS) ip-17-148-225-103.globalxtreme.net                                                                  
+   202.58.202.35   *       18.841                  (Jakarta, Jakarta, ID, AS) ae-0-9-r1-jkt1.globalxtreme.net                                                                     
+╭─ 202.58.202.242  *       31.614                  (Jakarta, Jakarta, ID, AS) ae-1-0-r2-sg1.globalxtreme.net                                                                      
+S (, 30844)  seamewe-3 ✘
+├─ 80.249.211.45   30844   277.849                  (Marseille, None, FR, EU) ams-ix.teng0-1-0-6.lfr-pe1-mrs.liquidtelecom.net                                                    
+S&T (30844)  seamewe-3 ✓
+├─ 217.15.112.225  30844   406.923                      (London, ENG, GB, EU) xe-0-1-1-1.ltz-p1-sea.liquidtelecom.net                                                             
+LHL (30844)  europe-india-gateway-eig ✓ ↠ peace-cable ✘ || europe-india-gateway-eig ✓ ↠ seacomtata-tgn-eurasia ✓ || seamewe-3 ✓ ↠ peace-cable ✘ || flag-europe-asia-fea ✓ ↠ peace-cable ✘ || seamewe-3 ✓ ↠ seacomtata-tgn-eurasia ✓ || flag-europe-asia-fea ✓ ↠ seacomtata-tgn-eurasia ✓
+╰─ 197.155.94.8    30844   404.673                    (Nairobi, None, KE, AF) hu-0-2-0-2.lke-p1-nbi.liquidtelecom.net                                                             
+   197.155.94.47   30844   404.314                    (Nairobi, None, KE, AF) xe-0-1-0-0.lke-pe3-nbi.liquidtelecom.net                                                            
+   197.155.93.65   37578   364.937                      (Nairobi, 30, KE, AF) 197.155.93.65.liquidtelecom.net                                                                     
+   196.6.220.42    37578   363.184          (Nairobi, Nairobi County, KE, AF)                                                                                                     

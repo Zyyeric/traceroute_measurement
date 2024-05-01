@@ -1,0 +1,13 @@
+   102.130.66.11   37468   0.0                       (Luanda, Luanda, AO, AF)                                                                                                     
+╭─ 102.130.66.1    37468   0.327                     (Luanda, Luanda, AO, AF)                                                                                                     
+S&T (37468)  west-africa-cable-system-wacs 👍 || sat-3wasc ✓
+├  100.64.192.118  *       0.327 (2.121)                                     ***                                                                                                     
+├─ 102.130.68.143  37468   54.468                  (Johannesburg, GT, ZA, AF) *                                                                                                   
+LHL (37468)  seacomtata-tgn-eurasia ✓ ↠ seamewe-4 ✓ || seacomtata-tgn-eurasia ✓ ↠ seamewe-3 ✓ || seacomtata-tgn-eurasia ✓ ↠ seamewe-5 ✓ || seacomtata-tgn-eurasia ✓ ↠ peace-cable ✘
+├─ 102.219.127.6   37468   198.334             (Singapore, Singapore, SG, AS)                                                                                                     
+S (37468, 15802)  
+├─ 27.111.228.17   15802   213.494                   (Seogwipo, None, KR, AS) 15802.sgw.equinix.com                                                                               
+S (15802, 17557)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 195.229.27.146  17557   216.231                       (None, None, AE, AS) *                                                                                                   
+   185.92.128.30   60924   216.181                     (Dubai, Dubai, AE, AS)                                                                                                     

@@ -1,0 +1,41 @@
+   163.117.253.5   766     0.0                       (Madrid, Madrid, ES, EU)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   172.17.0.53     *       0.954                                          ***                                                                                                     
+   193.145.15.49   766     1.173                    (Leganés, Madrid, ES, EU) csic-rt-ju-02-xe-4-0-6.net.redimadrid.es                                                            
+   130.206.216.1   766     1.885                     (Madrid, Madrid, ES, EU) redimadrid-backup.ethtrunk8-103.telmad.rt1.mad.red.rediris.es                                       
+   130.206.245.50  766     1.731                         (None, None, ES, EU) telmad.rt1.ae11-0.telmad.rt4.mad.red.rediris.es                                                     
+╭─ 83.97.90.20     21320   1.777                     (Madrid, Madrid, ES, EU) rediris-ias-geant-gw.mad.es.geant.net                                                               
+S&T (21320, 20965)  seamewe-3 ✓
+├─ 62.40.98.227    20965   31.93     (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) ae2.rt1.mar.fr.geant.net                                                                            
+T (20965)  
+├─ 62.40.98.236    20965   32.964                    (Genève, Geneva, CH, EU) ae4.mx1.gen.ch.geant.net                                                                            
+T (20965)  
+├─ 62.40.98.239    20965   32.886              (Paris, Île-de-France, FR, EU) ae7.mx1.par.fr.geant.net                                                                            
+S&T (20965)  africa-coast-to-europe-ace ✘ || seamewe-3 ✘
+├─ 62.40.98.106    20965   33.396                        (Lisbon, 11, PT, EU) ae0.mx2.lis.pt.geant.net                                                                            
+S&T (20965)  
+╰─ 62.40.98.64     20965   33.075                   (London, England, GB, EU) ae2.mx1.lon.uk.geant.net                                                                            
+   195.66.224.76   6461    31.356                       (London, ENG, GB, EU) ae15.mpr1.lhr15.uk.above.net                                                                        
+   94.31.33.31     6461    32.851                   (London, England, GB, EU) 94.31.33.31.idia-288174-013-zyo.zip.zayo.com                                                        
+╭─ 206.148.26.8    7578    33.012                   (Poplar, England, GB, EU) po10.lon-thn-bb1.globalsecurelayer.com                                                              
+S (7578)  
+╰─ 206.148.26.7    7578    101.982          (New York City, New York, US, NA) e52.nyc-eqxny2-bb1.globalsecurelayer.com                                                            
+   206.148.25.42   7578    114.255                (Chicago, Illinois, US, NA) e3.chi-eqxch1-bb1.globalsecurelayer.com                                                             
+   206.148.25.0    7578    162.977          (Los Angeles, California, US, NA) e50.lax-csla2-bb1.globalsecurelayer.com                                                             
+   206.148.25.91   7578    162.014          (Los Angeles, California, US, NA) e49.lax-csla2-bb1.globalsecurelayer.com                                                             
+╭─ 206.148.25.84   7578    239.759          (Los Angeles, California, US, NA) e50.ty-eqxty8-bb5.globalsecurelayer.com                                                             
+S (7578)  
+╰─ 206.148.24.51   7578    239.744          (Sydney, New South Wales, AU, OC) e30.ty-eqxty8-bb1.globalsecurelayer.com                                                             
+╭─ 206.148.24.66   7578    240.877          (Sydney, New South Wales, AU, OC) e51.sg-eqxsg3-bb1.globalsecurelayer.com                                                             
+S (7578)  
+╰─ 31.217.251.74   7578    240.992             (Singapore, Singapore, SG, AS) unknown.globalsecurelayer.com                                                                       
+╭─ 160.202.164.165 137409  258.477             (Singapore, Singapore, SG, AS)                                                                                                     
+LHL (137409, 42961)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 151.248.98.137  42961   271.196                       (None, None, BH, AS) *                                                                                                   
+S (42961)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 212.43.17.42    42961   274.436     (Al Farwānīyah, Al Farwaniyah, KW, AS)                                                                                                     

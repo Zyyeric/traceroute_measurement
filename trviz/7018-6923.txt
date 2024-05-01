@@ -1,0 +1,11 @@
+   103.151.64.31   140627  0.0                     (Hagåtña, Hagatna, GU, OC) atlas.guam.as140627.net                                                                             
+╭─ 103.151.64.30   140627  0.329                 (Piti Village, Piti, GU, OC) oq-guam-cor01--atlas-probe.as140627.net                                                             
+S (140627)  japan-guam-australia-south-jga-s ✓ || pipe-pacific-cable-1-ppc-1 ✓ || australia-japan-cable-ajc ✓
+╰─ 103.151.64.7    140627  70.461                        (None, None, AU, OC) *                                                                                                   
+   218.100.52.6    4826    70.975                       (Sydney, 2, AU, None) as4826.nsw.ix.asn.au                                                                                
+   ***             *       -inf                                           *** *                                                                                                   
+   114.31.192.97   4826    71.745           (Sydney, New South Wales, AU, OC) be2.bdr01.syd03.nsw.vocus.network                                                                   
+╭─ 123.103.197.26  4826    93.817           (Sydney, New South Wales, AU, OC) ip-26.197.103.123.vocus.net.au                                                                      
+S (4826, 45345)  
+╰─ 202.87.128.198  45345   93.099                         (Noumea, S, NC, OC) *                                                                                                   
+   103.2.186.195   45345   93.49             (Nouméa, South Province, NC, OC) nc-nou-as45345.anchors.atlas.ripe.net                                                               

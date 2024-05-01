@@ -1,0 +1,17 @@
+   196.49.15.189   328998  0.0              (Kampala, Central Region, UG, AF)                                                                                                     
+   196.49.15.253   328998  0.366            (Kampala, Central Region, UG, AF)                                                                                                     
+   41.191.77.205   37063   0.64             (Kampala, Central Region, UG, AF)                                                                                                     
+   129.205.30.77   37063   1.16                          (Kampala, C, UG, AF) *                                                                                                   
+╭─ 129.205.30.230  37063   8.724            (Kampala, Central Region, UG, AF)                                                                                                     
+T (37063, 6939)  
+├─ 196.223.21.74   6939    160.487                     (Nairobi, 5, KE, None) *                                                                                                   
+S&T (6939)  
+├─ 184.104.189.42  6939    161.802               (Djibouti, Djibouti, DJ, AF) ve1004.core2.jib1.he.net                                                                            
+S (6939)  
+├─ 184.104.194.201 6939    238.626             (Singapore, Singapore, SG, AS) port-channel14.core3.sin1.he.net                                                                    
+S (6939)  
+╰─ 184.104.199.181 6939    272.277             (Hong Kong, Hong Kong, HK, AS) port-channel9.core2.hkg1.he.net                                                                     
+╭─ 184.104.212.74  23944   285.866                  (Hong Kong, None, HK, AS) sky-cable-corporation.port-channel4.switch1.hkg1.he.net                                             
+S (23944)  
+├  172.31.31.7     *       285.642                                        ***                                                                                                     
+╰─ 182.18.209.9    23944   283.774             (Manila, Metro Manila, PH, AS)                                                                                                     

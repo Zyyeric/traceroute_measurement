@@ -1,0 +1,19 @@
+   200.1.122.55    27678   0.0       (Santiago, Santiago Metropolitan, CL, SA) unassigned.nic.cl                                                                                   
+   200.1.123.253   27678   0.277     (Santiago, Santiago Metropolitan, CL, SA) ciscoa1.nic.cl                                                                                      
+   200.16.114.42   27678   1.902                         (None, None, CL, SA) ciscos1e.nic.cl                                                                                     
+   186.148.17.253  12956   2.76                          (None, None, CL, SA) 186-148-17-253.static.mundo.movistar.cl                                                             
+   213.140.39.91   12956   2.791     (Santiago, Santiago Metropolitan, CL, SA)                                                                                                     
+╭─ 213.140.39.90   12956   3.227     (Santiago, Santiago Metropolitan, CL, SA)                                                                                                     
+S (12956, 1299)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 62.115.113.48   1299    142.033                 (Atlanta, Georgia, US, NA) atl-b24-link.ip.twelve99.net                                                                        
+   62.115.116.46   1299    127.728                   (Houston, Texas, US, NA) hou-b3-link.ip.twelve99.net                                                                         
+╭─ 62.115.126.145  1299    164.379                   (McAllen, Texas, US, NA) mdc-b2-link.ip.twelve99.net                                                                         
+S&T (1299)  
+╰─ 62.115.124.13   1299    138.042            (Monterrey, Nuevo León, MX, NA) mny-b2-link.ip.twelve99.net                                                                         
+   62.115.123.239  1299    174.874            (Monterrey, Nuevo León, MX, NA) qro-b2-link.ip.twelve99.net                                                                         
+   62.115.124.48   1299    174.248   (Santiago de Querétaro, Querétaro, MX, NA) qro-b3-link.ip.twelve99.net                                                                         
+   62.115.166.226  42473   146.179               (Benito Juarez, CMX, MX, NA) *                                                                                                   
+   131.100.0.158   42473   146.198   (Santiago de Querétaro, Querétaro, MX, NA)                                                                                                     

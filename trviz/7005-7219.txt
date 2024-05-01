@@ -1,0 +1,12 @@
+   102.219.127.20  37468   0.0                 (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 102.219.127.17  37468   0.401               (Singapore, Singapore, SG, AS)                                                                                                     
+LHL (37468)  seamewe-4 ✓ ↠ seacomtata-tgn-eurasia ✓ || seamewe-3 ✓ ↠ seacomtata-tgn-eurasia ✓ || seamewe-5 ✓ ↠ seacomtata-tgn-eurasia ✓ || peace-cable ✘ ↠ seacomtata-tgn-eurasia ✓
+├─ 102.219.127.7   37468   144.696            (Johannesburg, Gauteng, ZA, AF)                                                                                                     
+S&T (37468)  
+├─ 102.130.68.112  37468   159.681                       (None, None, AO, AF) *                                                                                                   
+LHL (37468, 204059)  
+├  100.64.192.13   *       309.789                                        ***                                                                                                     
+├  100.64.192.38   *       309.541                                        ***                                                                                                     
+╰─ 80.67.181.2     204059  319.86                     (Brussels, BRU, BE, EU) edge-02.louise.neutri.net                                                                           
+   80.67.181.18    204059  320.109       (Brussels, Brussels Capital, BE, EU) core-01.louise.neutri.net                                                                           
+   80.67.181.29    204059  320.452       (Brussels, Brussels Capital, BE, EU) be-bru-as204059.anchors.atlas.ripe.net                                                              

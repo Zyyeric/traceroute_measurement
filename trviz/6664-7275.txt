@@ -1,0 +1,18 @@
+   180.211.88.22   45725   0.0                     (Jakarta, Jakarta, ID, AS) id-jkt-as45725.anchors.atlas.ripe.net                                                               
+   180.211.88.21   45725   0.446                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+╭─ 43.230.153.89   *       0.349                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+S&T (, 9002)  australia-singapore-cable-asc ✘ || matrix-cable-system ✘ || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || indonesia-global-gateway-igg-system ✘ || seamewe-3 ✘ || indigo-west ✘ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || jasuka ✘ || jakabare ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├  10.110.1.0      *       12.293                                         ***                                                                                                     
+├─ 87.245.238.250  9002    12.271                      (Singapore, 4, SG, AS) ae0-302.RT1.EQX.SIN.SG.retn.net                                                                     
+LHL (9002)  seamewe-4 ✓ || seamewe-3 ✓ || seamewe-5 ✓
+├─ 87.245.233.42   9002    166.02                      (Irkutsk, IRK, RU, AS) ae2-5.RT.VSV.IKT.RU.retn.net                                                                        
+LHL (9002, 8551)  
+├─ 80.81.192.191   8551    169.022           (Frankfurt am Main, 5, DE, None) decix1.bezeqint.net                                                                                 
+T (8551)  
+├  10.250.31.10    *       218.929                                        ***                                                                                                     
+╰─ 212.179.124.81  8551    217.515                     (Tel Aviv, TA, IL, AS) bzq-179-124-81.cust.bezeqint.net                                                                    
+   212.179.124.186 8551    220.477                     (Tel Aviv, TA, IL, AS) bzq-179-124-186.cust.bezeqint.net                                                                   
+   169.254.0.0     *       218.663                                        ***                                                                                                     
+   10.255.29.243   *       217.106                                        ***                                                                                                     
+   146.185.219.73  202422  220.588    (Petaẖ Tiqva, Central District, IL, AS)                                                                                                     

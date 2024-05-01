@@ -1,0 +1,20 @@
+   103.15.246.16   58717   0.0                         (Dhaka, Dhaka, BD, AS)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   172.16.203.70   *       1.236                                          ***                                                                                                     
+   103.199.87.153  58717   1.516                         (None, None, BD, AS) *                                                                                                   
+╭─ 103.199.87.233  58717   5.945                         (None, None, BD, AS) *                                                                                                   
+S (58717)  seamewe-5 ✓ || seamewe-4 ✓
+╰─ 103.199.87.6    58717   50.728              (Singapore, Singapore, SG, AS) 103.199.87.6.summitiig.net                                                                          
+╭─ 184.105.80.45   6939    261.059             (Singapore, Singapore, SG, AS) port-channel21.core2.sin1.he.net                                                                    
+S (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.189.42  6939    182.47                (Djibouti, Djibouti, DJ, AF) ve1004.core2.jib1.he.net                                                                            
+S&T (6939)  
+├─ 184.105.64.13   6939    263.53                      (Mombasa, 300, KE, AF) port-channel2.core1.mba1.he.net                                                                     
+S (6939)  
+╰─ 184.104.198.49  6939    306.901                       (Durban, NL, ZA, AF) port-channel3.core1.dur1.he.net                                                                     
+   184.104.188.210 6939    291.809          (Cape Town, Western Cape, ZA, AF) 100ge0-33.core1.cpt1.he.net                                                                         
+   102.220.177.106 328829  331.575               (Diepsloot, Gauteng, ZA, AF) rnd-br1-sfp11-834.vumatel.co.za                                                                     
+   102.220.178.118 328829  333.661          (Cape Town, Western Cape, ZA, AF) rnd-br2-sfp28-2-882.vumatel.co.za                                                                   
+   102.220.179.118 328829  332.07           (Cape Town, Western Cape, ZA, AF) unknown.vumatel.co.za                                                                               
+   102.220.178.25  328829  332.398          (Cape Town, Western Cape, ZA, AF) unknown.vumatel.co.za                                                                               

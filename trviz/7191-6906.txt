@@ -1,0 +1,15 @@
+   185.92.128.30   60924   0.0                         (Dubai, Dubai, AE, AS)                                                                                                     
+   185.92.128.3    60924   0.323                       (Dubai, Dubai, AE, AS)                                                                                                     
+╭─ 151.248.103.94  59605   1.19                        (Dubai, Dubai, AE, AS)                                                                                                     
+S (59605)  seamewe-3 ✓ || seamewe-5 ✓ || seamewe-4 ✓
+╰─ 151.248.96.33   59605   115.84              (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 151.248.96.33   59605   115.84              (Singapore, Singapore, SG, AS)                                                                                                     
+S (59605, 55329)  
+├─ 27.111.229.69   55329   94.516                    (Seogwipo, None, KR, AS) 55329.sgw.equinix.com                                                                               
+LHL (55329, 45498)  
+├  172.16.16.82    *       140.169                                        ***                                                                                                     
+├  172.16.16.1     *       126.316                                        ***                                                                                                     
+├  172.16.100.138  *       142.144                                        ***                                                                                                     
+╰─ 27.109.113.5    45498   160.949                   (Phnom Penh, 12, KH, AS) *                                                                                                   
+   27.109.113.26   45498   161.47                    (Phnom Penh, 12, KH, AS) *                                                                                                   
+   117.20.118.21   45498   156.736           (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     

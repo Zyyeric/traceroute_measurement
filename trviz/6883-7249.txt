@@ -1,0 +1,16 @@
+   77.46.127.110   41931   0.0                  (Białystok, Podlasie, PL, EU) ripe-anchor.euro-net.pl                                                                             
+   77.46.127.1     41931   4.771                (Białystok, Podlasie, PL, EU) srv-gw.euro-net.pl                                                                                  
+   77.46.118.6     41931   0.622                (Białystok, Podlasie, PL, EU) ms01-to-er01.euro-net.pl                                                                            
+╭─ 212.91.0.50     197790  3.095                   (Wołomin, Mazovia, PL, EU) he.thinx.pl                                                                                         
+T (197790, 6939)  
+├─ 184.104.192.78  6939    10.877                       (Vilnius, VL, LT, EU) 100ge5-2.core1.vno1.he.net                                                                          
+S (6939)  bcs-east-west-interlink ✓ || nordbalt ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.192.81  6939    26.984                     (Stockholm, AB, SE, EU) 100ge9-2.core1.sto1.he.net                                                                          
+╭─ 184.104.206.217 6939    33.403              (Stockholm, Stockholm, SE, EU)                                                                                                     
+T (6939, 12389)  
+╰─ 188.254.2.4     12389   39.911                     (Davydovo, MOS, RU, EU) *                                                                                                   
+   92.53.93.176    49505   39.594                        (None, None, RU, EU) *                                                                                                   
+   92.53.93.29     49505   39.525                        (None, None, RU, EU) *                                                                                                   
+   188.124.38.132  49505   39.558    (Saint Petersburg, St.-Petersburg, RU, EU)                                                                                                     

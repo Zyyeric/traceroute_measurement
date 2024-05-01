@@ -1,0 +1,16 @@
+   5.62.127.14     199610  0.0                      (London, England, GB, EU)                                                                                                     
+╭─ 5.62.127.1      199610  0.336                    (London, England, GB, EU)                                                                                                     
+T (199610)  
+├─ 46.251.228.201  199610  1.857       (Köln, North Rhine-Westphalia, DE, EU)                                                                                                     
+T (199610, 1299)  
+├  169.254.0.82    *       2.028                                          ***                                                                                                     
+╰─ 213.248.98.134  1299    2.258                    (London, England, GB, EU) ldn-b3-link.ip.twelve99.net                                                                         
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 154.54.57.153   174     9.764                        (London, ENG, GB, EU) be2868.ccr41.lon13.atlas.cogentco.com                                                               
+S (174)  
+╰─ 154.54.82.34    174     72.039                        (Boston, MA, US, NA) be2099.ccr31.bos01.atlas.cogentco.com                                                               
+   154.54.87.98    174     70.803                        (Boston, MA, US, NA) be3662.agr21.bos01.atlas.cogentco.com                                                               
+   38.140.158.2    10961   70.525                     (Cambridge, MA, US, NA) *                                                                                                   
+   192.5.208.239   10961   71.627                        (None, None, US, NA) cumm111-tunnel-gw01-po1927-cumm111-bdr-gw05-po1927.bu.edu                                           
+   128.197.255.155 111     75.069             (Boston, Massachusetts, US, NA)                                                                                                     
+   204.8.154.50    10961   75.405             (Boston, Massachusetts, US, NA) cs-atlas.bu.edu                                                                                     

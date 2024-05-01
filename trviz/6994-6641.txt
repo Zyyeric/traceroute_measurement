@@ -1,0 +1,18 @@
+   92.38.135.131   202422  0.0                         (Seoul, Seoul, KR, AS)                                                                                                     
+   92.38.135.3     202422  0.359                       (Seoul, Seoul, KR, AS) vrrp.gcore.lu                                                                                       
+   10.255.17.209   *       0.332                                          ***                                                                                                     
+   10.255.17.213   *       0.31                                           ***                                                                                                     
+   10.255.17.146   *       0.354                                          ***                                                                                                     
+╭─ 8.244.74.29     3356    0.592                       (Seoul, Seoul, KR, AS)                                                                                                     
+S (3356)  korea-japan-cable-network-kjcn ✓ || seamewe-3 ✓
+╰─ 4.69.217.14     3356    31.869                         (Tokyo, 13, JP, AS) ae1.3505.edge2.Tokyo4.level3.net                                                                    
+   4.68.75.130     2914    30.92                          (Tokyo, 13, JP, AS) NTT-level3-Tokyo4.Level3.net                                                                        
+╭─ 129.250.5.90    2914    31.374                      (Tokyo, Tokyo, JP, AS) ae-10.r33.tokyjp05.jp.bb.gin.ntt.net                                                                
+S (2914)  asia-submarine-cable-express-asecahaya-malaysia 👍 || seamewe-3 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 129.250.5.242   2914    95.438              (Singapore, Singapore, SG, AS) ae-1.a03.sngpsi07.sg.bb.gin.ntt.net                                                                 
+╭─ 116.51.26.82    2914    83.045                   (Singapore, None, SG, AS) ae-0.emirates-du.sngpsi07.sg.bb.gin.ntt.net                                                         
+S (2914, 57187)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 94.206.39.74    57187   159.315                        (Dubai, DU, AE, AS) j48-1.dxa.dxb.ae.datamena.net                                                                       
+   94.207.43.2     57187   159.466                     (Dubai, Dubai, AE, AS) -094-207-043-002.datamena.net                                                                       

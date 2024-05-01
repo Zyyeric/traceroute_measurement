@@ -1,0 +1,12 @@
+   103.151.64.31   140627  0.0                     (Hagåtña, Hagatna, GU, OC) atlas.guam.as140627.net                                                                             
+╭─ 103.151.64.30   140627  0.237                 (Piti Village, Piti, GU, OC) oq-guam-cor01--atlas-probe.as140627.net                                                             
+S (140627)  japan-guam-australia-south-jga-s ✓ || pipe-pacific-cable-1-ppc-1 ✓ || australia-japan-cable-ajc ✓
+╰─ 103.151.64.7    140627  70.399                        (None, None, AU, OC) *                                                                                                   
+   218.100.52.11   13335   71.777                       (Sydney, 2, AU, None) as13335.nsw.ix.asn.au                                                                               
+   172.68.144.3    13335   71.521           (Sydney, New South Wales, AU, OC)                                                                                                     
+   172.68.144.72   13335   71.014           (Sydney, New South Wales, AU, OC)                                                                                                     
+   172.68.144.70   13335   71.104           (Sydney, New South Wales, AU, OC)                                                                                                     
+╭─ 172.68.144.119  13335   71.237           (Sydney, New South Wales, AU, OC)                                                                                                     
+S (13335, 141235)  seamewe-3 ✓ || indigo-west ✓ || australia-singapore-cable-asc ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 103.156.251.7   141235  226.667             (Singapore, Singapore, SG, AS)                                                                                                     

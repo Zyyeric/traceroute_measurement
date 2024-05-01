@@ -1,0 +1,21 @@
+   196.49.15.189   328998  0.0              (Kampala, Central Region, UG, AF)                                                                                                     
+   196.49.15.253   328998  0.395            (Kampala, Central Region, UG, AF)                                                                                                     
+   41.191.77.205   37063   0.848            (Kampala, Central Region, UG, AF)                                                                                                     
+   129.205.30.77   37063   0.88                          (Kampala, C, UG, AF) *                                                                                                   
+╭─ 212.88.110.33   20294   0.834 (2.487)       (Kampala, Central Region, UG, AF)                                                                                                     
+LHL (20294, 16637)  
+╰─ 41.181.247.38   16637   150.849                  (London, England, GB, EU)                                                                                                     
+╭─ 41.181.244.177  16637   151.039                  (London, England, GB, EU)                                                                                                     
+T (16637)  
+╰─ 41.181.190.150  16637   151.494                     (Pretoria, GP, ZA, AF) *                                                                                                   
+╭─ 41.181.189.64   16637   151.853                     (Pretoria, GP, ZA, AF) *                                                                                                   
+T (16637, 6939)  
+├─ 184.104.205.252 6939    151.863                  (London, England, GB, EU) e0-45.core1.lon3.he.net                                                                             
+S&T (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.105.223.254 6939    160.693                       (Paris, IDF, FR, EU) port-channel4.core2.par2.he.net                                                                     
+S&T (6939, 13041)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 193.242.98.38   13041   177.496                       (None, None, ES, EU) anella01.01.catnix.net                                                                              
+   84.88.18.254    13041   187.025             (Barcelona, Catalonia, ES, EU) anchor-anella.cesca.cat                                                                             

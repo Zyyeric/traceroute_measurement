@@ -1,0 +1,20 @@
+   185.249.157.253 34428   0.0                      (Palermo, Sicily, IT, EU)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   185.249.157.255 34428   0.566          (Parco degli Ulivi, Sicily, IT, EU)                                                                                                     
+╭─ 193.41.57.255   34428   23.717                   (Milan, Lombardy, IT, EU)                                                                                                     
+LHL (34428, 2603)  seamewe-4 ✓ || asia-africa-europe-1-aae-1 ✘ || seamewe-5 ✓ || imewe ✓ || seamewe-3 ✓
+├─ 193.239.116.53  2603    40.244                    (Amsterdam, 7, NL, None) nordunet.sara1.nl-ix.net                                                                            
+S&T (2603)  ulysses-2 ✘ || zeus ✓ || circe-north ✓ || scylla ✓ || concerto ✘ || farland-north ✘
+╰─ 109.105.102.97  2603    44.672                      (Hexton, None, GB, EU) uk-hex.nordu.net                                                                                    
+╭─ 109.105.102.98  2603    44.317                       (London, ENG, GB, EU) ndn-gw.mx1.lon.uk.geant.net                                                                         
+S&T (2603, 20965)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 62.40.98.222    20965   65.282                      (Bilbao, None, ES, EU) ae4.rt1.bil.es.geant.net                                                                            
+S&T (20965, 21320)  
+├─ 83.97.90.19     21320   56.033                   (London, England, GB, EU) rediris-ias-geant.bil.es.geant.net                                                                  
+S&T (21320, 766)  
+╰─ 130.206.245.22  766     60.625                        (None, None, ES, EU) ehu.rt2.ethtrunk3.unizar.rt2.ara.red.rediris.es                                                     
+   130.206.245.94  766     61.873                        (None, None, ES, EU) unizar.rt2.ae6-323.telmad.rt4.mad.red.rediris.es                                                    
+   130.206.214.98  13041   67.759                        (None, None, ES, EU) anella-router.red.rediris.es                                                                        
+   84.88.18.254    13041   67.358              (Barcelona, Catalonia, ES, EU) anchor-anella.cesca.cat                                                                             

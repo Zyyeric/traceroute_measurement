@@ -1,0 +1,16 @@
+   203.174.85.106  38001   0.0                 (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 203.174.85.105  38001   3.114               (Singapore, Singapore, SG, AS)                                                                                                     
+S (38001, 137409)  
+├  10.11.34.146    *       3.145                                          ***                                                                                                     
+├─ 27.111.229.213  137409  3.077                     (Seogwipo, None, KR, AS) 137409.sgw.equinix.com                                                                              
+S (137409, 7578)  
+╰─ 206.148.24.79   7578    3.303               (Singapore, Singapore, SG, AS) po4.sg-eqxsg3-cr2.globalsecurelayer.com                                                             
+╭─ 206.148.24.26   7578    3.607               (Singapore, Singapore, SG, AS) po1.sg-eqxsg3-bb1.globalsecurelayer.com                                                             
+S (7578)  
+╰─ 206.148.24.20   7578    49.64         (Belmont, Western Australia, AU, OC) e52.per-ndcp2-bb2.globalsecurelayer.com                                                             
+   206.148.24.8    7578    94.815           (Sydney, New South Wales, AU, OC) e2.syd-eqxsy5-bb1.globalsecurelayer.com                                                             
+   206.148.24.115  7578    94.929           (Sydney, New South Wales, AU, OC) po7.syd-eqxsy5-bb1.globalsecurelayer.com                                                            
+   206.148.24.113  7578    95.103           (Sydney, New South Wales, AU, OC)                                                                                                     
+   206.148.24.117  7578    94.527           (Sydney, New South Wales, AU, OC)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   202.165.66.5    137409  95.205           (Sydney, New South Wales, AU, OC)                                                                                                     

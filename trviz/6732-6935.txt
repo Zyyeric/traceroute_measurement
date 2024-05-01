@@ -1,0 +1,20 @@
+   102.130.49.144  328383  0.0                (Johannesburg, Gauteng, ZA, AF) za-jnb-as57695.anchors.atlas.ripe.net                                                               
+   ***             *       -inf                                           *** *                                                                                                   
+   102.130.49.3    328383  0.287              (Johannesburg, Gauteng, ZA, AF) spine2.v271.jnb01.za.misaka.io                                                                      
+╭─ 102.130.51.2    *       0.225              (Johannesburg, Gauteng, ZA, AF) e54-1-10.cr1a.tdjb1.jnb1.za.917.as                                                                  
+LHL (, 60068)  africa-coast-to-europe-ace ✘
+├─ 37.19.193.190   60068   0.402                     (Prague, Prague, CZ, EU) p77-3502.cr1a.tdjb1.jnb1.za.917.as                                                                  
+LHL (60068, 37468)  
+├─ 102.130.70.57   37468   0.45               (Johannesburg, Gauteng, ZA, AF)                                                                                                     
+S&T (37468)  africa-coast-to-europe-ace ✓
+├─ 102.130.68.112  37468   16.05                         (None, None, AO, AF) *                                                                                                   
+S (37468)  west-africa-cable-system-wacs 👍 || sat-3wasc ✓
+╰─ 102.130.68.69   37468   127.565                   (Lisbon, Lisbon, PT, EU)                                                                                                     
+╭─ 193.136.250.35  766     220.505                     (Lisbon, 14, PT, None) REDIRIS.AS766.gigapix.pt                                                                            
+S&T (766)  
+╰─ 130.206.245.125 766     220.44                        (None, None, ES, EU) cica.rt2.ethtrunk4.telmad.rt1.mad.red.rediris.es                                                    
+   130.206.216.2   766     220.496                       (None, None, ES, EU) redimadrid-backup-router.red.rediris.es                                                             
+   193.145.15.50   766     220.573                       (None, None, ES, EU) uc3m-rt-ju-01-xe-0-1-0.net.redimadrid.es                                                            
+   ***             *       -inf                                           *** *                                                                                                   
+   163.117.49.4    766     221.167                       (Madrid, MD, ES, EU) b01014zr.uc3m.es                                                                                    
+   163.117.253.5   766     221.339                   (Madrid, Madrid, ES, EU)                                                                                                     

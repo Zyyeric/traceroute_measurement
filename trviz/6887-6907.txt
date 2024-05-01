@@ -1,0 +1,16 @@
+   103.153.176.122 131657  0.0                       (Taipei, Taiwan, TW, AS) 103-153-176-122.as131657.net                                                                        
+   103.153.176.254 131657  0.285                     (Taipei, Taiwan, TW, AS) 103-153-176-254.as131657.net                                                                        
+   103.51.91.5     *       0.579                     (Taipei, Taiwan, TW, AS) et-0-0-1.cr1.hd.tpe.as131657.net                                                                    
+╭─ 103.158.187.30  *       0.705                     (Taipei, Taiwan, TW, AS) as6939.ly.stuix.io                                                                                  
+S (, 6939)  seamewe-3 ✘ || apcn-2 ✘ || trans-pacific-express-tpe-cable-system ✘ || eac-c2c ✘ || faster ✘ || asia-pacific-gateway-apg ✘ || flag-north-asia-loopreach-north-asia-loop ✘ || new-cross-pacific-ncp-cable-system ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 65.49.108.91    6939    30.353                      (Tokyo, Tokyo, JP, AS)                                                                                                     
+S (6939, 4775)  seamewe-3 ✓ || apcn-2 ✓ || eac-c2c ✓ || southeast-asia-japan-cable-sjc ✓
+╰─ 112.198.1.109   4775    182.466        (Makati City, Metro Manila, PH, AS)                                                                                                     
+   203.177.209.217 4775    194.663           (Baugo, Central Visayas, PH, AS)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   192.168.159.169 *       195.585                                        ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   27.111.84.21    135132  102.584       (Cebu City, Central Visayas, PH, AS) ph-ceb-as135132.anchors.atlas.ripe.net                                                              

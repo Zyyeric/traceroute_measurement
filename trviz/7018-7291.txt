@@ -1,0 +1,12 @@
+   103.133.238.187 132808  0.0                 (Brisbane, Queensland, AU, OC) iptelco.com.au                                                                                      
+   103.133.238.130 132808  0.365               (Brisbane, Queensland, AU, OC) vmnet-hsrp66.bdr01-bne-br1.iptelco.net.au                                                           
+   103.133.238.14  132808  28.932              (Brisbane, Queensland, AU, OC) te0-0-0-402.bdr01-bne-br1.iptelco.net.au                                                            
+   103.26.70.97    *       0.885               (Brisbane, Queensland, AU, OC) as4826.brisbane.megaport.com                                                                        
+   103.1.77.184    9627    12.372                        (None, None, AU, OC) be203.lsr01.crek.qld.vocus.network                                                                  
+   103.1.76.139    4826    12.651                        (None, None, AU, OC) be801.lsr01.dody.nsw.vocus.network                                                                  
+   ***             *       -inf                                           *** *                                                                                                   
+   114.31.192.49   4826    12.893                       (Sydney, NSW, AU, OC) be101.bdr01.syd01.nsw.vocus.network                                                                 
+╭─ 123.103.197.26  4826    34.48            (Sydney, New South Wales, AU, OC) ip-26.197.103.123.vocus.net.au                                                                      
+S (4826, 45345)  
+╰─ 202.87.128.198  45345   34.098                         (Noumea, S, NC, OC) *                                                                                                   
+   103.2.186.195   45345   34.442            (Nouméa, South Province, NC, OC) nc-nou-as45345.anchors.atlas.ripe.net                                                               

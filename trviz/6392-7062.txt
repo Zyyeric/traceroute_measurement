@@ -1,0 +1,34 @@
+   196.40.111.147  37153   0.0              (Cape Town, Western Cape, ZA, AF) atlas-anchor-cpt3.cpt.net.host-h.net                                                                
+   196.40.111.145  37153   0.468 (20.025)       (Cape Town, Western Cape, ZA, AF)                                                                                                     
+   41.204.206.37   37153   0.37             (Cape Town, Western Cape, ZA, AF) core-router1.cpt2.host-h.net                                                                        
+   41.66.133.1     37179   0.536            (Cape Town, Western Cape, ZA, AF) 41-66-133-1-2.customer-xe-0-0-2-wc-ro-het-mee-1.africainx.net                                       
+   41.84.12.29     37179   0.887            (Cape Town, Western Cape, ZA, AF) core.100g-0-8-0-wc-ro-ter-pbr-1.za.africainx.net                                                    
+   105.22.72.213   37100   0.79             (Cape Town, Western Cape, ZA, AF)                                                                                                     
+╭─ 105.16.31.1     37100   152.493                    (Cape Town, WC, ZA, AF) ce-0-3-0-0.cr-01-cpt.za.seacomnet.com                                                               
+T (37100)  
+├─ 105.16.15.86    37100   152.595                  (London, England, GB, EU) ce-0-0-17.cr-01-lhr.uk.seacomnet.com                                                                
+S&T (37100)  
+╰─ 105.16.13.125   37100   154.512                    (Amsterdam, NH, NL, EU) ce-3-0-5.er-01-ams.nl.seacomnet.com                                                                 
+   105.16.9.90     174     154.119                    (Amsterdam, NH, NL, EU) ae-2-0.br-01-ams.nl.seacomnet.com                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 154.54.61.41    174     154.966                    (Amsterdam, NH, NL, EU) be2175.ccr42.ams03.atlas.cogentco.com                                                               
+T (174)  
+├─ 154.54.56.174   174     259.731                       (Paris, IDF, FR, EU) be12266.ccr42.par01.atlas.cogentco.com                                                              
+S (174)  
+╰─ 154.54.89.225   174     259.478                (Ashburn, Virginia, US, NA) be3111.ccr42.dca01.atlas.cogentco.com                                                               
+   154.54.24.222   174     259.233                      (Atlanta, GA, US, NA) be2113.ccr42.atl01.atlas.cogentco.com                                                               
+   154.54.27.18    174     258.352                 (Indianapolis, IN, US, NA) be3365.rcr21.ind01.atlas.cogentco.com                                                               
+   154.54.46.162   174     258.925                      (Chicago, IL, US, NA) be3181.ccr42.ord01.atlas.cogentco.com                                                               
+   154.54.44.169   174     271.115                  (Kansas City, MO, US, NA) be2832.ccr22.mci01.atlas.cogentco.com                                                               
+   154.54.31.89    174     282.354                       (Denver, CO, US, NA) be3036.ccr22.den01.atlas.cogentco.com                                                               
+   154.54.87.29    174     293.398                   (El Paso, Texas, US, NA) be2668.ccr22.elp02.atlas.cogentco.com                                                               
+   154.54.26.53    174     301.603                 (Phoenix, Arizona, US, NA) be3872.ccr32.phx01.atlas.cogentco.com                                                               
+   154.54.45.162   174     312.078                  (Los Angeles, CA, US, NA) be2932.ccr42.lax01.atlas.cogentco.com                                                               
+╭─ 154.54.25.150   174     314.924                  (Los Angeles, CA, US, NA) be3360.ccr41.lax04.atlas.cogentco.com                                                               
+LHL (174)  
+╰─ 38.140.129.26   174     414.394                   (Muscat, Muscat, OM, AS)                                                                                                     
+   213.202.6.221   8529    430.28                    (Muscat, Muscat, OM, AS)                                                                                                     
+╭─ 134.0.217.213   8529    423.309                       (Muscat, MA, OM, AS) *                                                                                                   
+S&T (8529, 42473)  
+╰─ 213.202.2.1     42473   421.574                        (Dubai, DU, AE, AS) i1.2.202.213omantel.net.om                                                                          
+   37.252.245.94   42473   416.305                     (Dubai, Dubai, AE, AS)                                                                                                     

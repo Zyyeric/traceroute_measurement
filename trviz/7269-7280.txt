@@ -1,0 +1,23 @@
+   185.14.96.232   211186  0.0                (Lamía, Central Greece, GR, EU)                                                                                                     
+   185.14.96.225   211186  0.599              (Lamía, Central Greece, GR, EU) vlan4090.lamia.fast.net.gr                                                                          
+   212.205.28.249  6799    0.64               (Lamía, Central Greece, GR, EU) 249.28.205.212.static.otenet.gr                                                                     
+   79.128.234.128  6799    3.695                    (Maroúsi, Attica, GR, EU)                                                                                                     
+   62.75.3.17      12713   2.928 (4.981)        (Néa Chalkidóna, Attica, GR, EU) kolasr02-hu-0-8-0-0.ath.oteglobe.gr                                                                 
+╭─ 62.75.27.18     *       37.022                    (Athens, Attica, GR, EU)                                                                                                     
+S (, 1273)  
+╰─ 217.161.88.205  1273    36.217                        (None, None, GB, EU) *                                                                                                   
+╭─ 195.2.27.225    1273    36.57                         (None, None, GB, EU) ae3-pcr1.fis.cw.net                                                                                 
+T (1273, 6453)  
+╰─ 195.219.223.2   6453    47.237             (Frankfurt am Main, HE, DE, EU) *                                                                                                   
+╭─ 80.231.65.20    6453    58.449             (Frankfurt am Main, HE, DE, EU) if-ae-25-2.tcore2.fr0-frankfurt.as6453.net                                                          
+T (6453)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 195.219.194.149 6453    58.55                      (Amsterdam, NH, NL, EU) if-ae-6-2.tcore1.av2-amsterdam.as6453.net                                                           
+╭─ 195.219.194.6   6453    58.405                     (Amsterdam, NH, NL, EU) if-ae-2-2.tcore2.av2-amsterdam.as6453.net                                                           
+S&T (6453)  
+├─ 80.231.131.160  6453    58.489                      (London, None, GB, EU) if-ae-14-2.tcore2.l78-london.as6453.net                                                             
+S (6453)  
+╰─ 80.231.131.66   6453    178.7                         (Mumbai, MH, IN, AS) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   121.241.90.58   45117   198.386                    (Ahmedabad, GJ, IN, AS) 121.241.90.58.static-ahmedabad.vsnl.net.in                                                          
+   116.206.155.229 45117   185.947               (Ahmedabad, Gujarat, IN, AS)                                                                                                     

@@ -1,0 +1,12 @@
+   94.77.252.90    47794   0.0                (Riyadh, Riyadh Region, SA, AS) 94-77-252-90.static.go.com.sa                                                                       
+   94.77.252.89    47794   0.465              (Riyadh, Riyadh Region, SA, AS) 94-77-252-89.static.go.com.sa                                                                       
+   94.77.210.129   47794   0.621              (Riyadh, Riyadh Region, SA, AS) 94-77-210-129.static.go.com.sa                                                                      
+╭─ 94.77.210.98    47794   11.926             (Riyadh, Riyadh Region, SA, AS) 94-77-210-98.static.go.com.sa                                                                       
+S (47794, 6939)  seamewe-5 ✓ || asia-africa-europe-1-aae-1 ✓ || seamewe-4 ✓ || peace-cable ✘ || imewe ✓
+╰─ 184.105.80.133  6939    78.49                     (Marseille, PAC, FR, EU) 100ge15-2.core1.mrs1.he.net                                                                         
+╭─ 184.104.198.57  6939    80.733                        (Paris, IDF, FR, EU) port-channel2.core2.par2.he.net                                                                     
+S&T (6939)  
+╰─ 184.104.194.110 6939    84.373                     (Brussels, BRU, BE, EU) 100ge0-34.core2.bru1.he.net                                                                         
+   80.67.181.2     204059  86.961                     (Brussels, BRU, BE, EU) edge-02.louise.neutri.net                                                                           
+   80.67.181.18    204059  87.345        (Brussels, Brussels Capital, BE, EU) core-01.louise.neutri.net                                                                           
+   80.67.181.29    204059  87.627        (Brussels, Brussels Capital, BE, EU) be-bru-as204059.anchors.atlas.ripe.net                                                              

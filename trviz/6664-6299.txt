@@ -1,0 +1,27 @@
+   197.239.73.59   37577   0.0                  (Ouagadougou, Centre, BF, AF)                                                                                                     
+   197.239.73.57   37577   6.266                (Ouagadougou, Centre, BF, AF)                                                                                                     
+   165.16.221.42   37721   1.947                         (None, None, BF, AF) *                                                                                                   
+   165.16.221.41   37721   2.633                         (None, None, BF, AF) *                                                                                                   
+   102.67.97.181   37721   4.144                (Ouagadougou, Centre, BF, AF) ce5-355.bb2.oua2.vts.bf                                                                             
+   102.67.96.39    37721   4.838                (Ouagadougou, Centre, BF, AF)                                                                                                     
+   102.67.96.224   37721   19.325               (Ouagadougou, Centre, BF, AF) po48-2048.bb2.acc1.vts.bf                                                                           
+╭─ 102.67.97.101   37721   29.064               (Ouagadougou, Centre, BF, AF) po52-2053.bb2.los1.vts.bf                                                                           
+LHL (37721)  sat-3wasc ✓ || west-africa-cable-system-wacs ✓ || africa-coast-to-europe-ace ✓ || mainone ✘
+╰─ 102.67.97.242   37721   29.099                         (Lagos, LA, NG, AF) xe-0-0-4-724.br2.los1.vts.bf                                                                        
+╭─ 216.66.89.4     6939    30.063                      (Lagos, Lagos, NG, AF) e0-7.core1.los1.he.net                                                                              
+S&T (6939)  west-africa-cable-system-wacs ✓ || sat-3wasc ✓ || africa-coast-to-europe-ace ✓
+├─ 184.104.188.93  6939    83.628           (Cape Town, Western Cape, ZA, AF) 10ge0-24.core1.cpt1.he.net                                                                          
+S&T (6939)  west-africa-cable-system-wacs ✓ || africa-coast-to-europe-ace ✓ || sat-3wasc ✓
+├─ 184.104.188.209 6939    209.865                   (Lisbon, Lisbon, PT, EU) 100ge0-79.core1.lis1.he.net                                                                         
+S&T (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.105.64.4    6939    223.688                  (Poplar, England, GB, EU) port-channel18.core3.lon2.he.net                                                                    
+S&T (6939)  
+╰─ 72.52.92.214    6939    229.848                    (Amsterdam, NH, NL, EU) port-channel12.core2.ams1.he.net                                                                    
+╭─ 80.249.209.46   8551    186.945                     (Schiphol, NH, NL, EU) *                                                                                                   
+LHL (8551)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 212.179.124.186 8551    232.405                     (Tel Aviv, TA, IL, AS) bzq-179-124-186.cust.bezeqint.net                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   146.185.219.73  202422  241.625    (Petaẖ Tiqva, Central District, IL, AS)                                                                                                     

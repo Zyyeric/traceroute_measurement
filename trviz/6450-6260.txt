@@ -1,0 +1,24 @@
+   185.39.208.23   199993  0.0                       (Lisbon, Lisbon, PT, EU) atlasancora01.wan.dns.pt                                                                            
+   185.39.208.60   199993  0.371                     (Lisbon, Lisbon, PT, EU)                                                                                                     
+   194.210.4.137   1930    0.812                     (Lisbon, Lisbon, PT, EU) router63.lisboa.fccn.pt                                                                             
+   194.210.6.212   1930    0.778                     (Lisbon, Lisbon, PT, EU)                                                                                                     
+   194.210.6.203   1930    0.995                     (Lisbon, Lisbon, PT, EU)                                                                                                     
+   194.210.6.202   1930    6.742                         (Lisbon, 11, PT, EU) Router60.Lisboa.fccn.pt                                                                             
+   193.136.1.11    1930    4.456                       (Porto, Porto, PT, EU) router40.porto.fccn.pt                                                                              
+   194.210.7.203   1930    4.951                          (Porto, 13, PT, EU) Router2.Porto.fccn.pt                                                                               
+╭─ 83.97.88.44     21320   4.344                     (Lisbon, Lisbon, PT, EU) fccn-ias-geant-gw.rt1.por.pt.geant.net                                                              
+S&T (21320, 20965)  west-africa-cable-system-wacs ✓ || africa-coast-to-europe-ace ✓ || tata-tgn-western-europe ✘ || sat-3wasc ✓ || seamewe-3 ✓
+├─ 62.40.98.220    20965   43.096                      (Bilbao, None, ES, EU) ae2.rt1.bil.es.geant.net                                                                            
+S&T (20965)  
+├─ 62.40.98.223    20965   42.99                         (Paris, IDF, FR, EU) ae4.mx1.par.fr.geant.net                                                                            
+T (20965)  
+╰─ 62.40.98.238    20965   45.134                    (Genève, Geneva, CH, EU) ae7.mx1.gen.ch.geant.net                                                                            
+╭─ 62.40.98.182    20965   44.869                      (Geneva, None, CH, EU) ae5.mx1.gen.ch.geant.net                                                                            
+T (20965, 3356)  
+├─ 62.67.72.69     3356    44.748          (Frankfurt am Main, Hesse, DE, EU) lag-117.ear4.frankfurt1.level3.net                                                                  
+T (3356)  
+├─ 171.75.9.102    3356    67.693                   (London, England, GB, EU) ae1.12.bear1.xit2.neo.colt.net                                                                      
+S&T (3356, 35574)  
+╰─ 212.133.7.66    35574   67.779                          (Rome, 62, IT, EU) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   194.187.172.112 35574   65.802                       (Rome, Lazio, IT, EU)                                                                                                     

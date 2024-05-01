@@ -1,0 +1,14 @@
+   182.161.74.241  55569   0.0                         (Tokyo, Tokyo, JP, AS)                                                                                                     
+   182.161.74.240  55569   0.184                     (Urayasu, Tokyo, JP, AS)                                                                                                     
+   100.66.0.44     *       0.277                                          ***                                                                                                     
+   100.66.0.45     *       0.288                                          ***                                                                                                     
+   61.200.91.85    2914    0.948                       (Tokyo, Tokyo, JP, AS) ce-2-2-2.a01.tokyjp09.jp.bb.gin.ntt.net                                                             
+╭─ 129.250.5.90    2914    2.686                       (Tokyo, Tokyo, JP, AS) ae-10.r33.tokyjp05.jp.bb.gin.ntt.net                                                                
+S (2914)  asia-pacific-gateway-apg 👍 || eac-c2c ©
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 129.250.5.242   2914    67.693              (Singapore, Singapore, SG, AS) ae-1.a03.sngpsi07.sg.bb.gin.ntt.net                                                                 
+╭─ 116.51.26.82    2914    70.627                   (Singapore, None, SG, AS) ae-0.emirates-du.sngpsi07.sg.bb.gin.ntt.net                                                         
+S (2914, 57187)  seamewe-5 ✓ || seamewe-3 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 94.206.39.74    57187   150.862                        (Dubai, DU, AE, AS) j48-1.dxa.dxb.ae.datamena.net                                                                       
+   94.207.43.2     57187   150.848                     (Dubai, Dubai, AE, AS) -094-207-043-002.datamena.net                                                                       

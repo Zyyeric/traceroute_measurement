@@ -1,0 +1,16 @@
+   37.143.141.141  196745  0.0                       (Poole, England, GB, EU) atlas.datacenta.net                                                                                 
+   ***             *       -inf                                           *** *                                                                                                   
+   37.143.136.253  196745  0.981               (Bournemouth, England, GB, EU)                                                                                                     
+   193.251.248.53  5511    5.031                    (London, England, GB, EU)                                                                                                     
+╭─ 193.251.129.79  5511    5.177                       (London, None, GB, EU) *                                                                                                   
+S&T (5511, 13335)  
+├─ 193.251.150.108 13335   5.305                         (None, None, FR, EU) cloudflare-13.gw.opentransit.net                                                                    
+S&T (13335)  
+╰─ 141.101.71.61   13335   5.79                     (Poplar, England, GB, EU)                                                                                                     
+   172.70.160.123  13335   5.175                    (London, England, GB, EU)                                                                                                     
+   172.70.160.89   13335   5.314                    (London, England, GB, EU)                                                                                                     
+╭─ 172.70.160.54   13335   5.295                    (London, England, GB, EU)                                                                                                     
+S (13335, 133800)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 103.77.105.3    133800  194.806                 (Jakarta, Jakarta, ID, AS) ip-3-105-77-103.jkt-1.biznetg.io                                                                    

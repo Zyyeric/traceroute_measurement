@@ -1,0 +1,22 @@
+   146.185.219.73  202422  0.0        (Petaẖ Tiqva, Central District, IL, AS)                                                                                                     
+   146.185.219.3   202422  0.508                 (Tel Aviv, Tel Aviv, IL, AS) vrrp.gcore.lu                                                                                       
+   10.255.29.242   *       0.416                                          ***                                                                                                     
+╭─ 192.115.73.153  12400   9.777                       (Tel Aviv, TA, IL, AS) *                                                                                                   
+LHL (12400)  mednautilus-submarine-system ✓ || jonah ✘ || lev-submarine-system ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 82.102.129.236  12400   53.25           (Frankfurt am Main, Hesse, DE, EU)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 105.16.9.21     37100   221.359            (Frankfurt am Main, HE, DE, EU) ae-5-0.er-01-fra.de.seacomnet.com                                                                   
+T (37100)  
+├─ 105.16.12.157   37100   221.04                    (Marseille, PAC, FR, EU) xe-0-0-30-0.cr-01-mrs.fr.seacomnet.com                                                              
+S (37100)  
+├─ 105.16.9.201    37100   220.437                     (Mombasa, 300, KE, AF) xe-0-0-0-1.cr-02-mba.ke.seacomnet.com                                                               
+S (37100)  
+╰─ 105.25.160.174  37100   219.816            (Johannesburg, Gauteng, ZA, AF) ce-0-1-9.cr-01-jnb.za.seacomnet.com                                                                 
+   105.16.28.9     37100   217.959                 (Johannesburg, GT, ZA, AF) ce-0-0-2.er-01-jnb.za.seacomnet.com                                                                 
+╭─ 105.22.34.174   37100   230.094            (Johannesburg, Gauteng, ZA, AF) ce-0-1-5-91.customer-gw-rogers-capital.er-01-jnb.za.seacomnet.com                                   
+S (37100, 36868)  
+╰─ 196.46.34.108   36868   273.169                       (None, None, MU, AF) *                                                                                                   
+   196.46.49.34    36868   264.422   (Quatre Bornes, Plaines Wilhems, MU, AF)                                                                                                     
+   102.222.106.178 328699  273.109           (Port Louis, Port Louis, MU, AF)                                                                                                     

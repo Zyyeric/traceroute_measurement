@@ -1,0 +1,13 @@
+   203.119.111.139 4608    0.0                 (Brisbane, Queensland, AU, OC) anchor.apnic.net                                                                                    
+   203.119.111.130 4608    0.781               (Brisbane, Queensland, AU, OC) vl-1705.nxcs1.hosted.au.apnic.net                                                                   
+   203.119.104.25  4608    0.601                      (Brisbane, QLD, AU, OC) te-0-1-4.nxgw2.bne.apnic.net                                                                        
+   203.119.104.81  4608    0.479                   (Hope Island, QLD, AU, OC) po-11-921.nxgw1.bne.apnic.net                                                                       
+   184.104.197.182 6939    14.318                     (Brisbane, QLD, AU, OC) port-channel1.core1.bne1.he.net                                                                     
+╭─ 64.71.180.153   6939    16.665                       (Sydney, NSW, AU, OC) e0-9.core2.syd1.he.net                                                                              
+S (6939)  hawaiki ✘ || southern-cross-cable-network-sccn ✓ || telstra-endeavour ✓
+├─ 72.52.92.113    6939    107.761                     (New York, NY, US, NA) 100ge11-2.core1.nyc4.he.net                                                                         
+S (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.223.133 6939    162.117             (Singapore, Singapore, SG, AS) port-channel22.core2.sin1.he.net                                                                    
+   65.49.108.46    131111  106.114                     (Singapore, 4, SG, AS) moratel-international-pte-ltd.10gigabitethernet3-13.core1.sin1.he.net                               
+   103.116.125.2   23947   105.594             (Singapore, Singapore, SG, AS)                                                                                                     

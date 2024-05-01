@@ -1,0 +1,25 @@
+   116.206.155.229 45117   0.0                   (Ahmedabad, Gujarat, IN, AS)                                                                                                     
+   116.206.155.225 45117   0.989                 (Ahmedabad, Gujarat, IN, AS)                                                                                                     
+   121.241.90.57   4755    1.056                 (Ahmedabad, Gujarat, IN, AS) 121.241.90.57.static-ahmedabad.vsnl.net.in                                                          
+   172.28.176.253  *       9.597                                          ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 180.87.38.2     6453    138.801                       (Mumbai, MH, IN, AS) if-ae-2-2.tcore2.mlv-mumbai.as6453.net                                                              
+S (6453)  
+╰─ 180.87.39.21    6453    135.147                  (London, England, GB, EU) if-ae-12-2.tcore1.l78-london.as6453.net                                                             
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 80.231.62.57    6453    137.11                      (London, None, GB, EU) if-ae-26-2.tcore2.ldn-london.as6453.net                                                             
+S&T (6453, 30844)  
+├─ 80.231.20.62    30844   138.193                   (Turnhout, None, BE, EU) *                                                                                                   
+S&T (30844)  
+╰─ 5.11.10.179     30844   137.87                   (London, England, GB, EU) be-6.luk-pe1-tcy.liquidtelecom.net                                                                  
+   5.11.14.60      30844   297.382                  (London, England, GB, EU) network.sate-vsat8-kin.liquidtelecom.com                                                            
+   5.11.12.28      30844   139.604                       (None, None, GB, EU) NETWORK.LTZ-VSAT293-NYA.liquidtelecom.com                                                           
+╭─ 5.11.12.142     30844   138.392                  (London, England, GB, EU) hu-0-0-0-8.luk-p1-gsw.liquidtelecom.net                                                             
+S&T (30844)  
+╰─ 5.11.12.127     30844   152.903   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) hu-0-0-0-0.lfr-p1-mrs.liquidtelecom.net                                                             
+╭─ 5.11.12.235     30844   292.625                  (Marseille, None, FR, EU) xe-0-1-3-2.lfr-pe2-mrs.liquidtelecom.net                                                            
+S (30844)  
+╰─ 197.155.94.74   30844   306.279                      (Nairobi, 30, KE, AF) hu-0-4-0-3.lke-p1-msa.liquidtelecom.net                                                             
+   197.155.94.51   30844   308.625                    (Nairobi, None, KE, AF) xe-0-1-0-1.lke-pe3-nbi.liquidtelecom.net                                                            
+   197.155.93.65   37578   304.236                      (Nairobi, 30, KE, AF) 197.155.93.65.liquidtelecom.net                                                                     
+   196.6.220.42    37578   309.313          (Nairobi, Nairobi County, KE, AF)                                                                                                     

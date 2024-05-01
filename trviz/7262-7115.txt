@@ -1,0 +1,18 @@
+   123.176.1.4     7642    0.0                    (Male, Kaafu Atoll, MV, AS)                                                                                                     
+╭─ 123.176.1.2     7642    0.502                  (Male, Kaafu Atoll, MV, AS)                                                                                                     
+S (7642)  
+╰─ 202.1.205.241   7642    0.773                       (Singapore, 4, SG, AS) xe-1-0-0-0.rt.dhivehinet.net.mv                                                                     
+   203.208.148.161 7473    82.665              (Singapore, Singapore, SG, AS)                                                                                                     
+   203.208.154.173 7473    212.223                       (None, None, SG, AS) *                                                                                                   
+   203.208.183.130 7473    80.506                        (None, None, SG, AS) *                                                                                                   
+   210.57.53.90    4637    47.081              (Singapore, Singapore, SG, AS) unknown.telstraglobal.net                                                                           
+   202.84.224.198  4637    91.882              (Singapore, Singapore, SG, AS) i-91.sgcn-core01.telstraglobal.net                                                                  
+╭─ 202.84.224.198  4637    91.882              (Singapore, Singapore, SG, AS) i-91.sgcn-core01.telstraglobal.net                                                                  
+S (4637)  
+├─ 202.84.141.238  4637    93.765    (Hong Kong, Central and Western, HK, AS) i-25451.pthw-core02.telstraglobal.net                                                               
+S (4637, 1221)  
+╰─ 203.50.9.5      1221    251.954                        (Perth, WA, AU, OC) bundle-ether5.wel-core10.perth.telstra.net                                                          
+   203.50.6.175    1221    246.828                        (Perth, WA, AU, OC) bundle-ether1.wel-edge903.perth.telstra.net                                                         
+   138.217.126.74  1221    250.651         (Perth, Western Australia, AU, OC) tel4198808.lnk.telstra.net                                                                          
+   ***             *       -inf                                           *** *                                                                                                   
+   203.41.0.254    1221    250.93          (Perth, Western Australia, AU, OC) atlas-per.telstra.net                                                                               

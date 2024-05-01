@@ -1,0 +1,14 @@
+   63.222.40.114   3491    0.0                       (Taipei, Taiwan, TW, AS) ncic.te0-1-0-23.br01.tap04.as3491.net                                                               
+╭─ 63.222.40.113   3491    0.78                       (Neihu, Taiwan, TW, AS) te0-1-0-23.br01.tap04.as3491.net                                                                    
+S (3491)  seamewe-3 👍 || eac-c2c ✓ || apcn-2 👍 || flag-north-asia-loopreach-north-asia-loop 👍 || asia-pacific-gateway-apg ✓
+╰─ 63.218.210.74   3491    80.243                   (Hong Kong, None, HK, AS) Bundle-Ether48.br02.hkg15.pccwbtn.net                                                               
+╭─ 63.218.2.190    4775    79.919                   (Hong Kong, None, HK, AS) *                                                                                                   
+S (4775, 135132)  tata-tgn-intra-asia-tgn-ia ✓ || asia-america-gateway-aag-cable-system ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 203.177.209.218 135132  113.395              (Lapu-Lapu City, CEB, PH, AS) vlan5.vsrx.ceb02.ds.network                                                                         
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   27.111.84.21    135132  114.902       (Cebu City, Central Visayas, PH, AS) ph-ceb-as135132.anchors.atlas.ripe.net                                                              

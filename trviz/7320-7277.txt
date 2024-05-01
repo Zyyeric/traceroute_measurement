@@ -1,0 +1,18 @@
+   117.250.113.140 9829    0.0                      (Guwahati, Assam, IN, AS) static.ill.117.250.113.140.bsnl.co.in                                                               
+   117.250.113.138 9829    0.658              (North Guwāhāti, Assam, IN, AS) static.ill.117.250.113.138.bsnl.co.in                                                               
+   117.216.207.122 9829    42.073                       (Chennai, TN, IN, AS) *                                                                                                   
+   49.44.187.216   55836   44.701               (Chennai, Tamil Nadu, IN, AS)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 103.198.140.176 64049   57.488               (Airoli, Maharashtra, IN, AS)                                                                                                     
+S&T (64049)  seamewe-3 ✓ || seamewe-4 ✓ || i2i-cable-network-i2icn ✓ || tata-tgn-tata-indicom ✘
+├─ 103.198.140.29  64049   153.538                       (None, None, SG, AS) *                                                                                                   
+LHL (64049, 25091)  seamewe-4 ✓ || seamewe-3 ✓ || seamewe-5 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 46.20.254.2     25091   295.723                   (Genève, Geneva, CH, EU) te0-0-1-0.er01.lyo02.fr.ip-max.net                                                                  
+T (25091)  
+├─ 46.20.254.114   25091   302.048                       (Paris, IDF, FR, EU) te0-0-2-2.er01.par02.ip-max.net                                                                     
+T (25091)  
+├─ 46.20.240.143   25091   200.763                   (Genève, Geneva, CH, EU) abaclouda.cust.lyo01.fr.ip-max.net                                                                  
+T (25091, 56987)  
+╰─ 5.180.58.66     56987   201.112       (Lyon, Auvergne-Rhône-Alpes, FR, EU) 01-xe.lns01.lyn.abaclouda.net                                                                       
+   5.180.57.81     56987   201.916       (Lyon, Auvergne-Rhône-Alpes, FR, EU) fr-lio-as56987.anchors.atlas.ripe.net                                                               

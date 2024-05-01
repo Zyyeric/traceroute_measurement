@@ -1,0 +1,27 @@
+   172.17.48.40    *       0.0                                            ***                                                                                                     
+   172.17.48.254   *       0.703                                          ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   172.22.6.7      *       1.164                                          ***                                                                                                     
+   192.168.217.217 *       0.934                                          ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   192.168.80.21   *       3.937                                          ***                                                                                                     
+   192.168.0.61    *       3.531                                          ***                                                                                                     
+   10.201.176.229  *       4.327                                          ***                                                                                                     
+   10.21.212.10    *       5.178                                          ***                                                                                                     
+╭─ 85.132.90.169   29049   13.287             (Rasht, Gilan Province, IR, AS)                                                                                                     
+LHL (29049, 6939)  falcon ✘ ↠ seamewe-5 ✓ || falcon ✘ ↠ seamewe-4 ✓ || falcon ✘ ↠ asia-africa-europe-1-aae-1 ✓ || falcon ✘ ↠ peace-cable ✘ || falcon ✘ ↠ imewe ✓ || falcon ✘ ↠ seamewe-3 ✓
+├  10.50.10.182    *       65.253                                         ***                                                                                                     
+├─ 184.105.65.125  6939    91.175                     (Amsterdam, NH, NL, EU) 100ge0-42.core2.ams1.he.net                                                                         
+S (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 72.52.92.70     6939    90.035                      (San Jose, CA, US, NA) 10ge7-5.core1.sjc2.he.net                                                                           
+LHL (6939)  
+├─ 184.105.64.218  6939    107.744                   (Zagreb, Zagreb, HR, EU) 100ge0-38.core3.zag1.he.net                                                                         
+LHL (6939)  
+├─ 184.105.65.134  6939    117.48                         (Sofia, 23, BG, EU) 100ge10-1.core1.sof1.he.net                                                                         
+T (6939)  
+╰─ 184.105.64.170  6939    127.737                       (Athens, A1, GR, EU) 100ge0-36.core1.ath1.he.net                                                                         
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   185.14.96.225   211186  133.79             (Lamía, Central Greece, GR, EU) vlan4090.lamia.fast.net.gr                                                                          
+   185.14.96.232   211186  131.768            (Lamía, Central Greece, GR, EU)                                                                                                     

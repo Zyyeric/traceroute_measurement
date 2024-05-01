@@ -1,0 +1,25 @@
+   103.2.186.195   45345   0.0               (Nouméa, South Province, NC, OC) nc-nou-as45345.anchors.atlas.ripe.net                                                               
+   103.2.186.221   45345   0.899             (Nouméa, South Province, NC, OC) gw-ipv4-hosting-1010-mx204-f10.as45345.net                                                          
+   202.87.128.198  45345   0.867                          (Noumea, S, NC, OC) *                                                                                                   
+╭─ 202.87.128.197  18200   1.46              (Nouméa, South Province, NC, OC)                                                                                                     
+S (18200, 4826)  gondwana-1 👍
+╰─ 123.103.197.21  4826    22.935           (Sydney, New South Wales, AU, OC) ip-21.197.103.123.vocus.net.au                                                                      
+   123.103.197.21  4826    22.935           (Sydney, New South Wales, AU, OC) ip-21.197.103.123.vocus.net.au                                                                      
+   ***             *       -inf                                           *** *                                                                                                   
+   103.1.77.14     *       114.445          (Sydney, New South Wales, AU, OC) be202.lsr01.dody.nsw.vocus.network                                                                  
+   103.1.76.147    4826    114.451                       (None, None, AU, OC) be803.lsr01.prth.wa.vocus.network                                                                   
+╭─ 103.1.77.121    4826    114.308                       (None, None, AU, OC) be201.cor03.per02.wa.vocus.network                                                                  
+S (4826)  
+╰─ 114.31.206.51   4826    114.33                      (Singapore, 4, SG, AS) be201.bdr01.sin01.sin.vocus.network                                                                 
+   80.81.65.217    15412   113.536                     (Singapore, 4, SG, AS) *                                                                                                   
+╭─ 62.216.137.165  15412   201.239                     (Singapore, 4, SG, AS) ae18.0.cjr01.sin001.flagtel.com                                                                     
+S (15412)  
+├─ 62.216.128.9    15412   201.305                  (Hong Kong, None, HK, AS) xe-0-0-3.0.pjr04.hkg005.flagtel.com                                                                 
+S (15412)  
+├─ 62.216.128.110  15412   199.457                       (None, None, GB, EU) ae10.0.pjr03.wad001.flagtel.com                                                                     
+S (15412)  
+╰─ 85.95.25.98     15412   201.005                        (Tokyo, 13, JP, AS) ae2.0.eji01.tok002.flagtel.com                                                                      
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   5.8.70.17       199524  201.169                        (Tokyo, 13, JP, AS) gw.gcore.lu                                                                                         
+   92.38.178.149   202422  200.512                   (Urayasu, Tokyo, JP, AS)                                                                                                     

@@ -1,0 +1,12 @@
+   63.222.40.114   3491    0.0                       (Taipei, Taiwan, TW, AS) ncic.te0-1-0-23.br01.tap04.as3491.net                                                               
+╭─ 63.222.40.113   3491    0.929                      (Neihu, Taiwan, TW, AS) te0-1-0-23.br01.tap04.as3491.net                                                                    
+S (3491)  seamewe-3 👍 || eac-c2c ✓ || apcn-2 👍 || flag-north-asia-loopreach-north-asia-loop 👍 || asia-pacific-gateway-apg ✓
+╰─ 63.218.174.66   3491    79.285              (Hong Kong, Hong Kong, HK, AS) hu-0-0-0-0.br06.hkg12.as3491.net                                                                    
+╭─ 67.220.128.205  3257    79.087              (Tsuen Wan, Tsuen Wan, HK, AS) ae39.cr0-hkg2.ip4.gtt.net                                                                           
+S (3257)  seamewe-3 ✓ || flag-europe-asia-fea ✘
+├─ 213.200.118.165 3257    312.034                      (London, ENG, GB, EU) ae5.cr4-lon8.ip4.gtt.net                                                                            
+S&T (3257, 47720)  geo-eirgrid ✘ || exa-north-and-south ✘ || havhingstenceltixconnect-2-cc-2 © || sirius-south ✘ || esat-2 ✘ || rockabill © || esat-1 ✘ || pan-european-crossing-uk-ireland ✓ || exa-express ✘ || solas ✓
+╰─ 77.67.81.118    47720   323.625                      (Dublin, L, IE, None) ip4.gtt.net                                                                                         
+   91.103.0.196    47720   319.468                          (Cork, M, IE, EU) *                                                                                                   
+   91.103.0.99     42953   320.478                          (Cork, M, IE, EU) *                                                                                                   
+   185.6.39.132    42953   319.761                    (Cork, Munster, IE, EU)                                                                                                     

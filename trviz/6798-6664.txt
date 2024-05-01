@@ -1,0 +1,17 @@
+   146.185.219.73  202422  0.0        (Petaẖ Tiqva, Central District, IL, AS)                                                                                                     
+   146.185.219.3   202422  0.375                 (Tel Aviv, Tel Aviv, IL, AS) vrrp.gcore.lu                                                                                       
+   10.255.29.242   *       0.379                                          ***                                                                                                     
+╭─ 192.115.73.153  12400   9.831                       (Tel Aviv, TA, IL, AS) *                                                                                                   
+LHL (12400)  mednautilus-submarine-system ✓ || jonah ✘ || lev-submarine-system ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 82.102.129.236  12400   53.485          (Frankfurt am Main, Hesse, DE, EU)                                                                                                     
+T (12400, 3257)  
+├─ 134.222.145.225 3257    53.055                        (None, None, NL, EU) ffm-s6-rou-1041.DE.as286.net                                                                        
+T (3257)  
+├─ 89.149.187.205  3257    165.032         (Frankfurt am Main, Hesse, DE, EU) ae5.cr2-dxb1.ip4.gtt.net                                                                            
+T (3257, 36236)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 185.34.2.114    36236   165.201                     (Dubai, Dubai, AE, AS)                                                                                                     

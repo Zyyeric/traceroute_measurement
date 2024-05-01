@@ -1,0 +1,16 @@
+   37.10.40.14     202196  0.0                 (Hong Kong, Hong Kong, HK, AS)                                                                                                     
+   37.10.40.9      202196  0.565            (Tai Yuen Estate, Tai Po, HK, AS)                                                                                                     
+   10.127.0.54     *       0.627                                          ***                                                                                                     
+   223.119.0.94    58453   2.739               (Hong Kong, Hong Kong, HK, AS)                                                                                                     
+   223.120.3.89    58453   3.014                         (None, None, HK, AS) *                                                                                                   
+╭─ 223.120.2.106   58453   35.46                         (None, None, HK, AS) *                                                                                                   
+S (58453, 7713)  
+├─ 27.111.228.77   7713    37.934                    (Seogwipo, None, KR, AS) 7713.sgw.equinix.com                                                                                
+S (7713)  
+╰─ 180.240.204.9   7713    36.496              (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 180.240.204.9   7713    36.496              (Singapore, Singapore, SG, AS)                                                                                                     
+S&T (7713)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 36.93.255.177   7713    54.94                        (Batam, Riau, ID, AS)                                                                                                     
+   36.93.255.178   58475   54.046                        (None, None, ID, AS) *                                                                                                   
+   103.23.232.7    58475   54.25      (Banjarmasin, South Kalimantan, ID, AS)                                                                                                     

@@ -1,0 +1,17 @@
+   109.171.136.4   50999   0.0                 (Jeddah, Mecca Region, SA, AS)                                                                                                     
+╭─ 109.171.136.2   50999   0.879               (Jeddah, Mecca Region, SA, AS)                                                                                                     
+LHL (50999, 3356)  seamewe-5 ✘ || seamewe-4 ✘ || asia-africa-europe-1-aae-1 ✓ || peace-cable ✘ || imewe ✘ || seamewe-3 ✓
+├  10.126.145.197  *       0.833                                          ***                                                                                                     
+├  192.168.13.14   *       1.211                                          ***                                                                                                     
+├─ 213.19.197.49   3356    65.304          (Amsterdam, North Holland, NL, EU) lag-140.ear3.amsterdam1.level3.net                                                                  
+T (3356, 174)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 130.117.0.122   174     72.652             (Frankfurt am Main, HE, DE, EU) be2813.ccr41.fra03.atlas.cogentco.com                                                               
+╭─ 154.54.36.54    174     78.24                         (Munich, BY, DE, EU) be2959.ccr21.muc03.atlas.cogentco.com                                                               
+T (174)  
+╰─ 154.54.63.218   174     86.822                   (Milan, Lombardy, IT, EU) be3813.rcr21.mil01.atlas.cogentco.com                                                               
+╭─ 154.25.9.190    174     86.027                         (Milan, 25, IT, EU) be2330.nr51.b019138-1.mil01.atlas.cogentco.com                                                      
+T (174, 35574)  
+├─ 149.14.132.178  35574   86.826            (Frankfurt am Main, 5, DE, None) sed-multitel.demarc.cogentco.com                                                                    
+T (35574)  
+╰─ 194.187.174.6   35574   86.726                   (Milan, Lombardy, IT, EU)                                                                                                     

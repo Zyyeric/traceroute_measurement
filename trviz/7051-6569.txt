@@ -1,0 +1,20 @@
+   188.172.217.86  42473   0.0                (Johannesburg, Gauteng, ZA, AF)                                                                                                     
+   188.172.217.85  42473   0.455                  (Edenvale, Gauteng, ZA, AF)                                                                                                     
+   196.60.8.42     6939    0.455 (3.065)             (Johannesburg, 6, ZA, None) he.ixp.joburg                                                                                       
+╭─ 196.223.22.108  6939    20.456                   (Cape Town, 11, ZA, None) he.cinx.net.za                                                                                      
+T (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.105.64.5    6939    160.863                  (London, England, GB, EU) port-channel4.core1.lon3.he.net                                                                     
+S&T (6939)  circe-north ✓ || ulysses-2 ✘ || scylla ✓ || zeus ✓ || concerto ✓ || farland-north ✘
+╰─ 193.239.116.14  6939    166.727                   (Amsterdam, 7, NL, None) hurricane-electric.telecity2.nl-ix.net                                                              
+   184.104.198.2   6939    169.26                     (Amsterdam, NH, NL, EU) port-channel5.core1.ams7.he.net                                                                     
+╭─ 184.104.197.126 6939    167.107         (Amsterdam, North Holland, NL, EU) port-channel1.core2.ams7.he.net                                                                     
+S (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.105.81.141  6939    182.999                      (Ashburn, VA, US, NA) port-channel10.core3.ash1.he.net                                                                    
+S (6939, 56655)  
+╰─ 185.125.170.251 56655   186.538                       (Oslo, Oslo, NO, EU)                                                                                                     
+   185.125.170.252 56655   186.472                       (Oslo, Oslo, NO, EU)                                                                                                     
+   185.125.170.47  56655   186.366                       (Oslo, Oslo, NO, EU)                                                                                                     
+   185.14.97.165   56655   3061.386                      (Oslo, Oslo, NO, EU)                                                                                                     
+   185.14.97.165   56655   3061.386                      (Oslo, Oslo, NO, EU)                                                                                                     

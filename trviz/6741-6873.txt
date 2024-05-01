@@ -1,0 +1,23 @@
+   193.50.97.164   2200    0.0                   (Plouzané, Brittany, FR, EU) anchor.netlab.enstb.org                                                                             
+   ***             *       -inf                                           *** *                                                                                                   
+   192.108.116.201 50897   0.795                 (Plouzané, Brittany, FR, EU) asr-vlan39.enst-bretagne.fr                                                                         
+   193.51.188.10   2200    6.757             (Saint-Brieuc, Brittany, FR, EU) vl807-pc1-brest1-rtr-021.noc.renater.fr                                                             
+   193.51.177.174  2200    21.885              (Paris, Île-de-France, FR, EU) et-5-2-1-ren-nr-paris1-rtr-131.noc.renater.fr                                                       
+   193.51.180.167  2200    17.545                        (Lyon, None, FR, EU) et-2-0-0-ren-nr-lyon1-rtr-131.noc.renater.fr                                                        
+   193.51.180.129  2200    21.723    (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) et-2-0-7-ren-nr-marseille1-rtr-131.noc.renater.fr                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 154.54.76.117   174     122.502   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) be3147.ccr32.mrs02.atlas.cogentco.com                                                               
+S&T (174)  seamewe-3 ✓ || seamewe-5 ✓ || seamewe-4 ✓ || asia-africa-europe-1-aae-1 ✓ || imewe ✓
+├─ 154.54.74.178   174     172.992                        (Milan, 25, IT, EU) be2865.rcr21.mil01.atlas.cogentco.com                                                               
+T (174)  
+├─ 154.54.63.217   174     197.909                  (Munich, Bavaria, DE, EU) be3813.ccr21.muc03.atlas.cogentco.com                                                               
+T (174)  
+├─ 154.54.58.6     174     158.477                        (Vienna, 9, AT, EU) be2974.ccr51.vie01.atlas.cogentco.com                                                               
+LHL (174)  
+├─ 130.117.0.70    174     166.689                      (Belgrade, 0, RS, EU) be3420.ccr51.beg03.atlas.cogentco.com                                                               
+LHL (174)  
+╰─ 130.117.50.73   174     136.34                    (Athens, Attica, GR, EU) be3246.rcr21.ath01.atlas.cogentco.com                                                               
+   149.11.120.66   174     102.234              (Metamórfosi, Attica, GR, EU) fastpath1.demarc.cogentco.com                                                                       
+   185.201.254.27  56457   78.267               (Metamórfosi, Attica, GR, EU) be3502.ef2.ath01.fastpath.gr                                                                        
+   185.201.254.39  56457   121.294              (Metamórfosi, Attica, GR, EU) te1-24.sp1.ath01.fastpath.gr                                                                        
+   176.119.210.244 56457   128.515                   (Athens, Attica, GR, EU)                                                                                                     

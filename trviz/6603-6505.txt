@@ -1,0 +1,19 @@
+   213.157.192.2   16010   0.0                     (Tbilisi, Tbilisi, GE, AS) host-213-157-192-2.customer.magticom.ge                                                             
+   213.157.192.1   16010   0.958                        (Tbilisi, TB, GE, AS) host-213-157-192-1.customer.magticom.ge                                                             
+   213.157.192.9   16010   0.367             (Tsqnet’i, Kvemo Kartli, GE, AS) host-213-157-192-9.customer.magticom.ge                                                             
+╭─ 213.157.194.1   16010   0.535             (Tsqnet’i, Kvemo Kartli, GE, AS) host-213-157-194-1.customer.magticom.ge                                                             
+T (16010, 15924)  
+╰─ 84.44.20.157    15924   26.059                (Istanbul, Istanbul, TR, AS)                                                                                                     
+╭─ 195.2.23.129    1273    25.688                (Istanbul, Istanbul, TR, AS) ae4-17-ucr1.tuz.cw.net                                                                              
+S (1273)  
+├─ 195.2.18.213    1273    27.757                        (None, None, GB, EU) ae2-xcr1.ise.cw.net                                                                                 
+LHL (1273)  
+╰─ 195.2.18.210    1273    40.777              (Sofia, Sofia-Capital, BG, EU) ae29-xcr1.sof.cw.net                                                                                
+╭─ 4.68.70.13      3356    40.736              (Sofia, Sofia-Capital, BG, EU) ae-7.bar2.sofia2.level3.net                                                                         
+T (3356)  
+╰─ 171.75.10.131   3356    64.624          (Frankfurt am Main, Hesse, DE, EU) ae1.3122.edge9.frf1.neo.colt.net                                                                    
+╭─ 62.67.26.214    6663    64.826             (Frankfurt am Main, HE, DE, EU) PANTEL.edge8.Frankfurt1.Level3.net                                                                  
+T (6663)  
+╰─ 89.238.233.57   6663    99.297                          (Iasi, IS, RO, EU) ip4-89-238-233-57.euroweb.ro                                                                        
+   89.238.233.58   201838  94.393                          (Iasi, IS, RO, EU) ip4-89-238-233-58.euroweb.ro                                                                        
+   91.220.63.87    197357  99.989              (Bucharest, București, RO, EU) 91-220-63-87.reserved.chrominance.ro                                                                

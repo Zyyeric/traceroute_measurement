@@ -1,0 +1,13 @@
+   45.87.135.252   208398  0.0                 (Singapore, Singapore, SG, AS)                                                                                                     
+   45.87.135.253   208398  1.203               (Singapore, Singapore, SG, AS)                                                                                                     
+   10.1.1.254      *       0.445                                          ***                                                                                                     
+   93.186.133.209  6762    1.263               (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 63.217.59.161   3491    0.546               (Singapore, Singapore, SG, AS) gi5-23.sw06.sin02.as3491.net                                                                        
+S (3491, 60068)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 63.217.254.210  60068   33.343                        (None, None, US, NA) *                                                                                                   
+S (60068, 969)  
+╰─ 45.11.107.234   969     33.47               (Hong Kong, Hong Kong, HK, AS) p77-6.cr1a.eqhk2.hkg12.hk.917.as                                                                    
+   199.119.64.151  969     38.366              (Hong Kong, Hong Kong, HK, AS) po103-10.spine3.hkg12.hk.misaka.io                                                                  
+   45.11.104.9     57695   38.334              (Hong Kong, Hong Kong, HK, AS) po30.0103.hkg12.hk.misaka.io                                                                        
+   45.11.104.146   57695   33.569              (Hong Kong, Hong Kong, HK, AS) hk-hkg-as57695.anchors.atlas.ripe.net                                                               

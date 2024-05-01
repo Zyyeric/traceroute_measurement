@@ -1,0 +1,14 @@
+   103.156.251.7   141235  0.0                 (Singapore, Singapore, SG, AS)                                                                                                     
+   103.156.251.3   141235  0.426               (Singapore, Singapore, SG, AS)                                                                                                     
+   62.115.55.208   1299    0.958               (Singapore, Singapore, SG, AS) snge-b5-link.ip.twelve99.net                                                                        
+   62.115.138.20   1299    1.265               (Singapore, Singapore, SG, AS) sng-b7-link.ip.twelve99.net                                                                         
+╭─ 62.115.137.243  1299    1.586               (Singapore, Singapore, SG, AS) snge-b4-link.ip.twelve99.net                                                                        
+S (1299)  asia-america-gateway-aag-cable-system ©
+╰─ 62.115.143.244  1299    165.838          (Los Angeles, California, US, NA) lax-b23-link.ip.twelve99.net                                                                        
+╭─ 62.115.143.39   1299    165.237          (Los Angeles, California, US, NA) lax-b22-link.ip.twelve99.net                                                                        
+S (1299, 6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 123.255.91.158  6939    170.402                 (Hong Kong, HCW, HK, None) hurricaneelectric1-lacp-100g.hkix.net                                                               
+   184.104.220.67  6939    169.477             (Hong Kong, Hong Kong, HK, AS) lshiy.e0-30.switch1.hkg1.he.net                                                                     
+   103.203.243.11  955     168.701             (Hong Kong, Hong Kong, HK, AS) multi-user.port-channe17.switch1.hkg1.bb.lshiy.net                                                  
+   89.213.179.65   32167   168.954             (Hong Kong, Hong Kong, HK, AS) 89-213-179-65.ip.lshiyusercontent.com                                                               

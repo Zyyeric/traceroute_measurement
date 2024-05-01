@@ -1,0 +1,11 @@
+   103.133.238.187 132808  0.0                 (Brisbane, Queensland, AU, OC) iptelco.com.au                                                                                      
+   103.133.238.130 132808  0.307               (Brisbane, Queensland, AU, OC) vmnet-hsrp66.bdr01-bne-br1.iptelco.net.au                                                           
+   103.17.223.161  58511   0.653               (Brisbane, Queensland, AU, OC) pe.as132808.as58511.net.223.17.103.in-addr.arpa                                                     
+   103.30.218.118  58511   11.947                        (None, None, AU, OC) et-0-0-6.cor101.ndcb1.au.as58511.net                                                                
+   103.30.218.137  58511   11.993                        (None, None, AU, OC) et-0-0-7.cor102.ndcb1.au.as58511.net                                                                
+   ***             *       -inf                                           *** *                                                                                                   
+   103.30.217.169  *       11.976           (Sydney, New South Wales, AU, OC) ae1-200g.bdr101.eqsy3.au.as58511.net                                                                
+╭─ 218.100.52.80   139074  11.878                       (Sydney, 2, AU, None) as139074.nsw.ix.asn.au                                                                              
+S (139074, 138398)  tasman-global-access-tga-cable ✘ || southern-cross-cable-network-sccn ✘ || hawaiki ✘
+╰─ 103.130.69.124  138398  40.488                (Auckland, Auckland, NZ, OC) 103-130-69-124.netbydesign.nz                                                                       
+   103.121.34.150  138398  40.435                (Auckland, Auckland, NZ, OC) 103-121-34-150.netbydesign.nz                                                                       

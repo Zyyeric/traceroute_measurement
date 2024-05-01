@@ -1,0 +1,13 @@
+   185.51.192.48   60781   0.0               (Haarlem, North Holland, NL, EU)                                                                                                     
+   185.51.192.254  60781   0.183             (Haarlem, North Holland, NL, EU)                                                                                                     
+   81.17.35.92     *       0.626             (Haarlem, North Holland, NL, EU) ae-24.br01.ams-01.nl.leaseweb.net                                                                   
+   31.31.38.116    *       0.19              (Haarlem, North Holland, NL, EU) po-101.agg02.ams-01.leaseweb.net                                                                    
+   31.31.34.127    *       0.549             (Haarlem, North Holland, NL, EU)                                                                                                     
+╭─ 80.249.208.236  8220    0.485 (1.12)                 (Amsterdam, NH, NL, EU) et-0-0-1-pr2.AMS.router.colt.net                                                                    
+S&T (8220)  circe-north ✓ || ulysses-2 ✘ || scylla ✓ || zeus ✓ || atlantic-crossing-1-ac-1 ✓ || concerto ✘ || farland-north ✓
+├─ 212.74.71.111   8220    16.244                   (Dunstable, None, GB, EU) xe11-2-0-sar5.DUB.router.colt.net                                                                   
+S&T (8220, 47720)  sirius-south ✘ || exa-north-and-south ✘ || esat-2 ✓
+╰─ 62.23.108.46    47720   19.442                       (Dublin, L, IE, None) host.46.108.23.62.rev.coltfrance.com                                                                
+   91.103.0.196    47720   18.485                           (Cork, M, IE, EU) *                                                                                                   
+   91.103.0.99     42953   19.678                           (Cork, M, IE, EU) *                                                                                                   
+   185.6.39.132    42953   20.443                     (Cork, Munster, IE, EU)                                                                                                     

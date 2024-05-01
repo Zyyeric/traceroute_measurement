@@ -1,0 +1,23 @@
+   102.130.66.11   37468   0.0                       (Luanda, Luanda, AO, AF)                                                                                                     
+   102.130.66.1    37468   0.375                     (Luanda, Luanda, AO, AF)                                                                                                     
+   100.64.192.118  *       2.2                                            ***                                                                                                     
+   197.149.149.166 37468   2.11                          (None, None, AO, AF) pe2-nc027.ang.sgn.as37468.angolacables.ao                                                           
+╭─ 102.130.68.138  37468   36.323                        (None, None, AO, AF) *                                                                                                   
+S (37468)  west-africa-cable-system-wacs 👍 || sat-3wasc ✓
+╰─ 102.130.68.69   37468   136.167                   (Lisbon, Lisbon, PT, EU)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 154.54.61.214   174     153.225                        (Porto, 13, PT, EU) be2444.rcr21.opo01.atlas.cogentco.com                                                               
+S&T (174)  seamewe-3 ✓ || sat-3wasc ✓
+├─ 154.54.61.101   174     166.017                       (Bilbao, PV, ES, EU) be2313.ccr31.bio02.atlas.cogentco.com                                                               
+S&T (174)  
+├─ 154.54.39.226   174     190.753                   (Marseille, PAC, FR, EU) be3077.ccr31.mrs02.atlas.cogentco.com                                                               
+S&T (174, 3356)  
+├─ 149.14.125.202  3356    190.218                       (Madrid, MD, ES, EU) *                                                                                                   
+LHL (3356, 8551)  
+├  10.250.99.1     *       234.057                                        ***                                                                                                     
+├  10.250.99.5     *       231.056                                        ***                                                                                                     
+╰─ 212.179.124.81  8551    230.934                     (Tel Aviv, TA, IL, AS) bzq-179-124-81.cust.bezeqint.net                                                                    
+   212.179.124.186 8551    234.04                      (Tel Aviv, TA, IL, AS) bzq-179-124-186.cust.bezeqint.net                                                                   
+   82.81.82.2      8551    235.038               (Tel Aviv, Tel Aviv, IL, AS) bzq-82-81-82-2.red.bezeqint.net                                                                     
+   10.255.29.244   *       234.937                                        ***                                                                                                     
+   146.185.219.73  202422  233.862    (Petaẖ Tiqva, Central District, IL, AS)                                                                                                     

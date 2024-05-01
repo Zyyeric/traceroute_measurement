@@ -1,0 +1,16 @@
+   180.211.88.22   45725   0.0                     (Jakarta, Jakarta, ID, AS) id-jkt-as45725.anchors.atlas.ripe.net                                                               
+   180.211.88.21   45725   0.425                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+╭─ 43.230.153.89   *       0.419                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+S (, 9002)  seamewe-3 ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├  10.110.1.0      *       12.578                                         ***                                                                                                     
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 87.245.232.179  9002    89.885                   (Hong Kong, None, HK, AS) ae2-8.RT.TD2.HKG.CN.retn.net                                                                        
+S (9002, 3356)  
+├─ 113.29.40.85    3356    92.352                      (New York, NY, US, NA) *                                                                                                   
+S (3356, 25003)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 212.113.14.250  25003   242.99                      (London, None, GB, EU) IB.edge5.London1.Level3.net                                                                         
+T (25003)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 94.188.255.2    25003   257.392              (Bnei Brak, Tel Aviv, IL, AS) 255.188.94-binat-smaug.in-addr.arpa                                                                 

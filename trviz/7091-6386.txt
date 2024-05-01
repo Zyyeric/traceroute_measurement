@@ -1,0 +1,9 @@
+   202.142.143.178 4764    0.0                  (Melbourne, Victoria, AU, OC) be3.bng1.vdc03.mel.aussiebb.net                                                                     
+   202.142.143.177 4764    0.945                (Melbourne, Victoria, AU, OC) gi0-0-0-8.acc3.530col.vic.aussiebb.net                                                              
+   10.241.6.22     *       0.917                                          ***                                                                                                     
+╭─ 159.196.252.5   4764    2.397                     (Melbourne, VIC, AU, OC) be3.core2.equinix-me1.mel.aussiebb.net                                                              
+S (4764, 38001)  
+├─ 27.111.228.86   38001   88.178                    (Seogwipo, None, KR, AS) 38001.sgw.equinix.com                                                                               
+S (38001)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 203.174.85.106  38001   92.07               (Singapore, Singapore, SG, AS)                                                                                                     

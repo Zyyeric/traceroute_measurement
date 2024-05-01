@@ -1,0 +1,22 @@
+   77.223.128.226  43391   0.0                (İzmir, İzmir Province, TR, AS)                                                                                                     
+   10.200.0.1      *       0.356                                          ***                                                                                                     
+   10.20.0.251     *       0.956                                          ***                                                                                                     
+   10.34.35.10     *       14.957                                         ***                                                                                                     
+╭─ 93.186.132.194  6762    11.476                (Istanbul, Istanbul, TR, AS) xe11-2-0.istanbul1.ist.seabone.net                                                                  
+S (6762)  
+╰─ 195.22.209.220  6762    62.891                       (London, ENG, GB, EU) ae30.londra32.lon.seabone.net                                                                       
+   195.66.225.24   2603    66.027                     (London, ENG, GB, None) *                                                                                                   
+╭─ 109.105.102.98  2603    68.225                       (London, ENG, GB, EU) ndn-gw.mx1.lon.uk.geant.net                                                                         
+S&T (2603, 20965)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 62.40.98.222    20965   84.127                      (Bilbao, None, ES, EU) ae4.rt1.bil.es.geant.net                                                                            
+S&T (20965, 21320)  
+├─ 83.97.90.19     21320   88.344                   (London, England, GB, EU) rediris-ias-geant.bil.es.geant.net                                                                  
+S&T (21320, 766)  
+╰─ 130.206.245.17  766     86.861                        (None, None, ES, EU) EHU.RT2.ETHTRUNK2.telmad.rt1.mad.red.rediris.es                                                     
+   130.206.216.2   766     88.685                        (None, None, ES, EU) redimadrid-backup-router.red.rediris.es                                                             
+   193.145.15.50   766     88.892                        (None, None, ES, EU) uc3m-rt-ju-01-xe-0-1-0.net.redimadrid.es                                                            
+   ***             *       -inf                                           *** *                                                                                                   
+   163.117.49.4    766     89.163                        (Madrid, MD, ES, EU) b01014zr.uc3m.es                                                                                    
+   163.117.253.5   766     88.217                    (Madrid, Madrid, ES, EU)                                                                                                     

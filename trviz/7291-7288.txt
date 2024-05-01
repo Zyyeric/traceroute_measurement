@@ -1,0 +1,19 @@
+   103.215.229.229 140443  0.0                  (Surabaya, East Java, ID, AS) 229.229.215.103.in-addr.herza.id                                                                    
+   103.215.229.1   140443  0.145         (Gubengairlangga, East Java, ID, AS)                                                                                                     
+   103.215.228.1   140443  0.225         (Gubengairlangga, East Java, ID, AS) 1.228.215.103.in-addr.herza.id                                                                      
+╭─ 36.64.254.21    7713    0.212 (1.133)    (Gubengairlangga, East Java, ID, AS)                                                                                                     
+S&T (7713)  australia-singapore-cable-asc ✓ || matrix-cable-system ✘ || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || indonesia-global-gateway-igg-system 👍 || seamewe-3 ✓ || jasuka 👍 || indigo-west ✓ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || jakabare ✓
+╰─ 180.240.193.93  7713    18.511              (Singapore, Singapore, SG, AS)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 180.240.204.8   7713    19.37               (Singapore, Singapore, SG, AS)                                                                                                     
+S (7713, 58511)  
+├─ 27.111.229.175  58511   57.001                    (Seogwipo, None, KR, AS) 58511.sgw.equinix.com                                                                               
+S (58511, )  
+╰─ 103.30.216.60   *       123.177       (The Rocks, New South Wales, AU, OC) hu0-0-0-1.cor101.ndcp1.au.as58511.net                                                               
+   103.30.218.217  *       157.596         (Perth, Western Australia, AU, OC) hu0-0-0-31.cor102.ndcp1.au.as58511.net                                                              
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   103.30.218.119  58511   122.989                       (None, None, AU, OC) et-0-0-1.bdr101.ndcb1.au.as58511.net                                                                
+   103.17.223.162  58511   123.188             (Brisbane, Queensland, AU, OC) ce.7005398.as132808.net.au.223.17.103.in-addr.arpa                                                  
+   103.133.238.187 132808  123.201             (Brisbane, Queensland, AU, OC) iptelco.com.au                                                                                      

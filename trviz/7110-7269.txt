@@ -1,0 +1,13 @@
+   116.206.155.229 45117   0.0                   (Ahmedabad, Gujarat, IN, AS)                                                                                                     
+   116.206.155.225 45117   0.815                 (Ahmedabad, Gujarat, IN, AS)                                                                                                     
+   121.241.90.57   4755    1.971                 (Ahmedabad, Gujarat, IN, AS) 121.241.90.57.static-ahmedabad.vsnl.net.in                                                          
+   172.28.176.253  *       9.113                                          ***                                                                                                     
+╭─ 180.87.38.5     6453    9.144                         (Mumbai, MH, IN, AS) ix-ae-0-100.tcore1.mlv-mumbai.as6453.net                                                            
+S (6453)  europe-india-gateway-eig ✓ || seamewe-3 👍 || flag-europe-asia-fea ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 180.87.39.21    6453    136.14                   (London, England, GB, EU) if-ae-12-2.tcore1.l78-london.as6453.net                                                             
+S&T (6453, 21034)  seamewe-3 👍 || high-capacity-undersea-guernsey-optical-fibre-hugo ✓ || uk-channel-islands-8 ✘ || channel-islands-9-liberty-submarine-cable ✘ || uk-channel-islands-7 ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 84.233.225.102  21034   192.537                   (Marseille, PAC, FR, EU) *                                                                                                   
+S&T (21034)  
+╰─ 195.32.69.197   21034   186.561                 (Pescara, Abruzzo, IT, EU) ripe-atlas.micso.it                                                                                 

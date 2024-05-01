@@ -1,0 +1,18 @@
+   45.87.135.252   208398  0.0                 (Singapore, Singapore, SG, AS)                                                                                                     
+   45.87.135.253   208398  1.434               (Singapore, Singapore, SG, AS)                                                                                                     
+   10.1.1.254      *       0.611                                          ***                                                                                                     
+   93.186.133.209  6762    1.371               (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 93.186.133.94   6762    0.931               (Singapore, Singapore, SG, AS) ae6.singapore2.sin.seabone.net                                                                      
+S (6762, 6939)  
+├─ 27.111.228.81   6939    1.394                     (Seogwipo, None, KR, AS) 6939.sgw.equinix.com                                                                                
+S (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.105.80.13   6939    170.479                        (Milan, 25, IT, EU) 100ge7-2.core1.mil2.he.net                                                                          
+T (6939)  
+├─ 184.104.191.101 6939    197.256             (Sofia, Sofia-Capital, BG, EU) e0-73.core3.sof1.he.net                                                                             
+T (6939, )  
+╰─ 176.126.38.47   *       209.544               (Áno Liósia, Attica, GR, EU) he.gr-ix.gr                                                                                         
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   185.14.96.225   211186  222.432            (Lamía, Central Greece, GR, EU) vlan4090.lamia.fast.net.gr                                                                          
+   185.14.96.232   211186  210.531            (Lamía, Central Greece, GR, EU)                                                                                                     

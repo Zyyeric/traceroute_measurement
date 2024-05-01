@@ -1,0 +1,14 @@
+   180.211.88.22   45725   0.0                     (Jakarta, Jakarta, ID, AS) id-jkt-as45725.anchors.atlas.ripe.net                                                               
+   180.211.88.21   45725   0.562                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+   43.230.153.89   *       0.397                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+╭─ 111.92.161.4    55655   0.569                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+S (55655, 63949)  indonesia-global-gateway-igg-system ✘ ↠ sea-us ✘
+├  10.110.1.0      *       12.074                                         ***                                                                                                     
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 206.223.116.196 63949   187.998                   (San Jose, CA, US, None) eqix-sv1.linode.com                                                                                 
+   10.203.32.4     *       186.846                                        ***                                                                                                     
+   10.203.35.40    *       187.305                                        ***                                                                                                     
+   10.203.4.238    *       187.349                                        ***                                                                                                     
+   45.79.110.82    63949   187.592              (Fremont, California, US, NA) li1209-82.members.linode.com                                                                        

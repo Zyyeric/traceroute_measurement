@@ -1,0 +1,11 @@
+   23.129.64.254   396507  0.0                  (Seattle, Washington, US, NA)                                                                                                     
+   23.129.64.129   396507  0.296                (Seattle, Washington, US, NA)                                                                                                     
+   216.218.135.205 6939    0.74                 (Seattle, Washington, US, NA) e0-10.switch1.sea2.he.net                                                                           
+╭─ 184.105.80.60   6939    19.365              (San Jose, California, US, NA) 100ge0-39.core4.sjc2.he.net                                                                         
+S (6939, 20473)  faster ✓ || pacific-crossing-1-pc-1 ✘ || jupiter ✓ || japan-u-s-cable-network-jus ✓ || tata-tgn-pacific ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 203.190.230.144 20473   126.921               (Tokyo / Narita, 12, JP, AS) 20473.tyo.equinix.com                                                                               
+   10.71.0.246     *       129.728                                        ***                                                                                                     
+   10.71.1.206     *       138.597                                        ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   104.238.161.230 20473   126.837                      (Ōi, Saitama, JP, AS) 104.238.161.230.vultrusercontent.com                                                                

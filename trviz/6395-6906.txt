@@ -1,0 +1,11 @@
+   185.92.128.30   60924   0.0                         (Dubai, Dubai, AE, AS)                                                                                                     
+   185.92.128.3    60924   0.422                       (Dubai, Dubai, AE, AS)                                                                                                     
+╭─ 151.248.103.94  59605   0.818                       (Dubai, Dubai, AE, AS)                                                                                                     
+S (59605)  fiber-optic-gulf-fog ✓ || falcon ✓ || tata-tgn-gulf ✓ || gulf-bridge-international-cable-system-gbicsmiddle-east-north-africa-mena-cable-system ✓
+├─ 151.248.96.2    59605   125.177                       (None, None, BH, AS) *                                                                                                   
+LHL (59605, 3356)  falcon ✓ ↠ europe-india-gateway-eig ✓ || falcon ✓ ↠ seamewe-3 ✓ || falcon ✓ ↠ flag-europe-asia-fea ✓
+├─ 212.187.138.205 3356    191.049                  (London, England, GB, EU)                                                                                                     
+S&T (3356, 39534)  seamewe-3 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 213.242.120.238 39534   217.731                      (Paris, None, FR, EU) LYRA-NETWOR.bear1.Paris10.Level3.net                                                                
+   185.151.70.11   39534   217.763                (Labège, Occitanie, FR, EU)                                                                                                     

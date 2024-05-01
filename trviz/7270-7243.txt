@@ -1,0 +1,22 @@
+╭─ 185.148.112.152 37468   0.0                       (Lisbon, Lisbon, PT, EU) 152.112.148.185.angolacables.ao                                                                     
+S (37468)  ellalink ✘
+├  10.42.104.1     *       0.318                                          ***                                                                                                     
+├  100.64.192.137  *       62.69                                          ***                                                                                                     
+├─ 170.238.232.221 37468   106.77                 (Osasco, São Paulo, BR, SA) 221.232.238.170.angolacables.ao                                                                     
+LHL (37468, 12956)  america-movil-submarine-cable-system-1-amx-1 ✘ ↠ marea ✓ || south-america-1-sam-1 ✓ ↠ marea ✓ || brusa ✓ ↠ marea ✓ || globenet ✓ ↠ marea ✓ || monet 👍 ↠ marea ✓ || americas-ii ✓ ↠ marea ✓
+├─ 5.53.1.36       12956   107.139                       (None, None, ES, EU) *                                                                                                   
+LHL (12956)  
+╰─ 94.142.98.31    12956   106.573                (Osasco, São Paulo, BR, SA)                                                                                                     
+╭─ 213.140.53.51   12956   152.13                 (Osasco, São Paulo, BR, SA) ntt-ae5-0-grtsaotm1.net.telefonicaglobalsolutions.com                                               
+S (12956, 2914)  america-movil-submarine-cable-system-1-amx-1 ✘ || south-america-1-sam-1 👍 || brusa 👍 || globenet ✘ || monet ✓ || americas-ii ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 129.250.6.17    2914    167.423                       (None, None, US, NA) ae-0.sayonara-dorian.r21.nwrknj03.us.bb.gin.ntt.net                                                 
+   129.250.2.166   2914    182.996                       (None, None, US, NA) ae-3.sayonara-dorian.r22.chcgil09.us.bb.gin.ntt.net                                                 
+   129.250.2.27    2914    183.772                       (None, None, US, NA) ae-1.sayonara-dorian.r23.chcgil09.us.bb.gin.ntt.net                                                 
+   129.250.5.17    2914    241.357                       (None, None, US, NA) ae-1.sayonara-dorian.r24.snjsca04.us.bb.gin.ntt.net                                                 
+   129.250.3.147   2914    241.0                         (None, None, US, NA) ae-0.sayonara-dorian.r25.snjsca04.us.bb.gin.ntt.net                                                 
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 129.250.7.14    2914    343.088                       (None, None, US, NA) ae-0.a00.tokyjp09.jp.bb.gin.ntt.net                                                                 
+S (2914, 15133)  
+╰─ 61.213.162.46   15133   349.829                       (None, None, JP, AS) ae-1.edgecast-networks.tokyjp09.jp.bb.gin.ntt.net                                                   
+   152.195.112.52  15133   349.497                     (Tokyo, Tokyo, JP, AS)                                                                                                     

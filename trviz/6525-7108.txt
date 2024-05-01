@@ -1,0 +1,22 @@
+   103.23.232.7    58475   0.0        (Banjarmasin, South Kalimantan, ID, AS)                                                                                                     
+   103.23.232.1    58475   0.283      (Banjarmasin, South Kalimantan, ID, AS)                                                                                                     
+   103.81.101.2    *       16.771     (Banjarmasin, South Kalimantan, ID, AS)                                                                                                     
+╭─ 103.78.235.1    132678  28.137                        (None, None, ID, AS) *                                                                                                   
+S (132678, 141682)  
+╰─ 103.161.244.201 141682  28.471                      (Tokyo, Tokyo, JP, AS)                                                                                                     
+╭─ 103.161.244.41  141682  81.56                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+S (141682, 35889)  
+├─ 103.161.244.33  35889   110.045                       (None, None, AU, OC) *                                                                                                   
+S (35889, 7660)  
+╰─ 203.181.249.110 7660    170.454                     (Tokyo, Tokyo, JP, AS)                                                                                                     
+╭─ 203.181.249.101 7660    170.6                         (None, None, JP, AS) tyo-mx10k-irb6.jp.apan.net                                                                          
+S (7660, 22388)  
+╰─ 192.203.115.129 22388   268.834                       (None, None, US, NA) ve-1451.rtr.seat.transpac.org                                                                       
+   207.231.241.129 2153    294.59                        (None, None, US, NA) cenichpr-1-is-jmb-776.lsanca.pacificwave.net                                                        
+   137.164.25.74   2153    295.17                     (Sunnyvale, CA, US, NA) hpr-svl-agg10--lax-agg10-100ge.cenic.net                                                            
+   137.164.25.95   2152    295.857                      (Oakland, CA, US, NA) hpr-oak-agg8--svl-hpr3-100g.cenic.net                                                               
+   137.164.25.77   2153    296.308              (Oakland, California, US, NA) oak-agg8-hpr--emvl1-agg-01-hpr--100g--01.cenic.net                                                  
+   137.164.26.241  2153    296.95           (Los Angeles, California, US, NA)                                                                                                     
+   171.66.0.238    32      295.805                     (Stanford, CA, US, NA) csee-west-rtr-vl12.SUNet                                                                            
+   ***             *       -inf                                           *** *                                                                                                   
+   171.67.70.16    32      296.577             (Stanford, California, US, NA) us-pao-as32.anchors.atlas.ripe.net                                                                  

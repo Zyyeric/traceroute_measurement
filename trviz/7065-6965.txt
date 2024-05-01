@@ -1,0 +1,15 @@
+   193.1.201.140   1213    0.0                   (Tallaght, Leinster, IE, EU) atlas-anchor.heanet.ie                                                                              
+   193.1.201.138   1213    0.429                   (Dublin, Leinster, IE, EU) pw-spine1-vlan11.services.hea.net                                                                   
+   87.44.56.177    1213    0.401                        (Dublin, L, IE, None) ae3.core1-pw.nn.hea.net                                                                             
+   87.44.53.59     1213    0.656              (Blessington, Leinster, IE, EU) ae4-0.core1-cwt.nn.hea.net                                                                          
+   149.14.149.233  174     1.267                   (Donard, Leinster, IE, EU) hu0-1-0-3.nr51.b020478-0.dub02.atlas.cogentco.com                                                   
+   154.25.16.169   174     1.465                   (Carlow, Leinster, IE, EU) be4102.rcr21.dub02.atlas.cogentco.com                                                               
+╭─ 154.54.57.141   174     1.879                          (Dublin, D, IE, EU) be2743.rcr21.dub01.atlas.cogentco.com                                                               
+S&T (174)  geo-eirgrid ✘ || rockabill ✘ || esat-2 ✘ || sirius-south ✘ || exa-north-and-south © || havhingstenceltixconnect-2-cc-2 © || exa-express © || pan-european-crossing-uk-ireland ✓ || esat-1 ✘ || solas ©
+╰─ 154.54.62.17    174     9.963                        (London, ENG, GB, EU) be2653.ccr52.lhr01.atlas.cogentco.com                                                               
+   154.54.60.13    174     10.835                       (London, ENG, GB, EU) be3488.ccr42.lon13.atlas.cogentco.com                                                               
+   154.54.62.6     174     11.029                       (London, ENG, GB, EU) be2573.ccr21.lon02.atlas.cogentco.com                                                               
+╭─ 193.158.36.94   3320    10.926                   (London, England, GB, EU)                                                                                                     
+S (3320)  exa-north-and-south ✘ || atlantic-crossing-1-ac-1 ✓ || flag-atlantic-1-fa-1 ✓ || apollo ✓ || yellow ✓ || tata-tgn-atlantic ✓
+╰─ 62.154.5.189    3320    98.956           (New York City, New York, US, NA)                                                                                                     
+   217.243.179.165 3320    95.032           (New York City, New York, US, NA)                                                                                                     

@@ -1,0 +1,17 @@
+   63.222.40.114   3491    0.0                       (Taipei, Taiwan, TW, AS) ncic.te0-1-0-23.br01.tap04.as3491.net                                                               
+╭─ 63.222.40.113   3491    0.883                      (Neihu, Taiwan, TW, AS) te0-1-0-23.br01.tap04.as3491.net                                                                    
+S (3491)  seamewe-3 👍 || eac-c2c ✓ || apcn-2 👍 || flag-north-asia-loopreach-north-asia-loop 👍 || asia-pacific-gateway-apg ✓
+╰─ 63.218.174.122  3491    79.273              (Hong Kong, Hong Kong, HK, AS) be41.br04.hkg12.as3491.net                                                                          
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 154.54.88.49    174     80.356                   (Hong Kong, None, HK, AS) be2414.ccr21.hkg02.atlas.cogentco.com                                                               
+S (174)  asia-africa-europe-1-aae-1 ✓
+├─ 154.54.6.25     174     270.851                   (Marseille, PAC, FR, EU) be2900.ccr32.mrs02.atlas.cogentco.com                                                               
+S (174, 16637)  
+├─ 204.68.252.183  16637   273.383                       (None, None, US, NA) *                                                                                                   
+LHL (16637, 20294)  
+╰─ 41.181.247.37   20294   344.37                        (Kampala, C, UG, AF) *                                                                                                   
+   41.210.190.135  20294   339.828          (Kampala, Central Region, UG, AF)                                                                                                     
+   212.88.110.34   20294   340.029          (Kampala, Central Region, UG, AF)                                                                                                     
+   129.205.30.76   37063   344.2                         (Kampala, C, UG, AF) *                                                                                                   
+   41.191.77.206   328998  339.772                       (Kampala, C, UG, AF) *                                                                                                   
+   196.49.15.189   328998  340.473          (Kampala, Central Region, UG, AF)                                                                                                     

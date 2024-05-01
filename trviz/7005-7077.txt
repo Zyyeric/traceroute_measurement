@@ -1,0 +1,24 @@
+   216.48.178.84   132420  0.0                 (Noida, Uttar Pradesh, IN, AS) e2e-95-84.ssdcloudindia.net                                                                         
+   216.48.176.1    132420  2.166                       (Delhi, Delhi, IN, AS) e2e-93-1.ssdcloudindia.net                                                                          
+   180.179.210.65  17439   0.435                   (Pitampura, Delhi, IN, AS) 180-179-210-65.static.e2enetworks.in                                                                
+   180.179.197.217 17439   0.794                   (Pitampura, Delhi, IN, AS)                                                                                                     
+   115.114.12.185  4755    1.148                       (Delhi, Delhi, IN, AS) 115.114.12.185.static-delhi.vsnl.net.in                                                             
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 180.87.38.5     6453    22.576                        (Mumbai, MH, IN, AS) ix-ae-0-100.tcore1.mlv-mumbai.as6453.net                                                            
+S (6453)  seamewe-3 👍 || flag-europe-asia-fea ✓ || europe-india-gateway-eig ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 80.231.130.130  6453    149.963                     (London, None, GB, EU) if-ae-17-2.tcore1.ldn-london.as6453.net                                                             
+S (6453)  
+├─ 80.231.62.2     6453    151.183                       (None, None, CA, NA) *                                                                                                   
+LHL (6453, 6461)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 64.125.29.87    6461    156.925                       (Paris, IDF, FR, EU) ae1.mcs1.cdg12.fr.eth.zayo.com                                                                      
+╭─ 79.141.38.181   6461    157.003             (Paris, Île-de-France, FR, EU) 79.141.38.181.idia-344160-zyo.zip.zayo.com                                                          
+S&T (6461, 6696)  
+╰─ 62.112.29.168   6696    158.158                   (Brussels, None, BE, EU) edg01.lcldg.bra.be.verixi.net                                                                       
+   62.112.29.165   6696    161.305                       (None, None, BE, EU) edg01.blutw.bra.be.verixi.net                                                                       
+   80.67.181.1     204059  160.794                    (Brussels, BRU, BE, EU) edge-01.louise.neutri.net                                                                           
+   80.67.181.18    204059  162.67        (Brussels, Brussels Capital, BE, EU) core-01.louise.neutri.net                                                                           
+   80.67.181.29    204059  162.254       (Brussels, Brussels Capital, BE, EU) be-bru-as204059.anchors.atlas.ripe.net                                                              

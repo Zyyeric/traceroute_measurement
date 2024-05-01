@@ -1,0 +1,9 @@
+   38.47.189.189   140443  0.0           (Kuala Lumpur, Kuala Lumpur, MY, AS)                                                                                                     
+   38.47.189.1     140443  0.288         (Kuala Lumpur, Kuala Lumpur, MY, AS)                                                                                                     
+╭─ 38.47.188.2     140443  0.371         (Kuala Lumpur, Kuala Lumpur, MY, AS)                                                                                                     
+S&T (140443, 3491)  indonesia-global-gateway-igg-system ✓ || palapa-ring-west ✓ || batam-dumai-melaka-bdm-cable-system ✘ || jasuka ✓ || seamewe-4 ✘ || seamewe-5 ✓ || seax-1 ✘ || asia-submarine-cable-express-asecahaya-malaysia ✓ || asia-america-gateway-aag-cable-system ✓ || batam-rengit-cable-system-brcs ✘ || apcn-2 ✓
+├  10.111.220.141  *       0.357 (6.457)                                     ***                                                                                                     
+├─ 63.220.192.80   3491    6.992               (Singapore, Singapore, SG, AS) 63-220-192-80.static.pccwglobal.net                                                                 
+S (3491)  seamewe-3 👍 || eac-c2c ✓ || apcn-2 👍 || asia-pacific-gateway-apg ✓
+╰─ 63.223.9.198    3491    125.155                     (Taipei, None, TW, AS) HundredGE0-3-0-1.br01.tap04.pccwbtn.net                                                             
+   63.222.40.114   3491    121.231                   (Taipei, Taiwan, TW, AS) ncic.te0-1-0-23.br01.tap04.as3491.net                                                               

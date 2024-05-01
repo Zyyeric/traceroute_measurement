@@ -1,0 +1,20 @@
+   146.185.219.73  202422  0.0        (Petaẖ Tiqva, Central District, IL, AS)                                                                                                     
+   146.185.219.3   202422  0.602                 (Tel Aviv, Tel Aviv, IL, AS) vrrp.gcore.lu                                                                                       
+   10.255.29.241   *       0.55                                           ***                                                                                                     
+   31.168.224.93   8551    0.582                 (Tel Aviv, Tel Aviv, IL, AS) bzq-224-168-31-93.red.bezeqint.net                                                                  
+╭─ 62.219.189.185  8551    0.924                 (Rishon LeZiyyon, M, IL, AS) bzq-219-189-185.dsl.bezeqint.net                                                                    
+LHL (8551, 6461)  mednautilus-submarine-system ✓ || jonah 👍 || lev-submarine-system ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 80.81.194.26    6461    50.214             (Frankfurt am Main, HE, DE, EU) xe-1-2-0.mpr1.fra4.de.above.net                                                                     
+╭─ 64.125.30.254   6461    66.91              (Frankfurt am Main, HE, DE, EU) ae27.cs1.fra9.de.eth.zayo.com                                                                       
+T (6461)  
+╰─ 64.125.29.67    6461    67.328                        (Paris, IDF, FR, EU) ae2.cs1.cdg11.fr.eth.zayo.com                                                                       
+   ***             *       -inf                                           *** *                                                                                                   
+   64.125.29.87    6461    57.648                        (Paris, IDF, FR, EU) ae1.mcs1.cdg12.fr.eth.zayo.com                                                                      
+╭─ 79.141.38.181   6461    58.842              (Paris, Île-de-France, FR, EU) 79.141.38.181.idia-344160-zyo.zip.zayo.com                                                          
+S&T (6461, 6696)  
+╰─ 62.112.29.168   6696    62.067                    (Brussels, None, BE, EU) edg01.lcldg.bra.be.verixi.net                                                                       
+   62.112.29.165   6696    62.357                        (None, None, BE, EU) edg01.blutw.bra.be.verixi.net                                                                       
+   80.67.181.1     204059  61.045                     (Brussels, BRU, BE, EU) edge-01.louise.neutri.net                                                                           
+   80.67.181.18    204059  61.872        (Brussels, Brussels Capital, BE, EU) core-01.louise.neutri.net                                                                           
+   80.67.181.29    204059  61.434        (Brussels, Brussels Capital, BE, EU) be-bru-as204059.anchors.atlas.ripe.net                                                              

@@ -1,0 +1,21 @@
+   192.168.0.130   *       0.0                                            ***                                                                                                     
+   192.168.0.1     *       0.171                                          ***                                                                                                     
+   172.16.254.1    *       0.265                                          ***                                                                                                     
+   192.168.1.1     *       0.735                                          ***                                                                                                     
+   10.98.238.18    *       0.61 (4.187)                                     ***                                                                                                     
+   10.0.0.170      *       7.751                                          ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   81.212.216.12   9121    5.274                 (Ümraniye, Istanbul, TR, AS) 34-acibadem-xrs-t2-2---34-acibadem-sr12e-t3-8.statik.turktelekom.com.tr                             
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 212.156.139.60  9121    19.587                      (Istanbul, 34, TR, AS) *                                                                                                   
+S&T (9121, 1299)  kafos ✘
+├─ 62.115.37.72    1299    49.33               (Bucharest, București, RO, EU) buca-b3-link.ip.twelve99.net                                                                        
+T (1299)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 62.115.138.22   1299    50.844          (Frankfurt am Main, Hesse, DE, EU) ffm-bb2-link.ip.twelve99.net                                                                        
+T (1299)  
+╰─ 62.115.116.173  1299    59.718                   (Milan, Lombardy, IT, EU) mno-b3-link.ip.twelve99.net                                                                         
+   62.115.120.219  1299    67.706                       (Rome, Lazio, IT, EU) rom-b3-link.ip.twelve99.net                                                                         
+   80.239.133.50   1299    59.174                       (Rome, Lazio, IT, EU) sedmultitel-ic-376945.ip.twelve99-cust.net                                                          
+   ***             *       -inf                                           *** *                                                                                                   
+   194.187.172.112 35574   58.766                       (Rome, Lazio, IT, EU)                                                                                                     

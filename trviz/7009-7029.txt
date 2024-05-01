@@ -1,0 +1,23 @@
+   192.168.0.130   *       0.0                                            ***                                                                                                     
+   192.168.0.1     *       0.169                                          ***                                                                                                     
+   172.16.254.1    *       0.258                                          ***                                                                                                     
+   192.168.1.1     *       0.654                                          ***                                                                                                     
+   10.98.238.18    *       0.548 (4.204)                                     ***                                                                                                     
+   10.0.0.170      *       7.512                                          ***                                                                                                     
+   81.212.78.45    9121    5.296                     (Ankara, Ankara, TR, AS) 81.212.78.45.static.turktelekom.com.tr                                                              
+   81.212.216.50   9121    5.333              (Sultanbeyli, Istanbul, TR, AS) 34-acibadem-xrs-t2-1---34-acibadem-sr12e-t3-8.statik.turktelekom.com.tr                             
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 212.156.139.60  9121    19.14                       (Istanbul, 34, TR, AS) *                                                                                                   
+S&T (9121, 1299)  kafos ✘
+├─ 62.115.37.72    1299    50.17               (Bucharest, București, RO, EU) buca-b3-link.ip.twelve99.net                                                                        
+T (1299)  
+╰─ 62.115.114.110  1299    50.054                    (Vienna, Vienna, AT, EU) win-bb1-link.ip.twelve99.net                                                                        
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 77.67.120.173   3257    35.563                         (Vienna, 9, AT, EU) ae7.cr1-vie2.ip4.gtt.net                                                                            
+LHL (3257)  
+├─ 89.149.139.25   3257    60.607                       (London, ENG, GB, EU) ae22.cr11-lon1.ip4.gtt.net                                                                          
+S&T (3257, 8895)  
+├─ 154.14.64.198   8895    152.387                    (Amsterdam, NH, NL, EU) ip4.gtt.net                                                                                         
+LHL (8895, 208520)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 45.94.14.204    208520  133.415            (Riyadh, Riyadh Region, SA, AS)                                                                                                     

@@ -1,0 +1,16 @@
+   10.252.4.170    *       0.0                                            ***                                                                                                     
+   10.252.4.169    *       0.141                                          ***                                                                                                     
+   10.252.4.153    *       0.181                                          ***                                                                                                     
+   10.252.0.37     *       12.517                                         ***                                                                                                     
+   10.252.2.138    *       15.19                                          ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 154.25.16.81    174     16.676                (Istanbul, Istanbul, TR, AS) be3821.rcr71.ist01.atlas.cogentco.com                                                               
+S (174)  
+├─ 154.54.74.226   174     25.3                           (Lyon, ARA, FR, EU) be2881.rcr21.lys01.atlas.cogentco.com                                                               
+S&T (174, 25003)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 212.113.14.250  25003   64.3                        (London, None, GB, EU) IB.edge5.London1.Level3.net                                                                         
+T (25003)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 94.188.255.2    25003   107.178              (Bnei Brak, Tel Aviv, IL, AS) 255.188.94-binat-smaug.in-addr.arpa                                                                 

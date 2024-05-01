@@ -1,0 +1,13 @@
+   185.51.192.48   60781   0.0               (Haarlem, North Holland, NL, EU)                                                                                                     
+   185.51.192.253  60781   0.161             (Haarlem, North Holland, NL, EU)                                                                                                     
+   81.17.35.90     *       0.289             (Haarlem, North Holland, NL, EU) ae-23.br01.ams-01.nl.leaseweb.net                                                                   
+╭─ 31.31.38.114    *       0.235             (Haarlem, North Holland, NL, EU) po-101.agg01.ams-01.leaseweb.net                                                                    
+S&T (, 16265)  circe-north ✘ || ulysses-2 ✘ || scylla ✘ || zeus ✘ || concerto ✘ || farland-north ✘
+╰─ 31.31.34.21     16265   7.656                        (London, ENG, GB, EU) po-1.bb01.lon-10.leaseweb.net                                                                       
+╭─ 195.66.226.161  21320   7.28                       (London, ENG, GB, None) linx.ix.geant.net                                                                                   
+S&T (21320, 20965)  geo-eirgrid ✘ || exa-north-and-south ✘ || havhingstenceltixconnect-2-cc-2 ✓ || sirius-south ✘ || esat-2 ✓ || rockabill ✘ || esat-1 ✓ || pan-european-crossing-uk-ireland ✓ || exa-express ✘ || solas ✘
+╰─ 62.40.98.26     20965   16.705                  (Dublin, Leinster, IE, EU) ae6.mx1.dub.ie.geant.net                                                                            
+   83.97.88.74     1213    16.472                         (Dublin, D, IE, EU) heanet-ias-heanet-gw.dub.ie.geant.net                                                               
+   87.44.53.58     1213    16.634                  (Dublin, Leinster, IE, EU) ae4-0.core1-pw.nn.hea.net                                                                           
+   87.44.56.178    1213    16.492                           (Cork, M, IE, EU) po2.pw-spine1.nn.hea.net                                                                            
+   193.1.201.140   1213    16.696                (Tallaght, Leinster, IE, EU) atlas-anchor.heanet.ie                                                                              

@@ -1,0 +1,23 @@
+   197.239.73.59   37577   0.0                  (Ouagadougou, Centre, BF, AF)                                                                                                     
+   197.239.73.57   37577   0.405                (Ouagadougou, Centre, BF, AF)                                                                                                     
+   165.16.221.42   37721   0.453                         (None, None, BF, AF) *                                                                                                   
+   165.16.221.41   37721   1.051                         (None, None, BF, AF) *                                                                                                   
+   102.67.97.181   37721   1.228                (Ouagadougou, Centre, BF, AF) ce5-355.bb2.oua2.vts.bf                                                                             
+╭─ 102.67.97.41    37721   1.083 (3.19)              (Ouagadougou, KAD, BF, AF) et-0-0-1-2003.bb1.oua2.vts.bf                                                                       
+LHL (37721)  africa-coast-to-europe-ace ✓
+├─ 102.67.96.46    37721   16.29                        (Paris, None, FR, EU) xe-0-0-1-2022.bb2.prs1.vts.bf                                                                       
+LHL (37721)  
+├─ 102.67.97.66    37721   98.731                        (None, None, BF, AF) *                                                                                                   
+LHL (37721, 30844)  africa-coast-to-europe-ace ✓ ↠ africa-coast-to-europe-ace ✓
+╰─ 196.60.8.215    30844   194.482                 (Johannesburg, GT, ZA, AF) napafricajhb.liquidtelecom.net                                                                      
+   77.246.58.98    30844   196.161                 (Johannesburg, GT, ZA, AF) 77.246.58.98.liquidtelecom.net                                                                      
+╭─ 41.175.242.16   30844   201.415                    (Cape Town, WC, ZA, AF) hu-0-0-0-0.lza-p3-jhb.liquidtelecom.net                                                             
+S (30844)  
+├─ 41.175.45.43    30844   206.836                       (None, None, MU, AF) *                                                                                                   
+LHL (30844)  
+├─ 197.155.94.55   30844   205.797                      (Nairobi, 30, KE, AF) xe-0-0-0-LTZ-P1-SEA.liquidtelecom.net                                                               
+LHL (30844)  
+├─ 41.175.43.73    30844   199.964                       (None, None, MU, AF) xe-0-1-2-LTZ-PE1-RAH.liquidtelecom.net                                                              
+LHL (30844)  
+╰─ 41.175.46.58    30844   206.645                       (None, None, TZ, AF) *                                                                                                   
+   196.49.5.98     327844  201.502   (Dar es Salaam, Dar es Salaam Region, TZ, AF)                                                                                                     

@@ -1,0 +1,18 @@
+   84.88.18.254    13041   0.0                 (Barcelona, Catalonia, ES, EU) anchor-anella.cesca.cat                                                                             
+   84.88.18.253    13041   1.328               (Barcelona, Catalonia, ES, EU) anella-anchor.cesca.cat                                                                             
+   130.206.214.97  766     9.555                     (Madrid, Madrid, ES, EU) anella-ppal-as13041.ethtrunk11-81.telmad.rt3.mad.red.rediris.es                                     
+╭─ 83.97.90.20     21320   9.37                      (Madrid, Madrid, ES, EU) rediris-ias-geant-gw.mad.es.geant.net                                                               
+S&T (21320, 20965)  seamewe-3 ✓
+├─ 62.40.98.227    20965   39.641    (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) ae2.rt1.mar.fr.geant.net                                                                            
+T (20965)  
+├─ 62.40.98.236    20965   42.753                    (Genève, Geneva, CH, EU) ae4.mx1.gen.ch.geant.net                                                                            
+T (20965)  
+├─ 62.40.98.239    20965   42.731              (Paris, Île-de-France, FR, EU) ae7.mx1.par.fr.geant.net                                                                            
+S&T (20965)  africa-coast-to-europe-ace ✘ || seamewe-3 ✘
+├─ 62.40.98.106    20965   42.131                        (Lisbon, 11, PT, EU) ae0.mx2.lis.pt.geant.net                                                                            
+S&T (20965)  
+╰─ 62.40.98.64     20965   39.092                   (London, England, GB, EU) ae2.mx1.lon.uk.geant.net                                                                            
+   195.66.226.171  199524  40.211                     (London, ENG, GB, None) *                                                                                                   
+   93.123.11.83    199524  42.321                   (London, England, GB, EU)                                                                                                     
+   46.251.228.200  199610  40.773                        (None, None, GB, EU) *                                                                                                   
+   5.62.127.14     199610  40.327                   (London, England, GB, EU)                                                                                                     

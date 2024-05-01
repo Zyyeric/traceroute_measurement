@@ -1,0 +1,19 @@
+   141.164.39.1    20473   0.0                      (Paripark, Seoul, KR, AS) 141.164.39.1.vultrusercontent.com                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   100.100.100.1   *       0.331                                          ***                                                                                                     
+   10.84.0.17      *       1.074 (9.206)                                     ***                                                                                                     
+   10.84.2.49      *       0.918                                          ***                                                                                                     
+   210.176.150.116 4637    1.437                       (Seoul, Seoul, KR, AS) unknown.telstraglobal.net                                                                           
+╭─ 202.84.149.101  4637    1.756                       (Seoul, Seoul, KR, AS)                                                                                                     
+S (4637)  apcn-2 👍 || asia-pacific-gateway-apg ✓ || flag-north-asia-loopreach-north-asia-loop 👍 || eac-c2c 👍 || new-cross-pacific-ncp-cable-system ✓ || korea-japan-cable-network-kjcn ✓ || seamewe-3 👍 || flag-europe-asia-fea ✓ || trans-pacific-express-tpe-cable-system ✓
+╰─ 202.84.138.37   4637    32.333                      (Tokyo, Tokyo, JP, AS)                                                                                                     
+╭─ 202.47.216.210  4637    32.5                  (Tokyo / Narita, 12, JP, AS) i-94.siko11.telstraglobal.net                                                                       
+S (4637, 3257)  
+├─ 210.57.53.43    3257    31.319                        (None, None, HK, AS) unknown.telstraglobal.net                                                                           
+S (3257)  
+├─ 89.149.187.109  3257    274.291                      (London, ENG, GB, EU) ae15.cr11-lon1.ip4.gtt.net                                                                          
+S&T (3257, 8895)  
+├─ 154.14.64.198   8895    348.847                    (Amsterdam, NH, NL, EU) ip4.gtt.net                                                                                         
+LHL (8895, )  
+╰─ 45.94.12.1      *       365.719            (Riyadh, Riyadh Region, SA, AS)                                                                                                     
+   45.94.14.204    208520  365.882            (Riyadh, Riyadh Region, SA, AS)                                                                                                     

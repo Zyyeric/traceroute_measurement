@@ -1,0 +1,17 @@
+   89.213.179.65   32167   0.0                 (Hong Kong, Hong Kong, HK, AS) 89-213-179-65.ip.lshiyusercontent.com                                                               
+   ***             *       -inf                                           *** *                                                                                                   
+   103.203.243.10  955     0.619             (Kadoorie, Kowloon City, HK, AS) port-channe17.switch1.hkg1.bb.lshiy.net                                                             
+╭─ 184.104.194.90  6939    1.211               (Hong Kong, Hong Kong, HK, AS) port-channel5.core2.hkg2.he.net                                                                     
+S (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.105.80.13   6939    178.699                        (Milan, 25, IT, EU) 100ge7-2.core1.mil2.he.net                                                                          
+LHL (6939)  
+├─ 184.104.196.194 6939    194.777                       (Denver, CO, US, NA) port-channel1.core1.den3.he.net                                                                     
+LHL (6939)  
+╰─ 184.105.64.170  6939    208.431                       (Athens, A1, GR, EU) 100ge0-36.core1.ath1.he.net                                                                         
+   184.104.191.234 6939    208.8                     (Koropí, Attica, GR, EU) fast-telecom-p-c.e0-7.core1.ath1.he.net                                                             
+   ***             *       -inf                                           *** *                                                                                                   
+   185.14.96.225   211186  221.665            (Lamía, Central Greece, GR, EU) vlan4090.lamia.fast.net.gr                                                                          
+   185.14.96.232   211186  219.979            (Lamía, Central Greece, GR, EU)                                                                                                     

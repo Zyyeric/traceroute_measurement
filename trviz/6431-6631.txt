@@ -1,0 +1,14 @@
+   92.38.178.149   202422  0.0                       (Urayasu, Tokyo, JP, AS)                                                                                                     
+   92.38.178.1     202422  0.203                     (Urayasu, Tokyo, JP, AS) gw.gcore.lu                                                                                         
+   10.255.16.181   *       0.169                                          ***                                                                                                     
+   10.255.16.183   *       0.463                                          ***                                                                                                     
+   10.255.16.170   *       0.513                                          ***                                                                                                     
+╭─ 63.222.57.173   3491    0.648                     (Urayasu, Tokyo, JP, AS) 63-222-57-173.static.pccwglobal.net                                                                 
+S (3491)  asia-pacific-gateway-apg ✓ || eac-c2c ✓
+╰─ 63.223.58.66    3491    68.789                      (Singapore, 4, SG, AS) HundredGE0-3-0-0.br02.sin03.pccwbtn.net                                                             
+   63.223.58.66    3491    68.789                      (Singapore, 4, SG, AS) HundredGE0-3-0-0.br02.sin03.pccwbtn.net                                                             
+╭─ 63.218.249.166  3491    175.58              (Singapore, Singapore, SG, AS) 63-218-249-166.static.pccwglobal.net                                                                
+S (3491, 50999)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 109.171.136.4   50999   174.269             (Jeddah, Mecca Region, SA, AS)                                                                                                     

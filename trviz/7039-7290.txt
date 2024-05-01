@@ -1,0 +1,20 @@
+   103.225.148.27  45701   0.0                     (Jakarta, Jakarta, ID, AS) ip-27-148-225-103.globalxtreme.net                                                                  
+   103.225.148.17  45701   0.412                   (Jakarta, Jakarta, ID, AS) ip-17-148-225-103.globalxtreme.net                                                                  
+   202.58.202.4    *       19.941                  (Jakarta, Jakarta, ID, AS) ae-1-0-r1-jkt1.globalxtreme.net                                                                     
+╭─ 103.129.217.1   23947   19.186                  (Jakarta, Jakarta, ID, AS)                                                                                                     
+S&T (23947, 131111)  australia-singapore-cable-asc ✓ || matrix-cable-system ✘ || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || indonesia-global-gateway-igg-system ✓ || seamewe-3 ✓ || indigo-west ✓ || jakarta-bangka-bintan-batam-singapore-b3js © || jasuka ✓ || jakabare ✘
+├─ 103.16.102.21   131111  35.21                     (Singapore, 1, SG, None) moratel.sgix.sg                                                                                     
+S (131111, 137409)  
+├─ 27.111.229.213  137409  33.152                    (Seogwipo, None, KR, AS) 137409.sgw.equinix.com                                                                              
+S (137409, 7578)  
+╰─ 206.148.24.79   7578    32.801              (Singapore, Singapore, SG, AS) po4.sg-eqxsg3-cr2.globalsecurelayer.com                                                             
+╭─ 206.148.24.26   7578    32.393              (Singapore, Singapore, SG, AS) po1.sg-eqxsg3-bb1.globalsecurelayer.com                                                             
+S (7578)  
+├─ 206.148.24.67   7578    105.586          (Sydney, New South Wales, AU, OC) e2.ty-eqxty8-bb1.globalsecurelayer.com                                                              
+S (7578)  
+╰─ 206.148.24.34   7578    107.047                     (Tokyo, Tokyo, JP, AS) po50-2.ty-eqxty8-cr2.globalsecurelayer.com                                                          
+   206.148.24.35   7578    103.489                     (Tokyo, Tokyo, JP, AS) po10-2.ty-eqxty8-sw4.globalsecurelayer.com                                                          
+   45.11.107.52    969     100.086                     (Tokyo, Tokyo, JP, AS) e52-1-gsl.cr1a.eqty8.nrt4.jp.917.as                                                                 
+   199.119.64.139  969     97.508                    (Urayasu, Tokyo, JP, AS) e31-10.spine2.nrt04.jp.misaka.io                                                                    
+   103.170.232.11  142616  101.975                     (Tokyo, Tokyo, JP, AS) po-31.lag.nrt04.jp.misaka.io                                                                        
+   103.170.232.152 142616  101.436                     (Tokyo, Tokyo, JP, AS) user-103-170-232-152.nrt04.jp.misaka.io                                                             

@@ -1,0 +1,12 @@
+   103.170.154.254 142594  0.0                      (London, England, GB, EU) 254.154.170.103.speedyvps.uk                                                                        
+╭─ 103.170.154.1   142594  0.192                    (London, England, GB, EU)                                                                                                     
+T (142594, 60068)  
+├─ 156.146.32.92   60068   0.229                     (Prague, Prague, CZ, EU) unn-156-146-32-92.cdn77.com                                                                         
+T (60068, 201011)  
+├─ 81.95.9.56      201011  0.601                  (Shadwell, England, GB, EU) ae22-407.lon10.core-backbone.com                                                                    
+S&T (201011)  flag-europe-asia-fea ✘ || seamewe-3 ✘ || tata-tgn-western-europe ✘
+╰─ 80.255.14.2     201011  23.853                         (Madrid, M, ES, EU) ae2-2102.mad10.core-backbone.com                                                                    
+   193.149.1.26    766     23.994                      (Madrid, 29, ES, None) rediris.baja.espanix.net                                                                            
+   130.206.245.2   766     24.396                        (None, None, ES, EU) ciemat.rt2.ae1-0.telmad.rt4.mad.red.rediris.es                                                      
+   130.206.214.98  13041   33.362                        (None, None, ES, EU) anella-router.red.rediris.es                                                                        
+   84.88.18.254    13041   32.973              (Barcelona, Catalonia, ES, EU) anchor-anella.cesca.cat                                                                             

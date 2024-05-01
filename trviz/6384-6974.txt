@@ -1,0 +1,23 @@
+   182.161.74.241  55569   0.0                         (Tokyo, Tokyo, JP, AS)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   100.66.0.44     *       0.236                                          ***                                                                                                     
+   100.66.0.45     *       0.271                                          ***                                                                                                     
+╭─ 61.200.91.85    2914    0.954                       (Tokyo, Tokyo, JP, AS) ce-2-2-2.a01.tokyjp09.jp.bb.gin.ntt.net                                                             
+S (2914)  japan-u-s-cable-network-jus 👍 || tata-tgn-pacific ✓ || pacific-crossing-1-pc-1 👍 || faster ✓ || jupiter 👍
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 129.250.4.142   2914    114.043                       (None, None, US, NA) ae-5.sayonara-dorian.r24.sttlwa01.us.bb.gin.ntt.net                                                 
+   129.250.2.73    2914    108.058                       (None, None, US, NA) ae-0.sayonara-dorian.a02.sttlwa01.us.bb.gin.ntt.net                                                 
+   213.248.70.12   1299    106.412              (Seattle, Washington, US, NA) sea-b1-link.ip.twelve99.net                                                                         
+   62.115.132.154  1299    146.094                (Chicago, Illinois, US, NA) chi-bb2-link.ip.twelve99.net                                                                        
+╭─ 62.115.132.134  1299    166.55           (Jersey City, New Jersey, US, NA) nyk-bb2-link.ip.twelve99.net                                                                        
+S (1299)  exa-north-and-south ✘ || atlantic-crossing-1-ac-1 ✓ || yellow ✓ || apollo © || tata-tgn-atlantic ✓ || flag-atlantic-1-fa-1 ©
+├─ 62.115.113.21   1299    244.87                   (London, England, GB, EU) ldn-bb1-link.ip.twelve99.net                                                                        
+T (1299)  
+╰─ 80.91.249.11    1299    262.216                 (Hamburg, Hamburg, DE, EU) hbg-bb3-link.ip.twelve99.net                                                                        
+╭─ 62.115.123.76   1299    261.142         (Frankfurt am Main, Hesse, DE, EU) ffm-bb1-link.ip.twelve99.net                                                                        
+T (1299)  
+╰─ 62.115.123.13   1299    261.197             (Paris, Île-de-France, FR, EU) prs-bb1-link.ip.twelve99.net                                                                        
+   62.115.118.59   1299    261.703             (Paris, Île-de-France, FR, EU) prs-b3-link.ip.twelve99.net                                                                         
+   80.239.135.198  1299    261.546             (Paris, Île-de-France, FR, EU) qbrick-ic-153139.ip.twelve99-cust.net                                                               
+   95.81.129.209   52039   272.989                       (None, None, FR, EU) *                                                                                                   
+   185.150.253.30  52039   273.167                 (Rennes, Brittany, FR, EU)                                                                                                     

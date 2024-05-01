@@ -1,0 +1,14 @@
+   204.8.154.50    10961   0.0                (Boston, Massachusetts, US, NA) cs-atlas.bu.edu                                                                                     
+   128.197.255.155 111     1.068              (Boston, Massachusetts, US, NA)                                                                                                     
+   128.197.255.154 111     0.976              (Boston, Massachusetts, US, NA)                                                                                                     
+╭─ 128.197.254.114 111     3.095              (Boston, Massachusetts, US, NA) comm595-bdr-gw01-gi1-2-comm595-core-aca01-gi2-16.bu.edu                                             
+S (111, 3356)  exa-north-and-south ✘ || yellow ✓ || apollo ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 171.75.8.79     3356    81.464               (Manchester, England, GB, EU) ae1.5.edge3.man2.neo.colt.net                                                                       
+╭─ 195.50.121.178  33920   77.217                  (Manchester, None, GB, EU) AQ-LIMITED.bear1.Manchesteruk2.Level3.net                                                           
+S&T (33920, 201898)  
+╰─ 185.60.91.150   201898  76.883                     (Douglas, None, IM, EU) sfp-sfpplus2.c0.lds0001.bwc.im                                                                      
+   100.64.0.6      *       81.676                                         ***                                                                                                     
+   100.64.0.69     *       82.277                                         ***                                                                                                     
+   185.60.88.254   201898  80.483                  (Douglas, Douglas, IM, EU)                                                                                                     

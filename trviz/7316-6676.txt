@@ -1,0 +1,12 @@
+   203.175.175.206 24482   0.0                 (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 103.14.247.241  24482   0.537               (Singapore, Singapore, SG, AS)                                                                                                     
+S (24482)  
+├─ 27.111.228.159  24482   0.976                     (Seogwipo, None, KR, AS) 24482.sgw.equinix.com                                                                               
+S (24482, 2914)  
+├─ 27.111.228.66   2914    0.947                     (Singapore, 1, SG, None) *                                                                                                   
+LHL (2914, 55850)  
+╰─ 103.26.202.134  55850   115.37                (Auckland, Auckland, NZ, OC) xe-0-0-1-2.esy3-p-1.as55850.net                                                                     
+   116.251.185.234 55850   115.144                    (Tauranga, BOP, NZ, OC) et-0-0-10.atc-p-1.as55850.net                                                                       
+   116.251.187.224 55850   115.082               (Auckland, Auckland, NZ, OC) ip-116-251-187-224.kinect.net.nz                                                                    
+   116.251.187.225 55850   115.019               (Auckland, Auckland, NZ, OC) ip-116-251-187-225.kinect.net.nz                                                                    
+   185.121.168.251 61138   115.128              (Newmarket, Auckland, NZ, OC) nz-akl-as61138.anchors.atlas.ripe.net                                                               

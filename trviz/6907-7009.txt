@@ -1,0 +1,17 @@
+   45.94.14.204    208520  0.0                (Riyadh, Riyadh Region, SA, AS)                                                                                                     
+   45.94.14.193    208520  0.26               (Riyadh, Riyadh Region, SA, AS)                                                                                                     
+╭─ 212.138.250.7   8895    0.465              (Riyadh, Riyadh Region, SA, AS)                                                                                                     
+S (8895, 3257)  europe-india-gateway-eig ✓ || seamewe-3 ✓ || flag-europe-asia-fea ✘
+├─ 154.14.64.197   3257    92.853                   (London, England, GB, EU) et-0-0-8-2.cr11-lon1.ip4.gtt.net                                                                    
+T (3257)  
+├─ 141.136.110.41  3257    111.45             (Frankfurt am Main, HE, DE, EU) ae9.cr6-fra2.ip4.gtt.net                                                                            
+T (3257, 24940)  
+├─ 154.14.78.154   24940   103.679                       (None, None, CH, EU) ip4.gtt.net                                                                                         
+T (24940)  
+╰─ 213.239.245.126 24940   102.508                       (None, None, DE, EU) core8.fra.hetzner.com                                                                               
+   213.239.224.150 24940   123.673                       (None, None, DE, EU) core31.hel1.hetzner.com                                                                             
+╭─ 213.239.224.37  24940   123.94                        (None, None, DE, EU) juniper4.dc1.hel1.hetzner.com                                                                       
+S (24940, 16302)  c-lion1 ✘
+╰─ 213.239.239.114 16302   126.743                        (Espoo, 18, FI, EU) suomicom-gw.hetzner.com                                                                             
+   77.246.204.230  203296  127.172                     (Helsinki, 18, FI, EU) gw-l1.dei.fi                                                                                        
+   185.139.168.19  203296  126.928                (Helsinki, Uusimaa, FI, EU) fi-hel-as203296.anchors.atlas.ripe.net                                                              

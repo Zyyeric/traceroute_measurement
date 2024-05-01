@@ -1,0 +1,19 @@
+   92.38.135.131   202422  0.0                         (Seoul, Seoul, KR, AS)                                                                                                     
+   92.38.135.3     202422  0.295                       (Seoul, Seoul, KR, AS) vrrp.gcore.lu                                                                                       
+   10.255.17.210   *       0.276                                          ***                                                                                                     
+   10.255.17.213   *       0.253                                          ***                                                                                                     
+   10.255.17.147   *       0.412                                          ***                                                                                                     
+╭─ 8.244.74.25     3356    0.369 (0.921)                  (Seoul, Seoul, KR, AS)                                                                                                     
+S (3356)  apcn-2 ✓ || asia-pacific-gateway-apg ✓ || flag-north-asia-loopreach-north-asia-loop ✓ || eac-c2c © || new-cross-pacific-ncp-cable-system ✓ || korea-japan-cable-network-kjcn ✓ || seamewe-3 ✓ || flag-europe-asia-fea © || trans-pacific-express-tpe-cable-system ✓
+├─ 4.69.217.14     3356    31.441                         (Tokyo, 13, JP, AS) ae1.3505.edge2.Tokyo4.level3.net                                                                    
+S (3356, 6939)  japan-u-s-cable-network-jus 👍 || tata-tgn-pacific ✓ || pacific-crossing-1-pc-1 ✓ || faster ✓ || jupiter ✓ || new-cross-pacific-ncp-cable-system ✓ || trans-pacific-express-tpe-cable-system ✓ || unityeac-pacific ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.193.26  6939    153.558                     (Portland, OR, US, NA) 100ge14-1.core1.pdx1.he.net                                                                         
+╭─ 184.104.199.69  6939    181.036              (Seattle, Washington, US, NA) port-channel15.core2.sea1.he.net                                                                    
+S&T (6939)  
+╰─ 184.104.196.222 6939    159.974                    (Vancouver, BC, CA, NA) port-channel2.core2.yvr1.he.net                                                                     
+   65.19.133.197   6939    159.475      (Vancouver, British Columbia, CA, NA)                                                                                                     
+   192.30.89.87    394256  159.736      (Vancouver, British Columbia, CA, NA) ca-van-as394256.anchors.atlas.ripe.net                                                              

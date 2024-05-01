@@ -1,0 +1,14 @@
+   117.20.118.21   45498   0.0               (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     
+   117.20.118.17   45498   2.107             (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     
+   27.109.113.25   45498   1.193             (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     
+╭─ 27.109.113.6    45498   1.207                     (Phnom Penh, 12, KH, AS) *                                                                                                   
+LHL (45498)  asia-africa-europe-1-aae-1 ✘ ↠ seamewe-4 ✘ || asia-africa-europe-1-aae-1 ✘ ↠ seamewe-3 ✓ || asia-africa-europe-1-aae-1 ✘ ↠ seamewe-5 ✓ || asia-africa-europe-1-aae-1 ✘ ↠ peace-cable ✘
+╰─ 27.109.113.56   45498   36.86               (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 27.111.230.150  *       34.637              (Singapore, Singapore, SG, AS) 37468-sg1-ix.equinix.com                                                                            
+LHL (, 37468)  seamewe-4 ✘ ↠ seacomtata-tgn-eurasia ✘ || seamewe-3 ✘ ↠ seacomtata-tgn-eurasia ✘ || seamewe-5 ✘ ↠ seacomtata-tgn-eurasia ✘ || peace-cable ✘ ↠ seacomtata-tgn-eurasia ✘
+├─ 102.219.127.7   37468   178.826            (Johannesburg, Gauteng, ZA, AF)                                                                                                     
+S&T (37468)  
+├─ 102.130.68.112  37468   194.17                        (None, None, AO, AF) *                                                                                                   
+S (37468)  
+╰─ 102.130.68.69   37468   306.035                   (Lisbon, Lisbon, PT, EU)                                                                                                     
+   185.148.112.152 37468   305.807                   (Lisbon, Lisbon, PT, EU) 152.112.148.185.angolacables.ao                                                                     

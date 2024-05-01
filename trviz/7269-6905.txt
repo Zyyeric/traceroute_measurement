@@ -1,0 +1,17 @@
+   103.253.132.25  59238   0.0                     (Bangkok, Bangkok, TH, AS) th-bkk-as59238.anchors.atlas.ripe.net                                                               
+   103.253.132.1   59238   0.508                (Khlong San, Bangkok, TH, AS) gw-cat.idc.inox.co.th                                                                               
+   172.24.132.24   *       0.211                                          ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 122.155.224.73  4651    1.464                (Khlong San, Bangkok, TH, AS)                                                                                                     
+S&T (4651)  asia-america-gateway-aag-cable-system ✓ || seamewe-4 ✓ || seamewe-3 ✓
+╰─ 61.19.9.90      4651    28.868                   (Singapore, None, SG, AS) *                                                                                                   
+   180.87.96.148   6453    49.465                   (Singapore, None, SG, AS) ix-ae-39-0.tcore1.svq-singapore.as6453.net                                                          
+   120.29.214.11   6453    106.769                  (Singapore, None, SG, AS) if-be-46-2.ecore2.svq-singapore.as6453.net                                                          
+   63.243.180.160  6453    29.257              (Singapore, Singapore, SG, AS) if-bundle-22-2.qcore2.esin4-singapore.as6453.net                                                    
+   63.243.180.131  6453    29.359              (Singapore, Singapore, SG, AS) if-bundle-19-2.qcore1.svw-singapore.as6453.net                                                      
+   209.58.82.130   6453    29.283              (Singapore, Singapore, SG, AS) if-ae-33-2.tcore1.svw-singapore.as6453.net                                                          
+╭─ 180.87.12.34    6453    100.056                       (None, None, SG, AS) *                                                                                                   
+S&T (6453, 45117)  
+├  172.31.213.25   *       93.323                                         ***                                                                                                     
+╰─ 121.241.90.58   45117   92.237                     (Ahmedabad, GJ, IN, AS) 121.241.90.58.static-ahmedabad.vsnl.net.in                                                          
+   116.206.155.229 45117   91.699                (Ahmedabad, Gujarat, IN, AS)                                                                                                     

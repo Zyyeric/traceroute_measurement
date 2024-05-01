@@ -1,0 +1,17 @@
+   180.211.88.22   45725   0.0                     (Jakarta, Jakarta, ID, AS) id-jkt-as45725.anchors.atlas.ripe.net                                                               
+   180.211.88.21   45725   0.372                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+╭─ 43.230.153.89   *       0.467                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+S&T (, 9002)  australia-singapore-cable-asc ✘ || matrix-cable-system ✘ || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || indonesia-global-gateway-igg-system ✘ || seamewe-3 ✘ || indigo-west ✘ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || jasuka ✘ || jakabare ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├  10.110.1.0      *       12.284                                         ***                                                                                                     
+├─ 87.245.238.250  9002    12.647                      (Singapore, 4, SG, AS) ae0-302.RT1.EQX.SIN.SG.retn.net                                                                     
+S (9002, 17557)  asia-pacific-gateway-apg ✓ || eac-c2c ✓ || apcn-2 ✓ || seamewe-3 ✓
+├─ 27.111.228.83   17557   97.304                    (Seogwipo, None, KR, AS) 17557.sgw.equinix.com                                                                               
+S (17557, 7590)  
+├  10.253.4.25     *       92.827                                         ***                                                                                                     
+├  10.253.4.39     *       113.106                                        ***                                                                                                     
+├  10.253.12.37    *       112.756                                        ***                                                                                                     
+├  10.253.13.41    *       112.068                                        ***                                                                                                     
+╰─ 202.125.149.58  7590    111.232                   (Rawalpindi, PB, PK, AS) Touchstone-4.rwp44d1.pie.net.pk                                                                     
+   210.56.8.180    7590    109.577                    (Islamabad, IS, PK, AS) *                                                                                                   
+   210.56.11.202   7590    111.418             (Islamabad, Islamabad, PK, AS)                                                                                                     

@@ -1,0 +1,11 @@
+   87.253.184.92   35258   0.0                     (Hamburg, Hamburg, DE, EU) de-ham-as35258.akqui.net                                                                            
+   87.253.184.90   35258   0.381                   (Hamburg, Hamburg, DE, EU) ae-10-380.pe-fbrc3.ham02.de.akqui.net                                                               
+   185.102.104.222 *       0.569                   (Hamburg, Hamburg, DE, EU) et-0-0-8.p-backbone1.ham02.de.akqui.net                                                             
+   185.102.104.190 *       0.7                     (Hamburg, Hamburg, DE, EU) ae-2.p-backbone1.nor01.de.akqui.net                                                                 
+   185.102.104.113 *       0.904                   (Hamburg, Hamburg, DE, EU) et-0-0-0.pe-irxc2.ham42.de.akqui.net                                                                
+   80.81.203.68    *       25.561      (Köln, North Rhine-Westphalia, DE, EU)                                                                                                     
+╭─ 195.122.0.125   12578   29.213             (Frankfurt am Main, HE, DE, EU) *                                                                                                   
+LHL (12578, 51349)  baltica ✓ ↠ latvia-sweden-1-lv-se-1 👍 || baltica ✓ ↠ sweden-latvia ©
+├─ 195.122.18.250  51349   32.373                         (Riga, RIX, LV, EU) *                                                                                                   
+LHL (51349)  latvia-sweden-1-lv-se-1 ✓ ↠ sweden-estonia-ee-s-1 ✘ || latvia-sweden-1-lv-se-1 ✓ ↠ baltic-sea-submarine-cable ✘ || sweden-latvia ✘ ↠ sweden-estonia-ee-s-1 ✘ || sweden-latvia ✘ ↠ baltic-sea-submarine-cable ✘
+╰─ 195.43.87.140   51349   28.581                 (Tallinn, Harjumaa, EE, EU) rr-s-140.internet.ee                                                                                

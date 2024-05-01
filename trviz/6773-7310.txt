@@ -1,0 +1,12 @@
+   38.47.189.189   140443  0.0           (Kuala Lumpur, Kuala Lumpur, MY, AS)                                                                                                     
+   38.47.189.1     140443  0.384         (Kuala Lumpur, Kuala Lumpur, MY, AS)                                                                                                     
+╭─ 38.47.188.2     140443  0.228         (Kuala Lumpur, Kuala Lumpur, MY, AS)                                                                                                     
+S&T (140443, 3491)  indonesia-global-gateway-igg-system ✓ || palapa-ring-west ✓ || batam-dumai-melaka-bdm-cable-system ✘ || jasuka ✓ || seamewe-4 ✘ || seamewe-5 ✓ || seax-1 ✘ || asia-submarine-cable-express-asecahaya-malaysia ✓ || asia-america-gateway-aag-cable-system ✓ || batam-rengit-cable-system-brcs ✘ || apcn-2 ✓
+├  10.111.220.141  *       0.254 (6.331)                                     ***                                                                                                     
+├─ 63.220.192.80   3491    6.66                (Singapore, Singapore, SG, AS) 63-220-192-80.static.pccwglobal.net                                                                 
+S (3491)  eac-c2c ✓ || asia-pacific-gateway-apg ✓ || southeast-asia-japan-cable-sjc ✓ || asia-america-gateway-aag-cable-system ✓ || seamewe-3 👍 || asia-submarine-cable-express-asecahaya-malaysia ✓ || apcn-2 👍
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 63.223.193.193  3491    42.448                   (Hong Kong, None, HK, AS) TenG0-0-0-1.dcbr01.hkg39.pccwbtn.net                                                                
+   63.223.193.193  3491    42.448                   (Hong Kong, None, HK, AS) TenG0-0-0-1.dcbr01.hkg39.pccwbtn.net                                                                
+   63.222.7.46     3491    46.888              (Hong Kong, Hong Kong, HK, AS) 63-222-7-46.static.pccwglobal.net                                                                   

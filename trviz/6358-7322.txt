@@ -1,0 +1,24 @@
+   212.45.159.245  8816    0.0                      (Milan, Lombardy, IT, EU) it-mil-as8816.anchors.atlas.ripe.net                                                                
+   212.45.159.246  8816    0.962                    (Milan, Lombardy, IT, EU) asr-luc1-gi7.metrolink.it                                                                           
+   212.45.137.202  8816    1.051                    (Milan, Lombardy, IT, EU) asr-luc2-te27.metrolink.it                                                                          
+   212.45.137.197  8816    1.281                    (Milan, Lombardy, IT, EU) br-ava-te28.metrolink.it                                                                            
+╭─ 185.1.114.20    *       1.137                   (Figino, Lombardy, IT, EU) he.minap.it                                                                                         
+T (, 6939)  
+├─ 184.105.65.33   6939    1.141 (5.137)                    (Zurich, ZH, CH, EU) 100ge5-2.core1.zrh2.he.net                                                                          
+T (6939)  
+├─ 184.105.65.30   6939    10.984             (Frankfurt am Main, HE, DE, EU) 100ge0-66.core3.fra1.he.net                                                                         
+T (6939)  
+╰─ 72.52.92.5      6939    15.931                     (Amsterdam, NH, NL, EU) port-channel13.core2.ams1.he.net                                                                    
+   216.66.83.127   6939    24.149          (Amsterdam, North Holland, NL, EU) mtn-globalconnect-solutions-ltd.e0-30.switch1.ams6.he.net                                           
+╭─ 41.181.105.195  16637   23.069          (Amsterdam, North Holland, NL, EU)                                                                                                     
+LHL (16637)  
+├─ 41.181.190.198  16637   29.643                      (Pretoria, GP, ZA, AF) *                                                                                                   
+T (16637)  
+├─ 41.181.244.176  16637   30.196                   (London, England, GB, EU)                                                                                                     
+T (16637, 20294)  
+├─ 41.181.247.39   20294   179.164                       (None, None, ZA, AF) *                                                                                                   
+LHL (20294)  
+╰─ 212.88.110.34   20294   178.971          (Kampala, Central Region, UG, AF)                                                                                                     
+   129.205.30.76   37063   178.97                        (Kampala, C, UG, AF) *                                                                                                   
+   41.191.77.206   328998  178.084                       (Kampala, C, UG, AF) *                                                                                                   
+   196.49.15.189   328998  179.441          (Kampala, Central Region, UG, AF)                                                                                                     

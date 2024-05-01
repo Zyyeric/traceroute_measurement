@@ -1,0 +1,26 @@
+   172.17.48.40    *       0.0                                            ***                                                                                                     
+   172.17.48.254   *       0.454                                          ***                                                                                                     
+   172.22.8.12     *       1.064                                          ***                                                                                                     
+   172.22.6.7      *       1.298                                          ***                                                                                                     
+   172.25.0.197    *       1.304                                          ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   172.16.2.233    *       4.036                                          ***                                                                                                     
+   10.202.7.130    *       3.292                                          ***                                                                                                     
+╭─ 195.219.87.198  6453    116.015         (Frankfurt am Main, Hesse, DE, EU) ix-et-4-0-5-0.tcore2.fnm-frankfurt.as6453.net                                                       
+T (6453)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 195.219.187.3   6453    129.767   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) if-be-34-2.ecore2.emrs2-marseille.as6453.net                                                        
+╭─ 105.16.32.2     37100   226.807                   (Marseille, PAC, FR, EU) ae-2.cr-02-mrs.fr.seacomnet.com                                                                     
+S&T (37100)  
+╰─ 105.25.160.165  37100   228.217          (Cape Town, Western Cape, ZA, AF) ce-0-1-9.cr-02-cpt.za.seacomnet.com                                                                 
+   105.16.31.10    37100   233.02                     (Cape Town, WC, ZA, AF) xe-1-0-0-0.er-02-cpt.za.seacomnet.com                                                               
+   105.22.72.214   37100   245.395          (Cape Town, Western Cape, ZA, AF)                                                                                                     
+   41.84.12.26     37179   250.229                 (Johannesburg, GP, ZA, AF) core.100g-0-8-0-wc-ro-ter-scp-1.za.africainx.net                                                    
+   41.84.12.155    37179   250.094   (Bloemfontein, Orange Free State, ZA, AF) core.ae0-fs-bl-is-nec-1.za.africainx.net                                                            
+   41.84.12.46     37179   249.128          (Cape Town, Western Cape, ZA, AF) core.xe-0-2-0-gp-rb-pkl-scp-1.za.africainx.net                                                      
+   41.84.12.37     37179   247.62                  (Johannesburg, GP, ZA, AF) core-xe-0-2-2-gp-rb-pkl-scp-1.za.africainx.net                                                      
+   41.84.12.161    37179   248.6                   (Johannesburg, GP, ZA, AF) core.xge-0-2-1-gp-sm-het-scp-1.za.africainx.net                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   41.66.132.246   37153   249.11                  (Johannesburg, GP, ZA, AF) 41-66-132-246-f6.hetzner-jhb-ip4-gw.africainx.net                                                   
+   197.189.193.1   37153   255.367                      (Sandton, GP, ZA, AF) core-access-switch1.jnb1.host-h.net                                                                 
+   197.189.194.147 37153   249.493            (Johannesburg, Gauteng, ZA, AF) atlas-anchor-jnb1.jnb.net.host-h.net                                                                

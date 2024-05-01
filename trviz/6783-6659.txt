@@ -1,0 +1,13 @@
+   5.188.238.222   202422  0.0                 (São Paulo, São Paulo, BR, SA)                                                                                                     
+   5.188.238.3     202422  0.18                (São Paulo, São Paulo, BR, SA) vrrp.gcore.lu                                                                                       
+   10.255.22.182   *       0.128                                          ***                                                                                                     
+   10.255.22.187   *       0.384                                          ***                                                                                                     
+╭─ 8.243.60.29     199524  0.922                       (Campinas, SP, BR, SA) *                                                                                                   
+S (199524, 1299)  south-america-1-sam-1 ✓ || monet ✓ || seabras-1 ✓ || america-movil-submarine-cable-system-1-amx-1 ✓ || brusa ✓ || globenet ✓ || americas-ii ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 62.115.141.245  1299    126.455          (New York City, New York, US, NA) nyk-bb1-link.ip.twelve99.net                                                                        
+   62.115.126.177  1299    126.317          (New York City, New York, US, NA) ewr-b1-link.ip.twelve99.net                                                                         
+   62.115.44.133   1299    125.852                   (Miami, Florida, US, NA) marbisgmbh-ic-383538.ip.twelve99-cust.net                                                           
+   109.230.208.226 199610  126.868              (Clifton, New Jersey, US, NA)                                                                                                     

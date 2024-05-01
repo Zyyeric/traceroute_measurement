@@ -1,0 +1,15 @@
+   63.222.187.5    3491    0.0                 (Manila, Metro Manila, PH, AS)                                                                                                     
+╭─ 63.222.187.14   3491    0.798              (Bel Air, Metro Manila, PH, AS)                                                                                                     
+S (3491)  eac-c2c ✓ || seamewe-3 👍 || southeast-asia-japan-cable-sjc ✓ || tata-tgn-intra-asia-tgn-ia ✓ || asia-submarine-cable-express-asecahaya-malaysia ✓ || asia-america-gateway-aag-cable-system ✓
+╰─ 63.218.210.90   3491    24.742                   (Hong Kong, None, HK, AS) HundredGE0-0-0-1.br05.hkg15.pccwbtn.net                                                             
+   63.218.210.90   3491    24.742                   (Hong Kong, None, HK, AS) HundredGE0-0-0-1.br05.hkg15.pccwbtn.net                                                             
+╭─ 65.49.108.73    6939    26.018              (Hong Kong, Hong Kong, HK, AS) port-channel6.core2.hkg1.he.net                                                                     
+S (6939)  apcn-2 ✓ || seamewe-3 ✓ || asia-submarine-cable-express-asecahaya-malaysia ✓ || flag-north-asia-loopreach-north-asia-loop ✓ || flag-europe-asia-fea ✓ || asia-pacific-gateway-apg ✓ || eac-c2c ✓ || southeast-asia-japan-cable-sjc ✓
+├─ 184.104.199.10  6939    77.736                      (Tokyo, Tokyo, JP, AS) port-channel1.core3.tyo1.he.net                                                                     
+S (6939)  japan-u-s-cable-network-jus ✓ || tata-tgn-pacific ✓ || pacific-crossing-1-pc-1 ✘ || faster ✓ || jupiter ✓ || new-cross-pacific-ncp-cable-system ✓ || trans-pacific-express-tpe-cable-system ✓ || unityeac-pacific ✓
+╰─ 184.105.223.126 6939    181.474             (San Jose, California, US, NA) port-channel1.core4.sjc2.he.net                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   184.105.177.238 46749   181.997                   (Pleasanton, CA, US, NA) stanford-university.100gigabitethernet5-1.core1.pao1.he.net                                         
+   171.66.0.238    32      186.373                     (Stanford, CA, US, NA) csee-west-rtr-vl12.SUNet                                                                            
+   ***             *       -inf                                           *** *                                                                                                   
+   171.67.70.16    32      179.271             (Stanford, California, US, NA) us-pao-as32.anchors.atlas.ripe.net                                                                  

@@ -1,0 +1,18 @@
+   192.30.89.87    394256  0.0          (Vancouver, British Columbia, CA, NA) ca-van-as394256.anchors.atlas.ripe.net                                                              
+   192.30.89.94    394256  0.455        (Vancouver, British Columbia, CA, NA)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   184.105.222.97  6939    26.845                      (Winnipeg, MB, CA, NA) 100ge10-2.core1.ywg1.he.net                                                                         
+╭─ 184.105.64.101  6939    47.391                  (Toronto, Ontario, CA, NA) 100ge0-71.core2.tor1.he.net                                                                         
+S&T (6939)  
+├─ 184.104.196.177 6939    62.288                      (New York, NY, US, NA) 100ge0-76.core3.nyc4.he.net                                                                         
+S (6939)  exa-north-and-south ✓ || atlantic-crossing-1-ac-1 ✓ || yellow ✓ || apollo ✓ || tata-tgn-atlantic ✓ || flag-atlantic-1-fa-1 ✓
+├─ 72.52.92.165    6939    140.848                      (London, ENG, GB, EU) 100ge7-1.core1.lon2.he.net                                                                          
+T (6939, )  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 80.81.197.8     *       156.115         (Frankfurt am Main, Hesse, DE, EU)                                                                                                     
+S (, 20904)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 93.174.194.183  20904   163.276         (Oulu, North Ostrobothnia, FI, EU)                                                                                                     

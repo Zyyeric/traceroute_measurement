@@ -1,0 +1,24 @@
+   92.38.135.131   202422  0.0                         (Seoul, Seoul, KR, AS)                                                                                                     
+   92.38.135.2     202422  0.259                       (Seoul, Seoul, KR, AS) vrrp.gcore.lu                                                                                       
+   10.255.17.209   *       0.261                                          ***                                                                                                     
+   10.255.17.213   *       0.308                                          ***                                                                                                     
+   10.255.17.147   *       0.269                                          ***                                                                                                     
+╭─ 113.29.52.41    3549    0.422                       (Seoul, Seoul, KR, AS)                                                                                                     
+S (3549, 3356)  eac-c2c ✘ || asia-pacific-gateway-apg ✘ || apcn-2 ✘ || seamewe-3 ✘
+├─ 4.69.211.62     3356    96.184                   (Singapore, None, SG, AS) ae14.14.bar1.Singapore4.level3.net                                                                  
+S (3356, 1273)  
+╰─ 195.2.16.177    1273    96.123                        (None, None, GB, EU) ae14-xcr2.sgs.cw.net                                                                                
+   195.2.24.165    1273    327.05                        (None, None, GB, EU) ae9-xcr1.sng.cw.net                                                                                 
+╭─ 195.2.2.57      1273    325.081                       (None, None, GB, EU) ae34-xcr1.mrx.cw.net                                                                                
+S&T (1273)  
+├─ 195.2.31.117    1273    322.703                  (Milan, Lombardy, IT, EU) ae18-xcr1.mlb.cw.net                                                                                
+S&T (1273)  
+╰─ 195.2.2.158     1273    309.603                       (None, None, GB, EU) ae51-xcr1.fix.cw.net                                                                                
+╭─ 195.2.20.226    1273    325.078                       (None, None, GB, EU) ae17.pcr1.fnt.cw.net                                                                                
+T (1273, 12389)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 95.167.95.133   12389   336.465                   (Moscow, Moscow, RU, EU)                                                                                                     
+   176.210.106.50  47165   322.488                        (Omsk, OMS, RU, EU) *                                                                                                   
+   217.25.211.30   49404   321.828                        (Omsk, OMS, RU, EU) host30.net211.omkc.ru                                                                               
+   ***             *       -inf                                           *** *                                                                                                   
+   193.169.52.51   49404   326.417                (Omsk, Omsk Oblast, RU, EU) host52-51.promobit.ru                                                                               

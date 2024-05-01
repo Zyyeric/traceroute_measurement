@@ -1,0 +1,25 @@
+   103.215.229.229 140443  0.0                  (Surabaya, East Java, ID, AS) 229.229.215.103.in-addr.herza.id                                                                    
+   103.215.229.1   140443  0.157         (Gubengairlangga, East Java, ID, AS)                                                                                                     
+   103.215.228.1   140443  0.195         (Gubengairlangga, East Java, ID, AS) 1.228.215.103.in-addr.herza.id                                                                      
+╭─ 36.64.254.21    7713    0.189 (3.601)    (Gubengairlangga, East Java, ID, AS)                                                                                                     
+S&T (7713)  australia-singapore-cable-asc ✓ || matrix-cable-system ✘ || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || indonesia-global-gateway-igg-system 👍 || seamewe-3 ✓ || jasuka 👍 || indigo-west ✓ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || jakabare ✓
+╰─ 180.240.193.93  7713    18.635              (Singapore, Singapore, SG, AS)                                                                                                     
+   180.240.193.93  7713    18.635              (Singapore, Singapore, SG, AS)                                                                                                     
+   180.240.204.8   7713    19.594              (Singapore, Singapore, SG, AS)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 62.115.137.243  1299    19.839              (Singapore, Singapore, SG, AS) snge-b4-link.ip.twelve99.net                                                                        
+S (1299)  eac-c2c © || asia-pacific-gateway-apg ✓ || southeast-asia-japan-cable-sjc ✓ || asia-america-gateway-aag-cable-system © || seamewe-3 ✓ || asia-submarine-cable-express-asecahaya-malaysia ✓ || apcn-2 ✓ || tata-tgn-intra-asia-tgn-ia ✓
+├─ 62.115.112.223  1299    58.062              (Hong Kong, Hong Kong, HK, AS) hnk-b4-link.ip.twelve99.net                                                                         
+S (1299)  apcn-2 ✓ || seamewe-3 ✓ || asia-submarine-cable-express-asecahaya-malaysia ✓ || flag-north-asia-loopreach-north-asia-loop ✓ || flag-europe-asia-fea © || asia-pacific-gateway-apg ✓ || eac-c2c © || southeast-asia-japan-cable-sjc ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 62.115.126.134  1299    119.333                     (Tokyo, Tokyo, JP, AS) tky-b2-link.ip.twelve99.net                                                                         
+╭─ 62.115.115.65   1299    191.28                      (Osaka, Ōsaka, JP, AS) osa-b1-link.ip.twelve99.net                                                                         
+S (1299)  
+╰─ 62.115.112.34   1299    191.624          (Los Angeles, California, US, NA) lax-b23-link.ip.twelve99.net                                                                        
+   62.115.126.251  1299    191.063          (Los Angeles, California, US, NA) lax-b3-link.ip.twelve99.net                                                                         
+   62.115.149.37   1299    191.586          (Los Angeles, California, US, NA) constantcompany-ic-375793.ip.twelve99-cust.net                                                      
+   10.68.1.22      *       191.676                                        ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   149.248.18.65   20473   191.561          (Los Angeles, California, US, NA) 149.248.18.65.vultrusercontent.com                                                                  

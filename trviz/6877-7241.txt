@@ -1,0 +1,13 @@
+   182.18.209.9    23944   0.0                 (Manila, Metro Manila, PH, AS)                                                                                                     
+   182.18.209.1    23944   0.804          (Quezon City, Metro Manila, PH, AS) 209-182.gw.skybroadband.com.ph                                                                      
+╭─ 130.105.0.32    23944   0.757          (Quezon City, Metro Manila, PH, AS)                                                                                                     
+S (23944, 6939)  eac-c2c ✓ || seamewe-3 ✓ || southeast-asia-japan-cable-sjc ✓ || apcn-2 ✓ || tata-tgn-intra-asia-tgn-ia ✓ || asia-submarine-cable-express-asecahaya-malaysia ✓ || asia-america-gateway-aag-cable-system ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.199.182 6939    61.939              (Singapore, Singapore, SG, AS) port-channel3.core3.sin1.he.net                                                                     
+S (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.193.138 6939    201.31                     (Brussels, BRU, BE, EU) 100ge0-33.core2.bru1.he.net                                                                         
+   185.1.127.26    *       201.232        (Ixelles, Brussels Capital, BE, EU) devrandom.belgiumix.net                                                                             
+   45.87.79.251    208725  200.049       (Brussels, Brussels Capital, BE, EU) router01.sw1.core.devrandom.be                                                                      
+   45.87.76.6      208725  198.311       (Brussels, Brussels Capital, BE, EU) ansible.devrandom.be                                                                                

@@ -1,0 +1,19 @@
+   103.253.132.25  59238   0.0                     (Bangkok, Bangkok, TH, AS) th-bkk-as59238.anchors.atlas.ripe.net                                                               
+   103.253.132.1   59238   1.161                (Khlong San, Bangkok, TH, AS) gw-cat.idc.inox.co.th                                                                               
+   172.24.132.102  *       1.41                                           ***                                                                                                     
+   172.24.132.23   *       0.792                                          ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 122.155.224.73  4651    31.031               (Khlong San, Bangkok, TH, AS)                                                                                                     
+S&T (4651)  
+├─ 61.19.9.138     4651    28.982              (Singapore, Singapore, SG, AS)                                                                                                     
+S (4651, 6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.196.194 6939    190.56                        (Denver, CO, US, NA) port-channel1.core1.den3.he.net                                                                     
+LHL (6939)  
+╰─ 184.105.64.170  6939    204.58                        (Athens, A1, GR, EU) 100ge0-36.core1.ath1.he.net                                                                         
+   149.11.120.66   174     217.693              (Metamórfosi, Attica, GR, EU) fastpath1.demarc.cogentco.com                                                                       
+   185.201.254.31  56457   218.066               (Áno Liósia, Attica, GR, EU) be3503.ef2.ath01.fastpath.gr                                                                        
+   185.201.254.37  56457   218.377               (Áno Liósia, Attica, GR, EU) te1-24.sp0.ath01.fastpath.gr                                                                        
+   176.119.210.244 56457   215.497                   (Athens, Attica, GR, EU)                                                                                                     

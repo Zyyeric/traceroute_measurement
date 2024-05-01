@@ -1,0 +1,18 @@
+   103.253.132.25  59238   0.0                     (Bangkok, Bangkok, TH, AS) th-bkk-as59238.anchors.atlas.ripe.net                                                               
+   103.253.132.1   59238   0.303                (Khlong San, Bangkok, TH, AS) gw-cat.idc.inox.co.th                                                                               
+   ***             *       -inf                                           *** *                                                                                                   
+   172.21.21.2     *       0.422                                          ***                                                                                                     
+╭─ 122.155.224.73  4651    1.505                (Khlong San, Bangkok, TH, AS)                                                                                                     
+S&T (4651)  asia-america-gateway-aag-cable-system ✓ || seamewe-4 ✓ || seamewe-3 ✓
+├─ 61.19.9.134     4651    24.928                   (Singapore, None, SG, AS) *                                                                                                   
+S (4651, 7713)  
+├─ 27.111.228.77   7713    25.972                    (Seogwipo, None, KR, AS) 7713.sgw.equinix.com                                                                                
+S (7713)  
+╰─ 180.240.204.9   7713    29.031              (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 180.240.204.9   7713    29.031              (Singapore, Singapore, SG, AS)                                                                                                     
+S&T (7713)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 36.64.254.21    7713    46.628        (Gubengairlangga, East Java, ID, AS)                                                                                                     
+   36.64.254.22    7713    46.587                    (Denpasar, Bali, ID, AS)                                                                                                     
+   103.215.228.2   140443  44.04                (Surabaya, East Java, ID, AS) 2.228.215.103.in-addr.herza.id                                                                      
+   103.215.229.229 140443  44.173               (Surabaya, East Java, ID, AS) 229.229.215.103.in-addr.herza.id                                                                    

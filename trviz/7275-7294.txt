@@ -1,0 +1,18 @@
+   10.252.4.170    *       0.0                                            ***                                                                                                     
+   10.252.4.169    *       0.102                                          ***                                                                                                     
+   10.252.4.153    *       0.159                                          ***                                                                                                     
+   10.252.0.37     *       14.233                                         ***                                                                                                     
+╭─ 184.104.196.46  6939    52.427                      (Istanbul, 34, TR, AS) 100ge0-36.core1.ist1.he.net                                                                         
+S (6939, 1299)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 62.115.165.38   1299    60.382    (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) hurricane-ic-359257.ip.twelve99-cust.net                                                            
+S (1299, 6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 74.82.49.214    6939    296.995             (Singapore, Singapore, SG, AS) pt-jala-lintas-media.e0-3.switch5.sin1.he.net                                                       
+S&T (6939, 133840)  
+╰─ 103.66.70.104   133840  296.9                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+   121.100.0.45    38158   300.305                 (Jakarta, Jakarta, ID, AS)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   180.211.88.22   45725   310.945                 (Jakarta, Jakarta, ID, AS) id-jkt-as45725.anchors.atlas.ripe.net                                                               

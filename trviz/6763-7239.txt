@@ -1,0 +1,26 @@
+   102.130.66.11   37468   0.0                       (Luanda, Luanda, AO, AF)                                                                                                     
+   102.130.66.1    37468   0.295                     (Luanda, Luanda, AO, AF)                                                                                                     
+   102.130.68.105  37468   0.674                         (None, None, AO, AF) *                                                                                                   
+   102.130.68.111  37468   0.611 (2.084)                (Luanda, Luanda, AO, AF)                                                                                                     
+╭─ 102.130.68.138  37468   36.414                        (None, None, AO, AF) *                                                                                                   
+S (37468)  west-africa-cable-system-wacs 👍 || sat-3wasc ✓
+╰─ 102.130.68.69   37468   135.922                   (Lisbon, Lisbon, PT, EU)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 154.54.61.214   174     153.291                        (Porto, 13, PT, EU) be2444.rcr21.opo01.atlas.cogentco.com                                                               
+S&T (174)  seamewe-3 ✓ || sat-3wasc ✓
+├─ 154.54.61.101   174     165.73                        (Bilbao, PV, ES, EU) be2313.ccr31.bio02.atlas.cogentco.com                                                               
+S&T (174)  
+╰─ 154.54.39.226   174     190.66                    (Marseille, PAC, FR, EU) be3077.ccr31.mrs02.atlas.cogentco.com                                                               
+╭─ 154.54.56.65    174     195.752           (Bordeaux/Merignac, NAQ, FR, EU) be2840.rcr21.bod01.atlas.cogentco.com                                                               
+S&T (174)  
+╰─ 154.54.57.93    174     202.269                      (Rome, Lazio, IT, EU) be2749.rcr51.rom01.atlas.cogentco.com                                                               
+   149.6.23.43     174     202.135                      (Rome, Lazio, IT, EU)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   37.32.106.145   *       209.321                  (Milan, Lombardy, IT, EU)                                                                                                     
+   37.32.107.91    *       209.34                   (Milan, Lombardy, IT, EU)                                                                                                     
+   62.196.8.238    5602    209.23                (Vigolo Vattaro, 32, IT, EU) *                                                                                                   
+   109.168.0.173   5602    209.451                         (Lodi, 25, IT, EU) cr2-tenge0-0-0-0-cal2.mil.kpnqwest.it                                                               
+   109.168.0.14    5602    209.372                         (Lodi, 25, IT, EU) cr2-hunge0-0-1-1-cal4.mil.kpnqwest.it                                                               
+   94.141.0.138    5602    209.936                         (Rome, 62, IT, EU) cs1-xe-1-1-2-0-cal4.mil.kpnqwest.it                                                                 
+   109.168.125.243 5602    209.349                  (Milan, Lombardy, IT, EU) 243.125.168.109.host.static.ip.kpnqwest.it                                                          

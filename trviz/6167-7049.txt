@@ -1,0 +1,24 @@
+   170.254.172.12  265641  0.0                     (Maturín, Monagas, VE, SA) rev170-254-172-12.cixve.net                                                                         
+   170.254.172.1   265641  0.291                   (Maturín, Monagas, VE, SA) srv01-frwll-mat.cixve.net                                                                           
+   ***             *       -inf                                           *** *                                                                                                   
+   172.26.0.33     *       0.624                                          ***                                                                                                     
+╭─ 190.97.246.89   263703  0.935                   (El Vigía, Mérida, VE, SA)                                                                                                     
+S&T (263703, 262589)  globenet ✘ || arcos ✓
+├  172.23.0.137    *       11.799                                         ***                                                                                                     
+╰─ 179.1.115.5     262589  26.572               (Bogotá, Bogota D.C., CO, SA)                                                                                                     
+   192.168.203.81  *       40.526                                         ***                                                                                                     
+   10.88.30.34     *       41.833                                         ***                                                                                                     
+   10.88.30.33     *       40.109                                         ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   8.243.164.73    3356    45.654               (Bogotá, Bogota D.C., CO, SA)                                                                                                     
+   200.189.207.194 3549    45.884               (Bogotá, Bogota D.C., CO, SA) ae2.7.edge1.bgo1.ciriontechnologies.net                                                             
+╭─ 4.68.63.46      3356    45.647               (Bogotá, Bogota D.C., CO, SA) dtag-level3-te.dusseldorf1.level3.net                                                               
+S (3356, 3549)  south-american-crossing-sac ✓ || pacific-caribbean-cable-system-pccs ✓ || arcos ©
+├─ 200.186.40.10   3549    75.265                    (Panamá, Panamá, PA, NA) ae5.asr1.esc1.sjo.ciriontechnologies.net                                                            
+S (3549)  arcos ✓
+╰─ 8.242.196.10    3549    81.067              (San Rafael, San José, CR, NA)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   190.106.72.82   28022   81.511                (San José, San José, CR, NA)                                                                                                     
+   200.107.82.196  263779  81.527                (San José, San José, CR, NA)                                                                                                     

@@ -1,0 +1,18 @@
+   102.222.106.178 328699  0.0               (Port Louis, Port Louis, MU, AF)                                                                                                     
+   102.222.106.1   328699  0.171             (Ebene, Plaines Wilhems, MU, AF)                                                                                                     
+╭─ 196.46.49.33    36868   0.422             (Ebene, Plaines Wilhems, MU, AF)                                                                                                     
+S (36868, 6939)  meltingpot-indianoceanic-submarine-system-metiss ✘ || safe ✓
+╰─ 196.46.34.109   6939    43.973                  (Johannesburg, GT, ZA, AF) *                                                                                                   
+   196.60.8.42     6939    44.69                  (Johannesburg, 6, ZA, None) he.ixp.joburg                                                                                       
+╭─ 184.105.223.210 6939    63.247                     (Cape Town, WC, ZA, AF) 100ge0-34.core1.cpt1.he.net                                                                         
+S (6939)  africa-coast-to-europe-ace ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.189.30  6939    196.96    (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) port-channel18.core4.mrs1.he.net                                                                    
+S (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 72.52.92.69     6939    210.657                   (Pleasanton, CA, US, NA) 10ge4-5.core1.pao1.he.net                                                                           
+LHL (6939, )  
+├─ 80.81.197.77    *       274.296         (Frankfurt am Main, Hesse, DE, EU) atheeb.net                                                                                          
+LHL (, 47794)  falcon ✘ || tata-tgn-gulf ✘ || seamewe-5 ✘ || gulf-bridge-international-cable-system-gbicsmiddle-east-north-africa-mena-cable-system ✘ || seamewe-4 ✘ || seamewe-3 ✘ || asia-africa-europe-1-aae-1 ✘ || flag-europe-asia-fea ✘ || europe-india-gateway-eig ✘ || imewe ✘
+╰─ 94.77.210.130   47794   274.364            (Riyadh, Riyadh Region, SA, AS) 94-77-210-130.static.go.com.sa                                                                      
+   94.77.252.90    47794   274.421            (Riyadh, Riyadh Region, SA, AS) 94-77-252-90.static.go.com.sa                                                                       

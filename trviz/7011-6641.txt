@@ -1,0 +1,13 @@
+   92.38.135.131   202422  0.0                         (Seoul, Seoul, KR, AS)                                                                                                     
+   92.38.135.2     202422  0.32                        (Seoul, Seoul, KR, AS) vrrp.gcore.lu                                                                                       
+   10.255.17.209   *       0.267                                          ***                                                                                                     
+   10.255.17.213   *       0.27                                           ***                                                                                                     
+   10.255.17.146   *       0.227                                          ***                                                                                                     
+╭─ 8.244.74.29     3356    0.242 (0.865)                  (Seoul, Seoul, KR, AS)                                                                                                     
+S (3356)  new-cross-pacific-ncp-cable-system ✓ || trans-pacific-express-tpe-cable-system ✓
+╰─ 4.69.219.210    3356    123.595                       (None, None, US, NA) *                                                                                                   
+   195.12.254.196  1299    142.624              (Seattle, Washington, US, NA) sea-b1-link.ip.twelve99.net                                                                         
+   62.115.166.37   1299    122.922              (Seattle, Washington, US, NA) datacamp-ic-383205.ip.twelve99-cust.net                                                             
+   84.17.33.11     60068   122.944              (Seattle, Washington, US, NA) po77-3529.cr01.sea02.us.misaka.io                                                                   
+   170.39.227.9    35487   122.936                      (Seattle, WA, US, NA) po-09.lag.sea02.us.misaka.io                                                                        
+   170.39.227.194  917     122.998              (Seattle, Washington, US, NA) us-sea-as57695.anchors.atlas.ripe.net                                                               

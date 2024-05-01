@@ -1,0 +1,20 @@
+   101.53.31.6     24173   0.0        (Ho Chi Minh City, Ho Chi Minh, VN, AS) ci53.31-6.netnam.vn                                                                                 
+   101.53.31.5     24173   0.916              (Quận Một, Ho Chi Minh, VN, AS) ci53.31-5.netnam.vn                                                                                 
+   10.11.1.65      *       1.809                                          ***                                                                                                     
+   210.86.232.90   24173   2.353              (Quận Một, Ho Chi Minh, VN, AS) ci232-90.netnam.vn                                                                                  
+╭─ 210.86.233.41   24176   0.792              (Quận Một, Ho Chi Minh, VN, AS) ci233-41.netnam.vn                                                                                  
+S&T (24176)  
+├─ 210.86.233.10   24176   18.393              (Singapore, Singapore, SG, AS) ci233-10.netnam.vn                                                                                  
+S (24176, 35280)  
+├─ 27.111.229.245  35280   19.055                    (Seogwipo, None, KR, AS) 35280.sgw.equinix.com                                                                               
+S (35280, 34019)  
+├  100.99.0.93     *       182.373                                        ***                                                                                                     
+├  100.99.1.85     *       180.127                                        ***                                                                                                     
+├  100.99.0.132    *       182.565                                        ***                                                                                                     
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 193.17.192.255  34019   161.609             (Paris, Île-de-France, FR, EU) et-202-0-48-er01-std.bb.hivane.net                                                                  
+   193.164.153.192 34019   161.091                       (None, None, FR, EU) ae0-486-rt2-th2.bb.hivane.net                                                                       
+   89.234.186.145  204092  167.599             (Paris, Île-de-France, FR, EU) eno1.201.asbr-th2.grifon.fr                                                                         
+   89.234.186.43   204092  167.488                       (None, None, FR, EU) eth1.33.asbr02.cogent-rns.grifon.fr                                                                 
+   89.234.186.42   204092  166.751                 (Rennes, Brittany, FR, EU) hv03.cogent-rns.bb.grifon.fr                                                                        
+   80.67.190.218   204092  168.211                 (Rennes, Brittany, FR, EU) ripe-anchor.grifon.fr                                                                               

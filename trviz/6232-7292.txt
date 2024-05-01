@@ -1,0 +1,18 @@
+   89.213.179.65   32167   0.0                 (Hong Kong, Hong Kong, HK, AS) 89-213-179-65.ip.lshiyusercontent.com                                                               
+   89.213.179.64   32167   0.076             (Kadoorie, Kowloon City, HK, AS) 89-213-179-64.ip.lshiyusercontent.com                                                               
+   103.203.243.10  955     0.203             (Kadoorie, Kowloon City, HK, AS) port-channe17.switch1.hkg1.bb.lshiy.net                                                             
+╭─ 36.255.57.100   137409  0.298                         (None, None, HK, AS) 137409-hk1-ix.equinix.com                                                                           
+S (137409, 7578)  
+├─ 206.148.24.121  7578    30.359           (Sydney, New South Wales, AU, OC)                                                                                                     
+S (7578)  
+╰─ 31.217.251.74   7578    30.284              (Singapore, Singapore, SG, AS) unknown.globalsecurelayer.com                                                                       
+╭─ 160.202.164.165 137409  32.308              (Singapore, Singapore, SG, AS)                                                                                                     
+S (137409, 8529)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 213.202.1.189   8529    193.974                   (Muscat, Muscat, OM, AS)                                                                                                     
+S&T (8529, 42961)  
+├─ 151.248.98.137  42961   194.902                       (None, None, BH, AS) *                                                                                                   
+S (42961)  
+├  10.32.1.106     *       193.362                                        ***                                                                                                     
+├  10.32.1.109     *       190.216                                        ***                                                                                                     
+╰─ 212.43.17.42    42961   193.5       (Al Farwānīyah, Al Farwaniyah, KW, AS)                                                                                                     

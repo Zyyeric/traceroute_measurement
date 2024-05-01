@@ -1,0 +1,20 @@
+   130.193.166.22  21277   0.0                         (Erbil, Arbīl, IQ, AS)                                                                                                     
+╭─ 130.193.166.21  21277   0.347                       (Erbil, Arbīl, IQ, AS)                                                                                                     
+T (21277)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 5.23.0.72       21277   28.439                      (Istanbul, 34, TR, AS) ix-ae-13-0.tcore1.it5-istanbul.as6453.net                                                           
+LHL (21277, 6453)  seamewe-5 ✘ || seamewe-3 ✓
+├─ 5.23.0.56       6453    146.618         (Frankfurt am Main, Hesse, DE, EU) if-bundle-2-3.qcore1.fr0-frankfurt.as6453.net                                                       
+T (6453)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 80.231.153.169  6453    150.092                      (Paris, None, FR, EU) if-ae-55-4.tcore1.pye-paris.as6453.net                                                              
+S (6453)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 63.243.137.148  6453    143.649                (Ashburn, Virginia, US, NA)                                                                                                     
+S (6453, 4637)  
+├─ 202.84.249.86   4637    457.27              (Singapore, Singapore, SG, AS)                                                                                                     
+S (4637)  
+╰─ 202.84.204.17   4637    455.042                     (Dubai, Dubai, AE, AS) i-1046.uddm01.telstraglobal.net                                                                     
+   217.151.46.27   4637    454.385                     (Dubai, Dubai, AE, AS) unknown.telstraglobal.net                                                                           
+   156.154.53.254  12008   452.311                     (Dubai, Dubai, AE, AS)                                                                                                     

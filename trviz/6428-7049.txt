@@ -1,0 +1,16 @@
+   170.254.172.12  265641  0.0                     (Maturín, Monagas, VE, SA) rev170-254-172-12.cixve.net                                                                         
+   170.254.172.1   265641  0.327                   (Maturín, Monagas, VE, SA) srv01-frwll-mat.cixve.net                                                                           
+   ***             *       -inf                                           *** *                                                                                                   
+   172.26.0.33     *       0.58                                           ***                                                                                                     
+╭─ 190.97.246.89   263703  0.883                   (El Vigía, Mérida, VE, SA)                                                                                                     
+S&T (263703, 6939)  globenet ✘ || arcos ✓
+├  172.23.0.137    *       11.842                                         ***                                                                                                     
+├─ 72.52.92.209    6939    83.02                (Bogotá, Bogota D.C., CO, SA) 100ge0-35.core2.bog1.he.net                                                                         
+S (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.64.122  6939    111.803                      (Norfolk, VA, US, NA) 100ge0-30.core1.orf2.he.net                                                                         
+   184.105.81.210  6939    112.697                       (Dallas, TX, US, NA) port-channel6.core2.dal1.he.net                                                                     
+   209.51.171.154  32425   111.837                     (Richmond, VA, US, NA) pixel-factory-inc.e0-5.switch1.ric1.he.net                                                          
+   208.73.136.156  32425   96.085                       (Ashland, VA, US, NA) sw-pxf-mmr-n3k1.pxfactorydc.net                                                                     
+   208.73.136.45   32425   96.569                       (Ashland, VA, US, NA) sw-pxf-t1-mng.v986.xe.pxfactorydc.net                                                               
+   208.73.138.12   32425   96.354                 (Ashland, Virginia, US, NA)                                                                                                     

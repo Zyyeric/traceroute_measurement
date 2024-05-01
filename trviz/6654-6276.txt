@@ -1,0 +1,23 @@
+   194.149.138.252 5379    0.0                  (Skopje, Grad Skopje, MK, EU)                                                                                                     
+   194.149.138.254 5379    1.269                (Skopje, Grad Skopje, MK, EU)                                                                                                     
+   194.149.137.73  5379    0.444                (Skopje, Grad Skopje, MK, EU)                                                                                                     
+╭─ 194.149.130.90  5379    0.524                (Skopje, Grad Skopje, MK, EU)                                                                                                     
+T (5379, 21320)  
+├─ 83.97.88.101    21320   0.573 (4.424)          (Sofia, Sofia-Capital, BG, EU) marnet-ias.mx1.sof.bg.geant.net                                                                     
+LHL (21320, 20965)  
+├─ 62.40.98.9      20965   23.385                    (Zagreb, Zagreb, HR, EU) ae0.mx2.zag.hr.geant.net                                                                            
+LHL (20965)  
+├─ 62.40.98.188    20965   19.347                         (Milan, 25, IT, EU) ae8.mx1.mil2.it.geant.net                                                                           
+T (20965, 3356)  
+╰─ 212.133.15.9    3356    22.995                (Budapest, Budapest, HU, EU) ae51.edge1.budapest1.level3.net                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 4.68.62.150     1299    31.239                      (Budapest, BU, HU, EU) Arelion-level3-Budapest1.Level3.net                                                                 
+T (1299)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 62.115.122.177  1299    33.09                     (Zagreb, Zagreb, HR, EU) zgb-b2-link.ip.twelve99.net                                                                         
+T (1299)  
+├─ 213.248.95.3    1299    35.996          (Belgrade, Central Serbia, RS, EU) bhtelecom-ic-374595.ip.twelve99-cust.net                                                            
+T (1299, 9146)  
+╰─ 80.65.64.29     9146    38.543                     (Sarajevo, BIH, BA, EU) ser.bpro.80.65.64-29.bih.net.ba                                                                     
+   195.222.44.138  9146    38.221                       (Zenica, BIH, BA, EU) *                                                                                                   
+   80.65.65.220    9146    38.428         (Zenica, Federation of B&H, BA, EU)                                                                                                     

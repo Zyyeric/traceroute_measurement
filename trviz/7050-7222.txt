@@ -1,0 +1,17 @@
+   102.130.68.151  37468   0.0                (Johannesburg, Gauteng, ZA, AF)                                                                                                     
+╭─ 102.130.68.146  37468   0.446                  (Edenvale, Gauteng, ZA, AF)                                                                                                     
+S&T (37468)  
+├─ 102.130.68.112  37468   15.898                        (None, None, AO, AF) *                                                                                                   
+S (37468, 60171)  
+├  100.64.192.148  *       70.215                                         ***                                                                                                     
+╰─ 196.216.148.93  60171   89.892                        (None, None, NG, AF) *                                                                                                   
+╭─ 102.223.52.73   60171   107.497                     (Lagos, Lagos, NG, AF)                                                                                                     
+S&T (60171)  
+├─ 185.10.164.45   60171   107.595                      (London, ENG, GB, EU) *                                                                                                   
+S&T (60171)  
+├─ 102.219.44.43   60171   107.541                     (Lagos, Lagos, NG, AF)                                                                                                     
+S&T (60171, 328913)  
+╰─ 196.49.84.51    328913  107.974                 (Abidjan, Abidjan, CI, AF) bdr3.std.douala-ix.net                                                                              
+╭─ 196.49.84.36    328913  108.008                 (Abidjan, Abidjan, CI, AF) gw1.std.douala-ix.net                                                                               
+S&T (328913)  
+╰─ 196.49.84.188   328913  108.372                 (Douala, Littoral, CM, AF) cm-dla-as328913.anchors.atlas.ripe.net                                                              

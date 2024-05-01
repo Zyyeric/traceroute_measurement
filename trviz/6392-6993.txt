@@ -1,0 +1,16 @@
+   156.154.135.254 12008   0.0                (Johannesburg, Gauteng, ZA, AF)                                                                                                     
+   156.154.135.253 12008   0.158                  (Edenvale, Gauteng, ZA, AF)                                                                                                     
+╭─ 76.74.41.137    3257    0.329                  (Edenvale, Gauteng, ZA, AF) ae0-1983.cr1-jhb2.ip4.gtt.net                                                                       
+LHL (3257)  africa-coast-to-europe-ace ✓
+├─ 213.200.114.177 3257    169.193            (Frankfurt am Main, HE, DE, EU) ae33.cr1-fra6.ip4.gtt.net                                                                           
+LHL (3257, 58453)  seamewe-3 ✓ || asia-africa-europe-1-aae-1 ✓ || flag-europe-asia-fea ✘
+╰─ 46.33.85.26     58453   175.764                       (None, None, HK, AS) ip4.gtt.net                                                                                         
+╭─ 223.120.10.137  58453   175.885                       (None, None, HK, AS) *                                                                                                   
+LHL (58453)  
+├─ 223.120.11.13   58453   191.657         (Frankfurt am Main, Hesse, DE, EU)                                                                                                     
+T (58453, 8529)  seamewe-3 ✓ ↠ seamewe-3 ✓ || seamewe-3 ✓ ↠ asia-africa-europe-1-aae-1 ✓ || asia-africa-europe-1-aae-1 ✓ ↠ seamewe-3 ✓ || asia-africa-europe-1-aae-1 ✓ ↠ asia-africa-europe-1-aae-1 ✓ || flag-europe-asia-fea ✓ ↠ seamewe-3 ✓ || flag-europe-asia-fea ✓ ↠ asia-africa-europe-1-aae-1 ✓
+╰─ 82.178.33.250   8529    353.052                   (Muscat, Muscat, OM, AS)                                                                                                     
+╭─ 134.0.220.73    8529    354.339                       (Muscat, MA, OM, AS) *                                                                                                   
+S&T (8529, 42473)  
+╰─ 213.202.2.1     42473   354.379                        (Dubai, DU, AE, AS) i1.2.202.213omantel.net.om                                                                          
+   37.252.245.94   42473   354.802                     (Dubai, Dubai, AE, AS)                                                                                                     

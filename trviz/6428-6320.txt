@@ -1,0 +1,16 @@
+   185.233.100.99  198985  0.0         (Bordeaux, Nouvelle-Aquitaine, FR, EU) ripe-atlas.aquilenet.fr                                                                             
+   185.233.100.124 198985  0.161          (Cenon, Nouvelle-Aquitaine, FR, EU) charon1.aquilenet.fr                                                                                
+╭─ 46.231.241.238  211882  10.317              (Paris, Île-de-France, FR, EU) charon21.aquilenet.fr                                                                               
+T (211882, 6939)  
+╰─ 193.239.116.14  6939    19.941                    (Amsterdam, 7, NL, None) hurricane-electric.telecity2.nl-ix.net                                                              
+╭─ 184.104.197.185 6939    20.408                     (Amsterdam, NH, NL, EU) port-channel4.core2.ams1.he.net                                                                     
+T (6939)  
+╰─ 37.49.236.10    6939    19.233                        (Paris, IDF, FR, EU) he.par.franceix.net                                                                                 
+╭─ 184.104.196.231 6939    20.386              (Paris, Île-de-France, FR, EU) port-channel6.core2.par3.he.net                                                                     
+S (6939)  
+╰─ 184.104.188.213 6939    89.649          (Virginia Beach, Virginia, US, NA) port-channel4.core2.orf2.he.net                                                                     
+   184.104.196.105 6939    93.114                      (Richmond, VA, US, NA) 100ge0-35.core1.ric1.he.net                                                                         
+   209.51.171.154  32425   92.114                      (Richmond, VA, US, NA) pixel-factory-inc.e0-5.switch1.ric1.he.net                                                          
+   208.73.136.153  32425   89.973                       (Ashland, VA, US, NA) sw-pxf-mmr-n3k2.pxfactorydc.net                                                                     
+   208.73.136.45   32425   89.799                       (Ashland, VA, US, NA) sw-pxf-t1-mng.v986.xe.pxfactorydc.net                                                               
+   208.73.138.12   32425   89.539                 (Ashland, Virginia, US, NA)                                                                                                     

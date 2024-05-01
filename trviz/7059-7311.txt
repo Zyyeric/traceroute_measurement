@@ -1,0 +1,15 @@
+   23.155.72.145   64289   0.0              (Santa Clara, California, US, NA)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   10.10.10.0      *       0.308                                          ***                                                                                                     
+   206.197.187.12  *       1.032                (Fremont, California, US, NA) as6939.sfmix.org                                                                                    
+   72.52.92.245    6939    1.478                     (Farmington, CA, US, NA) 100ge4-2.core3.fmt2.he.net                                                                          
+╭─ 184.105.65.114  6939    1.539                       (San Jose, CA, US, NA) 100ge1-1.core1.sjc2.he.net                                                                          
+S (6939, 131111)  asia-america-gateway-aag-cable-system ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 65.49.108.46    131111  174.701                     (Singapore, 4, SG, AS) moratel-international-pte-ltd.10gigabitethernet3-13.core1.sin1.he.net                               
+S&T (131111, )  australia-singapore-cable-asc ✘ || indigo-west ✘ || indonesia-global-gateway-igg-system ✓ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || seamewe-3 ✘ || matrix-cable-system ✘ || jasuka ✓ || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || jakabare ✘
+╰─ 103.111.193.61  *       200.329           (Yogyakarta, Yogyakarta, ID, AS)                                                                                                     
+   202.152.153.9   23951   199.127                      (Babadan, JT, ID, AS) 202-152-153-9.as23951.net                                                                           
+   202.152.129.74  23951   199.436           (Yogyakarta, Yogyakarta, ID, AS) 202-152-129-74.citra.net.id                                                                         

@@ -1,0 +1,33 @@
+   185.39.208.23   199993  0.0                       (Lisbon, Lisbon, PT, EU) atlasancora01.wan.dns.pt                                                                            
+   185.39.208.60   199993  1.026                     (Lisbon, Lisbon, PT, EU)                                                                                                     
+   194.210.4.137   1930    1.548                     (Lisbon, Lisbon, PT, EU) router63.lisboa.fccn.pt                                                                             
+   194.210.6.212   1930    1.523                     (Lisbon, Lisbon, PT, EU)                                                                                                     
+   194.210.6.203   1930    1.695                     (Lisbon, Lisbon, PT, EU)                                                                                                     
+   194.210.6.202   1930    7.347                         (Lisbon, 11, PT, EU) Router60.Lisboa.fccn.pt                                                                             
+   193.136.1.11    1930    5.473                       (Porto, Porto, PT, EU) router40.porto.fccn.pt                                                                              
+   194.210.7.203   1930    6.065                          (Porto, 13, PT, EU) Router2.Porto.fccn.pt                                                                               
+╭─ 83.97.88.44     21320   5.136                     (Lisbon, Lisbon, PT, EU) fccn-ias-geant-gw.rt1.por.pt.geant.net                                                              
+S&T (21320, 20965)  west-africa-cable-system-wacs ✓ || africa-coast-to-europe-ace ✓ || tata-tgn-western-europe ✘ || sat-3wasc ✓ || seamewe-3 ✓
+├─ 62.40.98.220    20965   43.8                        (Bilbao, None, ES, EU) ae2.rt1.bil.es.geant.net                                                                            
+S&T (20965)  
+├─ 62.40.98.223    20965   49.218                        (Paris, IDF, FR, EU) ae4.mx1.par.fr.geant.net                                                                            
+T (20965)  
+╰─ 62.40.98.238    20965   46.015                    (Genève, Geneva, CH, EU) ae7.mx1.gen.ch.geant.net                                                                            
+╭─ 62.40.98.182    20965   45.545                      (Geneva, None, CH, EU) ae5.mx1.gen.ch.geant.net                                                                            
+T (20965, 3356)  
+├─ 62.67.72.69     3356    46.427          (Frankfurt am Main, Hesse, DE, EU) lag-117.ear4.frankfurt1.level3.net                                                                  
+T (3356)  
+├─ 171.75.8.243    3356    63.215    (Septèmes-les-Vallons, Provence-Alpes-Côte d'Azur, FR, EU) ae1.3505.edge4.mrs1.neo.colt.net                                                                    
+S (3356, 35819)  
+├─ 212.133.4.70    35819   65.287                        (None, None, SA, AS) *                                                                                                   
+S (35819, 37100)  
+├─ 105.16.32.2     37100   191.24                    (Marseille, PAC, FR, EU) ae-2.cr-02-mrs.fr.seacomnet.com                                                                     
+S&T (37100)  
+╰─ 105.25.160.165  37100   188.276          (Cape Town, Western Cape, ZA, AF) ce-0-1-9.cr-02-cpt.za.seacomnet.com                                                                 
+   105.16.31.10    37100   191.591                    (Cape Town, WC, ZA, AF) xe-1-0-0-0.er-02-cpt.za.seacomnet.com                                                               
+   105.22.72.214   37100   189.361          (Cape Town, Western Cape, ZA, AF)                                                                                                     
+   41.84.12.28     37179   186.653                 (Johannesburg, GP, ZA, AF) core.100g-0-8-0-wc-ro-ter-scp-2.za.africainx.net                                                    
+   41.84.13.37     37179   191.66                  (Johannesburg, GP, ZA, AF) core.xe-0-0-0-wc-ro-het-mee-1.za.africainx.net                                                      
+   41.66.133.2     37399   194.644                 (Johannesburg, GP, ZA, AF) 41-66-133-2.hetzner-cpt-ip4-gw.africainx.net                                                        
+   196.40.102.70   37153   200.783                       (None, None, ZA, AF) core-access-switch1-vlan1001.cpt.host-h.net                                                         
+   196.40.111.147  37153   198.923          (Cape Town, Western Cape, ZA, AF) atlas-anchor-cpt3.cpt.net.host-h.net                                                                

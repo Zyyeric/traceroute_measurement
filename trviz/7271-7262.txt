@@ -1,0 +1,28 @@
+   203.41.0.254    1221    0.0             (Perth, Western Australia, AU, OC) atlas-per.telstra.net                                                                               
+   203.41.0.253    1221    0.328           (Perth, Western Australia, AU, OC)                                                                                                     
+   138.217.126.78  1221    0.295           (Perth, Western Australia, AU, OC) tel4198820.lnk.telstra.net                                                                          
+   138.217.126.77  1221    1.19            (Perth, Western Australia, AU, OC) bundle-ether801-219.pie-edge903.perth.telstra.net                                                   
+   203.50.6.176    1221    1.592                          (Perth, WA, AU, OC) bundle-ether11.pie-core10.perth.telstra.net                                                         
+   203.50.6.234    1221    28.526                      (Adelaide, SA, AU, OC) bundle-ether3.way-core10.adelaide.telstra.net                                                       
+   203.50.6.231    1221    41.473                    (Melbourne, VIC, AU, OC) bundle-ether16.exi-core10.melbourne.telstra.net                                                     
+   203.50.13.124   1221    40.842               (Melbourne, Victoria, AU, OC) bundle-ether2.cla-core30.melbourne.telstra.net                                                      
+   203.50.13.132   1221    52.507           (Sydney, New South Wales, AU, OC) bundle-ether3.hay-core30.sydney.telstra.net                                                         
+╭─ 203.50.6.106    1221    52.871           (Sydney, New South Wales, AU, OC) bundle-ether2.oxf-gw30.sydney.telstra.net                                                           
+S (1221, 4637)  seamewe-3 ✓
+╰─ 203.50.13.94    4637    188.654                       (None, None, HK, AS) *                                                                                                   
+╭─ 203.50.13.94    4637    188.654                       (None, None, HK, AS) *                                                                                                   
+S (4637)  
+╰─ 202.84.141.225  4637    225.402          (Los Angeles, California, US, NA) i-10604.1wlt-core02.telstraglobal.net                                                               
+   202.84.141.225  4637    225.402          (Los Angeles, California, US, NA) i-10604.1wlt-core02.telstraglobal.net                                                               
+╭─ 202.84.253.86   4637    224.553          (Los Angeles, California, US, NA) i-93.tlot02.bi.telstraglobal.net                                                                    
+S (4637, 6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.199.150 6939    463.091             (Singapore, Singapore, SG, AS) port-channel1.core1.sin2.he.net                                                                     
+╭─ 184.104.210.182 136106  465.223                     (Singapore, 4, SG, AS) pt-mega-akses-persada.e0-2.switch2.sin2.he.net                                                      
+S&T (136106)  
+╰─ 103.87.186.2    136106  475.087                       (None, None, ID, AS) ip186-2.fiberstar.net.id                                                                            
+   103.87.186.179  136106  483.469                 (Jakarta, Jakarta, ID, AS) ip186-179.fiberstar.net.id                                                                          
+   103.170.24.254  142360  481.962                       (None, None, ID, AS) ipv4-254-24.170.103.as142360.net                                                                    
+   103.170.25.13   142360  481.991           (Semarang, Central Java, ID, AS) ipv4-13-25-170-103.nexa.net.id                                                                      

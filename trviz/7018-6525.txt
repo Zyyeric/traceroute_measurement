@@ -1,0 +1,15 @@
+   171.67.70.16    32      0.0                 (Stanford, California, US, NA) us-pao-as32.anchors.atlas.ripe.net                                                                  
+   171.67.70.1     32      0.437               (Stanford, California, US, NA) sw-tor-01.esrg.stanford.edu                                                                         
+   10.214.4.252    *       0.646                                          ***                                                                                                     
+   171.66.0.209    32      0.952               (Stanford, California, US, NA)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   184.104.195.113 6939    1.999                       (San Jose, CA, US, NA) 100ge14-2.core1.sjc1.he.net                                                                         
+   64.71.184.46    4826    2.27                        (San Jose, CA, US, NA) vocus.gigabitethernet2-13.core1.sjc1.he.net                                                         
+╭─ 114.31.199.33   4826    147.053                     (San Jose, CA, US, NA) be100.bdr04.sjc01.ca.us.vocus.network                                                               
+S (4826)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 114.31.192.49   4826    147.533                      (Sydney, NSW, AU, OC) be101.bdr01.syd01.nsw.vocus.network                                                                 
+╭─ 123.103.197.26  4826    166.728          (Sydney, New South Wales, AU, OC) ip-26.197.103.123.vocus.net.au                                                                      
+S (4826, 45345)  
+╰─ 202.87.128.198  45345   166.393                        (Noumea, S, NC, OC) *                                                                                                   
+   103.2.186.195   45345   166.43            (Nouméa, South Province, NC, OC) nc-nou-as45345.anchors.atlas.ripe.net                                                               

@@ -1,0 +1,15 @@
+╭─ 185.148.112.152 37468   0.0                       (Lisbon, Lisbon, PT, EU) 152.112.148.185.angolacables.ao                                                                     
+S&T (37468)  tata-tgn-western-europe ✓ || europe-india-gateway-eig ✓ || seamewe-3 ✓
+├  10.42.104.1     *       0.479                                          ***                                                                                                     
+├─ 185.148.112.47  37468   38.156                   (London, England, GB, EU) 47.112.148.185.angolacables.ao                                                                      
+S&T (37468, 7713)  circe-north ✓ || ulysses-2 ✘ || scylla ✓ || zeus ✓ || atlantic-crossing-1-ac-1 ✓ || concerto ✘ || farland-north ✘
+├  100.64.192.38   *       38.399                                         ***                                                                                                     
+├─ 193.239.116.197 7713    63.087                    (Amsterdam, 7, NL, None) telin.interxionmrs2.nl-ix.net                                                                       
+S (7713)  atlantic-crossing-1-ac-1 ✓
+├─ 180.240.192.234 7713    261.158                     (New York, NY, US, NA) *                                                                                                   
+S (7713)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 36.64.254.21    7713    278.538       (Gubengairlangga, East Java, ID, AS)                                                                                                     
+   36.64.254.22    7713    278.837                   (Denpasar, Bali, ID, AS)                                                                                                     
+   103.215.228.2   140443  279.109              (Surabaya, East Java, ID, AS) 2.228.215.103.in-addr.herza.id                                                                      
+   103.215.229.229 140443  278.916              (Surabaya, East Java, ID, AS) 229.229.215.103.in-addr.herza.id                                                                    

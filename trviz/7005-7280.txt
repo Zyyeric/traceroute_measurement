@@ -1,0 +1,19 @@
+   185.14.96.232   211186  0.0                (Lamía, Central Greece, GR, EU)                                                                                                     
+   185.14.96.225   211186  0.683              (Lamía, Central Greece, GR, EU) vlan4090.lamia.fast.net.gr                                                                          
+   212.205.28.249  6799    0.615              (Lamía, Central Greece, GR, EU) 249.28.205.212.static.otenet.gr                                                                     
+   79.128.234.128  6799    3.729                    (Maroúsi, Attica, GR, EU)                                                                                                     
+   62.75.3.17      12713   2.956 (5.253)        (Néa Chalkidóna, Attica, GR, EU) kolasr02-hu-0-8-0-0.ath.oteglobe.gr                                                                 
+╭─ 62.75.4.210     *       45.06                     (Athens, Attica, GR, EU)                                                                                                     
+S (, 6461)  
+├─ 195.66.224.76   6461    52.594                       (London, ENG, GB, EU) ae15.mpr1.lhr15.uk.above.net                                                                        
+S&T (6461)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 64.125.29.24    6461    56.893                        (Paris, IDF, FR, EU) ae2.cs1.cdg12.fr.eth.zayo.com                                                                       
+   64.125.29.87    6461    55.76                         (Paris, IDF, FR, EU) ae1.mcs1.cdg12.fr.eth.zayo.com                                                                      
+╭─ 79.141.38.181   6461    51.363              (Paris, Île-de-France, FR, EU) 79.141.38.181.idia-344160-zyo.zip.zayo.com                                                          
+S&T (6461, 6696)  
+╰─ 62.112.29.168   6696    57.35                     (Brussels, None, BE, EU) edg01.lcldg.bra.be.verixi.net                                                                       
+   62.112.29.165   6696    55.855                        (None, None, BE, EU) edg01.blutw.bra.be.verixi.net                                                                       
+   80.67.181.1     204059  55.943                     (Brussels, BRU, BE, EU) edge-01.louise.neutri.net                                                                           
+   80.67.181.18    204059  55.869        (Brussels, Brussels Capital, BE, EU) core-01.louise.neutri.net                                                                           
+   80.67.181.29    204059  57.977        (Brussels, Brussels Capital, BE, EU) be-bru-as204059.anchors.atlas.ripe.net                                                              

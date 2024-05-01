@@ -1,0 +1,13 @@
+   91.218.5.67     51225   0.0                     (Yerevan, Yerevan, AM, AS) 91.218.5.67.armix.am                                                                                
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 91.218.4.66     51225   1.296                         (None, None, AM, AS) 91.218.4.66.ArmIX.am                                                                                
+LHL (51225, 49800)  
+╰─ 80.249.212.200  49800   27.693                      (Schiphol, NH, NL, EU) ams-ix.gnc.net                                                                                      
+╭─ 80.249.211.84   20764   65.193                      (Schiphol, NH, NL, EU) ams-ix-gw.rascom.as20764.net                                                                        
+LHL (20764)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 81.27.251.65    20764   91.627                 (Helsinki, Uusimaa, FI, EU) tbs-cl9-cr1.lt-0-0-0-0.rascom.as20764.net                                                           
+LHL (20764, 198150)  
+╰─ 46.8.37.5       198150  105.716                 (Tbilisi, Tbilisi, GE, AS) ordunet-tbilisi.sia-com.com                                                                         
+   185.143.176.6   203136  106.503   (Zugdidi, Samegrelo and Zemo Svaneti, GE, AS)                                                                                                     

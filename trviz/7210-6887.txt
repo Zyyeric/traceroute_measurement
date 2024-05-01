@@ -1,0 +1,17 @@
+   27.111.84.21    135132  0.0           (Cebu City, Central Visayas, PH, AS) ph-ceb-as135132.anchors.atlas.ripe.net                                                              
+   27.111.84.20    135132  1.135             (Baugo, Central Visayas, PH, AS) vlan509.core.ceb02.ds.network                                                                       
+   192.168.159.142 *       10.906                                         ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   192.168.159.168 *       19.776                                         ***                                                                                                     
+   192.168.159.165 *       1.427                                          ***                                                                                                     
+╭─ 43.224.189.33   137074  3.054             (Baugo, Central Visayas, PH, AS) 43-224-189-33.static.rise.as                                                                        
+S (137074, 8220)  
+├  10.255.64.24    *       40.392                                         ***                                                                                                     
+├─ 27.111.229.123  8220    40.43                     (Seogwipo, None, KR, AS) 8220.sgw.equinix.com                                                                                
+S (8220)  
+├─ 212.74.71.111   8220    206.129                  (Dunstable, None, GB, EU) xe11-2-0-sar5.DUB.router.colt.net                                                                   
+S&T (8220, 47720)  
+╰─ 62.23.108.46    47720   208.396                      (Dublin, L, IE, None) host.46.108.23.62.rev.coltfrance.com                                                                
+   91.103.0.196    47720   205.678                          (Cork, M, IE, EU) *                                                                                                   
+   91.103.0.99     42953   208.676                          (Cork, M, IE, EU) *                                                                                                   
+   185.6.39.132    42953   206.236                    (Cork, Munster, IE, EU)                                                                                                     

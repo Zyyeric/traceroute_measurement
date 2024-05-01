@@ -1,0 +1,14 @@
+   200.160.6.19    22548   0.0                 (São Paulo, São Paulo, BR, SA) br-sao-as22548.anchors.atlas.ripe.net                                                               
+   200.160.6.61    22548   0.421         (Taboão da Serra, São Paulo, BR, SA) ae1-89.ar3.jd.registro.br                                                                           
+   200.160.0.253   22548   0.58                          (None, None, BR, SA) ae0-0.core1.nu.registro.br                                                                          
+╭─ 200.160.0.161   22548   1.012                         (None, None, BR, SA) xe-5-0-0-0.gw1.nu.registro.br                                                                       
+S (22548, 6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.198.242 6939    43.992          (Virginia Beach, Virginia, US, NA) port-channel1.core1.for1.he.net                                                                     
+   184.104.199.177 6939    116.437                   (Miami, Florida, US, NA) 100ge0-53.core2.mia1.he.net                                                                         
+   206.41.108.150  52468   111.16                        (None, None, US, NA) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 23.168.104.10   54082   137.414                   (Miami, Florida, US, NA)                                                                                                     
+S&T (54082, 64150)  
+╰─ 45.68.35.213    64150   137.776   (San Pedro Sula, Cortés Department, HN, NA)                                                                                                     

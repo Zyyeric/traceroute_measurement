@@ -1,0 +1,15 @@
+   130.193.166.22  21277   0.0                         (Erbil, Arbīl, IQ, AS)                                                                                                     
+╭─ 130.193.166.21  21277   0.29                        (Erbil, Arbīl, IQ, AS)                                                                                                     
+LHL (21277, 13335)  seamewe-3 ✓
+├─ 5.23.0.73       13335   0.801                      (Algeciras, AN, ES, EU) *                                                                                                   
+S (13335, 21277)  
+├─ 5.23.0.72       21277   28.29                       (Istanbul, 34, TR, AS) ix-ae-13-0.tcore1.it5-istanbul.as6453.net                                                           
+LHL (21277)  
+╰─ 195.219.156.21  21277   62.826             (Frankfurt am Main, HE, DE, EU) if-ae-8-2.tcore1.fnm-frankfurt.as6453.net                                                           
+   5.23.30.17      6453    60.013             (Frankfurt am Main, HE, DE, EU) if-ae-9-2.tcore2.fr0-frankfurt.as6453.net                                                           
+╭─ 195.219.223.11  6762    66.039                        (Munich, BY, DE, EU) *                                                                                                   
+T (6762)  
+╰─ 213.144.177.227 6762    82.471                          (Rome, 62, IT, EU) ae6-50.roma1.rom.seabone.net                                                                        
+   213.144.177.227 6762    82.471                          (Rome, 62, IT, EU) ae6-50.roma1.rom.seabone.net                                                                        
+   89.221.32.157   59715   87.825                          (Rome, 62, IT, EU) citta-san-benedetto-d.roma1.rom.seabone.net                                                         
+   185.5.201.10    59715   88.552    (San Benedetto del Tronto, The Marches, IT, EU) p6496.probes.atlas.ripe.net                                                                         

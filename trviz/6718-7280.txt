@@ -1,0 +1,18 @@
+   185.14.96.232   211186  0.0                (Lamía, Central Greece, GR, EU)                                                                                                     
+   185.14.96.225   211186  0.667              (Lamía, Central Greece, GR, EU) vlan4090.lamia.fast.net.gr                                                                          
+   212.205.28.249  6799    0.702              (Lamía, Central Greece, GR, EU) 249.28.205.212.static.otenet.gr                                                                     
+   79.128.234.128  6799    3.555                    (Maroúsi, Attica, GR, EU)                                                                                                     
+   62.75.3.17      12713   3.893             (Néa Chalkidóna, Attica, GR, EU) kolasr02-hu-0-8-0-0.ath.oteglobe.gr                                                                 
+╭─ 62.75.27.18     *       37.531                    (Athens, Attica, GR, EU)                                                                                                     
+LHL (, 41095)  mednautilus-submarine-system ✘ ↠ asia-africa-europe-1-aae-1 ✘ || mednautilus-submarine-system ✘ ↠ seamewe-3 ✘
+├─ 80.81.192.47    41095   36.845             (Frankfurt am Main, HE, DE, EU) de-cix.iptp.net                                                                                     
+LHL (41095)  seamewe-4 ✓ || seamewe-3 ✓ || seamewe-5 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  10.255.1.248    *       186.757                                        ***                                                                                                     
+├─ 103.242.73.133  41095   188.101             (Singapore, Singapore, SG, AS) rt986164.r0.616.eq.sg.iptp.net                                                                      
+S&T (41095, 24176)  
+╰─ 210.86.233.17   24176   207.574    (Ho Chi Minh City, Ho Chi Minh, VN, AS) ci233-17.netnam.vn                                                                                  
+   210.86.233.30   24176   206.166    (Ho Chi Minh City, Ho Chi Minh, VN, AS) ci233-30.netnam.vn                                                                                  
+   210.86.232.101  24173   205.647                        (Hanoi, HN, VN, AS) ci232-101.netnam.vn                                                                                 
+   10.11.1.68      *       206.215                                        ***                                                                                                     
+   101.53.31.6     24173   208.253    (Ho Chi Minh City, Ho Chi Minh, VN, AS) ci53.31-6.netnam.vn                                                                                 

@@ -1,0 +1,18 @@
+   180.211.88.22   45725   0.0                     (Jakarta, Jakarta, ID, AS) id-jkt-as45725.anchors.atlas.ripe.net                                                               
+   180.211.88.21   45725   0.352                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+   43.230.153.89   *       0.56                    (Jakarta, Jakarta, ID, AS)                                                                                                     
+╭─ 111.92.161.4    55655   0.525 (2.002)              (Jakarta, Jakarta, ID, AS)                                                                                                     
+S (55655, 137409)  
+├  10.110.4.12     *       12.393                                         ***                                                                                                     
+├─ 27.111.229.213  137409  12.333                    (Seogwipo, None, KR, AS) 137409.sgw.equinix.com                                                                              
+S (137409, 7578)  
+╰─ 31.217.251.74   7578    12.466              (Singapore, Singapore, SG, AS) unknown.globalsecurelayer.com                                                                       
+╭─ 160.202.164.165 137409  12.475              (Singapore, Singapore, SG, AS)                                                                                                     
+S (137409, 8529)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 213.202.6.198   8529    97.282                    (Muscat, Muscat, OM, AS)                                                                                                     
+╭─ 134.0.217.213   8529    94.29                         (Muscat, MA, OM, AS) *                                                                                                   
+S&T (8529, 42473)  
+╰─ 213.202.2.1     42473   91.914                         (Dubai, DU, AE, AS) i1.2.202.213omantel.net.om                                                                          
+   37.252.245.94   42473   92.615                      (Dubai, Dubai, AE, AS)                                                                                                     

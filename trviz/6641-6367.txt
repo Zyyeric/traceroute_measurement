@@ -1,0 +1,9 @@
+   152.195.112.52  15133   0.0                         (Tokyo, Tokyo, JP, AS)                                                                                                     
+╭─ 152.195.112.49  15133   0.904                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+S (15133, 6939)  apcn-2 ✓ || korea-japan-cable-network-kjcn ✓ || eac-c2c ✓ || asia-pacific-gateway-apg ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.64.66   6939    30.428                         (Seoul, 28, KR, AS) 10ge0-2.core2.sel1.he.net                                                                           
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   45.80.212.34    199524  30.52                       (Seoul, Seoul, KR, AS) vrrp.gcore.com                                                                                      
+   92.38.135.131   202422  30.687                      (Seoul, Seoul, KR, AS)                                                                                                     

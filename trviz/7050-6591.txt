@@ -1,0 +1,31 @@
+   172.17.48.40    *       0.0                                            ***                                                                                                     
+   172.17.48.254   *       0.402                                          ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   172.22.6.7      *       1.268                                          ***                                                                                                     
+   172.25.0.197    *       1.353                                          ***                                                                                                     
+   172.16.86.37    *       4.677                                          ***                                                                                                     
+   172.16.5.233    *       4.296                                          ***                                                                                                     
+   172.16.2.138    *       4.912                                          ***                                                                                                     
+╭─ 213.144.184.56  6762    79.631          (Frankfurt am Main, Hesse, DE, EU)                                                                                                     
+T (6762)  
+├─ 213.144.168.153 6762    96.892                        (Paris, IDF, FR, EU) ae19.parigi52.par.seabone.net                                                                       
+S&T (6762, 60171)  
+╰─ 213.144.173.171 60171   96.996                        (None, None, ES, EU) *                                                                                                   
+   185.35.142.60   60171   360.199             (Barcelona, Catalonia, ES, EU)                                                                                                     
+╭─ 185.10.164.99   60171   360.603             (Barcelona, Catalonia, ES, EU)                                                                                                     
+S&T (60171)  
+╰─ 185.10.164.113  60171   363.054                      (London, ENG, GB, EU) *                                                                                                   
+╭─ 185.10.164.135  60171   365.778                      (London, ENG, GB, EU) *                                                                                                   
+S&T (60171)  
+├─ 185.10.164.32   60171   363.142             (Paris, Île-de-France, FR, EU)                                                                                                     
+S (60171)  
+├─ 102.223.52.73   60171   359.719                     (Lagos, Lagos, NG, AF)                                                                                                     
+S&T (60171)  
+├─ 185.10.164.45   60171   362.665                      (London, ENG, GB, EU) *                                                                                                   
+S&T (60171)  
+├─ 102.219.44.43   60171   363.765                     (Lagos, Lagos, NG, AF)                                                                                                     
+S&T (60171, 328913)  
+╰─ 196.49.84.51    328913  364.642                 (Abidjan, Abidjan, CI, AF) bdr3.std.douala-ix.net                                                                              
+╭─ 196.49.84.36    328913  363.119                 (Abidjan, Abidjan, CI, AF) gw1.std.douala-ix.net                                                                               
+S&T (328913)  
+╰─ 196.49.84.188   328913  363.611                 (Douala, Littoral, CM, AF) cm-dla-as328913.anchors.atlas.ripe.net                                                              

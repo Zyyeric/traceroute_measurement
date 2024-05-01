@@ -1,0 +1,13 @@
+   107.162.217.5   55002   0.0                 (San Jose, California, US, NA)                                                                                                     
+╭─ 107.162.217.1   55002   0.669            (Santa Clara, California, US, NA)                                                                                                     
+S (55002, 396998)  asia-america-gateway-aag-cable-system ✘
+├  100.100.1.14    *       5.99                                           ***                                                                                                     
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 23.183.246.252  396998  181.946             (Singapore, Singapore, SG, AS)                                                                                                     
+S&T (396998, 140443)  indonesia-global-gateway-igg-system ✓ || batam-dumai-melaka-bdm-cable-system ✘ || seamewe-5 ✓ || palapa-ring-west ✓ || jasuka ✓ || seamewe-4 ✓ || asia-america-gateway-aag-cable-system ✓ || seax-1 ✘ || asia-submarine-cable-express-asecahaya-malaysia ✓ || batam-rengit-cable-system-brcs ✘ || apcn-2 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 38.47.188.1     140443  190.035       (Kuala Lumpur, Kuala Lumpur, MY, AS)                                                                                                     
+   38.47.189.189   140443  191.514       (Kuala Lumpur, Kuala Lumpur, MY, AS)                                                                                                     

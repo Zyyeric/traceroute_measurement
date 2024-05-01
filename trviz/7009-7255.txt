@@ -1,0 +1,17 @@
+   103.179.37.157  151332  0.0                  (Melbourne, Victoria, AU, OC)                                                                                                     
+   103.179.37.156  151332  0.277                (Melbourne, Victoria, AU, OC)                                                                                                     
+   203.192.83.253  7545    1.383                (Melbourne, Victoria, AU, OC) ip-253-83-192-203.static.pipenetworks.com                                                           
+   203.220.216.73  7545    1.758                        (Sydney, NSW, AU, OC) 203-220-216-73.tpgi.com.au                                                                          
+   27.32.160.193   7545    15.053              (North Melbourne, VIC, AU, OC) 27-32-160-193.static.tpgi.com.au                                                                    
+   202.7.171.173   7545    13.392           (Sydney, New South Wales, AU, OC) syd-gls-har-crt1-be-10.tpgi.com.au                                                                  
+╭─ 203.221.3.67    7545    13.709                       (Sydney, NSW, AU, OC) syd-gls-har-int1-hu0-3-0-3.tpgi.com.au                                                              
+S (7545, 1299)  hawaiki ✘ || southern-cross-cable-network-sccn ✓ || southern-cross-next ✓
+╰─ 213.248.95.232  1299    153.579          (Los Angeles, California, US, NA) lax-b22-link.ip.twelve99.net                                                                        
+╭─ 80.239.160.155  1299    153.867          (Los Angeles, California, US, NA) gtt-ic-338497.ip.twelve99-cust.net                                                                  
+S (1299, 3257)  exa-north-and-south ✘ || atlantic-crossing-1-ac-1 ✓ || yellow ✓ || apollo © || tata-tgn-atlantic ✓ || flag-atlantic-1-fa-1 ©
+├─ 89.149.187.109  3257    278.37                       (London, ENG, GB, EU) ae15.cr11-lon1.ip4.gtt.net                                                                          
+S&T (3257, 8895)  circe-north ✓ || ulysses-2 ✘ || scylla © || zeus ✓ || atlantic-crossing-1-ac-1 ✓ || concerto ✘ || farland-north ✘
+├─ 154.14.64.198   8895    360.296                    (Amsterdam, NH, NL, EU) ip4.gtt.net                                                                                         
+LHL (8895, 208520)  falcon ✘ || tata-tgn-gulf ✓ || gulf-bridge-international-cable-system-gbicsmiddle-east-north-africa-mena-cable-system ✘ || seamewe-4 ✓ || seamewe-3 ✓ || asia-africa-europe-1-aae-1 ✓ || flag-europe-asia-fea ✘ || europe-india-gateway-eig ✓ || imewe ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 45.94.14.204    208520  369.927            (Riyadh, Riyadh Region, SA, AS)                                                                                                     

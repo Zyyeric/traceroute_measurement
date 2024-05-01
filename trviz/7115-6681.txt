@@ -1,0 +1,13 @@
+   103.77.105.3    133800  0.0                     (Jakarta, Jakarta, ID, AS) ip-3-105-77-103.jkt-1.biznetg.io                                                                    
+   ***             *       -inf                                           *** *                                                                                                   
+   137.59.127.33   *       0.411                   (Jakarta, Jakarta, ID, AS) xe-0-2.cr01.jkt.biznetg.io                                                                          
+   202.169.59.21   17451   5.094                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+   172.20.3.17     *       2.049                                          ***                                                                                                     
+╭─ 112.78.190.1    17451   1.988                   (Depok, West Java, ID, AS) id-jkt-mtr-1.biznetnetworks.com                                                                     
+S&T (17451)  australia-singapore-cable-asc ✓ || matrix-cable-system ✘ || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || indonesia-global-gateway-igg-system ✓ || indigo-west ✓ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || jasuka ✓ || jakabare ✓
+├─ 112.78.190.5    17451   16.056              (Singapore, Singapore, SG, AS)                                                                                                     
+S (17451, 7642)  
+├─ 27.111.228.167  7642    58.888                    (Seogwipo, None, KR, AS) 7642.sgw.equinix.com                                                                                
+LHL (7642)  
+╰─ 202.1.205.242   7642    60.053                        (None, None, MV, AS) xe-1-0-0-1.rt.dhivehinet.net.mv                                                                     
+   123.176.1.4     7642    60.093                 (Male, Kaafu Atoll, MV, AS)                                                                                                     

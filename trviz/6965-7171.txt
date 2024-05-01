@@ -1,0 +1,19 @@
+   62.50.171.162   35132   0.0                      (Førde, Vestland, NO, EU) 162.62-50-171.enivest.net                                                                           
+   62.50.171.161   35132   0.927                    (Førde, Vestland, NO, EU) 161.62-50-171.enivest.net                                                                           
+   193.28.236.38   30950   9.148                         (Oslo, Oslo, NO, EU) ba-h-gw.bkkb.no                                                                                     
+   185.1.55.5      8674    8.595                     (Ulsteinvik, 15, NO, EU) no-usi.nordu.net                                                                                    
+╭─ 109.105.97.250  2603    9.312                   (Hemnesberget, 18, NO, EU) no-hmg9.nordu.net                                                                                   
+S&T (2603)  skagerrak-4 ✘ || havsil ✘ || skagenfiber-west ✓
+╰─ 109.105.97.13   2603    12.6                          (None, None, DK, EU) no-stln.nordu.net                                                                                   
+╭─ 109.105.97.15   2603    18.357                        (None, None, DK, EU) dk-esbj.nordu.net                                                                                   
+S&T (2603)  atlantic-crossing-1-ac-1 ✘ || hronn ✘ || cobracable ✘
+├─ 109.105.97.75   2603    24.26                      (Amsterdam, NH, NL, EU) nl-ams.nordu.net                                                                                    
+S&T (2603)  ulysses-2 ✘ || zeus ✓ || circe-north ✓ || scylla ✓ || concerto ✘ || farland-north ✘
+╰─ 109.105.102.97  2603    28.766                      (Hexton, None, GB, EU) uk-hex.nordu.net                                                                                    
+╭─ 109.105.102.98  2603    34.876                       (London, ENG, GB, EU) ndn-gw.mx1.lon.uk.geant.net                                                                         
+S&T (2603, 20965)  geo-eirgrid ✘ || exa-north-and-south ✘ || havhingstenceltixconnect-2-cc-2 ✓ || sirius-south ✘ || esat-2 ✓ || rockabill ✓ || pan-european-crossing-uk-ireland ✘ || exa-express ✘ || solas ✓ || esat-1 ✓
+╰─ 62.40.98.26     20965   44.273                  (Dublin, Leinster, IE, EU) ae6.mx1.dub.ie.geant.net                                                                            
+   83.97.88.74     1213    41.889                         (Dublin, D, IE, EU) heanet-ias-heanet-gw.dub.ie.geant.net                                                               
+   87.44.53.58     1213    40.711                  (Dublin, Leinster, IE, EU) ae4-0.core1-pw.nn.hea.net                                                                           
+   87.44.56.178    1213    40.73                            (Cork, M, IE, EU) po2.pw-spine1.nn.hea.net                                                                            
+   193.1.201.140   1213    40.849                (Tallaght, Leinster, IE, EU) atlas-anchor.heanet.ie                                                                              

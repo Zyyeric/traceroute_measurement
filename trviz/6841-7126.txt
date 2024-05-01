@@ -1,0 +1,16 @@
+   103.113.176.82  137566  0.0           (Ban Talat Bueng, Chon Buri, TH, AS)                                                                                                     
+   103.113.176.67  137566  0.564         (Ban Talat Bueng, Chon Buri, TH, AS)                                                                                                     
+   103.113.176.13  137566  0.708         (Ban Talat Bueng, Chon Buri, TH, AS)                                                                                                     
+   113.21.243.145  38082   0.684 (4.557)              (Bangkok, Bangkok, TH, AS) tig-net243-145.trueintergateway.com                                                                 
+╭─ 122.144.26.18   38082   31.338                        (None, None, TH, AS) TIG-Net26-18.trueintergateway.com                                                                   
+S&T (38082, 6939)  
+├─ 184.104.208.92  6939    33.271              (Singapore, Singapore, SG, AS) port-channel18.core3.sin1.he.net                                                                    
+S (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.105.80.13   6939    173.694                        (Milan, 25, IT, EU) 100ge7-2.core1.mil2.he.net                                                                          
+LHL (6939)  
+├─ 184.104.196.194 6939    193.488                       (Denver, CO, US, NA) port-channel1.core1.den3.he.net                                                                     
+LHL (6939)  
+╰─ 184.105.64.170  6939    204.634                       (Athens, A1, GR, EU) 100ge0-36.core1.ath1.he.net                                                                         
+   ***             *       -inf                                           *** *                                                                                                   
+   195.130.66.103  199399  205.788                   (Athens, Attica, GR, EU) gr-ath-as199399.anchors.atlas.ripe.net                                                              

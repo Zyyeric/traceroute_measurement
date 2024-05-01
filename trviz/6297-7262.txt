@@ -1,0 +1,31 @@
+   203.41.0.254    1221    0.0             (Perth, Western Australia, AU, OC) atlas-per.telstra.net                                                                               
+   203.41.0.253    1221    0.326           (Perth, Western Australia, AU, OC)                                                                                                     
+   138.217.126.78  1221    0.259           (Perth, Western Australia, AU, OC) tel4198820.lnk.telstra.net                                                                          
+   138.217.126.77  1221    0.96            (Perth, Western Australia, AU, OC) bundle-ether801-219.pie-edge903.perth.telstra.net                                                   
+   203.50.6.176    1221    1.218                          (Perth, WA, AU, OC) bundle-ether11.pie-core10.perth.telstra.net                                                         
+   203.50.6.234    1221    28.105                      (Adelaide, SA, AU, OC) bundle-ether3.way-core10.adelaide.telstra.net                                                       
+   203.50.6.231    1221    40.97                     (Melbourne, VIC, AU, OC) bundle-ether16.exi-core10.melbourne.telstra.net                                                     
+   203.50.13.124   1221    40.771               (Melbourne, Victoria, AU, OC) bundle-ether2.cla-core30.melbourne.telstra.net                                                      
+   203.50.13.132   1221    51.758           (Sydney, New South Wales, AU, OC) bundle-ether3.hay-core30.sydney.telstra.net                                                         
+╭─ 203.50.6.106    1221    53.131           (Sydney, New South Wales, AU, OC) bundle-ether2.oxf-gw30.sydney.telstra.net                                                           
+S (1221, 4637)  seamewe-3 ✓
+╰─ 203.50.13.94    4637    189.642                       (None, None, HK, AS) *                                                                                                   
+╭─ 203.50.13.94    4637    189.642                       (None, None, HK, AS) *                                                                                                   
+S (4637)  
+╰─ 202.84.141.225  4637    224.989          (Los Angeles, California, US, NA) i-10604.1wlt-core02.telstraglobal.net                                                               
+   202.84.141.225  4637    224.989          (Los Angeles, California, US, NA) i-10604.1wlt-core02.telstraglobal.net                                                               
+╭─ 202.84.253.86   4637    224.579          (Los Angeles, California, US, NA) i-93.tlot02.bi.telstraglobal.net                                                                    
+S (4637, 1273)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 195.2.2.154     1273    364.452                       (None, None, GB, EU) ae21-xcr2.ash.cw.net                                                                                
+   195.2.28.166    1273    364.44                        (None, None, GB, EU) ae43-pcr1.ptl.cw.net                                                                                
+   195.2.24.229    1273    346.719                       (None, None, GB, EU) ae29-xcr1.mlu.cw.net                                                                                
+   195.2.16.2      1273    364.813                       (None, None, GB, EU) ae23.0-xcr1.sof.cw.net                                                                              
+╭─ 195.2.12.58     3329    368.071                       (None, None, GB, EU) vfgr1-vf-gw.sof.cw.net                                                                              
+S&T (3329)  
+╰─ 62.74.30.102    3329    375.35                         (Athens, I, GR, EU) *                                                                                                   
+   62.74.30.101    3329    375.589                        (Athens, I, GR, EU) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   62.74.226.30    12361   383.946                   (Athens, Attica, GR, EU) dumy30.panafonet.gr                                                                                 
+   ***             *       -inf                                           *** *                                                                                                   
+   139.91.68.3     8522    410.822                 (Irákleion, Crete, GR, EU)                                                                                                     

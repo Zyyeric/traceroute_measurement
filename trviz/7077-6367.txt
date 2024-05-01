@@ -1,0 +1,17 @@
+   152.195.112.52  15133   0.0                         (Tokyo, Tokyo, JP, AS)                                                                                                     
+   152.195.112.49  15133   0.963                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+╭─ 152.195.112.203 15133   0.254                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+S (15133, 6453)  apcn-2 ✓ || eac-c2c ✓ || asia-pacific-gateway-apg ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 180.87.181.243  6453    107.698             (Singapore, Singapore, SG, AS) if-ae-44-2.tcore2.svw-singapore.as6453.net                                                          
+╭─ 180.87.12.1     6453    106.514                  (Singapore, None, SG, AS) if-ae-2-2.tcore1.svw-singapore.as6453.net                                                           
+S&T (6453)  
+├─ 180.87.36.82    6453    99.575                       (Chennai, TN, IN, AS) if-ae-13-2.tcore1.cxr-chennai.as6453.net                                                            
+S&T (6453)  
+├─ 180.87.36.10    6453    105.182                  (Singapore, None, SG, AS) *                                                                                                   
+S&T (6453, 4755)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 115.114.12.186  4755    139.767                     (Delhi, Delhi, IN, AS) 115.114.12.186.static-delhi.vsnl.net.in                                                             
+   180.179.197.198 17439   133.437                       (None, None, IN, AS) *                                                                                                   
+   180.179.210.68  132420  138.898                       (None, None, IN, AS) 180-179-210-68.static.e2enetworks.in                                                                
+   216.48.178.84   132420  143.351             (Noida, Uttar Pradesh, IN, AS) e2e-95-84.ssdcloudindia.net                                                                         

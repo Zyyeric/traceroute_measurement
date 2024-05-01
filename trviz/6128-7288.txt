@@ -1,0 +1,21 @@
+   103.215.229.229 140443  0.0                  (Surabaya, East Java, ID, AS) 229.229.215.103.in-addr.herza.id                                                                    
+   103.215.229.1   140443  0.164         (Gubengairlangga, East Java, ID, AS)                                                                                                     
+   103.215.228.1   140443  0.191         (Gubengairlangga, East Java, ID, AS) 1.228.215.103.in-addr.herza.id                                                                      
+╭─ 36.64.254.21    7713    0.186 (2.011)    (Gubengairlangga, East Java, ID, AS)                                                                                                     
+S&T (7713)  australia-singapore-cable-asc ✓ || matrix-cable-system ✘ || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || indonesia-global-gateway-igg-system 👍 || seamewe-3 ✓ || jasuka 👍 || indigo-west ✓ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || jakabare ✓
+╰─ 180.240.193.93  7713    18.705              (Singapore, Singapore, SG, AS)                                                                                                     
+   180.240.193.93  7713    18.705              (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 180.240.204.8   7713    19.636              (Singapore, Singapore, SG, AS)                                                                                                     
+S (7713, 8529)  
+├─ 27.111.229.38   8529    19.863                    (Seogwipo, None, KR, AS) 8529.sgw.equinix.com                                                                                
+S (8529, 17557)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 134.0.220.179   17557   107.831                       (Muscat, MA, OM, AS) *                                                                                                   
+S (17557, 7590)  
+├  10.253.4.25     *       111.869                                        ***                                                                                                     
+├  10.253.4.39     *       130.27                                         ***                                                                                                     
+├  10.253.12.37    *       129.77                                         ***                                                                                                     
+├  10.253.13.41    *       130.278                                        ***                                                                                                     
+╰─ 202.125.149.58  7590    130.437                   (Rawalpindi, PB, PK, AS) Touchstone-4.rwp44d1.pie.net.pk                                                                     
+   210.56.8.180    7590    128.095                    (Islamabad, IS, PK, AS) *                                                                                                   
+   210.56.11.202   7590    130.586             (Islamabad, Islamabad, PK, AS)                                                                                                     

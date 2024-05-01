@@ -1,0 +1,12 @@
+   117.20.118.21   45498   0.0               (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     
+   117.20.118.17   45498   2.797             (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     
+   27.109.113.25   45498   1.308             (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     
+╭─ 27.109.113.4    45498   1.056             (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     
+S (45498, 3491)  asia-africa-europe-1-aae-1 ✘
+├  172.16.100.137  *       1.501                                          ***                                                                                                     
+├  172.16.16.6     *       1.958                                          ***                                                                                                     
+├  172.16.16.153   *       38.548                                         ***                                                                                                     
+├─ 63.216.82.157   3491    51.235              (Hong Kong, Hong Kong, HK, AS) 63-216-82-157.static.pccwglobal.net                                                                 
+S (3491)  apcn-2 👍 || eac-c2c ✓ || asia-pacific-gateway-apg ✓ || flag-north-asia-loopreach-north-asia-loop 👍 || flag-europe-asia-fea ✓ || seamewe-3 👍
+╰─ 63.218.148.102  3491    93.315                       (Seoul, None, KR, AS) Bundle-Ether43.br04.seo01.pccwbtn.net                                                               
+   63.222.106.8    3491    93.236                      (Seoul, Seoul, KR, AS) 63-222-106-8.static.pccwglobal.net                                                                  

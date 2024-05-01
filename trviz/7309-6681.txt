@@ -1,0 +1,17 @@
+   103.77.105.3    133800  0.0                     (Jakarta, Jakarta, ID, AS) ip-3-105-77-103.jkt-1.biznetg.io                                                                    
+   ***             *       -inf                                           *** *                                                                                                   
+   137.59.127.33   *       0.35                    (Jakarta, Jakarta, ID, AS) xe-0-2.cr01.jkt.biznetg.io                                                                          
+   202.169.59.21   17451   1.427                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+╭─ 182.253.255.18  17451   1.195                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+S&T (17451)  australia-singapore-cable-asc ✓ || matrix-cable-system ✘ || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || indonesia-global-gateway-igg-system ✓ || indigo-west ✓ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || jasuka ✓
+╰─ 182.253.255.182 17451   12.158              (Singapore, Singapore, SG, AS) gs2-3.biznetnetworks.com                                                                            
+╭─ 184.104.199.150 6939    13.242              (Singapore, Singapore, SG, AS) port-channel1.core1.sin2.he.net                                                                     
+S (6939)  seamewe-5 ✓ || seamewe-4 ✓ || peace-cable ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.231.217 6939    171.561             (Paris, Île-de-France, FR, EU)                                                                                                     
+S&T (6939, 6762)  seamewe-5 ✓ || seamewe-4 ✓ || imewe ✓
+╰─ 195.22.218.199  6762    192.632                    (Palermo, None, IT, EU) ae1.palermo4.pal.seabone.net                                                                        
+   213.144.186.82  42473   194.907                      (Palermo, 82, IT, EU) dcr01.anx35.pmo.it.anexia-it.net                                                                    
+   37.252.253.18   42473   194.572                  (Palermo, Sicily, IT, EU)                                                                                                     

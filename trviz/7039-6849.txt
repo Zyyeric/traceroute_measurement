@@ -1,0 +1,28 @@
+   203.119.111.139 4608    0.0                 (Brisbane, Queensland, AU, OC) anchor.apnic.net                                                                                    
+   203.119.111.131 4608    0.7                 (Brisbane, Queensland, AU, OC) vl-1705.nxcs2.hosted.au.apnic.net                                                                   
+   203.119.104.29  4608    0.457                      (Brisbane, QLD, AU, OC) te-0-1-5.nxgw2.bne.apnic.net                                                                        
+   203.119.104.93  4608    0.956               (Brisbane, Queensland, AU, OC) po-11-924.nxgw1.bne.apnic.net                                                                       
+   123.103.192.109 4826    1.809               (Brisbane, Queensland, AU, OC) ip-109.192.103.123.vocus.net.au                                                                     
+╭─ 114.31.194.38   4826    108.147                    (Brisbane, QLD, AU, OC) be102.bdr01.bne11.qld.vocus.network                                                                 
+S (4826)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 114.31.206.51   4826    109.235                     (Singapore, 4, SG, AS) be201.bdr01.sin01.sin.vocus.network                                                                 
+   80.81.65.217    15412   107.185                     (Singapore, 4, SG, AS) *                                                                                                   
+╭─ 62.216.137.165  15412   110.256                     (Singapore, 4, SG, AS) ae18.0.cjr01.sin001.flagtel.com                                                                     
+S (15412, 137409)  
+├─ 27.111.229.213  137409  107.459                   (Seogwipo, None, KR, AS) 137409.sgw.equinix.com                                                                              
+S (137409, 7578)  
+╰─ 206.148.24.79   7578    107.679             (Singapore, Singapore, SG, AS) po4.sg-eqxsg3-cr2.globalsecurelayer.com                                                             
+╭─ 206.148.24.26   7578    108.078             (Singapore, Singapore, SG, AS) po1.sg-eqxsg3-bb1.globalsecurelayer.com                                                             
+S (7578)  
+├─ 206.148.24.67   7578    174.606          (Sydney, New South Wales, AU, OC) e2.ty-eqxty8-bb1.globalsecurelayer.com                                                              
+S (7578)  
+╰─ 206.148.24.34   7578    174.45                      (Tokyo, Tokyo, JP, AS) po50-2.ty-eqxty8-cr2.globalsecurelayer.com                                                          
+   206.148.24.37   7578    174.273                     (Tokyo, Tokyo, JP, AS) po11-3.ty-eqxty8-sw4.globalsecurelayer.com                                                          
+   45.11.107.52    969     184.249                     (Tokyo, Tokyo, JP, AS) e52-1-gsl.cr1a.eqty8.nrt4.jp.917.as                                                                 
+   199.119.64.139  969     183.996                   (Urayasu, Tokyo, JP, AS) e31-10.spine2.nrt04.jp.misaka.io                                                                    
+   103.170.232.11  142616  183.978                     (Tokyo, Tokyo, JP, AS) po-31.lag.nrt04.jp.misaka.io                                                                        
+   103.170.232.152 142616  184.082                     (Tokyo, Tokyo, JP, AS) user-103-170-232-152.nrt04.jp.misaka.io                                                             

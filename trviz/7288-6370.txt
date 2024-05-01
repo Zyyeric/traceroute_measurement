@@ -1,0 +1,18 @@
+   103.202.216.76  59105   0.0                         (Chōfu, Tokyo, JP, AS)                                                                                                     
+   103.202.216.73  59105   0.29                        (Tokyo, Tokyo, JP, AS) ge-2-1-0.pop03er03.bb.homenoc.ad.jp                                                                 
+   103.48.31.180   59105   0.276                         (None, None, JP, AS) gi0-2-0.pop03cr01.bb.homenoc.ad.jp                                                                  
+   103.48.31.87    59105   0.278 (5.959)                    (None, None, JP, AS) v100.ge-0-0-3.noc01er01.bb.homenoc.ad.jp                                                            
+   133.208.55.17   2518    10.519                      (Tokyo, Tokyo, JP, AS)                                                                                                     
+   133.208.191.40  2518    11.557                        (Nagoya, 23, JP, AS) *                                                                                                   
+   133.208.197.73  2518    16.228                        (Nagoya, 23, JP, AS) *                                                                                                   
+╭─ 133.208.193.204 2518    21.399                      (Osaka, Ōsaka, JP, AS)                                                                                                     
+S (2518, 7713)  asia-pacific-gateway-apg ✓ || eac-c2c ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 180.240.204.137 7713    84.433              (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 180.240.204.137 7713    84.433              (Singapore, Singapore, SG, AS)                                                                                                     
+S&T (7713)  australia-singapore-cable-asc ✓ || indigo-west ✓ || indonesia-global-gateway-igg-system 👍 || jakarta-bangka-bintan-batam-singapore-b3js ✘ || seamewe-3 ✓ || matrix-cable-system ✘ || jasuka 👍 || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || jakabare ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 36.64.254.21    7713    103.003       (Gubengairlangga, East Java, ID, AS)                                                                                                     
+   36.64.254.22    7713    102.477                   (Denpasar, Bali, ID, AS)                                                                                                     
+   103.215.228.2   140443  102.941              (Surabaya, East Java, ID, AS) 2.228.215.103.in-addr.herza.id                                                                      
+   103.215.229.229 140443  102.554              (Surabaya, East Java, ID, AS) 229.229.215.103.in-addr.herza.id                                                                    

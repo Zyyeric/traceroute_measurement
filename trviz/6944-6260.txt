@@ -1,0 +1,35 @@
+   185.39.208.23   199993  0.0                       (Lisbon, Lisbon, PT, EU) atlasancora01.wan.dns.pt                                                                            
+   185.39.208.60   199993  0.499                     (Lisbon, Lisbon, PT, EU)                                                                                                     
+   194.210.4.137   1930    0.974                     (Lisbon, Lisbon, PT, EU) router63.lisboa.fccn.pt                                                                             
+   194.210.6.112   1930    0.898                     (Lisbon, Lisbon, PT, EU) router30.lisboa.fccn.pt                                                                             
+   194.210.6.103   1930    1.112                     (Lisbon, Lisbon, PT, EU) router3.lisboa.fccn.pt                                                                              
+   194.210.6.102   1930    8.859                         (Lisbon, 11, PT, EU) Router30.Lisboa.fccn.pt                                                                             
+   193.136.1.9     1930    6.675                       (Porto, Porto, PT, EU) router20.porto.fccn.pt                                                                              
+   194.210.7.103   1930    7.195                          (Porto, 13, PT, EU) Router2.Porto.fccn.pt                                                                               
+╭─ 83.97.88.44     21320   6.679                     (Lisbon, Lisbon, PT, EU) fccn-ias-geant-gw.rt1.por.pt.geant.net                                                              
+S&T (21320, 20965)  
+├─ 62.40.98.220    20965   36.435                      (Bilbao, None, ES, EU) ae2.rt1.bil.es.geant.net                                                                            
+S&T (20965)  
+├─ 62.40.98.223    20965   36.352                        (Paris, IDF, FR, EU) ae4.mx1.par.fr.geant.net                                                                            
+S&T (20965)  
+├─ 62.40.98.106    20965   36.602                        (Lisbon, 11, PT, EU) ae0.mx2.lis.pt.geant.net                                                                            
+S&T (20965)  
+├─ 62.40.98.64     20965   35.012                   (London, England, GB, EU) ae2.mx1.lon.uk.geant.net                                                                            
+S (20965, 6461)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 64.125.29.114   6461    39.24                         (None, None, US, NA) cs1.lhr15.uk.zip.zayo.com.29.125.64.in-addr.arpa                                                    
+S (6461)  
+├─ 64.125.29.129   6461    39.083                       (London, ENG, GB, EU) ae1.mcs1.lhr15.uk.eth.zayo.com                                                                      
+S (6461, 4637)  
+├─ 82.98.196.161   4637    50.371                        (None, None, HK, AS) 82.98.196.161.IPYX-284545-900-ZYO.zip.zayo.com                                                      
+S (4637)  
+╰─ 202.84.178.37   4637    51.116                   (London, England, GB, EU) i-1107.ulhc-core03.telstraglobal.net                                                                
+╭─ 202.84.178.9    4637    48.323                   (London, England, GB, EU) i-1003.ulcn-core01.telstraglobal.net                                                                
+S (4637)  
+╰─ 202.84.140.141  4637    355.768             (Singapore, Singapore, SG, AS) i-1000.sgcn-core01.telstraglobal.net                                                                
+   202.84.140.141  4637    355.768             (Singapore, Singapore, SG, AS) i-1000.sgcn-core01.telstraglobal.net                                                                
+╭─ 202.84.207.190  4637    356.736             (Singapore, Singapore, SG, AS) unknown.telstraglobal.net                                                                           
+S (4637)  
+╰─ 202.84.204.45   4637    354.852                     (Dubai, Dubai, AE, AS) i-102.uddm01.telstraglobal.net                                                                      
+   217.151.46.27   4637    356.119                     (Dubai, Dubai, AE, AS) unknown.telstraglobal.net                                                                           
+   156.154.53.254  12008   356.095                     (Dubai, Dubai, AE, AS)                                                                                                     

@@ -1,0 +1,16 @@
+   45.87.135.252   208398  0.0                 (Singapore, Singapore, SG, AS)                                                                                                     
+   45.87.135.253   208398  1.252               (Singapore, Singapore, SG, AS)                                                                                                     
+   10.1.1.254      *       0.518                                          ***                                                                                                     
+╭─ 93.186.133.209  6762    0.64 (4.215)          (Singapore, Singapore, SG, AS)                                                                                                     
+LHL (6762)  seamewe-5 👍 || seamewe-4 👍 || peace-cable ✘ || seamewe-3 👍
+╰─ 195.22.213.182  6762    178.324                    (Amsterdam, NH, NL, EU) ae0.amster32.ams.seabone.net                                                                        
+   195.22.213.146  60068   165.36                     (Amsterdam, NH, NL, EU) datacamp-146.amster32.ams.seabone.net                                                               
+   45.134.214.137  57695   166.256                    (Amsterdam, NH, NL, EU) v3524.cr01.ams05.nl.misaka.io                                                                       
+   45.11.106.4     57695   166.441                    (Amsterdam, NH, NL, EU) po-04.lag.ams05.nl.misaka.io                                                                        
+   45.11.106.149   57695   167.627         (Amsterdam, North Holland, NL, EU) router01-msk-ams.as151332.net                                                                       
+╭─ 209.250.248.226 20473   222.168           (Halfweg, North Holland, NL, EU) router01-vul-ams.as151332.net                                                                       
+LHL (20473, 63949)  
+├─ 172.104.190.118 63949   176.913             (Singapore, Singapore, SG, AS) router01-akm-sin.as151332.net                                                                       
+S (63949, 7545)  seamewe-5 ✓ ↠ seamewe-3 ✓ || seamewe-4 ✓ ↠ seamewe-3 ✓ || peace-cable ✘ ↠ seamewe-3 ✓ || seamewe-3 ✓ ↠ seamewe-3 ✓
+╰─ 203.192.83.254  7545    482.072              (Melbourne, Victoria, AU, OC) ip-254-83-192-203.static.pipenetworks.com                                                           
+   103.179.37.157  151332  474.904              (Melbourne, Victoria, AU, OC)                                                                                                     

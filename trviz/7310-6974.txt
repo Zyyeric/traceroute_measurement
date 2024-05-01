@@ -1,0 +1,13 @@
+   182.161.74.241  55569   0.0                         (Tokyo, Tokyo, JP, AS)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   100.66.0.44     *       0.279                                          ***                                                                                                     
+   100.66.0.43     *       0.339                                          ***                                                                                                     
+   61.200.82.17    2914    0.69                      (Urayasu, Tokyo, JP, AS) ce-4-3-3.a00.tokyjp09.jp.bb.gin.ntt.net                                                             
+╭─ 129.250.9.102   3491    0.893                          (Tokyo, 13, JP, AS) ae-0.pccw.tokyjp09.jp.bb.gin.ntt.net                                                                
+S (3491)  asia-pacific-gateway-apg ✓ || eac-c2c ✓
+╰─ 63.218.164.146  3491    67.147              (Singapore, Singapore, SG, AS) be43.br06.sin02.as3491.net                                                                          
+╭─ 63.220.192.81   3491    66.547              (Singapore, Singapore, SG, AS) 63-220-192-81.static.pccwglobal.net                                                                 
+S&T (3491, 140443)  batam-dumai-melaka-bdm-cable-system ✘ || seamewe-5 ✓ || indonesia-global-gateway-igg-system ✓ || jasuka ✓ || asia-america-gateway-aag-cable-system ✓ || seax-1 ✘ || batam-rengit-cable-system-brcs ✘ || palapa-ring-west ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 38.47.188.1     140443  70.98         (Kuala Lumpur, Kuala Lumpur, MY, AS)                                                                                                     
+   38.47.189.189   140443  73.418        (Kuala Lumpur, Kuala Lumpur, MY, AS)                                                                                                     

@@ -1,0 +1,15 @@
+   92.38.135.131   202422  0.0                         (Seoul, Seoul, KR, AS)                                                                                                     
+   92.38.135.3     202422  0.647                       (Seoul, Seoul, KR, AS) vrrp.gcore.lu                                                                                       
+   10.255.17.210   *       0.582                                          ***                                                                                                     
+   10.255.17.213   *       0.308                                          ***                                                                                                     
+   10.255.17.147   *       0.568                                          ***                                                                                                     
+╭─ 113.29.52.41    3549    0.534 (4.687)                  (Seoul, Seoul, KR, AS)                                                                                                     
+S (3549, 3356)  flag-europe-asia-fea ✘ || seamewe-3 ✘
+╰─ 171.75.8.105    3356    247.67                    (Madrid, Madrid, ES, EU) ae2.3202.edge1.mad1.neo.colt.net                                                                    
+   213.242.114.122 3356    288.041                   (Madrid, Madrid, ES, EU) serveisweb.bar2.barcelona1.level3.net                                                               
+   130.206.245.25  766     288.306                       (None, None, ES, EU) ciemat.rt2.ethtrunk1.telmad.rt1.mad.red.rediris.es                                                  
+   130.206.216.2   766     297.538                       (None, None, ES, EU) redimadrid-backup-router.red.rediris.es                                                             
+   193.145.15.50   766     282.497                       (None, None, ES, EU) uc3m-rt-ju-01-xe-0-1-0.net.redimadrid.es                                                            
+   ***             *       -inf                                           *** *                                                                                                   
+   163.117.49.4    766     296.982                       (Madrid, MD, ES, EU) b01014zr.uc3m.es                                                                                    
+   163.117.253.5   766     273.162                   (Madrid, Madrid, ES, EU)                                                                                                     

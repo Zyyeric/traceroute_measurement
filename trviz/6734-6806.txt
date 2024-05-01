@@ -1,0 +1,21 @@
+   212.116.14.178  6659    0.0                     (Hamburg, Hamburg, DE, EU)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   212.116.21.244  6659    1.299     (Norderstedt, Schleswig-Holstein, DE, EU)                                                                                                     
+   194.15.144.153  *       1.287     (Norderstedt, Schleswig-Holstein, DE, EU)                                                                                                     
+   85.119.200.129  61157   0.954     (Norderstedt, Schleswig-Holstein, DE, EU) ae4.cr1.ham5.plusserver.com                                                                         
+   85.119.200.85   61157   13.805                        (None, None, DE, EU) ae6.cr2.fra.plusserver.com                                                                          
+   85.119.200.253  61157   12.547                       (Cologne, NW, DE, EU) ae4.cr2.cgn3.plusserver.com                                                                         
+   62.138.225.33   61157   12.426                       (Cologne, NW, DE, EU) ae0.cr1.cgn3.plusserver.com                                                                         
+╭─ 62.138.225.38   61157   12.405                    (Dusseldorf, NW, DE, EU) ae6.cr1.dus6.plusserver.com                                                                         
+T (61157, 24940)  
+╰─ 80.249.209.55   24940   20.426                      (Schiphol, NH, NL, EU) amsix-gw.hetzner.de                                                                                 
+╭─ 213.239.203.162 24940   20.55           (Amsterdam, North Holland, NL, EU) core50.ams.hetzner.com                                                                              
+T (24940)  
+├─ 213.239.252.86  24940   40.994              (Stockholm, Stockholm, SE, EU) core53.sto.hetzner.com                                                                              
+S&T (24940)  
+╰─ 213.239.254.69  24940   41.264                 (Helsinki, Uusimaa, FI, EU) core32.hel1.hetzner.com                                                                             
+   213.239.228.14  24940   41.233                 (Helsinki, Uusimaa, FI, EU) spine16.cloud1.hel1.hetzner.com                                                                     
+   213.239.228.50  24940   41.803                 (Helsinki, Uusimaa, FI, EU) spine2.cloud1.hel1.hetzner.com                                                                      
+   ***             *       -inf                                           *** *                                                                                                   
+   95.216.132.233  24940   41.263                      (Helsinki, 18, FI, EU) 15272.your-cloud.host                                                                               
+   95.217.19.69    24940   41.122                 (Helsinki, Uusimaa, FI, EU) fi-tuu-as24940-client.anchors.atlas.ripe.net                                                        

@@ -1,0 +1,11 @@
+   103.170.154.254 142594  0.0                      (London, England, GB, EU) 254.154.170.103.speedyvps.uk                                                                        
+╭─ 103.170.154.1   142594  0.193                    (London, England, GB, EU)                                                                                                     
+T (142594, 60068)  
+├─ 156.146.32.94   60068   0.272                     (Prague, Prague, CZ, EU) unn-156-146-32-94.cdn77.com                                                                         
+T (60068, 201011)  
+╰─ 81.95.9.54      201011  0.383                    (London, England, GB, EU) ae22-401.lon10.core-backbone.com                                                                    
+╭─ 195.66.226.31   12779   0.349 (1.04)                 (London, ENG, GB, None) linx.itgate.net                                                                                     
+S&T (12779)  flag-europe-asia-fea ✓ || seamewe-3 ✓
+╰─ 213.254.30.222  12779   20.705                        (Torino, 21, IT, EU) be20.Scooby-Monster.core.TRN.itgate.net                                                             
+   213.254.30.223  12779   19.846                        (Torino, 21, IT, EU) po1.nx01.colo.trn1.itgate.net                                                                       
+   213.212.129.68  12779   19.557                   (Turin, Piedmont, IT, EU) it-trn-as12779.anchors.atlas.ripe.net                                                               

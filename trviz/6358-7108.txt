@@ -1,0 +1,28 @@
+   103.23.232.7    58475   0.0        (Banjarmasin, South Kalimantan, ID, AS)                                                                                                     
+   103.23.232.1    58475   0.282      (Banjarmasin, South Kalimantan, ID, AS)                                                                                                     
+╭─ 36.93.255.177   7713    0.282 (1.974)                   (Batam, Riau, ID, AS)                                                                                                     
+S&T (7713)  s-u-b-cable-system 👍 ↠ australia-singapore-cable-asc ✓ || jaka2ladema 👍 ↠ jakabare ✓ || jaka2ladema 👍 ↠ jasuka 👍 || s-u-b-cable-system 👍 ↠ matrix-cable-system ✘ || s-u-b-cable-system 👍 ↠ b2js-jakarta-bangka-batam-singapore-cable-system ✘ || s-u-b-cable-system 👍 ↠ indonesia-global-gateway-igg-system 👍 || s-u-b-cable-system 👍 ↠ seamewe-3 ✓ || s-u-b-cable-system 👍 ↠ jasuka 👍 || s-u-b-cable-system 👍 ↠ indigo-west ✓ || s-u-b-cable-system 👍 ↠ jakarta-bangka-bintan-batam-singapore-b3js ✘ || s-u-b-cable-system 👍 ↠ jakabare ✓
+├─ 180.240.192.33  7713    21.47               (Singapore, Singapore, SG, AS)                                                                                                     
+S (7713)  eac-c2c ✓ || asia-pacific-gateway-apg ✓ || southeast-asia-japan-cable-sjc 👍 || asia-america-gateway-aag-cable-system 👍 || seamewe-3 ✓ || asia-submarine-cable-express-asecahaya-malaysia ✓ || apcn-2 ✓ || tata-tgn-intra-asia-tgn-ia ✓
+╰─ 180.240.197.113 7713    72.195              (Hong Kong, Hong Kong, HK, AS)                                                                                                     
+╭─ 103.203.158.51  *       73.461              (Hong Kong, Hong Kong, HK, AS)                                                                                                     
+S (, 6939)  asia-africa-europe-1-aae-1 ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.198.57  6939    233.97                        (Paris, IDF, FR, EU) port-channel2.core2.par2.he.net                                                                     
+S&T (6939)  
+╰─ 184.105.64.4    6939    234.339                  (Poplar, England, GB, EU) port-channel18.core3.lon2.he.net                                                                    
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 184.104.205.253 6939    289.908                  (London, England, GB, EU) mtn-globalconnect-solutions-ltd.port-channel7.core1.lon3.he.net                                     
+T (6939, 16637)  
+├─ 41.181.189.65   16637   231.756                     (Pretoria, GP, ZA, AF) *                                                                                                   
+T (16637)  
+╰─ 41.181.105.105  16637   231.079                  (London, England, GB, EU)                                                                                                     
+╭─ 41.181.244.176  16637   231.936                  (London, England, GB, EU)                                                                                                     
+T (16637, 20294)  
+├─ 41.181.247.39   20294   380.82                        (None, None, ZA, AF) *                                                                                                   
+LHL (20294)  
+╰─ 212.88.110.34   20294   378.688          (Kampala, Central Region, UG, AF)                                                                                                     
+   129.205.30.76   37063   380.256                       (Kampala, C, UG, AF) *                                                                                                   
+   41.191.77.206   328998  380.415                       (Kampala, C, UG, AF) *                                                                                                   
+   196.49.15.189   328998  381.351          (Kampala, Central Region, UG, AF)                                                                                                     

@@ -1,0 +1,16 @@
+   102.130.49.144  328383  0.0                (Johannesburg, Gauteng, ZA, AF) za-jnb-as57695.anchors.atlas.ripe.net                                                               
+   102.130.49.21   328383  0.097              (Johannesburg, Gauteng, ZA, AF) po-21.lag.jnb01.za.misaka.io                                                                        
+   102.130.49.3    328383  0.173              (Johannesburg, Gauteng, ZA, AF) spine2.v271.jnb01.za.misaka.io                                                                      
+   102.130.51.2    *       0.182              (Johannesburg, Gauteng, ZA, AF) e54-1-10.cr1a.tdjb1.jnb1.za.917.as                                                                  
+   196.60.8.126    3741    1.049                  (Johannesburg, 6, ZA, None) is.ixp.joburg                                                                                       
+╭─ 168.209.1.166   3741    0.784 (1.416)                    (None, None, ZA, AF) mi-za-pkl-p8-be-202-102.ip.ddii.network                                                             
+T (3741)  
+├─ 168.209.246.66  3741    173.693                     (London, None, GB, EU) core2b-dock-be-2.ip.ddii.network                                                                    
+T (3741)  
+╰─ 168.209.246.80  3741    175.381                       (None, None, ZA, AF) ar3-dock-be-2.ip.ddii.network                                                                       
+   168.209.160.109 3741    173.398                       (None, None, ZA, AF) *                                                                                                   
+   196.14.240.4    3741    256.108                       (None, None, ZA, AF) *                                                                                                   
+╭─ 196.14.240.5    37350   256.048                       (None, None, ZA, AF) *                                                                                                   
+S&T (37350, 30997)  
+╰─ 196.201.2.126   30997   255.983                       (Accra, 1, GH, None) *                                                                                                   
+   196.49.14.25    30997   255.905             (Accra, Greater Accra, GH, AF)                                                                                                     

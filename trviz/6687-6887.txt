@@ -1,0 +1,19 @@
+   27.111.84.21    135132  0.0           (Cebu City, Central Visayas, PH, AS) ph-ceb-as135132.anchors.atlas.ripe.net                                                              
+   27.111.84.20    135132  1.531             (Baugo, Central Visayas, PH, AS) vlan509.core.ceb02.ds.network                                                                       
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   203.177.209.217 4775    4.039             (Baugo, Central Visayas, PH, AS)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 120.28.10.54    4775    44.348              (Muñoz, Central Luzon, PH, AS)                                                                                                     
+S (4775, 1273)  tata-tgn-intra-asia-tgn-ia ✓ || asia-america-gateway-aag-cable-system ✓
+├─ 203.169.57.37   1273    58.681              (Hong Kong, Hong Kong, HK, AS) xe-0-1-0-xcr1.hkg.cw.net                                                                            
+S (1273)  
+╰─ 195.2.10.178    1273    218.221                       (None, None, GB, EU) ae51-xcr1.sng.cw.net                                                                                
+   195.2.2.57      1273    203.973                       (None, None, GB, EU) ae34-xcr1.mrx.cw.net                                                                                
+╭─ 195.2.27.157    1273    205.95                        (None, None, GB, EU) ae6-xcr1.bsb.cw.net                                                                                 
+S&T (1273, 12430)  
+╰─ 195.89.97.98    12430   301.526                       (None, None, ES, EU) vfspain-barcelona-gw.bsb.cw.net                                                                     
+   172.29.246.142  *       290.154                                        ***                                                                                                     
+   147.84.200.125  39069   300.689                   (Murcia, Murcia, ES, EU)                                                                                                     

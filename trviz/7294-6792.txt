@@ -1,0 +1,43 @@
+   141.164.39.1    20473   0.0                      (Paripark, Seoul, KR, AS) 141.164.39.1.vultrusercontent.com                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   10.84.0.29      *       1.329                                          ***                                                                                                     
+   10.84.2.41      *       1.499                                          ***                                                                                                     
+   10.84.2.38      *       1.234                                          ***                                                                                                     
+   210.176.150.116 4637    1.784                       (Seoul, Seoul, KR, AS) unknown.telstraglobal.net                                                                           
+╭─ 202.84.149.97   4637    1.952                       (Seoul, Seoul, KR, AS)                                                                                                     
+S (4637)  apcn-2 👍 || asia-pacific-gateway-apg ✓ || flag-north-asia-loopreach-north-asia-loop 👍 || eac-c2c 👍 || new-cross-pacific-ncp-cable-system ✓ || korea-japan-cable-network-kjcn ✓ || seamewe-3 👍 || flag-europe-asia-fea ✓ || trans-pacific-express-tpe-cable-system ✓
+╰─ 202.84.137.26   4637    136.589                     (Tokyo, Tokyo, JP, AS) i-14232.jtha-core02.telstraglobal.net                                                               
+╭─ 202.84.137.26   4637    136.589                     (Tokyo, Tokyo, JP, AS) i-14232.jtha-core02.telstraglobal.net                                                               
+S (4637)  
+╰─ 202.84.140.86   4637    130.867             (San Jose, California, US, NA) i-10842.eqnx-core02.telstraglobal.net                                                               
+   202.84.247.17   4637    134.308             (San Jose, California, US, NA) i-92.eqnx03.telstraglobal.net                                                                       
+   213.248.75.146  1299    131.303             (San Jose, California, US, NA) sjo-b23-link.ip.twelve99.net                                                                        
+   62.115.115.216  1299    137.07           (Santa Clara, California, US, NA) palo-b24-link.ip.twelve99.net                                                                       
+   62.115.174.65   1299    136.468               (Newark, California, US, NA) cogent-ic-344188.ip.twelve99-cust.net                                                               
+   154.54.42.157   174     137.244                (San Francisco, CA, US, NA) be2379.ccr21.sfo01.atlas.cogentco.com                                                               
+   154.54.44.138   174     151.575               (Salt Lake City, UT, US, NA) be3109.ccr21.slc01.atlas.cogentco.com                                                               
+   154.54.41.146   174     176.573                       (Denver, CO, US, NA) be3037.ccr21.den01.atlas.cogentco.com                                                               
+   154.54.5.90     174     179.418                  (Kansas City, MO, US, NA) be3035.ccr21.mci01.atlas.cogentco.com                                                               
+   154.54.42.166   174     184.038                      (Chicago, IL, US, NA) be2831.ccr41.ord01.atlas.cogentco.com                                                               
+╭─ 154.54.6.222    174     288.839                    (Cleveland, OH, US, NA) be2717.ccr21.cle04.atlas.cogentco.com                                                               
+S&T (174)  
+╰─ 154.54.31.226   174     289.173                      (Toronto, ON, CA, NA) be2993.ccr31.yyz02.atlas.cogentco.com                                                               
+╭─ 154.54.41.206   174     289.254                     (Montreal, QC, CA, NA) be3259.ccr21.ymq01.atlas.cogentco.com                                                               
+S (174)  
+├─ 154.54.44.161   174     288.743                   (Liverpool, ENG, GB, EU) be3042.ccr21.lpl01.atlas.cogentco.com                                                               
+S&T (174)  
+├─ 154.54.77.245   174     289.305                    (Amsterdam, NH, NL, EU) be2182.ccr41.ams03.atlas.cogentco.com                                                               
+T (174)  
+╰─ 130.117.0.122   174     286.293            (Frankfurt am Main, HE, DE, EU) be2813.ccr41.fra03.atlas.cogentco.com                                                               
+╭─ 154.54.36.54    174     291.577                       (Munich, BY, DE, EU) be2959.ccr21.muc03.atlas.cogentco.com                                                               
+T (174)  
+├─ 154.54.58.6     174     297.072                        (Vienna, 9, AT, EU) be2974.ccr51.vie01.atlas.cogentco.com                                                               
+LHL (174)  
+├─ 130.117.0.70    174     337.234                      (Belgrade, 0, RS, EU) be3420.ccr51.beg03.atlas.cogentco.com                                                               
+T (174)  
+├─ 130.117.0.93    174     336.775                        (Sofia, 23, BG, EU) be3421.ccr31.sof02.atlas.cogentco.com                                                               
+S&T (174)  
+╰─ 154.54.74.225   174     337.032               (Istanbul, Istanbul, TR, AS) be3571.rcr71.ist01.atlas.cogentco.com                                                               
+   154.25.16.82    174     338.003               (Istanbul, Istanbul, TR, AS) be3821.nr71.b061536-0.ist01.atlas.cogentco.com                                                      
+   ***             *       -inf                                           *** *                                                                                                   

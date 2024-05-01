@@ -1,0 +1,26 @@
+   192.102.254.220 395152  0.0          (Vancouver, British Columbia, CA, NA)                                                                                                     
+   192.102.254.3   395152  0.455        (Vancouver, British Columbia, CA, NA)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   216.251.132.72  14007   0.828        (Vancouver, British Columbia, CA, NA) edgea.skywaywest.net                                                                                
+╭─ 65.49.79.249    6939    1.645        (Vancouver, British Columbia, CA, NA) e0-12.switch3.yvr2.he.net                                                                           
+LHL (6939)  
+├─ 184.104.195.13  6939    1.502              (Frankfurt am Main, HE, DE, EU) 100ge4-2.core1.fra1.he.net                                                                          
+LHL (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.222.97  6939    26.333                      (Winnipeg, MB, CA, NA) 100ge10-2.core1.ywg1.he.net                                                                         
+╭─ 184.105.64.101  6939    47.204                  (Toronto, Ontario, CA, NA) 100ge0-71.core2.tor1.he.net                                                                         
+LHL (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.189.26  6939    137.29        (Copenhagen, Capital Region, DK, EU) port-channel4.core3.cph1.he.net                                                                     
+S&T (6939)  
+├─ 184.104.194.221 6939    161.896                    (Stockholm, AB, SE, EU) 100ge12-2.core1.sto1.he.net                                                                         
+S&T (6939)  
+╰─ 184.104.192.106 6939    147.345                     (Helsinki, 18, FI, EU) 100ge4-1.core1.hel1.he.net                                                                          
+   193.110.224.14  1741    147.498                    (Helsinki, 1, FI, None) csc.ficix2.ficix.fi                                                                                 
+   86.50.255.242   1741    150.163                        (Espoo, 18, FI, EU) espoo2.ip.funet.fi                                                                                  
+   86.50.255.222   1741    152.98                 (Hameenlinna, None, FI, EU) hameenlinna1.ip.funet.fi                                                                            
+   86.50.255.225   1741    150.012                (Hameenlinna, None, FI, EU) hameenlinna2.ip.funet.fi                                                                            
+   86.50.255.221   1741    153.931                      (Tampere, 11, FI, EU) tampere1.ip.funet.fi                                                                                
+   193.167.244.181 39484   153.45                        (None, None, FI, EU) poas-a.funet.fi                                                                                     
+   185.239.193.37  39484   153.081               (Tampere, Pirkanmaa, FI, EU) fi-tmp-as39484.anchors.atlas.ripe.net                                                               

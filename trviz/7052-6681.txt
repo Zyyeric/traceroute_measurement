@@ -1,0 +1,22 @@
+   103.77.105.3    133800  0.0                     (Jakarta, Jakarta, ID, AS) ip-3-105-77-103.jkt-1.biznetg.io                                                                    
+   ***             *       -inf                                           *** *                                                                                                   
+   137.59.127.33   *       0.425                   (Jakarta, Jakarta, ID, AS) xe-0-2.cr01.jkt.biznetg.io                                                                          
+   202.169.59.21   17451   1.794                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+╭─ 182.253.255.18  17451   1.071                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+S&T (17451)  b2js-jakarta-bangka-batam-singapore-cable-system ✘ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || jasuka ✓
+╰─ 182.253.255.186 17451   11.946              (Singapore, Singapore, SG, AS) gs2-2.biznetnetworks.com                                                                            
+   184.104.199.150 6939    12.977              (Singapore, Singapore, SG, AS) port-channel1.core1.sin2.he.net                                                                     
+╭─ 103.16.102.81   6939    13.009                    (Singapore, 1, SG, None) hurricane-electric.sgix.sg                                                                          
+S (6939)  apcn-2 ✓ || asia-submarine-cable-express-asecahaya-malaysia ✓ || seamewe-3 ✓ || eac-c2c ✓ || southeast-asia-japan-cable-sjc ✓ || asia-pacific-gateway-apg ✓
+├─ 184.104.199.10  6939    90.265                      (Tokyo, Tokyo, JP, AS) port-channel1.core3.tyo1.he.net                                                                     
+S (6939)  japan-u-s-cable-network-jus ✓ || tata-tgn-pacific ✓ || pacific-crossing-1-pc-1 ✘ || faster ✓ || jupiter ✓ || new-cross-pacific-ncp-cable-system ✓ || unityeac-pacific ✓
+╰─ 184.105.223.226 6939    188.777                      (Phoenix, AZ, US, NA) ve960.core2.phx2.he.net                                                                             
+   206.223.123.37  6939    185.582                  (Los Angeles, CA, US, NA) as6939.10gigabitethernet1-3.core1.lax1.he.net                                                       
+   198.32.251.85   2152    188.726                       (None, None, US, NA) *                                                                                                   
+   137.164.11.87   2152    189.957                    (Riverside, CA, US, NA) dc-riv-agg8--lax-agg10-300g.cenic.net                                                               
+   137.164.11.91   3292    199.506                     (Tri-City, OR, US, NA) dc-tri-agg2--riv-agg8-300g.cenic.net                                                                
+   137.164.46.7    2152    203.458                     (Tri-City, OR, US, NA) cor-agg8--tri-agg2--100ge.cenic.net                                                                 
+   137.164.50.243  2152    205.448                       (Corona, CA, US, NA) sha-coe-1--cor-agg8-10g.cenic.net                                                                   
+   137.164.34.84   2152    204.924                      (Shafter, CA, US, NA) sha-coe-2---to--sha-coe-1--10ge.cenic.net                                                           
+   137.164.13.11   23483   204.955                      (Shafter, CA, US, NA) shacoe-gw2--sha-coe-2-10g.cenic.net                                                                 
+   66.244.16.33    23483   204.894              (Redding, California, US, NA) us-rdd-as23483.anchors.atlas.ripe.net                                                               

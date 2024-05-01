@@ -1,0 +1,19 @@
+   185.60.88.254   201898  0.0                     (Douglas, Douglas, IM, EU)                                                                                                     
+╭─ 185.60.88.227   201898  0.51                    (Douglas, Douglas, IM, EU)                                                                                                     
+S&T (201898)  lanis-1 ✘ || bt-mt-1 ✘ || e-llan ✘ || havhingstenceltixconnect-2-cc-2 ✘
+├  100.64.0.5      *       3.359                                          ***                                                                                                     
+╰─ 185.60.91.149   201898  3.526                   (Salford, England, GB, EU) xe-1-1-0.edge1.lds3.aql.com                                                                         
+   141.170.30.97   33920   10.465                        (Leeds, ENG, GB, EU) xe-2-0-3.edge1.lon5.aql.com                                                                         
+   141.170.30.98   33920   9.494                         (Leeds, ENG, GB, EU) unassigned.aql.com                                                                                  
+╭─ 195.66.224.142  12552   9.572                      (London, ENG, GB, None) lond1-rc1.linx1.ip-only.net                                                                         
+S&T (12552)  tampnet-offshore-foc-network ✘ || no-uk ✓
+├─ 146.247.201.94  12552   39.246                        (None, None, NO, EU) *                                                                                                   
+T (12552, 42525)  
+├─ 212.112.170.209 42525   39.363                     (Stockholm, AB, SE, EU) *                                                                                                   
+S&T (42525)  
+╰─ 194.182.97.226  42525   44.099                        (None, None, DK, EU) *                                                                                                   
+   194.182.97.251  42525   44.002                        (None, None, DK, EU) be1.hoer1p2dk.gc-net.eu                                                                             
+   ***             *       -inf                                           *** *                                                                                                   
+   80.70.0.255     48854   35.833        (Tranbjerg, Central Jutland, DK, EU)                                                                                                     
+   212.237.248.19  48854   35.844                   (Skanderborg, 82, DK, EU) *                                                                                                   
+   185.221.36.2    48854   35.48         (Tranbjerg, Central Jutland, DK, EU) dk-skg-as48854.anchors.atlas.ripe.net                                                               

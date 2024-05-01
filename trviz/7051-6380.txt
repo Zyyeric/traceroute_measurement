@@ -1,0 +1,17 @@
+   196.49.14.25    30997   0.0                 (Accra, Greater Accra, GH, AF)                                                                                                     
+   196.49.14.1     30997   0.313               (Accra, Greater Accra, GH, AF)                                                                                                     
+╭─ 197.221.70.89   *       0.959               (Accra, Greater Accra, GH, AF)                                                                                                     
+S&T (, 3741)  
+╰─ 196.14.240.4    3741    0.894                         (None, None, ZA, AF) *                                                                                                   
+╭─ 168.209.160.109 3741    255.81                        (None, None, ZA, AF) *                                                                                                   
+T (3741)  
+╰─ 168.209.160.108 3741    255.915                  (London, England, GB, EU)                                                                                                     
+╭─ 168.209.246.66  3741    256.309                     (London, None, GB, EU) core2b-dock-be-2.ip.ddii.network                                                                    
+T (3741)  
+├─ 168.209.246.65  3741    257.635                       (None, None, ZA, AF) core1b-dock-be-2.ip.ddii.network                                                                    
+T (3741, 9002)  
+├─ 195.66.224.193  9002    255.69                     (London, ENG, GB, None) linx-224.retn.net                                                                                   
+LHL (9002)  
+╰─ 87.245.232.68   9002    294.186                      (Vilnius, VL, LT, EU) ae1-11.RT.TIC.VNO.LT.retn.net                                                                       
+   87.245.242.129  9002    2912.857                     (Vilnius, VL, LT, EU) xe121.RT.TIC.VNO.LT.retn.net                                                                        
+   87.245.242.129  9002    2912.857                     (Vilnius, VL, LT, EU) xe121.RT.TIC.VNO.LT.retn.net                                                                        

@@ -1,0 +1,22 @@
+   193.50.97.164   2200    0.0                   (Plouzané, Brittany, FR, EU) anchor.netlab.enstb.org                                                                             
+   ***             *       -inf                                           *** *                                                                                                   
+   192.108.116.201 50897   0.607                 (Plouzané, Brittany, FR, EU) asr-vlan39.enst-bretagne.fr                                                                         
+   193.51.188.10   2200    6.418             (Saint-Brieuc, Brittany, FR, EU) vl807-pc1-brest1-rtr-021.noc.renater.fr                                                             
+   193.51.177.174  2200    21.79               (Paris, Île-de-France, FR, EU) et-5-2-1-ren-nr-paris1-rtr-131.noc.renater.fr                                                       
+   193.51.180.167  2200    17.161                        (Lyon, None, FR, EU) et-2-0-0-ren-nr-lyon1-rtr-131.noc.renater.fr                                                        
+   193.51.180.129  2200    21.194    (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) et-2-0-7-ren-nr-marseille1-rtr-131.noc.renater.fr                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   154.54.76.117   174     22.477    (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) be3147.ccr32.mrs02.atlas.cogentco.com                                                               
+╭─ 154.54.72.225   174     22.771                        (Paris, IDF, FR, EU) be2780.ccr42.par01.atlas.cogentco.com                                                               
+S (174)  apollo © || flag-atlantic-1-fa-1 ©
+╰─ 154.54.27.169   174     94.986                      (New York, NY, US, NA) be3628.ccr42.jfk02.atlas.cogentco.com                                                               
+╭─ 154.54.0.142    174     95.184                      (New York, NY, US, NA) be3496.ccr31.jfk10.atlas.cogentco.com                                                               
+S (174)  
+╰─ 154.54.88.2     174     204.461                    (Sao Paulo, SP, BR, SA) be2531.ccr31.sao01.atlas.cogentco.com                                                               
+╭─ 154.54.87.18    174     205.719                    (Sao Paulo, SP, BR, SA) be2013.rcr51.b070119-0.sao01.atlas.cogentco.com                                                     
+S (174, 14840)  
+├─ 199.100.0.106   14840   204.096                       (None, None, US, NA) *                                                                                                   
+S (14840, 266152)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 45.6.36.173     266152  231.16           (Campina Grande, Paraíba, BR, SA) 45.6.36.173.pjmfibra.com.br                                                                         

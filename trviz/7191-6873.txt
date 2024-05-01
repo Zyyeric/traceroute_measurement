@@ -1,0 +1,23 @@
+   193.50.97.164   2200    0.0                   (Plouzané, Brittany, FR, EU) anchor.netlab.enstb.org                                                                             
+   ***             *       -inf                                           *** *                                                                                                   
+   192.108.116.201 50897   1.233                 (Plouzané, Brittany, FR, EU) asr-vlan39.enst-bretagne.fr                                                                         
+   193.51.188.10   2200    7.142             (Saint-Brieuc, Brittany, FR, EU) vl807-pc1-brest1-rtr-021.noc.renater.fr                                                             
+   193.51.177.174  2200    12.75               (Paris, Île-de-France, FR, EU) et-5-2-1-ren-nr-paris1-rtr-131.noc.renater.fr                                                       
+╭─ 83.97.89.9      20965   14.959                        (Paris, IDF, FR, EU) renater-ias-geant-gw.par.fr.geant.net                                                               
+S&T (20965)  
+├─ 62.40.98.106    20965   21.977                        (Lisbon, 11, PT, EU) ae0.mx2.lis.pt.geant.net                                                                            
+S&T (20965)  
+╰─ 62.40.98.64     20965   19.519                   (London, England, GB, EU) ae2.mx1.lon.uk.geant.net                                                                            
+╭─ 184.105.223.253 6939    21.149                       (London, ENG, GB, EU) port-channel7.core3.lon2.he.net                                                                     
+S (6939, 137557)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.209.234 137557  192.022                     (Singapore, 4, SG, AS) international-gateway-company-limited.10gigabitethernet3-16.core1.sin1.he.net                       
+LHL (137557, 55329)  
+╰─ 103.113.44.57   55329   206.521                    (Phnom Penh, 8, KH, AS) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   27.109.113.5    45498   202.998                   (Phnom Penh, 12, KH, AS) *                                                                                                   
+   27.109.113.26   45498   205.944                   (Phnom Penh, 12, KH, AS) *                                                                                                   
+   117.20.118.21   45498   202.282           (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     

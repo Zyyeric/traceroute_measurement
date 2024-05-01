@@ -1,0 +1,14 @@
+   103.143.136.43  63781   0.0                         (Tokyo, Tokyo, JP, AS) koba-103-143-136-43.rev.kobayashi.ad.jp                                                             
+   103.143.136.62  63781   1.395                       (Tokyo, Tokyo, JP, AS) koba-103-143-136-62.rev.kobayashi.ad.jp                                                             
+   103.143.136.25  63781   0.282                       (Tokyo, Tokyo, JP, AS) bgprt1-ospfrt1.kobayashi.ad.jp                                                                      
+   103.41.60.164   10010   0.742                       (Tokyo, Tokyo, JP, AS) bgp3.tokyo-ix.v4.open.ad.jp                                                                         
+   150.99.184.33   2907    1.556                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+   150.99.10.187   2907    2.95                          (None, None, JP, AS) *                                                                                                   
+   202.232.6.17    2497    2.563                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+   58.138.114.253  2497    2.515                       (Tokyo, Tokyo, JP, AS) tky009bb11.iij.net                                                                                  
+╭─ 58.138.112.42   2497    4.574                       (Tokyo, Tokyo, JP, AS) tky009ix52.iij.net                                                                                  
+S (2497, 3491)  japan-u-s-cable-network-jus ✓ || tata-tgn-pacific ✓ || pacific-crossing-1-pc-1 ✓ || faster ✓ || jupiter ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 63.223.43.114   3491    182.97                   (Los Angeles, CA, US, NA) TenGE0-1-0-15.br04.lax05.pccwbtn.net                                                                
+   63.223.43.114   3491    182.97                   (Los Angeles, CA, US, NA) TenGE0-1-0-15.br04.lax05.pccwbtn.net                                                                
+   63.218.212.242  3491    182.254           (El Segundo, California, US, NA) yomura.ge-0-0-0-10.br03.lax05.as3491.net                                                            

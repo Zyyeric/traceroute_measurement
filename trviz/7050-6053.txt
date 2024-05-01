@@ -1,0 +1,37 @@
+   197.80.104.36   10474   0.0                (Johannesburg, Gauteng, ZA, AF) 197-80-104-36.jhb.mweb.co.za                                                                        
+   197.80.75.3     10474   2.726                  (Randburg, Gauteng, ZA, AF) 20.bu-ether1.vic-pe-12.optinet.net                                                                  
+   197.80.7.79     10474   176.52                        (None, None, ZA, AF) 197-80-7-79.jhb.mweb.co.za                                                                          
+   197.80.4.37     10474   179.639                       (None, None, ZA, AF) bu-ether3.mca-pe-1.optinet.net                                                                      
+   197.80.4.224    10474   175.098                       (None, None, ZA, AF) bu-ether2.mca-pe-2.optinet.net                                                                      
+   197.80.5.60     10474   176.402                       (None, None, ZA, AF) 197-80-5-60.jhb.mweb.co.za                                                                          
+╭─ 197.80.4.216    10474   177.448                       (None, None, ZA, AF) 197-80-4-216.jhb.mweb.co.za                                                                         
+T (10474)  
+╰─ 197.80.5.85     10474   181.055                  (London, England, GB, EU) 197-80-5-85.jhb.mweb.co.za                                                                          
+╭─ 176.67.178.0    10474   194.414                     (London, None, GB, EU) *                                                                                                   
+T (10474)  
+├─ 176.67.178.3    10474   177.947                       (None, None, ZA, AF) *                                                                                                   
+T (10474)  
+╰─ 176.67.177.228  10474   178.591                  (London, England, GB, EU) be-15-779-thd-linx-1.optinet.net                                                                    
+   195.66.226.123  60171   185.311                    (London, ENG, GB, None) *                                                                                                   
+   185.10.164.69   60171   529.655                      (London, ENG, GB, EU) *                                                                                                   
+╭─ 185.10.164.65   60171   528.603                      (London, ENG, GB, EU) *                                                                                                   
+S&T (60171)  
+├─ 185.10.164.75   60171   528.573             (Paris, Île-de-France, FR, EU)                                                                                                     
+S&T (60171)  
+├─ 102.220.219.74  60171   528.665            (Johannesburg, Gauteng, ZA, AF)                                                                                                     
+T (60171)  
+╰─ 185.10.164.113  60171   534.51                       (London, ENG, GB, EU) *                                                                                                   
+╭─ 185.10.164.135  60171   550.048                      (London, ENG, GB, EU) *                                                                                                   
+S&T (60171)  
+├─ 185.10.164.32   60171   598.818             (Paris, Île-de-France, FR, EU)                                                                                                     
+S (60171)  
+├─ 102.223.52.73   60171   701.459                     (Lagos, Lagos, NG, AF)                                                                                                     
+S&T (60171)  
+├─ 185.10.164.45   60171   681.452                      (London, ENG, GB, EU) *                                                                                                   
+S&T (60171)  
+├─ 102.219.44.43   60171   696.993                     (Lagos, Lagos, NG, AF)                                                                                                     
+S&T (60171, 328913)  
+╰─ 196.49.84.51    328913  739.313                 (Abidjan, Abidjan, CI, AF) bdr3.std.douala-ix.net                                                                              
+╭─ 196.49.84.36    328913  788.622                 (Abidjan, Abidjan, CI, AF) gw1.std.douala-ix.net                                                                               
+S&T (328913)  
+╰─ 196.49.84.188   328913  1047.759                (Douala, Littoral, CM, AF) cm-dla-as328913.anchors.atlas.ripe.net                                                              

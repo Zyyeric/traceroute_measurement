@@ -1,0 +1,18 @@
+   80.247.237.225  15826   0.0       (Ramonville-Saint-Agne, Occitanie, FR, EU) ancre-atlas.nfrance.com                                                                             
+╭─ 80.247.237.238  15826   0.326                (Toulouse, Occitanie, FR, EU)                                                                                                     
+S&T (15826, 6939)  seamewe-3 ✓ || africa-coast-to-europe-ace ✘
+├  192.168.1.240   *       0.968                                          ***                                                                                                     
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.199.109 6939    35.67                     (Madrid, Madrid, ES, EU) port-channel8.core3.mad1.he.net                                                                     
+S&T (6939)  
+╰─ 184.104.193.150 6939    42.448                        (Lisbon, 11, PT, EU) port-channel6.core2.lis1.he.net                                                                     
+╭─ 184.104.224.178 37613   40.46                         (Lisbon, 11, PT, EU) etg-is-nigeria.e0-21.switch1.lis1.he.net                                                            
+S&T (37613)  africa-coast-to-europe-ace 👍 || mainone ✘ || west-africa-cable-system-wacs ✓ || sat-3wasc ✓
+╰─ 169.239.188.16  37613   115.445                     (Lagos, Lagos, NG, AF)                                                                                                     
+╭─ 196.216.148.158 *       129.762                     (Lagos, Lagos, NG, AF)                                                                                                     
+S&T (, 37727)  
+╰─ 154.65.16.37    37727   130.722             (Accra, Greater Accra, GH, AF)                                                                                                     
+   154.65.18.77    37727   130.999             (Accra, Greater Accra, GH, AF)                                                                                                     
+   154.65.16.114   37727   130.771             (Accra, Greater Accra, GH, AF)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   196.49.14.25    30997   204.576             (Accra, Greater Accra, GH, AF)                                                                                                     

@@ -1,0 +1,24 @@
+   45.6.36.173     266152  0.0              (Campina Grande, Paraíba, BR, SA) 45.6.36.173.pjmfibra.com.br                                                                         
+   45.6.36.61      266152  4.132            (Campina Grande, Paraíba, BR, SA) 45.6.36.61.pjmfibra.com.br                                                                          
+╭─ 45.184.144.214  *       13.787                  (Fortaleza, Ceará, BR, SA) as6939.fortaleza.ce.ix.br                                                                           
+S (, 6939)  brazilian-festoon ✘ ↠ brusa ✘ || brazilian-festoon ✘ ↠ america-movil-submarine-cable-system-1-amx-1 ✘ || brazilian-festoon ✘ ↠ south-america-1-sam-1 ✘ || brazilian-festoon ✘ ↠ globenet ✘ || brazilian-festoon ✘ ↠ monet ✘ || brazilian-festoon ✘ ↠ americas-ii ✘
+╰─ 184.104.199.177 6939    89.201                    (Miami, Florida, US, NA) 100ge0-53.core2.mia1.he.net                                                                         
+   184.104.199.255 6939    108.513                (Ashburn, Virginia, US, NA) 100ge0-38.core3.ash1.he.net                                                                         
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 184.105.222.189 6939    110.961          (New York City, New York, US, NA) port-channel10.core2.nyc4.he.net                                                                    
+S (6939)  exa-north-and-south ✓ || atlantic-crossing-1-ac-1 ✓ || yellow ✓ || apollo ✓ || tata-tgn-atlantic ✓ || flag-atlantic-1-fa-1 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.64.5    6939    177.257                  (London, England, GB, EU) port-channel4.core1.lon3.he.net                                                                     
+╭─ 184.104.205.253 6939    178.27                   (London, England, GB, EU) mtn-globalconnect-solutions-ltd.port-channel7.core1.lon3.he.net                                     
+T (6939, 16637)  
+├─ 41.181.189.65   16637   177.649                     (Pretoria, GP, ZA, AF) *                                                                                                   
+T (16637)  
+╰─ 41.181.105.105  16637   178.206                  (London, England, GB, EU)                                                                                                     
+╭─ 41.181.244.176  16637   178.97                   (London, England, GB, EU)                                                                                                     
+T (16637, 20294)  
+├─ 41.181.247.39   20294   326.189                       (None, None, ZA, AF) *                                                                                                   
+LHL (20294)  
+╰─ 212.88.110.34   20294   326.189          (Kampala, Central Region, UG, AF)                                                                                                     
+   129.205.30.76   37063   326.294                       (Kampala, C, UG, AF) *                                                                                                   
+   41.191.77.206   328998  326.273                       (Kampala, C, UG, AF) *                                                                                                   
+   196.49.15.189   328998  327.454          (Kampala, Central Region, UG, AF)                                                                                                     

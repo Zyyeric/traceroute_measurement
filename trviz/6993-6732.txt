@@ -1,0 +1,31 @@
+   163.117.253.5   766     0.0                       (Madrid, Madrid, ES, EU)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   172.17.0.53     *       1.405                                          ***                                                                                                     
+   193.145.15.49   766     1.652                    (Leganés, Madrid, ES, EU) csic-rt-ju-02-xe-4-0-6.net.redimadrid.es                                                            
+   130.206.216.1   766     2.201                     (Madrid, Madrid, ES, EU) redimadrid-backup.ethtrunk8-103.telmad.rt1.mad.red.rediris.es                                       
+   130.206.245.50  766     2.282                         (None, None, ES, EU) telmad.rt1.ae11-0.telmad.rt4.mad.red.rediris.es                                                     
+╭─ 83.97.90.20     21320   1.976                     (Madrid, Madrid, ES, EU) rediris-ias-geant-gw.mad.es.geant.net                                                               
+S&T (21320, 20965)  africa-coast-to-europe-ace ✓ || seamewe-3 ✓
+├─ 62.40.98.227    20965   36.177    (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) ae2.rt1.mar.fr.geant.net                                                                            
+T (20965)  
+├─ 62.40.98.236    20965   36.224                    (Genève, Geneva, CH, EU) ae4.mx1.gen.ch.geant.net                                                                            
+T (20965)  
+├─ 62.40.98.239    20965   35.926              (Paris, Île-de-France, FR, EU) ae7.mx1.par.fr.geant.net                                                                            
+S&T (20965)  africa-coast-to-europe-ace ✘ || seamewe-3 ✘
+├─ 62.40.98.106    20965   36.513                        (Lisbon, 11, PT, EU) ae0.mx2.lis.pt.geant.net                                                                            
+S&T (20965)  
+├─ 62.40.98.64     20965   33.493                   (London, England, GB, EU) ae2.mx1.lon.uk.geant.net                                                                            
+S&T (20965, 30844)  
+├─ 195.66.224.68   30844   35.787                    (Turnhout, None, BE, EU) ae-0-0-0.luk-pr3-tho.liquidtelecom.net                                                              
+S&T (30844)  
+├─ 5.11.13.44      30844   36.148              (Camden Town, England, GB, EU) hu-0-0-0-6.luk-p2-tho.liquidtelecom.net                                                             
+S&T (30844)  
+├─ 5.11.12.35      30844   220.439                     (Lagos, Lagos, NG, AF) hu-0-0-0-5.lng-pe4-adc.liquidtelecom.net                                                            
+S&T (30844)  
+╰─ 41.84.151.62    30844   217.942          (Cape Town, Western Cape, ZA, AF) hu-0-0-0-10.lng-p2-cpt.liquidtelecom.net                                                            
+   41.175.223.181  30844   200.805            (Johannesburg, Gauteng, ZA, AF)                                                                                                     
+   5.11.12.165     30844   218.351            (Johannesburg, Gauteng, ZA, AF) modem.ltz-vsat182-mar.liquidtelecom.com                                                             
+   41.60.135.93    30844   218.146                     (Mokopane, LP, ZA, AF) be-20.lza-pe2-jhb.liquidtelecom.net                                                                 
+   41.60.134.175   12008   217.974                    (Bela-Bela, LP, ZA, AF) 41.60.134.175.liquidtelecom.net                                                                     
+   156.154.135.254 12008   218.103            (Johannesburg, Gauteng, ZA, AF)                                                                                                     

@@ -1,0 +1,13 @@
+   209.189.223.8   7752    0.0                  (Seattle, Washington, US, NA) 209-189-223-8.ip.threshinc.net                                                                      
+   209.189.223.13  7752    0.464                (Seattle, Washington, US, NA) 209-189-223-13.ip.threshinc.net                                                                     
+   209.189.201.203 7752    0.478                (Seattle, Washington, US, NA) eth47.br01.sttlwawb.pop.threshinc.net                                                               
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 184.105.81.81   6939    19.557              (San Jose, California, US, NA) port-channel12.core4.sjc2.he.net                                                                    
+S (6939)  faster ✓ || pacific-crossing-1-pc-1 ✘ || jupiter ✓ || trans-pacific-express-tpe-cable-system ✓ || new-cross-pacific-ncp-cable-system ✓ || japan-u-s-cable-network-jus ✓ || tata-tgn-pacific ✓ || unityeac-pacific ✓
+├─ 184.104.194.38  6939    126.491               (Tokyo / Narita, 12, JP, AS) 100ge8-1.core1.tyo1.he.net                                                                          
+S (6939, 23944)  asia-submarine-cable-express-asecahaya-malaysia ✓ || flag-north-asia-loopreach-north-asia-loop ✓ || southeast-asia-japan-cable-sjc ✓ || flag-europe-asia-fea ✓ || eac-c2c ✓ || apcn-2 ✓ || asia-pacific-gateway-apg ✓ || seamewe-3 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.212.74  23944   193.499                  (Hong Kong, None, HK, AS) sky-cable-corporation.port-channel4.switch1.hkg1.he.net                                             
+S (23944)  
+╰─ 182.18.209.9    23944   196.384             (Manila, Metro Manila, PH, AS)                                                                                                     

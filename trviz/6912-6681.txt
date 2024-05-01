@@ -1,0 +1,20 @@
+   103.77.105.3    133800  0.0                     (Jakarta, Jakarta, ID, AS) ip-3-105-77-103.jkt-1.biznetg.io                                                                    
+   ***             *       -inf                                           *** *                                                                                                   
+   137.59.127.33   *       0.453                   (Jakarta, Jakarta, ID, AS) xe-0-2.cr01.jkt.biznetg.io                                                                          
+   202.169.59.21   17451   1.419                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+╭─ 182.253.100.233 17451   2.645                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+S&T (17451)  jasuka ✓ ↠ jakabare ✓ || jasuka ✓ ↠ jasuka ✓ || jakarta-bangka-bintan-batam-singapore-b3js ✘ ↠ b2js-jakarta-bangka-batam-singapore-cable-system ✘ || jakarta-bangka-bintan-batam-singapore-b3js ✘ ↠ jakarta-bangka-bintan-batam-singapore-b3js ✘
+├─ 182.253.100.229 17451   12.595              (Singapore, Singapore, SG, AS)                                                                                                     
+S (17451, 137409)  
+├─ 27.111.229.213  137409  13.36                     (Seogwipo, None, KR, AS) 137409.sgw.equinix.com                                                                              
+S (137409, 7578)  
+╰─ 206.148.24.74   7578    13.629              (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 206.148.24.71   7578    13.437              (Singapore, Singapore, SG, AS) e50.sg-eqxsg3-bb1.globalsecurelayer.com                                                             
+S (7578)  
+╰─ 206.148.24.20   7578    61.42         (Belmont, Western Australia, AU, OC) e52.per-ndcp2-bb2.globalsecurelayer.com                                                             
+   206.148.24.8    7578    104.401          (Sydney, New South Wales, AU, OC) e2.syd-eqxsy5-bb1.globalsecurelayer.com                                                             
+   206.148.24.115  7578    104.602          (Sydney, New South Wales, AU, OC) po7.syd-eqxsy5-bb1.globalsecurelayer.com                                                            
+   206.148.24.113  7578    104.638          (Sydney, New South Wales, AU, OC)                                                                                                     
+   206.148.24.117  7578    104.782          (Sydney, New South Wales, AU, OC)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   202.165.66.5    137409  104.016          (Sydney, New South Wales, AU, OC)                                                                                                     

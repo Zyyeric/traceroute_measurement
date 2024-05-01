@@ -1,0 +1,8 @@
+   203.175.175.206 24482   0.0                 (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 203.175.175.252 24482   0.393                         (None, None, SG, AS) edge-1.v10.sg3.sg.gs                                                                                
+S (24482)  eac-c2c ✓ || asia-pacific-gateway-apg ✓
+╰─ 210.171.224.235 24482   66.071                       (Tokyo, 40, JP, None) as24482.ix.jpix.ad.jp                                                                               
+   210.171.224.145 199524  66.414                       (Tokyo, 40, JP, None) as199524.ix.jpix.ad.jp                                                                              
+   10.255.16.181   *       66.21                                          ***                                                                                                     
+   5.8.70.17       199524  66.234                         (Tokyo, 13, JP, AS) gw.gcore.lu                                                                                         
+   92.38.178.149   202422  66.284                    (Urayasu, Tokyo, JP, AS)                                                                                                     

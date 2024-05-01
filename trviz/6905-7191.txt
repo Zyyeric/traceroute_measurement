@@ -1,0 +1,13 @@
+   117.20.118.21   45498   0.0               (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     
+   117.20.118.17   45498   2.067             (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     
+   27.109.113.25   45498   1.286             (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     
+╭─ 27.109.113.4    45498   0.937             (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     
+S (45498, 4651)  asia-africa-europe-1-aae-1 ✘
+├─ 36.255.57.38    4651    39.429                        (None, None, HK, AS) 4651-hp1-ix.equinix.com                                                                             
+S (4651)  asia-africa-europe-1-aae-1 ✓ || flag-europe-asia-fea ✘
+╰─ 61.19.9.121     4651    67.882                        (None, None, TH, AS) *                                                                                                   
+   61.19.7.6       4651    67.824                        (None, None, TH, AS) *                                                                                                   
+   122.155.224.74  135063  68.507                        (None, None, TH, AS) *                                                                                                   
+   172.21.21.4     *       66.212                                         ***                                                                                                     
+   172.24.132.101  *       69.121                                         ***                                                                                                     
+   103.253.132.25  59238   68.99                   (Bangkok, Bangkok, TH, AS) th-bkk-as59238.anchors.atlas.ripe.net                                                               

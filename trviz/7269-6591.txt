@@ -1,0 +1,22 @@
+   172.17.48.40    *       0.0                                            ***                                                                                                     
+   172.17.48.254   *       0.533                                          ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   172.22.6.7      *       1.945                                          ***                                                                                                     
+   192.168.217.217 *       1.549                                          ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   192.168.198.50  *       4.499                                          ***                                                                                                     
+   10.202.6.38     *       4.56                                           ***                                                                                                     
+   10.202.7.109    *       4.406                                          ***                                                                                                     
+   193.251.154.103 5511    72.825          (Frankfurt am Main, Hesse, DE, EU) et-10-1-2-0.ffttr6.frankfurt.opentransit.net                                                        
+   195.219.87.114  6453    114.797            (Frankfurt am Main, HE, DE, EU) ix-be-36.ecore1.fnm-frankfurt.as6453.net                                                            
+╭─ 5.23.30.40      6453    119.786            (Frankfurt am Main, HE, DE, EU) if-ae-48-2.tcore1.fnm-frankfurt.as6453.net                                                          
+T (6453)  
+╰─ 195.219.194.149 6453    119.637                    (Amsterdam, NH, NL, EU) if-ae-6-2.tcore1.av2-amsterdam.as6453.net                                                           
+╭─ 195.219.194.6   6453    120.367                    (Amsterdam, NH, NL, EU) if-ae-2-2.tcore2.av2-amsterdam.as6453.net                                                           
+S&T (6453)  
+├─ 80.231.131.160  6453    120.266                     (London, None, GB, EU) if-ae-14-2.tcore2.l78-london.as6453.net                                                             
+S (6453)  
+╰─ 80.231.131.66   6453    242.87                        (Mumbai, MH, IN, AS) *                                                                                                   
+   172.31.213.25   *       251.59                                         ***                                                                                                     
+   121.241.90.58   45117   251.994                    (Ahmedabad, GJ, IN, AS) 121.241.90.58.static-ahmedabad.vsnl.net.in                                                          
+   116.206.155.229 45117   251.386               (Ahmedabad, Gujarat, IN, AS)                                                                                                     

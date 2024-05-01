@@ -1,0 +1,14 @@
+   171.67.70.16    32      0.0                 (Stanford, California, US, NA) us-pao-as32.anchors.atlas.ripe.net                                                                  
+   ***             *       -inf                                           *** *                                                                                                   
+   10.214.4.253    *       1.445                                          ***                                                                                                     
+   171.66.0.209    32      1.404               (Stanford, California, US, NA)                                                                                                     
+   184.105.177.237 6939    2.407              (Palo Alto, California, US, NA) e0-62.core2.pao1.he.net                                                                             
+╭─ 184.105.81.81   6939    2.455               (San Jose, California, US, NA) port-channel12.core4.sjc2.he.net                                                                    
+S (6939)  faster ✓ || japan-u-s-cable-network-jus ✓ || pacific-crossing-1-pc-1 ✘ || jupiter ✓ || trans-pacific-express-tpe-cable-system ✓ || new-cross-pacific-ncp-cable-system ✓ || tata-tgn-pacific ✓ || unityeac-pacific ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.199.9   6939    110.201                     (Tokyo, Tokyo, JP, AS) port-channel9.core2.tyo1.he.net                                                                     
+╭─ 210.171.225.228 *       176.91                      (Tokyo, Tokyo, JP, AS)                                                                                                     
+S (, 140443)  
+├  10.111.220.146  *       183.445                                        ***                                                                                                     
+╰─ 38.47.188.1     140443  183.165       (Kuala Lumpur, Kuala Lumpur, MY, AS)                                                                                                     
+   38.47.189.189   140443  184.104       (Kuala Lumpur, Kuala Lumpur, MY, AS)                                                                                                     

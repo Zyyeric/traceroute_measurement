@@ -1,0 +1,11 @@
+   213.192.184.42  6667    0.0                    (Helsinki, Uusimaa, FI, EU) ae1-0.bbr1.sto2.se.eunetip.net                                                                      
+╭─ 213.192.184.41  6667    0.0                    (Helsinki, Uusimaa, FI, EU) ae0-0.bbr1.sto4.se.eunetip.net                                                                      
+T (6667)  
+╰─ 213.192.184.185 6667    29.996                   (London, England, GB, EU)                                                                                                     
+╭─ 195.66.224.167  3491    32.996                      (London, None, GB, EU) te7-5.br03.ldn01.pccwbtn.net                                                                        
+T (3491)  
+├─ 63.218.232.37   3491    40.995             (Frankfurt am Main, HE, DE, EU) hundredge0-0-0-1.br03.frf06.pccwbtn.net                                                             
+LHL (3491)  
+├─ 63.222.114.42   3491    61.992                     (Dallas, Texas, US, NA)                                                                                                     
+LHL (3491, 13238)  
+╰─ 185.32.187.169  13238   79.99     (Saint Petersburg, St.-Petersburg, RU, EU)                                                                                                     

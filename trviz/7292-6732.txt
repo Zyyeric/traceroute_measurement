@@ -1,0 +1,21 @@
+   163.117.253.5   766     0.0                       (Madrid, Madrid, ES, EU)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   172.17.0.53     *       0.656                                          ***                                                                                                     
+   193.145.15.49   766     1.305                    (Leganés, Madrid, ES, EU) csic-rt-ju-02-xe-4-0-6.net.redimadrid.es                                                            
+   130.206.216.1   766     1.673                     (Madrid, Madrid, ES, EU) redimadrid-backup.ethtrunk8-103.telmad.rt1.mad.red.rediris.es                                       
+   130.206.245.26  766     7.973                         (None, None, ES, EU) telmad.rt1.ethtrunk13.ciemat.rt2.mad.red.rediris.es                                                 
+   185.79.175.244  6939    3.02                        (Madrid, 29, ES, None) hurricane.alta.espanix.net                                                                          
+╭─ 193.149.1.113   6939    2.802                       (Madrid, 29, ES, None) hurricane.baja.espanix.net                                                                          
+S (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.64.121  6939    183.051                      (Ashburn, VA, US, NA) 100ge0-40.core3.ash1.he.net                                                                         
+   184.104.198.225 6939    170.946          (Los Angeles, California, US, NA) port-channel17.core2.lax1.he.net                                                                    
+╭─ 184.104.194.97  6939    178.797          (Los Angeles, California, US, NA) port-channel9.core4.lax2.he.net                                                                     
+S (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.220.67  6939    275.33              (Hong Kong, Hong Kong, HK, AS) lshiy.e0-30.switch1.hkg1.he.net                                                                     
+   103.203.243.11  955     285.338             (Hong Kong, Hong Kong, HK, AS) multi-user.port-channe17.switch1.hkg1.bb.lshiy.net                                                  
+   89.213.179.65   32167   257.878             (Hong Kong, Hong Kong, HK, AS) 89-213-179-65.ip.lshiyusercontent.com                                                               

@@ -1,0 +1,11 @@
+   37.252.245.94   42473   0.0                         (Dubai, Dubai, AE, AS)                                                                                                     
+   37.252.245.93   42473   1.761                       (Dubai, Dubai, AE, AS)                                                                                                     
+╭─ 184.105.64.198  6939    112.904                        (Dubai, DU, AE, AS) 10ge4-11.core1.dxb1.he.net                                                                          
+S (6939)  
+╰─ 184.104.199.182 6939    124.26              (Singapore, Singapore, SG, AS) port-channel3.core3.sin1.he.net                                                                     
+╭─ 184.104.208.93  6939    83.679              (Singapore, Singapore, SG, AS) true-internet-corporation-co-ltd.port-channel18.core3.sin1.he.net                                   
+S&T (6939, 38082)  
+╰─ 122.144.26.19   38082   103.972                       (None, None, TH, AS) TIG-Net26-19.trueintergateway.com                                                                   
+   113.21.243.146  137566  105.699                       (None, None, TH, AS) TIG-Net243-146.trueintergateway.com                                                                 
+   103.113.176.2   137566  104.832                       (None, None, TH, AS) *                                                                                                   
+   103.113.176.82  137566  108.168       (Ban Talat Bueng, Chon Buri, TH, AS)                                                                                                     

@@ -1,0 +1,22 @@
+   103.126.52.180  138466  0.0              (Sydney, New South Wales, AU, OC) as138466.anchors.atlas.ripe.net                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   103.126.52.193  138466  0.927            (Sydney, New South Wales, AU, OC) vl129-dp0s18-pauseq4sbdr5.datamossa.io                                                              
+   103.126.52.194  138466  0.808            (Sydney, New South Wales, AU, OC) vl129-et0-pauseq4rbdr4.datamossa.io                                                                 
+   103.126.52.173  9336    1.178                 (Upper Coomera, QLD, AU, OC) *                                                                                                   
+   202.90.50.58    9336    1.349                 (Upper Coomera, QLD, AU, OC) et3-2.br-01.gbsw.nsw.spirit.net.au                                                                  
+   202.90.50.75    9336    1.332                 (Upper Coomera, QLD, AU, OC) et3-76.br-01.eqs2.nsw.spirit.net.au                                                                 
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 184.105.65.223  6939    48.255          (Perth, Western Australia, AU, OC) 100ge0-32.core1.per1.he.net                                                                         
+S (6939)  seamewe-3 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.199.181 6939    126.414             (Hong Kong, Hong Kong, HK, AS) port-channel9.core2.hkg1.he.net                                                                     
+S (6939, 4775)  tata-tgn-intra-asia-tgn-ia ✓ || asia-america-gateway-aag-cable-system ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 203.177.209.217 4775    232.601           (Baugo, Central Visayas, PH, AS)                                                                                                     
+   203.177.209.218 135132  233.387              (Lapu-Lapu City, CEB, PH, AS) vlan5.vsrx.ceb02.ds.network                                                                         
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   192.168.159.143 *       237.83                                         ***                                                                                                     
+   27.111.84.21    135132  235.572       (Cebu City, Central Visayas, PH, AS) ph-ceb-as135132.anchors.atlas.ripe.net                                                              

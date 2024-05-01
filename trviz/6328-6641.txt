@@ -1,0 +1,17 @@
+   92.38.135.131   202422  0.0                         (Seoul, Seoul, KR, AS)                                                                                                     
+   92.38.135.3     202422  0.294                       (Seoul, Seoul, KR, AS) vrrp.gcore.lu                                                                                       
+   10.255.17.209   *       0.341                                          ***                                                                                                     
+   10.255.17.213   *       0.297                                          ***                                                                                                     
+   10.255.17.146   *       0.283                                          ***                                                                                                     
+╭─ 8.244.74.29     3356    0.575                       (Seoul, Seoul, KR, AS)                                                                                                     
+S (3356, 8426)  seamewe-3 ✓ || flag-europe-asia-fea ©
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 212.113.9.106   8426    256.294                     (London, None, GB, EU) CLARANET.ear2.London1.Level3.net                                                                    
+S&T (8426)  
+╰─ 195.22.9.7      8426    274.544                    (Carnaxide, 11, PT, EU) tlx-ar1-0-0-0-23.router.pt.clara.net                                                                
+   195.22.9.57     8426    302.019                    (Carnaxide, 11, PT, EU) tlx-mse2-te-0-0-4.pt.clara.net                                                                      
+   195.22.9.7      8426    274.544                    (Carnaxide, 11, PT, EU) tlx-ar1-0-0-0-23.router.pt.clara.net                                                                
+   77.91.207.126   8426    301.684                       (None, None, PT, EU) not-assigned                                                                                        
+   80.172.218.14   62416   297.482                       (None, None, PT, EU) core.rt13.lis1.ptservidor.net                                                                       
+   ***             *       -inf                                           *** *                                                                                                   
+   185.32.189.249  62416   313.531                 (Odivelas, Lisbon, PT, EU) pt-lis-as62416.anchors.atlas.ripe.net                                                               

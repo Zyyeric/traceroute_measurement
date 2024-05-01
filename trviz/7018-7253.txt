@@ -1,0 +1,13 @@
+   192.158.252.10  1280    0.0            (Mountain View, California, US, NA) us-pao-as1280.anchors.atlas.ripe.net                                                                
+   192.158.252.3   1280    0.286              (Palo Alto, California, US, NA) r2.pao2-guests.isc.org                                                                              
+   64.62.180.45    6939    1.078              (Palo Alto, California, US, NA) e0-30.switch2.pao1.he.net                                                                           
+   184.104.195.113 6939    1.622                       (San Jose, CA, US, NA) 100ge14-2.core1.sjc1.he.net                                                                         
+   64.71.184.46    4826    1.144                       (San Jose, CA, US, NA) vocus.gigabitethernet2-13.core1.sjc1.he.net                                                         
+╭─ 114.31.199.33   4826    146.148                     (San Jose, CA, US, NA) be100.bdr04.sjc01.ca.us.vocus.network                                                               
+S (4826)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 114.31.192.49   4826    146.291                      (Sydney, NSW, AU, OC) be101.bdr01.syd01.nsw.vocus.network                                                                 
+╭─ 123.103.197.26  4826    165.031          (Sydney, New South Wales, AU, OC) ip-26.197.103.123.vocus.net.au                                                                      
+S (4826, 45345)  
+╰─ 202.87.128.198  45345   164.799                        (Noumea, S, NC, OC) *                                                                                                   
+   103.2.186.195   45345   165.149           (Nouméa, South Province, NC, OC) nc-nou-as45345.anchors.atlas.ripe.net                                                               

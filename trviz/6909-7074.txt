@@ -1,0 +1,19 @@
+   103.143.136.43  63781   0.0                         (Tokyo, Tokyo, JP, AS) koba-103-143-136-43.rev.kobayashi.ad.jp                                                             
+   103.143.136.62  63781   0.314 (5.613)                  (Tokyo, Tokyo, JP, AS) koba-103-143-136-62.rev.kobayashi.ad.jp                                                             
+   103.143.136.25  63781   0.628                       (Tokyo, Tokyo, JP, AS) bgprt1-ospfrt1.kobayashi.ad.jp                                                                      
+   103.41.60.164   10010   1.278                       (Tokyo, Tokyo, JP, AS) bgp3.tokyo-ix.v4.open.ad.jp                                                                         
+   150.99.184.33   2907    2.18                        (Tokyo, Tokyo, JP, AS)                                                                                                     
+   150.99.10.187   2907    1.931                         (None, None, JP, AS) *                                                                                                   
+   202.232.6.17    2497    2.57                        (Tokyo, Tokyo, JP, AS)                                                                                                     
+   58.138.114.249  2497    3.468                       (Tokyo, Tokyo, JP, AS) tky009bb10.iij.net                                                                                  
+   58.138.98.237   2497    2.107                       (Tokyo, Tokyo, JP, AS) tky001bb00.iij.net                                                                                  
+   58.138.100.54   2497    1.92                        (Tokyo, Tokyo, JP, AS) tky001ix54.iij.net                                                                                  
+   210.130.133.45  2497    6.839                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+   216.6.54.3      6453    112.135                     (Tokyo, Tokyo, JP, AS) if-bundle-5-2.qcore2.ovc-tokyo.as6453.net                                                           
+   180.87.180.57   6453    112.653                        (Tokyo, 13, JP, AS) if-ae-14-2.tcore1.tv2-tokyo.as6453.net                                                              
+╭─ 120.29.217.67   6453    22.163                       (Chiba, None, JP, AS) if-et-21-2.hcore1.kv8-chiba.as6453.net                                                              
+S (6453)  
+╰─ 209.58.86.144   6453    112.181          (Santa Clara, California, US, NA) if-ae-28-5.tcore2.sv1-santaclara.as6453.net                                                         
+   66.198.101.133  6453    110.842             (San Jose, California, US, NA) if-bundle-20-2.qcore1.sqn-sanjose.as6453.net                                                        
+   ***             *       -inf                                           *** *                                                                                                   
+   45.79.110.82    63949   113.109              (Fremont, California, US, NA) li1209-82.members.linode.com                                                                        

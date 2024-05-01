@@ -1,0 +1,18 @@
+   200.160.6.19    22548   0.0                 (São Paulo, São Paulo, BR, SA) br-sao-as22548.anchors.atlas.ripe.net                                                               
+   200.160.6.61    22548   0.817         (Taboão da Serra, São Paulo, BR, SA) ae1-89.ar3.jd.registro.br                                                                           
+   200.160.0.253   22548   1.198                         (None, None, BR, SA) ae0-0.core1.nu.registro.br                                                                          
+╭─ 200.160.0.161   22548   1.038                         (None, None, BR, SA) xe-5-0-0-0.gw1.nu.registro.br                                                                       
+S (22548, 6939)  south-america-1-sam-1 ✓ || monet ✓ || america-movil-submarine-cable-system-1-amx-1 ✘ || globenet ✓ || americas-ii ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 72.52.92.101    6939    110.677                     (New York, NY, US, NA) ve952.core2.nyc6.he.net                                                                             
+╭─ 206.82.104.201  262589  119.397                     (New York, NY, US, NA) de-cix.nyc.internexa.com                                                                            
+S (262589)  pacific-caribbean-cable-system-pccs ✓ || arcos ✓ || colombia-florida-subsea-fiber-cfx-1 ✓ || america-movil-submarine-cable-system-1-amx-1 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 179.1.115.6     262589  164.523              (Bogotá, Bogota D.C., CO, SA)                                                                                                     
+S&T (262589, 263703)  arcos ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 190.97.246.90   263703  175.074                 (El Vigía, Mérida, VE, SA)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   170.254.172.12  265641  175.272                 (Maturín, Monagas, VE, SA) rev170-254-172-12.cixve.net                                                                         

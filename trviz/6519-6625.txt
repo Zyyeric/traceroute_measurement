@@ -1,0 +1,17 @@
+   96.126.70.90    21659   0.0               (Moncton, New Brunswick, CA, NA) 96-126-70-90.apbx.ca                                                                                
+   96.126.70.1     21659   0.428             (Moncton, New Brunswick, CA, NA) 96-126-70-1.apbx.ca                                                                                 
+╭─ 209.51.184.133  6939    1.273             (Moncton, New Brunswick, CA, NA) port-channel2.core2.yqm1.he.net                                                                     
+S&T (6939)  exa-north-and-south ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 72.52.92.9      6939    12.199             (Boston, Massachusetts, US, NA) 100ge0-78.core2.bos1.he.net                                                                         
+╭─ 184.104.194.86  6939    17.463           (New York City, New York, US, NA) 100ge0-17.core2.nyc4.he.net                                                                         
+S (6939)  exa-north-and-south ✓ || atlantic-crossing-1-ac-1 ✓ || yellow ✓ || apollo ✓ || tata-tgn-atlantic ✓ || flag-atlantic-1-fa-1 ✓
+╰─ 184.104.198.125 6939    103.455                  (London, England, GB, EU) port-channel4.core3.lon2.he.net                                                                     
+   184.104.192.134 6939    80.041                       (London, ENG, GB, EU) 100ge0-35.core3.lon1.he.net                                                                         
+   216.66.84.218   4455    79.633                       (London, ENG, GB, EU) ixreach-ltd.10gigabitethernet8-1.core1.lon1.he.net                                                  
+   ***             *       -inf                                           *** *                                                                                                   
+   31.217.131.65   4455    86.01                     (Liverpool, ENG, GB, EU) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   46.227.206.85   41495   85.761               (Manchester, England, GB, EU) core0100.bond160.gagarin.a.faelix.net                                                               
+   46.227.206.42   41495   86.306                 (Didsbury, England, GB, EU) legacy.a.faelix.net                                                                                 
+   46.227.202.97   41495   86.412               (Manchester, England, GB, EU) uk-mnc-as41495.anchors.atlas.ripe.net                                                               

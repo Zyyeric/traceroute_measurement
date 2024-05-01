@@ -1,0 +1,18 @@
+   195.130.66.103  199399  0.0                       (Athens, Attica, GR, EU) gr-ath-as199399.anchors.atlas.ripe.net                                                              
+   195.130.66.102  199399  1.047                    (Výronas, Attica, GR, EU) gw-ripe-anchor.gr-ix.gr                                                                             
+   62.217.98.52    5408    0.523                    (Výronas, Attica, GR, EU) grix-admin-gw.eier.access-link.grnet.gr                                                             
+   83.97.88.69     21320   0.541                    (Výronas, Attica, GR, EU) grnet-ias-geant-gw.mx2.ath.gr.geant.net                                                             
+╭─ 62.40.98.141    20965   26.042                        (Athens, A1, GR, EU) ae0.mx1.ath2.gr.geant.net                                                                           
+T (20965)  
+╰─ 62.40.98.147    20965   26.123                    (Vienna, Vienna, AT, EU) ae0.mx1.vie.at.geant.net                                                                            
+╭─ 212.133.7.165   3356    41.578                    (Vienna, Vienna, AT, EU) ae68.edge4.vienna1.level3.net                                                                       
+LHL (3356)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 4.37.37.166     3356    155.126                   (Miami, Florida, US, NA) angola-cabl.edge6.miami1.level3.net                                                                 
+S (3356, 37468)  
+├─ 170.238.233.162 37468   180.629                 (Fortaleza, Ceará, BR, SA) 162.233.238.170.angolacables.ao                                                                     
+S (37468)  
+├─ 170.238.232.150 37468   341.165                       (None, None, AO, AF) *                                                                                                   
+S&T (37468)  
+╰─ 102.130.68.143  37468   342.328                 (Johannesburg, GT, ZA, AF) *                                                                                                   
+   102.130.68.151  37468   341.934            (Johannesburg, Gauteng, ZA, AF)                                                                                                     

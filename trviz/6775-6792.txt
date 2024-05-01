@@ -1,0 +1,17 @@
+   141.164.39.1    20473   0.0                      (Paripark, Seoul, KR, AS) 141.164.39.1.vultrusercontent.com                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   100.100.100.1   *       0.374                                          ***                                                                                                     
+   10.84.0.21      *       0.437                                          ***                                                                                                     
+   10.84.2.53      *       0.942                                          ***                                                                                                     
+╭─ 192.145.251.32  14828   2.094                       (Seoul, Seoul, KR, AS)                                                                                                     
+S (14828, 6939)  apcn-2 ✘ || asia-pacific-gateway-apg ✘ || flag-north-asia-loopreach-north-asia-loop ✘ || eac-c2c ✘ || new-cross-pacific-ncp-cable-system ✘ || korea-japan-cable-network-kjcn ✘ || seamewe-3 ✘ || flag-europe-asia-fea ✘ || trans-pacific-express-tpe-cable-system ✘
+├─ 184.105.64.65   6939    31.194                      (Tokyo, Tokyo, JP, AS) 10ge0-91.core3.tyo1.he.net                                                                          
+S (6939)  japan-u-s-cable-network-jus ✓ || tata-tgn-pacific ✓ || pacific-crossing-1-pc-1 ✘ || faster ✓ || jupiter ✓ || new-cross-pacific-ncp-cable-system ✓ || trans-pacific-express-tpe-cable-system ✓ || unityeac-pacific ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.81.82   6939    138.858             (San Jose, California, US, NA) port-channel10.core2.pao1.he.net                                                                    
+   184.104.193.26  6939    160.173                     (Portland, OR, US, NA) 100ge14-1.core1.pdx1.he.net                                                                         
+╭─ 184.104.199.69  6939    157.871              (Seattle, Washington, US, NA) port-channel15.core2.sea1.he.net                                                                    
+S&T (6939)  
+╰─ 184.104.196.222 6939    160.758                    (Vancouver, BC, CA, NA) port-channel2.core2.yvr1.he.net                                                                     
+   65.19.133.197   6939    160.423      (Vancouver, British Columbia, CA, NA)                                                                                                     
+   192.30.89.87    394256  160.771      (Vancouver, British Columbia, CA, NA) ca-van-as394256.anchors.atlas.ripe.net                                                              

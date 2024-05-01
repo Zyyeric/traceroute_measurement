@@ -1,0 +1,23 @@
+   192.102.254.220 395152  0.0          (Vancouver, British Columbia, CA, NA)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   216.251.132.72  14007   0.775        (Vancouver, British Columbia, CA, NA) edgea.skywaywest.net                                                                                
+╭─ 65.49.79.249    6939    1.911        (Vancouver, British Columbia, CA, NA) e0-12.switch3.yvr2.he.net                                                                           
+LHL (6939)  exa-north-and-south ✓ || exa-express ✓
+├─ 184.104.195.13  6939    1.582              (Frankfurt am Main, HE, DE, EU) 100ge4-2.core1.fra1.he.net                                                                          
+LHL (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.222.97  6939    26.751                      (Winnipeg, MB, CA, NA) 100ge10-2.core1.ywg1.he.net                                                                         
+╭─ 184.105.64.101  6939    64.202                  (Toronto, Ontario, CA, NA) 100ge0-71.core2.tor1.he.net                                                                         
+S&T (6939)  exa-north-and-south ✓ ↠ apollo ✓ || exa-north-and-south ✓ ↠ flag-atlantic-1-fa-1 ✓ || exa-express ✓ ↠ apollo ✓ || exa-express ✓ ↠ flag-atlantic-1-fa-1 ✓
+├─ 184.104.196.177 6939    67.839                      (New York, NY, US, NA) 100ge0-76.core3.nyc4.he.net                                                                         
+S (6939)  atlantic-crossing-1-ac-1 ✓ || havfrueaec-2 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.189.26  6939    134.983       (Copenhagen, Capital Region, DK, EU) port-channel4.core3.cph1.he.net                                                                     
+T (6939, 9049)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 195.208.209.132 9049    170.038                     (Moscow, 48, RU, None) msk-ix.ertelecom.ru                                                                                 
+   31.131.196.10   9049    210.105              (Tomsk, Tomsk Oblast, RU, EU) 31x131x196x10.static.ertelecom.ru                                                                   
+   31.131.196.11   9049    210.375              (Tomsk, Tomsk Oblast, RU, EU) 31x131x196x11.static.ertelecom.ru                                                                   
+   193.42.115.222  51724   210.968              (Tomsk, Tomsk Oblast, RU, EU) p7234-probes-atlas-ripe.flynet.pro                                                                  

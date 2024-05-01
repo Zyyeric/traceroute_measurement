@@ -1,0 +1,15 @@
+   171.67.70.16    32      0.0                 (Stanford, California, US, NA) us-pao-as32.anchors.atlas.ripe.net                                                                  
+   171.67.70.1     32      0.474               (Stanford, California, US, NA) sw-tor-01.esrg.stanford.edu                                                                         
+   10.214.4.253    *       0.773                                          ***                                                                                                     
+   171.66.0.209    32      0.852               (Stanford, California, US, NA)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 184.105.81.81   6939    2.019               (San Jose, California, US, NA) port-channel12.core4.sjc2.he.net                                                                    
+S (6939, 55569)  asia-america-gateway-aag-cable-system ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 202.127.73.191  55569   181.508                   (Tsuen Wan, NTW, HK, AS) unknown.telstraglobal.net                                                                           
+S (55569)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 182.161.73.67   55569   188.425             (Singapore, Singapore, SG, AS)                                                                                                     
+   182.161.73.41   55569   185.565             (Singapore, Singapore, SG, AS)                                                                                                     

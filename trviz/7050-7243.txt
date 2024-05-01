@@ -1,0 +1,21 @@
+   185.148.112.152 37468   0.0                       (Lisbon, Lisbon, PT, EU) 152.112.148.185.angolacables.ao                                                                     
+   10.42.104.1     *       0.576                                          ***                                                                                                     
+╭─ 193.136.250.125 60171   1.007                         (Lisbon, 11, PT, EU) AFR-IX.AS60171.gigapix.pt                                                                           
+S&T (60171)  west-africa-cable-system-wacs ✓ || africa-coast-to-europe-ace ✓ || tata-tgn-western-europe ✘ || sat-3wasc ✓ || seamewe-3 ✓
+├─ 185.10.164.99   60171   229.926             (Barcelona, Catalonia, ES, EU)                                                                                                     
+S&T (60171)  
+╰─ 185.10.164.113  60171   217.799                      (London, ENG, GB, EU) *                                                                                                   
+╭─ 185.10.164.135  60171   217.916                      (London, ENG, GB, EU) *                                                                                                   
+S&T (60171)  
+├─ 185.10.164.32   60171   229.822             (Paris, Île-de-France, FR, EU)                                                                                                     
+S (60171)  
+├─ 102.223.52.73   60171   229.487                     (Lagos, Lagos, NG, AF)                                                                                                     
+S&T (60171)  
+├─ 185.10.164.45   60171   229.572                      (London, ENG, GB, EU) *                                                                                                   
+S&T (60171)  
+├─ 102.219.44.43   60171   217.509                     (Lagos, Lagos, NG, AF)                                                                                                     
+S&T (60171, 328913)  
+╰─ 196.49.84.51    328913  217.836                 (Abidjan, Abidjan, CI, AF) bdr3.std.douala-ix.net                                                                              
+╭─ 196.49.84.36    328913  230.03                  (Abidjan, Abidjan, CI, AF) gw1.std.douala-ix.net                                                                               
+S&T (328913)  
+╰─ 196.49.84.188   328913  230.368                 (Douala, Littoral, CM, AF) cm-dla-as328913.anchors.atlas.ripe.net                                                              

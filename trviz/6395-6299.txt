@@ -1,0 +1,17 @@
+   197.239.73.59   37577   0.0                  (Ouagadougou, Centre, BF, AF)                                                                                                     
+   197.239.73.57   37577   0.31                 (Ouagadougou, Centre, BF, AF)                                                                                                     
+   165.16.221.42   37721   0.427                         (None, None, BF, AF) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   102.67.97.145   37721   4.278                (Ouagadougou, Centre, BF, AF) ce5-255.bb1.oua1.vts.bf                                                                             
+╭─ 102.67.97.41    37721   3.769                   (Ouagadougou, KAD, BF, AF) et-0-0-1-2003.bb1.oua2.vts.bf                                                                       
+LHL (37721)  west-africa-cable-system-wacs ✓ || africa-coast-to-europe-ace ✓ || mainone ✘ || sat-3wasc ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 102.67.96.245   37721   107.352                   (Lisbon, Lisbon, PT, EU) et-0-0-1-2035.bb1.lis1.vts.bf                                                                       
+S&T (37721)  seamewe-3 ✓
+╰─ 102.67.96.26    37721   127.19                   (London, England, GB, EU) xe-0-0-1-2034.bb1.lon1.vts.bf                                                                       
+   102.67.96.6     37721   132.917                      (London, ENG, GB, EU) xe-0-0-2-21.br1.lon1.vts.bf                                                                         
+╭─ 212.187.195.145 3356    129.315                       (None, None, GB, EU) *                                                                                                   
+S&T (3356)  seamewe-3 ✓
+╰─ 171.75.8.143    3356    148.245   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) ae1.11.bear1.par10.neo.colt.net                                                                     
+   213.242.120.238 39534   156.233                      (Paris, None, FR, EU) LYRA-NETWOR.bear1.Paris10.Level3.net                                                                
+   185.151.70.11   39534   157.302                (Labège, Occitanie, FR, EU)                                                                                                     

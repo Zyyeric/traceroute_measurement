@@ -1,0 +1,28 @@
+   176.119.210.244 56457   0.0                       (Athens, Attica, GR, EU)                                                                                                     
+   176.119.210.254 56457   0.449                 (Áno Liósia, Attica, GR, EU)                                                                                                     
+   185.201.254.32  56457   0.295                 (Áno Liósia, Attica, GR, EU) te0-3.ef1.ath01.fastpath.gr                                                                         
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 176.126.38.47   *       1.848                 (Áno Liósia, Attica, GR, EU) he.gr-ix.gr                                                                                         
+T (, 6939)  
+├─ 184.105.64.169  6939    13.207              (Sofia, Sofia-Capital, BG, EU) 100ge0-75.core3.sof1.he.net                                                                         
+T (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.105.65.110  6939    32.084                        (Munich, BY, DE, EU) 100ge0-35.core2.muc1.he.net                                                                         
+LHL (6939)  apollo ✓ || flag-atlantic-1-fa-1 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 72.52.92.69     6939    124.511                   (Pleasanton, CA, US, NA) 10ge4-5.core1.pao1.he.net                                                                           
+S (6939)  
+╰─ 72.52.92.5      6939    65.0                       (Amsterdam, NH, NL, EU) port-channel13.core2.ams1.he.net                                                                    
+   216.66.83.127   6939    60.802          (Amsterdam, North Holland, NL, EU) mtn-globalconnect-solutions-ltd.e0-30.switch1.ams6.he.net                                           
+╭─ 41.181.105.195  16637   59.675          (Amsterdam, North Holland, NL, EU)                                                                                                     
+LHL (16637)  
+├─ 41.181.190.198  16637   65.309                      (Pretoria, GP, ZA, AF) *                                                                                                   
+T (16637)  
+├─ 41.181.244.176  16637   66.146                   (London, England, GB, EU)                                                                                                     
+T (16637, 20294)  
+├─ 41.181.247.39   20294   214.915                       (None, None, ZA, AF) *                                                                                                   
+LHL (20294)  
+╰─ 212.88.110.34   20294   214.928          (Kampala, Central Region, UG, AF)                                                                                                     
+   129.205.30.76   37063   215.052                       (Kampala, C, UG, AF) *                                                                                                   
+   41.191.77.206   328998  215.15                        (Kampala, C, UG, AF) *                                                                                                   
+   196.49.15.189   328998  214.566          (Kampala, Central Region, UG, AF)                                                                                                     

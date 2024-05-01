@@ -1,0 +1,17 @@
+   103.77.105.3    133800  0.0                     (Jakarta, Jakarta, ID, AS) ip-3-105-77-103.jkt-1.biznetg.io                                                                    
+   ***             *       -inf                                           *** *                                                                                                   
+   137.59.127.33   *       0.47                    (Jakarta, Jakarta, ID, AS) xe-0-2.cr01.jkt.biznetg.io                                                                          
+   202.169.59.21   17451   1.553                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+   182.253.187.142 17451   1.786                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+╭─ 112.78.190.1    17451   1.943                   (Depok, West Java, ID, AS) id-jkt-mtr-1.biznetnetworks.com                                                                     
+S&T (17451)  australia-singapore-cable-asc ✓ || matrix-cable-system ✘ || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || indonesia-global-gateway-igg-system ✓ || seamewe-3 ✓ || indigo-west ✓ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || jasuka ✓ || jakabare ✓
+├─ 112.78.190.5    17451   16.021              (Singapore, Singapore, SG, AS)                                                                                                     
+S (17451, 55329)  
+├─ 27.111.229.69   55329   15.366                    (Seogwipo, None, KR, AS) 55329.sgw.equinix.com                                                                               
+LHL (55329, 45498)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 27.109.113.5    45498   46.88                     (Phnom Penh, 12, KH, AS) *                                                                                                   
+   27.109.113.26   45498   48.986                    (Phnom Penh, 12, KH, AS) *                                                                                                   
+   117.20.118.21   45498   46.131            (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     

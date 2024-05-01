@@ -1,0 +1,18 @@
+   196.49.15.189   328998  0.0              (Kampala, Central Region, UG, AF)                                                                                                     
+   196.49.15.253   328998  0.209            (Kampala, Central Region, UG, AF)                                                                                                     
+   41.191.77.205   37063   0.564            (Kampala, Central Region, UG, AF)                                                                                                     
+   129.205.30.77   37063   0.86                          (Kampala, C, UG, AF) *                                                                                                   
+╭─ 129.205.30.230  37063   8.477            (Kampala, Central Region, UG, AF)                                                                                                     
+T (37063, 6939)  
+├─ 196.223.21.74   6939    160.534                     (Nairobi, 5, KE, None) *                                                                                                   
+S&T (6939)  
+├─ 184.104.189.42  6939    161.383               (Djibouti, Djibouti, DJ, AF) ve1004.core2.jib1.he.net                                                                            
+S (6939)  
+├─ 184.104.194.201 6939    243.429             (Singapore, Singapore, SG, AS) port-channel14.core3.sin1.he.net                                                                    
+S (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.81.70   6939    307.466                        (Seoul, 28, KR, AS) 10ge0-1.core2.sel1.he.net                                                                           
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   45.80.212.35    199524  328.628                     (Seoul, Seoul, KR, AS) vrrp.gcore.com                                                                                      
+   92.38.135.131   202422  328.623                     (Seoul, Seoul, KR, AS)                                                                                                     

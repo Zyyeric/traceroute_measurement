@@ -1,0 +1,14 @@
+   102.130.66.11   37468   0.0                       (Luanda, Luanda, AO, AF)                                                                                                     
+   102.130.66.1    37468   0.298                     (Luanda, Luanda, AO, AF)                                                                                                     
+   102.130.68.107  37468   2.027                     (Luanda, Luanda, AO, AF)                                                                                                     
+   102.130.70.111  37468   2.247                     (Luanda, Luanda, AO, AF)                                                                                                     
+╭─ 102.130.68.138  37468   36.55                         (None, None, AO, AF) *                                                                                                   
+LHL (37468, 12713)  
+├  100.64.192.13   *       185.833                                        ***                                                                                                     
+├─ 80.249.208.179  12713   194.078                    (Amsterdam, NH, NL, EU) ge0-3.ams.OTEglobe.net                                                                              
+LHL (12713)  
+╰─ 62.75.6.1       12713   230.596                        (Athens, I, GR, EU) *                                                                                                   
+   62.75.3.134     6799    231.984                       (None, None, GR, EU) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   212.205.28.250  6799    234.871                        (Athens, I, GR, EU) 250.28.205.212.static.otenet.gr                                                                     
+   185.14.96.232   211186  234.524            (Lamía, Central Greece, GR, EU)                                                                                                     

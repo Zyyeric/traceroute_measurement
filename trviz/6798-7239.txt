@@ -1,0 +1,21 @@
+   102.130.66.11   37468   0.0                       (Luanda, Luanda, AO, AF)                                                                                                     
+   102.130.66.1    37468   0.322                     (Luanda, Luanda, AO, AF)                                                                                                     
+   102.130.69.247  37468   0.842                     (Luanda, Luanda, AO, AF)                                                                                                     
+   102.130.68.111  37468   0.755 (2.252)                (Luanda, Luanda, AO, AF)                                                                                                     
+╭─ 102.130.68.138  37468   36.619                        (None, None, AO, AF) *                                                                                                   
+S (37468)  west-africa-cable-system-wacs 👍 || sat-3wasc ✓
+╰─ 102.130.68.69   37468   136.067                   (Lisbon, Lisbon, PT, EU)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 154.54.61.214   174     153.468                        (Porto, 13, PT, EU) be2444.rcr21.opo01.atlas.cogentco.com                                                               
+S&T (174)  seamewe-3 ✓ || sat-3wasc ✓
+╰─ 154.54.61.101   174     165.873                       (Bilbao, PV, ES, EU) be2313.ccr31.bio02.atlas.cogentco.com                                                               
+   154.54.61.130   174     171.394                        (Madrid, M, ES, EU) be2324.ccr31.mad05.atlas.cogentco.com                                                               
+   130.117.0.206   174     171.909                        (Madrid, M, ES, EU) be2470.rcr51.b015537-1.mad05.atlas.cogentco.com                                                     
+╭─ 212.222.130.93  3257    189.075                   (Madrid, Madrid, ES, EU) ae4.cr7-mad4.ip4.gtt.net                                                                            
+T (3257)  
+├─ 89.149.187.205  3257    290.813         (Frankfurt am Main, Hesse, DE, EU) ae5.cr2-dxb1.ip4.gtt.net                                                                            
+T (3257, 36236)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 185.34.2.114    36236   221.301                     (Dubai, Dubai, AE, AS)                                                                                                     

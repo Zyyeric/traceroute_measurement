@@ -1,0 +1,24 @@
+   151.139.52.113  33438   0.0                        (Dallas, Texas, US, NA)                                                                                                     
+   151.139.52.5    12989   0.468                         (None, None, US, NA) *                                                                                                   
+   151.139.52.3    12989   0.389                         (None, None, US, NA) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   154.54.28.73    174     1.052              (Dallas-Fort Worth, TX, US, NA) be2763.ccr31.dfw01.atlas.cogentco.com                                                               
+   154.54.3.134    174     11.219                   (Kansas City, MO, US, NA) be2432.ccr21.mci01.atlas.cogentco.com                                                               
+   154.54.42.166   174     22.653                       (Chicago, IL, US, NA) be2831.ccr41.ord01.atlas.cogentco.com                                                               
+   154.54.6.222    174     114.821                    (Cleveland, OH, US, NA) be2717.ccr21.cle04.atlas.cogentco.com                                                               
+╭─ 154.54.162.166  174     112.963          (New York City, New York, US, NA)                                                                                                     
+S (174)  
+╰─ 154.54.93.10    174     113.626                  (London, England, GB, EU) be4324.ccr51.lhr01.atlas.cogentco.com                                                               
+╭─ 154.54.60.5     174     115.17                       (London, ENG, GB, EU) be3487.ccr41.lon13.atlas.cogentco.com                                                               
+S&T (174)  
+╰─ 154.54.56.94    174     115.029                    (Amsterdam, NH, NL, EU) be12194.ccr41.ams03.atlas.cogentco.com                                                              
+╭─ 154.54.56.166   174     113.478                    (Amsterdam, NH, NL, EU) be2020.rcr21.b021535-1.ams03.atlas.cogentco.com                                                     
+S (174, 3216)  
+├─ 149.11.202.58   3216    150.245                       (None, None, US, NA) *                                                                                                   
+LHL (3216)  
+╰─ 79.104.238.13   3216    243.611                 (Khabarovsk, None, RU, AS) pe02.Khabarovsk.gldn.net                                                                            
+   212.119.196.106 3216    247.488           (Khabarovsk, Khabarovsk, RU, EU)                                                                                                     
+   10.255.10.181   *       254.153                                        ***                                                                                                     
+   92.38.191.67    210756  248.304           (Khabarovsk, Khabarovsk, RU, EU) vrrp.edgecenter.ru                                                                                  
+   185.209.84.10   198412  252.811                  (Khabarovsk, KHA, RU, AS) ae1-0.c10.khv01.ru.misaka.io                                                                        
+   185.209.84.141  57578   248.511           (Khabarovsk, Khabarovsk, RU, EU) ru-khv-as57578.anchors.atlas.ripe.net                                                               

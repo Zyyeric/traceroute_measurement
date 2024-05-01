@@ -1,0 +1,16 @@
+   103.253.132.25  59238   0.0                     (Bangkok, Bangkok, TH, AS) th-bkk-as59238.anchors.atlas.ripe.net                                                               
+   103.253.132.1   59238   0.261                (Khlong San, Bangkok, TH, AS) gw-cat.idc.inox.co.th                                                                               
+   172.24.132.24   *       0.234                                          ***                                                                                                     
+   172.21.21.2     *       0.352                                          ***                                                                                                     
+╭─ 122.155.224.73  4651    0.325 (1.229)           (Khlong San, Bangkok, TH, AS)                                                                                                     
+S (4651)  flag-europe-asia-fea ✘ || seamewe-3 ✓
+├─ 61.19.9.234     4651    212.727                  (London, England, GB, EU)                                                                                                     
+T (4651, 59605)  
+├─ 80.81.192.84    59605   221.371           (Frankfurt am Main, 5, DE, None) ipv4.de-cix.fra.de.as59605.zain.com                                                                 
+LHL (59605)  falcon ✓ || fiber-optic-gulf-fog ✓ || tata-tgn-gulf ✓ || gulf-bridge-international-cable-system-gbicsmiddle-east-north-africa-mena-cable-system ✓
+╰─ 151.248.105.47  59605   299.603                       (None, None, BH, AS) *                                                                                                   
+╭─ 151.248.98.137  42961   276.91                        (None, None, BH, AS) *                                                                                                   
+S (42961)  
+├  10.32.1.6       *       300.957                                        ***                                                                                                     
+├  10.32.1.9       *       304.676                                        ***                                                                                                     
+╰─ 212.43.17.42    42961   301.823     (Al Farwānīyah, Al Farwaniyah, KW, AS)                                                                                                     

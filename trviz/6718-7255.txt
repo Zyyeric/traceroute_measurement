@@ -1,0 +1,16 @@
+   103.179.37.157  151332  0.0                  (Melbourne, Victoria, AU, OC)                                                                                                     
+   103.179.37.156  151332  0.406                (Melbourne, Victoria, AU, OC)                                                                                                     
+   203.192.83.253  7545    1.491                (Melbourne, Victoria, AU, OC) ip-253-83-192-203.static.pipenetworks.com                                                           
+   203.220.216.73  7545    1.888                        (Sydney, NSW, AU, OC) 203-220-216-73.tpgi.com.au                                                                          
+   27.32.160.129   7545    85.41               (North Melbourne, VIC, AU, OC) 27-32-160-129.static.tpgi.com.au                                                                    
+╭─ 203.219.57.14   7545    84.999          (Perth, Western Australia, AU, OC) per-apt-stg-crt1-be20.tpgi.com.au                                                                   
+S (7545)  
+├─ 203.219.107.114 7545    85.393              (Singapore, Singapore, SG, AS) sin-eqx-aye-int1-hu-0-0-0-20.tpg.com.au                                                             
+S (7545, 24173)  
+├─ 27.111.228.52   24173   85.279                    (Seogwipo, None, KR, AS) 24173.sgw.equinix.com                                                                               
+S (24173, 24176)  
+╰─ 210.86.233.17   24176   104.39     (Ho Chi Minh City, Ho Chi Minh, VN, AS) ci233-17.netnam.vn                                                                                  
+   210.86.233.30   24176   104.849    (Ho Chi Minh City, Ho Chi Minh, VN, AS) ci233-30.netnam.vn                                                                                  
+   210.86.232.101  24173   104.221                        (Hanoi, HN, VN, AS) ci232-101.netnam.vn                                                                                 
+   ***             *       -inf                                           *** *                                                                                                   
+   101.53.31.6     24173   106.38     (Ho Chi Minh City, Ho Chi Minh, VN, AS) ci53.31-6.netnam.vn                                                                                 

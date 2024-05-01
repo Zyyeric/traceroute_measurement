@@ -1,0 +1,26 @@
+   152.195.112.52  15133   0.0                         (Tokyo, Tokyo, JP, AS)                                                                                                     
+╭─ 152.195.112.49  15133   0.941                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+S (15133, 174)  apcn-2 ✓ || korea-japan-cable-network-kjcn ✓ || eac-c2c ✓ || asia-pacific-gateway-apg ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 154.54.89.198   174     61.423                      (Seoul, Seoul, KR, AS) be3010.ccr71.sel01.atlas.cogentco.com                                                               
+╭─ 154.54.93.182   174     61.541                      (Seoul, Seoul, KR, AS) be4409.ccr72.sel01.atlas.cogentco.com                                                               
+S (174)  
+├─ 154.54.30.206   174     61.412                   (Hong Kong, None, HK, AS) be2223.ccr21.hkg02.atlas.cogentco.com                                                               
+S (174)  
+├─ 154.54.6.25     174     243.494                   (Marseille, PAC, FR, EU) be2900.ccr32.mrs02.atlas.cogentco.com                                                               
+S&T (174)  
+├─ 154.54.74.178   174     251.813                        (Milan, 25, IT, EU) be2865.rcr21.mil01.atlas.cogentco.com                                                               
+T (174)  
+├─ 154.54.63.221   174     264.46                   (Munich, Bavaria, DE, EU) be3814.ccr22.muc03.atlas.cogentco.com                                                               
+T (174)  
+├─ 154.54.59.181   174     266.082                        (Vienna, 9, AT, EU) be3462.ccr52.vie01.atlas.cogentco.com                                                               
+LHL (174)  
+├─ 130.117.50.82   174     270.206                        (Dublin, D, IE, EU) be2209.rcr11.b022738-0.dub01.atlas.cogentco.com                                                     
+LHL (174)  
+├─ 149.6.175.250   174     265.656        (Le Pre-Saint-Gervais, IDF, FR, EU) *                                                                                                   
+S (174, 20965)  
+╰─ 62.40.98.146    20965   293.677                       (Athens, A1, GR, EU) ae1.mx1.ath2.gr.geant.net                                                                           
+   83.97.88.66     5408    294.275                       (Athens, A1, GR, EU) grnet-ias-grnet-gw.mx1.ath2.gr.geant.net                                                            
+   62.217.100.63   5408    294.911                       (None, None, GR, EU) eier-kolettir-AE.backbone.grnet.gr                                                                  
+   62.217.98.53    199399  295.332                       (None, None, GR, EU) grix-ADMIN.eier.access-link.grnet.gr                                                                
+   195.130.66.103  199399  294.995                   (Athens, Attica, GR, EU) gr-ath-as199399.anchors.atlas.ripe.net                                                              

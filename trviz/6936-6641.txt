@@ -1,0 +1,19 @@
+   92.38.135.131   202422  0.0                         (Seoul, Seoul, KR, AS)                                                                                                     
+   92.38.135.3     202422  0.275                       (Seoul, Seoul, KR, AS) vrrp.gcore.lu                                                                                       
+   10.255.17.209   *       0.274                                          ***                                                                                                     
+   10.255.17.213   *       0.379                                          ***                                                                                                     
+   10.255.17.147   *       0.365                                          ***                                                                                                     
+╭─ 8.244.74.25     3356    0.576                       (Seoul, Seoul, KR, AS)                                                                                                     
+S (3356)  korea-japan-cable-network-kjcn ✓ || seamewe-3 ✓
+╰─ 4.69.217.14     3356    31.426                         (Tokyo, 13, JP, AS) ae1.3505.edge2.Tokyo4.level3.net                                                                    
+╭─ 4.68.70.86      3491    31.045                         (Tokyo, 13, JP, AS) PCCW-level3-Tokyo4.Level3.net                                                                       
+LHL (3491)  seamewe-3 👍
+╰─ 63.218.232.33   3491    283.343            (Frankfurt am Main, HE, DE, EU) HundredGE0-3-0-0.br02.frf06.pccwbtn.net                                                             
+╭─ 63.218.233.6    20485   268.168            (Frankfurt am Main, HE, DE, EU) 63-218-233-6.static.pccwglobal.net                                                                  
+T (20485)  
+╰─ 217.150.56.138  20485   393.954                       (None, None, RU, EU) kbk06.transtelecom.net                                                                              
+   217.150.56.137  20485   393.435           (Khabarovsk, Khabarovsk, RU, EU) edgecenter-gw.transtelecom.net                                                                      
+   ***             *       -inf                                           *** *                                                                                                   
+   92.38.191.67    210756  393.428           (Khabarovsk, Khabarovsk, RU, EU) vrrp.edgecenter.ru                                                                                  
+   185.209.84.10   198412  393.215                  (Khabarovsk, KHA, RU, AS) ae1-0.c10.khv01.ru.misaka.io                                                                        
+   185.209.84.141  57578   393.842           (Khabarovsk, Khabarovsk, RU, EU) ru-khv-as57578.anchors.atlas.ripe.net                                                               

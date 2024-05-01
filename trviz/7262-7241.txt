@@ -1,0 +1,14 @@
+   182.18.209.9    23944   0.0                 (Manila, Metro Manila, PH, AS)                                                                                                     
+╭─ 182.18.209.1    23944   0.767          (Quezon City, Metro Manila, PH, AS) 209-182.gw.skybroadband.com.ph                                                                      
+S (23944, 4637)  eac-c2c ✓ || southeast-asia-japan-cable-sjc ✓ || apcn-2 ✓ || tata-tgn-intra-asia-tgn-ia ✓
+├  172.31.31.6     *       0.375                                          ***                                                                                                     
+├─ 210.57.68.85    4637    31.065              (Singapore, Singapore, SG, AS) unknown.telstraglobal.net                                                                           
+S (4637)  eac-c2c 👍 || asia-pacific-gateway-apg ✓ || southeast-asia-japan-cable-sjc ✓ || asia-america-gateway-aag-cable-system 👍 || seamewe-3 👍 || asia-submarine-cable-express-asecahaya-malaysia ✓ || apcn-2 👍 || tata-tgn-intra-asia-tgn-ia ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 202.84.249.253  4637    76.815    (Hong Kong, Central and Western, HK, AS)                                                                                                     
+S (4637, 1221)  
+╰─ 203.50.9.1      1221    78.534                         (Perth, WA, AU, OC) bundle-ether5.pie-core10.perth.telstra.net                                                          
+   203.50.6.177    1221    77.369                         (Perth, WA, AU, OC) bundle-ether1.pie-edge903.perth.telstra.net                                                         
+   138.217.126.78  1221    76.996          (Perth, Western Australia, AU, OC) tel4198820.lnk.telstra.net                                                                          
+   ***             *       -inf                                           *** *                                                                                                   
+   203.41.0.254    1221    77.007          (Perth, Western Australia, AU, OC) atlas-per.telstra.net                                                                               

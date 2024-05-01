@@ -1,0 +1,30 @@
+   10.252.4.170    *       0.0                                            ***                                                                                                     
+   10.252.4.169    *       0.086                                          ***                                                                                                     
+   10.252.4.153    *       0.146                                          ***                                                                                                     
+   10.252.0.37     *       9.529                                          ***                                                                                                     
+   10.252.2.138    *       12.187                                         ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 154.25.16.81    174     13.611                (Istanbul, Istanbul, TR, AS) be3821.rcr71.ist01.atlas.cogentco.com                                                               
+S (174)  
+├─ 154.54.74.226   174     22.332                         (Lyon, ARA, FR, EU) be2881.rcr21.lys01.atlas.cogentco.com                                                               
+LHL (174)  
+├─ 130.117.0.94    174     30.246                       (Belgrade, 0, RS, EU) be3421.ccr51.beg03.atlas.cogentco.com                                                               
+T (174)  
+├─ 130.117.0.125   174     32.598                      (Budapest, PE, HU, EU) be3422.ccr31.bud01.atlas.cogentco.com                                                               
+T (174)  
+├─ 130.117.3.137   174     35.004                    (Bratislava, BL, SK, EU) be3261.ccr21.bts01.atlas.cogentco.com                                                               
+T (174)  
+├─ 154.54.59.86    174     38.378                         (Vienna, 9, AT, EU) be2988.ccr51.vie01.atlas.cogentco.com                                                               
+T (174)  
+╰─ 154.54.58.5     174     44.042                        (Munich, BY, DE, EU) be2974.ccr21.muc03.atlas.cogentco.com                                                               
+╭─ 154.54.36.53    174     50.865             (Frankfurt am Main, HE, DE, EU) be2959.ccr41.fra03.atlas.cogentco.com                                                               
+T (174)  
+├─ 154.54.58.234   174     60.196                        (Paris, IDF, FR, EU) be2799.ccr41.par01.atlas.cogentco.com                                                               
+S&T (174)  
+╰─ 154.54.61.113   174     72.521                        (Bilbao, PV, ES, EU) be2315.ccr31.bio02.atlas.cogentco.com                                                               
+   154.54.61.130   174     77.052                         (Madrid, M, ES, EU) be2324.ccr31.mad05.atlas.cogentco.com                                                               
+   130.117.0.206   174     76.046                         (Madrid, M, ES, EU) be2470.rcr51.b015537-1.mad05.atlas.cogentco.com                                                     
+   149.14.241.18   174     75.863                    (Madrid, Madrid, ES, EU)                                                                                                     
+   130.206.245.50  766     75.735                        (None, None, ES, EU) telmad.rt1.ae11-0.telmad.rt4.mad.red.rediris.es                                                     
+   130.206.214.98  13041   89.048                        (None, None, ES, EU) anella-router.red.rediris.es                                                                        
+   84.88.18.254    13041   88.945              (Barcelona, Catalonia, ES, EU) anchor-anella.cesca.cat                                                                             

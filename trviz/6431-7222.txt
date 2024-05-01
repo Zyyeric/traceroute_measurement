@@ -1,0 +1,16 @@
+   102.130.68.151  37468   0.0                (Johannesburg, Gauteng, ZA, AF)                                                                                                     
+╭─ 102.130.68.146  37468   0.4                    (Edenvale, Gauteng, ZA, AF)                                                                                                     
+S&T (37468)  west-africa-cable-system-wacs 👍 || sat-3wasc ✓
+├─ 102.130.68.142  37468   52.861                        (None, None, AO, AF) *                                                                                                   
+S (37468)  south-atlantic-cable-system-sacs 👍
+╰─ 170.238.232.145 37468   113.763                       (None, None, BR, SA) *                                                                                                   
+╭─ 170.238.233.163 22697   176.76                        (None, None, BR, SA) 163.233.238.170.angolacables.ao                                                                     
+S (22697, 3356)  
+├─ 4.37.37.165     3356    185.176                   (Miami, Florida, US, NA) et-7-0-5.edge6.miami1.level3.net                                                                    
+S (3356, 50999)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 213.19.197.50   50999   352.023                      (Woking, ENG, GB, EU) *                                                                                                   
+S&T (50999)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 109.171.136.4   50999   354.867             (Jeddah, Mecca Region, SA, AS)                                                                                                     

@@ -1,0 +1,12 @@
+   63.222.106.8    3491    0.0                         (Seoul, Seoul, KR, AS) 63-222-106-8.static.pccwglobal.net                                                                  
+╭─ 63.222.106.2    3491    0.71                 (Yongsan-dong, Seoul, KR, AS) 63-222-106-2.static.pccwglobal.net                                                                  
+S (3491)  apcn-2 👍 || eac-c2c ✓ || flag-north-asia-loopreach-north-asia-loop 👍 || asia-pacific-gateway-apg ✓ || flag-europe-asia-fea ✓ || seamewe-3 👍
+╰─ 63.218.174.110  3491    37.488              (Hong Kong, Hong Kong, HK, AS) hu-0-0-0-2.br06.hkg12.as3491.net                                                                    
+╭─ 67.220.128.205  3257    37.287              (Tsuen Wan, Tsuen Wan, HK, AS) ae39.cr0-hkg2.ip4.gtt.net                                                                           
+S (3257)  seamewe-3 ✓ || flag-europe-asia-fea ✘
+├─ 213.200.118.165 3257    295.331                      (London, ENG, GB, EU) ae5.cr4-lon8.ip4.gtt.net                                                                            
+S&T (3257, 47720)  geo-eirgrid ✘ || exa-north-and-south ✘ || havhingstenceltixconnect-2-cc-2 © || sirius-south ✘ || esat-2 ✘ || rockabill © || esat-1 ✘ || pan-european-crossing-uk-ireland ✓ || exa-express ✘ || solas ✓
+╰─ 77.67.81.118    47720   302.565                      (Dublin, L, IE, None) ip4.gtt.net                                                                                         
+   91.103.0.196    47720   302.67                           (Cork, M, IE, EU) *                                                                                                   
+   91.103.0.99     42953   303.499                          (Cork, M, IE, EU) *                                                                                                   
+   185.6.39.132    42953   303.006                    (Cork, Munster, IE, EU)                                                                                                     

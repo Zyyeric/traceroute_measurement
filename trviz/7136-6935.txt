@@ -1,0 +1,20 @@
+   102.130.49.144  328383  0.0                (Johannesburg, Gauteng, ZA, AF) za-jnb-as57695.anchors.atlas.ripe.net                                                               
+   102.130.49.21   328383  0.3                (Johannesburg, Gauteng, ZA, AF) po-21.lag.jnb01.za.misaka.io                                                                        
+   102.130.49.3    328383  0.181              (Johannesburg, Gauteng, ZA, AF) spine2.v271.jnb01.za.misaka.io                                                                      
+╭─ 102.130.51.2    *       0.225              (Johannesburg, Gauteng, ZA, AF) e54-1-10.cr1a.tdjb1.jnb1.za.917.as                                                                  
+LHL (, 60068)  africa-coast-to-europe-ace ✘
+├─ 37.19.193.192   60068   0.241                     (Prague, Prague, CZ, EU) p77-3503.cr1a.tdjb1.jnb1.za.917.as                                                                  
+LHL (60068, 5511)  
+├─ 193.251.152.55  5511    0.441              (Johannesburg, Gauteng, ZA, AF)                                                                                                     
+S (5511)  africa-coast-to-europe-ace 👍
+╰─ 193.251.242.101 5511    167.904                (Saint-Denis, None, FR, EU) bundle-ether310.partr2.saint-denis.opentransit.net                                                  
+   212.115.150.89  3257    169.6                         (Paris, IDF, FR, EU) ae4.cr0-par9.ip4.gtt.net                                                                            
+   141.136.109.82  3257    169.476                       (Paris, IDF, FR, EU) ae8.cr4-par7.ip4.gtt.net                                                                            
+   77.67.123.206   2200    169.595                       (Paris, IDF, FR, EU) renater-gw-ix1.gtt.net                                                                              
+   193.55.204.193  2200    182.73                       (Paris, None, FR, EU) et-2-0-0-ren-nr-paris2-rtr-131.noc.renater.fr                                                       
+   193.51.177.239  2200    182.43                  (Rennes, Brittany, FR, EU) hu0-3-0-1-ren-nr-lyon2-rtr-091.noc.renater.fr                                                       
+   193.55.204.15   2200    182.446                     (Rennes, None, FR, EU) te0-3-0-0-ren-nr-rennes-rtr-091.noc.renater.fr                                                      
+   ***             *       -inf                                           *** *                                                                                                   
+   193.54.185.10   1942    182.474            (Épinay-sur-Seine, IDF, FR, EU) r-epn.grenet.fr                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   193.49.43.151   2200    182.667   (Grenoble, Auvergne-Rhône-Alpes, FR, EU)                                                                                                     

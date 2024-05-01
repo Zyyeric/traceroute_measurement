@@ -1,0 +1,13 @@
+   202.70.133.25   140443  0.0                 (Singapore, Singapore, SG, AS) 25.133.70.202.in-addr.herza.id                                                                      
+   202.70.133.1    140443  0.206               (Singapore, Singapore, SG, AS) 1.133.70.202.in-addr.herza.id                                                                       
+╭─ 202.70.132.1    140443  0.414               (Singapore, Singapore, SG, AS) 1.132.70.202.in-addr.herza.id                                                                       
+S (140443, 58717)  
+├  10.111.222.206  *       0.575                                          ***                                                                                                     
+├─ 27.111.228.8    58717   0.677                     (Seogwipo, None, KR, AS) 58717.sgw.equinix.com                                                                               
+S (58717)  
+├─ 157.119.185.77  58717   44.252              (Singapore, Singapore, SG, AS) 157.119.185.77.summitiig.net                                                                        
+S (58717)  
+╰─ 103.199.87.39   58717   44.337                        (None, None, BD, AS) *                                                                                                   
+   157.119.185.31  58717   44.688                          (Dhaka, C, BD, AS) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   103.15.246.16   58717   44.959                      (Dhaka, Dhaka, BD, AS)                                                                                                     

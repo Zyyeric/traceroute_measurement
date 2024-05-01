@@ -1,0 +1,17 @@
+   23.155.72.145   64289   0.0              (Santa Clara, California, US, NA)                                                                                                     
+   23.151.137.1    64289   0.209            (Santa Clara, California, US, NA)                                                                                                     
+   10.10.10.0      *       0.261                                          ***                                                                                                     
+   206.197.187.12  *       1.069                (Fremont, California, US, NA) as6939.sfmix.org                                                                                    
+   72.52.92.245    6939    1.719                     (Farmington, CA, US, NA) 100ge4-2.core3.fmt2.he.net                                                                          
+╭─ 184.105.65.114  6939    1.416                       (San Jose, CA, US, NA) 100ge1-1.core1.sjc2.he.net                                                                          
+S (6939, 4651)  asia-america-gateway-aag-cable-system ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 65.49.108.78    4651    152.503                  (Hong Kong, None, HK, AS) cat-telecom-public-company-ltd.10gigabitethernet7-2.core1.hkg1.he.net                               
+S (4651)  asia-america-gateway-aag-cable-system ✓ || asia-africa-europe-1-aae-1 ✓ || flag-europe-asia-fea ✘
+╰─ 61.19.9.121     4651    196.252                       (None, None, TH, AS) *                                                                                                   
+   61.19.7.6       4651    197.685                       (None, None, TH, AS) *                                                                                                   
+   122.155.224.74  135063  196.044                       (None, None, TH, AS) *                                                                                                   
+   172.21.21.5     *       197.573                                        ***                                                                                                     
+   172.24.132.102  *       197.751                                        ***                                                                                                     
+   103.253.132.25  59238   197.917                 (Bangkok, Bangkok, TH, AS) th-bkk-as59238.anchors.atlas.ripe.net                                                               

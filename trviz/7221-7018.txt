@@ -1,0 +1,17 @@
+   103.2.186.195   45345   0.0               (Nouméa, South Province, NC, OC) nc-nou-as45345.anchors.atlas.ripe.net                                                               
+   103.2.186.221   45345   0.885             (Nouméa, South Province, NC, OC) gw-ipv4-hosting-1010-mx204-f10.as45345.net                                                          
+   202.87.128.198  45345   0.778                          (Noumea, S, NC, OC) *                                                                                                   
+╭─ 202.87.128.197  18200   1.386             (Nouméa, South Province, NC, OC)                                                                                                     
+S (18200, 4826)  gondwana-1 👍
+╰─ 123.103.197.21  4826    23.084           (Sydney, New South Wales, AU, OC) ip-21.197.103.123.vocus.net.au                                                                      
+   123.103.197.21  4826    23.084           (Sydney, New South Wales, AU, OC) ip-21.197.103.123.vocus.net.au                                                                      
+╭─ 114.31.192.104  4826    169.353          (Sydney, New South Wales, AU, OC) be157.cor03.syd14.nsw.vocus.network                                                                 
+S (4826, 6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 64.71.184.45    6939    171.288                     (San Jose, CA, US, NA) 10gigabitethernet5-13.core1.sjc1.he.net                                                             
+   184.104.195.114 6939    168.45                    (Pleasanton, CA, US, NA) 100ge16-2.core1.pao1.he.net                                                                         
+   ***             *       -inf                                           *** *                                                                                                   
+   184.105.64.137  6939    188.837                      (Seattle, WA, US, NA) port-channel2.core2.sea1.he.net                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   209.189.201.132 7752    186.389              (Seattle, Washington, US, NA) eth48.ar02.sttlwawb.pop.threshinc.net                                                               
+   209.189.223.8   7752    190.204              (Seattle, Washington, US, NA) 209-189-223-8.ip.threshinc.net                                                                      

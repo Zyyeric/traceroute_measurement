@@ -1,0 +1,29 @@
+   131.72.76.118   264811  0.0                       (Miami, Florida, US, NA) 131-72-76-118.rev.airlinkdc.com                                                                     
+╭─ 131.72.76.117   264811  0.974                     (Miami, Florida, US, NA) 131-72-76-117.rev.airlinkdc.com                                                                     
+S (264811, 61478)  
+╰─ 131.72.76.18    61478   1.02                   (Princes Town, PRT, TT, NA) *                                                                                                   
+   10.254.253.250  *       0.793                                          ***                                                                                                     
+╭─ 190.213.13.217  27665   2.644       (Port of Spain, Port of Spain, TT, NA)                                                                                                     
+LHL (27665)  
+╰─ 200.1.111.73    27665   3.34                 (Bogotá, Bogota D.C., CO, SA)                                                                                                     
+╭─ 200.1.111.22    27665   3.474                (Bogotá, Bogota D.C., CO, SA)                                                                                                     
+S (27665, 23520)  
+╰─ 67.230.96.41    23520   57.363                    (Miami, Florida, US, NA)                                                                                                     
+   69.79.100.172   23520   56.643                    (Miami, Florida, US, NA)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 206.41.108.51   1916    56.457                        (None, None, US, NA) *                                                                                                   
+S (1916)  america-movil-submarine-cable-system-1-amx-1 ✘ ↠ globenet ✓ || south-america-1-sam-1 ✘ ↠ globenet ✓ || globenet ✓ ↠ globenet ✓
+╰─ 200.143.252.26  1916    56.634                   (Nova Iguaçu, RJ, BR, SA) mia2-mia1.bkb.rnp.br                                                                                
+   170.79.213.46   1916    120.661                       (None, None, BR, SA) *                                                                                                   
+   170.79.213.138  *       121.527   (Rio de Janeiro, Rio de Janeiro, BR, SA) cce1-cce2.bkb.rnp.br                                                                                
+   170.79.213.30   1916    134.674                       (None, None, BR, SA) *                                                                                                   
+   170.79.213.155  *       152.616                  (Salvador, Bahia, BR, SA) cmg1-cba1-100g-infobarra.bkb.rnp.br                                                                 
+   200.143.253.162 1916    316.549                  (Nova Iguaçu, RJ, BR, SA) lanmg-mg.bkb.rnp.br                                                                                 
+   200.131.0.133   1916    153.266                       (None, None, BR, SA) ptp-almeirao-couve.pop-mg.rnp.br                                                                    
+   200.131.0.143   1916    152.148                       (None, None, BR, SA) ptp-tropeiro-almeirao.pop-mg.rnp.br                                                                 
+   200.19.158.1    1916    152.605     (Belo Horizonte, Minas Gerais, BR, SA) ufmg-20g-1.pop-mg.rnp.br                                                                            
+   150.164.164.43  271354  152.36      (Belo Horizonte, Minas Gerais, BR, SA)                                                                                                     
+   150.164.164.133 271354  152.142                       (None, None, BR, SA) *                                                                                                   
+   150.164.164.2   271354  151.835                       (None, None, BR, SA) dcc-fw.rede.ufmg.br                                                                                 
+   150.164.1.130   271354  152.239                       (None, None, BR, SA) shivalegacy.dcc.ufmg.br                                                                             
+   150.164.1.222   271354  152.666     (Belo Horizonte, Minas Gerais, BR, SA) ripeatlas-anchor.dcc.ufmg.br                                                                        

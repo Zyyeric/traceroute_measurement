@@ -1,0 +1,10 @@
+   45.87.76.6      208725  0.0           (Brussels, Brussels Capital, BE, EU) ansible.devrandom.be                                                                                
+   45.87.79.251    208725  0.174         (Brussels, Brussels Capital, BE, EU) router01.sw1.core.devrandom.be                                                                      
+   45.87.79.249    208725  0.156         (Brussels, Brussels Capital, BE, EU) router03.core.devrandom.be                                                                          
+   185.1.127.13    13335   1.126                         (None, None, BE, EU) cloudflare.belgiumix.net                                                                            
+   162.158.232.189 13335   0.513         (Brussels, Brussels Capital, BE, EU)                                                                                                     
+   162.158.232.211 13335   0.618         (Brussels, Brussels Capital, BE, EU)                                                                                                     
+╭─ 162.158.232.214 13335   0.732         (Brussels, Brussels Capital, BE, EU)                                                                                                     
+S (13335, 141235)  seamewe-3 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 103.156.251.7   141235  178.176             (Singapore, Singapore, SG, AS)                                                                                                     

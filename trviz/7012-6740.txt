@@ -1,0 +1,12 @@
+   185.93.159.17   1850    0.0            (Reykjavík, Capital Region, IS, EU) ripe-atlas-anchor.isnic.is                                                                          
+   ***             *       -inf                                           *** *                                                                                                   
+   193.4.59.200    1850    0.605          (Reykjavík, Capital Region, IS, EU) xe-0-0-0-0.ht-gw01.isnic.is                                                                         
+   157.157.20.9    6677    0.736          (Reykjavík, Capital Region, IS, EU) ipnet-gw.157.157.20.9.simnet.is                                                                     
+╭─ 157.157.55.249  6677    35.448     (Hafnarfjörður, Capital Region, IS, EU) be201.am5.ams.nl.ip.siminn.is                                                                       
+S (6677, 13101)  
+├─ 80.249.209.119  13101   41.814                     (Amsterdam, NH, NL, EU) AMS-IX.tng.de                                                                                       
+T (13101)  
+╰─ 213.178.65.148  13101   41.878                       (Hamburg, HH, DE, EU) ham8.tng.de                                                                                         
+   213.178.65.155  13101   43.205          (Kiel, Schleswig-Holstein, DE, EU) kel2.tng.de                                                                                         
+   82.97.188.1     13101   43.278                        (None, None, DE, EU) rtr1.gallifrey.tng.de                                                                               
+   213.158.113.5   13101   43.54                   (Hamburg, Hamburg, DE, EU) ripe-anchor.gallifrey.tng.de                                                                        

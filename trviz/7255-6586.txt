@@ -1,0 +1,26 @@
+   37.10.41.14     202196  0.0                 (Singapore, Singapore, SG, AS)                                                                                                     
+   37.10.41.9      202196  0.513               (Singapore, Singapore, SG, AS)                                                                                                     
+   10.109.0.46     *       0.431                                          ***                                                                                                     
+   203.208.148.81  7473    1.216               (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 203.208.151.37  7473    1.815               (Singapore, Singapore, SG, AS)                                                                                                     
+S (7473)  
+├─ 203.208.151.122 7473    37.004              (Hong Kong, Hong Kong, HK, AS)                                                                                                     
+S (7473)  
+╰─ 203.208.151.93  7473    42.72                         (None, None, SG, AS) *                                                                                                   
+   203.208.178.17  7473    36.263                        (None, None, SG, AS) *                                                                                                   
+╭─ 203.208.154.14  7473    34.996                        (None, None, SG, AS) *                                                                                                   
+S (7473)  
+├─ 203.208.178.229 7473    37.203              (Hong Kong, Hong Kong, HK, AS)                                                                                                     
+S (7473, 2914)  
+├─ 129.250.5.134   2914    37.048                        (None, None, US, NA) ae-1.sayonara-dorian.a00.sttlwa01.us.bb.gin.ntt.net                                                 
+S (2914)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 129.250.5.238   2914    79.048              (Singapore, Singapore, SG, AS) ae-0.a03.sngpsi07.sg.bb.gin.ntt.net                                                                 
+   116.51.18.134   20473   73.328                   (Singapore, None, SG, AS) ae-0.constant-company.sngpsi07.sg.bb.gin.ntt.net                                                    
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 45.77.39.153    20473   73.71               (Singapore, Singapore, SG, AS) router01-vul-sin.as151332.net                                                                       
+S (20473, 7545)  
+╰─ 203.192.83.254  7545    162.801              (Melbourne, Victoria, AU, OC) ip-254-83-192-203.static.pipenetworks.com                                                           
+   103.179.37.157  151332  164.921              (Melbourne, Victoria, AU, OC)                                                                                                     

@@ -1,0 +1,18 @@
+   63.222.106.8    3491    0.0                         (Seoul, Seoul, KR, AS) 63-222-106-8.static.pccwglobal.net                                                                  
+╭─ 63.222.106.2    3491    0.638                (Yongsan-dong, Seoul, KR, AS) 63-222-106-2.static.pccwglobal.net                                                                  
+S (3491)  apcn-2 👍 || eac-c2c ✓ || flag-north-asia-loopreach-north-asia-loop 👍 || asia-pacific-gateway-apg ✓ || flag-europe-asia-fea ✓ || seamewe-3 👍
+╰─ 63.218.174.134  3491    38.093              (Hong Kong, Hong Kong, HK, AS) be42.br04.hkg12.as3491.net                                                                          
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 154.54.88.49    174     38.747                   (Hong Kong, None, HK, AS) be2414.ccr21.hkg02.atlas.cogentco.com                                                               
+S (174)  asia-africa-europe-1-aae-1 ✓ || seamewe-3 ✓
+╰─ 154.54.6.25     174     259.144                   (Marseille, PAC, FR, EU) be2900.ccr32.mrs02.atlas.cogentco.com                                                               
+╭─ 154.54.72.225   174     258.391                       (Paris, IDF, FR, EU) be2780.ccr42.par01.atlas.cogentco.com                                                               
+T (174)  
+╰─ 154.54.56.173   174     268.018                    (Amsterdam, NH, NL, EU) be12266.ccr42.ams03.atlas.cogentco.com                                                              
+╭─ 154.54.61.42    174     268.39                     (Amsterdam, NH, NL, EU) be2175.rcr21.b021535-1.ams03.atlas.cogentco.com                                                     
+S (174, 3216)  
+├─ 149.11.202.58   3216    300.976                       (None, None, US, NA) *                                                                                                   
+LHL (3216)  
+╰─ 79.104.246.167  3216    352.843                   (Kemerovo, None, RU, AS) pe02.kemerovo.gldn.net                                                                              
+   62.78.95.106    49673   350.537                       (None, None, RU, EU) host_62_78_95_106.milecom.ru                                                                        
+   94.247.111.19   49673   351.063   (Novosibirsk, Novosibirsk Oblast, RU, EU) ru-ovb-as49673.anchors.atlas.ripe.net                                                               

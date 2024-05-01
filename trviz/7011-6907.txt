@@ -1,0 +1,15 @@
+   103.153.176.122 131657  0.0                       (Taipei, Taiwan, TW, AS) 103-153-176-122.as131657.net                                                                        
+   103.153.176.254 131657  0.225                     (Taipei, Taiwan, TW, AS) 103-153-176-254.as131657.net                                                                        
+   103.51.91.5     *       0.459                     (Taipei, Taiwan, TW, AS) et-0-0-1.cr1.hd.tpe.as131657.net                                                                    
+╭─ 103.158.187.30  *       1.009                     (Taipei, Taiwan, TW, AS) as6939.ly.stuix.io                                                                                  
+S (, 6939)  seamewe-3 ✘ || apcn-2 ✘ || trans-pacific-express-tpe-cable-system ✘ || faster ✘ || eac-c2c ✘ || asia-pacific-gateway-apg ✘ || flag-north-asia-loopreach-north-asia-loop ✘ || new-cross-pacific-ncp-cable-system ✘
+╰─ 184.104.199.145 6939    27.801                      (Osaka, Ōsaka, JP, AS) port-channel6.core1.osa1.he.net                                                                     
+╭─ 184.104.188.97  6939    28.129                      (Osaka, Ōsaka, JP, AS) port-channel10.core2.osa1.he.net                                                                    
+S (6939)  tata-tgn-pacific ✓ || faster ✓ || japan-u-s-cable-network-jus ✓ || new-cross-pacific-ncp-cable-system ✓ || jupiter ✓ || trans-pacific-express-tpe-cable-system ✓ || unityeac-pacific ✓ || pacific-crossing-1-pc-1 ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.223.226 6939    130.907                      (Phoenix, AZ, US, NA) ve960.core2.phx2.he.net                                                                             
+   184.104.193.142 6939    154.881                     (Portland, OR, US, NA) 100ge15-2.core1.pdx1.he.net                                                                         
+   184.105.64.137  6939    155.219                      (Seattle, WA, US, NA) port-channel2.core2.sea1.he.net                                                                     
+   206.81.83.161   *       156.683              (Seattle, Washington, US, NA) v4-mtu9k-v218.cr01.sea02.us.misaka.io                                                               
+   170.39.227.9    35487   156.541                      (Seattle, WA, US, NA) po-09.lag.sea02.us.misaka.io                                                                        
+   170.39.227.194  917     156.633              (Seattle, Washington, US, NA) us-sea-as57695.anchors.atlas.ripe.net                                                               

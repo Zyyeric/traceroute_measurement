@@ -1,0 +1,12 @@
+   180.211.88.22   45725   0.0                     (Jakarta, Jakarta, ID, AS) id-jkt-as45725.anchors.atlas.ripe.net                                                               
+   180.211.88.21   45725   0.394                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+╭─ 43.230.153.89   *       0.497                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+S&T (, 6939)  australia-singapore-cable-asc ✘ || matrix-cable-system ✘ || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || indonesia-global-gateway-igg-system ✘ || seamewe-3 ✘ || indigo-west ✘ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || jasuka ✘ || jakabare ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├  10.110.1.0      *       12.763                                         ***                                                                                                     
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.223.133 6939    12.877              (Singapore, Singapore, SG, AS) port-channel22.core2.sin1.he.net                                                                    
+   184.104.213.222 3491    12.767                      (Singapore, 4, SG, AS) btn-asn-as3491.e0-48.core2.sin1.he.net                                                              
+╭─ 63.223.23.98    3491    90.801              (Singapore, Singapore, SG, AS) be42.br01.dub04.as3491.net                                                                          
+S (3491)  
+╰─ 63.222.248.5    3491    89.974                      (Dubai, Dubai, AE, AS)                                                                                                     

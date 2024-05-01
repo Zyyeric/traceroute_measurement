@@ -1,0 +1,19 @@
+   192.168.0.130   *       0.0                                            ***                                                                                                     
+   192.168.0.1     *       0.172                                          ***                                                                                                     
+   172.16.254.1    *       0.299                                          ***                                                                                                     
+   192.168.1.1     *       0.478                                          ***                                                                                                     
+   10.98.238.18    *       0.423 (4.227)                                     ***                                                                                                     
+   10.0.0.170      *       7.419                                          ***                                                                                                     
+   81.212.78.45    9121    5.186                     (Ankara, Ankara, TR, AS) 81.212.78.45.static.turktelekom.com.tr                                                              
+   81.212.216.50   9121    5.438              (Sultanbeyli, Istanbul, TR, AS) 34-acibadem-xrs-t2-1---34-acibadem-sr12e-t3-8.statik.turktelekom.com.tr                             
+   81.212.197.108  9121    5.209                 (Ataşehir, Istanbul, TR, AS) 34-ebgp-acibadem-sr12e-k---34-acibadem-xrs-t2-1.statik.turktelekom.com.tr                           
+╭─ 212.156.139.60  9121    19.218                      (Istanbul, 34, TR, AS) *                                                                                                   
+S&T (9121, 3356)  
+├─ 212.162.26.177  3356    19.17               (Bucharest, București, RO, EU) ae52.edge3.bucharest1.level3.net                                                                    
+T (3356, 50999)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 213.19.197.50   50999   118.858                      (Woking, ENG, GB, EU) *                                                                                                   
+S&T (50999)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 109.171.136.4   50999   122.18              (Jeddah, Mecca Region, SA, AS)                                                                                                     

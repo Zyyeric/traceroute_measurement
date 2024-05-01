@@ -1,0 +1,31 @@
+   77.223.128.226  43391   0.0                (İzmir, İzmir Province, TR, AS)                                                                                                     
+   10.200.0.1      *       0.258                                          ***                                                                                                     
+   10.20.0.250     *       1.014                                          ***                                                                                                     
+   10.34.35.10     *       14.834                                         ***                                                                                                     
+╭─ 185.1.48.16     *       15.913                (Ataşehir, Istanbul, TR, AS) ipv4.decix-istanbul.he.net                                                                          
+S&T (, 6939)  kafos ✘
+├─ 184.104.196.45  6939    24.174              (Sofia, Sofia-Capital, BG, EU) 100ge0-70.core3.sof1.he.net                                                                         
+LHL (6939)  atlantic-crossing-1-ac-1 ✓
+├─ 184.104.196.193 6939    43.343                        (Denver, CO, US, NA) 100ge2-1.core1.den1.he.net                                                                          
+LHL (6939)  apollo ✓ ↠ africa-coast-to-europe-ace ✓ || flag-atlantic-1-fa-1 ✓ ↠ africa-coast-to-europe-ace ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.188.210 6939    184.356          (Cape Town, Western Cape, ZA, AF) 100ge0-33.core1.cpt1.he.net                                                                         
+S&T (6939)  west-africa-cable-system-wacs ✓ || sat-3wasc ✓ || africa-coast-to-europe-ace ✓
+╰─ 184.104.188.94  6939    239.409                     (Lagos, Lagos, NG, AF) 10ge0-20.core1.los1.he.net                                                                          
+╭─ 216.66.89.5     6939    238.615                     (Lagos, Lagos, NG, AF) virtual-technologies-and-solutions.e0-7.core1.los1.he.net                                           
+S&T (6939, 37721)  
+├─ 102.67.97.86    37721   238.67                         (Accra, AA, GH, AF) et-0-0-0-2009.bb2.acc1.vts.bf                                                                       
+S&T (37721)  
+├─ 102.67.97.222   37721   239.244                     (Lagos, Lagos, NG, AF) po29-2029.bb2.los1.vts.bf                                                                           
+LHL (37721)  
+╰─ 102.67.97.224   37721   247.259              (Ouagadougou, Centre, BF, AF) ce1-2030.bb2.acc1.vts.bf                                                                            
+╭─ 102.67.96.47    37721   260.522              (Ouagadougou, Centre, BF, AF) po32-2032.bb2.dak1.vts.bf                                                                           
+LHL (37721)  
+├─ 102.67.96.38    37721   261.645                      (Ashburn, VA, US, NA) xe-0-0-1-513.br2.ash1.vts.bf                                                                        
+LHL (37721)  
+├─ 102.67.97.146   37721   262.666             (Accra, Greater Accra, GH, AF) ce0-255.pe3.oua1.vts.bf                                                                             
+T (37721)  
+╰─ 165.16.221.42   37721   264.411                       (None, None, BF, AF) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   197.239.73.59   37577   261.634              (Ouagadougou, Centre, BF, AF)                                                                                                     

@@ -1,0 +1,19 @@
+   92.38.135.131   202422  0.0                         (Seoul, Seoul, KR, AS)                                                                                                     
+   92.38.135.2     202422  0.194                       (Seoul, Seoul, KR, AS) vrrp.gcore.lu                                                                                       
+   10.255.17.210   *       0.18                                           ***                                                                                                     
+   10.255.17.213   *       0.246                                          ***                                                                                                     
+   10.255.17.146   *       0.353                                          ***                                                                                                     
+╭─ 8.244.74.29     3356    0.312 (0.808)                  (Seoul, Seoul, KR, AS)                                                                                                     
+S (3356)  apcn-2 ✓ || asia-pacific-gateway-apg ✓ || flag-north-asia-loopreach-north-asia-loop ✓ || eac-c2c © || new-cross-pacific-ncp-cable-system ✓ || korea-japan-cable-network-kjcn ✓ || flag-europe-asia-fea © || trans-pacific-express-tpe-cable-system ✓
+╰─ 4.69.217.14     3356    31.361                         (Tokyo, 13, JP, AS) ae1.3505.edge2.Tokyo4.level3.net                                                                    
+╭─ 4.68.75.130     2914    30.931                         (Tokyo, 13, JP, AS) NTT-level3-Tokyo4.Level3.net                                                                        
+S (2914)  japan-u-s-cable-network-jus 👍
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 129.250.5.133   2914    102.884                       (None, None, US, NA) ae-14.sayonara-dorian.r25.sttlwa01.us.bb.gin.ntt.net                                                
+S (2914, 60068)  
+╰─ 203.131.242.154 60068   58.242                        (None, None, HK, AS) *                                                                                                   
+   45.11.107.234   969     58.18               (Hong Kong, Hong Kong, HK, AS) p77-6.cr1a.eqhk2.hkg12.hk.917.as                                                                    
+   199.119.64.151  969     58.113              (Hong Kong, Hong Kong, HK, AS) po103-10.spine3.hkg12.hk.misaka.io                                                                  
+   45.11.104.9     57695   58.011              (Hong Kong, Hong Kong, HK, AS) po30.0103.hkg12.hk.misaka.io                                                                        
+   45.11.104.146   57695   58.199              (Hong Kong, Hong Kong, HK, AS) hk-hkg-as57695.anchors.atlas.ripe.net                                                               

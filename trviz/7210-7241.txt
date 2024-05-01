@@ -1,0 +1,16 @@
+   182.18.209.9    23944   0.0                 (Manila, Metro Manila, PH, AS)                                                                                                     
+╭─ 182.18.209.1    23944   0.825          (Quezon City, Metro Manila, PH, AS) 209-182.gw.skybroadband.com.ph                                                                      
+S (23944, 6939)  eac-c2c ✓ || seamewe-3 ✓ || southeast-asia-japan-cable-sjc ✓ || tata-tgn-intra-asia-tgn-ia ✓ || asia-america-gateway-aag-cable-system ✓
+├  172.31.31.6     *       0.43                                           ***                                                                                                     
+├─ 184.104.212.73  6939    18.243              (Hong Kong, Hong Kong, HK, AS) e0-20.switch1.hkg1.he.net                                                                           
+S (6939)  apcn-2 ✓ || southeast-asia-japan-cable-sjc ✓ || seamewe-3 ✓ || eac-c2c ✓ || asia-pacific-gateway-apg ✓ || asia-submarine-cable-express-asecahaya-malaysia ✓ || asia-america-gateway-aag-cable-system ✓
+├─ 184.104.199.182 6939    54.294              (Singapore, Singapore, SG, AS) port-channel3.core3.sin1.he.net                                                                     
+LHL (6939)  seamewe-5 ✓ || seamewe-4 ✓ || peace-cable ✘ || seamewe-3 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.65.246  6939    249.346                        (Dublin, D, IE, EU) 100ge0-32.core2.dub1.he.net                                                                         
+   185.6.36.106    47720   203.455                      (Dublin, L, IE, None) inex-dub1.as47720.net                                                                               
+   91.103.0.196    47720   216.706                          (Cork, M, IE, EU) *                                                                                                   
+   91.103.0.99     42953   217.586                          (Cork, M, IE, EU) *                                                                                                   
+   185.6.39.132    42953   227.762                    (Cork, Munster, IE, EU)                                                                                                     

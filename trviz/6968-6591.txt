@@ -1,0 +1,26 @@
+   172.17.48.40    *       0.0                                            ***                                                                                                     
+   172.17.48.254   *       0.401                                          ***                                                                                                     
+   172.22.8.12     *       1.077                                          ***                                                                                                     
+   172.22.6.7      *       1.184                                          ***                                                                                                     
+   172.25.0.197    *       1.363                                          ***                                                                                                     
+   172.16.86.37    *       4.342                                          ***                                                                                                     
+   172.16.5.233    *       4.257                                          ***                                                                                                     
+   172.16.2.138    *       4.703                                          ***                                                                                                     
+╭─ 195.219.87.198  6453    117.206         (Frankfurt am Main, Hesse, DE, EU) ix-et-4-0-5-0.tcore2.fnm-frankfurt.as6453.net                                                       
+T (6453)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 195.219.194.6   6453    122.815                    (Amsterdam, NH, NL, EU) if-ae-2-2.tcore2.av2-amsterdam.as6453.net                                                           
+S&T (6453)  
+├─ 80.231.131.160  6453    122.387                     (London, None, GB, EU) if-ae-14-2.tcore2.l78-london.as6453.net                                                             
+S (6453, 4755)  
+├─ 80.231.131.82   4755    246.316                       (None, None, CA, NA) *                                                                                                   
+LHL (4755)  
+├  172.21.59.193   *       264.014                                        ***                                                                                                     
+╰─ 14.143.245.182  4755    221.089             (Bengaluru, Karnataka, IN, AS) 14.143.245.182.static-banglore.vsnl.net.in                                                          
+   143.244.225.127 *       229.716             (Bengaluru, Karnataka, IN, AS)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   159.65.150.114  14061   220.394        (Doddaballapura, Karnataka, IN, AS) in-blr-as14061.anchors.atlas.ripe.net                                                               

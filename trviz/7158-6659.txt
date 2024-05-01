@@ -1,0 +1,14 @@
+   5.188.238.222   202422  0.0                 (São Paulo, São Paulo, BR, SA)                                                                                                     
+   5.188.238.3     202422  0.202               (São Paulo, São Paulo, BR, SA) vrrp.gcore.lu                                                                                       
+   10.255.22.182   *       0.161                                          ***                                                                                                     
+   10.255.22.187   *       0.506                                          ***                                                                                                     
+╭─ 8.243.60.29     199524  0.819                       (Campinas, SP, BR, SA) *                                                                                                   
+S (199524, 1299)  south-america-1-sam-1 ✓ || monet ✓ || seabras-1 ✓ || america-movil-submarine-cable-system-1-amx-1 ✓ || brusa ✓ || globenet ✓ || americas-ii ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 62.115.119.230  1299    125.219                (Ashburn, Virginia, US, NA) rest-bb1-link.ip.twelve99.net                                                                       
+   62.115.126.71   1299    128.009               (Richmond, Virginia, US, NA) rich-b1-link.ip.twelve99.net                                                                        
+   62.115.161.83   1299    123.861                (Ashburn, Virginia, US, NA) qualitytech-ic-355834.ip.twelve99-cust.net                                                          
+   209.10.65.63    53907   123.319             (Glen Allen, Virginia, US, NA)                                                                                                     
+   209.10.80.169   53907   123.241             (Glen Allen, Virginia, US, NA)                                                                                                     
+   23.152.192.245  53698   128.357               (Richmond, Virginia, US, NA) us-rcd-as53698-client.anchors.atlas.ripe.net                                                        

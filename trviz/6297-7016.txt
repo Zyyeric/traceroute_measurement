@@ -1,0 +1,28 @@
+   103.160.63.222  140443  0.0                     (Jakarta, Jakarta, ID, AS) 222.63.160.103.in-addr.herza.id                                                                     
+╭─ 103.160.63.129  140443  0.203                   (Jakarta, Jakarta, ID, AS) 129.63.160.103.in-addr.herza.id                                                                     
+S&T (140443, 174)  australia-singapore-cable-asc ✓ || matrix-cable-system ✘ || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || indonesia-global-gateway-igg-system ✓ || seamewe-3 ✓ || indigo-west ✘ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || jasuka ✓ || jakabare ✘
+├  10.111.220.46   *       0.455                                          ***                                                                                                     
+├  10.111.220.6    *       12.281                                         ***                                                                                                     
+├  10.111.222.209  *       12.332                                         ***                                                                                                     
+├─ 154.18.19.209   174     12.844              (Singapore, Singapore, SG, AS) te0-8-0-2-7.201.ccr31.sin01.atlas.cogentco.com                                                      
+S (174)  seamewe-5 ✓ || seamewe-4 ✓ || peace-cable ✘
+├─ 154.54.87.214   174     171.136                   (Marseille, PAC, FR, EU) be2919.ccr32.mrs02.atlas.cogentco.com                                                               
+S&T (174)  
+├─ 154.54.74.178   174     173.873                        (Milan, 25, IT, EU) be2865.rcr21.mil01.atlas.cogentco.com                                                               
+T (174)  
+├─ 154.54.63.221   174     168.529                  (Munich, Bavaria, DE, EU) be3814.ccr22.muc03.atlas.cogentco.com                                                               
+T (174)  
+├─ 154.54.59.181   174     182.354                        (Vienna, 9, AT, EU) be3462.ccr52.vie01.atlas.cogentco.com                                                               
+LHL (174)  
+├─ 130.117.50.82   174     182.704                        (Dublin, D, IE, EU) be2209.rcr11.b022738-0.dub01.atlas.cogentco.com                                                     
+LHL (174)  
+├─ 149.6.175.250   174     199.803        (Le Pre-Saint-Gervais, IDF, FR, EU) *                                                                                                   
+S (174, 20965)  geo-eirgrid ✘ ↠ seamewe-3 ✓ || exa-north-and-south © ↠ seamewe-3 ✓ || havhingstenceltixconnect-2-cc-2 © ↠ seamewe-3 ✓ || esat-2 ✘ ↠ seamewe-3 ✓ || rockabill ✘ ↠ seamewe-3 ✓ || sirius-south ✘ ↠ seamewe-3 ✓ || exa-express © ↠ seamewe-3 ✓ || pan-european-crossing-uk-ireland ✓ ↠ seamewe-3 ✓ || esat-1 ✘ ↠ seamewe-3 ✓ || solas © ↠ seamewe-3 ✓
+╰─ 62.40.98.146    20965   207.52                        (Athens, A1, GR, EU) ae1.mx1.ath2.gr.geant.net                                                                           
+   83.97.88.66     5408    214.742                       (Athens, A1, GR, EU) grnet-ias-grnet-gw.mx1.ath2.gr.geant.net                                                            
+╭─ 62.217.100.63   5408    207.232                       (None, None, GR, EU) eier-kolettir-AE.backbone.grnet.gr                                                                  
+LHL (5408, 8522)  
+├─ 62.217.98.49    8522    214.248                   (Hannover, None, DE, EU) forth-her-4.eier.access-link.grnet.gr                                                               
+T (8522)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 139.91.68.3     8522    215.031                 (Irákleion, Crete, GR, EU)                                                                                                     

@@ -1,0 +1,20 @@
+   170.81.100.114  266413  0.0                      (Camaçari, Bahia, BR, SA) 170.81.100.114.vivatecnologia.com.br                                                                
+╭─ 170.81.100.97   266413  0.655                    (Camaçari, Bahia, BR, SA) rt001-are-ba.vivatecnologia.com.br                                                                  
+S (266413, 6939)  
+├  10.200.0.2      *       0.87                                           ***                                                                                                     
+╰─ 184.104.198.242 6939    51.162          (Virginia Beach, Virginia, US, NA) port-channel1.core1.for1.he.net                                                                     
+╭─ 184.104.199.177 6939    126.631                   (Miami, Florida, US, NA) 100ge0-53.core2.mia1.he.net                                                                         
+LHL (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.222.68  6939    206.208                   (Lisbon, Lisbon, PT, EU) port-channel9.core1.lis1.he.net                                                                     
+╭─ 184.104.224.178 37613   205.381                       (Lisbon, 11, PT, EU) etg-is-nigeria.e0-21.switch1.lis1.he.net                                                            
+S&T (37613)  
+╰─ 169.239.188.16  37613   274.513                     (Lagos, Lagos, NG, AF)                                                                                                     
+╭─ 196.216.148.158 *       292.798                     (Lagos, Lagos, NG, AF)                                                                                                     
+S&T (, 37727)  
+╰─ 154.65.16.37    37727   292.783             (Accra, Greater Accra, GH, AF)                                                                                                     
+   154.65.18.77    37727   293.607             (Accra, Greater Accra, GH, AF)                                                                                                     
+   154.65.16.114   37727   293.417             (Accra, Greater Accra, GH, AF)                                                                                                     
+   196.201.2.126   30997   361.228                       (Accra, 1, GH, None) *                                                                                                   
+   196.49.14.25    30997   361.08              (Accra, Greater Accra, GH, AF)                                                                                                     

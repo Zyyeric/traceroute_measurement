@@ -1,0 +1,17 @@
+   27.131.108.126  38880   0.0                  (Melbourne, Victoria, AU, OC)                                                                                                     
+   27.131.108.97   38880   0.602                (Melbourne, Victoria, AU, OC)                                                                                                     
+   192.168.164.2   *       0.72                                           ***                                                                                                     
+   192.168.248.5   *       0.987                                          ***                                                                                                     
+   192.168.247.78  *       1.746                                          ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   45.127.173.24   6939    12.058                       (Sydney, NSW, AU, OC) 6939.syd.equinix.com                                                                                
+╭─ 184.105.65.223  6939    58.327          (Perth, Western Australia, AU, OC) 100ge0-32.core1.per1.he.net                                                                         
+S (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 74.82.49.214    6939    92.661              (Singapore, Singapore, SG, AS) pt-jala-lintas-media.e0-3.switch5.sin1.he.net                                                       
+S&T (6939, 133840)  
+╰─ 103.66.70.104   133840  106.837                 (Jakarta, Jakarta, ID, AS)                                                                                                     
+   121.100.0.45    38158   106.399                 (Jakarta, Jakarta, ID, AS)                                                                                                     
+   43.230.152.226  *       106.281                 (Jakarta, Jakarta, ID, AS) global-in.kings.id                                                                                  
+   ***             *       -inf                                           *** *                                                                                                   
+   180.211.88.22   45725   105.08                  (Jakarta, Jakarta, ID, AS) id-jkt-as45725.anchors.atlas.ripe.net                                                               

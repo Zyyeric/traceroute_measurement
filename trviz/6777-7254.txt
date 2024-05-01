@@ -1,0 +1,11 @@
+   103.170.154.254 142594  0.0                      (London, England, GB, EU) 254.154.170.103.speedyvps.uk                                                                        
+╭─ 103.170.154.1   142594  0.225                    (London, England, GB, EU)                                                                                                     
+T (142594, 60068)  
+├─ 156.146.32.94   60068   0.288                     (Prague, Prague, CZ, EU) unn-156-146-32-94.cdn77.com                                                                         
+T (60068, 34962)  
+╰─ 185.229.188.178 34962   0.25                         (London, ENG, GB, EU) vl250.lon-tel-core-1.cdn77.com                                                                      
+╭─ 63.218.207.217  3491    0.5                      (London, England, GB, EU) hu0-0-0-24.br02.ldn03.as3491.net                                                                    
+LHL (3491)  europe-india-gateway-eig ✓ ↠ seacomtata-tgn-eurasia ✓ || seamewe-3 👍 ↠ seacomtata-tgn-eurasia ✓ || flag-europe-asia-fea ✓ ↠ seacomtata-tgn-eurasia ✓
+├─ 63.223.6.46     3491    162.579                      (Maputo, MPM, MZ, AF) be42.br01.mpm02.pccwbtn.net                                                                         
+S (3491)  
+╰─ 41.221.208.94   3491    161.189            (Johannesburg, Gauteng, ZA, AF) 41-221-208-94.static.pccwglobal.net                                                                 

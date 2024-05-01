@@ -1,0 +1,14 @@
+   114.31.201.91   4826    0.0              (Sydney, New South Wales, AU, OC) 91.201.31.114.core.vocus.network                                                                    
+   114.31.201.90   4826    0.612            (Sydney, New South Wales, AU, OC) 90.201.31.114.core.vocus.network                                                                    
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   103.1.76.147    4826    92.795                        (None, None, AU, OC) be803.lsr01.prth.wa.vocus.network                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 114.31.206.75   4826    91.892                         (Perth, WA, AU, OC) be203.bdr02.sin01.sin.vocus.network                                                                 
+S (4826, 63949)  
+├─ 27.111.228.235  63949   93.094                    (Seogwipo, None, KR, AS) 63949.sgw.equinix.com                                                                               
+S (63949)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 139.162.3.33    63949   92.708              (Singapore, Singapore, SG, AS) li845-33.members.linode.com                                                                         

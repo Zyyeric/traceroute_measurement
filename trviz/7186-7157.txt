@@ -1,0 +1,16 @@
+   23.174.128.243  53698   0.0               (Sacramento, California, US, NA) us-sac-as53698.anchors.atlas.ripe.net                                                               
+   23.174.128.17   53698   0.427             (Sacramento, California, US, NA) vlan3-gateway.qts.smf.nix-ops.net                                                                   
+   206.71.13.13    *       1.278             (Sacramento, California, US, NA)                                                                                                     
+   4.14.111.245    3356    5.689          (San Francisco, California, US, NA) xe-9-2-2.bar1.sanfrancisco1.level3.net                                                              
+   4.69.219.65     3356    4.413                         (None, None, US, NA) *                                                                                                   
+   63.217.21.69    3491    5.208                    (San Joaquin, CA, US, NA) 63-217-21-69.static.pccwglobal.net                                                                  
+   63.218.218.74   3491    68.595                 (Ashburn, Virginia, US, NA) bundle-ether41.br04.ash02.as3491.net                                                                
+╭─ 63.222.112.207  3491    68.874                  (Reston, Virginia, US, NA)                                                                                                     
+LHL (3491, 13238)  apollo ✓ || flag-atlantic-1-fa-1 ✓
+├─ 93.158.160.4    13238   154.441         (Frankfurt am Main, Hesse, DE, EU) fra1-b1-fti2.yndx.net                                                                               
+T (13238)  
+├─ 213.180.213.96  13238   149.508                       (None, None, RU, EU) ams1-b1-et-9-3-0.yndx.net                                                                           
+LHL (13238)  
+╰─ 93.158.160.15   13238   271.427             (Singapore, Singapore, SG, AS) sin-b1-fti0.yndx.net                                                                                
+   ***             *       -inf                                           *** *                                                                                                   
+   45.87.135.252   208398  263.211             (Singapore, Singapore, SG, AS)                                                                                                     

@@ -1,0 +1,29 @@
+   102.222.106.178 328699  0.0               (Port Louis, Port Louis, MU, AF)                                                                                                     
+   102.222.106.1   328699  0.122             (Ebene, Plaines Wilhems, MU, AF)                                                                                                     
+╭─ 196.46.49.33    36868   0.278             (Ebene, Plaines Wilhems, MU, AF)                                                                                                     
+S (36868, 6939)  meltingpot-indianoceanic-submarine-system-metiss ✘ || safe ✓
+╰─ 196.46.34.109   6939    43.783                  (Johannesburg, GT, ZA, AF) *                                                                                                   
+╭─ 196.60.8.42     6939    44.27                  (Johannesburg, 6, ZA, None) he.ixp.joburg                                                                                       
+S&T (6939)  west-africa-cable-system-wacs ✓ || sat-3wasc ✓ || africa-coast-to-europe-ace ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.193.149 6939    182.283                        (Madrid, M, ES, EU) ve960.core1.mad1.he.net                                                                             
+╭─ 213.155.141.53  1299    204.479                   (Madrid, Madrid, ES, EU) mad-b3-link.ip.twelve99.net                                                                         
+S&T (1299)  
+├─ 62.115.123.220  1299    205.866             (Paris, Île-de-France, FR, EU) prs-bb2-link.ip.twelve99.net                                                                        
+T (1299)  
+╰─ 62.115.137.4    1299    214.974         (Amsterdam, North Holland, NL, EU) adm-bb2-link.ip.twelve99.net                                                                        
+   62.115.120.229  1299    213.198         (Amsterdam, North Holland, NL, EU) adm-b10-link.ip.twelve99.net                                                                        
+   62.115.44.49    1299    212.756         (Amsterdam, North Holland, NL, EU) tata-ic-380281.ip.twelve99-cust.net                                                                 
+╭─ 195.219.194.26  6453    350.246                    (Amsterdam, NH, NL, EU) if-ae-41-2.tcore1.av2-amsterdam.as6453.net                                                          
+T (6453)  
+├─ 195.219.194.150 6453    341.353            (Frankfurt am Main, HE, DE, EU) if-ae-6-2.tcore1.fnm-frankfurt.as6453.net                                                           
+T (6453)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 80.231.165.24   6453    342.095   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) if-bundle-2-2.qcore1.emrs2-marseille.as6453.net                                                     
+S (6453)  
+├─ 195.219.174.17  6453    367.874              (Mumbai, Maharashtra, IN, AS) if-ae-6-2.tcore1.mlv-mumbai.as6453.net                                                              
+S (6453, 58717)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 103.15.246.16   58717   341.61                      (Dhaka, Dhaka, BD, AS)                                                                                                     

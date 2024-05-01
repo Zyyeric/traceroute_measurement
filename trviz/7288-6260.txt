@@ -1,0 +1,37 @@
+   185.39.208.23   199993  0.0                       (Lisbon, Lisbon, PT, EU) atlasancora01.wan.dns.pt                                                                            
+   185.39.208.60   199993  0.391                     (Lisbon, Lisbon, PT, EU)                                                                                                     
+   194.210.4.137   1930    0.908                     (Lisbon, Lisbon, PT, EU) router63.lisboa.fccn.pt                                                                             
+   194.210.6.112   1930    1.044                     (Lisbon, Lisbon, PT, EU) router30.lisboa.fccn.pt                                                                             
+   194.210.6.103   1930    0.994                     (Lisbon, Lisbon, PT, EU) router3.lisboa.fccn.pt                                                                              
+   194.210.6.102   1930    8.856                         (Lisbon, 11, PT, EU) Router30.Lisboa.fccn.pt                                                                             
+   193.136.1.9     1930    6.736                       (Porto, Porto, PT, EU) router20.porto.fccn.pt                                                                              
+   194.210.7.103   1930    6.967                          (Porto, 13, PT, EU) Router2.Porto.fccn.pt                                                                               
+╭─ 83.97.88.44     21320   6.609                     (Lisbon, Lisbon, PT, EU) fccn-ias-geant-gw.rt1.por.pt.geant.net                                                              
+S&T (21320, 20965)  west-africa-cable-system-wacs ✓ || africa-coast-to-europe-ace ✓ || tata-tgn-western-europe ✘ || sat-3wasc ✓ || seamewe-3 ✓
+├─ 62.40.98.220    20965   44.932                      (Bilbao, None, ES, EU) ae2.rt1.bil.es.geant.net                                                                            
+S&T (20965)  
+├─ 62.40.98.223    20965   45.05                         (Paris, IDF, FR, EU) ae4.mx1.par.fr.geant.net                                                                            
+T (20965)  
+╰─ 62.40.98.238    20965   47.134                    (Genève, Geneva, CH, EU) ae7.mx1.gen.ch.geant.net                                                                            
+╭─ 62.40.98.182    20965   46.932                      (Geneva, None, CH, EU) ae5.mx1.gen.ch.geant.net                                                                            
+T (20965, 174)  
+╰─ 149.29.9.9      174     44.963             (Frankfurt am Main, HE, DE, EU) be5583.agr41.fra03.atlas.cogentco.com                                                               
+╭─ 130.117.1.118   174     44.85              (Frankfurt am Main, HE, DE, EU) be3187.ccr42.fra03.atlas.cogentco.com                                                               
+T (174)  
+├─ 154.54.58.238   174     54.176                        (Paris, IDF, FR, EU) be2800.ccr42.par01.atlas.cogentco.com                                                               
+S (174)  
+╰─ 154.54.89.225   174     129.967                (Ashburn, Virginia, US, NA) be3111.ccr42.dca01.atlas.cogentco.com                                                               
+   154.54.24.222   174     146.352                      (Atlanta, GA, US, NA) be2113.ccr42.atl01.atlas.cogentco.com                                                               
+   154.54.28.130   174     160.103                      (Houston, TX, US, NA) be2690.ccr42.iah01.atlas.cogentco.com                                                               
+   154.54.2.6      174     176.55                       (Chicago, IL, US, NA) te0-0-2-0.agr12.ord03.atlas.cogentco.com                                                            
+   154.54.26.53    174     187.102                 (Phoenix, Arizona, US, NA) be3872.ccr32.phx01.atlas.cogentco.com                                                               
+   154.54.45.162   174     198.812                  (Los Angeles, CA, US, NA) be2932.ccr42.lax01.atlas.cogentco.com                                                               
+   154.54.3.70     174     197.058                  (Los Angeles, CA, US, NA) be3359.ccr41.lax05.atlas.cogentco.com                                                               
+   38.19.140.10    7713    288.365                  (Los Angeles, CA, US, NA) *                                                                                                   
+╭─ 180.240.192.226 7713    285.507                     (New York, NY, US, NA) *                                                                                                   
+S (7713)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 36.64.254.21    7713    298.016       (Gubengairlangga, East Java, ID, AS)                                                                                                     
+   36.64.254.22    7713    295.625                   (Denpasar, Bali, ID, AS)                                                                                                     
+   103.215.228.2   140443  301.39               (Surabaya, East Java, ID, AS) 2.228.215.103.in-addr.herza.id                                                                      
+   103.215.229.229 140443  297.932              (Surabaya, East Java, ID, AS) 229.229.215.103.in-addr.herza.id                                                                    

@@ -1,0 +1,12 @@
+   195.66.241.220  5459    0.0                      (London, England, GB, EU) ripe-anchor.linx.net                                                                                
+   195.66.241.219  5459    0.405                    (Poplar, England, GB, EU) hsrp1.tr1-tr6.linx.net                                                                              
+   195.66.248.34   5459    0.994                    (Poplar, England, GB, EU) gxn-transit.thn.linx.net                                                                            
+   62.72.142.238   5413    0.424                    (Poplar, England, GB, EU)                                                                                                     
+   195.66.224.66   8426    0.686                      (London, ENG, GB, None) ten0-1-1-2-t40-mse1.router.uk.clara.net                                                             
+   195.157.3.17    8426    1.286                         (None, None, GB, EU) be1-t6-mse1.router.uk.clara.net                                                                     
+   195.157.3.162   8426    2.246                         (None, None, GB, EU) be4-gs2-mse2.router.uk.clara.net                                                                    
+╭─ 195.157.3.145   8426    2.238                         (None, None, GB, EU) be2-ld5-mse1.router.uk.clara.net                                                                    
+S&T (8426)  seamewe-3 ✓
+╰─ 195.8.68.150    8426    9.097                         (None, None, FR, EU) tengige0-0-0-5-sd-mse2.router.fr.clara.net                                                          
+   212.43.193.149  8426    9.483                         (None, None, FR, EU) sd-ar11-te-0-0-2-1.router.fr.clara.net                                                              
+   89.185.60.124   8426    8.895               (Paris, Île-de-France, FR, EU) unused-89-185-60-124.fr.clara.net                                                                   

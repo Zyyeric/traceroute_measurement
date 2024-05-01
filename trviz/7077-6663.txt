@@ -1,0 +1,24 @@
+   92.223.93.208   202422  0.0                      (Milan, Lombardy, IT, EU)                                                                                                     
+   92.223.93.195   202422  0.298                    (Milan, Lombardy, IT, EU) vrrp.gcore.lu                                                                                       
+   45.82.101.3     199524  0.261                    (Milan, Lombardy, IT, EU)                                                                                                     
+   10.255.169.178  *       0.386                                          ***                                                                                                     
+   149.14.135.249  174     0.779                    (Milan, Lombardy, IT, EU) hu0-1-0-0.nr51.b026361-0.mil01.atlas.cogentco.com                                                   
+╭─ 154.25.12.145   174     0.644 (1.409)               (Milan, Lombardy, IT, EU) be2218.rcr21.mil01.atlas.cogentco.com                                                               
+T (174)  
+╰─ 154.54.63.217   174     10.939                   (Munich, Bavaria, DE, EU) be3813.ccr21.muc03.atlas.cogentco.com                                                               
+   154.54.36.53    174     15.132             (Frankfurt am Main, HE, DE, EU) be2959.ccr41.fra03.atlas.cogentco.com                                                               
+   130.117.15.114  6453    15.374             (Frankfurt am Main, HE, DE, EU) tata.fra03.atlas.cogentco.com                                                                       
+╭─ 80.231.65.20    6453    23.138             (Frankfurt am Main, HE, DE, EU) if-ae-25-2.tcore2.fr0-frankfurt.as6453.net                                                          
+T (6453)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 195.219.194.149 6453    25.774                     (Amsterdam, NH, NL, EU) if-ae-6-2.tcore1.av2-amsterdam.as6453.net                                                           
+╭─ 195.219.194.6   6453    22.294                     (Amsterdam, NH, NL, EU) if-ae-2-2.tcore2.av2-amsterdam.as6453.net                                                           
+S&T (6453)  
+├─ 80.231.131.160  6453    25.563                      (London, None, GB, EU) if-ae-14-2.tcore2.l78-london.as6453.net                                                             
+S (6453)  
+╰─ 80.231.131.66   6453    144.312                       (Mumbai, MH, IN, AS) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   115.114.12.186  4755    163.907                     (Delhi, Delhi, IN, AS) 115.114.12.186.static-delhi.vsnl.net.in                                                             
+   180.179.197.202 17439   162.543                       (None, None, IN, AS) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   216.48.178.84   132420  164.559             (Noida, Uttar Pradesh, IN, AS) e2e-95-84.ssdcloudindia.net                                                                         

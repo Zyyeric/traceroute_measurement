@@ -1,0 +1,14 @@
+   114.31.201.91   4826    0.0              (Sydney, New South Wales, AU, OC) 91.201.31.114.core.vocus.network                                                                    
+   114.31.201.90   4826    0.793            (Sydney, New South Wales, AU, OC) 90.201.31.114.core.vocus.network                                                                    
+   114.31.192.104  4826    0.689            (Sydney, New South Wales, AU, OC) be157.cor03.syd14.nsw.vocus.network                                                                 
+╭─ 114.31.192.79   4826    1.046            (Sydney, New South Wales, AU, OC) be2.bdr04.syd03.nsw.vocus.network                                                                   
+S (4826, 396998)  seamewe-3 👍 || indigo-west ✓ || australia-singapore-cable-asc 👍
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 23.183.246.250  396998  167.804             (Singapore, Singapore, SG, AS)                                                                                                     
+S&T (396998, 140443)  australia-singapore-cable-asc ✓ || indigo-west ✓ || indonesia-global-gateway-igg-system ✓ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || seamewe-3 ✓ || matrix-cable-system ✓ || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || jasuka ✓ || jakabare ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 103.160.63.222  140443  180.46                  (Jakarta, Jakarta, ID, AS) 222.63.160.103.in-addr.herza.id                                                                     

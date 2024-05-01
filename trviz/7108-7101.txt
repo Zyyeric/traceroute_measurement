@@ -1,0 +1,27 @@
+   143.129.80.132  2611    0.0                  (Antwerpen, Flanders, BE, EU)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   143.129.67.252  2611    1.248                  (Berchem, Flanders, BE, EU)                                                                                                     
+   192.168.141.40  *       2.151                                          ***                                                                                                     
+   192.168.148.101 *       2.336                                          ***                                                                                                     
+   193.191.18.9    2611    2.043                  (Berchem, Flanders, BE, EU) r1.antwil.belnet.net                                                                                
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 62.40.127.134   20965   3.145           (Steenokkerzeel, Flanders, BE, EU) belnet-gw.mx1.ams.nl.geant.net                                                                      
+T (20965)  
+├─ 62.40.98.80     20965   11.713                      (Geneva, None, CH, EU) ae6.mx1.gen.ch.geant.net                                                                            
+LHL (20965)  
+├─ 62.40.98.6      20965   6.799           (Amsterdam, North Holland, NL, EU) ae0.0_rt1.ams.nl.geant.net                                                                          
+S&T (20965)  ulysses-2 ✘ || zeus ✘ || circe-north ✘ || scylla ✘ || concerto ✘ || farland-north ✘
+├─ 62.40.98.23     20965   11.158                   (London, England, GB, EU) ae4.mx1.lon.uk.geant.net                                                                            
+S (20965, 24490)  
+├─ 202.179.249.33  24490   175.234                       (None, None, CN, AS) *                                                                                                   
+S (24490, 23855)  
+╰─ 203.30.38.92    23855   175.794                     (Singapore, 4, SG, AS) et-6-2-3160-geant-soe1.singaren.net.sg                                                              
+╭─ 203.30.38.111   134148  175.93                        (None, None, SG, AS) 980-soe2-soe1.singaren.net.sg                                                                       
+S (134148, 141682)  
+╰─ 103.161.244.242 141682  262.48                      (Tokyo, Tokyo, JP, AS)                                                                                                     
+   103.161.244.43  141682  314.912                     (Tokyo, Tokyo, JP, AS)                                                                                                     
+╭─ 103.161.244.202 141682  315.153                     (Tokyo, Tokyo, JP, AS)                                                                                                     
+S (141682, )  
+╰─ 103.78.235.0    *       326.636                 (Jakarta, Jakarta, ID, AS)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   103.23.232.7    58475   343.876    (Banjarmasin, South Kalimantan, ID, AS)                                                                                                     

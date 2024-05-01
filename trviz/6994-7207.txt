@@ -1,0 +1,18 @@
+   102.222.106.178 328699  0.0               (Port Louis, Port Louis, MU, AF)                                                                                                     
+   102.222.106.1   328699  0.24              (Ebene, Plaines Wilhems, MU, AF)                                                                                                     
+╭─ 196.46.49.33    36868   0.404             (Ebene, Plaines Wilhems, MU, AF)                                                                                                     
+S (36868, 6939)  meltingpot-indianoceanic-submarine-system-metiss ✘ || safe ✓
+╰─ 196.46.34.109   6939    43.968                  (Johannesburg, GT, ZA, AF) *                                                                                                   
+   105.22.34.173   37100   43.971             (Johannesburg, Gauteng, ZA, AF) ce-0-1-5-91.er-01-jnb.za.seacomnet.com                                                              
+╭─ 105.16.28.1     37100   216.825                 (Johannesburg, GT, ZA, AF) ce-0-2-0-0.cr-01-jnb.za.seacomnet.com                                                               
+S (37100)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 105.16.12.98    37100   216.924   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) ce-0-0-25.cr-01-mrs.fr.seacomnet.com                                                                
+T (37100)  
+╰─ 105.16.13.146   37100   216.619            (Frankfurt am Main, HE, DE, EU) xe-0-1-1.er-01-fra.de.seacomnet.com                                                                 
+   105.16.9.22     37100   216.648            (Frankfurt am Main, HE, DE, EU) ae-1.pp-01-fra.de.seacomnet.com                                                                     
+╭─ 80.81.194.198   3356    226.004           (Frankfurt am Main, 5, DE, None) AMS-AM2-POP-CRS-1.du.ae                                                                             
+T (3356, 57187)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 94.206.39.74    57187   346.193                        (Dubai, DU, AE, AS) j48-1.dxa.dxb.ae.datamena.net                                                                       
+   94.207.43.2     57187   343.491                     (Dubai, Dubai, AE, AS) -094-207-043-002.datamena.net                                                                       

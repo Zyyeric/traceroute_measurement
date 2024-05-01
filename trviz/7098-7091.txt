@@ -1,0 +1,16 @@
+   203.174.85.106  38001   0.0                 (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 203.174.85.105  38001   3.336               (Singapore, Singapore, SG, AS)                                                                                                     
+S (38001, 6939)  
+├  10.15.62.242    *       2.871                                          ***                                                                                                     
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 72.52.92.113    6939    50.27                       (New York, NY, US, NA) 100ge11-2.core1.nyc4.he.net                                                                         
+S (6939)  
+├─ 184.105.65.222  6939    94.989           (Sydney, New South Wales, AU, OC) 100ge0-76.core1.syd1.he.net                                                                         
+S (6939)  
+╰─ 184.104.195.150 6939    129.053                    (Auckland, AUK, NZ, OC) 100ge0-36.core1.akl2.he.net                                                                         
+   216.218.224.39  6939    123.146               (Auckland, Auckland, NZ, OC) two-degrees-mobile-limited.e0-33.core1.akl2.he.net                                                  
+   ***             *       -inf                                           *** *                                                                                                   
+   131.203.72.166  9790    124.876               (Auckland, Auckland, NZ, OC) default-rdns.vocus.co.nz                                                                            
+   131.203.72.165  9790    123.979               (Auckland, Auckland, NZ, OC) default-rdns.vocus.co.nz                                                                            
+   103.242.68.65   133075  125.266                  (Wellington, WGN, NZ, OC) *                                                                                                   
+   103.242.68.78   133075  125.391               (Auckland, Auckland, NZ, OC) 103-242-68-78.broadband.telesmart.co.nz                                                             

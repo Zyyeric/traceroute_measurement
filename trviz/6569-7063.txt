@@ -1,0 +1,18 @@
+   197.189.194.147 37153   0.0                (Johannesburg, Gauteng, ZA, AF) atlas-anchor-jnb1.jnb.net.host-h.net                                                                
+   197.189.194.145 37153   0.124 (5.458)         (Johannesburg, Gauteng, ZA, AF)                                                                                                     
+   197.189.193.2   37153   0.248              (Johannesburg, Gauteng, ZA, AF) core-router1.jnb1.host-h.net                                                                        
+   196.192.191.241 327782  0.367              (Johannesburg, Gauteng, ZA, AF)                                                                                                     
+   196.50.234.62   327782  1.192              (Johannesburg, Gauteng, ZA, AF)                                                                                                     
+   193.251.144.193 5511    1.299              (Johannesburg, Gauteng, ZA, AF)                                                                                                     
+╭─ 81.52.200.141   5511    163.522                    (Cape Town, WC, ZA, AF) *                                                                                                   
+S (5511, 2914)  
+├─ 129.250.66.144  2914    167.415     (Aubervilliers, Île-de-France, FR, EU) ae-26.a01.parsfr05.fr.bb.gin.ntt.net                                                                
+S (2914)  
+├─ 129.250.2.178   2914    163.192                       (None, None, US, NA) ae-15.r20.parsfr04.fr.bb.gin.ntt.net                                                                
+S (2914)  
+├─ 129.250.3.39    2914    178.296                       (None, None, GB, EU) ae-17.r00.mrslfr01.fr.bb.gin.ntt.net                                                                
+S&T (2914, 15412)  
+├─ 81.25.193.98    15412   202.477                   (Marseille, PAC, FR, EU) *                                                                                                   
+S&T (15412)  
+╰─ 85.95.25.94     15412   271.99                         (Dubai, DU, AE, AS) xe-0-0-1.0.pjr04.dxb001.flagtel.com                                                                 
+   80.77.4.60      15412   273.224                     (Dubai, Dubai, AE, AS)                                                                                                     

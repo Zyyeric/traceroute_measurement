@@ -1,0 +1,14 @@
+   27.111.84.21    135132  0.0           (Cebu City, Central Visayas, PH, AS) ph-ceb-as135132.anchors.atlas.ripe.net                                                              
+   27.111.84.20    135132  1.092             (Baugo, Central Visayas, PH, AS) vlan509.core.ceb02.ds.network                                                                       
+   192.168.159.142 *       9.788                                          ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   192.168.159.168 *       19.631                                         ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 203.177.209.217 4775    2.888             (Baugo, Central Visayas, PH, AS)                                                                                                     
+S (4775, 3491)  tata-tgn-intra-asia-tgn-ia ✓ || asia-america-gateway-aag-cable-system ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 63.218.2.189    3491    33.634              (Hong Kong, Hong Kong, HK, AS)                                                                                                     
+S (3491)  asia-america-gateway-aag-cable-system ✓
+╰─ 63.218.72.138   3491    186.369                  (Los Angeles, CA, US, NA) TenGE0-1-0-20.br04.lax05.pccwbtn.net                                                                
+   63.218.212.242  3491    192.046           (El Segundo, California, US, NA) yomura.ge-0-0-0-10.br03.lax05.as3491.net                                                            

@@ -1,0 +1,13 @@
+   192.158.252.10  1280    0.0            (Mountain View, California, US, NA) us-pao-as1280.anchors.atlas.ripe.net                                                                
+   192.158.252.3   1280    0.28               (Palo Alto, California, US, NA) r2.pao2-guests.isc.org                                                                              
+   64.62.180.45    6939    1.228              (Palo Alto, California, US, NA) e0-30.switch2.pao1.he.net                                                                           
+╭─ 184.105.81.81   6939    1.411               (San Jose, California, US, NA) port-channel12.core4.sjc2.he.net                                                                    
+S (6939, )  tata-tgn-pacific ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 210.171.225.228 *       175.812                     (Tokyo, Tokyo, JP, AS)                                                                                                     
+S (, 140443)  
+├  10.111.222.205  *       175.357                                        ***                                                                                                     
+├  10.111.220.5    *       187.133                                        ***                                                                                                     
+├  10.111.220.45   *       187.113                                        ***                                                                                                     
+╰─ 103.160.63.222  140443  187.552                 (Jakarta, Jakarta, ID, AS) 222.63.160.103.in-addr.herza.id                                                                     

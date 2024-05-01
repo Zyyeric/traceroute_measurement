@@ -1,0 +1,17 @@
+   92.223.93.208   202422  0.0                      (Milan, Lombardy, IT, EU)                                                                                                     
+   92.223.93.195   202422  0.301                    (Milan, Lombardy, IT, EU) vrrp.gcore.lu                                                                                       
+   45.82.101.3     199524  0.307                    (Milan, Lombardy, IT, EU)                                                                                                     
+   10.255.169.178  *       0.299                                          ***                                                                                                     
+   149.14.135.249  174     0.499                    (Milan, Lombardy, IT, EU) hu0-1-0-0.nr51.b026361-0.mil01.atlas.cogentco.com                                                   
+╭─ 154.25.12.145   174     0.44 (1.336)               (Milan, Lombardy, IT, EU) be2218.rcr21.mil01.atlas.cogentco.com                                                               
+S&T (174)  
+╰─ 154.54.74.165   174     9.304                     (Marseille, PAC, FR, EU) be2864.ccr31.mrs02.atlas.cogentco.com                                                               
+╭─ 154.54.72.109   174     20.207                        (Paris, IDF, FR, EU) be2779.ccr41.par01.atlas.cogentco.com                                                               
+S&T (174)  seamewe-3 ✓
+╰─ 154.54.56.129   174     26.876                       (London, ENG, GB, EU) be12497.ccr41.lon13.atlas.cogentco.com                                                              
+   130.117.3.98    174     27.092                       (London, ENG, GB, EU) be2538.rcr21.b015589-1.lon13.atlas.cogentco.com                                                     
+╭─ 149.11.44.138   174     27.998                   (London, England, GB, EU)                                                                                                     
+T (174, 37468)  
+├  100.64.192.12   *       163.498                                        ***                                                                                                     
+╰─ 102.130.68.113  37468   179.782                 (Johannesburg, GT, ZA, AF) *                                                                                                   
+   102.130.68.151  37468   179.538            (Johannesburg, Gauteng, ZA, AF)                                                                                                     

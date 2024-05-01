@@ -1,0 +1,18 @@
+   116.206.155.229 45117   0.0                   (Ahmedabad, Gujarat, IN, AS)                                                                                                     
+   116.206.155.225 45117   0.942                 (Ahmedabad, Gujarat, IN, AS)                                                                                                     
+╭─ 121.241.90.57   4755    0.624                 (Ahmedabad, Gujarat, IN, AS) 121.241.90.57.static-ahmedabad.vsnl.net.in                                                          
+S (4755, 6453)  europe-india-gateway-eig ✓ || seamewe-3 ✓ || flag-europe-asia-fea ✘
+├  172.28.176.253  *       9.013                                          ***                                                                                                     
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 180.87.39.21    6453    134.728                  (London, England, GB, EU) if-ae-12-2.tcore1.l78-london.as6453.net                                                             
+   ***             *       -inf                                           *** *                                                                                                   
+   80.231.62.57    6453    137.234                     (London, None, GB, EU) if-ae-26-2.tcore2.ldn-london.as6453.net                                                             
+╭─ 63.218.207.25   3491    137.049                     (London, None, GB, EU) *                                                                                                   
+S (3491)  
+╰─ 63.218.236.114  3491    281.512                      (Seoul, None, KR, AS) Bundle-Ether41.br03.seo03.pccwbtn.net                                                               
+   63.218.237.134  20473   276.713                      (Seoul, None, KR, AS) Vultr-Holdings.TE-0-0-0-24.br03.seo03.pccwbtn.net                                                   
+   10.84.2.42      *       273.592                                        ***                                                                                                     
+   10.84.0.30      *       277.415                                        ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   141.164.39.1    20473   278.212                  (Paripark, Seoul, KR, AS) 141.164.39.1.vultrusercontent.com                                                                   

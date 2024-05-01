@@ -1,0 +1,19 @@
+   212.43.17.42    42961   0.0         (Al Farwānīyah, Al Farwaniyah, KW, AS)                                                                                                     
+   212.43.17.41    42961   1.041             (Kuwait City, Al Asimah, KW, AS)                                                                                                     
+   10.32.1.110     *       1.016                                          ***                                                                                                     
+   10.32.1.105     *       1.708                                          ***                                                                                                     
+╭─ 151.248.98.136  59605   0.817             (Kuwait City, Al Asimah, KW, AS)                                                                                                     
+LHL (59605)  falcon ✓ ↠ europe-india-gateway-eig ✓ || falcon ✓ ↠ seamewe-3 ✓ || falcon ✓ ↠ flag-europe-asia-fea ✓
+╰─ 151.248.96.196  59605   86.081                   (London, England, GB, EU)                                                                                                     
+   195.66.226.176  20473   95.785                       (London, ENG, GB, EU) vl32-br1-cer.lon3.choopa.net                                                                        
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 78.141.239.220  20473   84.618                   (London, England, GB, EU) router01-vul-lon.as151332.net                                                                       
+S&T (20473)  
+├─ 217.69.15.96    20473   85.049              (Paris, Île-de-France, FR, EU) router01-vul-par.as151332.net                                                                       
+S (20473)  
+├─ 45.77.39.153    20473   178.984             (Singapore, Singapore, SG, AS) router01-vul-sin.as151332.net                                                                       
+S (20473, 7545)  
+╰─ 203.192.83.254  7545    270.058              (Melbourne, Victoria, AU, OC) ip-254-83-192-203.static.pipenetworks.com                                                           
+   103.179.37.157  151332  265.833              (Melbourne, Victoria, AU, OC)                                                                                                     

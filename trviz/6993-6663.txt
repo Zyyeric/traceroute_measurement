@@ -1,0 +1,12 @@
+   92.223.93.208   202422  0.0                      (Milan, Lombardy, IT, EU)                                                                                                     
+   92.223.93.195   202422  0.459                    (Milan, Lombardy, IT, EU) vrrp.gcore.lu                                                                                       
+   45.82.101.3     199524  0.643                    (Milan, Lombardy, IT, EU)                                                                                                     
+   10.255.169.178  *       0.349                                          ***                                                                                                     
+   195.22.212.112  6762    1.149                    (Milan, Lombardy, IT, EU) ae10.milano59.mil.seabone.net                                                                       
+╭─ 212.221.95.185  3257    1.85                     (Milan, Lombardy, IT, EU) ae9.cr6-mil2.ip4.gtt.net                                                                            
+S (3257)  asia-africa-europe-1-aae-1 ✓ || seamewe-5 ✓
+├─ 213.254.215.18  3257    179.903                   (Johor Bahru, 1, MY, AS) xe-0-2-0.cr1-jhb2.ip4.gtt.net                                                                       
+S (3257)  
+├─ 76.74.41.138    3257    181.334              (Arlington, Virginia, US, NA) ip4.gtt.net                                                                                         
+LHL (3257, 12008)  
+╰─ 156.154.135.254 12008   180.979            (Johannesburg, Gauteng, ZA, AF)                                                                                                     

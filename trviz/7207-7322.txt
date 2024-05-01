@@ -1,0 +1,21 @@
+   212.45.159.245  8816    0.0                      (Milan, Lombardy, IT, EU) it-mil-as8816.anchors.atlas.ripe.net                                                                
+   212.45.159.246  8816    1.139                    (Milan, Lombardy, IT, EU) asr-luc1-gi7.metrolink.it                                                                           
+   212.45.137.202  8816    0.93                     (Milan, Lombardy, IT, EU) asr-luc2-te27.metrolink.it                                                                          
+   212.45.137.197  8816    1.171                    (Milan, Lombardy, IT, EU) br-ava-te28.metrolink.it                                                                            
+   212.45.159.1    8816    1.282                         (Milan, 9, IT, None) br-mix-fo21.metrolink.it                                                                            
+╭─ 213.242.125.45  3356    1.903                    (Milan, Lombardy, IT, EU)                                                                                                     
+S&T (3356)  
+├─ 171.75.8.225    3356    9.722     (Septèmes-les-Vallons, Provence-Alpes-Côte d'Azur, FR, EU) ae2.3605.edge4.mrs1.neo.colt.net                                                                    
+S (3356, 35819)  
+├─ 212.133.4.70    35819   7.289                         (None, None, SA, AS) *                                                                                                   
+S (35819, 37100)  
+├─ 105.16.32.2     37100   156.261                   (Marseille, PAC, FR, EU) ae-2.cr-02-mrs.fr.seacomnet.com                                                                     
+S&T (37100)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 105.25.160.178  37100   163.81             (Johannesburg, Gauteng, ZA, AF) ce-0-0-9.cr-02-jnb.za.seacomnet.com                                                                 
+   105.16.29.9     37100   156.18                  (Johannesburg, GT, ZA, AF) ce-4-0-2.er-01-jnb.za.seacomnet.com                                                                 
+╭─ 105.22.34.174   37100   157.93             (Johannesburg, Gauteng, ZA, AF) ce-0-1-5-91.customer-gw-rogers-capital.er-01-jnb.za.seacomnet.com                                   
+S (37100, 36868)  
+╰─ 196.46.34.108   36868   199.469                       (None, None, MU, AF) *                                                                                                   
+   196.46.49.34    36868   199.682   (Quatre Bornes, Plaines Wilhems, MU, AF)                                                                                                     
+   102.222.106.178 328699  201.344           (Port Louis, Port Louis, MU, AF)                                                                                                     

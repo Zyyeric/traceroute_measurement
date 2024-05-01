@@ -1,0 +1,16 @@
+   144.202.18.114  20473   0.0                     (Atlanta, Georgia, US, NA) 144.202.18.114.vultrusercontent.com                                                                 
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   10.77.0.89      *       0.934                                          ***                                                                                                     
+   10.77.0.137     *       0.454                                          ***                                                                                                     
+╭─ 206.71.12.20    *       1.14                    (Atlanta, Georgia, US, NA)                                                                                                     
+S (, 6939)  
+├─ 184.104.197.53  6939    1.215                        (London, ENG, GB, EU) 100ge0-54.core3.lon2.he.net                                                                         
+S (6939)  
+╰─ 184.104.188.185 6939    15.243                    (Miami, Florida, US, NA) port-channel26.core2.mia1.he.net                                                                    
+   216.66.15.254   23520   18.035                   (North Miami, FL, US, NA) asurnet-inc.100gigabitethernet7-1.core1.mia1.he.net                                                 
+   69.79.104.1     23520   14.784                   (North Miami, FL, US, NA) ae1.nmi-mx2020-2.north-miami.fl.usa.cwc.com                                                         
+╭─ 69.79.106.51    23520   30.383                        (None, None, US, NA) *                                                                                                   
+S (23520, 265721)  america-movil-submarine-cable-system-1-amx-1 ✘ || arcos 👍
+╰─ 200.58.244.31   265721  30.77                (Sosúa, Puerto Plata, DO, NA) sosua-100g-244-31.cableatlantico.com                                                                
+   45.65.244.254   265721  30.906               (Sosúa, Puerto Plata, DO, NA) ripeatlas-anchor.cableatlantico.com                                                                 

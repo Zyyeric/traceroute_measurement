@@ -1,0 +1,20 @@
+   103.225.148.38  45701   0.0                     (Jakarta, Jakarta, ID, AS) ip-38-148-225-103.globalxtreme.net                                                                  
+   103.225.148.34  45701   0.298                   (Jakarta, Jakarta, ID, AS) ip-34-148-225-103.globalxtreme.net                                                                  
+   103.139.162.86  *       0.4                     (Jakarta, Jakarta, ID, AS) ip-86.162.hsp.net                                                                                   
+╭─ 103.139.162.228 147120  0.706                         (None, None, ID, AS) ip-228.162.hsp.net                                                                                  
+S&T (147120, 6453)  indonesia-global-gateway-igg-system ✓ || australia-singapore-cable-asc ✘ || matrix-cable-system ✘ || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || seamewe-3 ✘ || jasuka ✓ || indigo-west ✓ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || jakabare ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 180.87.108.80   6453    43.439              (Singapore, Singapore, SG, AS) if-be-18-2.ecore2.esin4-singapore.as6453.net                                                        
+   63.243.180.3    6453    43.169              (Singapore, Singapore, SG, AS) if-bundle-2-2.qcore1.esin4-singapore.as6453.net                                                     
+   180.87.107.225  6453    43.291              (Singapore, Singapore, SG, AS) if-be-33-2.ecore1.esin4-singapore.as6453.net                                                        
+╭─ 180.87.108.2    6453    43.75                    (Singapore, None, SG, AS) if-be-49-2.ecore2.esin4-singapore.as6453.net                                                        
+S&T (6453)  
+├─ 180.87.36.40    6453    43.179                       (Chennai, TN, IN, AS) if-ae-34-2.tcore1.cxr-chennai.as6453.net                                                            
+S&T (6453)  
+├─ 180.87.36.10    6453    44.472                   (Singapore, None, SG, AS) *                                                                                                   
+S&T (6453, 4755)  
+├  172.23.185.30   *       81.12                                          ***                                                                                                     
+╰─ 115.114.12.186  4755    76.731                      (Delhi, Delhi, IN, AS) 115.114.12.186.static-delhi.vsnl.net.in                                                             
+   180.179.197.202 17439   79.659                        (None, None, IN, AS) *                                                                                                   
+   180.179.210.68  132420  82.457                        (None, None, IN, AS) 180-179-210-68.static.e2enetworks.in                                                                
+   216.48.178.84   132420  79.837              (Noida, Uttar Pradesh, IN, AS) e2e-95-84.ssdcloudindia.net                                                                         

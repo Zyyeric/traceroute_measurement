@@ -1,0 +1,16 @@
+╭─ 141.164.39.1    20473   0.0                      (Paripark, Seoul, KR, AS) 141.164.39.1.vultrusercontent.com                                                                   
+S (20473, 6939)  seamewe-3 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  10.84.0.17      *       1.264                                          ***                                                                                                     
+├  10.84.2.41      *       1.659                                          ***                                                                                                     
+├  10.84.2.38      *       1.596                                          ***                                                                                                     
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.196.77  6939    273.235                   (Marseille, PAC, FR, EU) port-channel3.core2.mrs1.he.net                                                                     
+S&T (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.193.138 6939    250.123                    (Brussels, BRU, BE, EU) 100ge0-33.core2.bru1.he.net                                                                         
+   184.104.206.254 212882  249.47                     (Brussels, BRU, BE, EU) dnx-network-sarl.10gigabitethernet11-4.core1.bru1.he.net                                            
+   91.237.218.10   212882  249.643               (Zaventem, Flanders, BE, EU) atlas.dnx.lu                                                                                        

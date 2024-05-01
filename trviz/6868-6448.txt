@@ -1,0 +1,14 @@
+   185.221.36.2    48854   0.0           (Tranbjerg, Central Jutland, DK, EU) dk-skg-as48854.anchors.atlas.ripe.net                                                               
+   185.221.36.253  48854   0.29           (Stilling, Central Jutland, DK, EU)                                                                                                     
+   212.237.248.18  48854   0.41           (Stilling, Central Jutland, DK, EU)                                                                                                     
+   80.70.0.254     48854   0.261          (Stilling, Central Jutland, DK, EU)                                                                                                     
+   93.167.247.106  3292    0.42           (Stilling, Central Jutland, DK, EU) cpe.et-3-3-0-100.sdnqe11.dk.customer.tdc.net                                                        
+   93.167.247.105  3292    0.407          (Stilling, Central Jutland, DK, EU) et-3-3-0-100.sdnqe11.dk.ip.tdc.net                                                                  
+   83.88.19.117    3292    2.083 (3.268)                    (None, None, DK, EU) ae0-0.alb2nqp8.dk.ip.tdc.net                                                                        
+╭─ 128.76.59.9     3292    1.821 (3.758)    (Copenhagen, Capital Region, DK, EU) peer-as50304.alb2nqp8.dk.ip.tdc.net                                                                 
+S&T (3292, 50304)  energinet-laeso-varberg ✘ || globalconnect-2-gc2 ✘ || kattegat-2 👍 || denmark-sweden-16 👍
+├─ 178.255.145.26  50304   22.78                      (Stockholm, AB, SE, EU) 100ge0.ncs-ix-arn.blix.com                                                                          
+T (50304)  
+╰─ 178.255.145.176 50304   22.418                           (Oslo, 2, NO, EU) 100ge1.ncs-dpu-osl.blix.com                                                                         
+   31.169.48.101   50304   22.383                    (Stodsbuoye, 34, NO, EU) *                                                                                                   
+   195.43.159.22   207788  25.369                        (Oslo, Oslo, NO, EU) anchors.as207788.net                                                                                

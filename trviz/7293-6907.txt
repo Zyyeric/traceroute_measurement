@@ -1,0 +1,17 @@
+   103.153.176.122 131657  0.0                       (Taipei, Taiwan, TW, AS) 103-153-176-122.as131657.net                                                                        
+   103.153.176.254 131657  0.293                     (Taipei, Taiwan, TW, AS) 103-153-176-254.as131657.net                                                                        
+╭─ 103.51.91.5     *       0.303                     (Taipei, Taiwan, TW, AS) et-0-0-1.cr1.hd.tpe.as131657.net                                                                    
+S (, 174)  seamewe-3 ✘ || apcn-2 ✘ || trans-pacific-express-tpe-cable-system ✘ || eac-c2c ✘ || faster ✘ || asia-pacific-gateway-apg ✘ || flag-north-asia-loopreach-north-asia-loop ✘ || new-cross-pacific-ncp-cable-system ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 66.28.4.233     174     30.883                      (Tokyo, Tokyo, JP, AS) be2012.ccr71.tyo01.atlas.cogentco.com                                                               
+S (174)  korea-japan-cable-network-kjcn ✓ || seamewe-3 ✓ || apcn-2 ✓ || eac-c2c ✘ || asia-pacific-gateway-apg ✓ || flag-north-asia-loopreach-north-asia-loop ✓ || new-cross-pacific-ncp-cable-system © || flag-europe-asia-fea © || trans-pacific-express-tpe-cable-system ✓
+╰─ 154.54.89.198   174     91.173                      (Seoul, Seoul, KR, AS) be3010.ccr71.sel01.atlas.cogentco.com                                                               
+╭─ 154.54.93.182   174     95.441                      (Seoul, Seoul, KR, AS) be4409.ccr72.sel01.atlas.cogentco.com                                                               
+S (174)  
+├─ 154.54.30.206   174     91.298                   (Hong Kong, None, HK, AS) be2223.ccr21.hkg02.atlas.cogentco.com                                                               
+S (174)  
+╰─ 154.54.6.25     174     273.353                   (Marseille, PAC, FR, EU) be2900.ccr32.mrs02.atlas.cogentco.com                                                               
+   154.54.39.65    174     273.799               (Lille/Lesquin, HDF, FR, EU) be3519.rcr51.lil01.atlas.cogentco.com                                                               
+   149.14.127.98   174     277.056   (Septèmes-les-Vallons, Provence-Alpes-Côte d'Azur, FR, EU)                                                                                                     
+   172.16.1.212    *       273.316                                        ***                                                                                                     
+   185.233.32.213  211997  273.933   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) 185-233-32-213.eho.link                                                                             

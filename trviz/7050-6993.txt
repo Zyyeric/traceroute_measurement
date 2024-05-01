@@ -1,0 +1,31 @@
+   156.154.135.254 12008   0.0                (Johannesburg, Gauteng, ZA, AF)                                                                                                     
+   156.154.135.253 12008   0.337                  (Edenvale, Gauteng, ZA, AF)                                                                                                     
+   41.60.134.174   30844   0.525                  (Edenvale, Gauteng, ZA, AF) 41.60.134.174.liquidtelecom.net                                                                     
+   41.60.135.92    30844   0.991                   (Johannesburg, GT, ZA, AF) be-20.lza-p4-jhb.liquidtelecom.net                                                                  
+╭─ 5.11.13.172     30844   15.967           (Cape Town, Western Cape, ZA, AF) network.netc-vsat25-rog.liquidtelecom.com                                                           
+T (30844)  
+╰─ 5.11.12.211     30844   173.026                  (London, England, GB, EU) hu0-0-0-3.luk-p2-tho.liquidtelecom.com                                                              
+   5.11.13.45      30844   172.659                  (London, England, GB, EU) et-0-0-0.0.luk-pr3-tho.liquidtelecom.net                                                            
+   195.66.226.123  60171   160.67                     (London, ENG, GB, None) *                                                                                                   
+   185.10.164.69   60171   477.019                      (London, ENG, GB, EU) *                                                                                                   
+╭─ 185.10.164.65   60171   477.011                      (London, ENG, GB, EU) *                                                                                                   
+S&T (60171)  
+├─ 185.10.164.75   60171   480.276             (Paris, Île-de-France, FR, EU)                                                                                                     
+S&T (60171)  
+├─ 102.220.219.74  60171   480.496            (Johannesburg, Gauteng, ZA, AF)                                                                                                     
+T (60171)  
+╰─ 185.10.164.113  60171   474.82                       (London, ENG, GB, EU) *                                                                                                   
+╭─ 185.10.164.135  60171   477.474                      (London, ENG, GB, EU) *                                                                                                   
+S&T (60171)  
+├─ 185.10.164.32   60171   477.584             (Paris, Île-de-France, FR, EU)                                                                                                     
+S (60171)  
+├─ 102.223.52.73   60171   474.503                     (Lagos, Lagos, NG, AF)                                                                                                     
+S&T (60171)  
+├─ 185.10.164.45   60171   477.396                      (London, ENG, GB, EU) *                                                                                                   
+S&T (60171)  
+├─ 102.219.44.43   60171   477.139                     (Lagos, Lagos, NG, AF)                                                                                                     
+S&T (60171, 328913)  
+╰─ 196.49.84.51    328913  477.466                 (Abidjan, Abidjan, CI, AF) bdr3.std.douala-ix.net                                                                              
+╭─ 196.49.84.36    328913  474.817                 (Abidjan, Abidjan, CI, AF) gw1.std.douala-ix.net                                                                               
+S&T (328913)  
+╰─ 196.49.84.188   328913  478.304                 (Douala, Littoral, CM, AF) cm-dla-as328913.anchors.atlas.ripe.net                                                              

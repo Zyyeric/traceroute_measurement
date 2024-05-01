@@ -1,0 +1,15 @@
+   192.158.252.10  1280    0.0            (Mountain View, California, US, NA) us-pao-as1280.anchors.atlas.ripe.net                                                                
+   192.158.252.3   1280    0.328              (Palo Alto, California, US, NA) r2.pao2-guests.isc.org                                                                              
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 184.105.81.81   6939    1.628               (San Jose, California, US, NA) port-channel12.core4.sjc2.he.net                                                                    
+S (6939, 4651)  asia-america-gateway-aag-cable-system ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 65.49.108.78    4651    152.476                  (Hong Kong, None, HK, AS) cat-telecom-public-company-ltd.10gigabitethernet7-2.core1.hkg1.he.net                               
+S (4651)  asia-america-gateway-aag-cable-system ✓ || asia-africa-europe-1-aae-1 ✓ || flag-europe-asia-fea ✘
+╰─ 61.19.9.121     4651    197.69                        (None, None, TH, AS) *                                                                                                   
+   61.19.7.2       4651    197.156                       (None, None, TH, AS) *                                                                                                   
+   122.155.224.74  135063  197.447                       (None, None, TH, AS) *                                                                                                   
+   172.21.21.5     *       195.985                                        ***                                                                                                     
+   172.24.132.102  *       197.606                                        ***                                                                                                     
+   103.253.132.25  59238   197.713                 (Bangkok, Bangkok, TH, AS) th-bkk-as59238.anchors.atlas.ripe.net                                                               

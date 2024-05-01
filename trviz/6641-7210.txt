@@ -1,0 +1,18 @@
+   185.6.39.132    42953   0.0                        (Cork, Munster, IE, EU)                                                                                                     
+   185.6.39.130    42953   1.011                      (Cork, Munster, IE, EU)                                                                                                     
+   91.103.0.98     47720   0.546                      (Cork, Munster, IE, EU)                                                                                                     
+   91.103.0.205    47720   0.629                      (Cork, Munster, IE, EU)                                                                                                     
+╭─ 185.6.36.69     6939    0.647 (5.205)                     (Dublin, D, IE, EU) 10ge16-1.core1.dub1.he.net                                                                          
+S (6939)  exa-north-and-south ✓ || aec-1 ✘ || havfrueaec-2 ✓
+╰─ 184.105.65.245  6939    66.093                      (New York, NY, US, NA) 100ge5-2.core1.nyc5.he.net                                                                          
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 184.104.198.225 6939    123.446          (Los Angeles, California, US, NA) port-channel17.core2.lax1.he.net                                                                    
+S (6939)  new-cross-pacific-ncp-cable-system ✓ || trans-pacific-express-tpe-cable-system ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.81.70   6939    248.264                        (Seoul, 28, KR, AS) 10ge0-1.core2.sel1.he.net                                                                           
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   45.80.212.35    199524  262.504                     (Seoul, Seoul, KR, AS) vrrp.gcore.com                                                                                      
+   92.38.135.131   202422  262.985                     (Seoul, Seoul, KR, AS)                                                                                                     

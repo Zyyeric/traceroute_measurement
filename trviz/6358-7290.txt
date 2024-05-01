@@ -1,0 +1,24 @@
+   103.225.148.27  45701   0.0                     (Jakarta, Jakarta, ID, AS) ip-27-148-225-103.globalxtreme.net                                                                  
+   103.225.148.17  45701   0.5                     (Jakarta, Jakarta, ID, AS) ip-17-148-225-103.globalxtreme.net                                                                  
+   202.58.202.35   *       18.431                  (Jakarta, Jakarta, ID, AS) ae-0-9-r1-jkt1.globalxtreme.net                                                                     
+╭─ 202.58.202.249  *       31.502                  (Jakarta, Jakarta, ID, AS) ae-2-0-r1-sg1.globalxtreme.net                                                                      
+S (, 6939)  sjjk ✘ ↠ jasuka ✘ ↠ seamewe-5 ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.194.200 6939    166.804   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) port-channel15.core4.mrs1.he.net                                                                    
+S&T (6939)  seamewe-3 ✓ || uk-channel-islands-8 ✘ || high-capacity-undersea-guernsey-optical-fibre-hugo ✓ || uk-channel-islands-7 ✓ || channel-islands-9-liberty-submarine-cable ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.205.253 6939    187.527                  (London, England, GB, EU) mtn-globalconnect-solutions-ltd.port-channel7.core1.lon3.he.net                                     
+T (6939, 16637)  
+├─ 41.181.189.65   16637   188.093                     (Pretoria, GP, ZA, AF) *                                                                                                   
+T (16637)  
+╰─ 41.181.105.105  16637   186.306                  (London, England, GB, EU)                                                                                                     
+╭─ 41.181.244.176  16637   187.258                  (London, England, GB, EU)                                                                                                     
+T (16637, 20294)  
+├─ 41.181.247.39   20294   270.436                       (None, None, ZA, AF) *                                                                                                   
+LHL (20294)  
+╰─ 212.88.110.34   20294   269.231          (Kampala, Central Region, UG, AF)                                                                                                     
+   129.205.30.76   37063   267.284                       (Kampala, C, UG, AF) *                                                                                                   
+   41.191.77.206   328998  269.462                       (Kampala, C, UG, AF) *                                                                                                   
+   196.49.15.189   328998  270.337          (Kampala, Central Region, UG, AF)                                                                                                     

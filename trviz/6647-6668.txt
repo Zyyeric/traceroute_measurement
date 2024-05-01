@@ -1,0 +1,16 @@
+   92.38.171.55    202422  0.0       (San Sebastián de los Reyes, Madrid, ES, EU)                                                                                                     
+   92.38.171.2     202422  0.233                     (Madrid, Madrid, ES, EU) vrrp.gcore.lu                                                                                       
+   10.255.32.225   *       0.206                                          ***                                                                                                     
+   10.255.37.170   *       1.878                                          ***                                                                                                     
+╭─ 84.16.11.202    12956   1.962                     (Madrid, Madrid, ES, EU)                                                                                                     
+S&T (12956)  seamewe-3 ✓
+╰─ 213.140.36.239  12956   26.177              (Paris, Île-de-France, FR, EU)                                                                                                     
+╭─ 94.142.107.75   12956   25.941              (Paris, Île-de-France, FR, EU)                                                                                                     
+S (12956, 2914)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 129.250.4.24    2914    30.494                        (None, None, US, NA) ae-3.r21.londen12.uk.bb.gin.ntt.net                                                                 
+╭─ 129.250.3.215   2914    30.428                        (None, None, US, NA) ae-1.a02.londen12.uk.bb.gin.ntt.net                                                                 
+S (2914)  
+╰─ 157.238.226.5   2914    30.08                    (Poplar, England, GB, EU) ae-0.marbis.londen12.uk.bb.gin.ntt.net                                                              
+   46.251.228.200  199610  31.809                        (None, None, GB, EU) *                                                                                                   
+   5.62.127.14     199610  38.377                   (London, England, GB, EU)                                                                                                     

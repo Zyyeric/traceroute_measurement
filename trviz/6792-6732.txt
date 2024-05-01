@@ -1,0 +1,39 @@
+   163.117.253.5   766     0.0                       (Madrid, Madrid, ES, EU)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   172.17.0.53     *       1.196                                          ***                                                                                                     
+   193.145.15.49   766     1.559                    (Leganés, Madrid, ES, EU) csic-rt-ju-02-xe-4-0-6.net.redimadrid.es                                                            
+   130.206.216.1   766     1.952                     (Madrid, Madrid, ES, EU) redimadrid-backup.ethtrunk8-103.telmad.rt1.mad.red.rediris.es                                       
+   130.206.245.50  766     1.949                         (None, None, ES, EU) telmad.rt1.ae11-0.telmad.rt4.mad.red.rediris.es                                                     
+╭─ 83.97.90.20     21320   2.073                     (Madrid, Madrid, ES, EU) rediris-ias-geant-gw.mad.es.geant.net                                                               
+S&T (21320, 20965)  africa-coast-to-europe-ace ✓ || seamewe-3 ✓
+├─ 62.40.98.227    20965   33.283    (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) ae2.rt1.mar.fr.geant.net                                                                            
+T (20965)  
+├─ 62.40.98.236    20965   33.794                    (Genève, Geneva, CH, EU) ae4.mx1.gen.ch.geant.net                                                                            
+T (20965)  
+├─ 62.40.98.239    20965   33.692              (Paris, Île-de-France, FR, EU) ae7.mx1.par.fr.geant.net                                                                            
+S&T (20965)  africa-coast-to-europe-ace ✘ || seamewe-3 ✘
+├─ 62.40.98.106    20965   34.762                        (Lisbon, 11, PT, EU) ae0.mx2.lis.pt.geant.net                                                                            
+S&T (20965)  
+╰─ 62.40.98.64     20965   33.597                   (London, England, GB, EU) ae2.mx1.lon.uk.geant.net                                                                            
+   195.66.225.227  31133   32.764                     (London, ENG, GB, None) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 64.125.29.129   6461    34.885                       (London, ENG, GB, EU) ae1.mcs1.lhr15.uk.eth.zayo.com                                                                      
+S (6461, 4637)  
+├─ 82.98.196.161   4637    33.359                        (None, None, HK, AS) 82.98.196.161.IPYX-284545-900-ZYO.zip.zayo.com                                                      
+S (4637)  
+├─ 202.84.178.37   4637    34.21                    (London, England, GB, EU) i-1107.ulhc-core03.telstraglobal.net                                                                
+S (4637)  
+╰─ 202.84.249.1    4637    288.382          (Los Angeles, California, US, NA)                                                                                                     
+╭─ 202.84.249.1    4637    288.382          (Los Angeles, California, US, NA)                                                                                                     
+S (4637)  
+╰─ 202.84.141.201  4637    313.356                     (Tokyo, Tokyo, JP, AS) i-14205.jtha-core02.telstraglobal.net                                                               
+╭─ 202.84.141.201  4637    313.356                     (Tokyo, Tokyo, JP, AS) i-14205.jtha-core02.telstraglobal.net                                                               
+S (4637)  
+╰─ 202.84.137.25   4637    315.07                      (Seoul, Seoul, KR, AS) i-13242.kssd-core02.telstraglobal.net                                                               
+   202.84.149.98   4637    316.977                     (Seoul, Seoul, KR, AS)                                                                                                     
+   210.176.150.117 4637    319.112                     (Seoul, Seoul, KR, AS) unknown.telstraglobal.net                                                                           
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   141.164.39.1    20473   320.452                  (Paripark, Seoul, KR, AS) 141.164.39.1.vultrusercontent.com                                                                   

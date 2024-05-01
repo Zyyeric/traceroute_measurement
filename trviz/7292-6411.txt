@@ -1,0 +1,12 @@
+   107.162.217.5   55002   0.0                 (San Jose, California, US, NA)                                                                                                     
+   107.162.217.1   55002   0.369            (Santa Clara, California, US, NA)                                                                                                     
+   100.100.1.14    *       0.424                                          ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 206.223.116.37  6939    0.924                       (San Jose, CA, US, NA) as6939.100gigabitethernet2-3.core1.sjc2.he.net                                                      
+S (6939)  faster ✓ || japan-u-s-cable-network-jus ✓ || pacific-crossing-1-pc-1 ✘ || jupiter ✓ || trans-pacific-express-tpe-cable-system ✓ || new-cross-pacific-ncp-cable-system ✓ || tata-tgn-pacific ✓ || unityeac-pacific ✓
+├─ 184.104.194.38  6939    107.845               (Tokyo / Narita, 12, JP, AS) 100ge8-1.core1.tyo1.he.net                                                                          
+S (6939)  asia-submarine-cable-express-asecahaya-malaysia ✓ || flag-north-asia-loopreach-north-asia-loop ✓ || southeast-asia-japan-cable-sjc ✓ || flag-europe-asia-fea ✓ || eac-c2c ✓ || apcn-2 ✓ || asia-pacific-gateway-apg ✓ || seamewe-3 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.220.67  6939    259.155             (Hong Kong, Hong Kong, HK, AS) lshiy.e0-30.switch1.hkg1.he.net                                                                     
+   103.203.243.11  955     259.181             (Hong Kong, Hong Kong, HK, AS) multi-user.port-channe17.switch1.hkg1.bb.lshiy.net                                                  
+   89.213.179.65   32167   259.294             (Hong Kong, Hong Kong, HK, AS) 89-213-179-65.ip.lshiyusercontent.com                                                               

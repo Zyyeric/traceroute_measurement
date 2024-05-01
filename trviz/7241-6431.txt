@@ -1,0 +1,18 @@
+   109.171.136.4   50999   0.0                 (Jeddah, Mecca Region, SA, AS)                                                                                                     
+╭─ 109.171.136.2   50999   0.709               (Jeddah, Mecca Region, SA, AS)                                                                                                     
+LHL (50999, 3356)  seamewe-5 ✘ || seamewe-4 ✘ || asia-africa-europe-1-aae-1 ✓ || peace-cable ✘ || imewe ✘ || seamewe-3 ✓
+├  10.126.145.5    *       0.676                                          ***                                                                                                     
+├  192.168.11.14   *       1.107                                          ***                                                                                                     
+╰─ 212.72.47.149   3356    68.639          (Amsterdam, North Holland, NL, EU) lag-120.ear4.amsterdam1.level3.net                                                                  
+   171.75.9.221    3356    68.67           (Amsterdam, North Holland, NL, EU) ae1.3108.ear5.ams1.neo.colt.net                                                                     
+   216.66.88.145   6939    69.613                     (Amsterdam, NH, NL, EU) port-channel15.core2.ams1.he.net                                                                    
+╭─ 184.104.198.117 6939    69.45           (Amsterdam, North Holland, NL, EU) port-channel1.core2.ams1.he.net                                                                     
+LHL (6939)  seamewe-3 ✓ || asia-africa-europe-1-aae-1 ✓ || flag-europe-asia-fea ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.64.126  6939    298.796             (Hong Kong, Hong Kong, HK, AS) 100ge0-62.core2.hkg1.he.net                                                                         
+╭─ 184.104.212.74  23944   338.88                   (Hong Kong, None, HK, AS) sky-cable-corporation.port-channel4.switch1.hkg1.he.net                                             
+S (23944)  
+╰─ 130.105.0.33    23944   333.09                    (Quezon City, 0, PH, AS) *                                                                                                   
+   182.18.209.9    23944   332.583             (Manila, Metro Manila, PH, AS)                                                                                                     

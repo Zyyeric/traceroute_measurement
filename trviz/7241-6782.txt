@@ -1,0 +1,14 @@
+   74.119.118.17   19750   0.0                        (Dallas, Texas, US, NA)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   100.66.0.44     *       0.366                                          ***                                                                                                     
+   100.66.0.43     *       0.384                                          ***                                                                                                     
+╭─ 184.105.60.189  6939    2.16                          (Dallas, TX, US, NA) e0-2.core3.dal1.he.net                                                                              
+S (6939, 23944)  asia-america-gateway-aag-cable-system ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.212.74  23944   205.602                  (Hong Kong, None, HK, AS) sky-cable-corporation.port-channel4.switch1.hkg1.he.net                                             
+S (23944)  eac-c2c ✓ || tata-tgn-intra-asia-tgn-ia ✓ || asia-america-gateway-aag-cable-system ✓
+╰─ 130.105.0.33    23944   223.665                   (Quezon City, 0, PH, AS) *                                                                                                   
+   182.18.209.9    23944   219.771             (Manila, Metro Manila, PH, AS)                                                                                                     

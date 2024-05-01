@@ -1,0 +1,27 @@
+   196.49.84.188   328913  0.0                     (Douala, Littoral, CM, AF) cm-dla-as328913.anchors.atlas.ripe.net                                                              
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 196.60.84.61    *       1.47                    (Douala, Littoral, CM, AF) as328840.member.std.douala-ix.net                                                                   
+S (, 60171)  
+├─ 102.219.44.42   60171   1.647                       (Lagos, Lagos, NG, AF)                                                                                                     
+S (60171)  
+├─ 185.10.164.44   60171   237.632             (Barcelona, Catalonia, ES, EU)                                                                                                     
+S (60171)  
+├─ 102.223.52.72   60171   237.878                     (Lagos, Lagos, NG, AF)                                                                                                     
+S (60171)  
+╰─ 185.10.164.33   60171   237.491             (Barcelona, Catalonia, ES, EU)                                                                                                     
+╭─ 185.10.164.134  60171   237.446             (Barcelona, Catalonia, ES, EU)                                                                                                     
+S&T (60171, 37542)  
+├─ 185.10.164.112  37542   240.163                      (London, ENG, GB, EU) *                                                                                                   
+S&T (37542, 60171)  
+├─ 185.10.164.98   60171   239.732             (Barcelona, Catalonia, ES, EU)                                                                                                     
+S&T (60171, 6939)  
+├─ 184.104.224.112 6939    241.577                   (Lisbon, Lisbon, PT, EU) e0-18.switch1.lis1.he.net                                                                           
+S&T (6939)  
+╰─ 184.104.189.30  6939    261.934   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) port-channel18.core4.mrs1.he.net                                                                    
+╭─ 184.104.193.102 6939    259.906   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) port-channel1.core3.mrs1.he.net                                                                     
+S (6939)  
+╰─ 184.105.64.13   6939    402.441                     (Mombasa, 300, KE, AF) port-channel2.core1.mba1.he.net                                                                     
+   184.105.81.94   6939    404.804                     (Nairobi, 110, KE, AF) 10ge14-4.core1.nbo1.he.net                                                                          
+   196.223.21.38   37578   408.192                     (Nairobi, 5, KE, None) *                                                                                                   
+   196.6.220.42    37578   405.76           (Nairobi, Nairobi County, KE, AF)                                                                                                     

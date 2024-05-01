@@ -1,0 +1,18 @@
+   193.1.201.140   1213    0.0                   (Tallaght, Leinster, IE, EU) atlas-anchor.heanet.ie                                                                              
+   193.1.201.138   1213    0.207                   (Dublin, Leinster, IE, EU) pw-spine1-vlan11.services.hea.net                                                                   
+   87.44.56.177    1213    0.288                        (Dublin, L, IE, None) ae3.core1-pw.nn.hea.net                                                                             
+   87.44.53.59     1213    0.51               (Blessington, Leinster, IE, EU) ae4-0.core1-cwt.nn.hea.net                                                                          
+╭─ 83.97.88.73     21320   0.701                          (Dublin, D, IE, EU) heanet-ias-geant-gw.dub.ie.geant.net                                                                
+S&T (21320, 20965)  geo-eirgrid ✘ || rockabill ✘ || esat-2 ✓ || sirius-south ✘ || exa-north-and-south ✘ || havhingstenceltixconnect-2-cc-2 ✓ || exa-express ✘ || pan-european-crossing-uk-ireland ✓ || esat-1 ✓ || solas ✘
+╰─ 62.40.98.27     20965   10.112                   (London, England, GB, EU) ae6.mx1.lon.uk.geant.net                                                                            
+╭─ 195.66.225.107  2119    9.871                      (London, ENG, GB, None) ti9002b300.ti.telenor.net                                                                           
+S&T (2119)  tampnet-offshore-foc-network ✘ || no-uk ✓
+╰─ 146.172.105.73  2119    36.015                        (None, None, NO, EU) ti3004c400-ae0-0.ti.telenor.net                                                                     
+╭─ 146.172.99.177  2119    36.102                        (None, None, NO, EU) ti3006c400-ae1-0.ti.telenor.net                                                                     
+T (2119)  
+├─ 146.172.105.109 2119    35.912                     (Båstad, Skåne, SE, EU) ti3006b400-ae1-0.ti.telenor.net                                                                     
+T (2119)  
+├─ 148.122.10.198  2119    41.292                        (Oslo, Oslo, NO, EU)                                                                                                     
+S&T (2119, 9158)  
+╰─ 77.214.52.101   9158    46.42                          (Farum, 84, DK, EU) *                                                                                                   
+   77.214.52.102   9158    46.405            (Aalborg, North Denmark, DK, EU)                                                                                                     

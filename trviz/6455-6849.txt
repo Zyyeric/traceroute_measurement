@@ -1,0 +1,17 @@
+   203.119.111.139 4608    0.0                 (Brisbane, Queensland, AU, OC) anchor.apnic.net                                                                                    
+   203.119.111.130 4608    0.774               (Brisbane, Queensland, AU, OC) vl-1705.nxcs1.hosted.au.apnic.net                                                                   
+   203.119.104.17  4608    0.48                (Brisbane, Queensland, AU, OC) te-0-1-4.nxgw1.bne.apnic.net                                                                        
+   203.119.104.82  4608    0.437               (Brisbane, Queensland, AU, OC) po-12-921.nxgw2.bne.apnic.net                                                                       
+   138.44.129.153  7575    0.618               (Brisbane, Queensland, AU, OC) ae2-223-pe1.fvly.qld.aarnet.net.au                                                                  
+   113.197.15.6    7575    12.049           (Sydney, New South Wales, AU, OC) et-0-3-0.pe1.mcqp.nsw.aarnet.net.au                                                                 
+╭─ 113.197.15.143  7575    12.505              (New South Wales, NSW, AU, OC) et-0-1-0.pe1.bkvl.nsw.aarnet.net.au                                                                 
+S (7575)  hawaiki ✘ || southern-cross-cable-network-sccn ✓ || telstra-endeavour ✓ || southern-cross-next ✓
+├─ 202.158.194.121 7575    154.033                      (Seattle, WA, US, NA) xe-0-2-5.bdr1.b.sea.aarnet.net.au                                                                   
+S (7575, 3491)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 63.218.250.78   3491    216.219                     (Tokyo, Tokyo, JP, AS) bundle-eth53.clbr01.tok02.as3491.net                                                                
+   63.216.242.46   20473   225.474                        (Tokyo, 13, JP, AS) ssi-labo.gi0-0-0-3.843.br04.tok01.pccwbtn.net                                                       
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   104.238.161.230 20473   223.591                      (Ōi, Saitama, JP, AS) 104.238.161.230.vultrusercontent.com                                                                

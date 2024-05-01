@@ -1,0 +1,15 @@
+   92.38.135.131   202422  0.0                         (Seoul, Seoul, KR, AS)                                                                                                     
+   92.38.135.2     202422  0.358                       (Seoul, Seoul, KR, AS) vrrp.gcore.lu                                                                                       
+   10.255.17.209   *       0.32                                           ***                                                                                                     
+   10.255.17.213   *       0.374                                          ***                                                                                                     
+   10.255.17.147   *       0.308                                          ***                                                                                                     
+╭─ 8.244.74.25     3356    0.322 (3.991)                  (Seoul, Seoul, KR, AS)                                                                                                     
+LHL (3356)  
+├─ 171.75.9.61     3356    276.469             (Stockholm, Stockholm, SE, EU) ae2.3203.edge1.stk1.neo.colt.net                                                                    
+LHL (3356, 6667)  
+├─ 213.249.107.6   6667    277.784                       (Madrid, MD, ES, EU) *                                                                                                   
+LHL (6667)  
+╰─ 213.192.184.94  6667    286.823                       (None, None, FI, EU) *                                                                                                   
+   213.192.184.81  6667    282.754                (Helsinki, Uusimaa, FI, EU) ge2-0-0-0.bbr2.hel1.fi.eunetip.net                                                                  
+   193.65.45.85    719     286.778                   (Espoo, Uusimaa, FI, EU)                                                                                                     
+   193.65.45.86    719     285.423          (Hämeenlinna, Kanta-Häme, FI, EU)                                                                                                     

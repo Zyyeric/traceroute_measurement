@@ -1,0 +1,29 @@
+   196.49.14.25    30997   0.0                 (Accra, Greater Accra, GH, AF)                                                                                                     
+   196.49.14.1     30997   0.542               (Accra, Greater Accra, GH, AF)                                                                                                     
+╭─ 197.221.70.89   *       1.365               (Accra, Greater Accra, GH, AF)                                                                                                     
+S&T (, 3741)  
+╰─ 196.14.240.4    3741    1.04                          (None, None, ZA, AF) *                                                                                                   
+╭─ 168.209.160.109 3741    256.278                       (None, None, ZA, AF) *                                                                                                   
+T (3741)  
+├─ 168.209.160.108 3741    258.754                  (London, England, GB, EU)                                                                                                     
+T (3741)  
+├─ 168.209.246.65  3741    256.703                       (None, None, ZA, AF) core1b-dock-be-2.ip.ddii.network                                                                    
+T (3741, 6461)  
+╰─ 195.66.224.76   6461    255.725                      (London, ENG, GB, EU) ae15.mpr1.lhr15.uk.above.net                                                                        
+   94.31.33.31     6461    255.805                  (London, England, GB, EU) 94.31.33.31.idia-288174-013-zyo.zip.zayo.com                                                        
+╭─ 206.148.26.8    7578    193.153                  (Poplar, England, GB, EU) po10.lon-thn-bb1.globalsecurelayer.com                                                              
+S (7578)  
+╰─ 206.148.26.7    7578    258.963          (New York City, New York, US, NA) e52.nyc-eqxny2-bb1.globalsecurelayer.com                                                            
+   206.148.25.42   7578    274.975                (Chicago, Illinois, US, NA) e3.chi-eqxch1-bb1.globalsecurelayer.com                                                             
+╭─ 206.148.25.0    7578    316.115          (Los Angeles, California, US, NA) e50.lax-csla2-bb1.globalsecurelayer.com                                                             
+S (7578)  
+╰─ 206.148.24.2    7578    448.261          (Sydney, New South Wales, AU, OC) e1.syd-eqxsy5-bb1.globalsecurelayer.com                                                             
+   206.148.24.58   7578    461.373              (Melbourne, Victoria, AU, OC) e21.mel-eqxme1-bb1.globalsecurelayer.com                                                            
+   206.148.24.56   7578    470.304        (Adelaide, South Australia, AU, OC) e53.adl-eqxae1-bb4.globalsecurelayer.com                                                            
+╭─ 206.148.24.164  7578    496.257         (Perth, Western Australia, AU, OC)                                                                                                     
+S (7578, 8529)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 134.0.220.73    8529    497.383                       (Muscat, MA, OM, AS) *                                                                                                   
+S&T (8529, 42473)  
+╰─ 213.202.2.1     42473   441.764                        (Dubai, DU, AE, AS) i1.2.202.213omantel.net.om                                                                          
+   37.252.245.94   42473   442.188                     (Dubai, Dubai, AE, AS)                                                                                                     

@@ -1,0 +1,12 @@
+   103.15.246.16   58717   0.0                         (Dhaka, Dhaka, BD, AS)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   172.16.203.70   *       0.878                                          ***                                                                                                     
+   103.199.87.9    58717   5.452                         (None, None, BD, AS) *                                                                                                   
+╭─ 157.119.185.154 134781  53.015                          (Dhaka, C, BD, AS) *                                                                                                   
+LHL (134781, 3216)  seamewe-5 ✘ || seamewe-4 ✘
+├─ 87.245.231.193  3216    51.578                        (None, None, RU, EU) GW-SkyNetwork.retn.net                                                                              
+LHL (3216, 9002)  flag-europe-asia-fea ✓ || seamewe-3 ✓
+╰─ 87.245.233.191  9002    193.286                        (Madrid, M, ES, EU) ae2-4.RT.IRX.MAD.ES.retn.net                                                                        
+   87.245.227.51   9002    182.73                    (Madrid, Madrid, ES, EU) gw-as12430.retn.net                                                                                 
+   172.29.246.142  *       195.156                                        ***                                                                                                     
+   147.84.200.125  39069   194.88                    (Murcia, Murcia, ES, EU)                                                                                                     

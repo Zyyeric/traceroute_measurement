@@ -1,0 +1,18 @@
+   171.67.70.16    32      0.0                 (Stanford, California, US, NA) us-pao-as32.anchors.atlas.ripe.net                                                                  
+   ***             *       -inf                                           *** *                                                                                                   
+   10.214.4.252    *       0.806                                          ***                                                                                                     
+   171.66.0.209    32      1.031               (Stanford, California, US, NA)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   184.104.195.49  6939    12.028           (Los Angeles, California, US, NA) port-channel18.core2.lax1.he.net                                                                    
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 65.19.167.83    6939    10.045           (Los Angeles, California, US, NA)                                                                                                     
+S (6939, 135132)  asia-america-gateway-aag-cable-system ✓ || sea-us ✓ || pacific-light-cable-network-plcn ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 203.177.209.218 135132  180.011              (Lapu-Lapu City, CEB, PH, AS) vlan5.vsrx.ceb02.ds.network                                                                         
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   192.168.159.143 *       180.21                                         ***                                                                                                     
+   27.111.84.21    135132  195.664       (Cebu City, Central Visayas, PH, AS) ph-ceb-as135132.anchors.atlas.ripe.net                                                              

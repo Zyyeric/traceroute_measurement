@@ -1,0 +1,38 @@
+   84.88.18.254    13041   0.0                 (Barcelona, Catalonia, ES, EU) anchor-anella.cesca.cat                                                                             
+   84.88.18.253    13041   0.791               (Barcelona, Catalonia, ES, EU) anella-anchor.cesca.cat                                                                             
+   130.206.214.97  766     9.185                     (Madrid, Madrid, ES, EU) anella-ppal-as13041.ethtrunk11-81.telmad.rt3.mad.red.rediris.es                                     
+╭─ 83.97.90.20     21320   9.266                     (Madrid, Madrid, ES, EU) rediris-ias-geant-gw.mad.es.geant.net                                                               
+S&T (21320, 20965)  seamewe-3 ✓
+├─ 62.40.98.227    20965   39.227    (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) ae2.rt1.mar.fr.geant.net                                                                            
+T (20965)  
+├─ 62.40.98.236    20965   42.703                    (Genève, Geneva, CH, EU) ae4.mx1.gen.ch.geant.net                                                                            
+T (20965)  
+├─ 62.40.98.239    20965   42.65               (Paris, Île-de-France, FR, EU) ae7.mx1.par.fr.geant.net                                                                            
+S&T (20965)  africa-coast-to-europe-ace ✘ || seamewe-3 ✘
+├─ 62.40.98.106    20965   42.652                        (Lisbon, 11, PT, EU) ae0.mx2.lis.pt.geant.net                                                                            
+S&T (20965)  
+╰─ 62.40.98.64     20965   39.393                   (London, England, GB, EU) ae2.mx1.lon.uk.geant.net                                                                            
+   195.66.224.76   6461    39.665                       (London, ENG, GB, EU) ae15.mpr1.lhr15.uk.above.net                                                                        
+   94.31.33.31     6461    42.237                   (London, England, GB, EU) 94.31.33.31.idia-288174-013-zyo.zip.zayo.com                                                        
+╭─ 206.148.26.8    7578    42.231                   (Poplar, England, GB, EU) po10.lon-thn-bb1.globalsecurelayer.com                                                              
+S (7578)  
+╰─ 206.148.26.7    7578    109.985          (New York City, New York, US, NA) e52.nyc-eqxny2-bb1.globalsecurelayer.com                                                            
+   206.148.25.42   7578    122.417                (Chicago, Illinois, US, NA) e3.chi-eqxch1-bb1.globalsecurelayer.com                                                             
+   206.148.25.79   7578    171.538          (Los Angeles, California, US, NA) e52.lax-csla2-cr2.globalsecurelayer.com                                                             
+   206.148.25.91   7578    168.826          (Los Angeles, California, US, NA) e49.lax-csla2-bb1.globalsecurelayer.com                                                             
+╭─ 206.148.25.84   7578    244.714          (Los Angeles, California, US, NA) e50.ty-eqxty8-bb5.globalsecurelayer.com                                                             
+S (7578)  
+╰─ 206.148.24.51   7578    244.764          (Sydney, New South Wales, AU, OC) e30.ty-eqxty8-bb1.globalsecurelayer.com                                                             
+╭─ 206.148.24.66   7578    245.822          (Sydney, New South Wales, AU, OC) e51.sg-eqxsg3-bb1.globalsecurelayer.com                                                             
+S (7578)  
+╰─ 31.217.251.74   7578    245.6               (Singapore, Singapore, SG, AS) unknown.globalsecurelayer.com                                                                       
+╭─ 160.202.164.165 137409  257.381             (Singapore, Singapore, SG, AS)                                                                                                     
+S (137409, 8529)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 213.202.1.189   8529    276.021                   (Muscat, Muscat, OM, AS)                                                                                                     
+S&T (8529, 42961)  
+├─ 151.248.98.137  42961   270.867                       (None, None, BH, AS) *                                                                                                   
+S (42961)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 212.43.17.42    42961   273.818     (Al Farwānīyah, Al Farwaniyah, KW, AS)                                                                                                     

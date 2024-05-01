@@ -1,0 +1,26 @@
+   196.49.14.25    30997   0.0                 (Accra, Greater Accra, GH, AF)                                                                                                     
+   196.49.14.1     30997   0.603               (Accra, Greater Accra, GH, AF)                                                                                                     
+╭─ 197.221.70.89   *       1.229               (Accra, Greater Accra, GH, AF)                                                                                                     
+S&T (, 3741)  
+╰─ 196.14.240.4    3741    1.156                         (None, None, ZA, AF) *                                                                                                   
+╭─ 168.209.160.109 3741    256.069                       (None, None, ZA, AF) *                                                                                                   
+T (3741)  
+├─ 168.209.160.108 3741    256.26                   (London, England, GB, EU)                                                                                                     
+T (3741)  
+├─ 168.209.246.65  3741    256.741                       (None, None, ZA, AF) core1b-dock-be-2.ip.ddii.network                                                                    
+T (3741, 6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.205.253 6939    256.346                  (London, England, GB, EU) mtn-globalconnect-solutions-ltd.port-channel7.core1.lon3.he.net                                     
+T (6939, 16637)  
+├─ 41.181.189.65   16637   277.906                     (Pretoria, GP, ZA, AF) *                                                                                                   
+T (16637)  
+╰─ 41.181.105.105  16637   277.631                  (London, England, GB, EU)                                                                                                     
+╭─ 41.181.244.176  16637   278.186                  (London, England, GB, EU)                                                                                                     
+T (16637, 20294)  
+├─ 41.181.247.39   20294   450.349                       (None, None, ZA, AF) *                                                                                                   
+LHL (20294)  
+╰─ 212.88.110.34   20294   333.801          (Kampala, Central Region, UG, AF)                                                                                                     
+   129.205.30.76   37063   333.719                       (Kampala, C, UG, AF) *                                                                                                   
+   41.191.77.206   328998  334.307                       (Kampala, C, UG, AF) *                                                                                                   
+   196.49.15.189   328998  334.118          (Kampala, Central Region, UG, AF)                                                                                                     

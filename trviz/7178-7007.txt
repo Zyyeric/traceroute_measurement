@@ -1,0 +1,12 @@
+   63.222.188.9    3491    0.0           (Kuala Lumpur, Kuala Lumpur, MY, AS)                                                                                                     
+╭─ 63.222.188.1    3491    0.563         (Kuala Lumpur, Kuala Lumpur, MY, AS)                                                                                                     
+S&T (3491)  indonesia-global-gateway-igg-system ✓ || palapa-ring-west ✓ || batam-dumai-melaka-bdm-cable-system ✘ || jasuka ✓ || seamewe-4 ✓ || seamewe-5 ✓ || seax-1 ✘ || asia-submarine-cable-express-asecahaya-malaysia ✓ || asia-america-gateway-aag-cable-system ✓ || batam-rengit-cable-system-brcs ✘ || apcn-2 👍
+╰─ 63.223.34.94    3491    7.963                       (Singapore, 4, SG, AS) Hu0-0-0-17.br05.sin02.pccwbtn.net                                                                   
+╭─ 63.216.144.42   3491    8.313               (Singapore, Singapore, SG, AS) 63-216-144-42.static.pccwglobal.net                                                                 
+LHL (3491, 3257)  seamewe-5 ✓ || seamewe-4 ✓ || peace-cable ✘ || seamewe-3 👍
+├─ 89.149.136.133  3257    239.433            (Frankfurt am Main, HE, DE, EU) et-10-0-2.cr8-fra2.ip4.gtt.net                                                                      
+T (3257, 25003)  
+├─ 46.33.95.118    25003   240.117                    (Rotterdam, ZH, NL, EU) ib-gw.ip4.gtt.net                                                                                   
+LHL (25003)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 94.188.255.2    25003   296.531              (Bnei Brak, Tel Aviv, IL, AS) 255.188.94-binat-smaug.in-addr.arpa                                                                 

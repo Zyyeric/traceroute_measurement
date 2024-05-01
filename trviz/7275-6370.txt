@@ -1,0 +1,15 @@
+   103.202.216.76  59105   0.0                         (Chōfu, Tokyo, JP, AS)                                                                                                     
+   103.202.216.73  59105   0.37                        (Tokyo, Tokyo, JP, AS) ge-2-1-0.pop03er03.bb.homenoc.ad.jp                                                                 
+   103.48.31.122   59105   0.37 (5.493)                    (None, None, JP, AS) v106.gi0-0-2.noc01cr01.bb.homenoc.ad.jp                                                             
+╭─ 103.48.31.47    59105   10.672                      (Tokyo, Tokyo, JP, AS) v1001.ge-0-0-0.pop05er01.bb.homenoc.ad.jp                                                           
+S (59105, 6939)  apcn-2 ✓ || eac-c2c ✓ || asia-pacific-gateway-apg ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.64.253  6939    83.419                      (Singapore, 4, SG, AS) 100ge11-1.core1.sin1.he.net                                                                         
+╭─ 74.82.49.214    6939    114.236             (Singapore, Singapore, SG, AS) pt-jala-lintas-media.e0-3.switch5.sin1.he.net                                                       
+S&T (6939, 133840)  
+╰─ 103.66.70.104   133840  106.863                 (Jakarta, Jakarta, ID, AS)                                                                                                     
+   121.100.0.45    38158   106.661                 (Jakarta, Jakarta, ID, AS)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   180.211.88.22   45725   92.78                   (Jakarta, Jakarta, ID, AS) id-jkt-as45725.anchors.atlas.ripe.net                                                               

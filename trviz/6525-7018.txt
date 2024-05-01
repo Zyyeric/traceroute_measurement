@@ -1,0 +1,14 @@
+   103.2.186.195   45345   0.0               (Nouméa, South Province, NC, OC) nc-nou-as45345.anchors.atlas.ripe.net                                                               
+   103.2.186.221   45345   0.596             (Nouméa, South Province, NC, OC) gw-ipv4-hosting-1010-mx204-f10.as45345.net                                                          
+   202.87.128.198  45345   0.722                          (Noumea, S, NC, OC) *                                                                                                   
+╭─ 202.87.128.197  18200   1.417             (Nouméa, South Province, NC, OC)                                                                                                     
+S (18200, 6939)  gondwana-1 👍
+╰─ 64.71.180.153   6939    22.879                       (Sydney, NSW, AU, OC) e0-9.core2.syd1.he.net                                                                              
+╭─ 64.71.180.153   6939    22.879                       (Sydney, NSW, AU, OC) e0-9.core2.syd1.he.net                                                                              
+S (6939, 46749)  hawaiki ✘ || southern-cross-cable-network-sccn ✓ || southern-cross-next ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.177.238 46749   169.838                   (Pleasanton, CA, US, NA) stanford-university.100gigabitethernet5-1.core1.pao1.he.net                                         
+   171.66.0.238    32      168.618                     (Stanford, CA, US, NA) csee-west-rtr-vl12.SUNet                                                                            
+   ***             *       -inf                                           *** *                                                                                                   
+   171.67.70.16    32      166.689             (Stanford, California, US, NA) us-pao-as32.anchors.atlas.ripe.net                                                                  

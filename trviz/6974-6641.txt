@@ -1,0 +1,13 @@
+   92.38.135.131   202422  0.0                         (Seoul, Seoul, KR, AS)                                                                                                     
+   92.38.135.2     202422  0.222                       (Seoul, Seoul, KR, AS) vrrp.gcore.lu                                                                                       
+   10.255.17.210   *       0.354                                          ***                                                                                                     
+   10.255.17.213   *       0.385                                          ***                                                                                                     
+   10.255.17.146   *       0.377                                          ***                                                                                                     
+╭─ 8.244.72.213    3356    0.722                       (Seoul, Seoul, KR, AS)                                                                                                     
+S (3356)  apcn-2 ✓ || korea-japan-cable-network-kjcn ✓ || eac-c2c © || asia-pacific-gateway-apg ✓
+╰─ 4.69.217.14     3356    31.155                         (Tokyo, 13, JP, AS) ae1.3505.edge2.Tokyo4.level3.net                                                                    
+   4.68.75.130     2914    31.148                         (Tokyo, 13, JP, AS) NTT-level3-Tokyo4.Level3.net                                                                        
+   210.57.79.17    4637    31.977                      (Tokyo, Tokyo, JP, AS) unknown.telstraglobal.net                                                                           
+   ***             *       -inf                                           *** *                                                                                                   
+   182.161.74.64   55569   31.347                      (Tokyo, Tokyo, JP, AS)                                                                                                     
+   182.161.74.241  55569   31.475                      (Tokyo, Tokyo, JP, AS)                                                                                                     

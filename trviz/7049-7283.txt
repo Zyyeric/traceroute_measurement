@@ -1,0 +1,14 @@
+   45.68.35.213    64150   0.0       (San Pedro Sula, Cortés Department, HN, NA)                                                                                                     
+╭─ 45.68.35.209    64150   0.257     (San Pedro Sula, Cortés Department, HN, NA)                                                                                                     
+S (64150, 54082)  arcos ✓ || maya-1 ✘
+╰─ 23.168.104.9    54082   21.822                    (Miami, Florida, US, NA)                                                                                                     
+╭─ 206.41.108.77   262589  27.37                         (None, None, US, NA) *                                                                                                   
+S (262589)  colombia-florida-subsea-fiber-cfx-1 ✓ || america-movil-submarine-cable-system-1-amx-1 ✓
+├  10.20.32.70     *       64.89                                          ***                                                                                                     
+├─ 179.1.115.6     262589  61.931               (Bogotá, Bogota D.C., CO, SA)                                                                                                     
+S&T (262589, 263703)  arcos ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 190.97.246.90   263703  73.405                  (El Vigía, Mérida, VE, SA)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   170.254.172.12  265641  72.636                  (Maturín, Monagas, VE, SA) rev170-254-172-12.cixve.net                                                                         

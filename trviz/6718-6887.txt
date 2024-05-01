@@ -1,0 +1,16 @@
+   27.111.84.21    135132  0.0           (Cebu City, Central Visayas, PH, AS) ph-ceb-as135132.anchors.atlas.ripe.net                                                              
+   27.111.84.20    135132  1.694             (Baugo, Central Visayas, PH, AS) vlan509.core.ceb02.ds.network                                                                       
+   192.168.159.142 *       18.802                                         ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   192.168.159.168 *       15.094                                         ***                                                                                                     
+   192.168.159.165 *       3.483                                          ***                                                                                                     
+╭─ 43.224.189.33   137074  2.731             (Baugo, Central Visayas, PH, AS) 43-224-189-33.static.rise.as                                                                        
+S (137074, 24173)  national-digital-transmission-network-ndtn ✘ ↠ seamewe-3 ✘ || national-digital-transmission-network-ndtn ✘ ↠ eac-c2c ✘
+├  10.255.64.24    *       39.682                                         ***                                                                                                     
+├─ 27.111.228.52   24173   51.072                    (Seogwipo, None, KR, AS) 24173.sgw.equinix.com                                                                               
+S (24173, 24176)  
+╰─ 210.86.233.17   24176   72.785     (Ho Chi Minh City, Ho Chi Minh, VN, AS) ci233-17.netnam.vn                                                                                  
+   210.86.233.30   24176   63.346     (Ho Chi Minh City, Ho Chi Minh, VN, AS) ci233-30.netnam.vn                                                                                  
+   210.86.232.101  24173   72.787                         (Hanoi, HN, VN, AS) ci232-101.netnam.vn                                                                                 
+   10.11.1.68      *       58.965                                         ***                                                                                                     
+   101.53.31.6     24173   61.82      (Ho Chi Minh City, Ho Chi Minh, VN, AS) ci53.31-6.netnam.vn                                                                                 

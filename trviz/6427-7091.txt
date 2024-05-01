@@ -1,0 +1,17 @@
+   203.174.85.106  38001   0.0                 (Singapore, Singapore, SG, AS)                                                                                                     
+   203.174.85.105  38001   3.756               (Singapore, Singapore, SG, AS)                                                                                                     
+   10.15.62.214    *       3.286                                          ***                                                                                                     
+   203.174.80.54   *       4.667               (Singapore, Singapore, SG, AS)                                                                                                     
+   203.208.158.10  7473    4.23                (Singapore, Singapore, SG, AS)                                                                                                     
+   203.208.171.229 7473    39.292                        (None, None, SG, AS) *                                                                                                   
+╭─ 203.208.178.18  7473    38.889                        (None, None, SG, AS) *                                                                                                   
+S (7473, 3356)  
+├─ 4.68.73.181     3356    38.746                   (Hong Kong, None, HK, AS) lag-8.ear1.HongKong3.Level3.net                                                                     
+S (3356)  
+╰─ 4.69.206.174    3356    37.879                   (Singapore, None, SG, AS) ae1.3505.edge3.Singapore3.level3.net                                                                
+╭─ 8.245.2.186     3356    36.628              (Singapore, Singapore, SG, AS)                                                                                                     
+S (3356, 9268)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 119.17.170.244  9268    127.929          (Sydney, New South Wales, AU, OC) gen-119-17-170-244.ptr4.otw.net.au                                                                  

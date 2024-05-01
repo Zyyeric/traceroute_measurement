@@ -1,0 +1,33 @@
+   185.39.208.23   199993  0.0                       (Lisbon, Lisbon, PT, EU) atlasancora01.wan.dns.pt                                                                            
+   185.39.208.60   199993  3.071                     (Lisbon, Lisbon, PT, EU)                                                                                                     
+   194.210.4.137   1930    1.987                     (Lisbon, Lisbon, PT, EU) router63.lisboa.fccn.pt                                                                             
+   194.210.6.112   1930    1.721                     (Lisbon, Lisbon, PT, EU) router30.lisboa.fccn.pt                                                                             
+   194.210.6.103   1930    2.302                     (Lisbon, Lisbon, PT, EU) router3.lisboa.fccn.pt                                                                              
+   194.210.6.102   1930    9.777                         (Lisbon, 11, PT, EU) Router30.Lisboa.fccn.pt                                                                             
+   193.136.1.9     1930    8.24                        (Porto, Porto, PT, EU) router20.porto.fccn.pt                                                                              
+   194.210.7.103   1930    9.614                          (Porto, 13, PT, EU) Router2.Porto.fccn.pt                                                                               
+╭─ 83.97.88.44     21320   7.461                     (Lisbon, Lisbon, PT, EU) fccn-ias-geant-gw.rt1.por.pt.geant.net                                                              
+S&T (21320, 20965)  west-africa-cable-system-wacs ✓ || africa-coast-to-europe-ace ✓ || tata-tgn-western-europe ✘ || sat-3wasc ✓ || seamewe-3 ✓
+├─ 62.40.98.220    20965   46.053                      (Bilbao, None, ES, EU) ae2.rt1.bil.es.geant.net                                                                            
+S&T (20965)  
+├─ 62.40.98.223    20965   46.203                        (Paris, IDF, FR, EU) ae4.mx1.par.fr.geant.net                                                                            
+T (20965)  
+╰─ 62.40.98.238    20965   48.208                    (Genève, Geneva, CH, EU) ae7.mx1.gen.ch.geant.net                                                                            
+╭─ 62.40.98.182    20965   48.992                      (Geneva, None, CH, EU) ae5.mx1.gen.ch.geant.net                                                                            
+T (20965, 3356)  
+├─ 62.67.72.69     3356    47.626          (Frankfurt am Main, Hesse, DE, EU) lag-117.ear4.frankfurt1.level3.net                                                                  
+T (3356)  
+├─ 171.75.8.243    3356    68.8      (Septèmes-les-Vallons, Provence-Alpes-Côte d'Azur, FR, EU) ae1.3505.edge4.mrs1.neo.colt.net                                                                    
+S (3356, 35819)  
+├─ 212.133.4.70    35819   70.212                        (None, None, SA, AS) *                                                                                                   
+S (35819, 37100)  
+├─ 105.16.32.2     37100   216.879                   (Marseille, PAC, FR, EU) ae-2.cr-02-mrs.fr.seacomnet.com                                                                     
+S&T (37100)  
+╰─ 105.25.160.165  37100   205.401          (Cape Town, Western Cape, ZA, AF) ce-0-1-9.cr-02-cpt.za.seacomnet.com                                                                 
+   105.25.160.178  37100   208.985            (Johannesburg, Gauteng, ZA, AF) ce-0-0-9.cr-02-jnb.za.seacomnet.com                                                                 
+   105.16.29.9     37100   215.12                  (Johannesburg, GT, ZA, AF) ce-4-0-2.er-01-jnb.za.seacomnet.com                                                                 
+╭─ 105.22.34.174   37100   214.876            (Johannesburg, Gauteng, ZA, AF) ce-0-1-5-91.customer-gw-rogers-capital.er-01-jnb.za.seacomnet.com                                   
+S (37100, 36868)  
+╰─ 196.46.34.108   36868   259.454                       (None, None, MU, AF) *                                                                                                   
+   196.46.49.34    36868   253.393   (Quatre Bornes, Plaines Wilhems, MU, AF)                                                                                                     
+   102.222.106.178 328699  251.021           (Port Louis, Port Louis, MU, AF)                                                                                                     

@@ -1,0 +1,23 @@
+   152.195.112.52  15133   0.0                         (Tokyo, Tokyo, JP, AS)                                                                                                     
+╭─ 152.195.112.49  15133   0.904                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+S (15133, 174)  apcn-2 ✓ || korea-japan-cable-network-kjcn ✓ || eac-c2c ✓ || asia-pacific-gateway-apg ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 154.54.89.198   174     61.532                      (Seoul, Seoul, KR, AS) be3010.ccr71.sel01.atlas.cogentco.com                                                               
+╭─ 154.54.93.182   174     61.352                      (Seoul, Seoul, KR, AS) be4409.ccr72.sel01.atlas.cogentco.com                                                               
+S (174)  
+├─ 154.54.30.206   174     61.739                   (Hong Kong, None, HK, AS) be2223.ccr21.hkg02.atlas.cogentco.com                                                               
+S (174)  
+╰─ 154.54.6.25     174     278.598                   (Marseille, PAC, FR, EU) be2900.ccr32.mrs02.atlas.cogentco.com                                                               
+╭─ 154.54.72.225   174     278.603                       (Paris, IDF, FR, EU) be2780.ccr42.par01.atlas.cogentco.com                                                               
+T (174)  
+╰─ 154.54.58.237   174     278.514            (Frankfurt am Main, HE, DE, EU) be2800.ccr42.fra03.atlas.cogentco.com                                                               
+╭─ 154.54.37.30    174     278.953            (Frankfurt am Main, HE, DE, EU) be2846.rcr22.fra06.atlas.cogentco.com                                                               
+LHL (174, 31133)  
+├─ 149.14.69.90    31133   280.368                       (None, None, US, NA) megafon.demarc.cogentco.com                                                                         
+LHL (31133, 51724)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 193.42.115.222  51724   365.79               (Tomsk, Tomsk Oblast, RU, EU) p7234-probes-atlas-ripe.flynet.pro                                                                  

@@ -1,0 +1,13 @@
+   92.38.178.149   202422  0.0                       (Urayasu, Tokyo, JP, AS)                                                                                                     
+   92.38.178.1     202422  0.219                     (Urayasu, Tokyo, JP, AS) gw.gcore.lu                                                                                         
+   10.255.16.181   *       0.245                                          ***                                                                                                     
+   10.255.16.183   *       0.454                                          ***                                                                                                     
+╭─ 101.203.88.118  *       0.847                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+S (, 4788)  apcn-2 ✘ || asia-pacific-gateway-apg ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 1.9.253.38      4788    150.243       (Kuala Lumpur, Kuala Lumpur, MY, AS)                                                                                                     
+S (4788, 7590)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 202.125.149.58  7590    167.381                   (Rawalpindi, PB, PK, AS) Touchstone-4.rwp44d1.pie.net.pk                                                                     
+   210.56.8.180    7590    175.964                    (Islamabad, IS, PK, AS) *                                                                                                   
+   210.56.11.202   7590    167.823             (Islamabad, Islamabad, PK, AS)                                                                                                     

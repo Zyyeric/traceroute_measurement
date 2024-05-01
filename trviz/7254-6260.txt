@@ -1,0 +1,15 @@
+   185.39.208.23   199993  0.0                       (Lisbon, Lisbon, PT, EU) atlasancora01.wan.dns.pt                                                                            
+   185.39.208.60   199993  1.907                     (Lisbon, Lisbon, PT, EU)                                                                                                     
+   194.210.4.137   1930    4.406                     (Lisbon, Lisbon, PT, EU) router63.lisboa.fccn.pt                                                                             
+   194.210.6.212   1930    2.072                     (Lisbon, Lisbon, PT, EU)                                                                                                     
+   194.210.6.203   1930    9.664                     (Lisbon, Lisbon, PT, EU)                                                                                                     
+╭─ 83.97.88.209    21320   1.812                     (Lisbon, Lisbon, PT, EU) fccn-ias-geant-gw.mx2.lis.pt.geant.net                                                              
+S&T (21320, 20965)  
+├─ 62.40.98.97     20965   13.307                         (Madrid, M, ES, EU) ae4.mx1.mad.es.geant.net                                                                            
+T (20965, 47815)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 80.255.14.46    47815   44.824                        (Berlin, BE, DE, EU) core-backbone.server-ware.com                                                                       
+T (47815, 60068)  
+╰─ 169.150.195.74  60068   82.917                   (London, England, GB, EU) coreb-lon.cdn77.com                                                                                 
+   156.146.32.95   60068   71.798                   (Poplar, England, GB, EU)                                                                                                     
+   103.170.154.254 142594  53.976                   (London, England, GB, EU) 254.154.170.103.speedyvps.uk                                                                        

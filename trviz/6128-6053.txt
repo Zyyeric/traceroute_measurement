@@ -1,0 +1,25 @@
+   197.80.104.36   10474   0.0                (Johannesburg, Gauteng, ZA, AF) 197-80-104-36.jhb.mweb.co.za                                                                        
+   197.80.75.3     10474   1.159                  (Randburg, Gauteng, ZA, AF) 20.bu-ether1.vic-pe-12.optinet.net                                                                  
+   197.80.7.9      10474   175.764                       (None, None, ZA, AF) 101.bu-ether5.vic-pe-1.optinet.net                                                                  
+   197.80.4.37     10474   177.386                       (None, None, ZA, AF) bu-ether3.mca-pe-1.optinet.net                                                                      
+   197.80.4.224    10474   176.205                       (None, None, ZA, AF) bu-ether2.mca-pe-2.optinet.net                                                                      
+   197.80.5.60     10474   177.75                        (None, None, ZA, AF) 197-80-5-60.jhb.mweb.co.za                                                                          
+╭─ 197.80.4.216    10474   180.712                       (None, None, ZA, AF) 197-80-4-216.jhb.mweb.co.za                                                                         
+T (10474)  
+╰─ 197.80.5.89     10474   176.361                  (London, England, GB, EU) 197-80-5-89.jhb.mweb.co.za                                                                          
+╭─ 176.67.178.2    10474   181.752                     (London, None, GB, EU) *                                                                                                   
+T (10474)  
+├─ 176.67.178.1    10474   176.733                       (None, None, ZA, AF) *                                                                                                   
+T (10474)  
+├─ 176.67.177.228  10474   200.091                  (London, England, GB, EU) be-15-779-thd-linx-1.optinet.net                                                                    
+S (10474, 6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 65.49.109.214   6939    358.915             (Singapore, Singapore, SG, AS) pakistan-telecommunication-co-ltd.e0-26.switch1.sin1.he.net                                         
+S (6939, 7590)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 202.125.149.58  7590    548.58                    (Rawalpindi, PB, PK, AS) Touchstone-4.rwp44d1.pie.net.pk                                                                     
+   210.56.8.180    7590    727.453                    (Islamabad, IS, PK, AS) *                                                                                                   
+   210.56.11.202   7590    611.224             (Islamabad, Islamabad, PK, AS)                                                                                                     

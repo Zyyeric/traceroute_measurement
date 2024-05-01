@@ -1,0 +1,15 @@
+   195.32.69.197   21034   0.0                     (Pescara, Abruzzo, IT, EU) ripe-atlas.micso.it                                                                                 
+   195.32.69.201   21034   0.485             (Case Zampetta, Abruzzo, IT, EU)                                                                                                     
+   212.43.98.27    21034   0.528             (Case Zampetta, Abruzzo, IT, EU) ip98-27.quipo.net                                                                                   
+   193.201.28.59   *       11.227                       (Rome, Lazio, IT, EU) hurricaneelectric.rom.namex.it                                                                      
+╭─ 184.104.188.134 6939    18.814                      (Bari, Apulia, IT, EU) port-channel1.core1.bri1.he.net                                                                     
+S&T (6939)  italy-albania ✓
+├─ 184.104.196.251 6939    23.867                    (Tirana, Tirana, AL, EU) 100ge0-34.core1.tia1.he.net                                                                         
+LHL (6939)  italy-albania ✓
+├─ 184.104.195.93  6939    34.09               (Sofia, Sofia-Capital, BG, EU) port-channel4.core3.sof1.he.net                                                                     
+T (6939)  
+╰─ 184.105.64.170  6939    45.858                        (Athens, A1, GR, EU) 100ge0-36.core1.ath1.he.net                                                                         
+   184.104.191.234 6939    45.429                    (Koropí, Attica, GR, EU) fast-telecom-p-c.e0-7.core1.ath1.he.net                                                             
+   ***             *       -inf                                           *** *                                                                                                   
+   185.14.96.225   211186  101.072            (Lamía, Central Greece, GR, EU) vlan4090.lamia.fast.net.gr                                                                          
+   185.14.96.232   211186  60.95              (Lamía, Central Greece, GR, EU)                                                                                                     

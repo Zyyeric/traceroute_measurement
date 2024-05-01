@@ -1,0 +1,12 @@
+   146.255.64.30   34547   0.0                  (Skopje, Grad Skopje, MK, EU)                                                                                                     
+   146.255.64.29   34547   0.839              (Krušopek, Grad Skopje, MK, EU)                                                                                                     
+╭─ 184.104.231.214 6939    1.209              (Krušopek, Grad Skopje, MK, EU) e0-2.core1.skp1.he.net                                                                              
+T (6939)  
+├─ 184.104.194.202 6939    1.147 (4.704)          (Sofia, Sofia-Capital, BG, EU) 100ge0-65.core3.sof1.he.net                                                                         
+LHL (6939)  
+├─ 184.104.195.94  6939    15.533                        (Tirana, 11, AL, EU) port-channel1.core1.tia1.he.net                                                                     
+S&T (6939)  
+╰─ 184.104.196.250 6939    21.138                      (Bari, Apulia, IT, EU) 100ge0-34.core1.bri1.he.net                                                                         
+   184.104.188.133 6939    28.541                       (Rome, Lazio, IT, EU) port-channel2.core2.rom1.he.net                                                                     
+   193.201.28.218  *       38.398                       (Rome, Lazio, IT, EU) micso.rom.namex.it                                                                                  
+   195.32.69.197   21034   38.104                  (Pescara, Abruzzo, IT, EU) ripe-atlas.micso.it                                                                                 

@@ -1,0 +1,21 @@
+   172.17.48.40    *       0.0                                            ***                                                                                                     
+   172.17.48.254   *       0.507                                          ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   172.22.6.7      *       1.103                                          ***                                                                                                     
+   172.25.0.197    *       1.231                                          ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   172.16.2.233    *       3.745                                          ***                                                                                                     
+   10.202.7.130    *       3.646                                          ***                                                                                                     
+   195.219.87.198  6453    115.805         (Frankfurt am Main, Hesse, DE, EU) ix-et-4-0-5-0.tcore2.fnm-frankfurt.as6453.net                                                       
+   195.219.87.195  6453    117.42             (Frankfurt am Main, HE, DE, EU) if-ae-59-2.tcore1.fr0-frankfurt.as6453.net                                                          
+╭─ 195.219.223.3   1273    81.716                        (Munich, BY, DE, EU) *                                                                                                   
+T (1273)  
+├─ 195.2.27.222    1273    104.859                       (None, None, GB, EU) ae12-xcr1.mlb.cw.net                                                                                
+S&T (1273)  
+├─ 195.2.31.118    1273    98.561                    (Genoa, Liguria, IT, EU) ae23-xcr1.mrx.cw.net                                                                                
+S&T (1273)  
+├─ 195.2.27.157    1273    104.935                       (None, None, GB, EU) ae6-xcr1.bsb.cw.net                                                                                 
+S&T (1273, 12430)  
+╰─ 195.89.97.98    12430   112.886                       (None, None, ES, EU) vfspain-barcelona-gw.bsb.cw.net                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   147.84.200.125  39069   124.294                   (Murcia, Murcia, ES, EU)                                                                                                     

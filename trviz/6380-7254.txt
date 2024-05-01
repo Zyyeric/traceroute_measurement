@@ -1,0 +1,16 @@
+   103.170.154.254 142594  0.0                      (London, England, GB, EU) 254.154.170.103.speedyvps.uk                                                                        
+╭─ 103.170.154.1   142594  0.162                    (London, England, GB, EU)                                                                                                     
+T (142594, 60068)  
+├─ 156.146.32.92   60068   0.264                     (Prague, Prague, CZ, EU) unn-156-146-32-92.cdn77.com                                                                         
+T (60068)  
+╰─ 185.229.188.67  60068   0.29                     (London, England, GB, EU) vl213.lon-teln-edge-2.cdn77.com                                                                     
+╭─ 169.150.195.119 60068   0.537                    (London, England, GB, EU) wiocc-lon.cdn77.com                                                                                 
+S&T (60068, 37662)  seamewe-3 ✓ || europe-india-gateway-eig ✓ || tata-tgn-western-europe ✓
+├─ 154.66.247.138  37662   112.496                   (Lisbon, Lisbon, PT, EU)                                                                                                     
+S&T (37662)  
+╰─ 154.66.247.137  37662   111.617                     (Lagos, Lagos, NG, AF)                                                                                                     
+   154.66.247.155  37662   111.656                     (Lagos, Lagos, NG, AF)                                                                                                     
+╭─ 102.134.19.134  37662   124.667                     (Lagos, Lagos, NG, AF)                                                                                                     
+S&T (37662, 30997)  
+╰─ 196.201.2.126   30997   186.58                        (Accra, 1, GH, None) *                                                                                                   
+   196.49.14.25    30997   186.581             (Accra, Greater Accra, GH, AF)                                                                                                     

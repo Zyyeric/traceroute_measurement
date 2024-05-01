@@ -1,0 +1,16 @@
+   124.157.73.186  24324   0.0        (Wellington, Wellington Region, NZ, OC)                                                                                                     
+   124.157.73.185  24324   0.884      (Wellington, Wellington Region, NZ, OC)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   124.157.114.134 24324   8.22                  (Auckland, Auckland, NZ, OC) int-prm.tvc.kordia.net.nz                                                                           
+   202.50.236.5    *       9.902                 (Auckland, Auckland, NZ, OC) ae9-141.tkbr11.global-gateway.net.nz                                                                
+   203.96.120.93   4648    10.339                        (None, None, NZ, OC) *                                                                                                   
+╭─ 202.50.232.110  4648    35.067                        (None, None, NZ, OC) *                                                                                                   
+S (4648, 6939)  
+├─ 184.104.195.149 6939    39.011           (Sydney, New South Wales, AU, OC) 100ge0-79.core1.syd1.he.net                                                                         
+S (6939, 46749)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.177.238 46749   165.191                   (Pleasanton, CA, US, NA) stanford-university.100gigabitethernet5-1.core1.pao1.he.net                                         
+   171.66.0.238    32      164.91                      (Stanford, CA, US, NA) csee-west-rtr-vl12.SUNet                                                                            
+   ***             *       -inf                                           *** *                                                                                                   
+   171.67.70.16    32      165.072             (Stanford, California, US, NA) us-pao-as32.anchors.atlas.ripe.net                                                                  

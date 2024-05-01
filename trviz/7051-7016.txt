@@ -1,0 +1,18 @@
+   103.160.63.222  140443  0.0                     (Jakarta, Jakarta, ID, AS) 222.63.160.103.in-addr.herza.id                                                                     
+╭─ 103.160.63.129  140443  0.245                   (Jakarta, Jakarta, ID, AS) 129.63.160.103.in-addr.herza.id                                                                     
+S (140443, 6939)  seamewe-3 ✓
+├  10.111.220.46   *       0.499                                          ***                                                                                                     
+├  10.111.220.6    *       12.261                                         ***                                                                                                     
+├  10.111.222.206  *       12.286                                         ***                                                                                                     
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.105.80.13   6939    157.252                        (Milan, 25, IT, EU) 100ge7-2.core1.mil2.he.net                                                                          
+LHL (6939)  seamewe-4 ✓ ↠ apollo ✓ || seamewe-4 ✓ ↠ flag-atlantic-1-fa-1 ✓ || asia-africa-europe-1-aae-1 ✓ ↠ apollo ✓ || asia-africa-europe-1-aae-1 ✓ ↠ flag-atlantic-1-fa-1 ✓ || seamewe-5 ✓ ↠ apollo ✓ || seamewe-5 ✓ ↠ flag-atlantic-1-fa-1 ✓ || imewe ✓ ↠ apollo ✓ || imewe ✓ ↠ flag-atlantic-1-fa-1 ✓ || seamewe-3 ✓ ↠ apollo ✓ || seamewe-3 ✓ ↠ flag-atlantic-1-fa-1 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.105.81.141  6939    259.12                       (Ashburn, VA, US, NA) port-channel10.core3.ash1.he.net                                                                    
+S (6939, 56655)  
+╰─ 185.125.170.251 56655   188.436                       (Oslo, Oslo, NO, EU)                                                                                                     
+   185.125.170.252 56655   188.417                       (Oslo, Oslo, NO, EU)                                                                                                     
+   185.125.170.47  56655   188.378                       (Oslo, Oslo, NO, EU)                                                                                                     
+   185.14.97.165   56655   1966.474                      (Oslo, Oslo, NO, EU)                                                                                                     
+   185.14.97.165   56655   1966.474                      (Oslo, Oslo, NO, EU)                                                                                                     

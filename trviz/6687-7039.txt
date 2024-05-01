@@ -1,0 +1,16 @@
+   103.170.232.152 142616  0.0                         (Tokyo, Tokyo, JP, AS) user-103-170-232-152.nrt04.jp.misaka.io                                                             
+   ***             *       -inf                                           *** *                                                                                                   
+   103.170.232.2   142616  0.296                       (Tokyo, Tokyo, JP, AS) spine1.nrt04.jp.misaka.io                                                                           
+   199.119.64.136  969     0.296                       (Tokyo, Tokyo, JP, AS) e53-10.cr1a.eqty8.nrt4.jp.917.as                                                                    
+   199.119.64.95   969     0.25                        (Tokyo, Tokyo, JP, AS) po100.cr2a.eqty8.nrt4.jp.917.as                                                                     
+   84.17.33.106    60068   0.276                       (Tokyo, Tokyo, JP, AS) po66-3518.cr01.nrt04.jp.misaka.io                                                                   
+   185.156.45.79   60068   0.284                       (Tokyo, Tokyo, JP, AS) vl216.tyo-eq8-edge-1.cdn77.com                                                                      
+╭─ 195.89.115.177  1273    229.029                     (Tokyo, Tokyo, JP, AS)                                                                                                     
+S (1273)  
+╰─ 195.2.10.193    1273    233.994                       (None, None, GB, EU) *                                                                                                   
+   195.2.2.57      1273    230.762                       (None, None, GB, EU) ae34-xcr1.mrx.cw.net                                                                                
+╭─ 195.2.27.157    1273    233.723                       (None, None, GB, EU) ae6-xcr1.bsb.cw.net                                                                                 
+S&T (1273, 39069)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 147.84.200.125  39069   247.029                   (Murcia, Murcia, ES, EU)                                                                                                     

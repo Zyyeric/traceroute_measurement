@@ -1,0 +1,13 @@
+   63.222.40.114   3491    0.0                       (Taipei, Taiwan, TW, AS) ncic.te0-1-0-23.br01.tap04.as3491.net                                                               
+   63.222.40.113   3491    0.891                      (Neihu, Taiwan, TW, AS) te0-1-0-23.br01.tap04.as3491.net                                                                    
+   63.223.9.102    3491    0.913                       (Taipei, None, TW, AS) Bundle-Ether41.br02.tap04.pccwbtn.net                                                               
+╭─ 63.217.71.50    3491    0.924                     (Taipei, Taiwan, TW, AS) 63-217-71-50.static.pccwglobal.net                                                                  
+S (3491, 2914)  
+╰─ 129.250.7.40    2914    1.118                         (None, None, US, NA) ae-3.r22.taiptw01.tw.bb.gin.ntt.net                                                                 
+   129.250.7.5     2914    32.075                        (None, None, US, NA) ae-7.r31.tokyjp05.jp.bb.gin.ntt.net                                                                 
+╭─ 129.250.2.61    2914    34.994                        (None, None, US, NA) ae-0.a01.frnkge13.de.bb.gin.ntt.net                                                                 
+S (2914, 9824)  
+├─ 61.213.145.202  9824    32.067                (Tokyo / Narita, 12, JP, AS) *                                                                                                   
+S (9824, 24482)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 203.175.175.206 24482   111.445             (Singapore, Singapore, SG, AS)                                                                                                     

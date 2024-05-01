@@ -1,0 +1,15 @@
+   209.189.223.8   7752    0.0                  (Seattle, Washington, US, NA) 209-189-223-8.ip.threshinc.net                                                                      
+   209.189.223.13  7752    0.261                (Seattle, Washington, US, NA) 209-189-223-13.ip.threshinc.net                                                                     
+   209.189.201.129 7752    0.33                 (Seattle, Washington, US, NA) eth48.br01.sttlwawb.pop.threshinc.net                                                               
+   ***             *       -inf                                           *** *                                                                                                   
+   184.105.64.138  6939    3.971                       (Portland, OR, US, NA) 100ge15-1.core1.pdx1.he.net                                                                         
+   ***             *       -inf                                           *** *                                                                                                   
+   184.104.195.113 6939    20.038                      (San Jose, CA, US, NA) 100ge14-2.core1.sjc1.he.net                                                                         
+╭─ 64.71.184.46    4826    20.31                       (San Jose, CA, US, NA) vocus.gigabitethernet2-13.core1.sjc1.he.net                                                         
+S (4826)  hawaiki ✘ || southern-cross-cable-network-sccn ✓ || southern-cross-next ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 114.31.192.97   4826    168.716          (Sydney, New South Wales, AU, OC) be2.bdr01.syd03.nsw.vocus.network                                                                   
+╭─ 123.103.197.26  4826    190.548          (Sydney, New South Wales, AU, OC) ip-26.197.103.123.vocus.net.au                                                                      
+S (4826, 45345)  
+╰─ 202.87.128.198  45345   190.449                        (Noumea, S, NC, OC) *                                                                                                   
+   103.2.186.195   45345   190.513           (Nouméa, South Province, NC, OC) nc-nou-as45345.anchors.atlas.ripe.net                                                               

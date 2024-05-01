@@ -1,0 +1,15 @@
+   45.87.135.252   208398  0.0                 (Singapore, Singapore, SG, AS)                                                                                                     
+   45.87.135.253   208398  1.693               (Singapore, Singapore, SG, AS)                                                                                                     
+   10.1.1.254      *       0.608                                          ***                                                                                                     
+   93.186.133.209  6762    1.031               (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 93.186.133.94   6762    0.965               (Singapore, Singapore, SG, AS) ae6.singapore2.sin.seabone.net                                                                      
+S (6762, 6939)  asia-america-gateway-aag-cable-system ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 64.62.244.148   6939    259.026             (San Jose, California, US, NA) port-channel14.core2.pao1.he.net                                                                    
+   184.105.177.238 46749   268.066                   (Pleasanton, CA, US, NA) stanford-university.100gigabitethernet5-1.core1.pao1.he.net                                         
+   171.66.0.238    32      270.918                     (Stanford, CA, US, NA) csee-west-rtr-vl12.SUNet                                                                            
+   ***             *       -inf                                           *** *                                                                                                   
+   171.67.70.16    32      265.705             (Stanford, California, US, NA) us-pao-as32.anchors.atlas.ripe.net                                                                  

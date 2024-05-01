@@ -1,0 +1,17 @@
+   192.158.252.10  1280    0.0            (Mountain View, California, US, NA) us-pao-as1280.anchors.atlas.ripe.net                                                                
+   192.158.252.3   1280    0.38               (Palo Alto, California, US, NA) r2.pao2-guests.isc.org                                                                              
+   198.32.176.64   4637    0.893                      (Palo Alto, CA, US, NA) *                                                                                                   
+╭─ 202.84.251.61   4637    0.808 (2.529)          (San Jose, California, US, NA) i-1041.eqnx-core02.telstraglobal.net                                                                
+S (4637)  faster ✓ || japan-u-s-cable-network-jus 👍 || pacific-crossing-1-pc-1 ✓ || jupiter ✓ || trans-pacific-express-tpe-cable-system ✓ || new-cross-pacific-ncp-cable-system ✓ || tata-tgn-pacific ✓ || unityeac-pacific 👍
+╰─ 202.84.141.2    4637    108.343                     (Tokyo, Tokyo, JP, AS) i-15708.siko-core02.telstraglobal.net                                                               
+╭─ 202.47.216.210  4637    109.078               (Tokyo / Narita, 12, JP, AS) i-94.siko11.telstraglobal.net                                                                       
+S (4637, 4775)  southeast-asia-japan-cable-sjc ✓ || eac-c2c 👍 || apcn-2 👍 || seamewe-3 👍
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 112.198.1.109   4775    162.811        (Makati City, Metro Manila, PH, AS)                                                                                                     
+   203.177.209.217 4775    167.901           (Baugo, Central Visayas, PH, AS)                                                                                                     
+   203.177.209.218 135132  191.192              (Lapu-Lapu City, CEB, PH, AS) vlan5.vsrx.ceb02.ds.network                                                                         
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   27.111.84.21    135132  172.95        (Cebu City, Central Visayas, PH, AS) ph-ceb-as135132.anchors.atlas.ripe.net                                                              

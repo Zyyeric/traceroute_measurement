@@ -1,0 +1,20 @@
+   103.170.25.13   142360  0.0               (Semarang, Central Java, ID, AS) ipv4-13-25-170-103.nexa.net.id                                                                      
+   103.170.25.9    142360  0.168             (Semarang, Central Java, ID, AS) ipv4-9-25-170-103.nexa.net.id                                                                       
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 103.87.186.178  136106  8.942              (Mega, Southwest Papua, ID, AS) ip186-178.fiberstar.net.id                                                                          
+S&T (136106)  australia-singapore-cable-asc ✓ || matrix-cable-system ✘ || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || indonesia-global-gateway-igg-system ✓ || indigo-west ✓ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || jasuka ✓ || jakabare ✘
+╰─ 103.87.186.3    136106  20.284              (Singapore, Singapore, SG, AS) ip186-3.fiberstar.net.id                                                                            
+   184.104.210.181 6939    19.818              (Singapore, Singapore, SG, AS) port-channel6.switch2.sin2.he.net                                                                   
+╭─ 184.104.199.149 6939    20.483              (Singapore, Singapore, SG, AS) port-channel19.core3.sin1.he.net                                                                    
+S (6939)  asia-america-gateway-aag-cable-system ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 72.52.92.121    6939    193.679                  (Los Angeles, CA, US, NA) port-channel14.core2.lax1.he.net                                                                    
+   198.32.251.85   2152    193.473                       (None, None, US, NA) *                                                                                                   
+   137.164.11.87   2152    198.592                    (Riverside, CA, US, NA) dc-riv-agg8--lax-agg10-300g.cenic.net                                                               
+   137.164.11.91   3292    201.971                     (Tri-City, OR, US, NA) dc-tri-agg2--riv-agg8-300g.cenic.net                                                                
+   137.164.46.7    2152    206.42                      (Tri-City, OR, US, NA) cor-agg8--tri-agg2--100ge.cenic.net                                                                 
+   137.164.50.243  2152    208.084                       (Corona, CA, US, NA) sha-coe-1--cor-agg8-10g.cenic.net                                                                   
+   137.164.34.84   2152    207.371                      (Shafter, CA, US, NA) sha-coe-2---to--sha-coe-1--10ge.cenic.net                                                           
+   137.164.13.11   23483   207.646                      (Shafter, CA, US, NA) shacoe-gw2--sha-coe-2-10g.cenic.net                                                                 
+   66.244.16.33    23483   207.4                (Redding, California, US, NA) us-rdd-as23483.anchors.atlas.ripe.net                                                               

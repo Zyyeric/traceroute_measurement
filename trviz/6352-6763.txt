@@ -1,0 +1,26 @@
+   109.168.125.243 5602    0.0                      (Milan, Lombardy, IT, EU) 243.125.168.109.host.static.ip.kpnqwest.it                                                          
+   ***             *       -inf                                           *** *                                                                                                   
+   94.141.0.137    5602    0.414                   (Figino, Lombardy, IT, EU) er2-xe-1-3-0-0-cal4.mil.kpnqwest.it                                                                 
+   94.141.0.201    5602    0.466                   (Figino, Lombardy, IT, EU) er1-xe-0-0-3-0-cal4.mil.kpnqwest.it                                                                 
+   109.168.0.22    5602    1.14                            (Lodi, 25, IT, EU) cr2-hunge0-0-1-1-cal1.mil.kpnqwest.it                                                               
+   109.168.0.166   5602    0.486                          (Milan, 25, IT, EU) br1-xe-0-1-0-0-cal1.mil.kpnqwest.it                                                                 
+   62.196.8.245    3302    0.537                   (Figino, Lombardy, IT, EU)                                                                                                     
+   37.32.106.65    *       8.45                     (Milan, Lombardy, IT, EU)                                                                                                     
+   89.221.32.40    6762    10.225                       (Rome, Lazio, IT, EU) et0-0-33.roma54.rom.seabone.net                                                                     
+╭─ 185.100.113.151 6762    25.749                        (None, None, IT, EU) *                                                                                                   
+LHL (6762, 2603)  asia-africa-europe-1-aae-1 ✓ || seamewe-5 👍 || imewe 👍
+├─ 80.249.209.203  2603    26.13                      (Amsterdam, NH, NL, EU) nl-ams.nordu.net                                                                                    
+S&T (2603)  circe-north ✓ || ulysses-2 ✘ || scylla ✓ || zeus ✓ || concerto ✘ || farland-north ✘
+╰─ 109.105.102.97  2603    32.423                      (Hexton, None, GB, EU) uk-hex.nordu.net                                                                                    
+╭─ 109.105.102.98  2603    33.009                       (London, ENG, GB, EU) ndn-gw.mx1.lon.uk.geant.net                                                                         
+S&T (2603, 20965)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 62.40.98.222    20965   51.07                       (Bilbao, None, ES, EU) ae4.rt1.bil.es.geant.net                                                                            
+S&T (20965, 21320)  
+├─ 83.97.90.19     21320   50.815                   (London, England, GB, EU) rediris-ias-geant.bil.es.geant.net                                                                  
+S&T (21320, 766)  
+╰─ 130.206.245.22  766     53.919                        (None, None, ES, EU) ehu.rt2.ethtrunk3.unizar.rt2.ara.red.rediris.es                                                     
+   130.206.245.94  766     53.76                         (None, None, ES, EU) unizar.rt2.ae6-323.telmad.rt4.mad.red.rediris.es                                                    
+   130.206.214.98  13041   62.955                        (None, None, ES, EU) anella-router.red.rediris.es                                                                        
+   84.88.18.254    13041   62.35               (Barcelona, Catalonia, ES, EU) anchor-anella.cesca.cat                                                                             

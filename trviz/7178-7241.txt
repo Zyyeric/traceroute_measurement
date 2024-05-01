@@ -1,0 +1,16 @@
+   182.18.209.9    23944   0.0                 (Manila, Metro Manila, PH, AS)                                                                                                     
+╭─ 182.18.209.1    23944   0.711          (Quezon City, Metro Manila, PH, AS) 209-182.gw.skybroadband.com.ph                                                                      
+S (23944, 1299)  eac-c2c ✓ || southeast-asia-japan-cable-sjc ✓ || apcn-2 ✓
+├  172.31.31.108   *       0.856                                          ***                                                                                                     
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 62.115.137.243  1299    28.331              (Singapore, Singapore, SG, AS) snge-b4-link.ip.twelve99.net                                                                        
+S (1299)  
+╰─ 62.115.143.244  1299    179.394          (Los Angeles, California, US, NA) lax-b23-link.ip.twelve99.net                                                                        
+╭─ 62.115.183.211  1299    182.897          (Los Angeles, California, US, NA) lumen-ic-351534.ip.twelve99-cust.net                                                                
+S (1299, 25003)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 212.113.14.250  25003   261.11                      (London, None, GB, EU) IB.edge5.London1.Level3.net                                                                         
+T (25003)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 94.188.255.2    25003   322.938              (Bnei Brak, Tel Aviv, IL, AS) 255.188.94-binat-smaug.in-addr.arpa                                                                 

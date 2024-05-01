@@ -1,0 +1,21 @@
+   163.117.253.5   766     0.0                       (Madrid, Madrid, ES, EU)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   172.17.0.53     *       1.324                                          ***                                                                                                     
+   193.145.15.49   766     1.627                    (Leganés, Madrid, ES, EU) csic-rt-ju-02-xe-4-0-6.net.redimadrid.es                                                            
+   130.206.216.1   766     2.166                     (Madrid, Madrid, ES, EU) redimadrid-backup.ethtrunk8-103.telmad.rt1.mad.red.rediris.es                                       
+   130.206.245.50  766     2.277                         (None, None, ES, EU) telmad.rt1.ae11-0.telmad.rt4.mad.red.rediris.es                                                     
+╭─ 83.97.90.20     21320   2.182                     (Madrid, Madrid, ES, EU) rediris-ias-geant-gw.mad.es.geant.net                                                               
+S&T (21320, 20965)  africa-coast-to-europe-ace ✓ || seamewe-3 ✓
+├─ 62.40.98.227    20965   37.063    (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) ae2.rt1.mar.fr.geant.net                                                                            
+T (20965)  
+╰─ 62.40.98.236    20965   37.929                    (Genève, Geneva, CH, EU) ae4.mx1.gen.ch.geant.net                                                                            
+╭─ 62.40.98.182    20965   34.822                      (Geneva, None, CH, EU) ae5.mx1.gen.ch.geant.net                                                                            
+T (20965, 24961)  
+╰─ 80.81.192.162   24961   37.427                    (Dusseldorf, NW, DE, EU) po16q60-h9137.core1-dus-ix.bb.as24961.net                                                           
+   62.141.47.97    24961   37.813    (Düsseldorf, North Rhine-Westphalia, DE, EU) lag7.core2-dus3.bb.as24961.net                                                                      
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 62.141.35.93    24961   36.989    (Düsseldorf, North Rhine-Westphalia, DE, EU)                                                                                                     
+T (24961, 41047)  
+╰─ 87.237.165.29   41047   37.116          (Amsterdam, North Holland, NL, EU)                                                                                                     

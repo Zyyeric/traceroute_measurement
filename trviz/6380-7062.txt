@@ -1,0 +1,16 @@
+   196.40.111.147  37153   0.0              (Cape Town, Western Cape, ZA, AF) atlas-anchor-cpt3.cpt.net.host-h.net                                                                
+   196.40.111.145  37153   0.17 (5.788)       (Cape Town, Western Cape, ZA, AF)                                                                                                     
+   41.204.206.37   37153   0.34             (Cape Town, Western Cape, ZA, AF) core-router1.cpt2.host-h.net                                                                        
+   196.60.70.126   *       1.477             (Rosebank, Western Cape, ZA, AF) 196-60-70-126.ixp.capetown                                                                          
+╭─ 168.209.6.17    3741    1.312            (Cape Town, Western Cape, ZA, AF)                                                                                                     
+LHL (3741)  africa-coast-to-europe-ace ✓
+├─ 168.209.100.58  3741    17.694             (Frankfurt am Main, HE, DE, EU) mi-de-fra-p2-ten-ge-0-0-2-0sub153.ip.ddii.network                                                   
+LHL (3741)  
+╰─ 168.209.100.212 3741    190.088                       (None, None, ZA, AF) *                                                                                                   
+   168.209.246.16  3741    191.246                       (None, None, ZA, AF) ar3-dock-be-1.ip.ddii.network                                                                       
+   168.209.160.109 3741    189.116                       (None, None, ZA, AF) *                                                                                                   
+   196.14.240.4    3741    272.193                       (None, None, ZA, AF) *                                                                                                   
+╭─ 196.14.240.5    37350   272.222                       (None, None, ZA, AF) *                                                                                                   
+S&T (37350, 30997)  africa-coast-to-europe-ace ✓ ↠ africa-coast-to-europe-ace ✓
+╰─ 196.201.2.126   30997   272.07                        (Accra, 1, GH, None) *                                                                                                   
+   196.49.14.25    30997   272.43              (Accra, Greater Accra, GH, AF)                                                                                                     

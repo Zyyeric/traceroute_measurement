@@ -1,0 +1,34 @@
+   193.50.97.164   2200    0.0                   (Plouzané, Brittany, FR, EU) anchor.netlab.enstb.org                                                                             
+   193.50.97.161   2200    0.335                 (Plouzané, Brittany, FR, EU) netlab-gw.enstb.org                                                                                 
+   192.108.116.201 50897   0.393                 (Plouzané, Brittany, FR, EU) asr-vlan39.enst-bretagne.fr                                                                         
+   193.51.188.10   2200    0.383 (6.226)        (Saint-Brieuc, Brittany, FR, EU) vl807-pc1-brest1-rtr-021.noc.renater.fr                                                             
+   193.51.177.174  2200    12.239              (Paris, Île-de-France, FR, EU) et-5-2-1-ren-nr-paris1-rtr-131.noc.renater.fr                                                       
+   193.51.180.167  2200    16.669                        (Lyon, None, FR, EU) et-2-0-0-ren-nr-lyon1-rtr-131.noc.renater.fr                                                        
+   77.95.71.77     6461    21.814                    (Grenoble, 84, FR, None) zayo-6461.rezopole.net                                                                              
+   64.125.27.14    6461    22.124                        (Paris, IDF, FR, EU) ae3.cs1.cdg11.fr.zip.zayo.com                                                                       
+   64.125.29.95    6461    22.818                        (Paris, IDF, FR, EU) ae1.mcs1.cdg11.fr.eth.zayo.com                                                                      
+   82.98.232.159   6461    21.788              (Paris, Île-de-France, FR, EU) 82.98.232.159.idia-288174-019-zyo.zip.zayo.com                                                      
+   206.148.26.60   7578    21.986              (Paris, Île-de-France, FR, EU) po2.par-thpa2-cr2.globalsecurelayer.com                                                             
+╭─ 206.148.26.59   7578    22.338              (Paris, Île-de-France, FR, EU) e23.par-eqxpa3-cr1.globalsecurelayer.com                                                            
+S (7578)  apollo ✘ || flag-atlantic-1-fa-1 ✘
+╰─ 206.148.26.57   7578    96.495                 (Ashburn, Virginia, US, NA) e56.ash-eqxdc10-bb3.globalsecurelayer.com                                                           
+   206.148.25.48   7578    110.146              (East Point, Georgia, US, NA) e52.atl-drtatl1-bb1.globalsecurelayer.com                                                           
+   206.148.25.24   7578    124.682           (University Park, Texas, US, NA) e51.dal-eqxda11-bb1.globalsecurelayer.com                                                           
+   206.148.25.23   7578    148.216                 (Phoenix, Arizona, US, NA) e50.phx-pnap-bb1.globalsecurelayer.com                                                              
+   206.148.25.19   7578    153.1            (Los Angeles, California, US, NA) e51.lax-csla2-bb1.globalsecurelayer.com                                                             
+╭─ 206.148.25.84   7578    250.794          (Los Angeles, California, US, NA) e50.ty-eqxty8-bb5.globalsecurelayer.com                                                             
+S (7578)  
+╰─ 206.148.24.51   7578    250.84           (Sydney, New South Wales, AU, OC) e30.ty-eqxty8-bb1.globalsecurelayer.com                                                             
+╭─ 206.148.24.66   7578    317.389          (Sydney, New South Wales, AU, OC) e51.sg-eqxsg3-bb1.globalsecurelayer.com                                                             
+S (7578)  
+╰─ 31.217.251.74   7578    317.346             (Singapore, Singapore, SG, AS) unknown.globalsecurelayer.com                                                                       
+╭─ 160.202.164.165 137409  267.942             (Singapore, Singapore, SG, AS)                                                                                                     
+S (137409, 8529)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 213.202.6.194   8529    270.073                   (Muscat, Muscat, OM, AS)                                                                                                     
+S&T (8529, 42961)  
+├─ 151.248.98.137  42961   262.048                       (None, None, BH, AS) *                                                                                                   
+S (42961)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 212.43.17.42    42961   262.969     (Al Farwānīyah, Al Farwaniyah, KW, AS)                                                                                                     

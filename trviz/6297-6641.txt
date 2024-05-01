@@ -1,0 +1,22 @@
+   92.38.135.131   202422  0.0                         (Seoul, Seoul, KR, AS)                                                                                                     
+   92.38.135.2     202422  0.219                       (Seoul, Seoul, KR, AS) vrrp.gcore.lu                                                                                       
+   10.255.17.209   *       0.317                                          ***                                                                                                     
+   10.255.17.213   *       0.364                                          ***                                                                                                     
+   10.255.17.147   *       0.368                                          ***                                                                                                     
+╭─ 113.29.52.41    3549    0.607                       (Seoul, Seoul, KR, AS)                                                                                                     
+S (3549, 3356)  eac-c2c ✘ || asia-pacific-gateway-apg ✘ || apcn-2 ✘ || seamewe-3 ✘
+├─ 4.69.211.62     3356    95.879                   (Singapore, None, SG, AS) ae14.14.bar1.Singapore4.level3.net                                                                  
+S (3356, 1273)  
+╰─ 195.2.16.177    1273    95.853                        (None, None, GB, EU) ae14-xcr2.sgs.cw.net                                                                                
+   195.2.24.165    1273    311.452                       (None, None, GB, EU) ae9-xcr1.sng.cw.net                                                                                 
+   195.2.2.57      1273    345.726                       (None, None, GB, EU) ae34-xcr1.mrx.cw.net                                                                                
+   195.2.21.186    1273    281.549                       (None, None, GB, EU) ae51.xcr1.mlu.cw.net                                                                                
+   195.2.16.2      1273    296.712                       (None, None, GB, EU) ae23.0-xcr1.sof.cw.net                                                                              
+╭─ 195.2.12.58     3329    370.851                       (None, None, GB, EU) vfgr1-vf-gw.sof.cw.net                                                                              
+S&T (3329)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 62.74.30.101    3329    341.991                        (Athens, I, GR, EU) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   62.74.226.30    12361   296.315                   (Athens, Attica, GR, EU) dumy30.panafonet.gr                                                                                 
+   ***             *       -inf                                           *** *                                                                                                   
+   139.91.68.3     8522    333.19                  (Irákleion, Crete, GR, EU)                                                                                                     

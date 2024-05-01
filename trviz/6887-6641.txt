@@ -1,0 +1,19 @@
+   92.38.135.131   202422  0.0                         (Seoul, Seoul, KR, AS)                                                                                                     
+   92.38.135.2     202422  0.29                        (Seoul, Seoul, KR, AS) vrrp.gcore.lu                                                                                       
+   10.255.17.209   *       0.294                                          ***                                                                                                     
+   10.255.17.213   *       0.278                                          ***                                                                                                     
+   10.255.17.147   *       0.676                                          ***                                                                                                     
+╭─ 8.244.74.25     3356    0.559 (1.633)                  (Seoul, Seoul, KR, AS)                                                                                                     
+S (3356)  apcn-2 ✓ || asia-pacific-gateway-apg ✓ || flag-north-asia-loopreach-north-asia-loop ✓ || eac-c2c © || new-cross-pacific-ncp-cable-system ✓ || korea-japan-cable-network-kjcn ✓ || seamewe-3 ✓ || flag-europe-asia-fea © || trans-pacific-express-tpe-cable-system ✓
+╰─ 4.69.217.14     3356    30.846                         (Tokyo, 13, JP, AS) ae1.3505.edge2.Tokyo4.level3.net                                                                    
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 62.115.182.113  1299    30.969                      (Tokyo, Tokyo, JP, AS) innove-ic-360866.ip.twelve99-cust.net                                                               
+S (1299, 4775)  eac-c2c © || southeast-asia-japan-cable-sjc ✓ || seamewe-3 ✓
+╰─ 120.28.0.9      4775    79.228                        (None, None, PH, AS) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   203.177.209.218 135132  89.995               (Lapu-Lapu City, CEB, PH, AS) vlan5.vsrx.ceb02.ds.network                                                                         
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   27.111.84.21    135132  96.924        (Cebu City, Central Visayas, PH, AS) ph-ceb-as135132.anchors.atlas.ripe.net                                                              

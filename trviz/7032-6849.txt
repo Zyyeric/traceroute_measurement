@@ -1,0 +1,12 @@
+   203.119.111.139 4608    0.0                 (Brisbane, Queensland, AU, OC) anchor.apnic.net                                                                                    
+   203.119.111.131 4608    0.634               (Brisbane, Queensland, AU, OC) vl-1705.nxcs2.hosted.au.apnic.net                                                                   
+   203.119.104.29  4608    0.449                      (Brisbane, QLD, AU, OC) te-0-1-5.nxgw2.bne.apnic.net                                                                        
+   138.44.129.153  7575    0.746               (Brisbane, Queensland, AU, OC) ae2-223-pe1.fvly.qld.aarnet.net.au                                                                  
+   113.197.15.6    7575    12.281           (Sydney, New South Wales, AU, OC) et-0-3-0.pe1.mcqp.nsw.aarnet.net.au                                                                 
+╭─ 113.197.15.143  7575    12.433              (New South Wales, NSW, AU, OC) et-0-1-0.pe1.bkvl.nsw.aarnet.net.au                                                                 
+S (7575)  hawaiki ✘ || southern-cross-cable-network-sccn ✓ || telstra-endeavour ✓
+├─ 202.158.194.121 7575    153.949                      (Seattle, WA, US, NA) xe-0-2-5.bdr1.b.sea.aarnet.net.au                                                                   
+S (7575, 3491)  sea-us ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 63.218.122.178  3491    244.162                        (Manila, 0, PH, AS) TenGE0-0-2-1.br02.mnl01.pccwbtn.net                                                                 
+   63.222.187.5    3491    241.345             (Manila, Metro Manila, PH, AS)                                                                                                     

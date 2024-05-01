@@ -1,0 +1,44 @@
+   180.211.88.22   45725   0.0                     (Jakarta, Jakarta, ID, AS) id-jkt-as45725.anchors.atlas.ripe.net                                                               
+   180.211.88.21   45725   0.517                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+   43.230.153.89   *       0.376                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+╭─ 111.92.161.4    55655   0.845                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+S&T (55655, 9002)  australia-singapore-cable-asc ✘ || matrix-cable-system ✘ || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || indonesia-global-gateway-igg-system ✘ || seamewe-3 ✘ || indigo-west ✘ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || jasuka ✘ || jakabare ✘
+├  10.110.1.0      *       12.481                                         ***                                                                                                     
+├─ 87.245.238.250  9002    12.818                      (Singapore, 4, SG, AS) ae0-302.RT1.EQX.SIN.SG.retn.net                                                                     
+S (9002)  eac-c2c ✓ || asia-pacific-gateway-apg ✓ || southeast-asia-japan-cable-sjc ✓ || asia-america-gateway-aag-cable-system ✓ || seamewe-3 ✓ || asia-submarine-cable-express-asecahaya-malaysia ✓ || apcn-2 ✓ || tata-tgn-intra-asia-tgn-ia ✓
+├─ 87.245.232.179  9002    89.166                   (Hong Kong, None, HK, AS) ae2-8.RT.TD2.HKG.CN.retn.net                                                                        
+S (9002, 3356)  
+╰─ 113.29.40.85    3356    88.7                        (New York, NY, US, NA) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   154.54.43.9     174     238.908                (San Francisco, CA, US, NA) be3669.ccr21.sfo01.atlas.cogentco.com                                                               
+   154.54.44.138   174     237.482               (Salt Lake City, UT, US, NA) be3109.ccr21.slc01.atlas.cogentco.com                                                               
+   154.54.41.146   174     229.87                        (Denver, CO, US, NA) be3037.ccr21.den01.atlas.cogentco.com                                                               
+   154.54.5.90     174     240.924                  (Kansas City, MO, US, NA) be3035.ccr21.mci01.atlas.cogentco.com                                                               
+   154.54.42.166   174     248.861                      (Chicago, IL, US, NA) be2831.ccr41.ord01.atlas.cogentco.com                                                               
+   154.54.6.222    174     267.027                    (Cleveland, OH, US, NA) be2717.ccr21.cle04.atlas.cogentco.com                                                               
+   154.54.26.130   174     267.357                       (Albany, NY, US, NA) be2878.ccr21.alb02.atlas.cogentco.com                                                               
+   66.28.4.238     174     267.205                       (Boston, MA, US, NA) be3599.ccr31.bos01.atlas.cogentco.com                                                               
+╭─ 154.54.47.142   174     267.322                 (White Plains, NY, US, NA) be2119.rcr21.hpn04.atlas.cogentco.com                                                               
+S (174)  
+├─ 154.54.60.5     174     267.005                      (London, ENG, GB, EU) be3487.ccr41.lon13.atlas.cogentco.com                                                               
+S&T (174)  
+├─ 154.54.56.94    174     266.933                    (Amsterdam, NH, NL, EU) be12194.ccr41.ams03.atlas.cogentco.com                                                              
+T (174)  
+╰─ 130.117.0.122   174     264.786            (Frankfurt am Main, HE, DE, EU) be2813.ccr41.fra03.atlas.cogentco.com                                                               
+╭─ 154.54.36.54    174     269.268                       (Munich, BY, DE, EU) be2959.ccr21.muc03.atlas.cogentco.com                                                               
+T (174)  
+├─ 154.54.58.6     174     274.763                        (Vienna, 9, AT, EU) be2974.ccr51.vie01.atlas.cogentco.com                                                               
+T (174)  
+├─ 154.54.59.85    174     301.032                   (Bratislava, BL, SK, EU) be2988.ccr21.bts01.atlas.cogentco.com                                                               
+T (174)  
+├─ 130.117.3.138   174     301.107                     (Budapest, PE, HU, EU) be3261.ccr31.bud01.atlas.cogentco.com                                                               
+T (174)  
+├─ 154.54.38.246   174     301.346                     (Bucharest, B, RO, EU) be3262.ccr31.buh01.atlas.cogentco.com                                                               
+S&T (174)  
+╰─ 154.54.77.237   174     300.531               (Istanbul, Istanbul, TR, AS) be3572.rcr71.ist01.atlas.cogentco.com                                                               
+   154.25.16.82    174     302.205               (Istanbul, Istanbul, TR, AS) be3821.nr71.b061536-0.ist01.atlas.cogentco.com                                                      
+   10.252.2.142    *       301.315                                        ***                                                                                                     
+   10.252.1.201    *       294.254                                        ***                                                                                                     
+   10.252.0.42     *       312.608                                        ***                                                                                                     
+   149.34.193.159  208972  311.233               (Istanbul, Istanbul, TR, AS)                                                                                                     

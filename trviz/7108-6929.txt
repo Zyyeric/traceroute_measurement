@@ -1,0 +1,16 @@
+   27.131.108.126  38880   0.0                  (Melbourne, Victoria, AU, OC)                                                                                                     
+╭─ 27.131.108.97   38880   1.213                (Melbourne, Victoria, AU, OC)                                                                                                     
+S (38880, 7713)  
+├  192.168.164.2   *       1.037                                          ***                                                                                                     
+├  192.168.248.5   *       1.168                                          ***                                                                                                     
+├  192.168.247.78  *       1.74                                           ***                                                                                                     
+├  192.168.249.186 *       86.822                                         ***                                                                                                     
+├─ 27.111.228.77   7713    87.557                    (Seogwipo, None, KR, AS) 7713.sgw.equinix.com                                                                                
+S (7713)  
+╰─ 180.240.204.9   7713    88.305              (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 180.240.204.9   7713    88.305              (Singapore, Singapore, SG, AS)                                                                                                     
+S&T (7713)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 36.93.255.177   7713    107.369                      (Batam, Riau, ID, AS)                                                                                                     
+   36.93.255.178   58475   105.799                       (None, None, ID, AS) *                                                                                                   
+   103.23.232.7    58475   107.558    (Banjarmasin, South Kalimantan, ID, AS)                                                                                                     

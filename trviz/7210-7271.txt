@@ -1,0 +1,18 @@
+   103.170.25.13   142360  0.0               (Semarang, Central Java, ID, AS) ipv4-13-25-170-103.nexa.net.id                                                                      
+   103.170.25.9    142360  0.256             (Semarang, Central Java, ID, AS) ipv4-9-25-170-103.nexa.net.id                                                                       
+   103.170.24.253  142360  0.573             (Semarang, Central Java, ID, AS) ipv4-253-24-170-103.nexa.net.id                                                                     
+╭─ 103.87.186.178  136106  8.993              (Mega, Southwest Papua, ID, AS) ip186-178.fiberstar.net.id                                                                          
+S&T (136106)  australia-singapore-cable-asc ✓ || matrix-cable-system ✘ || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || indonesia-global-gateway-igg-system ✓ || indigo-west ✓ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || jasuka ✓
+╰─ 103.87.186.29   136106  20.396              (Singapore, Singapore, SG, AS) ip186-29.fiberstar.net.id                                                                           
+   184.104.210.181 6939    19.794              (Singapore, Singapore, SG, AS) port-channel6.switch2.sin2.he.net                                                                   
+╭─ 184.104.199.149 6939    23.483              (Singapore, Singapore, SG, AS) port-channel19.core3.sin1.he.net                                                                    
+S (6939)  seamewe-5 ✓
+├─ 184.104.194.200 6939    156.864   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) port-channel15.core4.mrs1.he.net                                                                    
+T (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 72.52.92.198    6939    186.077                        (Dublin, D, IE, EU) 100ge0-33.core2.dub1.he.net                                                                         
+   185.6.36.106    47720   184.49                       (Dublin, L, IE, None) inex-dub1.as47720.net                                                                               
+   91.103.0.196    47720   184.752                          (Cork, M, IE, EU) *                                                                                                   
+   91.103.0.99     42953   185.987                          (Cork, M, IE, EU) *                                                                                                   
+   185.6.39.132    42953   184.698                    (Cork, Munster, IE, EU)                                                                                                     

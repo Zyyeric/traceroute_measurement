@@ -1,0 +1,18 @@
+   193.50.97.164   2200    0.0                   (Plouzané, Brittany, FR, EU) anchor.netlab.enstb.org                                                                             
+   193.50.97.161   2200    1.161                 (Plouzané, Brittany, FR, EU) netlab-gw.enstb.org                                                                                 
+   192.108.116.201 50897   0.32                  (Plouzané, Brittany, FR, EU) asr-vlan39.enst-bretagne.fr                                                                         
+   193.51.188.10   2200    8.09              (Saint-Brieuc, Brittany, FR, EU) vl807-pc1-brest1-rtr-021.noc.renater.fr                                                             
+   193.51.177.174  2200    21.346              (Paris, Île-de-France, FR, EU) et-5-2-1-ren-nr-paris1-rtr-131.noc.renater.fr                                                       
+   193.51.180.167  2200    16.991                        (Lyon, None, FR, EU) et-2-0-0-ren-nr-lyon1-rtr-131.noc.renater.fr                                                        
+   193.51.180.129  2200    21.038    (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) et-2-0-7-ren-nr-marseille1-rtr-131.noc.renater.fr                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   154.54.76.105   174     22.447    (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) be3146.ccr31.mrs02.atlas.cogentco.com                                                               
+╭─ 154.54.72.109   174     22.679                        (Paris, IDF, FR, EU) be2779.ccr41.par01.atlas.cogentco.com                                                               
+T (174)  
+╰─ 130.117.2.141   174     32.064                     (Amsterdam, NH, NL, EU) be12265.ccr41.ams03.atlas.cogentco.com                                                              
+   154.54.56.166   174     32.741                     (Amsterdam, NH, NL, EU) be2020.rcr21.b021535-1.ams03.atlas.cogentco.com                                                     
+╭─ 149.11.201.226  174     32.027          (Amsterdam, North Holland, NL, EU) blade.demarc.cogentco.com                                                                           
+LHL (174, 13238)  seamewe-4 ✓ || seamewe-3 ✓ || seamewe-5 ✓
+╰─ 93.158.160.15   13238   205.375             (Singapore, Singapore, SG, AS) sin-b1-fti0.yndx.net                                                                                
+   ***             *       -inf                                           *** *                                                                                                   
+   45.87.135.252   208398  219.045             (Singapore, Singapore, SG, AS)                                                                                                     

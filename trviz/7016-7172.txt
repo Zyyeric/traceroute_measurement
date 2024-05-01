@@ -1,0 +1,14 @@
+   63.222.106.8    3491    0.0                         (Seoul, Seoul, KR, AS) 63-222-106-8.static.pccwglobal.net                                                                  
+╭─ 63.222.106.2    3491    0.748                (Yongsan-dong, Seoul, KR, AS) 63-222-106-2.static.pccwglobal.net                                                                  
+S (3491)  korea-japan-cable-network-kjcn ✓ || seamewe-3 👍
+├─ 63.218.250.82   3491    30.484                      (Tokyo, Tokyo, JP, AS) be41.br04.tok02.as3491.net                                                                          
+S (3491, 396998)  asia-submarine-cable-express-asecahaya-malaysia ✓ || seamewe-3 👍
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 23.183.246.250  396998  81.21               (Singapore, Singapore, SG, AS)                                                                                                     
+S&T (396998, 140443)  australia-singapore-cable-asc ✓ || indigo-west ✓ || indonesia-global-gateway-igg-system ✓ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || seamewe-3 ✓ || matrix-cable-system ✓ || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || jasuka ✓ || jakabare ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 103.160.63.222  140443  95.19                   (Jakarta, Jakarta, ID, AS) 222.63.160.103.in-addr.herza.id                                                                     

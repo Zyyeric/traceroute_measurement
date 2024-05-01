@@ -1,0 +1,25 @@
+   194.149.138.252 5379    0.0                  (Skopje, Grad Skopje, MK, EU)                                                                                                     
+   194.149.138.254 5379    1.405                (Skopje, Grad Skopje, MK, EU)                                                                                                     
+   194.149.137.73  5379    0.482                (Skopje, Grad Skopje, MK, EU)                                                                                                     
+╭─ 194.149.130.90  5379    0.504                (Skopje, Grad Skopje, MK, EU)                                                                                                     
+T (5379, 21320)  
+├─ 83.97.88.101    21320   0.575 (4.55)          (Sofia, Sofia-Capital, BG, EU) marnet-ias.mx1.sof.bg.geant.net                                                                     
+LHL (21320, 20965)  
+├─ 62.40.98.9      20965   19.353                    (Zagreb, Zagreb, HR, EU) ae0.mx2.zag.hr.geant.net                                                                            
+LHL (20965)  
+├─ 62.40.98.188    20965   19.274                         (Milan, 25, IT, EU) ae8.mx1.mil2.it.geant.net                                                                           
+T (20965, 174)  
+╰─ 149.6.182.113   174     19.154                      (Budapest, PE, HU, EU) be5591.rcr51.b020664-1.bud01.atlas.cogentco.com                                                     
+╭─ 130.117.1.13    174     19.965                      (Budapest, PE, HU, EU) be2246.ccr31.bud01.atlas.cogentco.com                                                               
+T (174)  
+├─ 130.117.0.126   174     25.019                       (Belgrade, 0, RS, EU) be3422.ccr51.beg03.atlas.cogentco.com                                                               
+T (174)  
+├─ 130.117.0.93    174     30.149                         (Sofia, 23, BG, EU) be3421.ccr31.sof02.atlas.cogentco.com                                                               
+LHL (174)  
+├─ 130.117.0.190   174     36.158                        (Malaga, AN, ES, EU) be3304.rcr21.agp01.atlas.cogentco.com                                                               
+S (174)  
+╰─ 154.54.37.142   174     41.644                    (Athens, Attica, GR, EU) be2047.rcr21.ath01.atlas.cogentco.com                                                               
+   149.11.120.66   174     41.006               (Metamórfosi, Attica, GR, EU) fastpath1.demarc.cogentco.com                                                                       
+   185.201.254.31  56457   41.14                 (Áno Liósia, Attica, GR, EU) be3503.ef2.ath01.fastpath.gr                                                                        
+   185.201.254.37  56457   41.363                (Áno Liósia, Attica, GR, EU) te1-24.sp0.ath01.fastpath.gr                                                                        
+   176.119.210.244 56457   41.326                    (Athens, Attica, GR, EU)                                                                                                     

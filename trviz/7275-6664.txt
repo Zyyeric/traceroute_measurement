@@ -1,0 +1,20 @@
+   146.185.219.73  202422  0.0        (Petaẖ Tiqva, Central District, IL, AS)                                                                                                     
+   146.185.219.3   202422  0.365                 (Tel Aviv, Tel Aviv, IL, AS) vrrp.gcore.lu                                                                                       
+   10.255.29.242   *       0.391                                          ***                                                                                                     
+   82.81.82.241    8551    0.408                 (Tel Aviv, Tel Aviv, IL, AS) bzq-82-81-82-241.red.bezeqint.net                                                                   
+╭─ 62.219.189.185  8551    0.691                 (Rishon LeZiyyon, M, IL, AS) bzq-219-189-185.dsl.bezeqint.net                                                                    
+LHL (8551, 6939)  mednautilus-submarine-system ✓ ↠ seamewe-4 ✓ || mednautilus-submarine-system ✓ ↠ asia-africa-europe-1-aae-1 ✓ || mednautilus-submarine-system ✓ ↠ seamewe-5 ✓ || mednautilus-submarine-system ✓ ↠ imewe ✓ || mednautilus-submarine-system ✓ ↠ seamewe-3 ✓ || jonah 👍 ↠ seamewe-4 ✓ || jonah 👍 ↠ asia-africa-europe-1-aae-1 ✓ || jonah 👍 ↠ seamewe-5 ✓ || jonah 👍 ↠ imewe ✓ || jonah 👍 ↠ seamewe-3 ✓ || lev-submarine-system ✘ ↠ seamewe-4 ✓ || lev-submarine-system ✘ ↠ asia-africa-europe-1-aae-1 ✓ || lev-submarine-system ✘ ↠ seamewe-5 ✓ || lev-submarine-system ✘ ↠ imewe ✓ || lev-submarine-system ✘ ↠ seamewe-3 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.198.57  6939    63.967                        (Paris, IDF, FR, EU) port-channel2.core2.par2.he.net                                                                     
+S (6939)  seamewe-5 ✓ || peace-cable ✘ || seamewe-4 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 74.82.49.214    6939    217.023             (Singapore, Singapore, SG, AS) pt-jala-lintas-media.e0-3.switch5.sin1.he.net                                                       
+S&T (6939, 133840)  jakarta-bangka-bintan-batam-singapore-b3js ✘
+╰─ 103.66.70.104   133840  218.268                 (Jakarta, Jakarta, ID, AS)                                                                                                     
+   121.100.0.45    38158   221.848                 (Jakarta, Jakarta, ID, AS)                                                                                                     
+   43.230.152.226  *       222.177                 (Jakarta, Jakarta, ID, AS) global-in.kings.id                                                                                  
+   ***             *       -inf                                           *** *                                                                                                   
+   180.211.88.22   45725   220.698                 (Jakarta, Jakarta, ID, AS) id-jkt-as45725.anchors.atlas.ripe.net                                                               

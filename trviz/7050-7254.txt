@@ -1,0 +1,27 @@
+   103.170.154.254 142594  0.0                      (London, England, GB, EU) 254.154.170.103.speedyvps.uk                                                                        
+╭─ 103.170.154.1   142594  0.21                     (London, England, GB, EU)                                                                                                     
+T (142594, 60068)  
+├─ 156.146.32.94   60068   0.288                     (Prague, Prague, CZ, EU) unn-156-146-32-94.cdn77.com                                                                         
+LHL (60068)  
+╰─ 185.229.188.195 60068   7.317               (Paris, Île-de-France, FR, EU) vl1102.par-itx5-core-2.cdn77.com                                                                    
+   185.156.45.117  60068   7.584               (Paris, Île-de-France, FR, EU) vl212.par-tel2-edge-1.cdn77.com                                                                     
+╭─ 45.134.215.145  60068   7.348               (Paris, Île-de-France, FR, EU) afrix-par.cdn77.com                                                                                 
+S&T (60068, 60171)  
+╰─ 185.35.142.60   60171   273.64              (Barcelona, Catalonia, ES, EU)                                                                                                     
+╭─ 185.10.164.99   60171   273.918             (Barcelona, Catalonia, ES, EU)                                                                                                     
+S&T (60171)  
+╰─ 185.10.164.113  60171   273.642                      (London, ENG, GB, EU) *                                                                                                   
+╭─ 185.10.164.135  60171   276.537                      (London, ENG, GB, EU) *                                                                                                   
+S&T (60171)  seamewe-3 ✓
+├─ 185.10.164.32   60171   276.44              (Paris, Île-de-France, FR, EU)                                                                                                     
+S (60171)  
+├─ 102.223.52.73   60171   273.306                     (Lagos, Lagos, NG, AF)                                                                                                     
+S&T (60171)  
+├─ 185.10.164.45   60171   276.06                       (London, ENG, GB, EU) *                                                                                                   
+S&T (60171)  
+├─ 102.219.44.43   60171   273.237                     (Lagos, Lagos, NG, AF)                                                                                                     
+S&T (60171, 328913)  
+╰─ 196.49.84.51    328913  273.624                 (Abidjan, Abidjan, CI, AF) bdr3.std.douala-ix.net                                                                              
+╭─ 196.49.84.36    328913  273.737                 (Abidjan, Abidjan, CI, AF) gw1.std.douala-ix.net                                                                               
+S&T (328913)  
+╰─ 196.49.84.188   328913  277.143                 (Douala, Littoral, CM, AF) cm-dla-as328913.anchors.atlas.ripe.net                                                              

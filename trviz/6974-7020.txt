@@ -1,0 +1,27 @@
+   130.193.166.22  21277   0.0                         (Erbil, Arbīl, IQ, AS)                                                                                                     
+╭─ 130.193.166.21  21277   0.268                       (Erbil, Arbīl, IQ, AS)                                                                                                     
+LHL (21277, 13335)  seamewe-3 ✓
+├─ 5.23.0.73       13335   0.857                      (Algeciras, AN, ES, EU) *                                                                                                   
+T (13335, 6453)  
+╰─ 80.231.203.16   6453    21.548          (Amsterdam, North Holland, NL, EU) if-et-5-3-0-0.tcore1.etky1-ankara.as6453.net                                                        
+╭─ 80.231.203.1    6453    66.845          (Amsterdam, North Holland, NL, EU) if-ae-40-2.tcore1.av2-amsterdam.as6453.net                                                          
+LHL (6453, 2914)  circe-north ✓ ↠ exa-north-and-south ✘ || scylla ✘ ↠ exa-north-and-south ✘ || ulysses-2 ✘ ↠ exa-north-and-south ✘ || zeus ✓ ↠ exa-north-and-south ✘ || circe-north ✓ ↠ exa-express ✘ || scylla ✘ ↠ exa-express ✘ || ulysses-2 ✘ ↠ exa-express ✘ || zeus ✓ ↠ exa-express ✘ || atlantic-crossing-1-ac-1 ✓ ↠ exa-north-and-south ✘ || atlantic-crossing-1-ac-1 ✓ ↠ exa-express ✘ || concerto ✘ ↠ exa-north-and-south ✘ || concerto ✘ ↠ exa-express ✘ || farland-north ✘ ↠ exa-north-and-south ✘ || farland-north ✘ ↠ exa-express ✘
+├─ 80.231.85.133   2914    70.731                        (None, None, CA, NA) *                                                                                                   
+S&T (2914)  
+╰─ 129.250.7.64    2914    71.01                         (None, None, US, NA) ae-2.r20.amstnl07.nl.bb.gin.ntt.net                                                                 
+   129.250.7.37    2914    71.303                        (None, None, US, NA) ae-0.r21.amstnl07.nl.bb.gin.ntt.net                                                                 
+   129.250.4.138   2914    78.192                        (None, None, US, NA) ae-6.r20.parsfr04.fr.bb.gin.ntt.net                                                                 
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   129.250.2.36    2914    156.86                        (None, None, US, NA) ae-0.sayonara-dorian.r25.asbnva02.us.bb.gin.ntt.net                                                 
+   129.250.3.189   2914    218.433                       (None, None, US, NA) ae-2.sayonara-dorian.r25.lsanca07.us.bb.gin.ntt.net                                                 
+   129.250.3.218   2914    216.868                       (None, None, US, NA) ae-1.sayonara-dorian.r24.lsanca07.us.bb.gin.ntt.net                                                 
+   129.250.2.177   2914    305.617                       (None, None, US, NA) ae-5.r27.osakjp02.jp.bb.gin.ntt.net                                                                 
+   129.250.7.80    2914    303.908                       (None, None, US, NA) ae-5.r31.tokyjp05.jp.bb.gin.ntt.net                                                                 
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 129.250.7.14    2914    304.387                       (None, None, US, NA) ae-0.a00.tokyjp09.jp.bb.gin.ntt.net                                                                 
+S (2914, 4637)  
+╰─ 210.57.79.15    4637    332.779                     (Tokyo, Tokyo, JP, AS) unknown.telstraglobal.net                                                                           
+   ***             *       -inf                                           *** *                                                                                                   
+   182.161.74.64   55569   332.868                     (Tokyo, Tokyo, JP, AS)                                                                                                     
+   182.161.74.241  55569   304.561                     (Tokyo, Tokyo, JP, AS)                                                                                                     

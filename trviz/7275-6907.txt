@@ -1,0 +1,16 @@
+   103.153.176.122 131657  0.0                       (Taipei, Taiwan, TW, AS) 103-153-176-122.as131657.net                                                                        
+   103.153.176.254 131657  0.242                     (Taipei, Taiwan, TW, AS) 103-153-176-254.as131657.net                                                                        
+   103.51.91.5     *       0.476                     (Taipei, Taiwan, TW, AS) et-0-0-1.cr1.hd.tpe.as131657.net                                                                    
+╭─ 103.158.187.30  *       0.8                       (Taipei, Taiwan, TW, AS) as6939.ly.stuix.io                                                                                  
+S (, 6939)  seamewe-3 ✘ || apcn-2 ✘ || trans-pacific-express-tpe-cable-system ✘ || eac-c2c ✘ || faster ✘ || asia-pacific-gateway-apg ✘ || flag-north-asia-loopreach-north-asia-loop ✘ || new-cross-pacific-ncp-cable-system ✘
+├─ 184.105.80.141  6939    30.861                (Tokyo / Narita, 12, JP, AS) 100ge0-79.core2.tyo1.he.net                                                                         
+S (6939)  asia-submarine-cable-express-asecahaya-malaysia ✓ || seamewe-3 ✓ || apcn-2 ✓ || eac-c2c ✓ || asia-pacific-gateway-apg ✓ || southeast-asia-japan-cable-sjc ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 74.82.49.214    6939    105.156             (Singapore, Singapore, SG, AS) pt-jala-lintas-media.e0-3.switch5.sin1.he.net                                                       
+S&T (6939, 133840)  australia-singapore-cable-asc © || indigo-west ✓ || indonesia-global-gateway-igg-system ✓ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || matrix-cable-system ✓ || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || jasuka ✓
+╰─ 103.66.70.104   133840  115.971                 (Jakarta, Jakarta, ID, AS)                                                                                                     
+   121.100.0.45    38158   218.28                  (Jakarta, Jakarta, ID, AS)                                                                                                     
+   43.230.152.226  *       218.64                  (Jakarta, Jakarta, ID, AS) global-in.kings.id                                                                                  
+   43.230.153.90   *       117.154                 (Jakarta, Jakarta, ID, AS)                                                                                                     
+   180.211.88.22   45725   117.286                 (Jakarta, Jakarta, ID, AS) id-jkt-as45725.anchors.atlas.ripe.net                                                               

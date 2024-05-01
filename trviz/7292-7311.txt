@@ -1,0 +1,12 @@
+   23.155.72.145   64289   0.0              (Santa Clara, California, US, NA)                                                                                                     
+   23.151.137.1    64289   0.149            (Santa Clara, California, US, NA)                                                                                                     
+   10.10.10.0      *       0.51                                           ***                                                                                                     
+   206.197.187.12  *       0.943                (Fremont, California, US, NA) as6939.sfmix.org                                                                                    
+   72.52.92.245    6939    15.717                    (Farmington, CA, US, NA) 100ge4-2.core3.fmt2.he.net                                                                          
+╭─ 184.105.65.114  6939    1.488                       (San Jose, CA, US, NA) 100ge1-1.core1.sjc2.he.net                                                                          
+S (6939)  asia-america-gateway-aag-cable-system ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.220.67  6939    161.472             (Hong Kong, Hong Kong, HK, AS) lshiy.e0-30.switch1.hkg1.he.net                                                                     
+   103.203.243.11  955     161.493             (Hong Kong, Hong Kong, HK, AS) multi-user.port-channe17.switch1.hkg1.bb.lshiy.net                                                  
+   89.213.179.65   32167   161.506             (Hong Kong, Hong Kong, HK, AS) 89-213-179-65.ip.lshiyusercontent.com                                                               

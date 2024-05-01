@@ -1,0 +1,15 @@
+   180.211.88.22   45725   0.0                     (Jakarta, Jakarta, ID, AS) id-jkt-as45725.anchors.atlas.ripe.net                                                               
+   180.211.88.21   45725   0.283                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+   43.230.153.89   *       0.388                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+╭─ 111.92.161.4    55655   0.544                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+S (55655, 6939)  sjjk ✘ ↠ jasuka ✘ ↠ seamewe-5 ✘ || sjjk ✘ ↠ jasuka ✘ ↠ seamewe-3 ✘
+├  10.110.1.0      *       12.15                                          ***                                                                                                     
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.105.81.29   6939    163.774                       (Paris, IDF, FR, EU) port-channel8.core2.par2.he.net                                                                     
+S&T (6939, )  seamewe-3 ✓ || uk-channel-islands-8 ✘ || high-capacity-undersea-guernsey-optical-fibre-hugo ✓ || uk-channel-islands-7 ✓ || channel-islands-9-liberty-submarine-cable ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 195.66.225.153  *       186.62                   (London, England, GB, EU)                                                                                                     
+S&T (, 62416)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 185.32.189.249  62416   188.123                 (Odivelas, Lisbon, PT, EU) pt-lis-as62416.anchors.atlas.ripe.net                                                               

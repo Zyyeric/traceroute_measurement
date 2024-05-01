@@ -1,0 +1,19 @@
+   45.11.104.146   57695   0.0                 (Hong Kong, Hong Kong, HK, AS) hk-hkg-as57695.anchors.atlas.ripe.net                                                               
+   ***             *       -inf                                           *** *                                                                                                   
+   45.11.104.7     57695   0.226                    (Hong Kong, None, HK, AS) po-07.lag.hkg12.hk.misaka.io                                                                        
+   199.119.64.150  969     0.232               (Hong Kong, Hong Kong, HK, AS) po103-10.cr1a.eqhk2.hkg12.hk.917.as                                                                 
+   185.229.189.198 60068   0.206               (Hong Kong, Hong Kong, HK, AS) p77-6.cr1a.eqhk2.hkg12.hk.917.as                                                                    
+   213.248.71.120  1299    1.085     (Hong Kong, Central and Western, HK, AS) hnk-b1-link.ip.twelve99.net                                                                         
+╭─ 62.115.135.143  1299    2.493     (Hong Kong, Central and Western, HK, AS) hnk-b4-link.ip.twelve99.net                                                                         
+S (1299)  apcn-2 ✓ || seamewe-3 ✓ || asia-submarine-cable-express-asecahaya-malaysia ✓ || flag-north-asia-loopreach-north-asia-loop ✓ || flag-europe-asia-fea © || asia-pacific-gateway-apg ✓ || eac-c2c © || southeast-asia-japan-cable-sjc ✓
+├─ 62.115.134.187  1299    53.903                      (Tokyo, Tokyo, JP, AS) tky-b3-link.ip.twelve99.net                                                                         
+S (1299)  japan-u-s-cable-network-jus ✓ || tata-tgn-pacific ✓ || pacific-crossing-1-pc-1 ✓ || faster ✓ || jupiter ✓ || new-cross-pacific-ncp-cable-system © || trans-pacific-express-tpe-cable-system ✓ || unityeac-pacific ✓
+╰─ 62.115.137.108  1299    161.74           (Los Angeles, California, US, NA) lax-b23-link.ip.twelve99.net                                                                        
+   62.115.143.39   1299    161.863          (Los Angeles, California, US, NA) lax-b22-link.ip.twelve99.net                                                                        
+╭─ 80.239.160.155  1299    161.707          (Los Angeles, California, US, NA) gtt-ic-338497.ip.twelve99-cust.net                                                                  
+LHL (1299, 3257)  apollo © ↠ seamewe-5 ✓ || apollo © ↠ asia-africa-europe-1-aae-1 ✓ || apollo © ↠ imewe ✓ || flag-atlantic-1-fa-1 © ↠ seamewe-5 ✓ || flag-atlantic-1-fa-1 © ↠ asia-africa-europe-1-aae-1 ✓ || flag-atlantic-1-fa-1 © ↠ imewe ✓
+├─ 89.149.131.13   3257    263.624                       (Torino, 21, IT, EU) ae9.cr0-trn3.ip4.gtt.net                                                                            
+LHL (3257, 41364)  
+├─ 141.136.97.102  41364   326.121                       (None, None, US, NA) consorzio-gw.ip4.gtt.net                                                                            
+LHL (41364)  apollo ✘ ↠ seamewe-5 ✘ || apollo ✘ ↠ asia-africa-europe-1-aae-1 ✘ || apollo ✘ ↠ imewe ✘ || flag-atlantic-1-fa-1 ✘ ↠ seamewe-5 ✘ || flag-atlantic-1-fa-1 ✘ ↠ asia-africa-europe-1-aae-1 ✘ || flag-atlantic-1-fa-1 ✘ ↠ imewe ✘
+╰─ 194.116.77.35   41364   325.848                  (Turin, Piedmont, IT, EU)                                                                                                     

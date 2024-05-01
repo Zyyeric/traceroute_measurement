@@ -1,0 +1,27 @@
+   146.185.219.73  202422  0.0        (Petaẖ Tiqva, Central District, IL, AS)                                                                                                     
+   146.185.219.3   202422  0.263                 (Tel Aviv, Tel Aviv, IL, AS) vrrp.gcore.lu                                                                                       
+   10.255.29.241   *       0.317                                          ***                                                                                                     
+   31.168.224.93   8551    0.386                 (Tel Aviv, Tel Aviv, IL, AS) bzq-224-168-31-93.red.bezeqint.net                                                                  
+   62.219.189.185  8551    48.738                (Rishon LeZiyyon, M, IL, AS) bzq-219-189-185.dsl.bezeqint.net                                                                    
+╭─ 62.219.189.2    8551    0.669                 (Rishon LeZiyyon, M, IL, AS) bzq-219-189-2.cablep.bezeqint.net                                                                   
+LHL (8551, )  mednautilus-submarine-system ✓ ↠ seamewe-4 ✓ || mednautilus-submarine-system ✓ ↠ asia-africa-europe-1-aae-1 ✓ || mednautilus-submarine-system ✓ ↠ seamewe-5 ✓ || mednautilus-submarine-system ✓ ↠ imewe ✓ || mednautilus-submarine-system ✓ ↠ seamewe-3 ✓ || jonah 👍 ↠ seamewe-4 ✓ || jonah 👍 ↠ asia-africa-europe-1-aae-1 ✓ || jonah 👍 ↠ seamewe-5 ✓ || jonah 👍 ↠ imewe ✓ || jonah 👍 ↠ seamewe-3 ✓ || lev-submarine-system ✘ ↠ seamewe-4 ✓ || lev-submarine-system ✘ ↠ asia-africa-europe-1-aae-1 ✓ || lev-submarine-system ✘ ↠ seamewe-5 ✓ || lev-submarine-system ✘ ↠ imewe ✓ || lev-submarine-system ✘ ↠ seamewe-3 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 80.249.214.204  *       190.242         (Amsterdam, North Holland, NL, EU)                                                                                                     
+╭─ 206.148.26.80   7578    68.177          (Amsterdam, North Holland, NL, EU)                                                                                                     
+S&T (7578)  
+╰─ 206.148.26.23   7578    68.098                   (London, England, GB, EU) e49.lon-eqxld8-bb6.globalsecurelayer.com                                                            
+╭─ 206.148.26.14   7578    67.934                   (London, England, GB, EU) e59.lon-thn-bb1.globalsecurelayer.com                                                               
+S (7578)  
+╰─ 206.148.26.7    7578    134.124          (New York City, New York, US, NA) e52.nyc-eqxny2-bb1.globalsecurelayer.com                                                            
+   206.148.25.42   7578    149.638                (Chicago, Illinois, US, NA) e3.chi-eqxch1-bb1.globalsecurelayer.com                                                             
+   206.148.25.79   7578    188.383          (Los Angeles, California, US, NA) e52.lax-csla2-cr2.globalsecurelayer.com                                                             
+   206.148.25.91   7578    188.393          (Los Angeles, California, US, NA) e49.lax-csla2-bb1.globalsecurelayer.com                                                             
+╭─ 206.148.25.84   7578    285.348          (Los Angeles, California, US, NA) e50.ty-eqxty8-bb5.globalsecurelayer.com                                                             
+S (7578)  
+╰─ 206.148.24.51   7578    284.954          (Sydney, New South Wales, AU, OC) e30.ty-eqxty8-bb1.globalsecurelayer.com                                                             
+╭─ 206.148.24.66   7578    352.09           (Sydney, New South Wales, AU, OC) e51.sg-eqxsg3-bb1.globalsecurelayer.com                                                             
+S (7578)  
+╰─ 206.148.24.27   7578    352.736             (Singapore, Singapore, SG, AS) po1.sg-eqxsg3-cr2.globalsecurelayer.com                                                             
+╭─ 206.148.24.90   7578    381.482             (Singapore, Singapore, SG, AS) e51.hk-eqxhk1-bb3.globalsecurelayer.com                                                             
+S (7578, 57695)  
+╰─ 45.11.104.146   57695   295.449             (Hong Kong, Hong Kong, HK, AS) hk-hkg-as57695.anchors.atlas.ripe.net                                                               

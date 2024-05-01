@@ -1,0 +1,18 @@
+   119.17.170.244  9268    0.0              (Sydney, New South Wales, AU, OC) gen-119-17-170-244.ptr4.otw.net.au                                                                  
+   119.17.170.242  9268    0.846            (Sydney, New South Wales, AU, OC) te0-0-0.1397.iaaspe1.47bou.syd.core.otw.net.au                                                      
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   10.254.250.85   *       1.219                                          ***                                                                                                     
+╭─ 103.110.178.245 9268    1.073            (Sydney, New South Wales, AU, OC) welcometoaussiebroadband.syd.otw.net.au                                                             
+S (9268, 4764)  seamewe-3 ✓ || indigo-west ✓ || australia-singapore-cable-asc ✓
+├─ 180.150.2.63    4764    92.968              (Singapore, Singapore, SG, AS) be30.core2.equinix-sg1.sin.aussiebb.net                                                             
+S (4764, 1299)  apcn-2 ✓ || eac-c2c ✘ || asia-pacific-gateway-apg ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 62.115.126.134  1299    169.349                     (Tokyo, Tokyo, JP, AS) tky-b2-link.ip.twelve99.net                                                                         
+   62.115.41.151   1299    172.317                     (Tokyo, Tokyo, JP, AS) constantcompany-ic-358213.ip.twelve99-cust.net                                                      
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   104.238.161.230 20473   176.324                      (Ōi, Saitama, JP, AS) 104.238.161.230.vultrusercontent.com                                                                

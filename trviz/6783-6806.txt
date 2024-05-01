@@ -1,0 +1,16 @@
+   212.116.14.178  6659    0.0                     (Hamburg, Hamburg, DE, EU)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   212.116.21.244  6659    0.916     (Norderstedt, Schleswig-Holstein, DE, EU)                                                                                                     
+   194.15.144.153  *       1.119     (Norderstedt, Schleswig-Holstein, DE, EU)                                                                                                     
+   85.119.200.129  61157   0.754     (Norderstedt, Schleswig-Holstein, DE, EU) ae4.cr1.ham5.plusserver.com                                                                         
+╭─ 85.119.200.70   61157   0.765     (Norderstedt, Schleswig-Holstein, DE, EU) ae0.cr2.ham5.plusserver.com                                                                         
+T (61157, 1299)  
+╰─ 62.115.37.164   1299    7.87            (Amsterdam, North Holland, NL, EU) adm-b10-link.ip.twelve99.net                                                                        
+╭─ 62.115.120.226  1299    8.281           (Amsterdam, North Holland, NL, EU) adm-bb1-link.ip.twelve99.net                                                                        
+S&T (1299)  circe-north ✓ || ulysses-2 ✘ || scylla ✘ || zeus ✓ || concerto ✘ || farland-north ✘
+├─ 213.155.136.98  1299    14.831                   (London, England, GB, EU) ldn-bb1-link.ip.twelve99.net                                                                        
+S (1299)  exa-north-and-south ✘ || atlantic-crossing-1-ac-1 ✓ || flag-atlantic-1-fa-1 © || apollo © || yellow ✓ || tata-tgn-atlantic ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 62.115.126.179  1299    86.404                (Edison, New Jersey, US, NA) ewr-b1-link.ip.twelve99.net                                                                         
+   62.115.44.133   1299    89.052                    (Miami, Florida, US, NA) marbisgmbh-ic-383538.ip.twelve99-cust.net                                                           
+   109.230.208.226 199610  86.28                (Clifton, New Jersey, US, NA)                                                                                                     

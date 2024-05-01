@@ -1,0 +1,19 @@
+   102.222.106.178 328699  0.0               (Port Louis, Port Louis, MU, AF)                                                                                                     
+   102.222.106.1   328699  0.241             (Ebene, Plaines Wilhems, MU, AF)                                                                                                     
+╭─ 196.46.49.33    36868   0.315             (Ebene, Plaines Wilhems, MU, AF)                                                                                                     
+S (36868, 6939)  meltingpot-indianoceanic-submarine-system-metiss ✘ || safe ✓
+╰─ 196.46.34.109   6939    43.913                  (Johannesburg, GT, ZA, AF) *                                                                                                   
+   196.60.8.42     6939    44.696                 (Johannesburg, 6, ZA, None) he.ixp.joburg                                                                                       
+╭─ 184.105.223.210 6939    63.164                     (Cape Town, WC, ZA, AF) 100ge0-34.core1.cpt1.he.net                                                                         
+S&T (6939)  west-africa-cable-system-wacs ✓
+╰─ 184.104.188.209 6939    175.507                   (Lisbon, Lisbon, PT, EU) 100ge0-79.core1.lis1.he.net                                                                         
+╭─ 184.104.224.178 37613   175.144                       (Lisbon, 11, PT, EU) etg-is-nigeria.e0-21.switch1.lis1.he.net                                                            
+S&T (37613)  
+╰─ 41.242.114.115  37613   250.341                     (Lagos, Lagos, NG, AF)                                                                                                     
+╭─ 196.216.148.158 *       196.262                     (Lagos, Lagos, NG, AF)                                                                                                     
+S&T (, 37727)  
+╰─ 154.65.16.37    37727   194.761             (Accra, Greater Accra, GH, AF)                                                                                                     
+   154.65.18.77    37727   295.415             (Accra, Greater Accra, GH, AF)                                                                                                     
+   154.65.16.114   37727   196.018             (Accra, Greater Accra, GH, AF)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   196.49.14.25    30997   363.882             (Accra, Greater Accra, GH, AF)                                                                                                     

@@ -1,0 +1,13 @@
+   45.183.45.23    64116   0.0                  (Lima, Lima Province, PE, SA)                                                                                                     
+   45.183.45.1     64116   1.154                (Lima, Lima Province, PE, SA)                                                                                                     
+   10.7.11.129     *       1.465                                          ***                                                                                                     
+╭─ 200.25.44.65    7195    1.417                (Lima, Lima Province, PE, SA) ae100.3007.edge1.lim1.as7195.net                                                                    
+LHL (7195)  south-america-1-sam-1 ✘ || america-movil-submarine-cable-system-1-amx-1 ✓ || globenet ✓
+├─ 200.25.51.99    7195    1.902                      (Sao Paulo, SP, BR, SA) ae1.0.edge2.gru1.as7195.net                                                                         
+S (7195)  brusa ✘ || america-movil-submarine-cable-system-1-amx-1 ✓ || south-america-1-sam-1 ✘ || globenet ✓ || monet ✓ || americas-ii ✓
+╰─ 200.25.51.189   7195    79.004                  (Flagami, Florida, US, NA) ae1051.0.edge2.mia1.as7195.net                                                                      
+   169.254.0.87    *       78.295                                         ***                                                                                                     
+   10.255.81.196   *       78.691                                         ***                                                                                                     
+   10.255.81.182   *       77.989                                         ***                                                                                                     
+   5.8.25.131      199524  78.133                         (Miami, FL, US, NA) vrrp.gcore.lu                                                                                       
+   92.38.132.60    202422  78.108                    (Miami, Florida, US, NA)                                                                                                     

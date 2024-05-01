@@ -1,0 +1,15 @@
+   80.67.190.218   204092  0.0                     (Rennes, Brittany, FR, EU) ripe-anchor.grifon.fr                                                                               
+   80.67.190.193   204092  0.308                   (Rennes, Brittany, FR, EU) xn--beurresal-j4a.grifon.fr                                                                         
+   89.234.186.34   204092  0.441                         (None, None, FR, EU) asbr02.cogent-rns.bb.grifon.fr                                                                      
+   31.172.233.208  30781   0.419 (1.53)(Marseille, Provence-Alpes-Côte d'Azur, FR, EU) po6-54.er01.ren02.jaguar-network.net                                                                
+╭─ 78.153.231.13   30781   14.135               (Saint-Victoret, PAC, FR, EU) te0-0-2-0.er01.bdx01.jaguar-network.net                                                             
+S&T (30781, 59605)  seamewe-3 ✓
+├─ 195.66.226.33   59605   27.998                     (London, ENG, GB, None) *                                                                                                   
+LHL (59605)  europe-india-gateway-eig ✓ ↠ falcon ✓ || seamewe-3 ✓ ↠ falcon ✓ || flag-europe-asia-fea ✓ ↠ falcon ✓
+╰─ 151.248.96.98   59605   131.076                       (None, None, BH, AS) *                                                                                                   
+   151.248.96.98   59605   131.076                       (None, None, BH, AS) *                                                                                                   
+╭─ 151.248.98.137  42961   132.101                       (None, None, BH, AS) *                                                                                                   
+S (42961)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 212.43.17.42    42961   127.93      (Al Farwānīyah, Al Farwaniyah, KW, AS)                                                                                                     

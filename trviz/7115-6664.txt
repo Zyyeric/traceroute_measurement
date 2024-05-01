@@ -1,0 +1,11 @@
+   146.185.219.73  202422  0.0        (Petaẖ Tiqva, Central District, IL, AS)                                                                                                     
+   146.185.219.3   202422  0.385                 (Tel Aviv, Tel Aviv, IL, AS) vrrp.gcore.lu                                                                                       
+   10.255.29.241   *       0.405                                          ***                                                                                                     
+   31.168.224.93   8551    0.499                 (Tel Aviv, Tel Aviv, IL, AS) bzq-224-168-31-93.red.bezeqint.net                                                                  
+╭─ 62.219.189.185  8551    0.804                 (Rishon LeZiyyon, M, IL, AS) bzq-219-189-185.dsl.bezeqint.net                                                                    
+LHL (8551, )  mednautilus-submarine-system ✓ ↠ flag-europe-asia-fea ✓ || mednautilus-submarine-system ✓ ↠ seamewe-3 ✓ || lev-submarine-system ✘ ↠ flag-europe-asia-fea ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 195.66.226.75   *       190.858                  (London, England, GB, EU)                                                                                                     
+LHL (, 7642)  seamewe-3 ✘ ↠ peace-cable ✘ || flag-europe-asia-fea ✘ ↠ peace-cable ✘ || europe-india-gateway-eig ✘ ↠ peace-cable ✘
+╰─ 202.1.205.245   7642    190.707                       (None, None, MV, AS) xe-1-1-1-0.rt.dhivehinet.net.mv                                                                     
+   123.176.1.4     7642    190.032                (Male, Kaafu Atoll, MV, AS)                                                                                                     

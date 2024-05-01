@@ -1,0 +1,11 @@
+   103.133.238.187 132808  0.0                 (Brisbane, Queensland, AU, OC) iptelco.com.au                                                                                      
+   103.133.238.130 132808  0.334               (Brisbane, Queensland, AU, OC) vmnet-hsrp66.bdr01-bne-br1.iptelco.net.au                                                           
+   103.133.238.14  132808  0.481               (Brisbane, Queensland, AU, OC) te0-0-0-402.bdr01-bne-br1.iptelco.net.au                                                            
+   184.104.197.182 6939    13.501                     (Brisbane, QLD, AU, OC) port-channel1.core1.bne1.he.net                                                                     
+   103.26.68.236   *       13.197           (Sydney, New South Wales, AU, OC) as6939.sydney.megaport.com                                                                          
+╭─ 184.105.65.223  6939    59.025          (Perth, Western Australia, AU, OC) 100ge0-32.core1.per1.he.net                                                                         
+S (6939, )  seamewe-3 ✓ || indigo-west ✓ || australia-singapore-cable-asc ©
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 203.174.80.22   *       104.952             (Singapore, Singapore, SG, AS) he.net.sin01.ne.com.sg                                                                              
+   ***             *       -inf                                           *** *                                                                                                   
+   203.174.85.106  38001   108.856             (Singapore, Singapore, SG, AS)                                                                                                     

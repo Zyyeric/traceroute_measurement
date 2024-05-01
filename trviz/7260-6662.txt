@@ -1,0 +1,14 @@
+   5.188.168.94    202422  0.0               (Bahçelievler, Istanbul, TR, AS)                                                                                                     
+   5.188.168.3     202422  0.213                 (Istanbul, Istanbul, TR, AS) vrrp.gcore.lu                                                                                       
+   10.255.20.182   *       0.269                                          ***                                                                                                     
+   10.255.20.178   *       0.247                                          ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 154.25.1.1      174     1.057                 (Istanbul, Istanbul, TR, AS) be3962.rcr21.ist02.atlas.cogentco.com                                                               
+LHL (174)  seamewe-3 ✓ || seamewe-5 ✓
+├─ 130.117.51.54   174     0.788                         (Zurich, ZH, CH, EU) be3786.rcr11.b021036-0.zrh02.atlas.cogentco.com                                                     
+T (174)  
+╰─ 130.117.1.190   174     5.364                        (Haskovo, 26, BG, EU) be3312.rcr11.hkv01.atlas.cogentco.com                                                               
+   130.117.1.242   174     10.39                       (Varna, Varna, BG, EU) te0-0-2-0.rcr11.var01.atlas.cogentco.com                                                            
+   149.14.200.10   174     9.907                       (Varna, Varna, BG, EU)                                                                                                     
+   77.71.113.143   57619   10.04                       (Varna, Varna, BG, EU) ip-143-113-71-77.varnadatacenter.net                                                                
+   185.184.62.4    213093  10.112                      (Varna, Varna, BG, EU)                                                                                                     

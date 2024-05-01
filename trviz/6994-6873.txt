@@ -1,0 +1,19 @@
+   193.50.97.164   2200    0.0                   (Plouzané, Brittany, FR, EU) anchor.netlab.enstb.org                                                                             
+   193.50.97.161   2200    0.284                 (Plouzané, Brittany, FR, EU) netlab-gw.enstb.org                                                                                 
+   192.108.116.201 50897   0.391                 (Plouzané, Brittany, FR, EU) asr-vlan39.enst-bretagne.fr                                                                         
+   193.51.188.10   2200    6.532             (Saint-Brieuc, Brittany, FR, EU) vl807-pc1-brest1-rtr-021.noc.renater.fr                                                             
+   193.51.177.174  2200    11.866              (Paris, Île-de-France, FR, EU) et-5-2-1-ren-nr-paris1-rtr-131.noc.renater.fr                                                       
+   77.67.123.205   3257    12.291                        (Paris, IDF, FR, EU) ae7-81.cr4-par7.ip4.gtt.net                                                                         
+   89.149.183.210  3257    12.718                        (Paris, IDF, FR, EU) et-1-0-13.cr2-par9.ip4.gtt.net                                                                      
+╭─ 212.221.87.218  3257    12.222              (Paris, Île-de-France, FR, EU) ip4.gtt.net                                                                                         
+S (3257, 2914)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 129.250.4.189   2914    28.67                         (None, None, US, NA) ae-6.r20.mlanit02.it.bb.gin.ntt.net                                                                 
+╭─ 129.250.7.8     2914    318.275                       (None, None, US, NA) ae-10.r22.sngpsi07.sg.bb.gin.ntt.net                                                                
+S (2914)  
+╰─ 129.250.5.238   2914    247.453             (Singapore, Singapore, SG, AS) ae-0.a03.sngpsi07.sg.bb.gin.ntt.net                                                                 
+╭─ 116.51.26.82    2914    241.704                  (Singapore, None, SG, AS) ae-0.emirates-du.sngpsi07.sg.bb.gin.ntt.net                                                         
+S (2914, 57187)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 94.206.39.74    57187   194.09                         (Dubai, DU, AE, AS) j48-1.dxa.dxb.ae.datamena.net                                                                       
+   94.207.43.2     57187   195.793                     (Dubai, Dubai, AE, AS) -094-207-043-002.datamena.net                                                                       

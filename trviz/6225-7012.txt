@@ -1,0 +1,19 @@
+   213.158.113.5   13101   0.0                     (Hamburg, Hamburg, DE, EU) ripe-anchor.gallifrey.tng.de                                                                        
+   213.158.113.28  13101   0.278           (Kiel, Schleswig-Holstein, DE, EU)                                                                                                     
+   82.97.188.3     13101   0.48            (Kiel, Schleswig-Holstein, DE, EU) kel1.tng.de                                                                                         
+   213.178.75.134  13101   0.788           (Kiel, Schleswig-Holstein, DE, EU) kel1.tng.de                                                                                         
+   213.178.65.157  13101   0.701           (Kiel, Schleswig-Holstein, DE, EU) kel2.tng.de                                                                                         
+╭─ 213.178.65.154  13101   0.671 (2.096)              (Hamburg, Hamburg, DE, EU) ham2.tng.de                                                                                         
+T (13101)  
+╰─ 213.178.65.149  13101   8.396           (Amsterdam, North Holland, NL, EU) ams2.tng.de                                                                                         
+╭─ 80.249.209.192  2119    8.226                       (Schiphol, NH, NL, EU) ti9000b400.ti.telenor.net                                                                           
+S&T (2119)  cantat-3 ✘
+╰─ 146.172.105.10  2119    26.076                        (None, None, NO, EU) ti3004c400-ae2-0.ti.telenor.net                                                                     
+╭─ 146.172.99.177  2119    26.155                        (None, None, NO, EU) ti3006c400-ae1-0.ti.telenor.net                                                                     
+T (2119)  
+├─ 146.172.105.109 2119    26.939                     (Båstad, Skåne, SE, EU) ti3006b400-ae1-0.ti.telenor.net                                                                     
+T (2119)  
+├─ 148.122.10.198  2119    24.958                        (Oslo, Oslo, NO, EU)                                                                                                     
+S&T (2119, 9158)  
+╰─ 77.214.52.101   9158    30.268                         (Farum, 84, DK, EU) *                                                                                                   
+   77.214.52.102   9158    30.359            (Aalborg, North Denmark, DK, EU)                                                                                                     

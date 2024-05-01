@@ -1,0 +1,28 @@
+   149.28.210.233  20473   0.0              (Santa Clara, California, US, NA) 149.28.210.233.vultrusercontent.com                                                                 
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   10.65.1.69      *       1.028                                          ***                                                                                                     
+   10.65.5.2       *       1.152                                          ***                                                                                                     
+   10.65.1.229     *       0.896                                          ***                                                                                                     
+   10.65.1.238     *       0.885                                          ***                                                                                                     
+╭─ 72.29.200.40    3257    1.317               (San Jose, California, US, NA)                                                                                                     
+LHL (3257)  apollo ✓ || flag-atlantic-1-fa-1 ✘
+├─ 89.149.180.134  3257    1.534              (Frankfurt am Main, HE, DE, EU) ae18-3416.cr11-fra2.ip4.gtt.net                                                                     
+LHL (3257, 2516)  
+├─ 208.116.132.74  2516    1.121                         (None, None, US, NA) ip4.gtt.net                                                                                         
+S (2516)  apollo ✓ ↠ seamewe-3 👍 || apollo ✓ ↠ flag-europe-asia-fea ✓ || flag-atlantic-1-fa-1 ✓ ↠ seamewe-3 👍 || flag-atlantic-1-fa-1 ✓ ↠ flag-europe-asia-fea ✓
+╰─ 111.87.3.117    2516    1.223                         (None, None, JP, AS) *                                                                                                   
+   106.187.13.17   2516    106.458                       (None, None, JP, AS) oteACS002.int-gw.kddi.ne.jp                                                                         
+   106.139.193.29  2516    106.452                       (None, None, JP, AS) *                                                                                                   
+   27.86.32.6      2516    105.997                       (Meieki, 23, JP, AS) oteJIN301.int-gw.kddi.ne.jp                                                                         
+   175.131.164.38  2516    106.204                     (Tokyo, Tokyo, JP, AS)                                                                                                     
+╭─ 23.56.131.36    20940   107.178               (Tokyo / Narita, 12, JP, AS) ae2.r02.tyo01.icn.netarch.akamai.com                                                                
+S (20940)  asia-submarine-cable-express-asecahaya-malaysia ✓ || seamewe-3 ✓ || eac-c2c ✓ || asia-pacific-gateway-apg ✓ || southeast-asia-japan-cable-sjc ✓ || apcn-2 ✓
+╰─ 23.215.54.32    20940   178.641             (Singapore, Singapore, SG, AS) ae10.r02.sin01.icn.netarch.akamai.com                                                               
+   23.215.54.164   20940   181.54                      (Singapore, 4, SG, AS) ae0.r01.sin01.icn.netarch.akamai.com                                                                
+   23.56.138.35    20940   190.405                     (Singapore, 4, SG, AS) ae6.r01.sin01.ien.netarch.akamai.com                                                                
+   23.56.138.53    20940   174.296             (Singapore, Singapore, SG, AS) a23-56-138-53.deploy.static.akamaitechnologies.com                                                  
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   139.162.3.33    63949   172.617             (Singapore, Singapore, SG, AS) li845-33.members.linode.com                                                                         

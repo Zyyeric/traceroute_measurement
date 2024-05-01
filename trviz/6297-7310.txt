@@ -1,0 +1,27 @@
+   38.47.189.189   140443  0.0           (Kuala Lumpur, Kuala Lumpur, MY, AS)                                                                                                     
+   38.47.189.1     140443  0.309         (Kuala Lumpur, Kuala Lumpur, MY, AS)                                                                                                     
+╭─ 38.47.188.2     140443  0.4           (Kuala Lumpur, Kuala Lumpur, MY, AS)                                                                                                     
+S&T (140443, 174)  indonesia-global-gateway-igg-system ✓ || palapa-ring-west ✓ || batam-dumai-melaka-bdm-cable-system ✘ || jasuka ✓ || seamewe-4 ✘ || seamewe-5 ✓ || seax-1 ✘ || asia-submarine-cable-express-asecahaya-malaysia ✓ || asia-america-gateway-aag-cable-system ✓ || batam-rengit-cable-system-brcs ✘ || apcn-2 ✓
+├  10.111.220.141  *       0.385 (6.486)                                     ***                                                                                                     
+├─ 154.18.19.209   174     6.873               (Singapore, Singapore, SG, AS) te0-8-0-2-7.201.ccr31.sin01.atlas.cogentco.com                                                      
+S (174)  seamewe-5 ✓ || peace-cable ✘
+├─ 154.54.87.210   174     158.407                   (Marseille, PAC, FR, EU) be2914.ccr31.mrs02.atlas.cogentco.com                                                               
+S&T (174)  
+├─ 154.54.74.166   174     166.778                        (Milan, 25, IT, EU) be2864.rcr21.mil01.atlas.cogentco.com                                                               
+T (174)  
+├─ 154.54.63.221   174     172.054                  (Munich, Bavaria, DE, EU) be3814.ccr22.muc03.atlas.cogentco.com                                                               
+T (174)  
+├─ 154.54.59.181   174     177.912                        (Vienna, 9, AT, EU) be3462.ccr52.vie01.atlas.cogentco.com                                                               
+LHL (174)  
+├─ 130.117.50.82   174     178.157                        (Dublin, D, IE, EU) be2209.rcr11.b022738-0.dub01.atlas.cogentco.com                                                     
+LHL (174)  
+├─ 149.6.175.250   174     167.785        (Le Pre-Saint-Gervais, IDF, FR, EU) *                                                                                                   
+S (174, 20965)  geo-eirgrid ✘ ↠ seamewe-3 ✓ || exa-north-and-south © ↠ seamewe-3 ✓ || havhingstenceltixconnect-2-cc-2 © ↠ seamewe-3 ✓ || esat-2 ✘ ↠ seamewe-3 ✓ || rockabill ✘ ↠ seamewe-3 ✓ || sirius-south ✘ ↠ seamewe-3 ✓ || exa-express © ↠ seamewe-3 ✓ || pan-european-crossing-uk-ireland ✓ ↠ seamewe-3 ✓ || esat-1 ✘ ↠ seamewe-3 ✓ || solas © ↠ seamewe-3 ✓
+╰─ 62.40.98.146    20965   191.668                       (Athens, A1, GR, EU) ae1.mx1.ath2.gr.geant.net                                                                           
+   83.97.88.66     5408    192.198                       (Athens, A1, GR, EU) grnet-ias-grnet-gw.mx1.ath2.gr.geant.net                                                            
+╭─ 62.217.100.63   5408    189.083                       (None, None, GR, EU) eier-kolettir-AE.backbone.grnet.gr                                                                  
+LHL (5408, 8522)  
+├─ 62.217.98.49    8522    195.865                   (Hannover, None, DE, EU) forth-her-4.eier.access-link.grnet.gr                                                               
+T (8522)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 139.91.68.3     8522    195.924                 (Irákleion, Crete, GR, EU)                                                                                                     

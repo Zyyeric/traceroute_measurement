@@ -1,0 +1,18 @@
+   139.162.3.33    63949   0.0                 (Singapore, Singapore, SG, AS) li845-33.members.linode.com                                                                         
+   ***             *       -inf                                           *** *                                                                                                   
+   10.209.35.9     *       0.945                                          ***                                                                                                     
+   10.209.32.2     *       0.474                                          ***                                                                                                     
+╭─ 139.162.0.101   63949   0.497               (Singapore, Singapore, SG, AS) lo0-0.gw1.sin1.sg.linode.com                                                                        
+S (63949, 137409)  
+├─ 27.111.229.213  137409  0.833                     (Seogwipo, None, KR, AS) 137409.sgw.equinix.com                                                                              
+S (137409, 7578)  
+╰─ 206.148.24.74   7578    1.235               (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 206.148.24.71   7578    1.02                (Singapore, Singapore, SG, AS) e50.sg-eqxsg3-bb1.globalsecurelayer.com                                                             
+S (7578)  
+╰─ 206.148.24.20   7578    47.152        (Belmont, Western Australia, AU, OC) e52.per-ndcp2-bb2.globalsecurelayer.com                                                             
+   206.148.24.8    7578    92.814           (Sydney, New South Wales, AU, OC) e2.syd-eqxsy5-bb1.globalsecurelayer.com                                                             
+   206.148.24.115  7578    92.378           (Sydney, New South Wales, AU, OC) po7.syd-eqxsy5-bb1.globalsecurelayer.com                                                            
+   206.148.24.113  7578    92.276           (Sydney, New South Wales, AU, OC)                                                                                                     
+   206.148.24.117  7578    92.179           (Sydney, New South Wales, AU, OC)                                                                                                     
+   100.64.1.10     *       92.555                                         ***                                                                                                     
+   202.165.66.5    137409  92.501           (Sydney, New South Wales, AU, OC)                                                                                                     

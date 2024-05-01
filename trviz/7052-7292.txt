@@ -1,0 +1,15 @@
+   89.213.179.65   32167   0.0                 (Hong Kong, Hong Kong, HK, AS) 89-213-179-65.ip.lshiyusercontent.com                                                               
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 103.203.243.10  955     0.321             (Kadoorie, Kowloon City, HK, AS) port-channe17.switch1.hkg1.bb.lshiy.net                                                             
+S (955, 6939)  asia-america-gateway-aag-cable-system ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 72.52.92.121    6939    149.708                  (Los Angeles, CA, US, NA) port-channel14.core2.lax1.he.net                                                                    
+   198.32.251.85   2152    145.32                        (None, None, US, NA) *                                                                                                   
+   137.164.11.87   2152    154.689                    (Riverside, CA, US, NA) dc-riv-agg8--lax-agg10-300g.cenic.net                                                               
+   137.164.11.91   3292    157.835                     (Tri-City, OR, US, NA) dc-tri-agg2--riv-agg8-300g.cenic.net                                                                
+   137.164.46.7    2152    162.159                     (Tri-City, OR, US, NA) cor-agg8--tri-agg2--100ge.cenic.net                                                                 
+   137.164.50.243  2152    164.083                       (Corona, CA, US, NA) sha-coe-1--cor-agg8-10g.cenic.net                                                                   
+   137.164.34.84   2152    158.962                      (Shafter, CA, US, NA) sha-coe-2---to--sha-coe-1--10ge.cenic.net                                                           
+   137.164.13.11   23483   163.591                      (Shafter, CA, US, NA) shacoe-gw2--sha-coe-2-10g.cenic.net                                                                 
+   66.244.16.33    23483   159.15               (Redding, California, US, NA) us-rdd-as23483.anchors.atlas.ripe.net                                                               

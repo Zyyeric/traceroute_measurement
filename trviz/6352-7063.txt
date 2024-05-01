@@ -1,0 +1,26 @@
+   197.189.194.147 37153   0.0                (Johannesburg, Gauteng, ZA, AF) atlas-anchor-jnb1.jnb.net.host-h.net                                                                
+   197.189.194.145 37153   1.351              (Johannesburg, Gauteng, ZA, AF)                                                                                                     
+   197.189.193.2   37153   0.337              (Johannesburg, Gauteng, ZA, AF) core-router1.jnb1.host-h.net                                                                        
+   41.66.132.241   37179   0.371              (Johannesburg, Gauteng, ZA, AF) 41-66-132-241-f1.customer.xe-0-0-2-gp-sm-het-mee-1.africainx.net                                    
+   41.84.13.65     37225   1.762                   (Johannesburg, GP, ZA, AF) core.ge-0-1-1-gp-id-pbr-1.za.africainx.net                                                          
+╭─ 80.84.20.30     6774    1.507              (Johannesburg, Gauteng, ZA, AF)                                                                                                     
+LHL (6774, 2603)  africa-coast-to-europe-ace ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 80.81.192.241   2603    173.193            (Frankfurt am Main, HE, DE, EU) de-ffm.nordu.net                                                                                    
+T (2603)  
+╰─ 109.105.102.97  2603    171.469                     (Hexton, None, GB, EU) uk-hex.nordu.net                                                                                    
+╭─ 109.105.102.98  2603    188.147                      (London, ENG, GB, EU) ndn-gw.mx1.lon.uk.geant.net                                                                         
+S&T (2603, 20965)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 62.40.98.222    20965   199.537                     (Bilbao, None, ES, EU) ae4.rt1.bil.es.geant.net                                                                            
+S&T (20965, 21320)  
+├─ 83.97.90.19     21320   198.427                  (London, England, GB, EU) rediris-ias-geant.bil.es.geant.net                                                                  
+S&T (21320, 766)  
+╰─ 130.206.245.17  766     201.448                       (None, None, ES, EU) EHU.RT2.ETHTRUNK2.telmad.rt1.mad.red.rediris.es                                                     
+   130.206.245.50  766     200.115                       (None, None, ES, EU) telmad.rt1.ae11-0.telmad.rt4.mad.red.rediris.es                                                     
+   130.206.214.98  13041   208.968                       (None, None, ES, EU) anella-router.red.rediris.es                                                                        
+   84.88.18.254    13041   208.59              (Barcelona, Catalonia, ES, EU) anchor-anella.cesca.cat                                                                             

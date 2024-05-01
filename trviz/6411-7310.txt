@@ -1,0 +1,12 @@
+   38.47.189.189   140443  0.0           (Kuala Lumpur, Kuala Lumpur, MY, AS)                                                                                                     
+   38.47.189.1     140443  0.474         (Kuala Lumpur, Kuala Lumpur, MY, AS)                                                                                                     
+╭─ 38.47.188.2     140443  0.528         (Kuala Lumpur, Kuala Lumpur, MY, AS)                                                                                                     
+S&T (140443, 9002)  indonesia-global-gateway-igg-system ✓ || palapa-ring-west ✓ || batam-dumai-melaka-bdm-cable-system ✘ || jasuka ✓ || seamewe-4 ✘ || seamewe-5 ✓ || seax-1 ✘ || asia-submarine-cable-express-asecahaya-malaysia ✓ || asia-america-gateway-aag-cable-system ✓ || batam-rengit-cable-system-brcs ✘ || apcn-2 ✓
+├  10.111.220.141  *       6.593                                          ***                                                                                                     
+├─ 87.245.231.200  9002    6.818               (Singapore, Singapore, SG, AS) ae0-526.rt.eqx.sin.sg.retn.net                                                                      
+S (9002)  asia-america-gateway-aag-cable-system ✓
+╰─ 87.245.234.157  9002    261.667              (Seattle, Washington, US, NA) ae0-4.rt.wbx.sea.us.retn.net                                                                        
+   206.81.80.48    35280   271.803                    (Seattle, WA, US, None) seattle-ix.wes.acorus.net                                                                           
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   107.162.217.5   55002   190.003             (San Jose, California, US, NA)                                                                                                     

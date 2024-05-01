@@ -1,0 +1,16 @@
+   92.38.178.149   202422  0.0                       (Urayasu, Tokyo, JP, AS)                                                                                                     
+   92.38.178.1     202422  0.168                     (Urayasu, Tokyo, JP, AS) gw.gcore.lu                                                                                         
+   10.255.16.182   *       0.21                                           ***                                                                                                     
+   10.255.16.183   *       0.408                                          ***                                                                                                     
+   61.200.80.169   2914    1.221                     (Urayasu, Tokyo, JP, AS) ce-0-9-0-3.r00.tokyjp08.jp.bb.gin.ntt.net                                                           
+   ***             *       -inf                                           *** *                                                                                                   
+   129.250.5.91    2914    1.445                       (Tokyo, Tokyo, JP, AS) ae-10.a01.tokyjp09.jp.bb.gin.ntt.net                                                                
+╭─ 4.68.75.129     3356    1.886                          (Tokyo, 13, JP, AS) ae-13.edge2.Tokyo4.Level3.net                                                                       
+S (3356)  asia-pacific-gateway-apg ✓ || eac-c2c ©
+╰─ 4.69.206.174    3356    68.75                    (Singapore, None, SG, AS) ae1.3505.edge3.Singapore3.level3.net                                                                
+╭─ 8.245.2.186     3356    71.328              (Singapore, Singapore, SG, AS)                                                                                                     
+S (3356, 9268)  australia-singapore-cable-asc © || indigo-west © || seamewe-3 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 119.17.170.244  9268    136.245          (Sydney, New South Wales, AU, OC) gen-119-17-170-244.ptr4.otw.net.au                                                                  

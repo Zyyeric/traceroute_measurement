@@ -1,0 +1,19 @@
+   102.219.127.20  37468   0.0                 (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 102.219.127.17  37468   0.336               (Singapore, Singapore, SG, AS)                                                                                                     
+S (37468)  asia-america-gateway-aag-cable-system ✓
+╰─ 102.219.127.5   37468   161.968          (Los Angeles, California, US, NA)                                                                                                     
+   170.238.233.33  37468   271.642                   (Miami, Florida, US, NA) 33.233.238.170.angolacables.ao                                                                      
+   4.37.37.165     3356    273.457                   (Miami, Florida, US, NA) et-7-0-5.edge6.miami1.level3.net                                                                    
+   4.69.207.41     3356    273.346                        (Miami, FL, US, NA) ae2.3604.ear4.Miami2.level3.net                                                                     
+   184.104.188.218 6939    273.213                   (Miami, Florida, US, NA) port-channel1.core1.mia1.he.net                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   184.105.213.137 6939    251.498                      (Phoenix, AZ, US, NA) port-channel14.core2.phx2.he.net                                                                    
+   184.105.64.246  6939    250.124                      (Houston, TX, US, NA) ve954.core2.hou2.he.net                                                                             
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 184.104.194.98  6939    221.746                   (Sacramento, CA, US, NA) 100ge0-36.core1.sac1.he.net                                                                         
+S (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.220.67  6939    356.739             (Hong Kong, Hong Kong, HK, AS) lshiy.e0-30.switch1.hkg1.he.net                                                                     
+   103.203.243.11  955     356.748             (Hong Kong, Hong Kong, HK, AS) multi-user.port-channe17.switch1.hkg1.bb.lshiy.net                                                  
+   89.213.179.65   32167   358.24              (Hong Kong, Hong Kong, HK, AS) 89-213-179-65.ip.lshiyusercontent.com                                                               

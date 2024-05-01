@@ -1,0 +1,17 @@
+   103.153.176.122 131657  0.0                       (Taipei, Taiwan, TW, AS) 103-153-176-122.as131657.net                                                                        
+   103.153.176.254 131657  0.201                     (Taipei, Taiwan, TW, AS) 103-153-176-254.as131657.net                                                                        
+╭─ 103.51.91.5     *       0.41                      (Taipei, Taiwan, TW, AS) et-0-0-1.cr1.hd.tpe.as131657.net                                                                    
+S (, 6939)  seamewe-3 ✘ || apcn-2 ✘ || trans-pacific-express-tpe-cable-system ✘ || faster ✘ || eac-c2c ✘ || asia-pacific-gateway-apg ✘ || flag-north-asia-loopreach-north-asia-loop ✘ || new-cross-pacific-ncp-cable-system ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.199.145 6939    27.871                      (Osaka, Ōsaka, JP, AS) port-channel6.core1.osa1.he.net                                                                     
+S (6939, 6762)  tata-tgn-pacific ✓ || faster ✓ || japan-u-s-cable-network-jus ✓ || new-cross-pacific-ncp-cable-system ✓ || jupiter ✓ || trans-pacific-express-tpe-cable-system ✓ || unityeac-pacific ✓ || pacific-crossing-1-pc-1 ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 89.221.35.194   6762    139.632                  (Los Angeles, CA, US, NA) ae8.losangeles1.loa.seabone.net                                                                     
+LHL (6762)  apollo ✓ ↠ seamewe-3 👍 || apollo ✓ ↠ seamewe-5 👍 || apollo ✓ ↠ seamewe-4 👍 || apollo ✓ ↠ asia-africa-europe-1-aae-1 ✓ || apollo ✓ ↠ imewe 👍 || flag-atlantic-1-fa-1 © ↠ seamewe-3 👍 || flag-atlantic-1-fa-1 © ↠ seamewe-5 👍 || flag-atlantic-1-fa-1 © ↠ seamewe-4 👍 || flag-atlantic-1-fa-1 © ↠ asia-africa-europe-1-aae-1 ✓ || flag-atlantic-1-fa-1 © ↠ imewe 👍
+╰─ 195.22.218.213  6762    351.088                    (Palermo, None, IT, EU) ae1.palermo3.pal.seabone.net                                                                        
+╭─ 195.22.197.167  8895    390.619                    (Palermo, None, IT, EU) integrated-telecom.palermo3.pal.seabone.net                                                         
+S (8895, 208520)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 45.94.14.204    208520  392.301            (Riyadh, Riyadh Region, SA, AS)                                                                                                     

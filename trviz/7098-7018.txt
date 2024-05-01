@@ -1,0 +1,15 @@
+   103.2.186.195   45345   0.0               (Nouméa, South Province, NC, OC) nc-nou-as45345.anchors.atlas.ripe.net                                                               
+   103.2.186.221   45345   0.598             (Nouméa, South Province, NC, OC) gw-ipv4-hosting-1010-mx204-f10.as45345.net                                                          
+   202.87.128.198  45345   0.594                          (Noumea, S, NC, OC) *                                                                                                   
+╭─ 202.87.128.197  18200   1.447             (Nouméa, South Province, NC, OC)                                                                                                     
+S (18200, 6939)  gondwana-1 👍
+╰─ 64.71.180.153   6939    22.643                       (Sydney, NSW, AU, OC) e0-9.core2.syd1.he.net                                                                              
+╭─ 64.71.180.153   6939    22.643                       (Sydney, NSW, AU, OC) e0-9.core2.syd1.he.net                                                                              
+S (6939)  tasman-global-access-tga-cable ✓ || southern-cross-cable-network-sccn ✓ || hawaiki ✘
+╰─ 184.104.195.150 6939    56.335                     (Auckland, AUK, NZ, OC) 100ge0-36.core1.akl2.he.net                                                                         
+   216.218.224.39  6939    50.599                (Auckland, Auckland, NZ, OC) two-degrees-mobile-limited.e0-33.core1.akl2.he.net                                                  
+   ***             *       -inf                                           *** *                                                                                                   
+   131.203.72.166  9790    51.174                (Auckland, Auckland, NZ, OC) default-rdns.vocus.co.nz                                                                            
+   131.203.72.165  9790    52.959                (Auckland, Auckland, NZ, OC) default-rdns.vocus.co.nz                                                                            
+   103.242.68.65   133075  52.686                   (Wellington, WGN, NZ, OC) *                                                                                                   
+   103.242.68.78   133075  52.818                (Auckland, Auckland, NZ, OC) 103-242-68-78.broadband.telesmart.co.nz                                                             

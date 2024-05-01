@@ -1,0 +1,11 @@
+   202.46.184.4    38064   0.0                   (Auckland, Auckland, NZ, OC)                                                                                                     
+   202.46.184.1    38064   1.134                 (Auckland, Auckland, NZ, OC)                                                                                                     
+╭─ 43.243.21.17    6939    1.662                      (Auckland, AUK, NZ, OC) as6939.akl.ix.nz                                                                                    
+S (6939)  tasman-global-access-tga-cable ✓ || southern-cross-cable-network-sccn ✓ || hawaiki ✘
+╰─ 184.104.195.149 6939    30.643           (Sydney, New South Wales, AU, OC) 100ge0-79.core1.syd1.he.net                                                                         
+╭─ 184.105.65.223  6939    76.326          (Perth, Western Australia, AU, OC) 100ge0-32.core1.per1.he.net                                                                         
+S (6939, )  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 203.174.80.22   *       117.31              (Singapore, Singapore, SG, AS) he.net.sin01.ne.com.sg                                                                              
+   ***             *       -inf                                           *** *                                                                                                   
+   203.174.85.106  38001   120.693             (Singapore, Singapore, SG, AS)                                                                                                     

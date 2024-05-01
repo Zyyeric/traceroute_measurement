@@ -1,0 +1,36 @@
+   92.223.93.208   202422  0.0                      (Milan, Lombardy, IT, EU)                                                                                                     
+   92.223.93.195   202422  0.391                    (Milan, Lombardy, IT, EU) vrrp.gcore.lu                                                                                       
+   10.255.169.181  *       0.295                                          ***                                                                                                     
+   10.255.169.178  *       0.391                                          ***                                                                                                     
+   10.255.25.162   *       0.313                                          ***                                                                                                     
+   185.1.106.69    *       0.456                    (Milan, Lombardy, IT, EU) 137409-ml2-ix-02.equinix.com                                                                        
+╭─ 206.148.26.102  7578    0.319                    (Milan, Lombardy, IT, EU) e49.mil-eqxml2-bb2.globalsecurelayer.com                                                            
+S&T (7578)  
+╰─ 206.148.26.94   7578    8.553     (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) e52.mrs-ixmrs2-bb5.globalsecurelayer.com                                                            
+   206.148.26.87   7578    8.497     (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) po1.mrs-ixmrs2-bb6.globalsecurelayer.com                                                            
+   206.148.26.68   7578    18.648              (Paris, Île-de-France, FR, EU) e15.par-thpa2-cr2.globalsecurelayer.com                                                             
+╭─ 206.148.26.59   7578    18.724              (Paris, Île-de-France, FR, EU) e23.par-eqxpa3-cr1.globalsecurelayer.com                                                            
+S (7578)  apollo ✘ || flag-atlantic-1-fa-1 ✘
+╰─ 206.148.26.57   7578    93.056                 (Ashburn, Virginia, US, NA) e56.ash-eqxdc10-bb3.globalsecurelayer.com                                                           
+   206.148.25.48   7578    106.694              (East Point, Georgia, US, NA) e52.atl-drtatl1-bb1.globalsecurelayer.com                                                           
+   206.148.25.24   7578    121.238           (University Park, Texas, US, NA) e51.dal-eqxda11-bb1.globalsecurelayer.com                                                           
+   206.148.25.23   7578    144.681                 (Phoenix, Arizona, US, NA) e50.phx-pnap-bb1.globalsecurelayer.com                                                              
+   206.148.25.19   7578    149.718          (Los Angeles, California, US, NA) e51.lax-csla2-bb1.globalsecurelayer.com                                                             
+╭─ 206.148.25.84   7578    247.113          (Los Angeles, California, US, NA) e50.ty-eqxty8-bb5.globalsecurelayer.com                                                             
+S (7578)  
+╰─ 206.148.24.51   7578    247.271          (Sydney, New South Wales, AU, OC) e30.ty-eqxty8-bb1.globalsecurelayer.com                                                             
+╭─ 206.148.24.66   7578    313.865          (Sydney, New South Wales, AU, OC) e51.sg-eqxsg3-bb1.globalsecurelayer.com                                                             
+S (7578)  
+╰─ 31.217.251.74   7578    313.753             (Singapore, Singapore, SG, AS) unknown.globalsecurelayer.com                                                                       
+╭─ 160.202.164.165 137409  250.813             (Singapore, Singapore, SG, AS)                                                                                                     
+S (137409, 8529)  
+╰─ 134.0.220.250   8529    245.003                   (Muscat, Muscat, OM, AS)                                                                                                     
+╭─ 134.0.220.179   17557   265.39                        (Muscat, MA, OM, AS) *                                                                                                   
+S (17557, 7590)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 202.125.149.58  7590    283.543                   (Rawalpindi, PB, PK, AS) Touchstone-4.rwp44d1.pie.net.pk                                                                     
+   210.56.8.180    7590    273.033                    (Islamabad, IS, PK, AS) *                                                                                                   
+   210.56.11.202   7590    282.141             (Islamabad, Islamabad, PK, AS)                                                                                                     

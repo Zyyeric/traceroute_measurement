@@ -1,0 +1,11 @@
+   5.188.238.222   202422  0.0                 (São Paulo, São Paulo, BR, SA)                                                                                                     
+╭─ 5.188.238.3     202422  0.151               (São Paulo, São Paulo, BR, SA) vrrp.gcore.lu                                                                                       
+S (202422, 6057)  
+├  10.255.22.182   *       0.134                                          ***                                                                                                     
+├  10.255.22.187   *       0.384                                          ***                                                                                                     
+├─ 64.191.233.61   6057    0.577                         (None, None, US, NA) *                                                                                                   
+LHL (6057)  
+╰─ 179.31.62.65    6057    24.497                        (None, None, UY, SA) brcot2.gru-ae1064.antel.net.uy                                                                      
+   179.31.62.20    6057    25.977                        (None, None, UY, SA) crsan2.gru-ae1020.antel.net.uy                                                                      
+   179.31.62.40    6057    25.646                        (None, None, UY, SA) ibe2mln1-be5.antel.net.uy                                                                           
+   200.7.84.24     28000   28.027    (Montevideo, Montevideo Department, UY, SA) uy-mvd-as28000.anchors.atlas.ripe.net                                                               

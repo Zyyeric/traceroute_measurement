@@ -1,0 +1,21 @@
+   145.239.14.84   16276   0.0           (Dunkerque, Hauts-de-France, FR, EU) fr-grv-as16276.anchors.atlas.ripe.net                                                               
+   145.239.12.1    16276   0.222     (Grand-Fort-Philippe, Hauts-de-France, FR, EU)                                                                                                     
+   192.168.143.254 *       0.258                                          ***                                                                                                     
+╭─ 51.255.243.254  16276   0.345     (Grand-Fort-Philippe, Hauts-de-France, FR, EU)                                                                                                     
+S&T (16276)  seamewe-3 ✓
+├  10.97.155.11    *       0.397                                          ***                                                                                                     
+├  10.17.136.68    *       0.623                                          ***                                                                                                     
+├  10.73.2.26      *       0.452                                          ***                                                                                                     
+├  10.95.33.10     *       1.559                                          ***                                                                                                     
+├─ 213.251.128.65  16276   3.741                    (London, England, GB, EU) be102.lon-drch-sbb1-nc5.uk.eu                                                                       
+S (16276)  exa-north-and-south ✘ || exa-express ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 198.27.73.219   16276   78.902                        (None, None, CA, NA) was-nva1-sbb1-8k.va.us                                                                              
+S&T (16276)  ketchcan1-submarine-fiber-cable-system ✘ || exa-north-and-south ✘
+├─ 192.99.146.112  16276   119.365     (Washington, Washington, D.C., US, NA) be100-1290.mia-mi1-bb1-a9.fl.us                                                                     
+S (16276, 266413)  brusa ✓ || america-movil-submarine-cable-system-1-amx-1 ✓ || south-america-1-sam-1 ✓ || globenet ✓ || monet ✓
+├  10.200.5.199    *       110.117                                        ***                                                                                                     
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 190.15.96.130   266413  228.679                       (Olinda, PE, BR, SA) *                                                                                                   
+   170.81.100.114  266413  229.1                    (Camaçari, Bahia, BR, SA) 170.81.100.114.vivatecnologia.com.br                                                                

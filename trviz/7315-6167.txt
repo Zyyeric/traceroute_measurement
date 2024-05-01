@@ -1,0 +1,18 @@
+   200.107.82.196  263779  0.0                   (San José, San José, CR, NA)                                                                                                     
+   200.107.82.222  263779  0.314                 (San José, San José, CR, NA)                                                                                                     
+   190.106.72.81   28022   0.365                 (San José, San José, CR, NA)                                                                                                     
+   172.30.51.133   *       0.96                                           ***                                                                                                     
+   10.28.0.26      *       1.022                                          ***                                                                                                     
+   10.28.0.110     *       1.156                                          ***                                                                                                     
+   10.28.0.98      *       0.746                                          ***                                                                                                     
+╭─ 190.242.136.72  23520   49.754                (San José, San José, CR, NA)                                                                                                     
+S&T (23520)  
+╰─ 63.245.79.82    23520   69.12                     (Miami, Florida, US, NA)                                                                                                     
+   63.245.79.66    23520   61.608                    (Miami, Florida, US, NA)                                                                                                     
+   72.52.92.50     6939    62.007                  (Jacksonville, FL, US, NA) 100ge0-35.core2.jax1.he.net                                                                         
+   216.66.39.141   6939    61.299                         (Miami, FL, US, NA) port-channel4.core2.mia1.he.net                                                                     
+   184.104.188.217 6939    62.702                    (Miami, Florida, US, NA) port-channel27.core2.mia1.he.net                                                                    
+╭─ 184.104.199.178 6939    133.362                   (Miami, Florida, US, NA) 100ge0-35.core1.for1.he.net                                                                         
+S (6939, 266152)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 45.6.36.173     266152  158.562          (Campina Grande, Paraíba, BR, SA) 45.6.36.173.pjmfibra.com.br                                                                         

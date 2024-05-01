@@ -1,0 +1,29 @@
+   180.211.88.22   45725   0.0                     (Jakarta, Jakarta, ID, AS) id-jkt-as45725.anchors.atlas.ripe.net                                                               
+   180.211.88.21   45725   0.361                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+   43.230.153.89   *       0.431                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+╭─ 111.92.161.4    55655   0.658                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+S&T (55655, 6939)  indonesia-global-gateway-igg-system ✘ || australia-singapore-cable-asc ✘ || matrix-cable-system ✘ || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || seamewe-3 ✘ || jasuka ✘ || indigo-west ✘ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || jakabare ✘
+├  10.110.1.0      *       12.214                                         ***                                                                                                     
+├─ 74.82.49.213    6939    24.016              (Singapore, Singapore, SG, AS) e0-49.switch7.sin1.he.net                                                                           
+S (6939)  
+├─ 184.104.194.200 6939    150.442   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) port-channel15.core4.mrs1.he.net                                                                    
+S (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 72.52.92.69     6939    163.309                   (Pleasanton, CA, US, NA) 10ge4-5.core1.pao1.he.net                                                                           
+LHL (6939, 4637)  
+├─ 80.81.193.79    4637    172.329           (Frankfurt am Main, 5, DE, None) ULCO01.telstraglobal.net                                                                            
+T (4637)  
+├─ 202.84.178.37   4637    171.761                  (London, England, GB, EU) i-1107.ulhc-core03.telstraglobal.net                                                                
+S (4637)  
+├─ 202.84.249.1    4637    252.644          (Los Angeles, California, US, NA)                                                                                                     
+S (4637)  
+╰─ 202.84.137.21   4637    435.365          (Sydney, New South Wales, AU, OC) i-10305.sydo-core03.telstraglobal.net                                                               
+   203.50.13.97    1221    435.539                      (Sydney, NSW, AU, OC) bundle-ether3.oxf-gw11.sydney.telstra.net                                                           
+   203.50.6.117    1221    426.773          (Sydney, New South Wales, AU, OC) bundle-ether5.stl-core30.sydney.telstra.net                                                         
+   203.50.13.131   1221    436.001              (Melbourne, Victoria, AU, OC) bundle-ether3.win-core30.melbourne.telstra.net                                                      
+   203.50.6.228    1221    445.266                     (Adelaide, SA, AU, OC) bundle-ether2.fli-core10.adelaide.telstra.net                                                       
+   203.50.6.233    1221    473.736                        (Perth, WA, AU, OC) bundle-ether3.wel-core10.perth.telstra.net                                                          
+   203.50.6.175    1221    472.652                        (Perth, WA, AU, OC) bundle-ether1.wel-edge903.perth.telstra.net                                                         
+   138.217.126.74  1221    474.685         (Perth, Western Australia, AU, OC) tel4198808.lnk.telstra.net                                                                          
+   ***             *       -inf                                           *** *                                                                                                   
+   203.41.0.254    1221    474.746         (Perth, Western Australia, AU, OC) atlas-per.telstra.net                                                                               

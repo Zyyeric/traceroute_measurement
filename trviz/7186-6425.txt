@@ -1,0 +1,17 @@
+   202.214.97.16   2497    0.0                      (Hatsudai, Tokyo, JP, AS)                                                                                                     
+   202.214.97.2    2497    3.388                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+   210.138.93.41   2497    1.582                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+   58.138.114.233  2497    0.907                       (Tokyo, Tokyo, JP, AS) tky009ipgw00.iij.net                                                                                
+   58.138.114.189  2497    1.107                       (Tokyo, Tokyo, JP, AS) tky009bb00.iij.net                                                                                  
+╭─ 58.138.112.50   2497    2.816                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+S (2497)  japan-u-s-cable-network-jus ✓ || tata-tgn-pacific ✓ || pacific-crossing-1-pc-1 ✓
+╰─ 58.138.88.226   2497    116.734              (Seattle, Washington, US, NA) sea001bb00.iij.net                                                                                  
+   206.81.80.13    3491    117.349                      (Seattle, WA, US, NA) ge3-0.cr02.sea01.pccwbtn.net                                                                        
+   63.218.218.74   3491    166.408                (Ashburn, Virginia, US, NA) bundle-ether41.br04.ash02.as3491.net                                                                
+╭─ 63.222.112.207  3491    191.788                 (Reston, Virginia, US, NA)                                                                                                     
+S (3491, 13238)  atlantic-crossing-1-ac-1 ✓
+├─ 87.250.239.18   13238   276.078         (Amsterdam, North Holland, NL, EU) ams1-b1-fti4.yndx.net                                                                               
+LHL (13238)  seamewe-4 ✓ || seamewe-3 ✓ || seamewe-5 ✘
+╰─ 93.158.160.15   13238   427.68              (Singapore, Singapore, SG, AS) sin-b1-fti0.yndx.net                                                                                
+   ***             *       -inf                                           *** *                                                                                                   
+   45.87.135.252   208398  439.16              (Singapore, Singapore, SG, AS)                                                                                                     

@@ -1,0 +1,17 @@
+   203.175.175.206 24482   0.0                 (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 203.175.175.252 24482   0.417                         (None, None, SG, AS) edge-1.v10.sg3.sg.gs                                                                                
+S (24482)  
+╰─ 27.111.228.159  24482   0.696                     (Seogwipo, None, KR, AS) 24482.sgw.equinix.com                                                                               
+╭─ 27.111.228.74   4826    1.24                      (Seogwipo, None, KR, AS) 4826.sgw.equinix.com                                                                                
+S (4826)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 103.1.77.0      4826    115.405                       (None, None, AU, OC) be200.lsr01.brdg.nsw.vocus.network                                                                  
+   103.1.76.144    4826    115.56                        (None, None, AU, OC) be803.lsr01.brdg.nsw.vocus.network                                                                  
+╭─ 103.1.77.39     *       115.786          (Sydney, New South Wales, AU, OC) be200.cor03.syd14.nsw.vocus.network                                                                 
+S (, 4826)  
+╰─ 114.31.202.57   4826    115.803                    (Auckland, AUK, NZ, OC) be204.bdr01.akl03.akl.nz.vocus.network                                                              
+   175.45.102.238  9790    115.028                    (Auckland, AUK, NZ, OC) as9790.bdr01.akl03.akl.nz.vocus.network                                                             
+   131.203.72.166  9790    117.242               (Auckland, Auckland, NZ, OC) default-rdns.vocus.co.nz                                                                            
+   131.203.72.165  9790    116.401               (Auckland, Auckland, NZ, OC) default-rdns.vocus.co.nz                                                                            
+   103.242.68.65   133075  117.635                  (Wellington, WGN, NZ, OC) *                                                                                                   
+   103.242.68.78   133075  117.532               (Auckland, Auckland, NZ, OC) 103-242-68-78.broadband.telesmart.co.nz                                                             

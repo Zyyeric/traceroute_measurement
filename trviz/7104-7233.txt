@@ -1,0 +1,24 @@
+   148.225.112.222 4493    0.0                   (Hermosillo, Sonora, MX, NA)                                                                                                     
+   148.225.112.250 4493    0.205                 (Hermosillo, Sonora, MX, NA)                                                                                                     
+╭─ 177.242.222.96  13999   0.791                 (Hermosillo, Sonora, MX, NA) customer-qro-222-96.megared.net.mx                                                                  
+S&T (13999, 32098)  arcos ✘ || gignet-1 ✘ || maya-1 ✘ || america-movil-submarine-cable-system-1-amx-1 ✘
+├  10.3.2.73       *       27.274                                         ***                                                                                                     
+├  10.3.5.42       *       27.278                                         ***                                                                                                     
+├  ***             *       -inf                                           *** *                                                                                                   
+├  10.3.22.3       *       27.394                                         ***                                                                                                     
+╰─ 201.174.154.17  32098   19.818                    (El Paso, Texas, US, NA) 201-174-154-17.transtelco.net                                                                       
+   ***             *       -inf                                           *** *                                                                                                   
+   154.54.87.25    174     21.328                    (El Paso, Texas, US, NA) be2667.ccr21.elp02.atlas.cogentco.com                                                               
+   154.54.5.217    174     29.709                  (Phoenix, Arizona, US, NA) be2979.ccr31.phx01.atlas.cogentco.com                                                               
+   154.54.28.142   174     29.607                       (Phoenix, AZ, US, NA) be3407.rcr21.b023003-0.phx01.atlas.cogentco.com                                                     
+   62.115.174.90   1299    29.704                  (Phoenix, Arizona, US, NA) phx-b9-link.ip.twelve99.net                                                                         
+   62.115.137.120  1299    30.243                  (Phoenix, Arizona, US, NA) phx-b6-link.ip.twelve99.net                                                                         
+   62.115.125.54   1299    47.06                      (Dallas, Texas, US, NA) dls-bb2-link.ip.twelve99.net                                                                        
+   62.115.116.213  1299    59.995                  (Atlanta, Georgia, US, NA) atl-b24-link.ip.twelve99.net                                                                        
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 62.115.155.3    1299    85.329                    (Miami, Florida, US, NA) gasnatural-ic-374542.ip.twelve99-cust.net                                                           
+S&T (1299, 52468)  pacific-caribbean-cable-system-pccs ✓ || arcos © || pan-american-crossing-pac ✘ || maya-1 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 181.78.120.102  52468   179.68                    (Panamá, Panamá, PA, NA) 102.120.78.181.ufinet.com.pa                                                                        
+   ***             *       -inf                                           *** *                                                                                                   
+   179.0.200.36    272037  189.08                    (Panamá, Panamá, PA, NA)                                                                                                     

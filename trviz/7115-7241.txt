@@ -1,0 +1,12 @@
+   182.18.209.9    23944   0.0                 (Manila, Metro Manila, PH, AS)                                                                                                     
+   182.18.209.1    23944   0.738          (Quezon City, Metro Manila, PH, AS) 209-182.gw.skybroadband.com.ph                                                                      
+   130.105.0.48    23944   0.364                     (Quezon City, 0, PH, AS) *                                                                                                   
+╭─ 184.104.188.51  6939    16.514         (Quezon City, Metro Manila, PH, AS) 10ge0-8.core1.mnl1.he.net                                                                           
+S (6939)  
+├─ 184.104.212.73  6939    16.098              (Hong Kong, Hong Kong, HK, AS) e0-20.switch1.hkg1.he.net                                                                           
+S (6939)  
+╰─ 184.104.199.182 6939    54.99               (Singapore, Singapore, SG, AS) port-channel3.core3.sin1.he.net                                                                     
+╭─ 74.82.51.50     7642    81.151                      (Singapore, 4, SG, AS) dhivehi-raajjeyge-gulhan-plc.10gigabitethernet1-1-28.switch2.sin1.he.net                            
+S (7642)  
+╰─ 202.1.205.242   7642    78.822                        (None, None, MV, AS) xe-1-0-0-1.rt.dhivehinet.net.mv                                                                     
+   123.176.1.4     7642    80.858                 (Male, Kaafu Atoll, MV, AS)                                                                                                     

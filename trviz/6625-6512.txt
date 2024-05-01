@@ -1,0 +1,14 @@
+   80.82.241.134   28792   0.0                      (London, England, GB, EU) 134-241-82-80.in-addr.pblin.net                                                                     
+   80.82.241.133   28792   0.8                      (Oxford, England, GB, EU) 133-241-82-80.in-addr.pblin.net                                                                     
+   80.82.243.126   28792   0.365                    (Witney, England, GB, EU) gi0-0-1.oxf-core-02.ip.pblin.net                                                                    
+   80.82.243.121   28792   2.937                    (London, England, GB, EU) gi2-0-1.lon-core-01.ip.pblin.net                                                                    
+   5.57.80.128     6939    3.268                        (London, ENG, GB, EU) 10gigabitethernet5-1.core1.lon1.he.net                                                              
+╭─ 184.104.198.126 6939    4.134                    (London, England, GB, EU) port-channel2.core2.lon5.he.net                                                                     
+S (6939)  apollo ✓ || yellow ✓ || tata-tgn-atlantic ✓
+╰─ 184.104.199.78  6939    70.511             (Boston, Massachusetts, US, NA) port-channel1.core1.bos2.he.net                                                                     
+╭─ 184.104.194.87  6939    70.524             (Boston, Massachusetts, US, NA) 100ge0-40.core2.bos1.he.net                                                                         
+S&T (6939)  exa-north-and-south ✓
+╰─ 72.52.92.10     6939    83.136                       (Moncton, NB, CA, NA) 100ge0-33.core2.yqm1.he.net                                                                         
+   209.51.184.134  3367    83.264                       (Moncton, NB, CA, NA) f6-networks-inc.10gigabitethernet12-15.core1.yqm1.he.net                                            
+   98.143.249.21   21659   81.596                       (Moncton, NB, CA, NA) enova-98-143-249-21.e-novations.ca                                                                  
+   96.126.70.90    21659   81.498            (Moncton, New Brunswick, CA, NA) 96-126-70-90.apbx.ca                                                                                

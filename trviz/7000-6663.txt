@@ -1,0 +1,14 @@
+   92.223.93.208   202422  0.0                      (Milan, Lombardy, IT, EU)                                                                                                     
+   92.223.93.195   202422  0.272                    (Milan, Lombardy, IT, EU) vrrp.gcore.lu                                                                                       
+   45.82.101.3     199524  0.31                     (Milan, Lombardy, IT, EU)                                                                                                     
+   10.255.169.177  *       0.414                                          ***                                                                                                     
+   10.255.25.163   *       0.419                                          ***                                                                                                     
+   149.14.135.249  174     0.598                    (Milan, Lombardy, IT, EU) hu0-1-0-0.nr51.b026361-0.mil01.atlas.cogentco.com                                                   
+╭─ 154.25.12.145   174     0.526 (1.35)               (Milan, Lombardy, IT, EU) be2218.rcr21.mil01.atlas.cogentco.com                                                               
+S&T (174)  
+╰─ 154.54.74.165   174     9.237                     (Marseille, PAC, FR, EU) be2864.ccr31.mrs02.atlas.cogentco.com                                                               
+╭─ 154.54.56.134   174     14.777                         (Nice, PAC, FR, EU) te0-0-1-1.rcr12.nce02.atlas.cogentco.com                                                            
+S&T (174, 197422)  
+├─ 149.11.58.74    197422  14.839                      (Travesio, 36, IT, EU) *                                                                                                   
+S&T (197422)  
+╰─ 185.119.168.5   197422  14.007               (Toulouse, Occitanie, FR, EU) anchor.tetaneutral.net                                                                              

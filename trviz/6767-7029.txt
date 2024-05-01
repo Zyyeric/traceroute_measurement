@@ -1,0 +1,21 @@
+   192.168.0.130   *       0.0                                            ***                                                                                                     
+   192.168.0.1     *       0.164                                          ***                                                                                                     
+   172.16.254.1    *       0.313                                          ***                                                                                                     
+   192.168.1.1     *       0.696                                          ***                                                                                                     
+   10.98.238.18    *       0.588 (3.829)                                     ***                                                                                                     
+   10.0.0.170      *       7.559                                          ***                                                                                                     
+   81.212.78.45    9121    5.969                     (Ankara, Ankara, TR, AS) 81.212.78.45.static.turktelekom.com.tr                                                              
+   81.212.216.50   9121    5.474              (Sultanbeyli, Istanbul, TR, AS) 34-acibadem-xrs-t2-1---34-acibadem-sr12e-t3-8.statik.turktelekom.com.tr                             
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 212.156.139.60  9121    19.485                      (Istanbul, 34, TR, AS) *                                                                                                   
+S (9121, 2914)  
+├─ 83.217.231.61   2914    19.31                         (None, None, GB, EU) *                                                                                                   
+S (2914)  
+╰─ 129.250.3.137   2914    19.618                        (None, None, US, NA) ae-9.r00.buchro01.ro.bb.gin.ntt.net                                                                 
+╭─ 129.250.3.194   2914    47.287                        (None, None, US, NA) ae-6.r21.mlanit02.it.bb.gin.ntt.net                                                                 
+LHL (2914)  
+╰─ 129.250.5.151   2914    46.799                   (Milan, Lombardy, IT, EU) ae-1.a01.mlanit02.it.bb.gin.ntt.net                                                                 
+   81.25.202.226   12779   46.787                         (Milan, 25, IT, EU) *                                                                                                   
+   213.254.30.255  12779   49.237                        (Torino, 21, IT, EU) be1.Muttley-Monster.edge.TRN.itgate.net                                                             
+   194.116.98.82   41364   49.466                         (Turin, 21, IT, EU) topix41364-itgate.topix.it                                                                          
+   194.116.77.35   41364   48.884                   (Turin, Piedmont, IT, EU)                                                                                                     

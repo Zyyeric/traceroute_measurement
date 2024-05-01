@@ -1,0 +1,21 @@
+   10.252.4.170    *       0.0                                            ***                                                                                                     
+   10.252.4.169    *       0.079                                          ***                                                                                                     
+   10.252.4.153    *       0.167                                          ***                                                                                                     
+   10.252.0.37     *       12.432                                         ***                                                                                                     
+   195.175.203.217 9121    15.507            (Bahçelievler, Istanbul, TR, AS) 195.175.203.217.static.turktelekom.com.tr                                                           
+   81.212.199.166  9121    14.35                 (Istanbul, Istanbul, TR, AS) 00-atakoy-sr14s-t2-2---00-atakoy-sr12e-t3-7.statik.turktelekom.com.tr                               
+   212.156.252.237 9121    17.659                       (Aksaray, 68, TR, AS) 00-gayrettepe-xrs-t2-2---00-atakoy-xrs-t2-2.statik.turktelekom.com.tr                               
+   81.212.213.76   9121    15.031                (Istanbul, Istanbul, TR, AS) 81.212.213.76.static.turktelekom.com.tr                                                             
+╭─ 81.212.209.102  9121    14.978                        (None, None, TR, AS) 10-balya-sr12-t4-1---10-balikesir-sr12e-t3-3.statik.turktelekom.com.tr                              
+S&T (9121)  kafos ✘
+├─ 212.156.102.136 9121    71.574               (Zalău, Sălaj County, RO, EU) 302-ams-col-2---00-ebgp-gayrettepe-k.statik.turktelekom.com.tr                                      
+LHL (9121, 6461)  circe-north ✓ || scylla ✘ || ulysses-2 ✘ || zeus ✓ || atlantic-crossing-1-ac-1 ✓ || concerto ✘ || farland-north ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 193.28.62.102   6461    70.641          (Amsterdam, North Holland, NL, EU) 193.28.62.102.idia-386943-006-zyo.zip.zayo.com                                                      
+T (6461, 47787)  
+├─ 193.109.190.74  47787   93.824                    (Madrid, Madrid, ES, EU) er1.mad1.edgoo.net                                                                                  
+S&T (47787)  
+╰─ 193.163.151.209 47787   100.486                       (Lisbon, 11, PT, EU) cr1.lis1.edgoo.net                                                                                  
+   193.109.188.7   47787   104.978                   (Lisbon, Lisbon, PT, EU)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   185.32.189.249  62416   105.254                 (Odivelas, Lisbon, PT, EU) pt-lis-as62416.anchors.atlas.ripe.net                                                               

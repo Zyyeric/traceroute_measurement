@@ -1,0 +1,16 @@
+   185.70.144.118  200567  0.0                     (Hamburg, Hamburg, DE, EU)                                                                                                     
+   185.70.144.114  200567  0.576      (Tangstedt, Schleswig-Holstein, DE, EU)                                                                                                     
+╭─ 62.214.137.217  8881    0.576 (3.258)                    (Berlin, BE, DE, EU) *                                                                                                   
+T (8881)  
+├─ 80.249.209.109  8881    16.636                 (Xhendelesse, None, BE, EU) xnl1002aihb001.versatel.de                                                                          
+S&T (8881, 2603)  
+├─ 80.249.209.203  2603    17.551                     (Amsterdam, NH, NL, EU) nl-ams.nordu.net                                                                                    
+S&T (2603)  ulysses-2 ✘ || zeus ✓ || circe-north ✓ || scylla ✓ || concerto ✘ || farland-north ✘
+╰─ 109.105.102.97  2603    22.479                      (Hexton, None, GB, EU) uk-hex.nordu.net                                                                                    
+╭─ 109.105.102.98  2603    23.447                       (London, ENG, GB, EU) ndn-gw.mx1.lon.uk.geant.net                                                                         
+S&T (2603, 20965)  geo-eirgrid ✘ || exa-north-and-south ✘ || havhingstenceltixconnect-2-cc-2 ✓ || sirius-south ✘ || esat-2 ✓ || rockabill ✓ || esat-1 ✓ || pan-european-crossing-uk-ireland ✘ || exa-express ✘ || solas ✓
+╰─ 62.40.98.26     20965   32.928                  (Dublin, Leinster, IE, EU) ae6.mx1.dub.ie.geant.net                                                                            
+   83.97.88.74     1213    30.745                         (Dublin, D, IE, EU) heanet-ias-heanet-gw.dub.ie.geant.net                                                               
+   87.44.53.58     1213    33.193                  (Dublin, Leinster, IE, EU) ae4-0.core1-pw.nn.hea.net                                                                           
+   87.44.56.178    1213    31.803                           (Cork, M, IE, EU) po2.pw-spine1.nn.hea.net                                                                            
+   193.1.201.140   1213    30.686                (Tallaght, Leinster, IE, EU) atlas-anchor.heanet.ie                                                                              

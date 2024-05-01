@@ -1,0 +1,16 @@
+   102.130.66.11   37468   0.0                       (Luanda, Luanda, AO, AF)                                                                                                     
+   102.130.66.1    37468   0.453                     (Luanda, Luanda, AO, AF)                                                                                                     
+   102.130.68.107  37468   1.961                     (Luanda, Luanda, AO, AF)                                                                                                     
+╭─ 197.149.150.178 37468   54.494                        (None, None, AO, AF) *                                                                                                   
+S (37468, 60171)  
+╰─ 196.216.148.93  60171   55.058                        (None, None, NG, AF) *                                                                                                   
+╭─ 102.223.52.73   60171   72.841                      (Lagos, Lagos, NG, AF)                                                                                                     
+S&T (60171)  
+├─ 185.10.164.45   60171   72.969                       (London, ENG, GB, EU) *                                                                                                   
+S&T (60171)  
+├─ 102.219.44.43   60171   72.818                      (Lagos, Lagos, NG, AF)                                                                                                     
+S&T (60171, 328913)  
+╰─ 196.49.84.51    328913  73.2                    (Abidjan, Abidjan, CI, AF) bdr3.std.douala-ix.net                                                                              
+╭─ 196.49.84.36    328913  73.415                  (Abidjan, Abidjan, CI, AF) gw1.std.douala-ix.net                                                                               
+S&T (328913)  
+╰─ 196.49.84.188   328913  73.629                  (Douala, Littoral, CM, AF) cm-dla-as328913.anchors.atlas.ripe.net                                                              

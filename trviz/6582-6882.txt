@@ -1,0 +1,15 @@
+   196.6.220.42    37578   0.0              (Nairobi, Nairobi County, KE, AF)                                                                                                     
+   196.6.220.1     37578   0.443            (Nairobi, Nairobi County, KE, AF)                                                                                                     
+   197.155.93.66   30844   0.776            (Nairobi, Nairobi County, KE, AF) 197.155.93.66.liquidtelecom.net                                                                     
+   197.155.94.50   30844   175.005                    (Nairobi, None, KE, AF) hu-0-4-0-2.lke-p2-nbi.liquidtelecom.net                                                             
+╭─ 197.155.94.189  30844   175.076                      (Nairobi, 30, KE, AF) et-1-1-10.lke-p2-msa.liquidtelecom.net                                                              
+S (30844)  
+├─ 197.155.90.200  30844   175.11    (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) xe-0-0-2-2.lfr-pe2-mrs.liquidtelecom.net                                                            
+S&T (30844)  
+╰─ 5.11.13.108     30844   175.146                  (London, England, GB, EU) hu-0-0-0-12.luk-p2-tho.liquidtelecom.com                                                            
+   5.11.13.45      30844   174.692                  (London, England, GB, EU) et-0-0-0.0.luk-pr3-tho.liquidtelecom.net                                                            
+╭─ 195.66.236.57   *       175.737                  (Poplar, England, GB, EU)                                                                                                     
+T ()  
+├─ 185.1.226.28    *       185.151     (Köln, North Rhine-Westphalia, DE, EU) as41047.226.28.netix.net                                                                            
+T (, 41047)  
+╰─ 87.237.165.29   41047   185.708         (Amsterdam, North Holland, NL, EU)                                                                                                     

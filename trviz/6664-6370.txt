@@ -1,0 +1,24 @@
+   103.202.216.76  59105   0.0                         (Chōfu, Tokyo, JP, AS)                                                                                                     
+   103.202.216.73  59105   0.531                       (Tokyo, Tokyo, JP, AS) ge-2-1-0.pop03er03.bb.homenoc.ad.jp                                                                 
+   103.48.31.122   59105   0.531 (5.976)                    (None, None, JP, AS) v106.gi0-0-2.noc01cr01.bb.homenoc.ad.jp                                                             
+   103.48.31.47    59105   10.509                      (Tokyo, Tokyo, JP, AS) v1001.ge-0-0-0.pop05er01.bb.homenoc.ad.jp                                                           
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 103.246.232.40  *       21.336                      (Osaka, Ōsaka, JP, AS)                                                                                                     
+S (, 6939)  pacific-crossing-1-pc-1 ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 72.52.92.121    6939    115.42                   (Los Angeles, CA, US, NA) port-channel14.core2.lax1.he.net                                                                    
+╭─ 184.104.198.226 6939    182.166                (Ashburn, Virginia, US, NA) port-channel20.core3.ash1.he.net                                                                    
+S (6939)  tata-tgn-atlantic ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 72.52.92.165    6939    245.868                      (London, ENG, GB, EU) 100ge7-1.core1.lon2.he.net                                                                          
+S&T (6939)  concerto ✓
+├─ 72.52.92.214    6939    248.737                    (Amsterdam, NH, NL, EU) port-channel12.core2.ams1.he.net                                                                    
+LHL (6939, 8551)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 212.179.124.5   8551    277.99                (Tel Aviv, Tel Aviv, IL, AS) bzq-179-124-5.cust.bezeqint.net                                                                     
+   62.219.189.186  8551    280.971               (Rishon LeZiyyon, M, IL, AS) bzq-219-189-186.cablep.bezeqint.net                                                                 
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   146.185.219.73  202422  282.681    (Petaẖ Tiqva, Central District, IL, AS)                                                                                                     

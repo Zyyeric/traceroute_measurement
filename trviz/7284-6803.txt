@@ -1,0 +1,16 @@
+   103.121.34.150  138398  0.0                   (Auckland, Auckland, NZ, OC) 103-121-34-150.netbydesign.nz                                                                       
+   103.121.34.131  138398  0.619                 (Auckland, Auckland, NZ, OC) eth2.vrt2.akl.netbydesign.nz                                                                        
+   103.130.69.89   138398  0.35                  (Auckland, Auckland, NZ, OC) 103-130-69-89.netbydesign.nz                                                                        
+╭─ 43.243.21.17    6939    1.229                      (Auckland, AUK, NZ, OC) as6939.akl.ix.nz                                                                                    
+S (6939, )  tasman-global-access-tga-cable ✓ || southern-cross-cable-network-sccn ✓ || hawaiki ✘
+╰─ 218.100.52.249  *       30.416           (Sydney, New South Wales, AU, OC) as6939.nsw.ix.asn.au                                                                                
+╭─ 184.105.65.223  6939    76.87           (Perth, Western Australia, AU, OC) 100ge0-32.core1.per1.he.net                                                                         
+S (6939, 131111)  seamewe-3 ✓ || indigo-west ✓ || australia-singapore-cable-asc ©
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 65.49.108.46    131111  122.609                     (Singapore, 4, SG, AS) moratel-international-pte-ltd.10gigabitethernet3-13.core1.sin1.he.net                               
+S&T (131111, 45701)  australia-singapore-cable-asc ✘ || indigo-west ✘ || indonesia-global-gateway-igg-system ✓ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || seamewe-3 ✘ || matrix-cable-system ✘ || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || jasuka ✓ || jakabare ✘
+╰─ 103.129.217.2   45701   135.011                       (None, None, ID, AS) *                                                                                                   
+   103.129.217.2   45701   135.011                       (None, None, ID, AS) *                                                                                                   
+   202.58.202.252  *       135.176                 (Jakarta, Jakarta, ID, AS) ae-1-0-r2-jkt1.globalxtreme.net                                                                     
+   103.225.148.38  45701   135.426                 (Jakarta, Jakarta, ID, AS) ip-38-148-225-103.globalxtreme.net                                                                  

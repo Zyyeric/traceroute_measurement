@@ -1,0 +1,24 @@
+   196.49.14.25    30997   0.0                 (Accra, Greater Accra, GH, AF)                                                                                                     
+   196.49.14.1     30997   0.375               (Accra, Greater Accra, GH, AF)                                                                                                     
+╭─ 197.221.70.89   *       1.315               (Accra, Greater Accra, GH, AF)                                                                                                     
+S&T (, 3741)  
+╰─ 196.14.240.4    3741    0.992                         (None, None, ZA, AF) *                                                                                                   
+╭─ 168.209.160.109 3741    255.879                       (None, None, ZA, AF) *                                                                                                   
+T (3741)  
+├─ 168.209.160.108 3741    257.134                  (London, England, GB, EU)                                                                                                     
+T (3741)  
+├─ 168.209.246.1   3741    257.226                       (None, None, ZA, AF) core1b-dock-be-1.ip.ddii.network                                                                    
+T (3741, 174)  
+╰─ 149.6.148.129   174     255.499                      (London, ENG, GB, EU) te0-1-0-2-8.ccr21.lon02.atlas.cogentco.com                                                          
+╭─ 154.54.62.5     174     256.014                      (London, ENG, GB, EU) be2573.ccr42.lon13.atlas.cogentco.com                                                               
+S&T (174)  
+├─ 130.117.51.42   174     262.693                    (Amsterdam, NH, NL, EU) be12488.ccr42.ams03.atlas.cogentco.com                                                              
+T (174)  
+╰─ 130.117.0.142   174     269.316            (Frankfurt am Main, HE, DE, EU) be2814.ccr42.fra03.atlas.cogentco.com                                                               
+   130.117.48.209  174     269.625            (Frankfurt am Main, HE, DE, EU) be2534.agr22.fra03.atlas.cogentco.com                                                               
+╭─ 154.25.15.110   174     270.304         (Frankfurt am Main, Hesse, DE, EU) be3208.nr61.b015753-1.fra03.atlas.cogentco.com                                                      
+T (174, 47794)  
+├─ 149.11.182.90   47794   345.521                  (Forest Row, ENG, GB, EU) *                                                                                                   
+S&T (47794)  
+╰─ 94.77.210.130   47794   283.443            (Riyadh, Riyadh Region, SA, AS) 94-77-210-130.static.go.com.sa                                                                      
+   94.77.252.90    47794   283.568            (Riyadh, Riyadh Region, SA, AS) 94-77-252-90.static.go.com.sa                                                                       

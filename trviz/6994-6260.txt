@@ -1,0 +1,36 @@
+   185.39.208.23   199993  0.0                       (Lisbon, Lisbon, PT, EU) atlasancora01.wan.dns.pt                                                                            
+   185.39.208.60   199993  0.393                     (Lisbon, Lisbon, PT, EU)                                                                                                     
+   194.210.4.137   1930    0.868                     (Lisbon, Lisbon, PT, EU) router63.lisboa.fccn.pt                                                                             
+   194.210.6.112   1930    0.858                     (Lisbon, Lisbon, PT, EU) router30.lisboa.fccn.pt                                                                             
+   194.210.6.103   1930    1.017                     (Lisbon, Lisbon, PT, EU) router3.lisboa.fccn.pt                                                                              
+   194.210.6.102   1930    8.888                         (Lisbon, 11, PT, EU) Router30.Lisboa.fccn.pt                                                                             
+   193.136.1.9     1930    6.688                       (Porto, Porto, PT, EU) router20.porto.fccn.pt                                                                              
+   194.210.7.103   1930    7.196                          (Porto, 13, PT, EU) Router2.Porto.fccn.pt                                                                               
+╭─ 83.97.88.44     21320   6.557                     (Lisbon, Lisbon, PT, EU) fccn-ias-geant-gw.rt1.por.pt.geant.net                                                              
+S&T (21320, 20965)  west-africa-cable-system-wacs ✓ || africa-coast-to-europe-ace ✓ || tata-tgn-western-europe ✘ || sat-3wasc ✓ || seamewe-3 ✓
+├─ 62.40.98.220    20965   45.248                      (Bilbao, None, ES, EU) ae2.rt1.bil.es.geant.net                                                                            
+S&T (20965)  
+├─ 62.40.98.223    20965   45.291                        (Paris, IDF, FR, EU) ae4.mx1.par.fr.geant.net                                                                            
+T (20965)  
+╰─ 62.40.98.238    20965   47.449                    (Genève, Geneva, CH, EU) ae7.mx1.gen.ch.geant.net                                                                            
+╭─ 62.40.98.182    20965   47.157                      (Geneva, None, CH, EU) ae5.mx1.gen.ch.geant.net                                                                            
+T (20965, 3356)  
+├─ 62.67.72.69     3356    46.96           (Frankfurt am Main, Hesse, DE, EU) lag-117.ear4.frankfurt1.level3.net                                                                  
+LHL (3356, 2914)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 129.250.9.5     2914    46.958                        (None, None, US, NA) ae-37.r01.frnkge07.de.bb.gin.ntt.net                                                                
+LHL (2914)  
+├─ 129.250.7.43    2914    49.464          (Frankfurt am Main, Hesse, DE, EU) ae-7.r21.frnkge13.de.bb.gin.ntt.net                                                                 
+LHL (2914)  
+╰─ 129.250.6.1     2914    47.984                        (None, None, US, NA) ae-0.r20.frnkge13.de.bb.gin.ntt.net                                                                 
+   129.250.7.34    2914    59.756                        (None, None, US, NA) ae-4.r20.vienat02.at.bb.gin.ntt.net                                                                 
+╭─ 129.250.7.13    2914    59.678                        (None, None, US, NA) ae-0.r21.vienat02.at.bb.gin.ntt.net                                                                 
+S (2914)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 129.250.5.238   2914    203.267             (Singapore, Singapore, SG, AS) ae-0.a03.sngpsi07.sg.bb.gin.ntt.net                                                                 
+╭─ 116.51.26.82    2914    205.581                  (Singapore, None, SG, AS) ae-0.emirates-du.sngpsi07.sg.bb.gin.ntt.net                                                         
+S (2914, 57187)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 94.206.39.74    57187   224.108                        (Dubai, DU, AE, AS) j48-1.dxa.dxb.ae.datamena.net                                                                       
+   94.207.43.2     57187   223.876                     (Dubai, Dubai, AE, AS) -094-207-043-002.datamena.net                                                                       

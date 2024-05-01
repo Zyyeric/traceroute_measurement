@@ -1,0 +1,16 @@
+   103.253.132.25  59238   0.0                     (Bangkok, Bangkok, TH, AS) th-bkk-as59238.anchors.atlas.ripe.net                                                               
+   103.253.132.1   59238   0.334                (Khlong San, Bangkok, TH, AS) gw-cat.idc.inox.co.th                                                                               
+   172.24.132.102  *       0.5                                            ***                                                                                                     
+   172.24.132.24   *       0.244                                          ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 122.155.224.73  4651    1.914                (Khlong San, Bangkok, TH, AS)                                                                                                     
+S (4651)  asia-america-gateway-aag-cable-system ✓ || asia-africa-europe-1-aae-1 ✓ || flag-europe-asia-fea ✘
+╰─ 61.19.9.122     4651    42.025                   (Hong Kong, None, HK, AS) *                                                                                                   
+╭─ 63.216.142.73   3491    42.142                   (Hong Kong, None, HK, AS) te0-6-0-5.br03.hkg15.pccwbtn.net                                                                    
+S (3491)  apcn-2 👍 || southeast-asia-japan-cable-sjc ✓ || eac-c2c ✓ || asia-pacific-gateway-apg ✓ || asia-america-gateway-aag-cable-system ✓
+╰─ 63.218.248.54   3491    75.482                      (Singapore, 4, SG, AS) hun0-6-0-2.br02.sin03.pccwbtn.net                                                                   
+╭─ 63.218.249.166  3491    183.653             (Singapore, Singapore, SG, AS) 63-218-249-166.static.pccwglobal.net                                                                
+S (3491, 50999)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 109.171.136.4   50999   183.179             (Jeddah, Mecca Region, SA, AS)                                                                                                     

@@ -1,0 +1,17 @@
+   185.70.144.118  200567  0.0                     (Hamburg, Hamburg, DE, EU)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 62.214.137.217  8881    4.122                         (Berlin, BE, DE, EU) *                                                                                                   
+T (8881)  
+├─ 80.249.209.109  8881    17.686                 (Xhendelesse, None, BE, EU) xnl1002aihb001.versatel.de                                                                          
+S&T (8881, 24940)  
+╰─ 80.249.209.55   24940   18.034                      (Schiphol, NH, NL, EU) amsix-gw.hetzner.de                                                                                 
+╭─ 213.239.203.238 24940   20.47           (Amsterdam, North Holland, NL, EU) core51.ams.hetzner.com                                                                              
+T (24940)  
+├─ 213.239.252.242 24940   38.658              (Stockholm, Stockholm, SE, EU) core53.sto.hetzner.com                                                                              
+S&T (24940)  
+╰─ 213.239.254.61  24940   40.094                 (Helsinki, Uusimaa, FI, EU) core31.hel1.hetzner.com                                                                             
+   213.239.228.2   24940   348.501                (Helsinki, Uusimaa, FI, EU) spine15.cloud1.hel1.hetzner.com                                                                     
+   213.239.228.22  24940   40.122                 (Helsinki, Uusimaa, FI, EU) spine1.cloud1.hel1.hetzner.com                                                                      
+   ***             *       -inf                                           *** *                                                                                                   
+   95.216.132.233  24940   38.666                      (Helsinki, 18, FI, EU) 15272.your-cloud.host                                                                               
+   95.217.19.69    24940   40.05                  (Helsinki, Uusimaa, FI, EU) fi-tuu-as24940-client.anchors.atlas.ripe.net                                                        

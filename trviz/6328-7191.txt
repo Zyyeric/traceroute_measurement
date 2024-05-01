@@ -1,0 +1,22 @@
+   117.20.118.21   45498   0.0               (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     
+   117.20.118.17   45498   2.148             (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     
+   27.109.113.25   45498   1.177             (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     
+╭─ 27.109.113.6    45498   1.109                     (Phnom Penh, 12, KH, AS) *                                                                                                   
+LHL (45498)  asia-africa-europe-1-aae-1 ✘ ↠ seamewe-4 ✘ || asia-africa-europe-1-aae-1 ✘ ↠ seamewe-3 ✓ || asia-africa-europe-1-aae-1 ✘ ↠ seamewe-5 ✓ || asia-africa-europe-1-aae-1 ✘ ↠ peace-cable ✘
+╰─ 27.109.113.56   45498   35.934              (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 62.115.183.180  1299    35.798              (Singapore, Singapore, SG, AS) snge-b5-link.ip.twelve99.net                                                                        
+S (1299)  seamewe-5 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 62.115.134.228  1299    173.252   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) mei-b5-link.ip.twelve99.net                                                                         
+╭─ 62.115.124.56   1299    204.522             (Paris, Île-de-France, FR, EU) prs-bb2-link.ip.twelve99.net                                                                        
+T (1299)  
+╰─ 62.115.137.4    1299    201.677         (Amsterdam, North Holland, NL, EU) adm-bb2-link.ip.twelve99.net                                                                        
+   62.115.138.171  1299    203.957         (Amsterdam, North Holland, NL, EU) adm-b3-link.ip.twelve99.net                                                                         
+╭─ 213.248.96.111  1299    191.123         (Amsterdam, North Holland, NL, EU) edgoonetworks-ic-383209.ip.twelve99-cust.net                                                        
+T (1299, 47787)  
+├─ 193.109.190.74  47787   201.906                   (Madrid, Madrid, ES, EU) er1.mad1.edgoo.net                                                                                  
+S&T (47787)  
+╰─ 193.163.151.209 47787   210.568                       (Lisbon, 11, PT, EU) cr1.lis1.edgoo.net                                                                                  
+   193.109.188.7   47787   209.288                   (Lisbon, Lisbon, PT, EU)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   185.32.189.249  62416   210.324                 (Odivelas, Lisbon, PT, EU) pt-lis-as62416.anchors.atlas.ripe.net                                                               

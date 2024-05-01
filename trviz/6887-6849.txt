@@ -1,0 +1,14 @@
+   203.119.111.139 4608    0.0                 (Brisbane, Queensland, AU, OC) anchor.apnic.net                                                                                    
+   203.119.111.131 4608    0.695               (Brisbane, Queensland, AU, OC) vl-1705.nxcs2.hosted.au.apnic.net                                                                   
+╭─ 203.119.104.29  4608    0.471                      (Brisbane, QLD, AU, OC) te-0-1-5.nxgw2.bne.apnic.net                                                                        
+S (4608, 4775)  seamewe-3 ✓
+├─ 27.111.228.226  4775    104.762                   (Seogwipo, None, KR, AS) 4775.sgw.equinix.com                                                                                
+S (4775)  
+╰─ 112.198.0.57    4775    130.64                        (None, None, PH, AS) *                                                                                                   
+   203.177.209.217 4775    143.159           (Baugo, Central Visayas, PH, AS)                                                                                                     
+   203.177.209.218 135132  150.395              (Lapu-Lapu City, CEB, PH, AS) vlan5.vsrx.ceb02.ds.network                                                                         
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   27.111.84.21    135132  150.882       (Cebu City, Central Visayas, PH, AS) ph-ceb-as135132.anchors.atlas.ripe.net                                                              

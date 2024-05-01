@@ -1,0 +1,19 @@
+   141.164.39.1    20473   0.0                      (Paripark, Seoul, KR, AS) 141.164.39.1.vultrusercontent.com                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   100.100.100.1   *       0.501                                          ***                                                                                                     
+   10.84.0.17      *       0.53                                           ***                                                                                                     
+   10.84.2.41      *       0.829                                          ***                                                                                                     
+   10.84.2.38      *       1.029                                          ***                                                                                                     
+   210.176.150.116 4637    1.454                       (Seoul, Seoul, KR, AS) unknown.telstraglobal.net                                                                           
+╭─ 202.84.149.101  4637    1.938                       (Seoul, Seoul, KR, AS)                                                                                                     
+S (4637)  apcn-2 👍 || asia-pacific-gateway-apg ✓ || flag-north-asia-loopreach-north-asia-loop 👍 || eac-c2c 👍 || new-cross-pacific-ncp-cable-system ✓ || korea-japan-cable-network-kjcn ✓ || seamewe-3 👍 || flag-europe-asia-fea ✓ || trans-pacific-express-tpe-cable-system ✓
+╰─ 202.84.138.37   4637    32.924                      (Tokyo, Tokyo, JP, AS)                                                                                                     
+╭─ 202.47.216.210  4637    32.232                (Tokyo / Narita, 12, JP, AS) i-94.siko11.telstraglobal.net                                                                       
+S (4637, 3257)  
+├─ 210.57.53.43    3257    31.374                        (None, None, HK, AS) unknown.telstraglobal.net                                                                           
+S (3257)  
+├─ 89.149.130.78   3257    145.353                      (Seattle, WA, US, NA) ae21.cr4-sea2.ip4.gtt.net                                                                           
+S&T (3257, 852)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 96.1.214.149    852     151.055                       (None, None, CA, NA) *                                                                                                   
+   206.108.17.63   852     150.985      (Vancouver, British Columbia, CA, NA) host63.17.108.206.in-addr.arpa                                                                      

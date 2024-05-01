@@ -1,0 +1,21 @@
+   27.111.84.21    135132  0.0           (Cebu City, Central Visayas, PH, AS) ph-ceb-as135132.anchors.atlas.ripe.net                                                              
+   27.111.84.20    135132  1.379             (Baugo, Central Visayas, PH, AS) vlan509.core.ceb02.ds.network                                                                       
+   192.168.159.142 *       9.65                                           ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   192.168.159.168 *       11.704                                         ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 203.177.209.217 4775    3.422             (Baugo, Central Visayas, PH, AS)                                                                                                     
+S (4775)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 120.28.0.10     4775    62.222                (Tokyo / Narita, 12, JP, AS) *                                                                                                   
+╭─ 210.176.33.5    4637    63.726                (Tokyo / Narita, 12, JP, AS) *                                                                                                   
+S (4637)  
+├─ 202.47.216.209  4637    64.102                        (None, None, HK, AS) i-97.siko-core01.telstraglobal.net                                                                  
+S (4637)  
+╰─ 202.84.138.38   4637    93.284                      (Seoul, Seoul, KR, AS)                                                                                                     
+   202.84.149.102  4637    92.071                      (Seoul, Seoul, KR, AS)                                                                                                     
+   210.176.150.117 4637    94.551                      (Seoul, Seoul, KR, AS) unknown.telstraglobal.net                                                                           
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   141.164.39.1    20473   93.826                   (Paripark, Seoul, KR, AS) 141.164.39.1.vultrusercontent.com                                                                   

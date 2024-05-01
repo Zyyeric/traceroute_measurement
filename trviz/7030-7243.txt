@@ -1,0 +1,16 @@
+╭─ 185.148.112.152 37468   0.0                       (Lisbon, Lisbon, PT, EU) 152.112.148.185.angolacables.ao                                                                     
+S&T (37468)  tata-tgn-western-europe ✓ || europe-india-gateway-eig ✓ || seamewe-3 ✓
+├  10.42.104.1     *       0.402                                          ***                                                                                                     
+├─ 185.148.112.47  37468   38.148                   (London, England, GB, EU) 47.112.148.185.angolacables.ao                                                                      
+T (37468, 969)  
+├  100.64.192.38   *       38.406                                         ***                                                                                                     
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 45.11.107.204   969     56.634                    (Berlin, Berlin, DE, EU) po100.cr1a.a36s.ber2.de.917.as                                                                      
+╭─ 45.11.107.196   969     56.875                    (Berlin, Berlin, DE, EU) e51-1-361.cr1a.a36s.ber2.de.917.as                                                                  
+LHL (969)  seamewe-3 ✘ || asia-africa-europe-1-aae-1 ✘ || flag-europe-asia-fea ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 45.11.107.131   969     276.217             (Hong Kong, Hong Kong, HK, AS) e9-1-395-906.cr1a.eqhk2.hkg12.hk.917.as                                                             
+   199.119.64.151  969     277.052             (Hong Kong, Hong Kong, HK, AS) po103-10.spine3.hkg12.hk.misaka.io                                                                  
+   45.11.104.9     57695   282.56              (Hong Kong, Hong Kong, HK, AS) po30.0103.hkg12.hk.misaka.io                                                                        
+   45.11.104.146   57695   277.417             (Hong Kong, Hong Kong, HK, AS) hk-hkg-as57695.anchors.atlas.ripe.net                                                               

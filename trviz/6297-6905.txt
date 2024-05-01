@@ -1,0 +1,24 @@
+   103.253.132.25  59238   0.0                     (Bangkok, Bangkok, TH, AS) th-bkk-as59238.anchors.atlas.ripe.net                                                               
+   103.253.132.1   59238   0.276                (Khlong San, Bangkok, TH, AS) gw-cat.idc.inox.co.th                                                                               
+   172.24.132.23   *       0.259                                          ***                                                                                                     
+   172.21.21.2     *       0.526                                          ***                                                                                                     
+╭─ 122.155.224.73  4651    0.461 (1.674)           (Khlong San, Bangkok, TH, AS)                                                                                                     
+S (4651)  flag-europe-asia-fea ✘ || seamewe-3 ✓
+╰─ 61.19.9.234     4651    214.03                   (London, England, GB, EU)                                                                                                     
+   195.59.77.13    1273    207.355                  (London, England, GB, EU) xe-0-2-1-xcr1.lns.cw.net                                                                            
+╭─ 195.2.24.125    1273    218.683                       (None, None, GB, EU) ae1-xcr1.ltw.cw.net                                                                                 
+S&T (1273)  
+├─ 195.2.24.225    1273    219.882             (Paris, Île-de-France, FR, EU) ae6-tcr1.pae.cw.net                                                                                 
+T (1273)  
+├─ 195.2.10.62     1273    215.954                   (Zürich, Zurich, CH, EU) ae7-ucr1.zue.cw.net                                                                                 
+T (1273)  
+╰─ 195.2.8.145     1273    205.752                       (None, None, GB, EU) ae11-xcr1.mld.cw.net                                                                                
+   195.2.16.186    1273    218.478                       (None, None, GB, EU) ae41-xcr1.sof.cw.net                                                                                
+╭─ 195.2.12.58     3329    223.398                       (None, None, GB, EU) vfgr1-vf-gw.sof.cw.net                                                                              
+S&T (3329)  
+╰─ 62.74.30.102    3329    228.969                        (Athens, I, GR, EU) *                                                                                                   
+   62.74.30.101    3329    228.795                        (Athens, I, GR, EU) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   62.74.226.30    12361   235.936                   (Athens, Attica, GR, EU) dumy30.panafonet.gr                                                                                 
+   ***             *       -inf                                           *** *                                                                                                   
+   139.91.68.3     8522    233.015                 (Irákleion, Crete, GR, EU)                                                                                                     

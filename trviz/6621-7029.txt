@@ -1,0 +1,19 @@
+   192.168.0.130   *       0.0                                            ***                                                                                                     
+   192.168.0.1     *       0.17                                           ***                                                                                                     
+   172.16.254.1    *       0.289                                          ***                                                                                                     
+   192.168.1.1     *       0.649                                          ***                                                                                                     
+   10.98.238.18    *       0.549 (4.072)                                     ***                                                                                                     
+   10.0.0.170      *       8.083                                          ***                                                                                                     
+   81.212.78.45    9121    5.412                     (Ankara, Ankara, TR, AS) 81.212.78.45.static.turktelekom.com.tr                                                              
+   81.212.216.12   9121    5.368                 (Ümraniye, Istanbul, TR, AS) 34-acibadem-xrs-t2-2---34-acibadem-sr12e-t3-8.statik.turktelekom.com.tr                             
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 212.156.139.60  9121    19.489                      (Istanbul, 34, TR, AS) *                                                                                                   
+S&T (9121, 3356)  
+╰─ 212.162.26.177  3356    18.956              (Bucharest, București, RO, EU) ae52.edge3.bucharest1.level3.net                                                                    
+╭─ 4.68.39.182     3356    27.032              (Bucharest, București, RO, EU) gtt-level3-bucharest1.level3.net                                                                    
+LHL (3356, 3257)  
+╰─ 213.200.126.10  3257    46.012                         (Milan, 25, IT, EU) et-1-0-23.cr5-mil3.ip4.gtt.net                                                                      
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   185.25.205.152  60798   46.708                   (Milan, Lombardy, IT, EU) 152.205.25.185.servereasy.it                                                                        

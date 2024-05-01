@@ -1,0 +1,20 @@
+   103.143.136.43  63781   0.0                         (Tokyo, Tokyo, JP, AS) koba-103-143-136-43.rev.kobayashi.ad.jp                                                             
+   103.143.136.62  63781   1.925                       (Tokyo, Tokyo, JP, AS) koba-103-143-136-62.rev.kobayashi.ad.jp                                                             
+   103.143.136.29  63781   0.348                       (Tokyo, Tokyo, JP, AS) bgprt2-ospfrt1.kobayashi.ad.jp                                                                      
+   103.143.136.17  63781   0.256                       (Tokyo, Tokyo, JP, AS) koba-103-143-136-17.rev.kobayashi.ad.jp                                                             
+   103.41.60.164   10010   0.321                       (Tokyo, Tokyo, JP, AS) bgp3.tokyo-ix.v4.open.ad.jp                                                                         
+   150.99.184.33   2907    1.981                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+   150.99.10.187   2907    1.455                         (None, None, JP, AS) *                                                                                                   
+   202.232.6.17    2497    2.419                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+╭─ 58.138.114.217  2497    1.928 (4.197)                  (Tokyo, Tokyo, JP, AS) tky009bb00.iij.net                                                                                  
+S (2497)  japan-u-s-cable-network-jus ✓ || tata-tgn-pacific ✓ || pacific-crossing-1-pc-1 ✓ || faster ✓ || jupiter ✓
+╰─ 58.138.88.226   2497    134.291              (Seattle, Washington, US, NA) sea001bb00.iij.net                                                                                  
+   131.103.116.21  2914    127.961              (Seattle, Washington, US, NA) ae-25.a03.sttlwa01.us.bb.gin.ntt.net                                                                
+   129.250.2.206   2914    126.554                       (None, None, US, NA) ae-3.sayonara-dorian.r25.sttlwa01.us.bb.gin.ntt.net                                                 
+   129.250.3.124   2914    124.878                       (None, None, US, NA) ae-3.sayonara-dorian.r25.snjsca04.us.bb.gin.ntt.net                                                 
+   129.250.3.146   2914    128.523                       (None, None, US, NA) ae-5.sayonara-dorian.r24.snjsca04.us.bb.gin.ntt.net                                                 
+   ***             *       -inf                                           *** *                                                                                                   
+   129.250.3.178   2914    131.124                       (None, None, US, NA) ae-1.sayonara-dorian.a03.lsanca20.us.bb.gin.ntt.net                                                 
+   157.238.231.9   2914    203.142          (Los Angeles, California, US, NA)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   192.189.157.25  64289   203.551          (Los Angeles, California, US, NA)                                                                                                     

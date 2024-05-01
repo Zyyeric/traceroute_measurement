@@ -1,0 +1,19 @@
+   103.160.63.222  140443  0.0                     (Jakarta, Jakarta, ID, AS) 222.63.160.103.in-addr.herza.id                                                                     
+╭─ 103.160.63.129  140443  0.192                   (Jakarta, Jakarta, ID, AS) 129.63.160.103.in-addr.herza.id                                                                     
+S&T (140443, 6939)  australia-singapore-cable-asc ✓ || matrix-cable-system ✘ || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || indonesia-global-gateway-igg-system ✓ || seamewe-3 ✓ || indigo-west ✘ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || jasuka ✓ || jakabare ✘
+├  10.111.220.46   *       0.381                                          ***                                                                                                     
+├  10.111.220.6    *       12.23                                          ***                                                                                                     
+├  10.111.222.206  *       12.224                                         ***                                                                                                     
+├─ 103.16.102.81   6939    14.521                    (Singapore, 1, SG, None) hurricane-electric.sgix.sg                                                                          
+S (6939)  
+├─ 72.52.92.113    6939    59.489                      (New York, NY, US, NA) 100ge11-2.core1.nyc4.he.net                                                                         
+S (6939)  
+├─ 184.105.65.222  6939    104.523          (Sydney, New South Wales, AU, OC) 100ge0-76.core1.syd1.he.net                                                                         
+S (6939)  
+╰─ 184.104.195.150 6939    137.934                    (Auckland, AUK, NZ, OC) 100ge0-36.core1.akl2.he.net                                                                         
+   216.218.224.39  6939    208.278               (Auckland, Auckland, NZ, OC) two-degrees-mobile-limited.e0-33.core1.akl2.he.net                                                  
+   ***             *       -inf                                           *** *                                                                                                   
+   131.203.72.166  9790    208.625               (Auckland, Auckland, NZ, OC) default-rdns.vocus.co.nz                                                                            
+   131.203.72.165  9790    208.652               (Auckland, Auckland, NZ, OC) default-rdns.vocus.co.nz                                                                            
+   103.242.68.65   133075  209.007                  (Wellington, WGN, NZ, OC) *                                                                                                   
+   103.242.68.78   133075  209.001               (Auckland, Auckland, NZ, OC) 103-242-68-78.broadband.telesmart.co.nz                                                             

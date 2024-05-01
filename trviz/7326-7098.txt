@@ -1,0 +1,16 @@
+   103.242.68.78   133075  0.0                   (Auckland, Auckland, NZ, OC) 103-242-68-78.broadband.telesmart.co.nz                                                             
+   103.242.68.65   133075  0.373                    (Wellington, WGN, NZ, OC) *                                                                                                   
+   131.203.72.165  9790    0.787                 (Auckland, Auckland, NZ, OC) default-rdns.vocus.co.nz                                                                            
+   131.203.72.166  9790    1.043                 (Auckland, Auckland, NZ, OC) default-rdns.vocus.co.nz                                                                            
+   ***             *       -inf                                           *** *                                                                                                   
+   175.45.102.234  9790    1.604                      (Auckland, AUK, NZ, OC) as9790.bdr01.akl05.akl.nz.vocus.network                                                             
+╭─ 175.45.102.233  4826    1.966                      (Auckland, AUK, NZ, OC) be1000.bdr01.akl05.akl.nz.vocus.network                                                             
+S (4826, 1221)  tasman-global-access-tga-cable ✓ || southern-cross-cable-network-sccn ✓ || hawaiki ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 61.8.28.113     1221    27.089           (Sydney, New South Wales, AU, OC) ae20.alx-edge421.sydney.telstra.net                                                                 
+   203.50.12.132   1221    26.447           (Sydney, New South Wales, AU, OC) bundle-ether50.stl-core30.sydney.telstra.net                                                        
+   203.50.11.177   1221    27.74                        (Sydney, NSW, AU, OC) bundle-ether1.chw-edge903.sydney.telstra.net                                                        
+   203.48.8.166    1221    27.667           (Sydney, New South Wales, AU, OC) tel4239945.lnk.telstra.net                                                                          
+   ***             *       -inf                                           *** *                                                                                                   
+   203.41.0.43     1221    27.782           (Sydney, New South Wales, AU, OC)                                                                                                     

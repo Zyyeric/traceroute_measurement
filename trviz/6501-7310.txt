@@ -1,0 +1,14 @@
+   38.47.189.189   140443  0.0           (Kuala Lumpur, Kuala Lumpur, MY, AS)                                                                                                     
+   38.47.189.1     140443  0.211         (Kuala Lumpur, Kuala Lumpur, MY, AS)                                                                                                     
+╭─ 38.47.188.2     140443  0.267         (Kuala Lumpur, Kuala Lumpur, MY, AS)                                                                                                     
+S&T (140443, 9002)  indonesia-global-gateway-igg-system ✓ || palapa-ring-west ✓ || batam-dumai-melaka-bdm-cable-system ✘ || jasuka ✓ || seamewe-4 ✘ || seamewe-5 ✓ || seax-1 ✘ || asia-submarine-cable-express-asecahaya-malaysia ✓ || asia-america-gateway-aag-cable-system ✓ || batam-rengit-cable-system-brcs ✘ || apcn-2 ✓
+├  10.111.220.141  *       6.215                                          ***                                                                                                     
+├─ 87.245.231.200  9002    6.401               (Singapore, Singapore, SG, AS) ae0-526.rt.eqx.sin.sg.retn.net                                                                      
+S (9002)  seamewe-5 ✓
+╰─ 87.245.232.112  9002    144.362                   (Marseille, PAC, FR, EU) ae2-5.RT.IRX.MRS.FR.retn.net                                                                        
+╭─ 193.251.250.191 5511    144.511                       (None, None, FR, EU) *                                                                                                   
+S&T (5511, 196745)  seamewe-3 👍 || uk-channel-islands-8 ✘ || high-capacity-undersea-guernsey-optical-fibre-hugo ✓ || uk-channel-islands-7 ✘ || channel-islands-9-liberty-submarine-cable ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 37.143.136.249  196745  164.889                 (Bournemouth, ENG, GB, EU) *                                                                                                   
+   37.143.141.141  196745  164.933                   (Poole, England, GB, EU) atlas.datacenta.net                                                                                 

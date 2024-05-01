@@ -1,0 +1,15 @@
+   103.160.63.222  140443  0.0                     (Jakarta, Jakarta, ID, AS) 222.63.160.103.in-addr.herza.id                                                                     
+╭─ 103.160.63.129  140443  0.315                   (Jakarta, Jakarta, ID, AS) 129.63.160.103.in-addr.herza.id                                                                     
+S&T (140443, 9002)  indonesia-global-gateway-igg-system ✓ || australia-singapore-cable-asc ✓ || matrix-cable-system ✘ || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || seamewe-3 ✓ || jasuka ✓ || indigo-west ✘ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || jakabare ✘
+├  10.111.220.46   *       0.625                                          ***                                                                                                     
+├  10.111.220.6    *       12.35                                          ***                                                                                                     
+├  10.111.222.209  *       12.416                                         ***                                                                                                     
+├─ 87.245.231.200  9002    27.085              (Singapore, Singapore, SG, AS) ae0-526.rt.eqx.sin.sg.retn.net                                                                      
+LHL (9002)  seamewe-4 ✓ || seamewe-3 ✓ || seamewe-5 ✓
+├─ 87.245.232.7    9002    147.481                 (Michurinsk, None, RU, AS) ae1-3.RT.OK.MSK.RU.retn.net                                                                         
+S (9002, )  
+╰─ 101.203.90.36   *       156.526                     (Tokyo, Tokyo, JP, AS)                                                                                                     
+   84.17.33.105    57695   155.919               (Tokyo / Narita, 12, JP, AS) v3517.cr01.nrt04.jp.misaka.io                                                                       
+   199.119.64.141  969     131.393                     (Tokyo, Tokyo, JP, AS) e32-20.spine1.nrt04.jp.misaka.io                                                                    
+   103.170.232.11  142616  127.039                     (Tokyo, Tokyo, JP, AS) po-31.lag.nrt04.jp.misaka.io                                                                        
+   103.170.232.152 142616  126.552                     (Tokyo, Tokyo, JP, AS) user-103-170-232-152.nrt04.jp.misaka.io                                                             

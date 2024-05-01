@@ -1,0 +1,30 @@
+   170.81.100.114  266413  0.0                      (Camaçari, Bahia, BR, SA) 170.81.100.114.vivatecnologia.com.br                                                                
+╭─ 170.81.100.97   266413  1.189                    (Camaçari, Bahia, BR, SA) rt001-are-ba.vivatecnologia.com.br                                                                  
+S (266413, 6939)  
+├  10.200.0.2      *       1.406                                          ***                                                                                                     
+├─ 184.104.198.242 6939    51.191          (Virginia Beach, Virginia, US, NA) port-channel1.core1.for1.he.net                                                                     
+S (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.197.93  6939    196.316           (Bilbao, Basque Country, ES, EU) port-channel4.core1.bio1.he.net                                                                     
+S&T (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.224.113 6939    205.422                   (Lisbon, Lisbon, PT, EU) afrix-telecom-s-l.e0-19.switch1.lis1.he.net                                                         
+S&T (6939, 60171)  
+├─ 185.10.164.99   60171   441.07              (Barcelona, Catalonia, ES, EU)                                                                                                     
+S&T (60171)  
+╰─ 185.10.164.113  60171   443.825                      (London, ENG, GB, EU) *                                                                                                   
+╭─ 185.10.164.135  60171   441.218                      (London, ENG, GB, EU) *                                                                                                   
+S&T (60171)  
+├─ 185.10.164.32   60171   441.048             (Paris, Île-de-France, FR, EU)                                                                                                     
+S (60171)  
+├─ 102.223.52.73   60171   443.444                     (Lagos, Lagos, NG, AF)                                                                                                     
+S&T (60171)  
+├─ 185.10.164.45   60171   441.408                      (London, ENG, GB, EU) *                                                                                                   
+S&T (60171)  
+├─ 102.219.44.43   60171   443.608                     (Lagos, Lagos, NG, AF)                                                                                                     
+S&T (60171, 328913)  
+╰─ 196.49.84.51    328913  444.181                 (Abidjan, Abidjan, CI, AF) bdr3.std.douala-ix.net                                                                              
+╭─ 196.49.84.36    328913  444.231                 (Abidjan, Abidjan, CI, AF) gw1.std.douala-ix.net                                                                               
+S&T (328913)  
+╰─ 196.49.84.188   328913  442.149                 (Douala, Littoral, CM, AF) cm-dla-as328913.anchors.atlas.ripe.net                                                              

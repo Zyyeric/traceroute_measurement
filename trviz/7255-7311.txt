@@ -1,0 +1,14 @@
+   23.155.72.145   64289   0.0              (Santa Clara, California, US, NA)                                                                                                     
+   23.151.137.1    64289   0.168            (Santa Clara, California, US, NA)                                                                                                     
+   10.10.10.0      *       0.378                                          ***                                                                                                     
+   206.197.187.12  *       0.968                (Fremont, California, US, NA) as6939.sfmix.org                                                                                    
+   184.105.80.194  6939    2.029                     (Farmington, CA, US, NA) 100ge13-2.core4.fmt2.he.net                                                                         
+╭─ 64.71.166.230   6939    1.612 (4.168)          (San Jose, California, US, NA) e0-1.switch1.snt3.he.net                                                                            
+S (6939, 7545)  hawaiki ✘ || southern-cross-cable-network-sccn ✓ || southern-cross-next ✓
+╰─ 216.218.139.234 7545    157.089                      (Sydney, NSW, AU, OC) tpg-internet-pty-ltd.100gigabitethernet11-1.core1.sjc1.he.net                                       
+   203.29.134.44   7545    157.51           (Sydney, New South Wales, AU, OC) syd-apt-ros-crt4-be-100.tpgi.com.au                                                                 
+   203.26.22.122   7545    168.861                      (Sydney, NSW, AU, OC) syd-sot-ken-crs2-Te-0-6-0-9.tpgi.com.au                                                             
+   27.32.160.89    7545    167.681              (Melbourne, Victoria, AU, OC) au-vi-1015-ipg-221-bundle-ether2.tpgi.com.au                                                        
+   203.220.216.70  7545    166.581                      (Sydney, NSW, AU, OC) 203-220-216-70.tpgi.com.au                                                                          
+   203.192.83.254  7545    167.742              (Melbourne, Victoria, AU, OC) ip-254-83-192-203.static.pipenetworks.com                                                           
+   103.179.37.157  151332  167.076              (Melbourne, Victoria, AU, OC)                                                                                                     

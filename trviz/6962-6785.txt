@@ -1,0 +1,11 @@
+   103.15.246.16   58717   0.0                         (Dhaka, Dhaka, BD, AS)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   172.16.203.70   *       0.758                                          ***                                                                                                     
+   157.119.185.211 58717   1.21                            (Dhaka, C, BD, AS) *                                                                                                   
+╭─ 103.199.87.38   58717   1.57                          (None, None, BD, AS) *                                                                                                   
+LHL (58717, 15802)  seamewe-5 ✓ ↠ seamewe-3 ✓ || seamewe-5 ✓ ↠ flag-europe-asia-fea ✘ || seamewe-4 ✓ ↠ seamewe-3 ✓ || seamewe-4 ✓ ↠ flag-europe-asia-fea ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 27.111.228.92   15802   45.7                      (Seogwipo, None, KR, AS) 15802.sgw.equinix.com                                                                               
+S (15802)  
+├  10.65.8.233     *       123.828                                        ***                                                                                                     
+╰─ 94.203.76.219   15802   123.724                     (Dubai, Dubai, AE, AS)                                                                                                     

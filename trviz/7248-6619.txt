@@ -1,0 +1,11 @@
+   185.28.108.163  12773   0.0                     (Donetsk, Donetsk, UA, EU) ip-108-163.as12773.net                                                                              
+   185.28.108.161  12773   0.364                   (Donetsk, Donetsk, UA, EU) colo.as12773.net                                                                                    
+   185.28.108.250  12773   0.368                   (Donetsk, Donetsk, UA, EU) ip-108-250.as12773.net                                                                              
+╭─ 185.28.108.213  12773   0.367 (2.611)              (Donetsk, Donetsk, UA, EU) ip-108-213.as12773.net                                                                              
+T (12773, 20764)  
+├─ 195.208.210.34  20764   17.645                      (Moscow, 48, RU, None) msk-m9-cr2.rascom.as20764.net                                                                       
+T (20764)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 81.27.251.65    20764   43.021                 (Helsinki, Uusimaa, FI, EU) tbs-cl9-cr1.lt-0-0-0-0.rascom.as20764.net                                                           
+LHL (20764, 198150)  
+╰─ 46.8.37.34      198150  42.977                  (Tbilisi, Tbilisi, GE, AS) ge-tbs-as198150.anchors.atlas.ripe.net                                                              

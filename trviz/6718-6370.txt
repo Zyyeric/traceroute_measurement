@@ -1,0 +1,15 @@
+   103.202.216.76  59105   0.0                         (Chōfu, Tokyo, JP, AS)                                                                                                     
+   103.202.216.73  59105   0.304                       (Tokyo, Tokyo, JP, AS) ge-2-1-0.pop03er03.bb.homenoc.ad.jp                                                                 
+   103.48.31.180   59105   0.333                         (None, None, JP, AS) gi0-2-0.pop03cr01.bb.homenoc.ad.jp                                                                  
+   103.48.31.87    59105   0.328 (5.556)                    (None, None, JP, AS) v100.ge-0-0-3.noc01er01.bb.homenoc.ad.jp                                                            
+╭─ 103.177.117.144 131948  17.362                      (Tokyo, Tokyo, JP, AS)                                                                                                     
+S (131948, 41095)  asia-pacific-gateway-apg ✘ || eac-c2c ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 103.242.73.133  41095   78.744              (Singapore, Singapore, SG, AS) rt986164.r0.616.eq.sg.iptp.net                                                                      
+S&T (41095, 24176)  
+╰─ 210.86.233.17   24176   97.655     (Ho Chi Minh City, Ho Chi Minh, VN, AS) ci233-17.netnam.vn                                                                                  
+   210.86.233.30   24176   98.806     (Ho Chi Minh City, Ho Chi Minh, VN, AS) ci233-30.netnam.vn                                                                                  
+   210.86.232.101  24173   97.674                         (Hanoi, HN, VN, AS) ci232-101.netnam.vn                                                                                 
+   ***             *       -inf                                           *** *                                                                                                   
+   101.53.31.6     24173   100.114    (Ho Chi Minh City, Ho Chi Minh, VN, AS) ci53.31-6.netnam.vn                                                                                 

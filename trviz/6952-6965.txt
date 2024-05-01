@@ -1,0 +1,11 @@
+   193.1.201.140   1213    0.0                   (Tallaght, Leinster, IE, EU) atlas-anchor.heanet.ie                                                                              
+   193.1.201.138   1213    0.254                   (Dublin, Leinster, IE, EU) pw-spine1-vlan11.services.hea.net                                                                   
+   87.44.56.177    1213    0.251                        (Dublin, L, IE, None) ae3.core1-pw.nn.hea.net                                                                             
+╭─ 212.222.58.253  3257    0.252 (0.998)         (Palmerstown, Leinster, IE, EU) ae1-100.cr0-dub4.ip4.gtt.net                                                                        
+S&T (3257)  geo-eirgrid ✘ || rockabill © || esat-2 ✘ || sirius-south ✘ || exa-north-and-south ✘ || havhingstenceltixconnect-2-cc-2 © || exa-express ✘ || pan-european-crossing-uk-ireland ✓ || esat-1 ✘ || solas ✓
+├─ 89.149.137.209  3257    9.718                        (London, ENG, GB, EU) ae35.cr1-lon1.ip4.gtt.net                                                                           
+S&T (3257, 3292)  
+╰─ 195.215.109.17  3292    9.662                     (Copenhagen, 84, DK, EU) xe-10-2-0-0.ldn4nqp1.uk.ip.tdc.net                                                                  
+   83.88.2.215     3292    30.921         (Stilling, Central Jutland, DK, EU) ae5-0.trgnqe10.dk.ip.tdc.net                                                                        
+   62.242.1.166    3292    83.979                 (Nykobing Mors, 81, DK, EU) cpe.ge-3-3-3-114.trgnqe10.dk.customer.tdc.net                                                       
+   217.28.166.213  3292    31.019            (Århus, Central Jutland, DK, EU)                                                                                                     

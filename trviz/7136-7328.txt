@@ -1,0 +1,18 @@
+   102.212.60.247  329276  0.0              (Cape Town, Western Cape, ZA, AF) za-cpt-as329276.anchors.atlas.ripe.net                                                              
+   102.212.60.2    329276  0.202             (Rosebank, Western Cape, ZA, AF) net.lnx-solutions.com                                                                               
+   196.250.236.121 37662   0.334             (Rosebank, Western Cape, ZA, AF)                                                                                                     
+╭─ 154.66.247.234  37662   0.712                      (Trichardt, MP, ZA, AF) *                                                                                                   
+S&T (37662)  eastern-africa-submarine-system-eassy 👍 || seacomtata-tgn-eurasia ✓
+├─ 154.66.247.99   37662   113.253                       (None, None, KE, AF) *                                                                                                   
+LHL (37662, 6939)  peace-cable ✘ ↠ flag-europe-asia-fea ✘ || peace-cable ✘ ↠ seamewe-3 ✓ || seacomtata-tgn-eurasia ✓ ↠ flag-europe-asia-fea ✘ || seacomtata-tgn-eurasia ✓ ↠ seamewe-3 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.193.149 6939    119.967                        (Madrid, M, ES, EU) ve960.core1.mad1.he.net                                                                             
+S&T (6939, 2200)  africa-coast-to-europe-ace ✓ || seamewe-3 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 193.51.177.239  2200    150.923                 (Rennes, Brittany, FR, EU) hu0-3-0-1-ren-nr-lyon2-rtr-091.noc.renater.fr                                                       
+   193.55.204.15   2200    153.345                     (Rennes, None, FR, EU) te0-3-0-0-ren-nr-rennes-rtr-091.noc.renater.fr                                                      
+   ***             *       -inf                                           *** *                                                                                                   
+   193.54.185.10   1942    151.03             (Épinay-sur-Seine, IDF, FR, EU) r-epn.grenet.fr                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   193.49.43.151   2200    151.161   (Grenoble, Auvergne-Rhône-Alpes, FR, EU)                                                                                                     

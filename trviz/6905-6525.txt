@@ -1,0 +1,19 @@
+   171.67.70.16    32      0.0                 (Stanford, California, US, NA) us-pao-as32.anchors.atlas.ripe.net                                                                  
+   ***             *       -inf                                           *** *                                                                                                   
+   10.214.4.252    *       0.928                                          ***                                                                                                     
+   171.66.0.207    32      1.017               (Stanford, California, US, NA)                                                                                                     
+   137.164.23.178  2152    1.791               (Stanford, California, US, NA) dc-sfo-agg4--stanford-100g.cenic.net                                                                
+   137.164.11.92   2152    1.861                      (Sunnyvale, CA, US, NA) dc-svl-agg8--sfo-agg4-100gbe.cenic.net                                                              
+╭─ 137.164.11.80   2152    1.981                      (Sunnyvale, CA, US, NA) dc-svl-agg10--svl-agg8-300g.cenic.net                                                               
+S (2152, 4651)  asia-america-gateway-aag-cable-system ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 65.49.108.78    4651    162.562                  (Hong Kong, None, HK, AS) cat-telecom-public-company-ltd.10gigabitethernet7-2.core1.hkg1.he.net                               
+S (4651)  asia-america-gateway-aag-cable-system ✓ || asia-africa-europe-1-aae-1 ✓ || flag-europe-asia-fea ✘
+╰─ 61.19.9.121     4651    202.016                       (None, None, TH, AS) *                                                                                                   
+   61.19.7.2       4651    202.121                       (None, None, TH, AS) *                                                                                                   
+   122.155.224.74  135063  202.174                       (None, None, TH, AS) *                                                                                                   
+   172.21.21.4     *       202.988                                        ***                                                                                                     
+   172.24.132.101  *       201.996                                        ***                                                                                                     
+   103.253.132.25  59238   204.208                 (Bangkok, Bangkok, TH, AS) th-bkk-as59238.anchors.atlas.ripe.net                                                               

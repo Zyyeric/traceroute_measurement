@@ -1,0 +1,19 @@
+   63.222.106.8    3491    0.0                         (Seoul, Seoul, KR, AS) 63-222-106-8.static.pccwglobal.net                                                                  
+╭─ 63.222.106.2    3491    0.685                (Yongsan-dong, Seoul, KR, AS) 63-222-106-2.static.pccwglobal.net                                                                  
+S (3491)  apcn-2 👍 || eac-c2c ✓ || flag-north-asia-loopreach-north-asia-loop 👍 || asia-pacific-gateway-apg ✓ || flag-europe-asia-fea ✓ || seamewe-3 👍
+╰─ 63.218.114.122  3491    37.301              (Hong Kong, Hong Kong, HK, AS) be41.br05.hkg15.as3491.net                                                                          
+╭─ 65.49.108.73    6939    50.419              (Hong Kong, Hong Kong, HK, AS) port-channel6.core2.hkg1.he.net                                                                     
+S (6939)  asia-africa-europe-1-aae-1 ✓ || flag-europe-asia-fea ✓ || seamewe-3 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.105.80.13   6939    257.72                         (Milan, 25, IT, EU) 100ge7-2.core1.mil2.he.net                                                                          
+LHL (6939)  flag-europe-asia-fea ✓ ↠ havhingstennorth-sea-connect-nsc ✓ || flag-europe-asia-fea ✓ ↠ atlantic-crossing-1-ac-1 ✓ || seamewe-3 ✓ ↠ havhingstennorth-sea-connect-nsc ✓ || seamewe-3 ✓ ↠ atlantic-crossing-1-ac-1 ✓
+├─ 184.104.194.254 6939    264.461                   (Copenhagen, 84, DK, EU) 100ge0-34.core2.cph1.he.net                                                                         
+S (6939)  
+├─ 184.105.81.141  6939    272.563                      (Ashburn, VA, US, NA) port-channel10.core3.ash1.he.net                                                                    
+S (6939, 56655)  
+╰─ 185.125.170.252 56655   273.21                        (Oslo, Oslo, NO, EU)                                                                                                     
+   185.125.170.47  56655   273.452                       (Oslo, Oslo, NO, EU)                                                                                                     
+   185.14.97.165   56655   2123.646                      (Oslo, Oslo, NO, EU)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   185.14.97.165   56655   2123.646                      (Oslo, Oslo, NO, EU)                                                                                                     

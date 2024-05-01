@@ -1,0 +1,39 @@
+╭─ 104.238.161.230 20473   0.0                          (Ōi, Saitama, JP, AS) 104.238.161.230.vultrusercontent.com                                                                
+S (20473, 1299)  apcn-2 ✓ || eac-c2c ✓ || asia-pacific-gateway-apg ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  10.71.1.9       *       1.65                                           ***                                                                                                     
+├  10.71.2.233     *       15.86                                          ***                                                                                                     
+├  10.71.4.38      *       6.27                                           ***                                                                                                     
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 62.115.116.198  1299    99.894              (Singapore, Singapore, SG, AS) lax-b23-link.ip.twelve99.net                                                                        
+S (1299, 174)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 154.54.27.117   174     100.501                  (Los Angeles, CA, US, NA) be3243.ccr41.lax01.atlas.cogentco.com                                                               
+   154.54.44.85    174     121.471                      (Phoenix, AZ, US, NA) be2931.ccr31.phx01.atlas.cogentco.com                                                               
+   154.54.5.218    174     127.001                   (El Paso, Texas, US, NA) be2979.ccr21.elp02.atlas.cogentco.com                                                               
+   154.54.0.53     174     136.628                   (Houston, Texas, US, NA) be3850.ccr41.iah01.atlas.cogentco.com                                                               
+   154.54.28.69    174     258.896                      (Atlanta, GA, US, NA) be2687.ccr41.atl01.atlas.cogentco.com                                                               
+   154.54.7.157    174     256.864                   (Washington, DC, US, NA) be2112.ccr41.dca01.atlas.cogentco.com                                                               
+╭─ 154.54.40.105   174     256.812                     (New York, NY, US, NA) be2806.ccr41.jfk02.atlas.cogentco.com                                                               
+S (174)  
+├─ 66.28.4.198     174     257.288                       (Paris, IDF, FR, EU) be3627.ccr41.par01.atlas.cogentco.com                                                               
+T (174)  
+╰─ 154.54.58.233   174     250.656            (Frankfurt am Main, HE, DE, EU) be2799.ccr41.fra03.atlas.cogentco.com                                                               
+╭─ 154.54.36.54    174     262.342                       (Munich, BY, DE, EU) be2959.ccr21.muc03.atlas.cogentco.com                                                               
+T (174)  
+├─ 154.54.58.6     174     251.259                        (Vienna, 9, AT, EU) be2974.ccr51.vie01.atlas.cogentco.com                                                               
+T (174)  
+├─ 154.54.59.85    174     277.895                   (Bratislava, BL, SK, EU) be2988.ccr21.bts01.atlas.cogentco.com                                                               
+T (174)  
+├─ 130.117.3.138   174     277.533                     (Budapest, PE, HU, EU) be3261.ccr31.bud01.atlas.cogentco.com                                                               
+T (174)  
+├─ 154.54.38.246   174     288.812                     (Bucharest, B, RO, EU) be3262.ccr31.buh01.atlas.cogentco.com                                                               
+S&T (174)  
+╰─ 154.54.77.237   174     287.249               (Istanbul, Istanbul, TR, AS) be3572.rcr71.ist01.atlas.cogentco.com                                                               
+   154.25.16.82    174     292.399               (Istanbul, Istanbul, TR, AS) be3821.nr71.b061536-0.ist01.atlas.cogentco.com                                                      
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   149.34.193.159  208972  317.654               (Istanbul, Istanbul, TR, AS)                                                                                                     
+   149.34.193.159  208972  317.654               (Istanbul, Istanbul, TR, AS)                                                                                                     

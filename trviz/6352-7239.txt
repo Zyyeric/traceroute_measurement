@@ -1,0 +1,13 @@
+   102.130.66.11   37468   0.0                       (Luanda, Luanda, AO, AF)                                                                                                     
+╭─ 102.130.66.1    37468   0.287                     (Luanda, Luanda, AO, AF)                                                                                                     
+S (37468)  south-atlantic-cable-system-sacs 👍
+├  100.64.192.118  *       0.287 (1.983)                                     ***                                                                                                     
+├─ 170.238.232.149 37468   62.498                        (None, None, BR, SA) *                                                                                                   
+S (37468, 766)  ellalink ✘
+├  100.64.192.138  *       136.241                                        ***                                                                                                     
+├─ 193.136.250.35  766     145.356                     (Lisbon, 14, PT, None) REDIRIS.AS766.gigapix.pt                                                                            
+S&T (766)  
+╰─ 130.206.245.37  766     143.36                        (None, None, ES, EU) cica.rt2.ethtrunk2.ciemat.rt2.mad.red.rediris.es                                                    
+   130.206.245.2   766     143.083                       (None, None, ES, EU) ciemat.rt2.ae1-0.telmad.rt4.mad.red.rediris.es                                                      
+   130.206.214.98  13041   164.308                       (None, None, ES, EU) anella-router.red.rediris.es                                                                        
+   84.88.18.254    13041   152.062             (Barcelona, Catalonia, ES, EU) anchor-anella.cesca.cat                                                                             

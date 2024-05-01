@@ -1,0 +1,24 @@
+   213.157.192.2   16010   0.0                     (Tbilisi, Tbilisi, GE, AS) host-213-157-192-2.customer.magticom.ge                                                             
+   213.157.192.1   16010   1.169                        (Tbilisi, TB, GE, AS) host-213-157-192-1.customer.magticom.ge                                                             
+   213.157.192.9   16010   0.479             (Tsqnet’i, Kvemo Kartli, GE, AS) host-213-157-192-9.customer.magticom.ge                                                             
+╭─ 213.157.194.1   16010   0.708             (Tsqnet’i, Kvemo Kartli, GE, AS) host-213-157-194-1.customer.magticom.ge                                                             
+T (16010, 15924)  
+╰─ 84.44.20.157    15924   26.183                (Istanbul, Istanbul, TR, AS)                                                                                                     
+╭─ 195.2.23.129    1273    25.948                (Istanbul, Istanbul, TR, AS) ae4-17-ucr1.tuz.cw.net                                                                              
+S (1273)  
+├─ 195.2.18.213    1273    28.254                        (None, None, GB, EU) ae2-xcr1.ise.cw.net                                                                                 
+LHL (1273)  
+╰─ 195.2.18.210    1273    41.028              (Sofia, Sofia-Capital, BG, EU) ae29-xcr1.sof.cw.net                                                                                
+╭─ 195.2.6.62      1273    53.24               (Sofia, Sofia-Capital, BG, EU) as6762-gw.sof.cw.net                                                                                
+T (1273, 6762)  
+╰─ 195.22.211.213  6762    68.248             (Frankfurt am Main, HE, DE, EU) ae2.franco31.fra.seabone.net                                                                        
+   195.22.214.185  3223    70.365             (Frankfurt am Main, HE, DE, EU) voxility.franco31.fra.seabone.net                                                                   
+   5.254.88.25     3223    69.569             (Frankfurt am Main, HE, DE, EU) fra-eq5-01gw.voxility.net                                                                           
+╭─ 5.254.68.198    3223    69.724             (Frankfurt am Main, HE, DE, EU) fra-eq5-02gw.voxility.net                                                                           
+T (3223)  
+├─ 93.115.89.10    3223    70.55                          (Vienna, 9, AT, EU) vie-in1-01gw.voxility.net                                                                           
+T (3223)  
+╰─ 5.254.80.22     3223    69.744                      (Bucharest, B, RO, EU) buc-ird-02gw.voxility.net                                                                           
+   93.115.93.182   3223    70.304                      (Bucharest, B, RO, EU) buc-ird-03c.voxility.net                                                                            
+   5.254.69.99     3223    70.196              (Bucuresti, București, RO, EU)                                                                                                     
+   185.86.67.69    41494   70.523              (Bucharest, București, RO, EU)                                                                                                     

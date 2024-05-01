@@ -1,0 +1,20 @@
+   103.170.154.254 142594  0.0                      (London, England, GB, EU) 254.154.170.103.speedyvps.uk                                                                        
+╭─ 103.170.154.1   142594  0.201                    (London, England, GB, EU)                                                                                                     
+T (142594, 60068)  
+├─ 156.146.32.94   60068   0.252                     (Prague, Prague, CZ, EU) unn-156-146-32-94.cdn77.com                                                                         
+LHL (60068)  
+├─ 185.229.188.204 60068   17.192    (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) vl1102.mrs-itx2-core-2.cdn77.com                                                                    
+T (60068)  
+├─ 45.134.215.97   60068   18.348                    (Prague, Prague, CZ, EU) seacom-mrs.cdn77.com                                                                                
+LHL (60068, 37100)  
+├─ 105.16.33.1     37100   162.938                   (Marseille, PAC, FR, EU) ae-2.cr-01-mrs.fr.seacomnet.com                                                                     
+S (37100)  
+├─ 105.16.9.201    37100   164.803                     (Mombasa, 300, KE, AF) xe-0-0-0-1.cr-02-mba.ke.seacomnet.com                                                               
+S (37100)  
+╰─ 105.16.11.77    37100   162.689                    (Cape Town, WC, ZA, AF) xe-0-1-0-3.cr-01-cpt.za.seacomnet.com                                                               
+   105.16.28.9     37100   167.712                 (Johannesburg, GT, ZA, AF) ce-0-0-2.er-01-jnb.za.seacomnet.com                                                                 
+╭─ 105.22.34.174   37100   162.686            (Johannesburg, Gauteng, ZA, AF) ce-0-1-5-91.customer-gw-rogers-capital.er-01-jnb.za.seacomnet.com                                   
+S (37100, 36868)  
+╰─ 196.46.34.108   36868   209.133                       (None, None, MU, AF) *                                                                                                   
+   196.46.49.34    36868   209.461   (Quatre Bornes, Plaines Wilhems, MU, AF)                                                                                                     
+   102.222.106.178 328699  208.189           (Port Louis, Port Louis, MU, AF)                                                                                                     

@@ -1,0 +1,9 @@
+   154.18.86.7     151420  0.0                         (Tokyo, Tokyo, JP, AS)                                                                                                     
+╭─ 154.18.86.1     151420  0.101               (Motoyoyogichō, Tokyo, JP, AS)                                                                                                     
+S (151420, 6939)  apcn-2 ✓ || eac-c2c ✘ || asia-pacific-gateway-apg ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.208.93  6939    76.836              (Singapore, Singapore, SG, AS) true-internet-corporation-co-ltd.port-channel18.core3.sin1.he.net                                   
+S&T (6939, 137566)  asia-america-gateway-aag-cable-system ✓ || seamewe-4 ✓ || seamewe-3 ✓
+╰─ 103.113.176.82  137566  104.989       (Ban Talat Bueng, Chon Buri, TH, AS)                                                                                                     

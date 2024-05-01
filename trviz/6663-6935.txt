@@ -1,0 +1,20 @@
+   102.130.49.144  328383  0.0                (Johannesburg, Gauteng, ZA, AF) za-jnb-as57695.anchors.atlas.ripe.net                                                               
+   102.130.49.21   328383  0.182              (Johannesburg, Gauteng, ZA, AF) po-21.lag.jnb01.za.misaka.io                                                                        
+   102.130.49.3    328383  0.24               (Johannesburg, Gauteng, ZA, AF) spine2.v271.jnb01.za.misaka.io                                                                      
+╭─ 102.130.51.2    *       0.272              (Johannesburg, Gauteng, ZA, AF) e54-1-10.cr1a.tdjb1.jnb1.za.917.as                                                                  
+LHL (, 60068)  africa-coast-to-europe-ace ✘
+├─ 37.19.193.190   60068   0.413                     (Prague, Prague, CZ, EU) p77-3502.cr1a.tdjb1.jnb1.za.917.as                                                                  
+LHL (60068, 5511)  
+├─ 193.251.152.55  5511    0.529              (Johannesburg, Gauteng, ZA, AF)                                                                                                     
+S (5511)  africa-coast-to-europe-ace 👍
+╰─ 193.251.132.230 5511    157.029                       (None, None, FR, EU) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   130.117.1.45    174     165.533                       (Paris, IDF, FR, EU) be3626.ccr42.par01.atlas.cogentco.com                                                               
+╭─ 154.54.72.226   174     175.856                   (Marseille, PAC, FR, EU) be2780.ccr32.mrs02.atlas.cogentco.com                                                               
+S&T (174)  seamewe-3 ✓
+╰─ 154.54.74.178   174     184.351                        (Milan, 25, IT, EU) be2865.rcr21.mil01.atlas.cogentco.com                                                               
+   154.25.12.146   174     185.393                        (Milan, 25, IT, EU) be2218.nr51.b026361-0.mil01.atlas.cogentco.com                                                      
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   92.223.93.208   202422  184.089                  (Milan, Lombardy, IT, EU)                                                                                                     

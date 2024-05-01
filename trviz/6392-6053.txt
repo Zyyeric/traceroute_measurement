@@ -1,0 +1,31 @@
+   197.80.104.36   10474   0.0                (Johannesburg, Gauteng, ZA, AF) 197-80-104-36.jhb.mweb.co.za                                                                        
+   197.80.75.3     10474   5.138                  (Randburg, Gauteng, ZA, AF) 20.bu-ether1.vic-pe-12.optinet.net                                                                  
+   197.80.7.79     10474   238.288                       (None, None, ZA, AF) 197-80-7-79.jhb.mweb.co.za                                                                          
+   197.80.4.37     10474   254.211                       (None, None, ZA, AF) bu-ether3.mca-pe-1.optinet.net                                                                      
+   197.80.4.224    10474   291.099                       (None, None, ZA, AF) bu-ether2.mca-pe-2.optinet.net                                                                      
+   197.80.5.60     10474   346.326                       (None, None, ZA, AF) 197-80-5-60.jhb.mweb.co.za                                                                          
+╭─ 197.80.4.216    10474   287.139                       (None, None, ZA, AF) 197-80-4-216.jhb.mweb.co.za                                                                         
+T (10474)  
+╰─ 197.80.5.85     10474   329.35                   (London, England, GB, EU) 197-80-5-85.jhb.mweb.co.za                                                                          
+╭─ 176.67.178.4    10474   327.115                     (London, None, GB, EU) *                                                                                                   
+T (10474)  
+├─ 176.67.178.7    10474   329.605                       (None, None, ZA, AF) *                                                                                                   
+T (10474)  
+╰─ 176.67.177.228  10474   347.928                  (London, England, GB, EU) be-15-779-thd-linx-1.optinet.net                                                                    
+   195.66.231.9    *       431.362                 (Stepney, England, GB, EU)                                                                                                     
+╭─ 206.148.26.8    7578    472.26                   (Poplar, England, GB, EU) po10.lon-thn-bb1.globalsecurelayer.com                                                              
+S (7578)  
+╰─ 206.148.26.7    7578    782.625          (New York City, New York, US, NA) e52.nyc-eqxny2-bb1.globalsecurelayer.com                                                            
+   206.148.25.42   7578    716.962                (Chicago, Illinois, US, NA) e3.chi-eqxch1-bb1.globalsecurelayer.com                                                             
+╭─ 206.148.25.0    7578    1035.522         (Los Angeles, California, US, NA) e50.lax-csla2-bb1.globalsecurelayer.com                                                             
+S (7578)  
+╰─ 206.148.24.2    7578    1021.21          (Sydney, New South Wales, AU, OC) e1.syd-eqxsy5-bb1.globalsecurelayer.com                                                             
+   206.148.24.58   7578    1900.951             (Melbourne, Victoria, AU, OC) e21.mel-eqxme1-bb1.globalsecurelayer.com                                                            
+   206.148.24.56   7578    2169.693       (Adelaide, South Australia, AU, OC) e53.adl-eqxae1-bb4.globalsecurelayer.com                                                            
+╭─ 206.148.24.164  7578    2330.737        (Perth, Western Australia, AU, OC)                                                                                                     
+S (7578, 8529)  
+╰─ 213.202.6.228   8529    2557.233                  (Muscat, Muscat, OM, AS)                                                                                                     
+╭─ 134.0.220.175   8529    2730.905                      (Muscat, MA, OM, AS) *                                                                                                   
+S&T (8529, 42473)  
+╰─ 213.202.2.1     42473   2766.023                       (Dubai, DU, AE, AS) i1.2.202.213omantel.net.om                                                                          
+   37.252.245.94   42473   2813.624                    (Dubai, Dubai, AE, AS)                                                                                                     

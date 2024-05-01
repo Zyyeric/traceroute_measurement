@@ -1,0 +1,15 @@
+   185.14.96.232   211186  0.0                (Lamía, Central Greece, GR, EU)                                                                                                     
+   185.14.96.225   211186  0.668              (Lamía, Central Greece, GR, EU) vlan4090.lamia.fast.net.gr                                                                          
+   212.205.28.249  6799    0.673              (Lamía, Central Greece, GR, EU) 249.28.205.212.static.otenet.gr                                                                     
+   79.128.234.128  6799    3.664                    (Maroúsi, Attica, GR, EU)                                                                                                     
+   62.75.3.17      12713   3.549             (Néa Chalkidóna, Attica, GR, EU) kolasr02-hu-0-8-0-0.ath.oteglobe.gr                                                                 
+╭─ 62.75.27.37     *       37.095                    (Athens, Attica, GR, EU)                                                                                                     
+LHL (, 59605)  mednautilus-submarine-system ✘ ↠ asia-africa-europe-1-aae-1 ✘ || mednautilus-submarine-system ✘ ↠ seamewe-3 ✘
+├─ 80.81.192.84    59605   43.927            (Frankfurt am Main, 5, DE, None) ipv4.de-cix.fra.de.as59605.zain.com                                                                 
+LHL (59605)  falcon ✓ || fiber-optic-gulf-fog ✓ || tata-tgn-gulf ✓ || gulf-bridge-international-cable-system-gbicsmiddle-east-north-africa-mena-cable-system ✓
+╰─ 151.248.105.47  59605   123.892                       (None, None, BH, AS) *                                                                                                   
+╭─ 151.248.98.137  42961   128.076                       (None, None, BH, AS) *                                                                                                   
+S (42961)  
+├  10.32.1.106     *       124.306                                        ***                                                                                                     
+├  10.32.1.109     *       125.753                                        ***                                                                                                     
+╰─ 212.43.17.42    42961   125.963     (Al Farwānīyah, Al Farwaniyah, KW, AS)                                                                                                     

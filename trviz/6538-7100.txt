@@ -1,0 +1,16 @@
+   185.239.193.37  39484   0.0                   (Tampere, Pirkanmaa, FI, EU) fi-tmp-as39484.anchors.atlas.ripe.net                                                               
+   185.239.193.33  39484   1.062                 (Tampere, Pirkanmaa, FI, EU) her0-rtr1.poasnet.fi                                                                                
+   193.167.244.180 1741    0.528                 (Tampere, Pirkanmaa, FI, EU) tampere1-et-0-1-5-666.ip.funet.fi                                                                   
+   86.50.255.220   1741    2.856            (Hämeenlinna, Kanta-Häme, FI, EU) hameenlinna2.ip.funet.fi                                                                            
+   86.50.255.224   1741    2.861            (Hämeenlinna, Kanta-Häme, FI, EU) hameenlinna1.ip.funet.fi                                                                            
+   86.50.255.223   1741    2.978                     (Espoo, Uusimaa, FI, EU) espoo2.ip.funet.fi                                                                                  
+╭─ 86.50.255.232   1741    2.83                           (Espoo, 18, FI, EU) espoo1.ip.funet.fi                                                                                  
+LHL (1741, 2603)  havhingstennorth-sea-connect-nsc ✘ || atlantic-crossing-1-ac-1 ✘
+├─ 109.105.102.168 2603    2.847                         (None, None, DK, EU) fi-csc2.nordu.net                                                                                   
+S&T (2603)  ip-only-denmark-sweden ✓ || scandinavian-ring-south ✓ || danica-north ✓ || rnne-rdvig ✓ || energinet-laeso-varberg ✘ || globalconnect-2-gc2 ✘ || kattegat-2 ✓ || denmark-sweden-16 ✓
+╰─ 109.105.101.10  2603    12.811              (Stockholm, Stockholm, SE, EU) se-tug.nordu.net                                                                                    
+╭─ 194.68.123.151  *       12.876                  (Solna, Stockholm, SE, EU) netnod-ix-ge-a-sth-1500.veon.com                                                                    
+T (, 3216)  
+╰─ 79.104.246.165  3216    81.215                    (Kemerovo, None, RU, AS) pe02.kemerovo.gldn.net                                                                              
+   195.218.136.22  49673   81.736                (St Petersburg, SPE, RU, EU) *                                                                                                   
+   94.247.111.19   49673   82.388    (Novosibirsk, Novosibirsk Oblast, RU, EU) ru-ovb-as49673.anchors.atlas.ripe.net                                                               

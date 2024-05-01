@@ -1,0 +1,26 @@
+   27.111.84.21    135132  0.0           (Cebu City, Central Visayas, PH, AS) ph-ceb-as135132.anchors.atlas.ripe.net                                                              
+   27.111.84.20    135132  1.612             (Baugo, Central Visayas, PH, AS) vlan509.core.ceb02.ds.network                                                                       
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   203.177.209.217 4775    3.797             (Baugo, Central Visayas, PH, AS)                                                                                                     
+╭─ 120.28.0.81     4775    26.286         (Makati City, Metro Manila, PH, AS)                                                                                                     
+S (4775)  sea-us 👍 || pacific-light-cable-network-plcn ✓ || asia-america-gateway-aag-cable-system ✓
+╰─ 120.28.10.22    4775    167.569          (Los Angeles, California, US, NA)                                                                                                     
+   199.36.28.33    40633   169.245                  (Los Angeles, CA, US, NA) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 184.105.64.122  6939    227.091                      (Norfolk, VA, US, NA) 100ge0-30.core1.orf2.he.net                                                                         
+S (6939)  marea ✓
+╰─ 184.104.197.93  6939    321.423           (Bilbao, Basque Country, ES, EU) port-channel4.core1.bio1.he.net                                                                     
+   184.104.196.161 6939    331.326                        (Madrid, M, ES, EU) 100ge0-30.core1.mad1.he.net                                                                         
+   193.149.1.26    766     314.767                     (Madrid, 29, ES, None) rediris.baja.espanix.net                                                                            
+   130.206.245.25  766     320.288                       (None, None, ES, EU) ciemat.rt2.ethtrunk1.telmad.rt1.mad.red.rediris.es                                                  
+   130.206.216.2   766     331.652                       (None, None, ES, EU) redimadrid-backup-router.red.rediris.es                                                             
+   193.145.15.50   766     332.689                       (None, None, ES, EU) uc3m-rt-ju-01-xe-0-1-0.net.redimadrid.es                                                            
+   ***             *       -inf                                           *** *                                                                                                   
+   163.117.49.4    766     319.613                       (Madrid, MD, ES, EU) b01014zr.uc3m.es                                                                                    
+   163.117.253.5   766     318.522                   (Madrid, Madrid, ES, EU)                                                                                                     

@@ -1,0 +1,13 @@
+   171.67.70.16    32      0.0                 (Stanford, California, US, NA) us-pao-as32.anchors.atlas.ripe.net                                                                  
+   ***             *       -inf                                           *** *                                                                                                   
+   10.214.4.252    *       0.683                                          ***                                                                                                     
+   171.66.0.209    32      1.065               (Stanford, California, US, NA)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 184.105.81.81   6939    1.989               (San Jose, California, US, NA) port-channel12.core4.sjc2.he.net                                                                    
+S (6939, 23944)  asia-america-gateway-aag-cable-system ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.212.74  23944   168.112                  (Hong Kong, None, HK, AS) sky-cable-corporation.port-channel4.switch1.hkg1.he.net                                             
+S (23944)  
+├  172.31.31.7     *       172.96                                         ***                                                                                                     
+╰─ 182.18.209.9    23944   168.137             (Manila, Metro Manila, PH, AS)                                                                                                     

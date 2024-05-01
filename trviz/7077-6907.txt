@@ -1,0 +1,28 @@
+   103.153.176.122 131657  0.0                       (Taipei, Taiwan, TW, AS) 103-153-176-122.as131657.net                                                                        
+   103.153.176.254 131657  0.265                     (Taipei, Taiwan, TW, AS) 103-153-176-254.as131657.net                                                                        
+╭─ 103.51.91.5     *       0.764                     (Taipei, Taiwan, TW, AS) et-0-0-1.cr1.hd.tpe.as131657.net                                                                    
+S (, 174)  seamewe-3 ✘ || apcn-2 ✘ || trans-pacific-express-tpe-cable-system ✘ || eac-c2c ✘ || faster ✘ || asia-pacific-gateway-apg ✘ || flag-north-asia-loopreach-north-asia-loop ✘ || new-cross-pacific-ncp-cable-system ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 66.28.4.233     174     31.041                      (Tokyo, Tokyo, JP, AS) be2012.ccr71.tyo01.atlas.cogentco.com                                                               
+S (174)  seamewe-3 ✓ || asia-submarine-cable-express-asecahaya-malaysia ✓ || apcn-2 ✓ || eac-c2c ✘ || asia-pacific-gateway-apg ✓ || flag-north-asia-loopreach-north-asia-loop ✓ || southeast-asia-japan-cable-sjc © || flag-europe-asia-fea ©
+├─ 154.54.89.202   174     87.14               (Hong Kong, Hong Kong, HK, AS) be3011.ccr21.hkg02.atlas.cogentco.com                                                               
+S (174)  asia-africa-europe-1-aae-1 ✓
+╰─ 154.54.6.25     174     269.225                   (Marseille, PAC, FR, EU) be2900.ccr32.mrs02.atlas.cogentco.com                                                               
+   154.54.72.225   174     295.167                       (Paris, IDF, FR, EU) be2780.ccr42.par01.atlas.cogentco.com                                                               
+   154.54.38.158   174     295.776                       (Paris, IDF, FR, EU) be3184.ccr31.par04.atlas.cogentco.com                                                               
+   154.54.37.238   174     295.373                       (Paris, IDF, FR, EU) be3169.agr21.par04.atlas.cogentco.com                                                               
+   130.117.15.70   6453    295.134                       (Paris, IDF, FR, EU) tata.par04.atlas.cogentco.com                                                                       
+   80.231.153.50   6453    303.524                      (Paris, None, FR, EU) if-ae-11-2.tcore1.pye-paris.as6453.net                                                              
+   80.231.154.25   6453    303.515             (Paris, Île-de-France, FR, EU) if-bundle-13-2.qcore1.pye-paris.as6453.net                                                          
+╭─ 80.231.154.27   6453    303.255             (Paris, Île-de-France, FR, EU) if-bundle-2-2.qcore2.pye-paris.as6453.net                                                           
+S&T (6453)  
+╰─ 80.231.196.37   6453    304.808                  (London, England, GB, EU) if-bundle-13-2.qcore1.ldn-london.as6453.net                                                         
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 80.231.131.1    6453    304.966                     (London, None, GB, EU) if-ae-2-2.tcore2.l78-london.as6453.net                                                              
+S (6453)  
+╰─ 80.231.131.66   6453    418.958                       (Mumbai, MH, IN, AS) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   115.114.12.186  4755    439.99                      (Delhi, Delhi, IN, AS) 115.114.12.186.static-delhi.vsnl.net.in                                                             
+   180.179.197.218 17439   441.274                       (None, None, IN, AS) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   216.48.178.84   132420  439.798             (Noida, Uttar Pradesh, IN, AS) e2e-95-84.ssdcloudindia.net                                                                         

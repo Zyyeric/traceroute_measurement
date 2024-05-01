@@ -1,0 +1,15 @@
+   89.213.179.65   32167   0.0                 (Hong Kong, Hong Kong, HK, AS) 89-213-179-65.ip.lshiyusercontent.com                                                               
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 103.203.243.10  955     0.238             (Kadoorie, Kowloon City, HK, AS) port-channe17.switch1.hkg1.bb.lshiy.net                                                             
+S (955, 6939)  asia-africa-europe-1-aae-1 ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.194.200 6939    182.975   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) port-channel15.core4.mrs1.he.net                                                                    
+S&T (6939)  seamewe-3 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 72.52.92.165    6939    238.793                      (London, ENG, GB, EU) 100ge7-1.core1.lon2.he.net                                                                          
+   195.66.224.131  28792   236.216                    (London, ENG, GB, None) *                                                                                                   
+   80.82.243.141   28792   236.902                      (Witney, ENG, GB, EU) gi-2-1-0.lon-core-01.ip.pblin.net                                                                   
+   80.82.243.120   28792   234.707                      (Witney, ENG, GB, EU) oxf-core-02.ip.pblin.net                                                                            
+   80.82.243.127   28792   235.892                      (Witney, ENG, GB, EU) oxf-access-10.ip.pblin.net                                                                          
+   80.82.241.134   28792   235.477                  (London, England, GB, EU) 134-241-82-80.in-addr.pblin.net                                                                     

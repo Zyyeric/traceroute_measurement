@@ -1,0 +1,15 @@
+   103.202.216.76  59105   0.0                         (Chōfu, Tokyo, JP, AS)                                                                                                     
+   103.202.216.73  59105   0.727                       (Tokyo, Tokyo, JP, AS) ge-2-1-0.pop03er03.bb.homenoc.ad.jp                                                                 
+   210.188.225.233 9370    0.489                       (Tokyo, Tokyo, JP, AS) tkwrt301x-as59105.bb.sakura.ad.jp                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   210.138.107.33  2497    0.977                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+╭─ 58.138.102.109  2497    1.465                       (Tokyo, Tokyo, JP, AS) tky001bb01.iij.net                                                                                  
+S (2497)  japan-u-s-cable-network-jus ✓ || tata-tgn-pacific ✓ || pacific-crossing-1-pc-1 ✓ || faster ✓ || jupiter ✓
+╰─ 58.138.88.134   2497    94.119               (Seattle, Washington, US, NA) sea001bb00.iij.net                                                                                  
+╭─ 58.138.81.86    2497    212.142             (Secaucus, New Jersey, US, NA) nyc002bb01.iij.net                                                                                  
+LHL (2497, 6667)  havfrueaec-2 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 213.192.184.92  6667    323.976                       (None, None, FI, EU) *                                                                                                   
+   213.192.184.79  6667    296.397                (Helsinki, Uusimaa, FI, EU)                                                                                                     
+   193.65.45.85    719     326.244                   (Espoo, Uusimaa, FI, EU)                                                                                                     
+   193.65.45.86    719     326.11           (Hämeenlinna, Kanta-Häme, FI, EU)                                                                                                     

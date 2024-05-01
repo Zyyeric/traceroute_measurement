@@ -1,0 +1,19 @@
+   141.193.21.100  46997   0.0                  (Seattle, Washington, US, NA) us-sea-as46997.anchors.atlas.ripe.net                                                               
+   ***             *       -inf                                           *** *                                                                                                   
+   202.5.31.217    201106  1.21                (Riverton, Washington, US, NA)                                                                                                     
+   38.32.132.169   174     80.799               (Seattle, Washington, US, NA) hu0-1-0-2.nr51.b003148-2.sea03.atlas.cogentco.com                                                   
+   154.24.13.57    174     81.066               (Seattle, Washington, US, NA) be4672.agr62.sea03.atlas.cogentco.com                                                               
+   154.54.162.81   174     80.928               (Seattle, Washington, US, NA)                                                                                                     
+╭─ 154.54.95.210   174     80.309               (Seattle, Washington, US, NA)                                                                                                     
+LHL (174, 1299)  exa-north-and-south © || atlantic-crossing-1-ac-1 ✓ || apollo © || yellow ✓ || tata-tgn-atlantic ✓ || flag-atlantic-1-fa-1 ©
+├─ 62.115.187.136  1299    75.52                         (None, None, SE, EU) sea-b2-link.telia.net                                                                               
+LHL (1299)  
+╰─ 62.115.132.152  1299    89.494              (San Jose, California, US, NA) sjo-b23-link.ip.twelve99.net                                                                        
+   62.115.115.216  1299    89.836           (Santa Clara, California, US, NA) palo-b24-link.ip.twelve99.net                                                                       
+╭─ 62.115.119.91   1299    90.95            (Los Angeles, California, US, NA) lax-b22-link.ip.twelve99.net                                                                        
+LHL (1299, 140627)  exa-north-and-south ✘ || atlantic-crossing-1-ac-1 ✓ || apollo © || yellow ✓ || tata-tgn-atlantic ✓ || flag-atlantic-1-fa-1 ©
+├─ 62.115.184.233  140627  134.094                       (None, None, SE, EU) oneqode-svc078172-ic367785.c.telia.net                                                              
+LHL (140627)  seamewe-3 ✓
+├─ 103.151.64.28   140627  133.999                       (None, None, AU, OC) cor1.GNC.piti.guam.as140627.net                                                                     
+S (140627)  
+╰─ 103.151.64.31   140627  133.997                 (Hagåtña, Hagatna, GU, OC) atlas.guam.as140627.net                                                                             

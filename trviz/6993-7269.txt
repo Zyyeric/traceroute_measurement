@@ -1,0 +1,13 @@
+   116.206.155.229 45117   0.0                   (Ahmedabad, Gujarat, IN, AS)                                                                                                     
+   116.206.155.225 45117   0.747                 (Ahmedabad, Gujarat, IN, AS)                                                                                                     
+   121.241.90.57   4755    0.71                  (Ahmedabad, Gujarat, IN, AS) 121.241.90.57.static-ahmedabad.vsnl.net.in                                                          
+   172.28.176.253  *       9.26                                           ***                                                                                                     
+╭─ 180.87.38.5     6453    9.259                         (Mumbai, MH, IN, AS) ix-ae-0-100.tcore1.mlv-mumbai.as6453.net                                                            
+S (6453)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 180.87.39.21    6453    134.775                  (London, England, GB, EU) if-ae-12-2.tcore1.l78-london.as6453.net                                                             
+S (6453, 3257)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 76.74.41.138    3257    291.869              (Arlington, Virginia, US, NA) ip4.gtt.net                                                                                         
+LHL (3257, 12008)  
+╰─ 156.154.135.254 12008   297.158            (Johannesburg, Gauteng, ZA, AF)                                                                                                     

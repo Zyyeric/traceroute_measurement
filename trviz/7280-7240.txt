@@ -1,0 +1,16 @@
+   202.70.133.25   140443  0.0                 (Singapore, Singapore, SG, AS) 25.133.70.202.in-addr.herza.id                                                                      
+   202.70.133.1    140443  0.318               (Singapore, Singapore, SG, AS) 1.133.70.202.in-addr.herza.id                                                                       
+   202.70.132.1    140443  0.384               (Singapore, Singapore, SG, AS) 1.132.70.202.in-addr.herza.id                                                                       
+   10.111.222.206  *       0.337                                          ***                                                                                                     
+╭─ 103.16.102.81   6939    10.615                    (Singapore, 1, SG, None) hurricane-electric.sgix.sg                                                                          
+S (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.105.80.13   6939    145.805                        (Milan, 25, IT, EU) 100ge7-2.core1.mil2.he.net                                                                          
+LHL (6939)  
+├─ 184.104.196.194 6939    164.511                       (Denver, CO, US, NA) port-channel1.core1.den3.he.net                                                                     
+LHL (6939)  
+╰─ 184.105.64.170  6939    177.295                       (Athens, A1, GR, EU) 100ge0-36.core1.ath1.he.net                                                                         
+   184.104.191.234 6939    175.881                   (Koropí, Attica, GR, EU) fast-telecom-p-c.e0-7.core1.ath1.he.net                                                             
+   ***             *       -inf                                           *** *                                                                                                   
+   185.14.96.225   211186  195.333            (Lamía, Central Greece, GR, EU) vlan4090.lamia.fast.net.gr                                                                          
+   185.14.96.232   211186  194.579            (Lamía, Central Greece, GR, EU)                                                                                                     

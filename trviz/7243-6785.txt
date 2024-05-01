@@ -1,0 +1,15 @@
+   103.15.246.16   58717   0.0                         (Dhaka, Dhaka, BD, AS)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   172.16.203.70   *       1.151                                          ***                                                                                                     
+   157.119.185.211 58717   1.461                           (Dhaka, C, BD, AS) *                                                                                                   
+╭─ 103.199.87.12   58717   2.103                         (None, None, BD, AS) *                                                                                                   
+S (58717)  seamewe-5 ✓ || seamewe-4 ✓
+╰─ 157.119.185.76  58717   45.122              (Singapore, Singapore, SG, AS) 157.119.185.76.summitiig.net                                                                        
+╭─ 27.111.230.150  *       45.413              (Singapore, Singapore, SG, AS) 37468-sg1-ix.equinix.com                                                                            
+LHL (, 37468)  seamewe-4 ✘ ↠ seacomtata-tgn-eurasia ✘ || seamewe-3 ✘ ↠ seacomtata-tgn-eurasia ✘ || seamewe-5 ✘ ↠ seacomtata-tgn-eurasia ✘ || peace-cable ✘ ↠ seacomtata-tgn-eurasia ✘
+├─ 102.219.127.7   37468   189.081            (Johannesburg, Gauteng, ZA, AF)                                                                                                     
+S&T (37468)  
+├─ 102.130.68.112  37468   204.514                       (None, None, AO, AF) *                                                                                                   
+S (37468)  
+╰─ 102.130.68.69   37468   316.986                   (Lisbon, Lisbon, PT, EU)                                                                                                     
+   185.148.112.152 37468   316.448                   (Lisbon, Lisbon, PT, EU) 152.112.148.185.angolacables.ao                                                                     

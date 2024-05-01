@@ -1,0 +1,18 @@
+   92.38.135.131   202422  0.0                         (Seoul, Seoul, KR, AS)                                                                                                     
+   92.38.135.3     202422  0.341                       (Seoul, Seoul, KR, AS) vrrp.gcore.lu                                                                                       
+   10.255.17.210   *       0.52                                           ***                                                                                                     
+   10.255.17.213   *       0.675                                          ***                                                                                                     
+   10.255.17.147   *       0.502                                          ***                                                                                                     
+╭─ 113.29.52.41    3549    1.05                        (Seoul, Seoul, KR, AS)                                                                                                     
+S (3549, 3356)  apcn-2 ✘ || asia-pacific-gateway-apg ✘ || flag-north-asia-loopreach-north-asia-loop ✘ || eac-c2c ✘ || new-cross-pacific-ncp-cable-system ✘ || korea-japan-cable-network-kjcn ✘ || seamewe-3 ✘ || flag-europe-asia-fea ✘ || trans-pacific-express-tpe-cable-system ✘
+╰─ 4.69.217.14     3356    31.916                         (Tokyo, 13, JP, AS) ae1.3505.edge2.Tokyo4.level3.net                                                                    
+   4.68.70.86      3491    31.476                         (Tokyo, 13, JP, AS) PCCW-level3-Tokyo4.Level3.net                                                                       
+╭─ 63.218.250.145  3491    31.339                         (Tokyo, 13, JP, AS) TenGE0-3-0-5.br02.tok02.pccwbtn.net                                                                 
+S (3491, 46997)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 141.193.21.2    46997   31.007                        (None, None, US, NA) tky01.jp.nat.moe                                                                                    
+   141.193.21.6    46997   142.101              (Seattle, Washington, US, NA) sea01.us.nat.moe                                                                                    
+   141.193.21.100  46997   142.346              (Seattle, Washington, US, NA) us-sea-as46997.anchors.atlas.ripe.net                                                               

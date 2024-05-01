@@ -1,0 +1,15 @@
+   91.213.39.29    49558   0.0          (Yaroslavl, Yaroslavl Oblast, RU, EU) atlas.livecomm.net                                                                                  
+   91.213.39.1     49558   0.739        (Yaroslavl, Yaroslavl Oblast, RU, EU) pobed16b-cr-bvi10.livecomm.net                                                                      
+   91.228.64.254   49558   1.07         (Yaroslavl, Yaroslavl Oblast, RU, EU) core-as.livecomm.net                                                                                
+╭─ 188.43.200.218  20485   1.013                         (None, None, RU, EU) ysl06rb.transtelecom.net                                                                            
+LHL (20485)  
+├─ 62.140.26.150   20485   46.36              (Frankfurt am Main, HE, DE, EU) *                                                                                                   
+T (20485, 3356)  
+├─ 62.140.26.149   3356    45.105                        (None, None, GB, EU) *                                                                                                   
+S (3356)  
+├─ 4.69.134.42     3356    305.647                       (None, None, US, NA) *                                                                                                   
+S (3356, 199524)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 45.80.212.35    199524  307.575                     (Seoul, Seoul, KR, AS) vrrp.gcore.com                                                                                      
+   92.38.135.131   202422  317.297                     (Seoul, Seoul, KR, AS)                                                                                                     

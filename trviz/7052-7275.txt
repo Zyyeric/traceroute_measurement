@@ -1,0 +1,18 @@
+   180.211.88.22   45725   0.0                     (Jakarta, Jakarta, ID, AS) id-jkt-as45725.anchors.atlas.ripe.net                                                               
+   180.211.88.21   45725   0.491                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+╭─ 43.230.153.89   *       0.371                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+S (, 6939)  indonesia-global-gateway-igg-system ✘ ↠ sea-us ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├  10.110.1.0      *       12.678                                         ***                                                                                                     
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.195.1   6939    187.991                  (Los Angeles, CA, US, NA) 100ge16-1.core1.lax2.he.net                                                                         
+   72.52.92.121    6939    186.419                  (Los Angeles, CA, US, NA) port-channel14.core2.lax1.he.net                                                                    
+   198.32.251.85   2152    186.154                       (None, None, US, NA) *                                                                                                   
+   137.164.11.87   2152    191.268                    (Riverside, CA, US, NA) dc-riv-agg8--lax-agg10-300g.cenic.net                                                               
+   137.164.11.91   3292    194.879                     (Tri-City, OR, US, NA) dc-tri-agg2--riv-agg8-300g.cenic.net                                                                
+   137.164.46.7    2152    199.098                     (Tri-City, OR, US, NA) cor-agg8--tri-agg2--100ge.cenic.net                                                                 
+   137.164.50.243  2152    200.914                       (Corona, CA, US, NA) sha-coe-1--cor-agg8-10g.cenic.net                                                                   
+   137.164.34.84   2152    200.094                      (Shafter, CA, US, NA) sha-coe-2---to--sha-coe-1--10ge.cenic.net                                                           
+   137.164.13.11   23483   200.403                      (Shafter, CA, US, NA) shacoe-gw2--sha-coe-2-10g.cenic.net                                                                 
+   66.244.16.33    23483   200.248              (Redding, California, US, NA) us-rdd-as23483.anchors.atlas.ripe.net                                                               

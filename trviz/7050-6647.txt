@@ -1,0 +1,29 @@
+   5.62.127.14     199610  0.0                      (London, England, GB, EU)                                                                                                     
+╭─ 5.62.127.1      199610  0.521                    (London, England, GB, EU)                                                                                                     
+T (199610)  
+├─ 46.251.228.201  199610  1.94        (Köln, North Rhine-Westphalia, DE, EU)                                                                                                     
+T (199610, 60171)  
+├  169.254.0.82    *       1.939                                          ***                                                                                                     
+╰─ 195.66.226.123  60171   8.538                      (London, ENG, GB, None) *                                                                                                   
+   185.10.164.69   60171   353.343                      (London, ENG, GB, EU) *                                                                                                   
+╭─ 185.10.164.65   60171   353.323                      (London, ENG, GB, EU) *                                                                                                   
+S&T (60171)  
+├─ 185.10.164.75   60171   353.856             (Paris, Île-de-France, FR, EU)                                                                                                     
+S&T (60171)  
+├─ 102.220.219.74  60171   355.671            (Johannesburg, Gauteng, ZA, AF)                                                                                                     
+T (60171)  
+╰─ 185.10.164.113  60171   353.901                      (London, ENG, GB, EU) *                                                                                                   
+╭─ 185.10.164.135  60171   351.384                      (London, ENG, GB, EU) *                                                                                                   
+S&T (60171)  
+├─ 185.10.164.32   60171   351.058             (Paris, Île-de-France, FR, EU)                                                                                                     
+S (60171)  
+├─ 102.223.52.73   60171   353.333                     (Lagos, Lagos, NG, AF)                                                                                                     
+S&T (60171)  
+├─ 185.10.164.45   60171   350.661                      (London, ENG, GB, EU) *                                                                                                   
+S&T (60171)  
+├─ 102.219.44.43   60171   353.608                     (Lagos, Lagos, NG, AF)                                                                                                     
+S&T (60171, 328913)  
+╰─ 196.49.84.51    328913  353.673                 (Abidjan, Abidjan, CI, AF) bdr3.std.douala-ix.net                                                                              
+╭─ 196.49.84.36    328913  353.617                 (Abidjan, Abidjan, CI, AF) gw1.std.douala-ix.net                                                                               
+S&T (328913)  
+╰─ 196.49.84.188   328913  351.622                 (Douala, Littoral, CM, AF) cm-dla-as328913.anchors.atlas.ripe.net                                                              

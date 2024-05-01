@@ -1,0 +1,10 @@
+   192.102.254.220 395152  0.0          (Vancouver, British Columbia, CA, NA)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 65.49.79.249    6939    1.425        (Vancouver, British Columbia, CA, NA) e0-12.switch3.yvr2.he.net                                                                           
+LHL (6939)  
+├─ 184.104.195.13  6939    1.171              (Frankfurt am Main, HE, DE, EU) 100ge4-2.core1.fra1.he.net                                                                          
+LHL (6939)  
+╰─ 184.104.196.221 6939    4.123                        (Seattle, WA, US, NA) port-channel3.core2.sea1.he.net                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   216.218.135.206 396507  3.792                        (Seattle, WA, US, NA) emerald-onion.e0-10.switch1.sea2.he.net                                                             
+   23.129.64.254   396507  4.09                 (Seattle, Washington, US, NA)                                                                                                     

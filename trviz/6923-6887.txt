@@ -1,0 +1,14 @@
+   27.111.84.21    135132  0.0           (Cebu City, Central Visayas, PH, AS) ph-ceb-as135132.anchors.atlas.ripe.net                                                              
+   27.111.84.20    135132  1.248             (Baugo, Central Visayas, PH, AS) vlan509.core.ceb02.ds.network                                                                       
+   192.168.159.142 *       20.645                                         ***                                                                                                     
+   192.168.159.152 *       0.601                                          ***                                                                                                     
+   192.168.159.168 *       15.681                                         ***                                                                                                     
+   192.168.159.165 *       2.251                                          ***                                                                                                     
+╭─ 43.224.189.33   137074  3.056             (Baugo, Central Visayas, PH, AS) 43-224-189-33.static.rise.as                                                                        
+S (137074, 140627)  
+├  10.255.64.28    *       29.221                                         ***                                                                                                     
+├─ 103.247.139.67  140627  28.601                        (None, None, HK, AS) *                                                                                                   
+S (140627)  
+├─ 103.151.64.206  140627  71.165                        (None, None, AU, OC) *                                                                                                   
+S (140627)  
+╰─ 103.151.64.31   140627  70.011                  (Hagåtña, Hagatna, GU, OC) atlas.guam.as140627.net                                                                             

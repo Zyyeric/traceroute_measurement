@@ -1,0 +1,13 @@
+   103.253.132.25  59238   0.0                     (Bangkok, Bangkok, TH, AS) th-bkk-as59238.anchors.atlas.ripe.net                                                               
+   103.253.132.1   59238   0.303                (Khlong San, Bangkok, TH, AS) gw-cat.idc.inox.co.th                                                                               
+   172.24.132.24   *       0.273                                          ***                                                                                                     
+   172.21.21.2     *       0.446                                          ***                                                                                                     
+╭─ 122.155.224.73  4651    0.405 (6.243)           (Khlong San, Bangkok, TH, AS)                                                                                                     
+S (4651)  flag-europe-asia-fea ✘ || seamewe-3 ✓
+├─ 61.19.9.114     4651    212.176                  (London, England, GB, EU)                                                                                                     
+T (4651, 12779)  
+├─ 80.81.194.186   12779   220.026            (Frankfurt am Main, HE, DE, EU) de-cix.FRA.itgate.net                                                                               
+T (12779)  
+╰─ 213.254.30.222  12779   230.288                       (Torino, 21, IT, EU) be20.Scooby-Monster.core.TRN.itgate.net                                                             
+   213.254.30.223  12779   869.237                       (Torino, 21, IT, EU) po1.nx01.colo.trn1.itgate.net                                                                       
+   213.212.129.68  12779   229.975                  (Turin, Piedmont, IT, EU) it-trn-as12779.anchors.atlas.ripe.net                                                               

@@ -1,0 +1,15 @@
+   103.242.68.78   133075  0.0                   (Auckland, Auckland, NZ, OC) 103-242-68-78.broadband.telesmart.co.nz                                                             
+   103.242.68.65   133075  0.416                    (Wellington, WGN, NZ, OC) *                                                                                                   
+╭─ 184.104.196.118 6939    1.256                      (Auckland, AUK, NZ, OC) 100ge0-54.core1.akl1.he.net                                                                         
+S (6939)  tasman-global-access-tga-cable ✓ || southern-cross-cable-network-sccn ✓ || hawaiki ✘
+╰─ 184.104.195.149 6939    30.155           (Sydney, New South Wales, AU, OC) 100ge0-79.core1.syd1.he.net                                                                         
+╭─ 184.105.65.223  6939    76.378          (Perth, Western Australia, AU, OC) 100ge0-32.core1.per1.he.net                                                                         
+S (6939)  seamewe-3 ✓ || indigo-west ✓ || australia-singapore-cable-asc ©
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 74.82.49.214    6939    122.085             (Singapore, Singapore, SG, AS) pt-jala-lintas-media.e0-3.switch5.sin1.he.net                                                       
+S&T (6939, 133840)  jasuka ✓ || jakabare ✓ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || b2js-jakarta-bangka-batam-singapore-cable-system ✘
+╰─ 103.66.70.104   133840  133.642                 (Jakarta, Jakarta, ID, AS)                                                                                                     
+   121.100.0.45    38158   129.09                  (Jakarta, Jakarta, ID, AS)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   43.230.153.90   *       134.04                  (Jakarta, Jakarta, ID, AS)                                                                                                     
+   180.211.88.22   45725   134.211                 (Jakarta, Jakarta, ID, AS) id-jkt-as45725.anchors.atlas.ripe.net                                                               

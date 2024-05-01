@@ -1,0 +1,21 @@
+   102.130.49.144  328383  0.0                (Johannesburg, Gauteng, ZA, AF) za-jnb-as57695.anchors.atlas.ripe.net                                                               
+   ***             *       -inf                                           *** *                                                                                                   
+   102.130.49.3    328383  0.381              (Johannesburg, Gauteng, ZA, AF) spine2.v271.jnb01.za.misaka.io                                                                      
+╭─ 102.130.51.6    *       0.402              (Johannesburg, Gauteng, ZA, AF) e54-1-20.cr2a.tdjb1.jnb1.za.917.as                                                                  
+LHL (, 969)  africa-coast-to-europe-ace ✘ ↠ apollo ✘ || africa-coast-to-europe-ace ✘ ↠ flag-atlantic-1-fa-1 ✘
+├─ 199.119.64.250  969     0.452                    (Dover, Delaware, US, NA) po100.cr1a.tdjb1.jnb1.za.917.as                                                                     
+LHL (969, 60068)  apollo ✘ || flag-atlantic-1-fa-1 ✘
+├─ 37.19.193.192   60068   0.391                     (Prague, Prague, CZ, EU) p77-3503.cr1a.tdjb1.jnb1.za.917.as                                                                  
+LHL (60068, 37468)  
+├─ 102.130.70.57   37468   0.547              (Johannesburg, Gauteng, ZA, AF)                                                                                                     
+S&T (37468)  africa-coast-to-europe-ace ✓ ↠ apollo ✘ ↠ apollo ✘ || africa-coast-to-europe-ace ✓ ↠ apollo ✘ ↠ flag-atlantic-1-fa-1 ✘ || africa-coast-to-europe-ace ✓ ↠ flag-atlantic-1-fa-1 ✘ ↠ apollo ✘ || africa-coast-to-europe-ace ✓ ↠ flag-atlantic-1-fa-1 ✘ ↠ flag-atlantic-1-fa-1 ✘
+├─ 102.130.68.112  37468   16.181                        (None, None, AO, AF) *                                                                                                   
+LHL (37468, 24961)  west-africa-cable-system-wacs 👍 || sat-3wasc ✓
+├  100.64.192.13   *       165.248                                        ***                                                                                                     
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 62.141.47.192   24961   233.461                   (Düsseldorf, NW, DE, EU) po15.core2-dus3.bb.as24961.net                                                                      
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 62.141.35.93    24961   261.91    (Düsseldorf, North Rhine-Westphalia, DE, EU)                                                                                                     
+T (24961, 41047)  
+╰─ 87.237.165.29   41047   260.146         (Amsterdam, North Holland, NL, EU)                                                                                                     

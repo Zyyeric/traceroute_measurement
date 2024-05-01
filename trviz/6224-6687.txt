@@ -1,0 +1,24 @@
+   147.84.200.125  39069   0.0                       (Murcia, Murcia, ES, EU)                                                                                                     
+   147.84.200.11   39069   1.125                     (Murcia, Murcia, ES, EU)                                                                                                     
+   10.250.42.181   *       12.941                                         ***                                                                                                     
+   195.10.46.2     1273    12.669                         (Madrid, M, ES, EU) vodafone-es-gw-mal.cw.net                                                                           
+╭─ 195.10.46.1     1273    12.564                    (Madrid, Madrid, ES, EU) ae7-100-xcr1.mal.cw.net                                                                             
+S&T (1273)  
+├─ 195.2.30.85     1273    13.33                         (None, None, GB, EU) ae1-xcr1.max.cw.net                                                                                 
+S (1273, 2914)  
+╰─ 195.2.3.242     2914    13.355                        (None, None, US, NA) ntt-gw1.max.cw.net                                                                                  
+   129.250.2.15    2914    33.139                        (None, None, US, NA) ae-16.r21.parsfr04.fr.bb.gin.ntt.net                                                                
+╭─ 129.250.3.47    2914    29.049                        (None, None, US, NA) ae-0.r20.parsfr04.fr.bb.gin.ntt.net                                                                 
+S (2914)  
+├─ 129.250.3.39    2914    40.67                         (None, None, GB, EU) ae-17.r00.mrslfr01.fr.bb.gin.ntt.net                                                                
+S&T (2914, 30844)  
+╰─ 185.84.18.82    30844   45.721                   (Marseille, None, FR, EU) ntt.teng0-0-0-2.lfr-pe1-mrs.liquidtelecom.net                                                       
+╭─ 5.11.10.93      30844   154.583                  (Marseille, None, FR, EU) xe-0-1-1-0.lfr-pe2-mrs.liquidtelecom.net                                                            
+LHL (30844)  
+╰─ 41.175.212.3    30844   154.635                       (None, None, MU, AF) *                                                                                                   
+╭─ 197.155.94.1    30844   154.25                        (None, None, MU, AF) xe-0-0-3-LTZ-P1-DAR.liquidtelecom.net                                                               
+LHL (30844)  
+├─ 197.155.94.195  30844   154.861                      (Nairobi, 30, KE, AF) xe-0-0-4.ltz-pe1-rah.liquidtelecom.net                                                              
+S&T (30844)  
+╰─ 41.175.46.58    30844   156.198                       (None, None, TZ, AF) *                                                                                                   
+   196.49.5.98     327844  155.407   (Dar es Salaam, Dar es Salaam Region, TZ, AF)                                                                                                     

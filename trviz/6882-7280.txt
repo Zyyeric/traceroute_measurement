@@ -1,0 +1,17 @@
+   185.14.96.232   211186  0.0                (Lamía, Central Greece, GR, EU)                                                                                                     
+   185.14.96.225   211186  0.665              (Lamía, Central Greece, GR, EU) vlan4090.lamia.fast.net.gr                                                                          
+   212.205.28.249  6799    0.674              (Lamía, Central Greece, GR, EU) 249.28.205.212.static.otenet.gr                                                                     
+   79.128.234.128  6799    3.756                    (Maroúsi, Attica, GR, EU)                                                                                                     
+   62.75.3.17      12713   3.703             (Néa Chalkidóna, Attica, GR, EU) kolasr02-hu-0-8-0-0.ath.oteglobe.gr                                                                 
+╭─ 62.75.4.226     *       40.223                    (Athens, Attica, GR, EU)                                                                                                     
+S (, 30844)  mednautilus-submarine-system ✘ ↠ asia-africa-europe-1-aae-1 ✘ || mednautilus-submarine-system ✘ ↠ seamewe-3 ✘
+├─ 80.249.211.45   30844   228.433                  (Marseille, None, FR, EU) ams-ix.teng0-1-0-6.lfr-pe1-mrs.liquidtelecom.net                                                    
+S&T (30844)  seamewe-3 ✓
+╰─ 5.11.12.31      30844   232.542                  (London, England, GB, EU) et-0-0-0.0.lfr-pe2-mrs.liquidtelecom.net                                                            
+╭─ 5.11.9.125      30844   232.671                       (None, None, GB, EU) 5.11.9.125.liquidtelecom.net                                                                        
+LHL (30844)  europe-india-gateway-eig ✓ ↠ peace-cable ✘ || europe-india-gateway-eig ✓ ↠ seacomtata-tgn-eurasia ✓ || seamewe-3 ✓ ↠ peace-cable ✘ || flag-europe-asia-fea ✓ ↠ peace-cable ✘ || seamewe-3 ✓ ↠ seacomtata-tgn-eurasia ✓ || flag-europe-asia-fea ✓ ↠ seacomtata-tgn-eurasia ✓
+╰─ 197.155.94.15   30844   232.359                      (Nairobi, 30, KE, AF) et-0-1-11.lke-p2-msa.liquidtelecom.net                                                              
+   197.155.94.216  30844   232.801                    (Nairobi, None, KE, AF) hu-0-3-0-3.lke-p1-msa.liquidtelecom.net                                                             
+   197.155.94.47   30844   232.404                    (Nairobi, None, KE, AF) xe-0-1-0-0.lke-pe3-nbi.liquidtelecom.net                                                            
+   197.155.93.65   37578   199.641                      (Nairobi, 30, KE, AF) 197.155.93.65.liquidtelecom.net                                                                     
+   196.6.220.42    37578   199.824          (Nairobi, Nairobi County, KE, AF)                                                                                                     

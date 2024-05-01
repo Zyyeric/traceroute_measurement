@@ -1,0 +1,23 @@
+   143.129.80.132  2611    0.0                  (Antwerpen, Flanders, BE, EU)                                                                                                     
+   143.129.80.130  2611    0.386                  (Berchem, Flanders, BE, EU)                                                                                                     
+   143.129.67.252  2611    1.374                  (Berchem, Flanders, BE, EU)                                                                                                     
+   192.168.141.40  *       1.807                                          ***                                                                                                     
+   192.168.148.101 *       2.21                                           ***                                                                                                     
+   193.191.18.9    2611    2.804                  (Berchem, Flanders, BE, EU) r1.antwil.belnet.net                                                                                
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 83.97.89.221    21320   3.816                    (Wavre, Wallonia, BE, EU) belnet-ias-geant-gw.mx1.lon.uk.geant.net                                                            
+T (21320, 20965)  
+├─ 62.40.98.192    20965   12.969             (Frankfurt am Main, HE, DE, EU) ae8.mx1.fra.de.geant.net                                                                            
+T (20965)  
+├─ 62.40.98.80     20965   13.027                      (Geneva, None, CH, EU) ae6.mx1.gen.ch.geant.net                                                                            
+LHL (20965)  
+├─ 62.40.98.6      20965   13.242          (Amsterdam, North Holland, NL, EU) ae0.0_rt1.ams.nl.geant.net                                                                          
+S&T (20965)  
+├─ 62.40.98.23     20965   11.522                   (London, England, GB, EU) ae4.mx1.lon.uk.geant.net                                                                            
+S (20965, 1221)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 203.41.0.254    1221    371.76          (Perth, Western Australia, AU, OC) atlas-per.telstra.net                                                                               

@@ -1,0 +1,30 @@
+   197.239.73.59   37577   0.0                  (Ouagadougou, Centre, BF, AF)                                                                                                     
+   197.239.73.57   37577   0.319                (Ouagadougou, Centre, BF, AF)                                                                                                     
+   165.16.221.42   37721   0.44                          (None, None, BF, AF) *                                                                                                   
+   165.16.221.41   37721   1.004                         (None, None, BF, AF) *                                                                                                   
+   102.67.97.145   37721   1.018                (Ouagadougou, Centre, BF, AF) ce5-255.bb1.oua1.vts.bf                                                                             
+╭─ 102.67.96.39    37721   0.923 (2.984)           (Ouagadougou, Centre, BF, AF)                                                                                                     
+LHL (37721)  africa-coast-to-europe-ace ✓
+├─ 102.67.96.46    37721   16.617                       (Paris, None, FR, EU) xe-0-0-1-2022.bb2.prs1.vts.bf                                                                       
+LHL (37721)  
+├─ 102.67.97.97    37721   24.536               (Ouagadougou, Centre, BF, AF) po51-2055.bb1.los1.vts.bf                                                                           
+LHL (37721)  
+├─ 102.67.97.204   37721   25.206                      (Lagos, Lagos, NG, AF) ce3-2017.bb1.los2.vts.bf                                                                            
+LHL (37721)  
+├─ 102.67.97.79    37721   24.979               (Ouagadougou, Centre, BF, AF)                                                                                                     
+LHL (37721, 6939)  
+├─ 216.66.89.4     6939    27.92                       (Lagos, Lagos, NG, AF) e0-7.core1.los1.he.net                                                                              
+S&T (6939)  
+├─ 184.104.188.93  6939    81.222           (Cape Town, Western Cape, ZA, AF) 10ge0-24.core1.cpt1.he.net                                                                          
+S&T (6939)  
+├─ 184.104.188.209 6939    193.167                   (Lisbon, Lisbon, PT, EU) 100ge0-79.core1.lis1.he.net                                                                         
+S&T (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.80.13   6939    221.584                        (Milan, 25, IT, EU) 100ge7-2.core1.mil2.he.net                                                                          
+   185.1.114.99    *       221.385                      (Rome, Lazio, IT, EU) irideos.minap.it                                                                                    
+   37.32.107.27    *       229.273                  (Milan, Lombardy, IT, EU)                                                                                                     
+   62.196.8.238    5602    229.324               (Vigolo Vattaro, 32, IT, EU) *                                                                                                   
+   109.168.0.173   5602    229.962                         (Lodi, 25, IT, EU) cr2-tenge0-0-0-0-cal2.mil.kpnqwest.it                                                               
+   109.168.0.14    5602    229.011                         (Lodi, 25, IT, EU) cr2-hunge0-0-1-1-cal4.mil.kpnqwest.it                                                               
+   94.141.0.142    5602    231.78                          (Rome, 62, IT, EU) cs2-xe-1-1-0-0-cal4.mil.kpnqwest.it                                                                 
+   109.168.125.243 5602    229.299                  (Milan, Lombardy, IT, EU) 243.125.168.109.host.static.ip.kpnqwest.it                                                          

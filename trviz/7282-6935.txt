@@ -1,0 +1,20 @@
+   102.130.49.144  328383  0.0                (Johannesburg, Gauteng, ZA, AF) za-jnb-as57695.anchors.atlas.ripe.net                                                               
+   ***             *       -inf                                           *** *                                                                                                   
+   102.130.49.3    328383  0.259              (Johannesburg, Gauteng, ZA, AF) spine2.v271.jnb01.za.misaka.io                                                                      
+╭─ 102.130.51.2    *       0.286              (Johannesburg, Gauteng, ZA, AF) e54-1-10.cr1a.tdjb1.jnb1.za.917.as                                                                  
+LHL (, 60068)  africa-coast-to-europe-ace ✘
+├─ 37.19.193.192   60068   0.264                     (Prague, Prague, CZ, EU) p77-3503.cr1a.tdjb1.jnb1.za.917.as                                                                  
+LHL (60068, 37468)  
+├─ 102.130.70.57   37468   0.716              (Johannesburg, Gauteng, ZA, AF)                                                                                                     
+S&T (37468)  africa-coast-to-europe-ace ✓
+╰─ 102.130.68.112  37468   15.822                        (None, None, AO, AF) *                                                                                                   
+   100.64.192.13   *       165.569                                        ***                                                                                                     
+╭─ 185.148.112.189 37468   181.319                       (None, None, AO, AF) *                                                                                                   
+LHL (37468, 8218)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 83.167.55.212   8218    182.013    (Montpellier/Mediterranee, OCC, FR, EU) ae2.ter1.neodc.mpl.core.as8218.eu                                                                   
+   83.167.55.235   8218    181.519    (Montpellier/Mediterranee, OCC, FR, EU) ae4.ter2.neodc.mpl.core.as8218.eu                                                                   
+   83.167.56.247   8218    184.99             (Toulouse/Blagnac, OCC, FR, EU) ae3.tcr2.bal.tls.core.as8218.eu                                                                     
+   213.152.16.90   15826   185.406            (Toulouse/Blagnac, OCC, FR, EU) nfrance-gw2.tcr2.bal.tls.cust.as8218.eu                                                             
+   ***             *       -inf                                           *** *                                                                                                   
+   80.247.237.225  15826   186.205   (Ramonville-Saint-Agne, Occitanie, FR, EU) ancre-atlas.nfrance.com                                                                             

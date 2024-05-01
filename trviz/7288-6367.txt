@@ -1,0 +1,19 @@
+   152.195.112.52  15133   0.0                         (Tokyo, Tokyo, JP, AS)                                                                                                     
+╭─ 152.195.112.49  15133   0.891                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+S (15133, 174)  apcn-2 ✓ || korea-japan-cable-network-kjcn ✓ || eac-c2c ✓ || asia-pacific-gateway-apg ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 154.54.89.198   174     61.504                      (Seoul, Seoul, KR, AS) be3010.ccr71.sel01.atlas.cogentco.com                                                               
+╭─ 154.54.93.182   174     61.517                      (Seoul, Seoul, KR, AS) be4409.ccr72.sel01.atlas.cogentco.com                                                               
+S (174)  
+├─ 154.54.30.206   174     61.402                   (Hong Kong, None, HK, AS) be2223.ccr21.hkg02.atlas.cogentco.com                                                               
+S (174)  
+╰─ 154.54.87.225   174     90.672                      (Singapore, 4, SG, AS) be2923.ccr31.sin01.atlas.cogentco.com                                                               
+   154.18.3.250    7713    89.666                      (Singapore, 4, SG, AS) *                                                                                                   
+   180.240.204.9   7713    85.83               (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 180.240.204.9   7713    85.83               (Singapore, Singapore, SG, AS)                                                                                                     
+S&T (7713)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 36.64.254.21    7713    107.532       (Gubengairlangga, East Java, ID, AS)                                                                                                     
+   36.64.254.22    7713    103.455                   (Denpasar, Bali, ID, AS)                                                                                                     
+   103.215.228.2   140443  103.444              (Surabaya, East Java, ID, AS) 2.228.215.103.in-addr.herza.id                                                                      
+   103.215.229.229 140443  103.499              (Surabaya, East Java, ID, AS) 229.229.215.103.in-addr.herza.id                                                                    

@@ -1,0 +1,24 @@
+   150.164.1.222   271354  0.0         (Belo Horizonte, Minas Gerais, BR, SA) ripeatlas-anchor.dcc.ufmg.br                                                                        
+   150.164.1.193   271354  0.442       (Belo Horizonte, Minas Gerais, BR, SA) chronos-labexternos.dcc.ufmg.br                                                                     
+   150.164.1.129   271354  0.769       (Belo Horizonte, Minas Gerais, BR, SA) dccbdr.dcc.ufmg.br                                                                                  
+   150.164.164.1   271354  0.716       (Belo Horizonte, Minas Gerais, BR, SA) isolado-gw-dcc.rede.ufmg.br                                                                         
+   150.164.164.132 271354  0.734       (Belo Horizonte, Minas Gerais, BR, SA)                                                                                                     
+   150.164.164.42  271354  0.692       (Belo Horizonte, Minas Gerais, BR, SA)                                                                                                     
+   200.19.158.0    1916    0.627       (Belo Horizonte, Minas Gerais, BR, SA) ufmg-20g-1-gw.pop-mg.rnp.br                                                                         
+   200.131.0.142   1916    0.604       (Belo Horizonte, Minas Gerais, BR, SA) ptp-almeirao-tropeiro.pop-mg.rnp.br                                                                 
+   200.143.255.173 1916    0.873       (Belo Horizonte, Minas Gerais, BR, SA) cmg2-lanmg2.bkb.rnp.br                                                                              
+   170.79.213.134  *       1.673       (Belo Horizonte, Minas Gerais, BR, SA)                                                                                                     
+╭─ 170.79.213.153  *       43.119      (Belo Horizonte, Minas Gerais, BR, SA) csp2-cmg1-infobarra.bkb.rnp.br                                                                      
+S (, 6939)  
+├─ 64.191.232.76   6939    92.741                        (None, None, US, NA) *                                                                                                   
+LHL (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.190.62  6939    231.149             (Stockholm, Stockholm, SE, EU) rascom-as-as20764.e0-57.core3.sto1.he.net                                                           
+S&T (6939, 20764)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 81.27.251.65    20764   273.766                (Helsinki, Uusimaa, FI, EU) tbs-cl9-cr1.lt-0-0-0-0.rascom.as20764.net                                                           
+LHL (20764, 198150)  
+╰─ 46.8.37.34      198150  273.604                 (Tbilisi, Tbilisi, GE, AS) ge-tbs-as198150.anchors.atlas.ripe.net                                                              

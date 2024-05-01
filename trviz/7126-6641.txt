@@ -1,0 +1,14 @@
+   92.38.135.131   202422  0.0                         (Seoul, Seoul, KR, AS)                                                                                                     
+   92.38.135.2     202422  0.603                       (Seoul, Seoul, KR, AS) vrrp.gcore.lu                                                                                       
+   10.255.17.209   *       0.963                                          ***                                                                                                     
+   10.255.17.213   *       1.014                                          ***                                                                                                     
+   10.255.17.146   *       1.129                                          ***                                                                                                     
+╭─ 192.145.251.44  14828   36.964                      (Seoul, Seoul, KR, AS)                                                                                                     
+S (14828, 45796)  asia-pacific-gateway-apg ✘ || flag-europe-asia-fea ✘ || seamewe-3 ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 1.9.244.146     45796   97.302                         (Klang, 10, MY, AS) *                                                                                                   
+S&T (45796)  
+╰─ 115.31.164.31   45796   98.511                        (None, None, TH, AS) *                                                                                                   
+   115.31.164.203  137566  99.402                        (None, None, TH, AS) *                                                                                                   
+   103.113.176.2   137566  99.071                        (None, None, TH, AS) *                                                                                                   
+   103.113.176.82  137566  112.168       (Ban Talat Bueng, Chon Buri, TH, AS)                                                                                                     

@@ -1,0 +1,23 @@
+   196.49.14.25    30997   0.0                 (Accra, Greater Accra, GH, AF)                                                                                                     
+   196.49.14.1     30997   0.341               (Accra, Greater Accra, GH, AF)                                                                                                     
+╭─ 197.221.70.89   *       0.91                (Accra, Greater Accra, GH, AF)                                                                                                     
+S&T (, 3741)  
+╰─ 196.14.240.4    3741    0.939                         (None, None, ZA, AF) *                                                                                                   
+╭─ 168.209.160.109 3741    255.923                       (None, None, ZA, AF) *                                                                                                   
+T (3741)  
+├─ 168.209.160.108 3741    257.16                   (London, England, GB, EU)                                                                                                     
+T (3741)  
+├─ 168.209.246.1   3741    257.539                       (None, None, ZA, AF) core1b-dock-be-1.ip.ddii.network                                                                    
+T (3741, 2914)  
+├─ 83.231.199.233  2914    255.435                       (None, None, GB, EU) xe-1-3.r00.londen03.uk.bb.gin.ntt.net                                                               
+S (2914)  
+├─ 129.250.3.248   2914    255.586                       (None, None, US, NA) ae-14.r20.londen12.uk.bb.gin.ntt.net                                                                
+S (2914)  
+╰─ 129.250.4.141   2914    255.247                       (None, None, GB, EU) ae-1.r04.londen05.uk.bb.gin.ntt.net                                                                 
+   77.67.98.53     3257    192.401                      (London, ENG, GB, EU) ae15.cr11-lon2.ip4.gtt.net                                                                          
+╭─ 89.149.139.25   3257    192.271                      (London, ENG, GB, EU) ae22.cr11-lon1.ip4.gtt.net                                                                          
+S&T (3257, 8895)  
+├─ 154.14.64.198   8895    344.178                    (Amsterdam, NH, NL, EU) ip4.gtt.net                                                                                         
+LHL (8895, 208520)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 45.94.14.204    208520  344.138            (Riyadh, Riyadh Region, SA, AS)                                                                                                     

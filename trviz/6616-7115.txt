@@ -1,0 +1,11 @@
+   123.176.1.4     7642    0.0                    (Male, Kaafu Atoll, MV, AS)                                                                                                     
+╭─ 123.176.1.2     7642    0.619                  (Male, Kaafu Atoll, MV, AS)                                                                                                     
+S (7642)  
+├─ 202.1.205.241   7642    0.879                       (Singapore, 4, SG, AS) xe-1-0-0-0.rt.dhivehinet.net.mv                                                                     
+S (7642, 6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.64.198  6939    122.041                        (Dubai, DU, AE, AS) 10ge4-11.core1.dxb1.he.net                                                                          
+╭─ 185.1.8.35      47794   132.229                       (Dubai, 3, AE, None) atheeb.net                                                                                          
+S&T (47794)  
+╰─ 94.77.210.70    47794   132.267                        (Jeddah, 2, SA, AS) *                                                                                                   
+   94.77.252.90    47794   132.214            (Riyadh, Riyadh Region, SA, AS) 94-77-252-90.static.go.com.sa                                                                       

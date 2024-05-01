@@ -1,0 +1,20 @@
+   102.222.106.178 328699  0.0               (Port Louis, Port Louis, MU, AF)                                                                                                     
+   102.222.106.1   328699  0.241             (Ebene, Plaines Wilhems, MU, AF)                                                                                                     
+╭─ 196.46.49.33    36868   0.326             (Ebene, Plaines Wilhems, MU, AF)                                                                                                     
+S (36868, 6939)  meltingpot-indianoceanic-submarine-system-metiss ✘ || safe ✓
+╰─ 196.46.34.109   6939    43.995                  (Johannesburg, GT, ZA, AF) *                                                                                                   
+   105.22.34.173   37100   44.054             (Johannesburg, Gauteng, ZA, AF) ce-0-1-5-91.er-01-jnb.za.seacomnet.com                                                              
+╭─ 105.16.28.1     37100   192.98                  (Johannesburg, GT, ZA, AF) ce-0-2-0-0.cr-01-jnb.za.seacomnet.com                                                               
+T (37100)  
+├─ 105.16.11.78    37100   201.916                      (London, ENG, GB, EU) xe-0-0-66-1.cr-01-lhr.uk.seacomnet.com                                                              
+T (37100)  
+├─ 105.16.9.202    37100   194.566                    (Empangeni, NL, ZA, AF) xe-0-0-30-0.cr-02-emg.za.seacomnet.com                                                              
+S (37100)  
+╰─ 105.16.33.253   37100   194.564                   (Marseille, PAC, FR, EU) xe-0-0-1-0.br-02-mrs.fr.seacomnet.com                                                               
+╭─ 213.144.184.130 6762    194.28    (Marseille, Provence-Alpes-Côte d'Azur, FR, EU)                                                                                                     
+S&T (6762)  
+╰─ 195.22.192.83   6762    208.856                        (Milan, 25, IT, EU) ae26.milano81.mil.seabone.net                                                                       
+   195.22.196.121  201333  201.321                        (Milan, 25, IT, EU) naquadria.milano81.mil.seabone.net                                                                  
+   185.78.48.22    201333  211.268                  (Milan, Lombardy, IT, EU) ens1f4-920-r02.pia1.naquadria.net                                                                   
+   185.78.48.244   201333  209.569                    (Parabiago, 25, IT, EU) lf01b5-vlan910.pia1.naquadria.net                                                                   
+   185.78.49.100   201333  204.073         (Piacenza, Emilia-Romagna, IT, EU) it-pcz-as201333.anchors.atlas.ripe.net                                                              

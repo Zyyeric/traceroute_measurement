@@ -1,0 +1,27 @@
+   203.41.0.51     1221    0.0                  (Melbourne, Victoria, AU, OC)                                                                                                     
+   203.41.0.49     1221    0.161                (Melbourne, Victoria, AU, OC)                                                                                                     
+   203.48.8.50     1221    0.198                (Melbourne, Victoria, AU, OC) tel4239905.lnk.telstra.net                                                                          
+   203.48.8.49     1221    1.921                (Melbourne, Victoria, AU, OC) bundle-ether803-206.lon-edge903.melbourne.telstra.net                                               
+   203.50.11.198   1221    1.576                     (Melbourne, VIC, AU, OC) bundle-ether13.exi-core10.melbourne.telstra.net                                                     
+   203.50.13.124   1221    2.301                (Melbourne, Victoria, AU, OC) bundle-ether2.cla-core30.melbourne.telstra.net                                                      
+   203.50.13.132   1221    12.916           (Sydney, New South Wales, AU, OC) bundle-ether3.hay-core30.sydney.telstra.net                                                         
+╭─ 203.50.6.104    1221    16.749           (Sydney, New South Wales, AU, OC) bundle-ether3.oxf-gw30.sydney.telstra.net                                                           
+S (1221, 4637)  
+╰─ 203.50.13.94    4637    150.727                       (None, None, HK, AS) *                                                                                                   
+╭─ 203.50.13.94    4637    150.727                       (None, None, HK, AS) *                                                                                                   
+S (4637)  
+╰─ 202.84.141.225  4637    188.155          (Los Angeles, California, US, NA) i-10604.1wlt-core02.telstraglobal.net                                                               
+   202.84.141.225  4637    188.155          (Los Angeles, California, US, NA) i-10604.1wlt-core02.telstraglobal.net                                                               
+   202.84.143.30   4637    187.072          (Los Angeles, California, US, NA) i-95.eqla02.telstraglobal.net                                                                       
+   63.218.51.149   3491    186.882          (Los Angeles, California, US, NA) 63-218-51-149.static.pccwglobal.net                                                                 
+╭─ 63.223.60.158   3491    193.857             (San Jose, California, US, NA) hu0-0-0-13.br06.sjo01.as3491.net                                                                    
+S (3491, 396998)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 23.183.246.250  396998  207.711             (Singapore, Singapore, SG, AS)                                                                                                     
+S&T (396998, 140443)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 103.160.63.222  140443  221.047                 (Jakarta, Jakarta, ID, AS) 222.63.160.103.in-addr.herza.id                                                                     

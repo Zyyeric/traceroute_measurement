@@ -1,0 +1,19 @@
+   27.111.84.21    135132  0.0           (Cebu City, Central Visayas, PH, AS) ph-ceb-as135132.anchors.atlas.ripe.net                                                              
+   27.111.84.20    135132  1.229             (Baugo, Central Visayas, PH, AS) vlan509.core.ceb02.ds.network                                                                       
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   192.168.159.165 *       1.572                                          ***                                                                                                     
+   43.224.189.33   137074  1.764             (Baugo, Central Visayas, PH, AS) 43-224-189-33.static.rise.as                                                                        
+╭─ 103.44.232.39   63927   40.938                      (Cebu City, 7, PH, AS) 103-44-232-39.static.rise.as                                                                        
+LHL (63927, 6453)  national-digital-transmission-network-ndtn ✘ ↠ seamewe-3 ✓
+├─ 80.81.193.10    6453    192.172            (Frankfurt am Main, HE, DE, EU) ipv4.de-cix.fra.de.as35280.volterra.io                                                              
+LHL (6453, 55002)  flag-atlantic-1-fa-1 ✓
+├  100.99.0.15     *       200.067                                        ***                                                                                                     
+├  100.99.0.0      *       199.341                                        ***                                                                                                     
+├  100.99.0.36     *       248.361                                        ***                                                                                                     
+├  100.99.0.25     *       249.477                                        ***                                                                                                     
+├  100.99.1.38     *       266.947                                        ***                                                                                                     
+├  100.99.1.58     *       263.31                                         ***                                                                                                     
+├  100.100.1.17    *       253.773                                        ***                                                                                                     
+╰─ 107.162.217.5   55002   262.476             (San Jose, California, US, NA)                                                                                                     

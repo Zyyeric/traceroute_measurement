@@ -1,0 +1,36 @@
+   216.48.178.84   132420  0.0                 (Noida, Uttar Pradesh, IN, AS) e2e-95-84.ssdcloudindia.net                                                                         
+   ***             *       -inf                                           *** *                                                                                                   
+   180.179.210.65  17439   0.683                   (Pitampura, Delhi, IN, AS) 180-179-210-65.static.e2enetworks.in                                                                
+   180.179.197.209 17439   1.488                       (Delhi, Delhi, IN, AS)                                                                                                     
+   14.141.116.105  4755    1.689                       (Delhi, Delhi, IN, AS) 14.141.116.105.static-delhi.vsnl.net.in                                                             
+   ***             *       -inf                                           *** *                                                                                                   
+   180.87.36.9     6453    38.555                       (Chennai, TN, IN, AS) ix-ae-4-2.tcore1.cxr-chennai.as6453.net                                                             
+   180.87.36.6     6453    69.949                       (Chennai, TN, IN, AS) if-ae-3-3.tcore2.cxr-chennai.as6453.net                                                             
+╭─ 180.87.37.114   6453    74.583               (Chennai, Tamil Nadu, IN, AS) if-bundle-22-2.qcore2.cxr-chennai.as6453.net                                                        
+S&T (6453)  
+╰─ 180.87.15.208   6453    72.055              (Singapore, Singapore, SG, AS) if-ae-18-2.tcore2.svw-singapore.as6453.net                                                          
+   ***             *       -inf                                           *** *                                                                                                   
+   63.243.180.65   6453    72.363              (Singapore, Singapore, SG, AS) if-bundle-19-2.qcore1.esin4-singapore.as6453.net                                                    
+╭─ 63.217.24.61    3491    73.051                      (Singapore, 4, SG, AS) *                                                                                                   
+S (3491)  
+╰─ 63.218.192.166  3491    189.706                       (Paris, IDF, FR, EU) TenGE0-1-0-13.br02.par04.pccwbtn.net                                                                
+╭─ 63.222.114.19   3491    188.721             (Paris, Île-de-France, FR, EU)                                                                                                     
+S&T (3491, 60171)  
+╰─ 185.35.142.60   60171   453.263             (Barcelona, Catalonia, ES, EU)                                                                                                     
+╭─ 185.10.164.99   60171   457.487             (Barcelona, Catalonia, ES, EU)                                                                                                     
+S&T (60171)  
+╰─ 185.10.164.113  60171   453.291                      (London, ENG, GB, EU) *                                                                                                   
+╭─ 185.10.164.135  60171   456.936                      (London, ENG, GB, EU) *                                                                                                   
+S&T (60171)  
+├─ 185.10.164.32   60171   456.352             (Paris, Île-de-France, FR, EU)                                                                                                     
+S (60171)  
+├─ 102.223.52.73   60171   452.405                     (Lagos, Lagos, NG, AF)                                                                                                     
+S&T (60171)  
+├─ 185.10.164.45   60171   455.246                      (London, ENG, GB, EU) *                                                                                                   
+S&T (60171)  
+├─ 102.219.44.43   60171   449.401                     (Lagos, Lagos, NG, AF)                                                                                                     
+S&T (60171, 328913)  
+╰─ 196.49.84.51    328913  453.411                 (Abidjan, Abidjan, CI, AF) bdr3.std.douala-ix.net                                                                              
+╭─ 196.49.84.36    328913  453.299                 (Abidjan, Abidjan, CI, AF) gw1.std.douala-ix.net                                                                               
+S&T (328913)  
+╰─ 196.49.84.188   328913  456.492                 (Douala, Littoral, CM, AF) cm-dla-as328913.anchors.atlas.ripe.net                                                              

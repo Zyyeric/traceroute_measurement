@@ -1,0 +1,14 @@
+   193.180.242.86  199150  0.0                     (Solna, Stockholm, SE, EU)                                                                                                     
+   193.180.242.85  199150  11.479              (Stockholm, Stockholm, SE, EU)                                                                                                     
+   193.180.242.92  199150  0.331               (Stockholm, Stockholm, SE, EU)                                                                                                     
+   192.121.80.162  *       2.087               (Stockholm, Stockholm, SE, EU) as6939-20g-sk1.sthix.net                                                                            
+╭─ 194.68.123.187  6939    7.093                      (Stockholm, AB, SE, EU) 10gigabitethernet1-2.core1.sto1.he.net                                                              
+S&T (6939)  
+├─ 184.104.192.82  6939    6.792                        (Tallinn, 37, EE, EU) 100ge4-1.core1.tll1.he.net                                                                          
+T (6939)  
+├─ 184.104.192.94  6939    13.122                         (Riga, RIX, LV, EU) 100ge5-1.core1.rix1.he.net                                                                          
+S&T (6939)  
+╰─ 184.104.192.90  6939    17.534                       (Vilnius, VL, LT, EU) 100ge5-1.core1.vno1.he.net                                                                          
+   ***             *       -inf                                           *** *                                                                                                   
+   5.20.2.250      21412   18.221                       (Vilnius, VL, LT, EU) dmz-2-250.cgates.lt                                                                                 
+   5.20.2.255      21412   18.265                  (Vilnius, Vilnius, LT, EU) dmz-2-255.cgates.lt                                                                                 

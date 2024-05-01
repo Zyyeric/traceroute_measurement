@@ -1,0 +1,13 @@
+   103.153.176.122 131657  0.0                       (Taipei, Taiwan, TW, AS) 103-153-176-122.as131657.net                                                                        
+   103.153.176.254 131657  0.326                     (Taipei, Taiwan, TW, AS) 103-153-176-254.as131657.net                                                                        
+   103.51.91.5     *       0.52                      (Taipei, Taiwan, TW, AS) et-0-0-1.cr1.hd.tpe.as131657.net                                                                    
+╭─ 103.158.187.30  *       0.561                     (Taipei, Taiwan, TW, AS) as6939.ly.stuix.io                                                                                  
+S (, 6939)  seamewe-3 ✘ || apcn-2 ✘ || trans-pacific-express-tpe-cable-system ✘ || eac-c2c ✘ || faster ✘ || asia-pacific-gateway-apg ✘ || flag-north-asia-loopreach-north-asia-loop ✘ || new-cross-pacific-ncp-cable-system ✘
+├─ 184.105.80.141  6939    30.537                (Tokyo / Narita, 12, JP, AS) 100ge0-79.core2.tyo1.he.net                                                                         
+S (6939, 7642)  asia-submarine-cable-express-asecahaya-malaysia ✓ || seamewe-3 ✓ || apcn-2 ✓ || eac-c2c ✓ || asia-pacific-gateway-apg ✓ || southeast-asia-japan-cable-sjc ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 74.82.51.50     7642    148.915                     (Singapore, 4, SG, AS) dhivehi-raajjeyge-gulhan-plc.10gigabitethernet1-1-28.switch2.sin1.he.net                            
+S (7642)  
+╰─ 202.1.205.242   7642    151.597                       (None, None, MV, AS) xe-1-0-0-1.rt.dhivehinet.net.mv                                                                     
+   123.176.1.4     7642    149.273                (Male, Kaafu Atoll, MV, AS)                                                                                                     

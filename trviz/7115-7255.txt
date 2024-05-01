@@ -1,0 +1,13 @@
+   103.179.37.157  151332  0.0                  (Melbourne, Victoria, AU, OC)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   203.192.83.253  7545    1.878                (Melbourne, Victoria, AU, OC) ip-253-83-192-203.static.pipenetworks.com                                                           
+   203.220.216.73  7545    1.699                        (Sydney, NSW, AU, OC) 203-220-216-73.tpgi.com.au                                                                          
+   27.32.160.193   7545    85.709              (North Melbourne, VIC, AU, OC) 27-32-160-193.static.tpgi.com.au                                                                    
+╭─ 203.219.57.14   7545    85.032          (Perth, Western Australia, AU, OC) per-apt-stg-crt1-be20.tpgi.com.au                                                                   
+S (7545)  
+├─ 203.219.107.114 7545    85.834              (Singapore, Singapore, SG, AS) sin-eqx-aye-int1-hu-0-0-0-20.tpg.com.au                                                             
+S (7545, 7642)  
+├─ 27.111.228.167  7642    129.392                   (Seogwipo, None, KR, AS) 7642.sgw.equinix.com                                                                                
+LHL (7642)  
+╰─ 202.1.205.242   7642    129.298                       (None, None, MV, AS) xe-1-0-0-1.rt.dhivehinet.net.mv                                                                     
+   123.176.1.4     7642    127.025                (Male, Kaafu Atoll, MV, AS)                                                                                                     

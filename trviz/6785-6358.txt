@@ -1,0 +1,30 @@
+   196.49.15.189   328998  0.0              (Kampala, Central Region, UG, AF)                                                                                                     
+   196.49.15.253   328998  0.825            (Kampala, Central Region, UG, AF)                                                                                                     
+   41.191.77.205   37063   2.26             (Kampala, Central Region, UG, AF)                                                                                                     
+   129.205.30.77   37063   1.288                         (Kampala, C, UG, AF) *                                                                                                   
+╭─ 129.205.30.230  37063   8.835            (Kampala, Central Region, UG, AF)                                                                                                     
+T (37063, 6939)  
+├─ 196.223.21.74   6939    161.338                     (Nairobi, 5, KE, None) *                                                                                                   
+S&T (6939)  
+├─ 184.104.189.42  6939    162.01                (Djibouti, Djibouti, DJ, AF) ve1004.core2.jib1.he.net                                                                            
+S (6939)  
+╰─ 184.104.193.102 6939    162.795   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) port-channel1.core3.mrs1.he.net                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   62.115.165.37   1299    160.519   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) mei-b5-link.ip.twelve99.net                                                                         
+╭─ 62.115.124.56   1299    160.3               (Paris, Île-de-France, FR, EU) prs-bb2-link.ip.twelve99.net                                                                        
+T (1299)  
+╰─ 62.115.137.4    1299    167.864         (Amsterdam, North Holland, NL, EU) adm-bb2-link.ip.twelve99.net                                                                        
+   62.115.120.229  1299    166.762         (Amsterdam, North Holland, NL, EU) adm-b10-link.ip.twelve99.net                                                                        
+   62.115.44.49    1299    165.801         (Amsterdam, North Holland, NL, EU) tata-ic-380281.ip.twelve99-cust.net                                                                 
+╭─ 195.219.194.26  6453    315.154                    (Amsterdam, NH, NL, EU) if-ae-41-2.tcore1.av2-amsterdam.as6453.net                                                          
+T (6453)  
+├─ 195.219.194.78  6453    312.799            (Frankfurt am Main, HE, DE, EU) if-ae-6-3.tcore1.fnm-frankfurt.as6453.net                                                           
+T (6453)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 80.231.165.24   6453    313.825   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) if-bundle-2-2.qcore1.emrs2-marseille.as6453.net                                                     
+S (6453)  
+├─ 195.219.174.17  6453    316.536              (Mumbai, Maharashtra, IN, AS) if-ae-6-2.tcore1.mlv-mumbai.as6453.net                                                              
+S (6453, 58717)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 103.15.246.16   58717   339.898                     (Dhaka, Dhaka, BD, AS)                                                                                                     

@@ -1,0 +1,13 @@
+   194.187.172.112 35574   0.0                          (Rome, Lazio, IT, EU)                                                                                                     
+╭─ 194.187.172.101 35574   0.368                        (Rome, Lazio, IT, EU)                                                                                                     
+T (35574, 63927)  
+├  10.90.13.131    *       9.388                                          ***                                                                                                     
+├─ 80.81.195.238   63927   170.221           (Frankfurt am Main, 5, DE, None) esg1-cor2.rise.as                                                                                   
+LHL (63927, 135132)  seamewe-3 ✓
+├  10.255.64.92    *       214.257                                        ***                                                                                                     
+╰─ 43.224.189.37   135132  213.353              (Lapu-Lapu City, CEB, PH, AS) vlan7.border1.ceb02.ds.network                                                                      
+   192.168.159.164 *       338.336                                        ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   27.111.84.21    135132  216.984       (Cebu City, Central Visayas, PH, AS) ph-ceb-as135132.anchors.atlas.ripe.net                                                              

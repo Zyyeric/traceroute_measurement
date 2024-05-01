@@ -1,0 +1,19 @@
+   196.49.14.25    30997   0.0                 (Accra, Greater Accra, GH, AF)                                                                                                     
+   196.49.14.1     30997   0.504               (Accra, Greater Accra, GH, AF)                                                                                                     
+╭─ 197.221.70.89   *       1.115               (Accra, Greater Accra, GH, AF)                                                                                                     
+S&T (, 3741)  
+╰─ 196.14.240.4    3741    1.032                         (None, None, ZA, AF) *                                                                                                   
+╭─ 168.209.160.109 3741    255.908                       (None, None, ZA, AF) *                                                                                                   
+T (3741)  
+├─ 168.209.160.108 3741    256.457                  (London, England, GB, EU)                                                                                                     
+T (3741)  
+├─ 168.209.246.65  3741    256.86                        (None, None, ZA, AF) core1b-dock-be-2.ip.ddii.network                                                                    
+T (3741, 3491)  
+├─ 195.66.224.167  3491    192.825                     (London, None, GB, EU) te7-5.br03.ldn01.pccwbtn.net                                                                        
+S (3491)  
+╰─ 63.218.248.54   3491    364.952                     (Singapore, 4, SG, AS) hun0-6-0-2.br02.sin03.pccwbtn.net                                                                   
+╭─ 63.218.249.166  3491    472.095             (Singapore, Singapore, SG, AS) 63-218-249-166.static.pccwglobal.net                                                                
+S (3491, 50999)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 109.171.136.4   50999   471.403             (Jeddah, Mecca Region, SA, AS)                                                                                                     

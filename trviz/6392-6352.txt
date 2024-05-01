@@ -1,0 +1,32 @@
+   84.88.18.254    13041   0.0                 (Barcelona, Catalonia, ES, EU) anchor-anella.cesca.cat                                                                             
+   84.88.18.253    13041   1.11                (Barcelona, Catalonia, ES, EU) anella-anchor.cesca.cat                                                                             
+   130.206.214.97  766     9.473                     (Madrid, Madrid, ES, EU) anella-ppal-as13041.ethtrunk11-81.telmad.rt3.mad.red.rediris.es                                     
+╭─ 83.97.90.20     21320   10.268                    (Madrid, Madrid, ES, EU) rediris-ias-geant-gw.mad.es.geant.net                                                               
+S&T (21320, 20965)  seamewe-3 ✓
+├─ 62.40.98.227    20965   39.482    (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) ae2.rt1.mar.fr.geant.net                                                                            
+T (20965)  
+├─ 62.40.98.236    20965   43.248                    (Genève, Geneva, CH, EU) ae4.mx1.gen.ch.geant.net                                                                            
+T (20965)  
+├─ 62.40.98.239    20965   43.022              (Paris, Île-de-France, FR, EU) ae7.mx1.par.fr.geant.net                                                                            
+S&T (20965)  africa-coast-to-europe-ace ✘ || seamewe-3 ✘
+├─ 62.40.98.106    20965   42.659                        (Lisbon, 11, PT, EU) ae0.mx2.lis.pt.geant.net                                                                            
+S&T (20965)  
+╰─ 62.40.98.64     20965   39.381                   (London, England, GB, EU) ae2.mx1.lon.uk.geant.net                                                                            
+   195.66.224.76   6461    39.642                       (London, ENG, GB, EU) ae15.mpr1.lhr15.uk.above.net                                                                        
+   94.31.33.31     6461    42.188                   (London, England, GB, EU) 94.31.33.31.idia-288174-013-zyo.zip.zayo.com                                                        
+╭─ 206.148.26.8    7578    42.115                   (Poplar, England, GB, EU) po10.lon-thn-bb1.globalsecurelayer.com                                                              
+S (7578)  
+╰─ 206.148.26.7    7578    110.041          (New York City, New York, US, NA) e52.nyc-eqxny2-bb1.globalsecurelayer.com                                                            
+   206.148.25.42   7578    122.308                (Chicago, Illinois, US, NA) e3.chi-eqxch1-bb1.globalsecurelayer.com                                                             
+╭─ 206.148.25.79   7578    168.07           (Los Angeles, California, US, NA) e52.lax-csla2-cr2.globalsecurelayer.com                                                             
+S (7578)  
+╰─ 206.148.24.2    7578    275.91           (Sydney, New South Wales, AU, OC) e1.syd-eqxsy5-bb1.globalsecurelayer.com                                                             
+   206.148.24.58   7578    287.056              (Melbourne, Victoria, AU, OC) e21.mel-eqxme1-bb1.globalsecurelayer.com                                                            
+   206.148.24.56   7578    297.465        (Adelaide, South Australia, AU, OC) e53.adl-eqxae1-bb4.globalsecurelayer.com                                                            
+╭─ 206.148.24.164  7578    323.782         (Perth, Western Australia, AU, OC)                                                                                                     
+S (7578, 137409)  
+╰─ 160.202.164.163 137409  281.312                   (Muscat, Muscat, OM, AS)                                                                                                     
+╭─ 134.0.220.73    8529    282.724                       (Muscat, MA, OM, AS) *                                                                                                   
+S&T (8529, 42473)  
+╰─ 213.202.2.1     42473   290.605                        (Dubai, DU, AE, AS) i1.2.202.213omantel.net.om                                                                          
+   37.252.245.94   42473   293.812                     (Dubai, Dubai, AE, AS)                                                                                                     

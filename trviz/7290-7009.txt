@@ -1,0 +1,18 @@
+   45.94.14.204    208520  0.0                (Riyadh, Riyadh Region, SA, AS)                                                                                                     
+   45.94.14.193    208520  0.585              (Riyadh, Riyadh Region, SA, AS)                                                                                                     
+╭─ 212.138.250.7   8895    1.131              (Riyadh, Riyadh Region, SA, AS)                                                                                                     
+S (8895, 3356)  seamewe-5 ✓ || asia-africa-europe-1-aae-1 ✓ || seamewe-4 ✓ || peace-cable ✘ || imewe ✓
+├─ 213.242.126.197 3356    68.885    (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) et-7-0-17-3.edge4.marseille1.level3.net                                                             
+T (3356)  
+├─ 171.75.9.210    3356    88.048          (Amsterdam, North Holland, NL, EU) ae2.3204.edge7.ams1.neo.colt.net                                                                    
+S&T (3356, 9002)  ulysses-2 © || zeus ✓ || circe-north ✓ || scylla ✘ || concerto ✘ || farland-north ©
+├─ 213.244.164.2   9002    93.432                        (None, None, GB, EU) BR2.Amsterdam1.surf.net                                                                             
+S (9002)  
+├─ 87.245.233.80   9002    256.942             (Singapore, Singapore, SG, AS) ae8-6.rt.eqx.sin.sg.retn.net                                                                        
+S (9002)  
+├─ 87.245.231.245  9002    227.578                       (None, None, GB, EU) GW-NAPInfo.retn.net                                                                                 
+S (9002, 45147)  
+╰─ 119.110.114.54  45147   240.297                       (None, None, ID, AS) *                                                                                                   
+   119.110.121.82  45147   331.559                 (Jakarta, Jakarta, ID, AS)                                                                                                     
+   202.58.202.34   *       349.458                 (Jakarta, Jakarta, ID, AS) ae-1-8-r1.dps1.globalxtreme.net                                                                     
+   103.225.148.27  45701   351.474                 (Jakarta, Jakarta, ID, AS) ip-27-148-225-103.globalxtreme.net                                                                  

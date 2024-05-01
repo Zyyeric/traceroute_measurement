@@ -1,0 +1,19 @@
+   196.6.220.42    37578   0.0              (Nairobi, Nairobi County, KE, AF)                                                                                                     
+   196.6.220.1     37578   0.494            (Nairobi, Nairobi County, KE, AF)                                                                                                     
+╭─ 196.223.21.74   6939    0.727                       (Nairobi, 5, KE, None) *                                                                                                   
+S&T (6939)  
+├─ 184.104.197.225 6939    85.587                 (Djibouti City, DJ, DJ, AF) 10ge14-8.core1.jib1.he.net                                                                          
+S (6939)  
+╰─ 184.104.193.121 6939    146.852   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) port-channel8.core3.mrs1.he.net                                                                     
+╭─ 184.104.193.101 6939    146.691   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) port-channel10.core4.mrs1.he.net                                                                    
+S&T (6939)  
+├─ 184.104.189.31  6939    170.377                   (Lisbon, Lisbon, PT, EU) port-channel8.core1.lis1.he.net                                                                     
+LHL (6939, 51358)  
+├─ 184.104.204.94  51358   183.406                        (Sofia, 23, BG, EU) radioactive-eood.10gigabitethernet5-5.core1.sof1.he.net                                             
+LHL (51358, 37662)  
+├─ 154.66.247.98   37662   179.382                    (Trichardt, MP, ZA, AF) *                                                                                                   
+S&T (37662)  
+├─ 154.66.247.235  37662   179.492                       (None, None, KE, AF) *                                                                                                   
+S (37662)  
+╰─ 196.250.236.122 37662   180.393          (Cape Town, Western Cape, ZA, AF)                                                                                                     
+   102.212.60.247  329276  180.436          (Cape Town, Western Cape, ZA, AF) za-cpt-as329276.anchors.atlas.ripe.net                                                              

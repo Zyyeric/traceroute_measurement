@@ -1,0 +1,12 @@
+   202.70.133.25   140443  0.0                 (Singapore, Singapore, SG, AS) 25.133.70.202.in-addr.herza.id                                                                      
+   202.70.133.1    140443  0.137               (Singapore, Singapore, SG, AS) 1.133.70.202.in-addr.herza.id                                                                       
+╭─ 202.70.132.1    140443  0.295               (Singapore, Singapore, SG, AS) 1.132.70.202.in-addr.herza.id                                                                       
+S (140443, 58453)  
+├  10.111.222.206  *       0.351                                          ***                                                                                                     
+├─ 27.111.228.228  58453   0.324 (1.432)                (Seogwipo, None, KR, AS) 58453.sgw.equinix.com                                                                               
+S (58453)  
+╰─ 223.118.5.201   58453   34.509              (Hong Kong, Hong Kong, HK, AS)                                                                                                     
+   223.120.3.90    58453   34.261                        (None, None, HK, AS) *                                                                                                   
+   223.119.0.93    202196  34.441                        (None, None, HK, AS) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   37.10.40.14     202196  38.528              (Hong Kong, Hong Kong, HK, AS)                                                                                                     

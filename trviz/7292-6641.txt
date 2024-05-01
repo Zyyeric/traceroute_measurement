@@ -1,0 +1,14 @@
+   92.38.135.131   202422  0.0                         (Seoul, Seoul, KR, AS)                                                                                                     
+   92.38.135.3     202422  0.294                       (Seoul, Seoul, KR, AS) vrrp.gcore.lu                                                                                       
+   10.255.17.210   *       0.342                                          ***                                                                                                     
+   10.255.17.213   *       0.34                                           ***                                                                                                     
+   10.255.17.147   *       0.388                                          ***                                                                                                     
+╭─ 113.29.52.41    3549    0.372 (3.229)                  (Seoul, Seoul, KR, AS)                                                                                                     
+S (3549, 3356)  korea-japan-cable-network-kjcn ✘ || seamewe-3 ✘
+╰─ 4.69.217.14     3356    31.194                         (Tokyo, 13, JP, AS) ae1.3505.edge2.Tokyo4.level3.net                                                                    
+╭─ 184.104.199.9   6939    30.834                      (Tokyo, Tokyo, JP, AS) port-channel9.core2.tyo1.he.net                                                                     
+S (6939)  seamewe-3 ✓ || asia-submarine-cable-express-asecahaya-malaysia ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.220.67  6939    60.045              (Hong Kong, Hong Kong, HK, AS) lshiy.e0-30.switch1.hkg1.he.net                                                                     
+   103.203.243.11  955     59.941              (Hong Kong, Hong Kong, HK, AS) multi-user.port-channe17.switch1.hkg1.bb.lshiy.net                                                  
+   89.213.179.65   32167   59.951              (Hong Kong, Hong Kong, HK, AS) 89-213-179-65.ip.lshiyusercontent.com                                                               

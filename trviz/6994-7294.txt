@@ -1,0 +1,18 @@
+   10.252.4.170    *       0.0                                            ***                                                                                                     
+   10.252.4.169    *       0.096                                          ***                                                                                                     
+   10.252.4.153    *       0.146                                          ***                                                                                                     
+   10.252.0.37     *       12.487                                         ***                                                                                                     
+   10.252.2.138    *       15.148                                         ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 154.25.16.81    174     16.762                (Istanbul, Istanbul, TR, AS) be3821.rcr71.ist01.atlas.cogentco.com                                                               
+S (174)  
+├─ 154.54.74.226   174     25.208                         (Lyon, ARA, FR, EU) be2881.rcr21.lys01.atlas.cogentco.com                                                               
+T (174, 6762)  
+├─ 130.117.15.54   6762    25.129                         (Sofia, 23, BG, EU) telecomitalia.sof02.atlas.cogentco.com                                                              
+T (6762)  
+╰─ 195.22.218.215  6762    77.641                     (Palermo, None, IT, EU) ae2.palermo3.pal.seabone.net                                                                        
+╭─ 195.22.197.55   15802   242.543                    (Palermo, None, IT, EU) dueitc.palermo3.pal.seabone.net                                                                     
+S (15802, 57187)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 94.206.39.74    57187   169.326                        (Dubai, DU, AE, AS) j48-1.dxa.dxb.ae.datamena.net                                                                       
+   94.207.43.2     57187   164.821                     (Dubai, Dubai, AE, AS) -094-207-043-002.datamena.net                                                                       

@@ -1,0 +1,18 @@
+   63.222.40.114   3491    0.0                       (Taipei, Taiwan, TW, AS) ncic.te0-1-0-23.br01.tap04.as3491.net                                                               
+╭─ 63.222.40.113   3491    0.867                      (Neihu, Taiwan, TW, AS) te0-1-0-23.br01.tap04.as3491.net                                                                    
+S (3491)  seamewe-3 👍 || apcn-2 👍 || trans-pacific-express-tpe-cable-system ✓ || eac-c2c ✓ || faster ✓ || asia-pacific-gateway-apg ✓ || flag-north-asia-loopreach-north-asia-loop 👍 || new-cross-pacific-ncp-cable-system ✓
+╰─ 63.218.250.233  3491    35.157                      (Tokyo, Tokyo, JP, AS) hundredge0-5-0-1.br02.tok02.as3491.net                                                              
+╭─ 63.218.251.202  3491    30.456                      (Tokyo, Tokyo, JP, AS)                                                                                                     
+S (3491, 1273)  seamewe-3 👍 || flag-europe-asia-fea ✓
+╰─ 195.2.10.193    1273    282.333                       (None, None, GB, EU) *                                                                                                   
+   195.2.2.57      1273    282.674                       (None, None, GB, EU) ae34-xcr1.mrx.cw.net                                                                                
+   195.2.21.186    1273    269.512                       (None, None, GB, EU) ae51.xcr1.mlu.cw.net                                                                                
+╭─ 195.2.16.2      1273    283.057                       (None, None, GB, EU) ae23.0-xcr1.sof.cw.net                                                                              
+S&T (1273, 3329)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 62.74.30.101    3329    296.771                        (Athens, I, GR, EU) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   62.74.226.30    12361   305.843                   (Athens, Attica, GR, EU) dumy30.panafonet.gr                                                                                 
+   ***             *       -inf                                           *** *                                                                                                   
+   139.91.68.3     8522    303.699                 (Irákleion, Crete, GR, EU)                                                                                                     

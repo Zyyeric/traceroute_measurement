@@ -1,0 +1,22 @@
+   146.185.219.73  202422  0.0        (Petaẖ Tiqva, Central District, IL, AS)                                                                                                     
+   146.185.219.3   202422  0.391                 (Tel Aviv, Tel Aviv, IL, AS) vrrp.gcore.lu                                                                                       
+   10.255.29.242   *       0.464                                          ***                                                                                                     
+   82.81.82.241    8551    0.621                 (Tel Aviv, Tel Aviv, IL, AS) bzq-82-81-82-241.red.bezeqint.net                                                                   
+   212.179.124.185 8551    50.015                      (Tel Aviv, TA, IL, AS) bzq-179-124-185.cust.bezeqint.net                                                                   
+╭─ 212.179.124.82  8551    1.13                        (Tel Aviv, TA, IL, AS) bzq-179-124-82.cust.bezeqint.net                                                                    
+LHL (8551, 58453)  mednautilus-submarine-system ✓ || jonah 👍 || lev-submarine-system ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 80.81.193.51    58453   53.952            (Frankfurt am Main, 5, DE, None) decix-gw.china.mobile.net.uk                                                                        
+   223.118.18.46   58453   52.931          (Frankfurt am Main, Hesse, DE, EU)                                                                                                     
+╭─ 223.120.11.13   58453   83.437          (Frankfurt am Main, Hesse, DE, EU)                                                                                                     
+LHL (58453)  seamewe-3 ✓ || asia-africa-europe-1-aae-1 ✓ || flag-europe-asia-fea ✓
+╰─ 223.120.15.254  58453   211.962                       (None, None, HK, AS) *                                                                                                   
+╭─ 223.119.21.98   133334  210.851                  (Hong Kong, None, HK, AS) *                                                                                                   
+S (133334, 8529)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 213.202.6.193   8529    294.08                    (Muscat, Muscat, OM, AS)                                                                                                     
+   213.202.6.198   8529    291.91                    (Muscat, Muscat, OM, AS)                                                                                                     
+╭─ 134.0.217.213   8529    300.645                       (Muscat, MA, OM, AS) *                                                                                                   
+S&T (8529, 42473)  
+╰─ 213.202.2.1     42473   293.248                        (Dubai, DU, AE, AS) i1.2.202.213omantel.net.om                                                                          
+   37.252.245.94   42473   291.952                     (Dubai, Dubai, AE, AS)                                                                                                     

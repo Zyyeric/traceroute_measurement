@@ -1,0 +1,26 @@
+   192.168.0.130   *       0.0                                            ***                                                                                                     
+   192.168.0.1     *       0.203                                          ***                                                                                                     
+   172.16.254.1    *       0.296                                          ***                                                                                                     
+   192.168.1.1     *       0.67                                           ***                                                                                                     
+   10.98.238.18    *       0.569 (3.572)                                     ***                                                                                                     
+   10.0.0.170      *       7.847                                          ***                                                                                                     
+   81.212.78.45    9121    5.063                     (Ankara, Ankara, TR, AS) 81.212.78.45.static.turktelekom.com.tr                                                              
+   81.212.216.50   9121    5.063              (Sultanbeyli, Istanbul, TR, AS) 34-acibadem-xrs-t2-1---34-acibadem-sr12e-t3-8.statik.turktelekom.com.tr                             
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 212.156.139.60  9121    19.189                      (Istanbul, 34, TR, AS) *                                                                                                   
+S (9121, 2914)  
+├─ 83.217.231.61   2914    19.228                        (None, None, GB, EU) *                                                                                                   
+LHL (2914, 6453)  
+├─ 129.250.8.194   6453    18.821                      (Bucharest, B, RO, EU) ae-0.tata-communications.buchro01.ro.bb.gin.ntt.net                                                 
+T (6453)  
+├─ 80.231.208.37   6453    52.744             (Frankfurt am Main, HE, DE, EU) if-ae-27-2.tcore1.fnm-frankfurt.as6453.net                                                          
+T (6453)  
+╰─ 195.219.194.149 6453    56.728                     (Amsterdam, NH, NL, EU) if-ae-6-2.tcore1.av2-amsterdam.as6453.net                                                           
+╭─ 195.219.194.6   6453    64.23                      (Amsterdam, NH, NL, EU) if-ae-2-2.tcore2.av2-amsterdam.as6453.net                                                           
+S&T (6453)  
+├─ 80.231.131.160  6453    59.819                      (London, None, GB, EU) if-ae-14-2.tcore2.l78-london.as6453.net                                                             
+S (6453)  
+╰─ 80.231.131.66   6453    193.518                       (Mumbai, MH, IN, AS) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   121.241.90.58   45117   203.267                    (Ahmedabad, GJ, IN, AS) 121.241.90.58.static-ahmedabad.vsnl.net.in                                                          
+   116.206.155.229 45117   194.96                (Ahmedabad, Gujarat, IN, AS)                                                                                                     

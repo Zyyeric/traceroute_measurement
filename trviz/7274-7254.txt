@@ -1,0 +1,17 @@
+   103.170.154.254 142594  0.0                      (London, England, GB, EU) 254.154.170.103.speedyvps.uk                                                                        
+╭─ 103.170.154.1   142594  0.171                    (London, England, GB, EU)                                                                                                     
+T (142594, 60068)  
+├─ 156.146.32.94   60068   0.285                     (Prague, Prague, CZ, EU) unn-156-146-32-94.cdn77.com                                                                         
+T (60068, 201011)  
+├─ 81.95.9.54      201011  0.447                    (London, England, GB, EU) ae22-401.lon10.core-backbone.com                                                                    
+LHL (201011)  
+├─ 81.95.2.186     201011  21.366                         (Vienna, 9, AT, EU) ae1-2028.vie10.core-backbone.com                                                                    
+T (201011, 9121)  
+├─ 5.56.20.110     9121    21.57                         (None, None, DE, EU) core-backbone.turktelekom.com.tr                                                                    
+T (9121)  
+╰─ 212.156.140.149 9121    53.16                       (Istanbul, 34, TR, AS) 34-acibadem-xrs-t2-1---305-vie-col-2.statik.turktelekom.com.tr                                      
+   81.212.197.109  9121    52.133                        (None, None, TR, AS) 34-acibadem-xrs-t2-1---34-ebgp-acibadem-sr12e-k.statik.turktelekom.com.tr                           
+   81.212.218.194  9121    56.668                    (Ankara, Ankara, TR, AS) 35-hatay-sr12e-t2-2---34-acibadem-xrs-t2-1.statik.turktelekom.com.tr                                
+   81.212.214.175  9121    55.366                    (Ankara, Ankara, TR, AS) 35-hatay-sr12e-t3-1---35-hatay-sr12e-t2-2.statik.turktelekom.com.tr                                 
+   ***             *       -inf                                           *** *                                                                                                   
+   77.223.128.226  43391   59.824             (İzmir, İzmir Province, TR, AS)                                                                                                     

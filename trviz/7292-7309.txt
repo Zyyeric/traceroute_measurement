@@ -1,0 +1,18 @@
+   37.252.253.18   42473   0.0                      (Palermo, Sicily, IT, EU)                                                                                                     
+   37.252.253.17   42473   0.431                    (Palermo, Sicily, IT, EU) cr-01.0v-04-28.anx35.pmo.it.anexia-it.com                                                           
+╭─ 213.144.186.81  6762    0.5                      (Palermo, Sicily, IT, EU)                                                                                                     
+T (6762)  
+╰─ 195.22.196.137  6762    33.457             (Frankfurt am Main, HE, DE, EU) ae6.francoforte34.fra.seabone.net                                                                   
+╭─ 184.104.202.65  6939    41.364             (Frankfurt am Main, HE, DE, EU) port-channel7.core3.fra1.he.net                                                                     
+LHL (6939)  apollo ✓ || flag-atlantic-1-fa-1 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 72.52.92.70     6939    35.866                      (San Jose, CA, US, NA) 10ge7-5.core1.sjc2.he.net                                                                           
+S (6939)  
+├─ 184.105.81.30   6939    43.909                    (Marseille, PAC, FR, EU) port-channel4.core2.mrs1.he.net                                                                     
+S (6939)  
+├─ 184.104.194.201 6939    179.835             (Singapore, Singapore, SG, AS) port-channel14.core3.sin1.he.net                                                                    
+S (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.220.67  6939    272.598             (Hong Kong, Hong Kong, HK, AS) lshiy.e0-30.switch1.hkg1.he.net                                                                     
+   103.203.243.11  955     265.621             (Hong Kong, Hong Kong, HK, AS) multi-user.port-channe17.switch1.hkg1.bb.lshiy.net                                                  
+   89.213.179.65   32167   265.79              (Hong Kong, Hong Kong, HK, AS) 89-213-179-65.ip.lshiyusercontent.com                                                               

@@ -1,0 +1,23 @@
+   197.80.104.36   10474   0.0                (Johannesburg, Gauteng, ZA, AF) 197-80-104-36.jhb.mweb.co.za                                                                        
+   197.80.75.3     10474   27.459                 (Randburg, Gauteng, ZA, AF) 20.bu-ether1.vic-pe-12.optinet.net                                                                  
+   197.80.7.15     10474   345.003                       (None, None, ZA, AF) 197-80-7-15.jhb.mweb.co.za                                                                          
+   197.80.4.9      10474   453.667                       (None, None, ZA, AF) bu-ether1.tis-pe-2.optinet.net                                                                      
+   197.80.4.252    10474   720.607                       (None, None, ZA, AF) bu-ether2.tis-pe-1.optinet.net                                                                      
+╭─ 197.80.4.216    10474   1040.529                      (None, None, ZA, AF) 197-80-4-216.jhb.mweb.co.za                                                                         
+T (10474)  
+╰─ 197.80.5.87     10474   1135.322                 (London, England, GB, EU) 197-80-5-87.jhb.mweb.co.za                                                                          
+   176.67.178.2    10474   1454.016                    (London, None, GB, EU) *                                                                                                   
+   176.67.177.228  10474   2334.434                 (London, England, GB, EU) be-15-779-thd-linx-1.optinet.net                                                                    
+   195.66.225.24   2603    2301.826                   (London, ENG, GB, None) *                                                                                                   
+╭─ 109.105.102.98  2603    2205.427                     (London, ENG, GB, EU) ndn-gw.mx1.lon.uk.geant.net                                                                         
+S&T (2603, 20965)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 62.40.98.222    20965   331.439                     (Bilbao, None, ES, EU) ae4.rt1.bil.es.geant.net                                                                            
+S&T (20965, 21320)  
+├─ 83.97.90.19     21320   205.281                  (London, England, GB, EU) rediris-ias-geant.bil.es.geant.net                                                                  
+S&T (21320, 766)  
+╰─ 130.206.245.17  766     205.525                       (None, None, ES, EU) EHU.RT2.ETHTRUNK2.telmad.rt1.mad.red.rediris.es                                                     
+   130.206.245.50  766     204.604                       (None, None, ES, EU) telmad.rt1.ae11-0.telmad.rt4.mad.red.rediris.es                                                     
+   130.206.214.98  13041   222.506                       (None, None, ES, EU) anella-router.red.rediris.es                                                                        
+   84.88.18.254    13041   209.487             (Barcelona, Catalonia, ES, EU) anchor-anella.cesca.cat                                                                             

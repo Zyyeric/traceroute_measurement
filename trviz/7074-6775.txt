@@ -1,0 +1,14 @@
+   192.30.89.87    394256  0.0          (Vancouver, British Columbia, CA, NA) ca-van-as394256.anchors.atlas.ripe.net                                                              
+╭─ 192.30.89.94    394256  0.298        (Vancouver, British Columbia, CA, NA)                                                                                                     
+S&T (394256, 6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.196.221 6939    10.599                       (Seattle, WA, US, NA) port-channel3.core2.sea1.he.net                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 184.105.81.81   6939    23.606              (San Jose, California, US, NA) port-channel12.core4.sjc2.he.net                                                                    
+S (6939, )  faster ✓ || pacific-crossing-1-pc-1 ✘ || jupiter ✓ || tata-tgn-pacific ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 203.190.230.227 *       130.63              (Motoyoyogichō, Tokyo, JP, AS)                                                                                                     
+   103.48.31.51    59105   130.714             (Motoyoyogichō, Tokyo, JP, AS) ge-2-1-8.pop03er03.bb.homenoc.ad.jp                                                                 
+   103.41.60.172   10010   131.476                     (Tokyo, Tokyo, JP, AS) koba-bgprt2.tokyo-ix.v4.open.ad.jp                                                                  
+   103.143.136.30  63781   132.306             (Motoyoyogichō, Tokyo, JP, AS) ospfrt1-bgprt2.kobayashi.ad.jp                                                                      
+   103.143.136.43  63781   131.741                     (Tokyo, Tokyo, JP, AS) koba-103-143-136-43.rev.kobayashi.ad.jp                                                             

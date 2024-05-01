@@ -1,0 +1,18 @@
+   185.6.39.132    42953   0.0                        (Cork, Munster, IE, EU)                                                                                                     
+   185.6.39.130    42953   1.68                       (Cork, Munster, IE, EU)                                                                                                     
+   91.103.0.98     47720   0.469                      (Cork, Munster, IE, EU)                                                                                                     
+   91.103.0.205    47720   0.574                      (Cork, Munster, IE, EU)                                                                                                     
+╭─ 185.6.36.69     6939    0.649 (5.121)                     (Dublin, D, IE, EU) 10ge16-1.core1.dub1.he.net                                                                          
+S&T (6939)  geo-eirgrid ✘ || rockabill ✓ || esat-2 ✓ || sirius-south ✘ || exa-north-and-south ✓ || havhingstenceltixconnect-2-cc-2 ✓ || exa-express ✓ || pan-european-crossing-uk-ireland ✓ || esat-1 ✓ || solas ✓
+├─ 72.52.92.201    6939    78.822                       (London, ENG, GB, EU) 100ge0-61.core3.lon2.he.net                                                                         
+S (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.194.201 6939    174.204             (Singapore, Singapore, SG, AS) port-channel14.core3.sin1.he.net                                                                    
+╭─ 74.82.49.214    6939    251.509             (Singapore, Singapore, SG, AS) pt-jala-lintas-media.e0-3.switch5.sin1.he.net                                                       
+S&T (6939, 133840)  
+╰─ 103.66.70.104   133840  251.276                 (Jakarta, Jakarta, ID, AS)                                                                                                     
+   121.100.0.45    38158   251.621                 (Jakarta, Jakarta, ID, AS)                                                                                                     
+   43.230.152.226  *       251.55                  (Jakarta, Jakarta, ID, AS) global-in.kings.id                                                                                  
+   43.230.153.90   *       181.735                 (Jakarta, Jakarta, ID, AS)                                                                                                     
+   180.211.88.22   45725   180.471                 (Jakarta, Jakarta, ID, AS) id-jkt-as45725.anchors.atlas.ripe.net                                                               

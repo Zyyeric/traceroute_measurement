@@ -1,0 +1,16 @@
+   180.211.88.22   45725   0.0                     (Jakarta, Jakarta, ID, AS) id-jkt-as45725.anchors.atlas.ripe.net                                                               
+   180.211.88.21   45725   0.358                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+╭─ 43.230.153.89   *       0.445                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+S (, 6939)  sjjk ✘ ↠ jasuka ✘ ↠ seamewe-5 ✘ || sjjk ✘ ↠ jasuka ✘ ↠ seamewe-3 ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├  10.110.1.0      *       12.394                                         ***                                                                                                     
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.105.81.29   6939    160.63                        (Paris, IDF, FR, EU) port-channel8.core2.par2.he.net                                                                     
+T (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 72.52.92.198    6939    178.578                        (Dublin, D, IE, EU) 100ge0-33.core2.dub1.he.net                                                                         
+   185.6.36.106    47720   181.465                      (Dublin, L, IE, None) inex-dub1.as47720.net                                                                               
+   91.103.0.196    47720   181.827                          (Cork, M, IE, EU) *                                                                                                   
+   91.103.0.99     42953   182.497                          (Cork, M, IE, EU) *                                                                                                   
+   185.6.39.132    42953   180.396                    (Cork, Munster, IE, EU)                                                                                                     

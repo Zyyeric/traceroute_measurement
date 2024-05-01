@@ -1,0 +1,37 @@
+   195.130.66.103  199399  0.0                       (Athens, Attica, GR, EU) gr-ath-as199399.anchors.atlas.ripe.net                                                              
+   195.130.66.102  199399  0.931                    (Výronas, Attica, GR, EU) gw-ripe-anchor.gr-ix.gr                                                                             
+   62.217.98.52    5408    0.5                      (Výronas, Attica, GR, EU) grix-admin-gw.eier.access-link.grnet.gr                                                             
+╭─ 83.97.88.69     21320   0.507                    (Výronas, Attica, GR, EU) grnet-ias-geant-gw.mx2.ath.gr.geant.net                                                             
+S&T (21320, 20965)  mednautilus-submarine-system ✘ || oteglobe-kokkini-bari ✘ || italy-greece-1 ✘
+├─ 62.40.98.150    20965   46.847                   (Milan, Lombardy, IT, EU) ae7.rt1.mil2.it.geant.net                                                                           
+S&T (20965)  
+╰─ 62.40.98.232    20965   47.996    (Arthaz-Pont-Notre-Dame, Auvergne-Rhône-Alpes, FR, EU) ae2.mx1.gen.ch.geant.net                                                                            
+╭─ 62.40.98.239    20965   47.081              (Paris, Île-de-France, FR, EU) ae7.mx1.par.fr.geant.net                                                                            
+S&T (20965)  
+├─ 62.40.98.106    20965   47.156                        (Lisbon, 11, PT, EU) ae0.mx2.lis.pt.geant.net                                                                            
+S&T (20965)  
+╰─ 62.40.98.64     20965   46.385                   (London, England, GB, EU) ae2.mx1.lon.uk.geant.net                                                                            
+   195.66.225.227  31133   46.63                      (London, ENG, GB, None) *                                                                                                   
+╭─ 64.125.22.64    6461    183.037                (Britwell, England, GB, EU) ae17.cs3.lhr11.uk.eth.zayo.com                                                                      
+S (6461)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 64.125.24.229   6461    183.235                      (Atlanta, GA, US, NA) ae7.cs1.atl10.us.eth.zayo.com                                                                       
+S (6461, 4637)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 64.124.151.5    4637    187.862                       (None, None, HK, AS) 64.124.151.5.IPYX-284545-900-ZYO.zip.zayo.com                                                       
+S (4637)  
+├─ 202.84.143.25   4637    187.816          (Los Angeles, California, US, NA) i-94.tlot-core02.telstraglobal.net                                                                  
+S (4637)  
+╰─ 202.84.137.21   4637    362.625          (Sydney, New South Wales, AU, OC) i-10305.sydo-core03.telstraglobal.net                                                               
+   203.50.13.97    1221    361.944                      (Sydney, NSW, AU, OC) bundle-ether3.oxf-gw11.sydney.telstra.net                                                           
+   203.50.6.109    1221    367.035          (Sydney, New South Wales, AU, OC) bundle-ether6.stl-core30.sydney.telstra.net                                                         
+   203.50.13.131   1221    377.347              (Melbourne, Victoria, AU, OC) bundle-ether3.win-core30.melbourne.telstra.net                                                      
+   203.50.6.228    1221    385.68                      (Adelaide, SA, AU, OC) bundle-ether2.fli-core10.adelaide.telstra.net                                                       
+   203.50.6.233    1221    414.583                        (Perth, WA, AU, OC) bundle-ether3.wel-core10.perth.telstra.net                                                          
+   203.50.6.175    1221    414.262                        (Perth, WA, AU, OC) bundle-ether1.wel-edge903.perth.telstra.net                                                         
+   138.217.126.74  1221    408.534         (Perth, Western Australia, AU, OC) tel4198808.lnk.telstra.net                                                                          
+   ***             *       -inf                                           *** *                                                                                                   
+   203.41.0.254    1221    410.844         (Perth, Western Australia, AU, OC) atlas-per.telstra.net                                                                               

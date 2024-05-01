@@ -1,0 +1,14 @@
+   202.152.129.74  23951   0.0               (Yogyakarta, Yogyakarta, ID, AS) 202-152-129-74.citra.net.id                                                                         
+   202.152.129.73  23951   0.395     (Pugeran Maguwoharjo, Yogyakarta, ID, AS) 202-152-129-73.citra.net.id                                                                         
+   202.152.153.34  23951   0.64      (Pugeran Maguwoharjo, Yogyakarta, ID, AS) 202-152-153-34.as23951.net                                                                          
+╭─ 202.152.131.235 23951   24.014            (Yogyakarta, Yogyakarta, ID, AS) sgix.rtr1-sgw-eq.citra.net.id                                                                       
+S&T (23951, 6939)  
+├─ 184.105.223.134 6939    23.158              (Singapore, Singapore, SG, AS) port-channel1.core3.sin1.he.net                                                                     
+S (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.194.37  6939    198.645                     (San Jose, CA, US, NA) 100ge12-2.core1.sjc2.he.net                                                                         
+   ***             *       -inf                                           *** *                                                                                                   
+   184.105.177.238 46749   197.648                   (Pleasanton, CA, US, NA) stanford-university.100gigabitethernet5-1.core1.pao1.he.net                                         
+   171.66.0.238    32      200.636                     (Stanford, CA, US, NA) csee-west-rtr-vl12.SUNet                                                                            
+   ***             *       -inf                                           *** *                                                                                                   
+   171.67.70.16    32      198.992             (Stanford, California, US, NA) us-pao-as32.anchors.atlas.ripe.net                                                                  

@@ -1,0 +1,17 @@
+   185.119.168.5   197422  0.0                  (Toulouse, Occitanie, FR, EU) anchor.tetaneutral.net                                                                              
+╭─ 185.119.168.4   197422  0.294                (Toulouse, Occitanie, FR, EU) 185-119-168-4.tetaneutral.net                                                                       
+S (197422, 6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.197.70  6939    28.166                   (Kansas City, MO, US, NA) port-channel4.core2.mci3.he.net                                                                     
+LHL (6939)  
+╰─ 184.104.189.31  6939    34.616                    (Lisbon, Lisbon, PT, EU) port-channel8.core1.lis1.he.net                                                                     
+╭─ 184.104.224.178 37613   39.33                         (Lisbon, 11, PT, EU) etg-is-nigeria.e0-21.switch1.lis1.he.net                                                            
+S&T (37613)  africa-coast-to-europe-ace 👍 || mainone ✘ || west-africa-cable-system-wacs ✓ || sat-3wasc ✓
+╰─ 41.242.114.127  37613   114.536                     (Lagos, Lagos, NG, AF)                                                                                                     
+╭─ 196.216.148.158 *       136.416                     (Lagos, Lagos, NG, AF)                                                                                                     
+S&T (, 37727)  
+╰─ 154.65.16.37    37727   137.324             (Accra, Greater Accra, GH, AF)                                                                                                     
+   154.65.18.77    37727   136.952             (Accra, Greater Accra, GH, AF)                                                                                                     
+   154.65.16.114   37727   134.773             (Accra, Greater Accra, GH, AF)                                                                                                     
+   196.201.2.126   30997   201.423                       (Accra, 1, GH, None) *                                                                                                   
+   196.49.14.25    30997   201.424             (Accra, Greater Accra, GH, AF)                                                                                                     

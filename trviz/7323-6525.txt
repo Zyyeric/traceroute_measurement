@@ -1,0 +1,13 @@
+   171.67.70.16    32      0.0                 (Stanford, California, US, NA) us-pao-as32.anchors.atlas.ripe.net                                                                  
+   171.67.70.1     32      0.31                (Stanford, California, US, NA) sw-tor-01.esrg.stanford.edu                                                                         
+   10.214.4.253    *       0.441                                          ***                                                                                                     
+   171.66.0.207    32      0.754               (Stanford, California, US, NA)                                                                                                     
+   137.164.23.178  2152    1.26                (Stanford, California, US, NA) dc-sfo-agg4--stanford-100g.cenic.net                                                                
+   137.164.11.47   2152    1.984                (Oakland, California, US, NA) dc-oak-agg8--sfra1-agg-01-100g.cenic.net                                                            
+   184.105.177.237 6939    1.983              (Palo Alto, California, US, NA) e0-62.core2.pao1.he.net                                                                             
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 64.71.184.46    4826    2.901                       (San Jose, CA, US, NA) vocus.gigabitethernet2-13.core1.sjc1.he.net                                                         
+S (4826)  hawaiki ✘ || southern-cross-cable-network-sccn ✓ || southern-cross-next ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 114.31.192.105  4826    151.199          (Sydney, New South Wales, AU, OC) be2.bdr02.syd11.nsw.vocus.network                                                                   
+   114.31.201.91   4826    151.159          (Sydney, New South Wales, AU, OC) 91.201.31.114.core.vocus.network                                                                    

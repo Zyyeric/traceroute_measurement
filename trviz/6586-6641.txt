@@ -1,0 +1,16 @@
+   92.38.135.131   202422  0.0                         (Seoul, Seoul, KR, AS)                                                                                                     
+   92.38.135.2     202422  0.311                       (Seoul, Seoul, KR, AS) vrrp.gcore.lu                                                                                       
+   10.255.17.209   *       0.254                                          ***                                                                                                     
+   10.255.17.213   *       0.277                                          ***                                                                                                     
+   10.255.17.147   *       0.432                                          ***                                                                                                     
+╭─ 113.29.52.41    3549    0.486                       (Seoul, Seoul, KR, AS)                                                                                                     
+S (3549, 3356)  apcn-2 ✘ || asia-pacific-gateway-apg ✘ || flag-north-asia-loopreach-north-asia-loop ✘ || eac-c2c ✘ || new-cross-pacific-ncp-cable-system ✘ || korea-japan-cable-network-kjcn ✘ || seamewe-3 ✘ || flag-europe-asia-fea ✘ || trans-pacific-express-tpe-cable-system ✘
+╰─ 4.69.218.106    3356    31.24                          (Tokyo, 13, JP, AS) ae1.3501.ear1.Tokyo4.level3.net                                                                     
+   4.68.127.198    4637    32.108                         (Tokyo, 13, JP, AS) Telstra-level3-10G.Tokyo4.Level3.net                                                                
+╭─ 202.84.148.69   4637    32.523              (Motoyoyogichō, Tokyo, JP, AS) unknown.telstraglobal.net                                                                           
+S (4637)  apcn-2 👍 || eac-c2c 👍 || asia-pacific-gateway-apg ✓ || asia-submarine-cable-express-asecahaya-malaysia ✓ || southeast-asia-japan-cable-sjc ✓ || seamewe-3 👍
+╰─ 202.84.140.173  4637    103.338             (Singapore, Singapore, SG, AS) i-1055.sgcn-core01.telstraglobal.net                                                                
+   202.84.140.173  4637    103.338             (Singapore, Singapore, SG, AS) i-1055.sgcn-core01.telstraglobal.net                                                                
+   202.84.219.173  4637    102.757             (Singapore, Singapore, SG, AS) i-92.sggs01.telstraglobal.net                                                                       
+   210.57.30.94    4637    102.778             (Singapore, Singapore, SG, AS) unknown.telstraglobal.net                                                                           
+   37.10.41.14     202196  102.793             (Singapore, Singapore, SG, AS)                                                                                                     

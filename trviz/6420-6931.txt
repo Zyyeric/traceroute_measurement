@@ -1,0 +1,18 @@
+   45.183.45.23    64116   0.0                  (Lima, Lima Province, PE, SA)                                                                                                     
+   45.183.45.1     64116   0.854                (Lima, Lima Province, PE, SA)                                                                                                     
+   10.7.11.129     *       1.503                                          ***                                                                                                     
+╭─ 200.25.44.65    7195    1.39                 (Lima, Lima Province, PE, SA) ae100.3007.edge1.lim1.as7195.net                                                                    
+LHL (7195)  south-america-1-sam-1 ✘ || america-movil-submarine-cable-system-1-amx-1 ✓ || globenet ✓
+├─ 200.25.51.99    7195    1.565                      (Sao Paulo, SP, BR, SA) ae1.0.edge2.gru1.as7195.net                                                                         
+S (7195)  america-movil-submarine-cable-system-1-amx-1 ✓ || south-america-1-sam-1 ✘ || brusa ✘ || globenet ✓ || monet ✓ || americas-ii ✓
+╰─ 200.25.51.189   7195    85.03                   (Flagami, Florida, US, NA) ae1051.0.edge2.mia1.as7195.net                                                                      
+   ***             *       -inf                                           *** *                                                                                                   
+   62.115.113.48   1299    93.932                  (Atlanta, Georgia, US, NA) atl-b24-link.ip.twelve99.net                                                                        
+╭─ 62.115.116.46   1299    107.566                   (Houston, Texas, US, NA) hou-b3-link.ip.twelve99.net                                                                         
+S&T (1299)  arcos © || gignet-1 ✘ || america-movil-submarine-cable-system-1-amx-1 © || maya-1 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 62.115.124.13   1299    118.371            (Monterrey, Nuevo León, MX, NA) mny-b2-link.ip.twelve99.net                                                                         
+   62.115.123.239  1299    126.768            (Monterrey, Nuevo León, MX, NA) qro-b2-link.ip.twelve99.net                                                                         
+   62.115.124.48   1299    126.668   (Santiago de Querétaro, Querétaro, MX, NA) qro-b3-link.ip.twelve99.net                                                                         
+   62.115.166.226  42473   126.787               (Benito Juarez, CMX, MX, NA) *                                                                                                   
+   131.100.0.158   42473   126.917   (Santiago de Querétaro, Querétaro, MX, NA)                                                                                                     

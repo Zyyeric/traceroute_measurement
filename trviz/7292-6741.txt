@@ -1,0 +1,16 @@
+   176.119.210.244 56457   0.0                       (Athens, Attica, GR, EU)                                                                                                     
+   176.119.210.254 56457   0.354                 (Áno Liósia, Attica, GR, EU)                                                                                                     
+   185.201.254.36  56457   0.162                 (Áno Liósia, Attica, GR, EU) te0-3.ef2.ath01.fastpath.gr                                                                         
+   185.201.254.30  56457   0.239                 (Áno Liósia, Attica, GR, EU) be3503.er1.ath01.fastpath.gr                                                                        
+╭─ 176.126.38.47   *       0.236 (1.937)            (Áno Liósia, Attica, GR, EU) he.gr-ix.gr                                                                                         
+T (, 6939)  
+├─ 184.105.64.169  6939    12.757              (Sofia, Sofia-Capital, BG, EU) 100ge0-75.core3.sof1.he.net                                                                         
+LHL (6939)  seamewe-5 ✓ || seamewe-4 ✓ || seamewe-3 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.194.201 6939    174.845             (Singapore, Singapore, SG, AS) port-channel14.core3.sin1.he.net                                                                    
+S (6939)  eac-c2c ✓ || asia-pacific-gateway-apg ✓ || southeast-asia-japan-cable-sjc ✓ || asia-america-gateway-aag-cable-system ✓ || apcn-2 ✓
+╰─ 184.104.199.181 6939    215.556             (Hong Kong, Hong Kong, HK, AS) port-channel9.core2.hkg1.he.net                                                                     
+   184.104.220.67  6939    207.551             (Hong Kong, Hong Kong, HK, AS) lshiy.e0-30.switch1.hkg1.he.net                                                                     
+   103.203.243.11  955     209.653             (Hong Kong, Hong Kong, HK, AS) multi-user.port-channe17.switch1.hkg1.bb.lshiy.net                                                  
+   89.213.179.65   32167   209.707             (Hong Kong, Hong Kong, HK, AS) 89-213-179-65.ip.lshiyusercontent.com                                                               

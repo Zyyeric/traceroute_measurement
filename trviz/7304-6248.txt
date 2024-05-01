@@ -1,0 +1,11 @@
+   213.192.184.42  6667    0.0                    (Helsinki, Uusimaa, FI, EU) ae1-0.bbr1.sto2.se.eunetip.net                                                                      
+   213.192.184.41  6667    3.0                    (Helsinki, Uusimaa, FI, EU) ae0-0.bbr1.sto4.se.eunetip.net                                                                      
+╭─ 213.192.184.101 6667    22.997                        (None, None, FI, EU) *                                                                                                   
+LHL (6667, 174)  circe-north ✓ || scylla ✓ || ulysses-2 ✘ || zeus ✓ || atlantic-crossing-1-ac-1 ✓ || concerto ✘ || farland-north ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 154.54.39.185   174     25.997                     (Amsterdam, NH, NL, EU) be3458.ccr42.ams03.atlas.cogentco.com                                                               
+T (174)  
+╰─ 154.54.38.210   174     30.996                       (Hamburg, HH, DE, EU) be2816.ccr42.ham01.atlas.cogentco.com                                                               
+   149.6.143.58    174     32.996                  (Hamburg, Hamburg, DE, EU)                                                                                                     
+   85.233.1.2      29505   31.996                  (Hamburg, Hamburg, DE, EU) eth50-1.rt-core-lbc-nls-01.net.glasfaser.swhl.de                                                    
+   85.233.1.54     29505   31.996        (Lübeck, Schleswig-Holstein, DE, EU) de-lbc-as29505.anchors.atlas.ripe.net                                                               

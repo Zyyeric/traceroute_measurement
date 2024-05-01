@@ -1,0 +1,12 @@
+   94.203.76.219   15802   0.0                         (Dubai, Dubai, AE, AS)                                                                                                     
+╭─ 94.203.76.209   15802   0.636                       (Dubai, Dubai, AE, AS)                                                                                                     
+S&T (15802, 31133)  europe-india-gateway-eig ✓ || seamewe-3 ✓ || flag-europe-asia-fea ✓
+├  10.254.41.74    *       122.227                                        ***                                                                                                     
+├─ 195.66.225.227  31133   122.936                    (London, ENG, GB, None) *                                                                                                   
+S (31133, 14061)  europe-india-gateway-eig ✓ || flag-europe-asia-fea ✘ || seamewe-3 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 159.65.150.114  14061   247.796        (Doddaballapura, Karnataka, IN, AS) in-blr-as14061.anchors.atlas.ripe.net                                                               

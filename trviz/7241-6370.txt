@@ -1,0 +1,11 @@
+   103.202.216.76  59105   0.0                         (Chōfu, Tokyo, JP, AS)                                                                                                     
+   103.202.216.73  59105   0.354                       (Tokyo, Tokyo, JP, AS) ge-2-1-0.pop03er03.bb.homenoc.ad.jp                                                                 
+   103.48.31.180   59105   0.391                         (None, None, JP, AS) gi0-2-0.pop03cr01.bb.homenoc.ad.jp                                                                  
+╭─ 103.48.31.63    59105   0.409                       (Tokyo, Tokyo, JP, AS) ge-0-0-8.pop03er01.bb.homenoc.ad.jp                                                                 
+S (59105, 23944)  apcn-2 ✓ || eac-c2c ✓ || asia-pacific-gateway-apg ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.212.74  23944   71.631                   (Hong Kong, None, HK, AS) sky-cable-corporation.port-channel4.switch1.hkg1.he.net                                             
+S (23944)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 182.18.209.9    23944   71.667              (Manila, Metro Manila, PH, AS)                                                                                                     

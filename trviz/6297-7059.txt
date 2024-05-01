@@ -1,0 +1,27 @@
+   202.152.129.74  23951   0.0               (Yogyakarta, Yogyakarta, ID, AS) 202-152-129-74.citra.net.id                                                                         
+   202.152.129.73  23951   0.353     (Pugeran Maguwoharjo, Yogyakarta, ID, AS) 202-152-129-73.citra.net.id                                                                         
+╭─ 202.152.153.1   23951   0.614     (Pugeran Maguwoharjo, Yogyakarta, ID, AS) 202-152-153-1.as23951.net                                                                           
+S&T (23951, 7713)  australia-singapore-cable-asc ✓ || matrix-cable-system ✘ || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || indonesia-global-gateway-igg-system ✓ || seamewe-3 ✓ || jasuka ✓ || indigo-west ✘ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || jakabare ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 180.240.193.93  7713    24.333              (Singapore, Singapore, SG, AS)                                                                                                     
+   180.240.193.93  7713    24.333              (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 180.240.204.8   7713    24.418              (Singapore, Singapore, SG, AS)                                                                                                     
+S (7713, 1299)  asia-america-gateway-aag-cable-system 👍
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 62.115.141.126  1299    186.795             (San Jose, California, US, NA) sjo-b23-link.ip.twelve99.net                                                                        
+╭─ 62.115.46.249   1299    186.058             (San Jose, California, US, NA) cablewireless-ic-382397.ip.twelve99-cust.net                                                        
+S (1299, 1273)  sea-us © ↠ exa-north-and-south ✘ || sea-us © ↠ atlantic-crossing-1-ac-1 ✓ || sea-us © ↠ yellow ✓ || sea-us © ↠ apollo © || sea-us © ↠ tata-tgn-atlantic ✓ || sea-us © ↠ flag-atlantic-1-fa-1 ©
+╰─ 195.2.24.98     1273    279.829                       (None, None, GB, EU) ae16-xcr1.chg.cw.net                                                                                
+   195.2.31.6      1273    279.835                       (None, None, GB, EU) *                                                                                                   
+   195.2.24.242    1273    279.909                       (None, None, GB, EU) et-10-3-0-xcr1.ptl.cw.net                                                                           
+   195.2.24.229    1273    273.737                       (None, None, GB, EU) ae29-xcr1.mlu.cw.net                                                                                
+   195.2.16.2      1273    279.457                       (None, None, GB, EU) ae23.0-xcr1.sof.cw.net                                                                              
+╭─ 195.2.12.58     3329    283.988                       (None, None, GB, EU) vfgr1-vf-gw.sof.cw.net                                                                              
+S&T (3329)  
+╰─ 62.74.30.102    3329    290.513                        (Athens, I, GR, EU) *                                                                                                   
+   62.74.30.101    3329    290.804                        (Athens, I, GR, EU) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   62.74.226.30    12361   298.56                    (Athens, Attica, GR, EU) dumy30.panafonet.gr                                                                                 
+   ***             *       -inf                                           *** *                                                                                                   
+   139.91.68.3     8522    286.026                 (Irákleion, Crete, GR, EU)                                                                                                     

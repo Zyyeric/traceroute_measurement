@@ -1,0 +1,13 @@
+   212.45.159.245  8816    0.0                      (Milan, Lombardy, IT, EU) it-mil-as8816.anchors.atlas.ripe.net                                                                
+   212.45.159.246  8816    0.884                    (Milan, Lombardy, IT, EU) asr-luc1-gi7.metrolink.it                                                                           
+   212.45.137.202  8816    1.085 (6.254)               (Milan, Lombardy, IT, EU) asr-luc2-te27.metrolink.it                                                                          
+   212.45.137.197  8816    1.285                    (Milan, Lombardy, IT, EU) br-ava-te28.metrolink.it                                                                            
+   212.45.159.1    8816    1.436                         (Milan, 9, IT, None) br-mix-fo21.metrolink.it                                                                            
+╭─ 213.242.125.45  3356    0.743                    (Milan, Lombardy, IT, EU)                                                                                                     
+T (3356)  
+├─ 171.75.9.233    3356    24.438              (Sofia, Sofia-Capital, BG, EU) ae2.20.bar2.sof2.neo.colt.net                                                                       
+LHL (3356, 198589)  
+├─ 212.162.31.130  198589  70.962                        (None, None, GB, EU) *                                                                                                   
+LHL (198589, 21277)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 130.193.166.22  21277   77.003                      (Erbil, Arbīl, IQ, AS)                                                                                                     

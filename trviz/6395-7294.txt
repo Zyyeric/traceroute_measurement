@@ -1,0 +1,16 @@
+   10.252.4.170    *       0.0                                            ***                                                                                                     
+   10.252.4.169    *       0.096                                          ***                                                                                                     
+   10.252.4.153    *       0.121                                          ***                                                                                                     
+   10.252.0.37     *       11.296                                         ***                                                                                                     
+   195.175.203.217 9121    14.424            (Bahçelievler, Istanbul, TR, AS) 195.175.203.217.static.turktelekom.com.tr                                                           
+   81.212.199.166  9121    13.245                (Istanbul, Istanbul, TR, AS) 00-atakoy-sr14s-t2-2---00-atakoy-sr12e-t3-7.statik.turktelekom.com.tr                               
+   212.156.252.237 9121    16.535                       (Aksaray, 68, TR, AS) 00-gayrettepe-xrs-t2-2---00-atakoy-xrs-t2-2.statik.turktelekom.com.tr                               
+   81.212.213.76   9121    13.988                (Istanbul, Istanbul, TR, AS) 81.212.213.76.static.turktelekom.com.tr                                                             
+   81.212.209.102  9121    13.945                        (None, None, TR, AS) 10-balya-sr12-t4-1---10-balikesir-sr12e-t3-3.statik.turktelekom.com.tr                              
+╭─ 212.156.139.62  42926   29.604                      (Istanbul, 34, TR, AS) 308-buk-col-2---00-ebgp-gayrettepe-k.statik.turktelekom.com.tr                                      
+S&T (42926, 3356)  
+├─ 212.162.26.177  3356    28.615              (Bucharest, București, RO, EU) ae52.edge3.bucharest1.level3.net                                                                    
+LHL (3356, 39534)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 213.242.120.238 39534   77.962                       (Paris, None, FR, EU) LYRA-NETWOR.bear1.Paris10.Level3.net                                                                
+   185.151.70.11   39534   73.965                 (Labège, Occitanie, FR, EU)                                                                                                     

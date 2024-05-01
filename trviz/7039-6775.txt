@@ -1,0 +1,14 @@
+   192.30.89.87    394256  0.0          (Vancouver, British Columbia, CA, NA) ca-van-as394256.anchors.atlas.ripe.net                                                              
+╭─ 192.30.89.94    394256  0.762        (Vancouver, British Columbia, CA, NA)                                                                                                     
+S&T (394256, 6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.196.221 6939    4.851                        (Seattle, WA, US, NA) port-channel3.core2.sea1.he.net                                                                     
+   184.104.199.70  6939    5.007                (Seattle, Washington, US, NA) port-channel1.core1.sea2.he.net                                                                     
+╭─ 184.105.81.81   6939    24.348              (San Jose, California, US, NA) port-channel12.core4.sjc2.he.net                                                                    
+S (6939, )  faster ✓ || pacific-crossing-1-pc-1 ✘ || jupiter ✓ || tata-tgn-pacific ✓ || japan-u-s-cable-network-jus ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 203.190.230.209 *       130.714                     (Tokyo, Tokyo, JP, AS)                                                                                                     
+   84.17.33.105    57695   130.582               (Tokyo / Narita, 12, JP, AS) v3517.cr01.nrt04.jp.misaka.io                                                                       
+   199.119.64.141  969     132.014                     (Tokyo, Tokyo, JP, AS) e32-20.spine1.nrt04.jp.misaka.io                                                                    
+   103.170.232.11  142616  131.323                     (Tokyo, Tokyo, JP, AS) po-31.lag.nrt04.jp.misaka.io                                                                        
+   103.170.232.152 142616  130.676                     (Tokyo, Tokyo, JP, AS) user-103-170-232-152.nrt04.jp.misaka.io                                                             

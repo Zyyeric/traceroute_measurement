@@ -1,0 +1,22 @@
+   213.157.192.2   16010   0.0                     (Tbilisi, Tbilisi, GE, AS) host-213-157-192-2.customer.magticom.ge                                                             
+   213.157.192.1   16010   1.016                        (Tbilisi, TB, GE, AS) host-213-157-192-1.customer.magticom.ge                                                             
+   213.157.192.9   16010   0.467             (Tsqnet’i, Kvemo Kartli, GE, AS) host-213-157-192-9.customer.magticom.ge                                                             
+╭─ 213.157.192.49  16010   0.798                   (Tbilisi, Tbilisi, GE, AS) host-213-157-192-49.customer.magticom.ge                                                            
+T (16010, 15924)  
+╰─ 84.44.20.157    15924   25.993                (Istanbul, Istanbul, TR, AS)                                                                                                     
+╭─ 195.2.23.129    1273    25.669                (Istanbul, Istanbul, TR, AS) ae4-17-ucr1.tuz.cw.net                                                                              
+S&T (1273)  mednautilus-submarine-system ✓ || seamewe-5 ✓ || seamewe-3 👍
+├─ 195.2.21.190    1273    80.289                   (Milan, Lombardy, IT, EU) ae21-xcr1.mld.cw.net                                                                                
+S&T (1273)  
+╰─ 195.2.20.210    1273    80.326                        (None, None, GB, EU) ae11-pcr1.fis.cw.net                                                                                
+   195.2.18.85     1273    79.938                        (None, None, GB, EU) ae21-xcr2.six.cw.net                                                                                
+   195.2.16.214    1273    80.019                        (None, None, GB, EU) ae0-xcr1.skt.cw.net                                                                                 
+╭─ 195.89.96.190   12389   80.279                        (None, None, GB, EU) rostelecom-ae15-gw1.skt.cw.net                                                                      
+T (12389)  
+╰─ 185.140.148.157 12389   97.273                 (Obruchevo, Moscow, RU, EU)                                                                                                     
+╭─ 90.154.106.246  49800   124.198                      (Moscow, MOW, RU, EU) broadband-90-154-106-246.ip.moscow.rt.ru                                                            
+LHL (49800)  
+╰─ 46.19.96.254    49800   127.725                      (Yerevan, ER, AM, AS) *                                                                                                   
+   91.218.4.66     51225   123.123                       (None, None, AM, AS) 91.218.4.66.ArmIX.am                                                                                
+   91.218.4.65     51225   1446.201                      (None, None, AM, AS) 91.218.4.65.ArmIX.am                                                                                
+   91.218.5.67     51225   123.24                  (Yerevan, Yerevan, AM, AS) 91.218.5.67.armix.am                                                                                

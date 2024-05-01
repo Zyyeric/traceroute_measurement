@@ -1,0 +1,26 @@
+   141.164.39.1    20473   0.0                      (Paripark, Seoul, KR, AS) 141.164.39.1.vultrusercontent.com                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   100.100.100.1   *       0.934                                          ***                                                                                                     
+   10.84.0.21      *       0.704                                          ***                                                                                                     
+   10.84.2.45      *       1.237                                          ***                                                                                                     
+╭─ 63.218.237.133  3491    1.719                       (Seoul, Seoul, KR, AS) te-0-0-0-24.br03.seo03.as3491.net                                                                   
+S (3491)  apcn-2 👍 || eac-c2c ✓ || flag-north-asia-loopreach-north-asia-loop 👍 || asia-pacific-gateway-apg ✓ || flag-europe-asia-fea ✓ || seamewe-3 👍
+╰─ 63.218.174.134  3491    38.498              (Hong Kong, Hong Kong, HK, AS) be42.br04.hkg12.as3491.net                                                                          
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 154.54.88.49    174     39.703                   (Hong Kong, None, HK, AS) be2414.ccr21.hkg02.atlas.cogentco.com                                                               
+S (174)  asia-africa-europe-1-aae-1 ✓ || seamewe-3 ✓
+├─ 154.54.6.25     174     260.477                   (Marseille, PAC, FR, EU) be2900.ccr32.mrs02.atlas.cogentco.com                                                               
+S&T (174)  
+├─ 154.54.74.178   174     263.5                          (Milan, 25, IT, EU) be2865.rcr21.mil01.atlas.cogentco.com                                                               
+T (174)  
+├─ 154.54.63.221   174     264.917                  (Munich, Bavaria, DE, EU) be3814.ccr22.muc03.atlas.cogentco.com                                                               
+T (174)  
+├─ 154.54.59.181   174     269.896                        (Vienna, 9, AT, EU) be3462.ccr52.vie01.atlas.cogentco.com                                                               
+LHL (174)  
+├─ 154.54.59.190   174     303.29                       (Belgrade, 0, RS, EU) be3464.ccr51.beg03.atlas.cogentco.com                                                               
+LHL (174)  
+╰─ 130.117.50.73   174     303.003                   (Athens, Attica, GR, EU) be3246.rcr21.ath01.atlas.cogentco.com                                                               
+   149.11.120.66   174     302.445              (Metamórfosi, Attica, GR, EU) fastpath1.demarc.cogentco.com                                                                       
+   185.201.254.25  56457   302.404                    (Kítsi, Attica, GR, EU) be3500.ef1.ath01.fastpath.gr                                                                        
+   185.201.254.35  56457   302.573                    (Kítsi, Attica, GR, EU) te1-22.sp1.ath01.fastpath.gr                                                                        
+   176.119.210.244 56457   302.583                   (Athens, Attica, GR, EU)                                                                                                     

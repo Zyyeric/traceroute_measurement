@@ -1,0 +1,15 @@
+   213.184.86.101  59795   0.0           (Copenhagen, Capital Region, DK, EU) dk-cph-as59795.anchors.atlas.ripe.net                                                               
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 185.212.169.49  9009    0.593             (Herlev, Capital Region, DK, EU) vlan108.as04.cph1.dk.m247.ro                                                                        
+S (9009)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 77.243.185.214  9009    1.162                    (Manchester, ENG, GB, EU) te-13-7-0.core-dc2.man4.uk.m247.com                                                                 
+T (9009)  
+╰─ 193.9.115.141   9009    11.23                      (Stockholm, AB, SE, EU) xe-0-2-3-0.bb1.stk1.se.m247.com                                                                     
+╭─ 194.68.123.57   *       10.464              (Stockholm, Stockholm, SE, EU) netnod-ix-ge-a-sth-1500.obe.net                                                                     
+S&T (, 42675)  
+├─ 46.227.64.85    42675   10.616        (Copenhagen, Capital Region, DK, EU) ae1-12.cph-dlr.obe.net                                                                              
+S&T (42675, 3399)  
+╰─ 46.227.64.235   3399    11.803                          (Malmo, M, SE, EU) po1-100.mma-vg4-2.obe.net                                                                           
+   46.227.64.211   60396   11.83                         (None, None, SE, EU) xe-0-1-1-704-demarc.mal-vg4.obenetwork.net                                                          
+   91.209.0.21     60396   11.976                      (Malmö, Skåne, SE, EU) se-lud-as60396.anchors.atlas.ripe.net                                                               

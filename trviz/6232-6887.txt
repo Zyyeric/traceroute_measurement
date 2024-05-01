@@ -1,0 +1,17 @@
+   27.111.84.21    135132  0.0           (Cebu City, Central Visayas, PH, AS) ph-ceb-as135132.anchors.atlas.ripe.net                                                              
+   27.111.84.20    135132  1.481             (Baugo, Central Visayas, PH, AS) vlan509.core.ceb02.ds.network                                                                       
+   192.168.159.142 *       19.022                                         ***                                                                                                     
+   192.168.159.152 *       2.596                                          ***                                                                                                     
+   192.168.159.168 *       20.687                                         ***                                                                                                     
+   192.168.159.165 *       1.764                                          ***                                                                                                     
+   43.224.189.33   137074  3.536             (Baugo, Central Visayas, PH, AS) 43-224-189-33.static.rise.as                                                                        
+╭─ 103.44.232.39   63927   41.425                      (Cebu City, 7, PH, AS) 103-44-232-39.static.rise.as                                                                        
+LHL (63927, 59605)  national-digital-transmission-network-ndtn ✘ ↠ seamewe-3 ✓
+├─ 80.81.192.84    59605   192.087           (Frankfurt am Main, 5, DE, None) ipv4.de-cix.fra.de.as59605.zain.com                                                                 
+LHL (59605)  falcon ✓ || fiber-optic-gulf-fog ✓ || tata-tgn-gulf ✓ || gulf-bridge-international-cable-system-gbicsmiddle-east-north-africa-mena-cable-system ✓
+╰─ 151.248.105.47  59605   274.447                       (None, None, BH, AS) *                                                                                                   
+╭─ 151.248.98.137  42961   278.703                       (None, None, BH, AS) *                                                                                                   
+S (42961)  
+├  10.32.1.6       *       272.398                                        ***                                                                                                     
+├  10.32.1.9       *       272.062                                        ***                                                                                                     
+╰─ 212.43.17.42    42961   272.834     (Al Farwānīyah, Al Farwaniyah, KW, AS)                                                                                                     

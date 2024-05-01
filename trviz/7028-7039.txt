@@ -1,0 +1,13 @@
+   103.170.232.152 142616  0.0                         (Tokyo, Tokyo, JP, AS) user-103-170-232-152.nrt04.jp.misaka.io                                                             
+   103.170.232.11  142616  0.119                       (Tokyo, Tokyo, JP, AS) po-31.lag.nrt04.jp.misaka.io                                                                        
+   103.170.232.2   142616  0.185                       (Tokyo, Tokyo, JP, AS) spine1.nrt04.jp.misaka.io                                                                           
+   199.119.64.140  969     0.207                       (Tokyo, Tokyo, JP, AS) e53-20.cr2a.eqty8.nrt4.jp.917.as                                                                    
+   84.17.33.104    60068   0.181                       (Tokyo, Tokyo, JP, AS) po66-3517.cr02.nrt04.jp.misaka.io                                                                   
+   45.134.215.23   60068   0.955                       (Tokyo, Tokyo, JP, AS) cloudflare-tyo.cdn77.com                                                                            
+   103.22.201.36   13335   0.686                          (Tokyo, 13, JP, AS) *                                                                                                   
+   162.158.117.75  13335   0.486                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+   162.158.117.112 13335   0.538                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+╭─ 162.158.117.161 13335   0.683                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+S (13335, 141235)  asia-pacific-gateway-apg ✓ || eac-c2c ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 103.156.251.7   141235  68.385              (Singapore, Singapore, SG, AS)                                                                                                     

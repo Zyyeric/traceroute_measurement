@@ -1,0 +1,22 @@
+   116.206.155.229 45117   0.0                   (Ahmedabad, Gujarat, IN, AS)                                                                                                     
+   116.206.155.225 45117   0.915                 (Ahmedabad, Gujarat, IN, AS)                                                                                                     
+   121.241.90.57   4755    0.681                 (Ahmedabad, Gujarat, IN, AS) 121.241.90.57.static-ahmedabad.vsnl.net.in                                                          
+   172.28.176.253  *       9.238                                          ***                                                                                                     
+╭─ 180.87.38.5     6453    9.027                         (Mumbai, MH, IN, AS) ix-ae-0-100.tcore1.mlv-mumbai.as6453.net                                                            
+S (6453)  seamewe-3 👍 || flag-europe-asia-fea ✓ || europe-india-gateway-eig ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 80.231.130.130  6453    132.519                     (London, None, GB, EU) if-ae-17-2.tcore1.ldn-london.as6453.net                                                             
+S (6453)  
+├─ 80.231.62.2     6453    132.74                        (None, None, CA, NA) *                                                                                                   
+LHL (6453, 6461)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 64.125.29.87    6461    136.632                       (Paris, IDF, FR, EU) ae1.mcs1.cdg12.fr.eth.zayo.com                                                                      
+╭─ 79.141.38.181   6461    139.729             (Paris, Île-de-France, FR, EU) 79.141.38.181.idia-344160-zyo.zip.zayo.com                                                          
+S&T (6461, 6696)  
+╰─ 62.112.29.168   6696    145.247                   (Brussels, None, BE, EU) edg01.lcldg.bra.be.verixi.net                                                                       
+   62.112.29.165   6696    144.02                        (None, None, BE, EU) edg01.blutw.bra.be.verixi.net                                                                       
+   80.67.181.1     204059  144.959                    (Brussels, BRU, BE, EU) edge-01.louise.neutri.net                                                                           
+   80.67.181.18    204059  139.534       (Brussels, Brussels Capital, BE, EU) core-01.louise.neutri.net                                                                           
+   80.67.181.29    204059  144.102       (Brussels, Brussels Capital, BE, EU) be-bru-as204059.anchors.atlas.ripe.net                                                              

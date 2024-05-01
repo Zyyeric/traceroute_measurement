@@ -1,0 +1,21 @@
+   103.153.176.122 131657  0.0                       (Taipei, Taiwan, TW, AS) 103-153-176-122.as131657.net                                                                        
+   103.153.176.254 131657  0.243                     (Taipei, Taiwan, TW, AS) 103-153-176-254.as131657.net                                                                        
+   103.51.91.5     *       0.765                     (Taipei, Taiwan, TW, AS) et-0-0-1.cr1.hd.tpe.as131657.net                                                                    
+╭─ 103.158.187.30  *       1.054                     (Taipei, Taiwan, TW, AS) as6939.ly.stuix.io                                                                                  
+S (, 6939)  seamewe-3 ✘ || apcn-2 ✘ || trans-pacific-express-tpe-cable-system ✘ || faster ✘ || eac-c2c ✘ || asia-pacific-gateway-apg ✘ || flag-north-asia-loopreach-north-asia-loop ✘ || new-cross-pacific-ncp-cable-system ✘
+├─ 184.104.199.145 6939    27.84                       (Osaka, Ōsaka, JP, AS) port-channel6.core1.osa1.he.net                                                                     
+S (6939)  tata-tgn-pacific ✓ || faster ✓ || japan-u-s-cable-network-jus ✓ || new-cross-pacific-ncp-cable-system ✓ || jupiter ✓ || trans-pacific-express-tpe-cable-system ✓ || unityeac-pacific ✓ || pacific-crossing-1-pc-1 ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.105.213.218 6939    189.042                     (New York, NY, US, NA) 100ge11-1.core1.nyc5.he.net                                                                         
+LHL (6939, 59605)  apollo ✓ ↠ seamewe-5 ✓ ↠ falcon ✓ || apollo ✓ ↠ seamewe-4 ✓ ↠ falcon ✓ || apollo ✓ ↠ asia-africa-europe-1-aae-1 ✓ ↠ falcon ✓ || apollo ✓ ↠ peace-cable ✘ ↠ falcon ✓ || apollo ✓ ↠ imewe ✓ ↠ falcon ✓ || apollo ✓ ↠ seamewe-3 ✓ ↠ falcon ✓ || flag-atlantic-1-fa-1 ✓ ↠ seamewe-5 ✓ ↠ falcon ✓ || flag-atlantic-1-fa-1 ✓ ↠ seamewe-4 ✓ ↠ falcon ✓ || flag-atlantic-1-fa-1 ✓ ↠ asia-africa-europe-1-aae-1 ✓ ↠ falcon ✓ || flag-atlantic-1-fa-1 ✓ ↠ peace-cable ✘ ↠ falcon ✓ || flag-atlantic-1-fa-1 ✓ ↠ imewe ✓ ↠ falcon ✓ || flag-atlantic-1-fa-1 ✓ ↠ seamewe-3 ✓ ↠ falcon ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 151.248.96.98   59605   392.907                       (None, None, BH, AS) *                                                                                                   
+╭─ 151.248.98.137  42961   395.016                       (None, None, BH, AS) *                                                                                                   
+S (42961)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 212.43.17.42    42961   394.541     (Al Farwānīyah, Al Farwaniyah, KW, AS)                                                                                                     

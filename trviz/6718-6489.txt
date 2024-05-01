@@ -1,0 +1,13 @@
+   87.201.194.242  15802   0.0                            (Dubai, DU, AE, AS) *                                                                                                   
+╭─ 87.201.194.241  15802   1.86                           (Dubai, DU, AE, AS) *                                                                                                   
+S (15802, 24173)  
+├  10.100.35.117   *       2.075                                          ***                                                                                                     
+├  10.100.129.22   *       2.663                                          ***                                                                                                     
+├  10.229.200.162  *       81.762                                         ***                                                                                                     
+├─ 27.111.228.52   24173   79.097                    (Seogwipo, None, KR, AS) 24173.sgw.equinix.com                                                                               
+S (24173, 24176)  
+╰─ 210.86.233.17   24176   98.534     (Ho Chi Minh City, Ho Chi Minh, VN, AS) ci233-17.netnam.vn                                                                                  
+   210.86.233.30   24176   98.044     (Ho Chi Minh City, Ho Chi Minh, VN, AS) ci233-30.netnam.vn                                                                                  
+   210.86.232.101  24173   96.75                          (Hanoi, HN, VN, AS) ci232-101.netnam.vn                                                                                 
+   ***             *       -inf                                           *** *                                                                                                   
+   101.53.31.6     24173   103.996    (Ho Chi Minh City, Ho Chi Minh, VN, AS) ci53.31-6.netnam.vn                                                                                 

@@ -1,0 +1,15 @@
+   203.119.111.139 4608    0.0                 (Brisbane, Queensland, AU, OC) anchor.apnic.net                                                                                    
+   203.119.111.131 4608    0.667               (Brisbane, Queensland, AU, OC) vl-1705.nxcs2.hosted.au.apnic.net                                                                   
+   203.119.104.29  4608    0.424                      (Brisbane, QLD, AU, OC) te-0-1-5.nxgw2.bne.apnic.net                                                                        
+   138.44.129.153  7575    0.763               (Brisbane, Queensland, AU, OC) ae2-223-pe1.fvly.qld.aarnet.net.au                                                                  
+   113.197.15.6    7575    12.296           (Sydney, New South Wales, AU, OC) et-0-3-0.pe1.mcqp.nsw.aarnet.net.au                                                                 
+╭─ 113.197.15.143  7575    12.326              (New South Wales, NSW, AU, OC) et-0-1-0.pe1.bkvl.nsw.aarnet.net.au                                                                 
+S (7575)  hawaiki ✘ || southern-cross-cable-network-sccn ✓ || telstra-endeavour ✓ || southern-cross-next ✓
+├─ 202.158.194.121 7575    153.883                      (Seattle, WA, US, NA) xe-0-2-5.bdr1.b.sea.aarnet.net.au                                                                   
+S (7575, 3491)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 63.223.33.82    3491    216.079                        (Tokyo, 13, JP, AS) Bundle-Ether41.clbr01.tok13.pccwbtn.net                                                             
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   5.8.70.17       199524  225.241                        (Tokyo, 13, JP, AS) gw.gcore.lu                                                                                         
+   92.38.178.149   202422  225.068                   (Urayasu, Tokyo, JP, AS)                                                                                                     

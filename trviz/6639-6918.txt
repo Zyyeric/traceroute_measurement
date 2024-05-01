@@ -1,0 +1,13 @@
+   139.162.3.33    63949   0.0                 (Singapore, Singapore, SG, AS) li845-33.members.linode.com                                                                         
+   10.209.1.183    *       0.107                                          ***                                                                                                     
+   10.209.35.9     *       0.262                                          ***                                                                                                     
+   10.209.32.2     *       0.271                                          ***                                                                                                     
+╭─ 139.162.0.101   63949   0.427               (Singapore, Singapore, SG, AS) lo0-0.gw1.sin1.sg.linode.com                                                                        
+S (63949, 58453)  
+├─ 27.111.228.228  58453   0.371 (1.566)                (Seogwipo, None, KR, AS) 58453.sgw.equinix.com                                                                               
+S (58453)  
+╰─ 223.118.5.201   58453   33.998              (Hong Kong, Hong Kong, HK, AS)                                                                                                     
+   223.120.3.90    58453   34.039                        (None, None, HK, AS) *                                                                                                   
+   223.119.0.93    202196  34.515                        (None, None, HK, AS) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   37.10.40.14     202196  79.922              (Hong Kong, Hong Kong, HK, AS)                                                                                                     

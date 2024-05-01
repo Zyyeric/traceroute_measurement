@@ -1,0 +1,22 @@
+   172.93.18.42    1403    0.0                    (Longueuil, Quebec, CA, NA) ca-lon-as1403.anchors.atlas.ripe.net                                                                
+   172.93.18.41    1403    0.321                  (Longueuil, Quebec, CA, NA) 1804.ae12.er1.1225stco.yhu.ebox.ca                                                                  
+   96.127.249.165  1403    0.478                       (Montreal, QC, CA, NA) 0.ae1.er1.mtl7.yul.ebox.ca                                                                          
+   62.115.160.129  1299    0.829                   (Montréal, Quebec, CA, NA) motl-b2-link.ip.twelve99.net                                                                        
+╭─ 62.115.126.220  1299    0.929                   (Montréal, Quebec, CA, NA) motl-b1-link.ip.twelve99.net                                                                        
+S&T (1299)  exa-north-and-south ✘
+╰─ 62.115.137.146  1299    22.461                 (Chicago, Illinois, US, NA) chi-bb2-link.ip.twelve99.net                                                                        
+   62.115.126.159  1299    22.822                 (Chicago, Illinois, US, NA) chi-b23-link.ip.twelve99.net                                                                        
+╭─ 62.115.183.249  1299    24.141                 (Chicago, Illinois, US, NA) cablewireless-ic-382152.ip.twelve99-cust.net                                                        
+S (1299, 1273)  
+╰─ 195.2.31.6      1273    98.643                        (None, None, GB, EU) *                                                                                                   
+   195.2.28.170    1273    98.204                        (None, None, GB, EU) ae3-xcr1.slo.cw.net                                                                                 
+╭─ 195.2.8.233     1273    89.92                    (London, England, GB, EU) ae21-xcr1.hex.cw.net                                                                                
+S&T (1273)  
+├─ 195.2.8.93      1273    98.195                       (Dublin, L, IE, None) ae10-xcr1.duc.cw.net                                                                                
+S (1273, 47720)  
+├─ 208.175.252.154 47720   103.039                       (None, None, US, NA) chipelectronic-gw.duc.vf.net                                                                        
+S (47720)  
+╰─ 91.103.0.54     47720   100.356                          (Cork, M, IE, EU) *                                                                                                   
+   91.103.0.199    47720   100.202                          (Cork, M, IE, EU) *                                                                                                   
+   91.103.0.99     42953   101.043                          (Cork, M, IE, EU) *                                                                                                   
+   185.6.39.132    42953   100.441                    (Cork, Munster, IE, EU)                                                                                                     

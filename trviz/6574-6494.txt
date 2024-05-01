@@ -1,0 +1,16 @@
+   80.67.190.218   204092  0.0                     (Rennes, Brittany, FR, EU) ripe-anchor.grifon.fr                                                                               
+   80.67.190.193   204092  0.247                   (Rennes, Brittany, FR, EU) xn--beurresal-j4a.grifon.fr                                                                         
+   89.234.186.43   204092  0.428                         (None, None, FR, EU) eth1.33.asbr02.cogent-rns.grifon.fr                                                                 
+   89.234.186.145  204092  8.268               (Paris, Île-de-France, FR, EU) eno1.201.asbr-th2.grifon.fr                                                                         
+   193.200.43.84   34019   8.232               (Paris, Île-de-France, FR, EU) xe-201-0-33-204-er02-th2.bb.hivane.net                                                              
+   193.164.153.206 34019   8.606                         (None, None, FR, EU) ae0-3000-rt-th2-j.bb.hivane.net                                                                     
+╭─ 193.164.153.247 12654   11.432                        (None, None, FR, EU) po1-704-er01-lil.bb.hivane.net                                                                      
+T (12654, 14061)  
+├─ 80.81.193.141   14061   25.865            (Frankfurt am Main, 5, DE, None) fra1-edge1.digitalocean.com                                                                         
+T (14061)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 46.101.90.215   14061   26.132                   (London, England, GB, EU) uk-lon-as14061.anchors.atlas.ripe.net                                                               

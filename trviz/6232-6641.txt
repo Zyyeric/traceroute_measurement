@@ -1,0 +1,24 @@
+   92.38.135.131   202422  0.0                         (Seoul, Seoul, KR, AS)                                                                                                     
+   92.38.135.2     202422  0.419                       (Seoul, Seoul, KR, AS) vrrp.gcore.lu                                                                                       
+   10.255.17.210   *       0.433                                          ***                                                                                                     
+   10.255.17.213   *       0.261                                          ***                                                                                                     
+   10.255.17.146   *       0.356                                          ***                                                                                                     
+╭─ 8.244.74.29     3356    0.53                        (Seoul, Seoul, KR, AS)                                                                                                     
+S (3356)  apcn-2 ✓ || asia-pacific-gateway-apg ✓ || flag-north-asia-loopreach-north-asia-loop ✓ || eac-c2c © || new-cross-pacific-ncp-cable-system ✓ || korea-japan-cable-network-kjcn ✓ || seamewe-3 ✓ || flag-europe-asia-fea © || trans-pacific-express-tpe-cable-system ✓
+╰─ 4.69.226.254    3356    30.995                      (Tokyo, Tokyo, JP, AS) ae1.3508.edge4.tokyo4.level3.net                                                                    
+   8.244.132.6     3356    30.89                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+╭─ 206.148.24.47   7578    30.851                      (Tokyo, Tokyo, JP, AS) po2.ty-eqxty8-bb5.globalsecurelayer.com                                                             
+S (7578)  
+├─ 206.148.24.66   7578    96.443           (Sydney, New South Wales, AU, OC) e51.sg-eqxsg3-bb1.globalsecurelayer.com                                                             
+S (7578)  
+╰─ 31.217.251.74   7578    96.434              (Singapore, Singapore, SG, AS) unknown.globalsecurelayer.com                                                                       
+╭─ 160.202.164.165 137409  81.266              (Singapore, Singapore, SG, AS)                                                                                                     
+S (137409, 8529)  
+╰─ 213.202.6.228   8529    157.602                   (Muscat, Muscat, OM, AS)                                                                                                     
+╭─ 213.202.1.189   8529    267.996                   (Muscat, Muscat, OM, AS)                                                                                                     
+S&T (8529, 42961)  
+├─ 151.248.98.137  42961   268.45                        (None, None, BH, AS) *                                                                                                   
+S (42961)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 212.43.17.42    42961   268.24      (Al Farwānīyah, Al Farwaniyah, KW, AS)                                                                                                     

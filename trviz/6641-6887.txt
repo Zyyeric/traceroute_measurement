@@ -1,0 +1,17 @@
+   27.111.84.21    135132  0.0           (Cebu City, Central Visayas, PH, AS) ph-ceb-as135132.anchors.atlas.ripe.net                                                              
+   27.111.84.20    135132  1.321             (Baugo, Central Visayas, PH, AS) vlan509.core.ceb02.ds.network                                                                       
+   192.168.159.142 *       23.708                                         ***                                                                                                     
+   192.168.159.152 *       1.755                                          ***                                                                                                     
+   192.168.159.168 *       17.462                                         ***                                                                                                     
+   192.168.159.165 *       2.129                                          ***                                                                                                     
+╭─ 203.177.209.217 4775    3.767             (Baugo, Central Visayas, PH, AS)                                                                                                     
+S (4775, 132021)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 80.81.75.149    132021  63.364                        (None, None, GB, EU) *                                                                                                   
+S (132021, 15412)  
+╰─ 62.216.128.177  15412   94.794                       (Seoul, None, KR, AS) ae3.0.ejr04.seo002.flagtel.com                                                                      
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   45.80.212.35    199524  93.976                      (Seoul, Seoul, KR, AS) vrrp.gcore.com                                                                                      
+   92.38.135.131   202422  94.795                      (Seoul, Seoul, KR, AS)                                                                                                     

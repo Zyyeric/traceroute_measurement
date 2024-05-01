@@ -1,0 +1,29 @@
+   195.130.66.103  199399  0.0                       (Athens, Attica, GR, EU) gr-ath-as199399.anchors.atlas.ripe.net                                                              
+   195.130.66.102  199399  1.024                    (Výronas, Attica, GR, EU) gw-ripe-anchor.gr-ix.gr                                                                             
+   62.217.98.52    5408    0.565                    (Výronas, Attica, GR, EU) grix-admin-gw.eier.access-link.grnet.gr                                                             
+╭─ 83.97.88.69     21320   0.729                    (Výronas, Attica, GR, EU) grnet-ias-geant-gw.mx2.ath.gr.geant.net                                                             
+S&T (21320, 20965)  mednautilus-submarine-system ✘ || oteglobe-kokkini-bari ✘ || italy-greece-1 ✘
+├─ 62.40.98.150    20965   25.159                   (Milan, Lombardy, IT, EU) ae7.rt1.mil2.it.geant.net                                                                           
+S&T (20965, 6939)  seamewe-3 ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.224.113 6939    58.325                    (Lisbon, Lisbon, PT, EU) afrix-telecom-s-l.e0-19.switch1.lis1.he.net                                                         
+S&T (6939, 60171)  west-africa-cable-system-wacs ✓ || africa-coast-to-europe-ace ✓ || tata-tgn-western-europe ✓ || sat-3wasc ✓ || seamewe-3 ✓
+├─ 185.10.164.99   60171   294.043             (Barcelona, Catalonia, ES, EU)                                                                                                     
+S&T (60171)  
+╰─ 185.10.164.113  60171   294.483                      (London, ENG, GB, EU) *                                                                                                   
+╭─ 185.10.164.135  60171   297.283                      (London, ENG, GB, EU) *                                                                                                   
+S&T (60171)  
+├─ 185.10.164.32   60171   297.245             (Paris, Île-de-France, FR, EU)                                                                                                     
+S (60171)  
+├─ 102.223.52.73   60171   293.428                     (Lagos, Lagos, NG, AF)                                                                                                     
+S&T (60171)  
+├─ 185.10.164.45   60171   295.979                      (London, ENG, GB, EU) *                                                                                                   
+S&T (60171)  
+├─ 102.219.44.43   60171   293.542                     (Lagos, Lagos, NG, AF)                                                                                                     
+S&T (60171, 328913)  
+╰─ 196.49.84.51    328913  293.864                 (Abidjan, Abidjan, CI, AF) bdr3.std.douala-ix.net                                                                              
+╭─ 196.49.84.36    328913  294.113                 (Abidjan, Abidjan, CI, AF) gw1.std.douala-ix.net                                                                               
+S&T (328913)  
+╰─ 196.49.84.188   328913  297.266                 (Douala, Littoral, CM, AF) cm-dla-as328913.anchors.atlas.ripe.net                                                              

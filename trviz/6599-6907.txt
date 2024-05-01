@@ -1,0 +1,16 @@
+   103.153.176.122 131657  0.0                       (Taipei, Taiwan, TW, AS) 103-153-176-122.as131657.net                                                                        
+   103.153.176.254 131657  0.368                     (Taipei, Taiwan, TW, AS) 103-153-176-254.as131657.net                                                                        
+   103.51.91.5     *       0.595                     (Taipei, Taiwan, TW, AS) et-0-0-1.cr1.hd.tpe.as131657.net                                                                    
+╭─ 103.158.187.30  *       0.763                     (Taipei, Taiwan, TW, AS) as6939.ly.stuix.io                                                                                  
+S (, 6939)  seamewe-3 ✘ || apcn-2 ✘ || trans-pacific-express-tpe-cable-system ✘ || faster ✘ || eac-c2c ✘ || asia-pacific-gateway-apg ✘ || flag-north-asia-loopreach-north-asia-loop ✘ || new-cross-pacific-ncp-cable-system ✘
+╰─ 184.104.199.145 6939    27.679                      (Osaka, Ōsaka, JP, AS) port-channel6.core1.osa1.he.net                                                                     
+╭─ 184.104.188.97  6939    28.014                      (Osaka, Ōsaka, JP, AS) port-channel10.core2.osa1.he.net                                                                    
+S (6939)  tata-tgn-pacific ✓ || faster ✓ || japan-u-s-cable-network-jus ✓ || new-cross-pacific-ncp-cable-system ✓ || jupiter ✓ || trans-pacific-express-tpe-cable-system ✓ || unityeac-pacific ✓ || pacific-crossing-1-pc-1 ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.223.226 6939    130.516                      (Phoenix, AZ, US, NA) ve960.core2.phx2.he.net                                                                             
+   206.72.211.9    20473   140.042                (Los Angeles, CA, US, None) southcarolina-telecom.as2711.any2ix.coresite.com                                                    
+   10.65.1.234     *       139.667                                        ***                                                                                                     
+   10.65.3.194     *       140.009                                        ***                                                                                                     
+   10.65.1.70      *       1836.043                                       ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   149.28.210.233  20473   139.813          (Santa Clara, California, US, NA) 149.28.210.233.vultrusercontent.com                                                                 

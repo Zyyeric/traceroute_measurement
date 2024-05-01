@@ -1,0 +1,13 @@
+   109.171.136.4   50999   0.0                 (Jeddah, Mecca Region, SA, AS)                                                                                                     
+╭─ 109.171.136.2   50999   0.601               (Jeddah, Mecca Region, SA, AS)                                                                                                     
+LHL (50999, 3356)  seamewe-5 ✘ || seamewe-4 ✘ || asia-africa-europe-1-aae-1 ✓ || peace-cable ✘ || imewe ✘ || seamewe-3 ✓
+├  10.126.145.197  *       0.609                                          ***                                                                                                     
+├  192.168.13.14   *       0.957                                          ***                                                                                                     
+├─ 213.19.197.49   3356    65.091          (Amsterdam, North Holland, NL, EU) lag-140.ear3.amsterdam1.level3.net                                                                  
+S (3356)  atlantic-crossing-1-ac-1 👍
+├─ 4.69.134.42     3356    265.37                        (None, None, US, NA) *                                                                                                   
+S (3356, 199524)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 45.80.212.34    199524  274.143                     (Seoul, Seoul, KR, AS) vrrp.gcore.com                                                                                      
+   92.38.135.131   202422  265.549                     (Seoul, Seoul, KR, AS)                                                                                                     

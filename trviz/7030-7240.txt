@@ -1,0 +1,14 @@
+   202.70.133.25   140443  0.0                 (Singapore, Singapore, SG, AS) 25.133.70.202.in-addr.herza.id                                                                      
+   202.70.133.1    140443  0.166               (Singapore, Singapore, SG, AS) 1.133.70.202.in-addr.herza.id                                                                       
+╭─ 202.70.132.1    140443  0.344               (Singapore, Singapore, SG, AS) 1.132.70.202.in-addr.herza.id                                                                       
+S (140443, 137409)  
+├  10.111.222.206  *       0.411                                          ***                                                                                                     
+├─ 27.111.229.213  137409  0.45                      (Seogwipo, None, KR, AS) 137409.sgw.equinix.com                                                                              
+S (137409, 7578)  
+╰─ 206.148.24.79   7578    0.45                (Singapore, Singapore, SG, AS) po4.sg-eqxsg3-cr2.globalsecurelayer.com                                                             
+╭─ 206.148.24.90   7578    30.487              (Singapore, Singapore, SG, AS) e51.hk-eqxhk1-bb3.globalsecurelayer.com                                                             
+S (7578, 969)  
+╰─ 45.11.107.70    969     37.306              (Hong Kong, Hong Kong, HK, AS) e26-1-gsl.cr1a.eqhk2.hkg12.hk.917.as                                                                
+   199.119.64.151  969     37.368              (Hong Kong, Hong Kong, HK, AS) po103-10.spine3.hkg12.hk.misaka.io                                                                  
+   45.11.104.9     57695   37.262              (Hong Kong, Hong Kong, HK, AS) po30.0103.hkg12.hk.misaka.io                                                                        
+   45.11.104.146   57695   37.32               (Hong Kong, Hong Kong, HK, AS) hk-hkg-as57695.anchors.atlas.ripe.net                                                               

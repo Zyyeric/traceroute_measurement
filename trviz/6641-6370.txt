@@ -1,0 +1,11 @@
+   103.202.216.76  59105   0.0                         (Chōfu, Tokyo, JP, AS)                                                                                                     
+   103.202.216.73  59105   0.304                       (Tokyo, Tokyo, JP, AS) ge-2-1-0.pop03er03.bb.homenoc.ad.jp                                                                 
+   103.48.31.180   59105   0.323                         (None, None, JP, AS) gi0-2-0.pop03cr01.bb.homenoc.ad.jp                                                                  
+╭─ 103.48.31.63    59105   0.281                       (Tokyo, Tokyo, JP, AS) ge-0-0-8.pop03er01.bb.homenoc.ad.jp                                                                 
+S (59105, 6939)  apcn-2 ✓ || korea-japan-cable-network-kjcn ✓ || eac-c2c ✓ || asia-pacific-gateway-apg ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.64.66   6939    31.245                         (Seoul, 28, KR, AS) 10ge0-2.core2.sel1.he.net                                                                           
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   45.80.212.35    199524  35.678                      (Seoul, Seoul, KR, AS) vrrp.gcore.com                                                                                      
+   92.38.135.131   202422  35.96                       (Seoul, Seoul, KR, AS)                                                                                                     

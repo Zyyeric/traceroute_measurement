@@ -1,0 +1,13 @@
+   170.254.172.12  265641  0.0                     (Maturín, Monagas, VE, SA) rev170-254-172-12.cixve.net                                                                         
+   170.254.172.1   265641  0.494                   (Maturín, Monagas, VE, SA) srv01-frwll-mat.cixve.net                                                                           
+   ***             *       -inf                                           *** *                                                                                                   
+   172.26.0.33     *       1.15                                           ***                                                                                                     
+╭─ 190.97.246.89   263703  1.326                   (El Vigía, Mérida, VE, SA)                                                                                                     
+S&T (263703, 6939)  globenet ✘ || arcos ✓
+├  172.23.0.137    *       12.245                                         ***                                                                                                     
+├─ 72.52.92.209    6939    84.31                (Bogotá, Bogota D.C., CO, SA) 100ge0-35.core2.bog1.he.net                                                                         
+S (6939)  
+╰─ 206.41.108.23   6939    86.493                        (None, None, US, NA) fl-ix.mia.he.net                                                                                    
+   184.104.197.58  6939    84.07                          (Miami, FL, US, NA) port-channel1.core3.mia1.he.net                                                                     
+   216.66.54.162   6939    83.768                    (Miami, Florida, US, NA)                                                                                                     
+   177.124.130.57  52863   84.095                    (Miami, Florida, US, NA) security.upx.com                                                                                    

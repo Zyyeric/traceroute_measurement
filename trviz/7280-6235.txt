@@ -1,0 +1,15 @@
+   193.201.40.210  24796   0.0                          (Rome, Lazio, IT, EU) it-rom-as24796.anchors.atlas.ripe.net                                                               
+   193.201.40.209  24796   0.575                        (Rome, Lazio, IT, EU)                                                                                                     
+   213.254.31.97   12779   1.334                        (Rome, Lazio, IT, EU) if-0-1-0-2-705.centurion.rom.itgate.net                                                             
+   193.201.28.59   *       1.638                        (Rome, Lazio, IT, EU) hurricaneelectric.rom.namex.it                                                                      
+╭─ 184.104.188.134 6939    8.697                       (Bari, Apulia, IT, EU) port-channel1.core1.bri1.he.net                                                                     
+S&T (6939)  
+├─ 184.104.196.251 6939    14.307                    (Tirana, Tirana, AL, EU) 100ge0-34.core1.tia1.he.net                                                                         
+LHL (6939)  
+├─ 184.104.196.194 6939    26.385                        (Denver, CO, US, NA) port-channel1.core1.den3.he.net                                                                     
+LHL (6939)  
+╰─ 184.105.64.170  6939    38.103                        (Athens, A1, GR, EU) 100ge0-36.core1.ath1.he.net                                                                         
+   184.104.191.234 6939    38.06                     (Koropí, Attica, GR, EU) fast-telecom-p-c.e0-7.core1.ath1.he.net                                                             
+   ***             *       -inf                                           *** *                                                                                                   
+   185.14.96.225   211186  51.729             (Lamía, Central Greece, GR, EU) vlan4090.lamia.fast.net.gr                                                                          
+   185.14.96.232   211186  50.969             (Lamía, Central Greece, GR, EU)                                                                                                     

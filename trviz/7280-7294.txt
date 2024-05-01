@@ -1,0 +1,20 @@
+   10.252.4.170    *       0.0                                            ***                                                                                                     
+   10.252.4.169    *       0.336                                          ***                                                                                                     
+   10.252.4.153    *       0.402                                          ***                                                                                                     
+   10.252.0.37     *       14.457                                         ***                                                                                                     
+   195.175.203.217 9121    17.462            (Bahçelievler, Istanbul, TR, AS) 195.175.203.217.static.turktelekom.com.tr                                                           
+   81.212.199.166  9121    16.396                (Istanbul, Istanbul, TR, AS) 00-atakoy-sr14s-t2-2---00-atakoy-sr12e-t3-7.statik.turktelekom.com.tr                               
+   212.156.252.237 9121    19.716                       (Aksaray, 68, TR, AS) 00-gayrettepe-xrs-t2-2---00-atakoy-xrs-t2-2.statik.turktelekom.com.tr                               
+   81.212.213.76   9121    16.766                (Istanbul, Istanbul, TR, AS) 81.212.213.76.static.turktelekom.com.tr                                                             
+   81.212.209.102  9121    16.809                        (None, None, TR, AS) 10-balya-sr12-t4-1---10-balikesir-sr12e-t3-3.statik.turktelekom.com.tr                              
+╭─ 212.156.101.196 9121    52.562                (Istanbul, Istanbul, TR, AS) 301-fra-col-2---00-ebgp-gayrettepe-k.statik.turktelekom.com.tr                                      
+LHL (9121, 6939)  mednautilus-submarine-system ✘ || seamewe-5 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.193.114 6939    63.502                        (Zagreb, 21, HR, EU) 100ge0-36.core2.zag1.he.net                                                                         
+S (6939)  adria-1 ©
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.64.170  6939    83.936                        (Athens, A1, GR, EU) 100ge0-36.core1.ath1.he.net                                                                         
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   185.14.96.225   211186  98.106             (Lamía, Central Greece, GR, EU) vlan4090.lamia.fast.net.gr                                                                          
+   185.14.96.232   211186  100.501            (Lamía, Central Greece, GR, EU)                                                                                                     

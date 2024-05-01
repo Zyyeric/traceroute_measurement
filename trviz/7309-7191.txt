@@ -1,0 +1,21 @@
+   117.20.118.21   45498   0.0               (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     
+   117.20.118.17   45498   2.174             (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     
+╭─ 27.109.113.21   45498   1.177             (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     
+LHL (45498)  asia-africa-europe-1-aae-1 ✘ ↠ seamewe-4 ✘ || asia-africa-europe-1-aae-1 ✘ ↠ seamewe-3 ✓ || asia-africa-europe-1-aae-1 ✘ ↠ seamewe-5 ✓ || asia-africa-europe-1-aae-1 ✘ ↠ peace-cable ✘
+╰─ 27.109.113.56   45498   34.373              (Singapore, Singapore, SG, AS)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 62.115.137.243  1299    34.98               (Singapore, Singapore, SG, AS) snge-b4-link.ip.twelve99.net                                                                        
+S (1299)  eac-c2c © || asia-pacific-gateway-apg ✓ || southeast-asia-japan-cable-sjc ✓ || asia-america-gateway-aag-cable-system © || apcn-2 ✓
+├─ 62.115.112.223  1299    68.327              (Hong Kong, Hong Kong, HK, AS) hnk-b4-link.ip.twelve99.net                                                                         
+S (1299)  apcn-2 ✓ || seamewe-3 ✓ || asia-submarine-cable-express-asecahaya-malaysia ✓ || flag-north-asia-loopreach-north-asia-loop ✓ || flag-europe-asia-fea © || asia-pacific-gateway-apg ✓ || eac-c2c © || southeast-asia-japan-cable-sjc ✓
+├─ 62.115.134.187  1299    320.778                     (Tokyo, Tokyo, JP, AS) tky-b3-link.ip.twelve99.net                                                                         
+S (1299)  
+╰─ 62.115.137.108  1299    228.506          (Los Angeles, California, US, NA) lax-b23-link.ip.twelve99.net                                                                        
+   62.115.123.136  1299    262.982                    (Dallas, Texas, US, NA) dls-bb2-link.ip.twelve99.net                                                                        
+   62.115.138.65   1299    247.854                    (Dallas, Texas, US, NA) dls-b23-link.ip.twelve99.net                                                                        
+╭─ 213.248.76.159  1299    256.604                    (Dallas, Texas, US, NA) telecomitalia-ic-363398.ip.twelve99-cust.net                                                        
+LHL (1299, 6762)  
+╰─ 195.22.218.197  6762    314.923                    (Palermo, None, IT, EU) ae0.palermo4.pal.seabone.net                                                                        
+   213.144.186.82  42473   316.328                      (Palermo, 82, IT, EU) dcr01.anx35.pmo.it.anexia-it.net                                                                    
+   37.252.253.18   42473   314.89                   (Palermo, Sicily, IT, EU)                                                                                                     

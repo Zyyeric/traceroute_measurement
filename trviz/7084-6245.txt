@@ -1,0 +1,19 @@
+   5.20.2.255      21412   0.0                     (Vilnius, Vilnius, LT, EU) dmz-2-255.cgates.lt                                                                                 
+╭─ 5.20.2.254      21412   0.727                   (Vilnius, Vilnius, LT, EU) dmz-2-254.cgates.lt                                                                                 
+S&T (21412, 1299)  bcs-east ✓
+├─ 62.115.42.224   1299    5.595                         (Riga, Riga, LV, EU) riga-b4-link.ip.twelve99.net                                                                        
+S (1299, 1257)  
+├─ 130.244.200.134 1257    4.943          (Göteborg, Västra Götaland, SE, EU) tvt-core-1.bundle-ether30.tele2.net                                                                 
+S&T (1257)  
+├─ 91.129.14.214   1257    17.163                        (Riga, Riga, LV, EU) tvt-agg-1.bundle-ether3.tele2.net                                                                   
+S (1257)  
+╰─ 91.129.14.226   1257    17.397              (Stockholm, Stockholm, SE, EU) avk-cagg-1.bundle-ether29.tele2.net                                                                 
+   91.129.16.157   1257    17.432              (Stockholm, Stockholm, SE, EU) nrk316-agg-1.bundle-ether1.tele2.net                                                                
+   91.129.13.95    1257    17.241              (Stockholm, Stockholm, SE, EU) ch-lin-agg-1.bundle-ether1.tele2.net                                                                
+   91.129.19.79    1257    16.991                  (Kista, Stockholm, SE, EU) lkg456-sn-1.eth-trunk1.tele2.net                                                                    
+   91.129.19.81    1257    17.108                  (Kista, Stockholm, SE, EU) lin3-sn-1.eth-trunk1.tele2.net                                                                      
+   91.129.19.82    1257    17.099                  (Kista, Stockholm, SE, EU) lkg462-sn-1.eth-trunk1.tele2.net                                                                    
+   81.216.114.69   1257    17.466                        (None, None, SE, EU) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   192.36.132.253  1257    17.263           (Linköping, Östergötland, SE, EU)                                                                                                     
+   31.15.54.138    1257    17.534           (Linköping, Östergötland, SE, EU)                                                                                                     

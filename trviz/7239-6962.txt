@@ -1,0 +1,19 @@
+   94.203.76.219   15802   0.0                         (Dubai, Dubai, AE, AS)                                                                                                     
+   94.203.76.209   15802   0.707                       (Dubai, Dubai, AE, AS)                                                                                                     
+   10.53.17.77     *       4.491                                          ***                                                                                                     
+   195.229.28.161  8966    3.108                         (None, None, AE, AS) *                                                                                                   
+   195.229.31.112  8966    4.962                         (None, None, AE, AS) *                                                                                                   
+╭─ 195.229.31.240  8966    4.524         (Al Fujairah City, Fujairah, AE, AS)                                                                                                     
+S (8966)  
+├─ 195.229.0.151   8966    5.328                      (Palermo, None, IT, EU) *                                                                                                   
+S (8966)  
+╰─ 195.229.29.50   8966    103.924                (Ajman City, Ajman, AE, AS)                                                                                                     
+╭─ 69.194.170.61   *       103.05                      (Dubai, Dubai, AE, AS)                                                                                                     
+S&T ()  
+├─ 69.194.170.77   *       155.817          (Nairobi, Nairobi County, KE, AF)                                                                                                     
+S ()  
+├─ 102.217.165.114 *       163.916            (Johannesburg, Gauteng, ZA, AF)                                                                                                     
+S&T (, 37468)  
+╰─ 102.130.68.142  37468   218.747                       (None, None, AO, AF) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   102.130.66.11   37468   220.192                   (Luanda, Luanda, AO, AF)                                                                                                     

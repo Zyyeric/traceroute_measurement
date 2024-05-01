@@ -1,0 +1,12 @@
+   192.168.0.130   *       0.0                                            ***                                                                                                     
+   192.168.0.1     *       0.142                                          ***                                                                                                     
+   172.16.254.1    *       0.188                                          ***                                                                                                     
+   192.168.1.1     *       0.448                                          ***                                                                                                     
+   212.156.233.254 47331   0.379 (1.998)                     (Ankara, 6, TR, AS) 212.156.233.254.static.turktelekom.com.tr                                                           
+   10.0.0.78       *       7.198                                          ***                                                                                                     
+   81.212.78.45    9121    5.242                     (Ankara, Ankara, TR, AS) 81.212.78.45.static.turktelekom.com.tr                                                              
+   81.212.216.50   9121    4.65               (Sultanbeyli, Istanbul, TR, AS) 34-acibadem-xrs-t2-1---34-acibadem-sr12e-t3-8.statik.turktelekom.com.tr                             
+   81.212.213.71   9121    5.602                 (Istanbul, Istanbul, TR, AS) 34-bostanci-t3-2---34-acibadem-xrs-t2-1.statik.turktelekom.com.tr                                   
+   212.156.39.34   25145   5.386                       (Istanbul, 34, TR, AS) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   213.238.162.218 48292   6.183                 (Istanbul, Istanbul, TR, AS) tr-ist-as48292.anchors.atlas.ripe.net                                                               

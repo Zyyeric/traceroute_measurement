@@ -1,0 +1,18 @@
+   84.88.18.254    13041   0.0                 (Barcelona, Catalonia, ES, EU) anchor-anella.cesca.cat                                                                             
+   84.88.18.253    13041   0.789               (Barcelona, Catalonia, ES, EU) anella-anchor.cesca.cat                                                                             
+   130.206.214.97  766     9.219                     (Madrid, Madrid, ES, EU) anella-ppal-as13041.ethtrunk11-81.telmad.rt3.mad.red.rediris.es                                     
+╭─ 83.97.90.20     21320   9.03                      (Madrid, Madrid, ES, EU) rediris-ias-geant-gw.mad.es.geant.net                                                               
+S&T (21320, 20965)  
+╰─ 62.40.98.227    20965   23.222    (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) ae2.rt1.mar.fr.geant.net                                                                            
+   185.1.47.38     30844   23.298                   (Marseille, None, FR, EU) de-cix.mrs.liquidtelecom.net                                                                        
+╭─ 5.11.13.111     30844   23.788    (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) te0-0-0-21.lfr-p1-mrs.liquidtelecom.com                                                             
+S&T (30844)  seamewe-3 ✓
+├─ 5.11.12.31      30844   132.985                  (London, England, GB, EU) et-0-0-0.0.lfr-pe2-mrs.liquidtelecom.net                                                            
+LHL (30844)  seamewe-3 ✓ ↠ safe 👍 || flag-europe-asia-fea ✓ ↠ safe 👍
+╰─ 41.175.212.3    30844   133.441                       (None, None, MU, AF) *                                                                                                   
+╭─ 197.155.94.1    30844   132.772                       (None, None, MU, AF) xe-0-0-3-LTZ-P1-DAR.liquidtelecom.net                                                               
+LHL (30844)  safe 👍 ↠ seamewe-3 ✓ ↠ seacomtata-tgn-eurasia ✓
+├─ 197.155.94.195  30844   133.19                       (Nairobi, 30, KE, AF) xe-0-0-4.ltz-pe1-rah.liquidtelecom.net                                                              
+S&T (30844)  
+╰─ 41.175.46.58    30844   134.091                       (None, None, TZ, AF) *                                                                                                   
+   196.49.5.98     327844  134.197   (Dar es Salaam, Dar es Salaam Region, TZ, AF)                                                                                                     

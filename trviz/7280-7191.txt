@@ -1,0 +1,24 @@
+   117.20.118.21   45498   0.0               (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     
+   117.20.118.17   45498   2.397             (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     
+   27.109.113.21   45498   1.25              (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     
+   27.109.113.7    45498   1.343                     (Phnom Penh, 12, KH, AS) *                                                                                                   
+   27.109.113.4    45498   1.194             (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     
+   172.16.100.137  *       1.579                                          ***                                                                                                     
+   172.16.16.2     *       1.571                                          ***                                                                                                     
+╭─ 184.105.81.38   6939    38.809                     (Phnom Penh, 8, KH, AS) 100ge0-36.core1.pnh1.he.net                                                                         
+S (6939)  
+├─ 184.104.198.86  6939    36.717                       (Bangkok, 10, TH, AS) port-channel3.core1.bkk1.he.net                                                                     
+S&T (6939)  
+├─ 184.104.197.102 6939    36.536                  (Kuala Lumpur, 14, MY, AS) ve955.core1.kul1.he.net                                                                             
+S (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.196.194 6939    200.104                       (Denver, CO, US, NA) port-channel1.core1.den3.he.net                                                                     
+LHL (6939)  
+╰─ 184.105.64.170  6939    211.107                       (Athens, A1, GR, EU) 100ge0-36.core1.ath1.he.net                                                                         
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   185.14.96.225   211186  232.902            (Lamía, Central Greece, GR, EU) vlan4090.lamia.fast.net.gr                                                                          
+   185.14.96.232   211186  231.658            (Lamía, Central Greece, GR, EU)                                                                                                     

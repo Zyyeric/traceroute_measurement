@@ -1,0 +1,15 @@
+   96.126.70.90    21659   0.0               (Moncton, New Brunswick, CA, NA) 96-126-70-90.apbx.ca                                                                                
+   ***             *       -inf                                           *** *                                                                                                   
+   98.143.249.17   3367    1.342             (Moncton, New Brunswick, CA, NA) enova-98-143-249-17.e-novations.ca                                                                  
+╭─ 209.51.184.133  6939    1.681             (Moncton, New Brunswick, CA, NA) port-channel2.core2.yqm1.he.net                                                                     
+S&T (6939)  exa-north-and-south ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 72.52.92.9      6939    12.43              (Boston, Massachusetts, US, NA) 100ge0-78.core2.bos1.he.net                                                                         
+╭─ 184.104.194.86  6939    18.42            (New York City, New York, US, NA) 100ge0-17.core2.nyc4.he.net                                                                         
+S (6939, 34087)  exa-north-and-south ✓ || atlantic-crossing-1-ac-1 ✓ || yellow ✓ || apollo ✓ || tata-tgn-atlantic ✓ || flag-atlantic-1-fa-1 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 195.66.226.201  34087   93.965                     (London, ENG, GB, None) *                                                                                                   
+S&T (34087)  tampnet-offshore-foc-network ✘
+╰─ 89.151.255.32   34087   124.672                       (Namsos, 50, NO, EU) 89.151.255.32.nteb.no                                                                               
+   178.164.9.142   47753   123.25                     (Trondheim, 50, NO, EU) 178.164.9.142.3p.ntebredband.no                                                                     
+   217.168.87.54   34087   124.29              (Trondheim, Trøndelag, NO, EU)                                                                                                     

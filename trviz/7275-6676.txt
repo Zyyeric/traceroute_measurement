@@ -1,0 +1,10 @@
+   203.175.175.206 24482   0.0                 (Singapore, Singapore, SG, AS)                                                                                                     
+   203.175.175.252 24482   0.385                         (None, None, SG, AS) edge-1.v10.sg3.sg.gs                                                                                
+   103.16.102.30   24482   0.63                      (Singapore, 1, SG, None) sggs.sgix.sg                                                                                        
+╭─ 103.16.102.231  133840  1.046                     (Singapore, 1, SG, None) jlm2sgix.sg                                                                                         
+S&T (133840)  australia-singapore-cable-asc ✓ || indigo-west ✓ || indonesia-global-gateway-igg-system ✓ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || seamewe-3 ✓ || matrix-cable-system ✘ || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || jasuka ✓ || jakabare ✘
+╰─ 103.66.70.104   133840  12.225                  (Jakarta, Jakarta, ID, AS)                                                                                                     
+   121.100.0.45    38158   12.43                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+   43.230.152.226  *       12.557                  (Jakarta, Jakarta, ID, AS) global-in.kings.id                                                                                  
+   43.230.153.90   *       12.811                  (Jakarta, Jakarta, ID, AS)                                                                                                     
+   180.211.88.22   45725   13.039                  (Jakarta, Jakarta, ID, AS) id-jkt-as45725.anchors.atlas.ripe.net                                                               

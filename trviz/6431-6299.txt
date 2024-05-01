@@ -1,0 +1,19 @@
+   197.239.73.59   37577   0.0                  (Ouagadougou, Centre, BF, AF)                                                                                                     
+   197.239.73.57   37577   0.366                (Ouagadougou, Centre, BF, AF)                                                                                                     
+   165.16.221.42   37721   0.583                         (None, None, BF, AF) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 102.67.97.41    37721   3.725                   (Ouagadougou, KAD, BF, AF) et-0-0-1-2003.bb1.oua2.vts.bf                                                                       
+LHL (37721)  west-africa-cable-system-wacs ✓ || africa-coast-to-europe-ace ✓ || mainone ✘ || sat-3wasc ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 102.67.96.245   37721   104.349                   (Lisbon, Lisbon, PT, EU) et-0-0-1-2035.bb1.lis1.vts.bf                                                                       
+S&T (37721)  europe-india-gateway-eig ✓ || seamewe-3 ✓
+╰─ 102.67.96.26    37721   125.606                  (London, England, GB, EU) xe-0-0-1-2034.bb1.lon1.vts.bf                                                                       
+   102.67.96.6     37721   131.055                      (London, ENG, GB, EU) xe-0-0-2-21.br1.lon1.vts.bf                                                                         
+   212.187.195.145 3356    126.344                       (None, None, GB, EU) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 213.19.197.50   50999   197.899                      (Woking, ENG, GB, EU) *                                                                                                   
+S&T (50999)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 109.171.136.4   50999   206.971             (Jeddah, Mecca Region, SA, AS)                                                                                                     

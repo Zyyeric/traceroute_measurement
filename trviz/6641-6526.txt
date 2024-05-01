@@ -1,0 +1,15 @@
+   195.209.139.36  29114   0.0              (Ivanovo, Ivanovo Oblast, RU, EU) anchor1.atlas.ruitb.ru                                                                              
+   195.209.139.1   29114   0.545            (Ivanovo, Ivanovo Oblast, RU, EU) itb-bgp-gw1.ruitb.ru                                                                                
+   87.255.238.146  38917   1.548            (Ivanovo, Ivanovo Oblast, RU, EU)                                                                                                     
+╭─ 188.43.249.70   20485   1.765                        (Moscow, MOW, RU, EU) ivo06rb.transtelecom.net                                                                            
+LHL (20485)  
+├─ 62.140.26.150   20485   41.267             (Frankfurt am Main, HE, DE, EU) *                                                                                                   
+T (20485, 3356)  
+├─ 62.140.26.149   3356    41.329                        (None, None, GB, EU) *                                                                                                   
+S (3356)  
+├─ 4.69.134.42     3356    337.034                       (None, None, US, NA) *                                                                                                   
+S (3356, 199524)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 45.80.212.35    199524  339.198                     (Seoul, Seoul, KR, AS) vrrp.gcore.com                                                                                      
+   92.38.135.131   202422  339.162                     (Seoul, Seoul, KR, AS)                                                                                                     

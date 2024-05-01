@@ -1,0 +1,14 @@
+   103.121.34.150  138398  0.0                   (Auckland, Auckland, NZ, OC) 103-121-34-150.netbydesign.nz                                                                       
+   103.121.34.131  138398  0.364                 (Auckland, Auckland, NZ, OC) eth2.vrt2.akl.netbydesign.nz                                                                        
+   103.130.69.89   138398  0.396                 (Auckland, Auckland, NZ, OC) 103-130-69-89.netbydesign.nz                                                                        
+╭─ 43.243.21.17    6939    0.391 (1.288)                 (Auckland, AUK, NZ, OC) as6939.akl.ix.nz                                                                                    
+S (6939, )  tasman-global-access-tga-cable ✓ || southern-cross-cable-network-sccn ✓ || hawaiki ✘
+╰─ 218.100.52.249  *       30.51            (Sydney, New South Wales, AU, OC) as6939.nsw.ix.asn.au                                                                                
+╭─ 184.105.65.223  6939    76.276          (Perth, Western Australia, AU, OC) 100ge0-32.core1.per1.he.net                                                                         
+S (6939)  seamewe-3 ✓ || indigo-west ✓ || australia-singapore-cable-asc ©
+╰─ 184.105.223.133 6939    123.456             (Singapore, Singapore, SG, AS) port-channel22.core2.sin1.he.net                                                                    
+╭─ 65.49.108.46    131111  122.431                     (Singapore, 4, SG, AS) moratel-international-pte-ltd.10gigabitethernet3-13.core1.sin1.he.net                               
+S&T (131111, )  australia-singapore-cable-asc ✘ || indigo-west ✘ || indonesia-global-gateway-igg-system ✓ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || seamewe-3 ✘ || matrix-cable-system ✘ || jasuka ✓ || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || jakabare ✘
+╰─ 103.111.193.61  *       145.232           (Yogyakarta, Yogyakarta, ID, AS)                                                                                                     
+   202.152.153.9   23951   143.906                      (Babadan, JT, ID, AS) 202-152-153-9.as23951.net                                                                           
+   202.152.129.74  23951   144.089           (Yogyakarta, Yogyakarta, ID, AS) 202-152-129-74.citra.net.id                                                                         

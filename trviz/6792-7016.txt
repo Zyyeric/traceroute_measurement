@@ -1,0 +1,14 @@
+   103.160.63.222  140443  0.0                     (Jakarta, Jakarta, ID, AS) 222.63.160.103.in-addr.herza.id                                                                     
+╭─ 103.160.63.129  140443  0.216                   (Jakarta, Jakarta, ID, AS) 129.63.160.103.in-addr.herza.id                                                                     
+S&T (140443, 3491)  australia-singapore-cable-asc ✓ || matrix-cable-system ✘ || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || indonesia-global-gateway-igg-system ✓ || seamewe-3 ✓ || indigo-west ✘ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || jasuka ✓ || jakabare ✘
+├  10.111.220.46   *       0.45                                           ***                                                                                                     
+├  10.111.220.6    *       12.174                                         ***                                                                                                     
+├  10.111.222.209  *       12.295                                         ***                                                                                                     
+├─ 63.220.192.80   3491    12.842              (Singapore, Singapore, SG, AS) 63-220-192-80.static.pccwglobal.net                                                                 
+S (3491)  asia-pacific-gateway-apg ✓ || eac-c2c ✓ || apcn-2 👍 || seamewe-3 👍
+╰─ 63.218.236.98   3491    95.831                       (Seoul, None, KR, AS) Bundle-Ether40.br03.seo03.pccwbtn.net                                                               
+   63.218.237.134  20473   102.123                      (Seoul, None, KR, AS) Vultr-Holdings.TE-0-0-0-24.br03.seo03.pccwbtn.net                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   141.164.39.1    20473   96.65                    (Paripark, Seoul, KR, AS) 141.164.39.1.vultrusercontent.com                                                                   

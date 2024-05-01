@@ -1,0 +1,24 @@
+   192.168.0.130   *       0.0                                            ***                                                                                                     
+   192.168.0.1     *       0.143                                          ***                                                                                                     
+   172.16.254.1    *       0.37                                           ***                                                                                                     
+   192.168.1.1     *       0.895                                          ***                                                                                                     
+   10.98.238.18    *       0.745 (4.114)                                     ***                                                                                                     
+   10.0.0.170      *       8.136                                          ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   81.212.216.50   9121    5.175              (Sultanbeyli, Istanbul, TR, AS) 34-acibadem-xrs-t2-1---34-acibadem-sr12e-t3-8.statik.turktelekom.com.tr                             
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 212.156.140.148 9121    33.362                (Istanbul, Istanbul, TR, AS) 305-vie-col-1---34-ebgp-acibadem-sr12e-k.statik.turktelekom.com.tr                                  
+LHL (9121, 3356)  seamewe-5 ✓ || seamewe-3 👍
+├─ 212.162.39.25   3356    34.858                    (Vienna, Vienna, AT, EU)                                                                                                     
+LHL (3356)  flag-europe-asia-fea © || seamewe-3 ✓
+╰─ 171.75.9.59     3356    63.575                  (Archway, England, GB, EU) ae2.3214.edge5.lon1.neo.colt.net                                                                    
+   4.68.111.206    4637    71.173                       (London, ENG, GB, EU) *                                                                                                   
+╭─ 202.84.178.13   4637    61.538              (Camden Town, England, GB, EU) i-1008.ulcn-core01.telstraglobal.net                                                                
+S (4637)  seamewe-3 👍
+╰─ 202.84.140.141  4637    383.522             (Singapore, Singapore, SG, AS) i-1000.sgcn-core01.telstraglobal.net                                                                
+   202.84.140.141  4637    383.522             (Singapore, Singapore, SG, AS) i-1000.sgcn-core01.telstraglobal.net                                                                
+╭─ 202.84.207.190  4637    376.941             (Singapore, Singapore, SG, AS) unknown.telstraglobal.net                                                                           
+S (4637)  
+╰─ 202.84.204.41   4637    384.059                     (Dubai, Dubai, AE, AS) i-103.uddm01.telstraglobal.net                                                                      
+   217.151.46.27   4637    380.01                      (Dubai, Dubai, AE, AS) unknown.telstraglobal.net                                                                           
+   156.154.53.254  12008   374.713                     (Dubai, Dubai, AE, AS)                                                                                                     

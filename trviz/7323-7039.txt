@@ -1,0 +1,23 @@
+   103.170.232.152 142616  0.0                         (Tokyo, Tokyo, JP, AS) user-103-170-232-152.nrt04.jp.misaka.io                                                             
+   103.170.232.11  142616  0.105                       (Tokyo, Tokyo, JP, AS) po-31.lag.nrt04.jp.misaka.io                                                                        
+   103.170.232.2   142616  0.237                       (Tokyo, Tokyo, JP, AS) spine1.nrt04.jp.misaka.io                                                                           
+   199.119.64.136  969     0.239                       (Tokyo, Tokyo, JP, AS) e53-10.cr1a.eqty8.nrt4.jp.917.as                                                                    
+   199.119.64.95   969     0.212                       (Tokyo, Tokyo, JP, AS) po100.cr2a.eqty8.nrt4.jp.917.as                                                                     
+   84.17.33.106    60068   0.277                       (Tokyo, Tokyo, JP, AS) po66-3518.cr01.nrt04.jp.misaka.io                                                                   
+   185.156.45.79   60068   0.231                       (Tokyo, Tokyo, JP, AS) vl216.tyo-eq8-edge-1.cdn77.com                                                                      
+╭─ 84.17.32.13     60068   77.394                      (Tokyo, Tokyo, JP, AS) gce-tyo.cdn77.com                                                                                   
+S (60068, 15412)  
+├─ 85.95.25.97     15412   77.623                        (None, None, GB, EU) ae5.0.pjr03.wad001.flagtel.com                                                                      
+S (15412)  
+├─ 62.216.128.109  15412   77.59                    (Hong Kong, None, HK, AS) ae1.0.pjr04.hkg005.flagtel.com                                                                      
+S (15412)  
+╰─ 85.95.25.42     15412   77.548                      (Singapore, 4, SG, AS) xe-2-0-2.0.cjr01.sin001.flagtel.com                                                                 
+   62.216.137.166  15412   77.347                      (Singapore, 4, SG, AS) ae7.0.cjr02.sin001.flagtel.com                                                                      
+╭─ 80.81.65.218    4826    78.02                       (Singapore, 4, SG, AS) *                                                                                                   
+S (4826)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 114.31.192.105  4826    169.285          (Sydney, New South Wales, AU, OC) be2.bdr02.syd11.nsw.vocus.network                                                                   
+   114.31.201.91   4826    169.032          (Sydney, New South Wales, AU, OC) 91.201.31.114.core.vocus.network                                                                    

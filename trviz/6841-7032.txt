@@ -1,0 +1,24 @@
+   63.222.187.5    3491    0.0                 (Manila, Metro Manila, PH, AS)                                                                                                     
+╭─ 63.222.187.14   3491    0.957              (Bel Air, Metro Manila, PH, AS)                                                                                                     
+S (3491)  eac-c2c ✓ || seamewe-3 👍 || southeast-asia-japan-cable-sjc ✓ || tata-tgn-intra-asia-tgn-ia ✓ || asia-submarine-cable-express-asecahaya-malaysia ✓ || asia-america-gateway-aag-cable-system ✓
+╰─ 63.218.174.122  3491    25.279              (Hong Kong, Hong Kong, HK, AS) be41.br04.hkg12.as3491.net                                                                          
+   154.54.140.65   174     25.581                   (Hong Kong, None, HK, AS) be3492.rcr51.hkg01.atlas.cogentco.com                                                               
+╭─ 154.54.88.49    174     26.338                   (Hong Kong, None, HK, AS) be2414.ccr21.hkg02.atlas.cogentco.com                                                               
+S (174)  asia-africa-europe-1-aae-1 ✓ || seamewe-3 ✓
+├─ 154.54.6.25     174     280.838                   (Marseille, PAC, FR, EU) be2900.ccr32.mrs02.atlas.cogentco.com                                                               
+S&T (174)  
+├─ 154.54.74.178   174     281.405                        (Milan, 25, IT, EU) be2865.rcr21.mil01.atlas.cogentco.com                                                               
+T (174)  
+├─ 154.54.63.221   174     271.357                  (Munich, Bavaria, DE, EU) be3814.ccr22.muc03.atlas.cogentco.com                                                               
+T (174)  
+├─ 154.54.59.181   174     277.17                         (Vienna, 9, AT, EU) be3462.ccr52.vie01.atlas.cogentco.com                                                               
+LHL (174)  
+├─ 130.117.50.82   174     277.423                        (Dublin, D, IE, EU) be2209.rcr11.b022738-0.dub01.atlas.cogentco.com                                                     
+LHL (174)  
+├─ 149.6.175.250   174     290.821        (Le Pre-Saint-Gervais, IDF, FR, EU) *                                                                                                   
+S (174, 20965)  geo-eirgrid ✘ || exa-north-and-south © || havhingstenceltixconnect-2-cc-2 © || esat-2 ✘ || rockabill ✘ || sirius-south ✘ || exa-express © || pan-european-crossing-uk-ireland ✓ || esat-1 ✘ || solas ©
+╰─ 62.40.98.146    20965   325.915                       (Athens, A1, GR, EU) ae1.mx1.ath2.gr.geant.net                                                                           
+   83.97.88.66     5408    311.503                       (Athens, A1, GR, EU) grnet-ias-grnet-gw.mx1.ath2.gr.geant.net                                                            
+   62.217.100.63   5408    308.809                       (None, None, GR, EU) eier-kolettir-AE.backbone.grnet.gr                                                                  
+   62.217.98.53    199399  312.118                       (None, None, GR, EU) grix-ADMIN.eier.access-link.grnet.gr                                                                
+   195.130.66.103  199399  320.255                   (Athens, Attica, GR, EU) gr-ath-as199399.anchors.atlas.ripe.net                                                              

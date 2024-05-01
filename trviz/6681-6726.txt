@@ -1,0 +1,22 @@
+   139.99.78.22    16276   0.0                 (Singapore, Singapore, SG, AS) sg-sin-as16276.anchors.atlas.ripe.net                                                               
+   139.99.72.1     16276   0.371               (Singapore, Singapore, SG, AS)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   10.29.210.254   *       0.377                                          ***                                                                                                     
+   10.29.192.54    *       0.381                                          ***                                                                                                     
+   10.29.135.100   *       0.617                                          ***                                                                                                     
+   10.133.65.52    *       0.785                                          ***                                                                                                     
+   10.75.0.74      *       0.674                                          ***                                                                                                     
+   10.75.248.14    *       0.81                                           ***                                                                                                     
+╭─ 103.5.15.4      16276   3.051               (Singapore, Singapore, SG, AS) sin-sg1-sbb1-nc5.sgp.asia                                                                           
+S (16276, 13335)  
+├  10.200.0.196    *       1.315                                          ***                                                                                                     
+├─ 27.111.228.132  13335   4.149                     (Seogwipo, None, KR, AS) 13335.sgw.equinix.com                                                                               
+S (13335)  
+╰─ 162.158.104.3   13335   1.591               (Singapore, Singapore, SG, AS)                                                                                                     
+   162.158.105.140 13335   1.689               (Singapore, Singapore, SG, AS)                                                                                                     
+   162.158.105.158 13335   1.753               (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 162.158.105.105 13335   1.85                (Singapore, Singapore, SG, AS)                                                                                                     
+S&T (13335, 133800)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 137.59.127.34   133800  13.612                        (None, None, ID, AS) ip-34-127-59-137.core.biznetg.io                                                                    
+   103.77.105.3    133800  13.841                  (Jakarta, Jakarta, ID, AS) ip-3-105-77-103.jkt-1.biznetg.io                                                                    

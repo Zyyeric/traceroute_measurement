@@ -1,0 +1,21 @@
+   109.171.136.4   50999   0.0                 (Jeddah, Mecca Region, SA, AS)                                                                                                     
+╭─ 109.171.136.2   50999   0.824               (Jeddah, Mecca Region, SA, AS)                                                                                                     
+LHL (50999, 3356)  seamewe-5 ✘ || seamewe-4 ✘ || asia-africa-europe-1-aae-1 ✓ || peace-cable ✘ || imewe ✘ || seamewe-3 ✓
+├  10.126.145.197  *       0.822                                          ***                                                                                                     
+├  192.168.13.14   *       1.771                                          ***                                                                                                     
+├─ 213.19.197.49   3356    65.25           (Amsterdam, North Holland, NL, EU) lag-140.ear3.amsterdam1.level3.net                                                                  
+T (3356)  
+├─ 171.75.8.243    3356    84.474    (Septèmes-les-Vallons, Provence-Alpes-Côte d'Azur, FR, EU) ae1.3505.edge4.mrs1.neo.colt.net                                                                    
+S (3356, 35819)  
+├─ 212.133.4.70    35819   84.566                        (None, None, SA, AS) *                                                                                                   
+S (35819, 37100)  seamewe-5 ✓ || seamewe-4 ✓ || asia-africa-europe-1-aae-1 👍 || peace-cable ✘ || imewe ✓ || seamewe-3 ✓
+├─ 105.16.32.2     37100   233.732                   (Marseille, PAC, FR, EU) ae-2.cr-02-mrs.fr.seacomnet.com                                                                     
+S&T (37100)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 105.25.160.178  37100   233.856            (Johannesburg, Gauteng, ZA, AF) ce-0-0-9.cr-02-jnb.za.seacomnet.com                                                                 
+   105.16.29.9     37100   235.533                 (Johannesburg, GT, ZA, AF) ce-4-0-2.er-01-jnb.za.seacomnet.com                                                                 
+╭─ 105.22.34.174   37100   233.891            (Johannesburg, Gauteng, ZA, AF) ce-0-1-5-91.customer-gw-rogers-capital.er-01-jnb.za.seacomnet.com                                   
+S (37100, 36868)  
+╰─ 196.46.34.108   36868   277.474                       (None, None, MU, AF) *                                                                                                   
+   196.46.49.34    36868   277.387   (Quatre Bornes, Plaines Wilhems, MU, AF)                                                                                                     
+   102.222.106.178 328699  277.477           (Port Louis, Port Louis, MU, AF)                                                                                                     

@@ -1,0 +1,11 @@
+   80.67.181.29    204059  0.0           (Brussels, Brussels Capital, BE, EU) be-bru-as204059.anchors.atlas.ripe.net                                                              
+   80.67.181.17    204059  0.463                      (Brussels, BRU, BE, EU) core-patata.louise.neutri.net                                                                       
+   80.67.181.2     204059  0.706                      (Brussels, BRU, BE, EU) edge-02.louise.neutri.net                                                                           
+╭─ 185.1.127.23    *       1.937                 (Nossegem, Flanders, BE, EU) he.belgiumix.net                                                                                    
+S&T (, 6939)  
+├─ 184.104.197.185 6939    1.609 (5.528)                 (Amsterdam, NH, NL, EU) port-channel4.core2.ams1.he.net                                                                     
+S&T (6939)  
+╰─ 184.105.64.4    6939    27.049                   (Poplar, England, GB, EU) port-channel18.core3.lon2.he.net                                                                    
+   184.104.193.193 6939    13.924                       (London, ENG, GB, EU) 100ge0-31.core2.lon3.he.net                                                                         
+   184.104.205.210 201971  14.361                       (London, ENG, GB, EU) creeperhost-ltd.10gigabitethernet1-1-24.switch1.lon3.he.net                                         
+   185.57.191.228  201971  14.638                 (Grantham, England, GB, EU) 228.191.57.185.no-ptr.as201971.net                                                                  

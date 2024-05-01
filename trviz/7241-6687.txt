@@ -1,0 +1,21 @@
+   147.84.200.125  39069   0.0                       (Murcia, Murcia, ES, EU)                                                                                                     
+╭─ 147.84.200.11   39069   1.114                     (Murcia, Murcia, ES, EU)                                                                                                     
+T (39069, 12430)  
+├  10.250.42.181   *       12.964                                         ***                                                                                                     
+├─ 185.1.192.33    12430   12.799                        (None, None, DE, EU) de-cix.mad.vodafone.es                                                                              
+T (12430, 6939)  
+╰─ 185.1.192.47    6939    13.955                         (Madrid, M, ES, EU) ipv4.decix-madrid.core1.mad1.he.net                                                                 
+╭─ 193.149.1.113   6939    13.283                      (Madrid, 29, ES, None) hurricane.baja.espanix.net                                                                          
+S (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.197.94  6939    83.187          (Virginia Beach, Virginia, US, NA) port-channel1.core2.orf2.he.net                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 184.104.194.97  6939    149.898          (Los Angeles, California, US, NA) port-channel9.core4.lax2.he.net                                                                     
+S (6939, 23944)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.212.74  23944   290.021                  (Hong Kong, None, HK, AS) sky-cable-corporation.port-channel4.switch1.hkg1.he.net                                             
+S (23944)  
+├  172.31.31.7     *       296.784                                        ***                                                                                                     
+╰─ 182.18.209.9    23944   293.301             (Manila, Metro Manila, PH, AS)                                                                                                     

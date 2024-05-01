@@ -1,0 +1,29 @@
+   203.41.0.254    1221    0.0             (Perth, Western Australia, AU, OC) atlas-per.telstra.net                                                                               
+   203.41.0.253    1221    0.345           (Perth, Western Australia, AU, OC)                                                                                                     
+   138.217.126.78  1221    0.502           (Perth, Western Australia, AU, OC) tel4198820.lnk.telstra.net                                                                          
+   138.217.126.77  1221    1.003           (Perth, Western Australia, AU, OC) bundle-ether801-219.pie-edge903.perth.telstra.net                                                   
+   203.50.6.176    1221    1.071                          (Perth, WA, AU, OC) bundle-ether11.pie-core10.perth.telstra.net                                                         
+   203.50.6.234    1221    28.798                      (Adelaide, SA, AU, OC) bundle-ether3.way-core10.adelaide.telstra.net                                                       
+   203.50.6.231    1221    40.339                    (Melbourne, VIC, AU, OC) bundle-ether16.exi-core10.melbourne.telstra.net                                                     
+   203.50.13.124   1221    41.612               (Melbourne, Victoria, AU, OC) bundle-ether2.cla-core30.melbourne.telstra.net                                                      
+╭─ 203.50.13.132   1221    51.885           (Sydney, New South Wales, AU, OC) bundle-ether3.hay-core30.sydney.telstra.net                                                         
+S (1221, 4637)  seamewe-3 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 203.50.13.94    4637    189.48                        (None, None, HK, AS) *                                                                                                   
+╭─ 203.50.13.94    4637    189.48                        (None, None, HK, AS) *                                                                                                   
+S (4637)  
+╰─ 202.84.141.225  4637    226.166          (Los Angeles, California, US, NA) i-10604.1wlt-core02.telstraglobal.net                                                               
+   202.84.141.225  4637    226.166          (Los Angeles, California, US, NA) i-10604.1wlt-core02.telstraglobal.net                                                               
+   202.84.143.30   4637    224.873          (Los Angeles, California, US, NA) i-95.eqla02.telstraglobal.net                                                                       
+   210.57.53.69    6453    224.669                  (Los Angeles, CA, US, NA) unknown.telstraglobal.net                                                                           
+   206.82.129.42   6453    203.85                   (Los Angeles, CA, US, NA) if-ae-55-2.tcore1.eql-losangeles.as6453.net                                                         
+╭─ 64.86.252.65    6453    203.547                  (Los Angeles, CA, US, NA) if-ae-6-20.tcore2.lvw-losangeles.as6453.net                                                         
+S (6453)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 180.87.84.129   6453    203.961             (Singapore, Singapore, SG, AS) if-bundle-33-2.qcore2.svw-singapore.as6453.net                                                      
+S&T (6453, 7713)  
+╰─ 36.64.254.22    7713    222.654                   (Denpasar, Bali, ID, AS)                                                                                                     
+   103.215.228.2   140443  222.381              (Surabaya, East Java, ID, AS) 2.228.215.103.in-addr.herza.id                                                                      
+   103.215.229.229 140443  223.378              (Surabaya, East Java, ID, AS) 229.229.215.103.in-addr.herza.id                                                                    

@@ -1,0 +1,33 @@
+   195.130.66.103  199399  0.0                       (Athens, Attica, GR, EU) gr-ath-as199399.anchors.atlas.ripe.net                                                              
+   195.130.66.102  199399  1.011                    (Výronas, Attica, GR, EU) gw-ripe-anchor.gr-ix.gr                                                                             
+   62.217.98.52    5408    0.371                    (Výronas, Attica, GR, EU) grix-admin-gw.eier.access-link.grnet.gr                                                             
+╭─ 83.97.88.69     21320   0.572                    (Výronas, Attica, GR, EU) grnet-ias-geant-gw.mx2.ath.gr.geant.net                                                             
+S&T (21320, 20965)  mednautilus-submarine-system ✘ || oteglobe-kokkini-bari ✘ || italy-greece-1 ✘
+├─ 62.40.98.150    20965   44.961                   (Milan, Lombardy, IT, EU) ae7.rt1.mil2.it.geant.net                                                                           
+S&T (20965)  
+╰─ 62.40.98.232    20965   45.362    (Arthaz-Pont-Notre-Dame, Auvergne-Rhône-Alpes, FR, EU) ae2.mx1.gen.ch.geant.net                                                                            
+╭─ 62.40.98.239    20965   45.117              (Paris, Île-de-France, FR, EU) ae7.mx1.par.fr.geant.net                                                                            
+S&T (20965)  
+├─ 62.40.98.106    20965   45.253                        (Lisbon, 11, PT, EU) ae0.mx2.lis.pt.geant.net                                                                            
+S&T (20965)  
+╰─ 62.40.98.64     20965   44.563                   (London, England, GB, EU) ae2.mx1.lon.uk.geant.net                                                                            
+╭─ 195.66.225.227  31133   44.795                     (London, ENG, GB, None) *                                                                                                   
+S (31133, 6461)  
+├─ 64.125.29.114   6461    46.848                        (None, None, US, NA) cs1.lhr15.uk.zip.zayo.com.29.125.64.in-addr.arpa                                                    
+S (6461)  
+├─ 64.125.29.129   6461    46.787                       (London, ENG, GB, EU) ae1.mcs1.lhr15.uk.eth.zayo.com                                                                      
+S (6461, 4637)  
+├─ 82.98.196.161   4637    51.863                        (None, None, HK, AS) 82.98.196.161.IPYX-284545-900-ZYO.zip.zayo.com                                                      
+S (4637)  
+╰─ 202.84.178.37   4637    52.045                   (London, England, GB, EU) i-1107.ulhc-core03.telstraglobal.net                                                                
+╭─ 202.84.178.9    4637    51.972                   (London, England, GB, EU) i-1003.ulcn-core01.telstraglobal.net                                                                
+S (4637)  
+╰─ 202.84.140.141  4637    290.781             (Singapore, Singapore, SG, AS) i-1000.sgcn-core01.telstraglobal.net                                                                
+   202.84.140.141  4637    290.781             (Singapore, Singapore, SG, AS) i-1000.sgcn-core01.telstraglobal.net                                                                
+╭─ 202.84.224.197  4637    283.409             (Singapore, Singapore, SG, AS) i-91.istt04.telstraglobal.net                                                                       
+S (4637, 55569)  
+├─ 128.241.9.223   55569   209.417                       (None, None, US, NA) ce-0-3-0-0.r00.sngpsi07.sg.ce.gin.ntt.net                                                           
+S (55569)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 182.161.73.67   55569   202.007             (Singapore, Singapore, SG, AS)                                                                                                     
+   182.161.73.41   55569   202.275             (Singapore, Singapore, SG, AS)                                                                                                     

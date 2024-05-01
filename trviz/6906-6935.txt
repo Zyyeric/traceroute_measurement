@@ -1,0 +1,21 @@
+   102.130.49.144  328383  0.0                (Johannesburg, Gauteng, ZA, AF) za-jnb-as57695.anchors.atlas.ripe.net                                                               
+   102.130.49.21   328383  0.079              (Johannesburg, Gauteng, ZA, AF) po-21.lag.jnb01.za.misaka.io                                                                        
+   102.130.49.3    328383  0.276              (Johannesburg, Gauteng, ZA, AF) spine2.v271.jnb01.za.misaka.io                                                                      
+╭─ 102.130.51.2    *       0.263              (Johannesburg, Gauteng, ZA, AF) e54-1-10.cr1a.tdjb1.jnb1.za.917.as                                                                  
+LHL (, 60068)  africa-coast-to-europe-ace ✘
+├─ 37.19.193.190   60068   0.294                     (Prague, Prague, CZ, EU) p77-3502.cr1a.tdjb1.jnb1.za.917.as                                                                  
+LHL (60068, 5511)  
+├─ 193.251.152.55  5511    0.608              (Johannesburg, Gauteng, ZA, AF)                                                                                                     
+T (5511)  africa-coast-to-europe-ace 👍
+╰─ 193.251.241.157 5511    168.903                     (London, None, GB, EU) bundle-ether304.lontr5.london.opentransit.net                                                       
+   134.159.95.73   4637    174.749                       (None, None, GB, EU) i-0-0-2-3-104-peer.ulhc01.pr.telstraglobal.net                                                      
+   202.84.178.37   4637    174.897                  (London, England, GB, EU) i-1107.ulhc-core03.telstraglobal.net                                                                
+╭─ 202.84.178.9    4637    169.196                  (London, England, GB, EU) i-1003.ulcn-core01.telstraglobal.net                                                                
+S (4637)  seamewe-3 👍
+╰─ 202.84.140.141  4637    488.068             (Singapore, Singapore, SG, AS) i-1000.sgcn-core01.telstraglobal.net                                                                
+   202.84.140.141  4637    488.068             (Singapore, Singapore, SG, AS) i-1000.sgcn-core01.telstraglobal.net                                                                
+╭─ 202.84.207.190  4637    487.042             (Singapore, Singapore, SG, AS) unknown.telstraglobal.net                                                                           
+S (4637)  
+╰─ 202.84.204.41   4637    486.2                       (Dubai, Dubai, AE, AS) i-103.uddm01.telstraglobal.net                                                                      
+   185.1.8.23      60924   416.293                       (Dubai, 3, AE, None) dxb-gw03.orixcom.net                                                                                
+   185.92.128.30   60924   418.439                     (Dubai, Dubai, AE, AS)                                                                                                     

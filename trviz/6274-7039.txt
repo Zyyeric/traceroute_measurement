@@ -1,0 +1,20 @@
+   103.170.232.152 142616  0.0                         (Tokyo, Tokyo, JP, AS) user-103-170-232-152.nrt04.jp.misaka.io                                                             
+   103.170.232.11  142616  0.119                       (Tokyo, Tokyo, JP, AS) po-31.lag.nrt04.jp.misaka.io                                                                        
+   103.170.232.3   142616  0.209                       (Tokyo, Tokyo, JP, AS) spine2.nrt04.jp.misaka.io                                                                           
+╭─ 199.119.64.142  969     0.157                       (Tokyo, Tokyo, JP, AS) e54-20.cr2a.eqty8.nrt4.jp.917.as                                                                    
+S (969)  
+├─ 199.119.64.94   969     0.251               (San Jose, California, US, NA) po100.cr1a.eqty8.nrt4.jp.917.as                                                                     
+S (969, 137409)  
+╰─ 160.202.164.140 137409  0.228                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+   206.148.24.36   7578    0.19                        (Tokyo, Tokyo, JP, AS) po50-3.ty-eqxty8-cr3.globalsecurelayer.com                                                          
+   206.148.24.48   7578    0.239                       (Tokyo, Tokyo, JP, AS) po3.ty-eqxty8-bb5.globalsecurelayer.com                                                             
+╭─ 206.148.24.50   7578    0.308                       (Tokyo, Tokyo, JP, AS) e52.ty-eqxty8-bb5.globalsecurelayer.com                                                             
+S (7578)  
+╰─ 206.148.25.85   7578    97.689           (Los Angeles, California, US, NA) e50.lax-csla2-bb1.globalsecurelayer.com                                                             
+   206.148.25.90   7578    97.72            (Los Angeles, California, US, NA) e19.lax-csla2-bb5.globalsecurelayer.com                                                             
+   206.148.25.7    7578    126.902              (Seattle, Washington, US, NA) e50.sea-drtsea10-bb1.globalsecurelayer.com                                                          
+   206.148.25.16   7578    126.824              (Seattle, Washington, US, NA) po10.sea-drtsea10-cr1.globalsecurelayer.com                                                         
+   206.81.83.146   *       126.875              (Seattle, Washington, US, NA) v4-mtu9k-six.globalsecurelayer.com                                                                  
+   ***             *       -inf                                           *** *                                                                                                   
+   207.229.73.32   13331   139.61                        (None, None, US, NA) *                                                                                                   
+   204.15.11.34    13331   126.994               (SeaTac, Washington, US, NA)                                                                                                     

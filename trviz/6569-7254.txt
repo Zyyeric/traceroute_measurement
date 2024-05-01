@@ -1,0 +1,12 @@
+   103.170.154.254 142594  0.0                      (London, England, GB, EU) 254.154.170.103.speedyvps.uk                                                                        
+╭─ 103.170.154.1   142594  0.133                    (London, England, GB, EU)                                                                                                     
+T (142594, 60068)  
+├─ 156.146.32.92   60068   0.238                     (Prague, Prague, CZ, EU) unn-156-146-32-92.cdn77.com                                                                         
+T (60068, 201011)  
+├─ 81.95.9.56      201011  0.419                  (Shadwell, England, GB, EU) ae22-407.lon10.core-backbone.com                                                                    
+S&T (201011)  circe-north ✘ || scylla ✘ || ulysses-2 ✘ || zeus ✘ || atlantic-crossing-1-ac-1 ✘ || concerto ✘ || farland-north ✘
+╰─ 80.255.15.165   201011  0.365 (5.152)                 (Amsterdam, NH, NL, EU) ae3-2072.ams10.core-backbone.com                                                                    
+╭─ 80.249.210.171  35574   29.616                      (Schiphol, NH, NL, EU) *                                                                                                   
+T (35574)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 194.187.172.112 35574   29.632                       (Rome, Lazio, IT, EU)                                                                                                     

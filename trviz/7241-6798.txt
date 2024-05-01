@@ -1,0 +1,12 @@
+   185.34.2.114    36236   0.0                         (Dubai, Dubai, AE, AS)                                                                                                     
+   185.34.2.113    36236   0.898                       (Dubai, Dubai, AE, AS)                                                                                                     
+╭─ 185.34.2.12     36236   0.26                        (Dubai, Dubai, AE, AS)                                                                                                     
+S (36236, 6939)  asia-africa-europe-1-aae-1 ✓ || flag-europe-asia-fea ✘ || seamewe-3 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.199.181 6939    115.547             (Hong Kong, Hong Kong, HK, AS) port-channel9.core2.hkg1.he.net                                                                     
+╭─ 184.104.212.74  23944   123.939                  (Hong Kong, None, HK, AS) sky-cable-corporation.port-channel4.switch1.hkg1.he.net                                             
+S (23944)  
+├  172.31.31.11    *       122.943                                        ***                                                                                                     
+╰─ 182.18.209.9    23944   124.076             (Manila, Metro Manila, PH, AS)                                                                                                     

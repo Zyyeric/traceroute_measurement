@@ -1,0 +1,14 @@
+   63.222.40.114   3491    0.0                       (Taipei, Taiwan, TW, AS) ncic.te0-1-0-23.br01.tap04.as3491.net                                                               
+╭─ 63.222.40.113   3491    0.909                      (Neihu, Taiwan, TW, AS) te0-1-0-23.br01.tap04.as3491.net                                                                    
+S (3491)  seamewe-3 👍 || apcn-2 👍 || trans-pacific-express-tpe-cable-system ✓ || eac-c2c ✓ || faster ✓ || asia-pacific-gateway-apg ✓ || flag-north-asia-loopreach-north-asia-loop 👍 || new-cross-pacific-ncp-cable-system ✓
+├─ 63.218.250.122  3491    33.118                      (Tokyo, Tokyo, JP, AS) be42.br04.tok02.as3491.net                                                                          
+S (3491, 396998)  asia-submarine-cable-express-asecahaya-malaysia ✓ || seamewe-3 👍 || apcn-2 👍 || eac-c2c ✓ || asia-pacific-gateway-apg ✓ || southeast-asia-japan-cable-sjc ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 23.183.246.250  396998  115.074             (Singapore, Singapore, SG, AS)                                                                                                     
+S&T (396998, 140443)  jasuka ✓ || jakabare ✘ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || b2js-jakarta-bangka-batam-singapore-cable-system ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 103.160.63.222  140443  122.705                 (Jakarta, Jakarta, ID, AS) 222.63.160.103.in-addr.herza.id                                                                     

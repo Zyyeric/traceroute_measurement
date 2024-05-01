@@ -1,0 +1,15 @@
+   195.66.241.220  5459    0.0                      (London, England, GB, EU) ripe-anchor.linx.net                                                                                
+   195.66.241.219  5459    0.393                    (Poplar, England, GB, EU) hsrp1.tr1-tr6.linx.net                                                                              
+   195.66.248.10   5459    0.991                    (Poplar, England, GB, EU) uunet-uk-transit.thn.linx.net                                                                       
+   140.222.5.109   *       1.476                    (Poplar, England, GB, EU) 0.ae10.br2.lnd18.alter.net                                                                          
+╭─ 195.66.225.107  2119    1.31                       (London, ENG, GB, None) ti9002b300.ti.telenor.net                                                                           
+S&T (2119)  tampnet-offshore-foc-network ✘ || no-uk ✓
+╰─ 146.172.105.73  2119    33.363                        (None, None, NO, EU) ti3004c400-ae0-0.ti.telenor.net                                                                     
+╭─ 146.172.99.177  2119    27.394                        (None, None, NO, EU) ti3006c400-ae1-0.ti.telenor.net                                                                     
+T (2119)  
+├─ 146.172.105.109 2119    27.231                     (Båstad, Skåne, SE, EU) ti3006b400-ae1-0.ti.telenor.net                                                                     
+T (2119)  
+├─ 148.122.10.198  2119    30.15                         (Oslo, Oslo, NO, EU)                                                                                                     
+S&T (2119, 9158)  
+╰─ 77.214.52.101   9158    35.486                         (Farum, 84, DK, EU) *                                                                                                   
+   77.214.52.102   9158    35.43             (Aalborg, North Denmark, DK, EU)                                                                                                     

@@ -1,0 +1,10 @@
+   185.184.8.158   204995  0.0             (Amsterdam, North Holland, NL, EU) ip-185-184-8-158.rtbhouse.net                                                                       
+   185.184.8.254   204995  0.746             (Haarlem, North Holland, NL, EU) ip-185-184-8-254.rtbhouse.net                                                                       
+   169.254.209.104 *       1.178                                          ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 184.104.198.118 6939    2.145           (Amsterdam, North Holland, NL, EU) port-channel1.core1.ams1.he.net                                                                     
+S&T (6939)  circe-north ✓ || ulysses-2 ✘ || scylla ✓ || zeus ✓ || concerto ✓ || farland-north ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.64.5    6939    8.222                    (London, England, GB, EU) port-channel4.core1.lon3.he.net                                                                     
+   184.104.205.210 201971  11.797                       (London, ENG, GB, EU) creeperhost-ltd.10gigabitethernet1-1-24.switch1.lon3.he.net                                         
+   185.57.191.228  201971  11.893                 (Grantham, England, GB, EU) 228.191.57.185.no-ptr.as201971.net                                                                  

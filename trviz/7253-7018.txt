@@ -1,0 +1,12 @@
+   103.2.186.195   45345   0.0               (Nouméa, South Province, NC, OC) nc-nou-as45345.anchors.atlas.ripe.net                                                               
+   103.2.186.221   45345   0.245 (3.85)        (Nouméa, South Province, NC, OC) gw-ipv4-hosting-1010-mx204-f10.as45345.net                                                          
+   202.87.128.198  45345   0.49                           (Noumea, S, NC, OC) *                                                                                                   
+╭─ 202.87.128.197  18200   1.17              (Nouméa, South Province, NC, OC)                                                                                                     
+S (18200, 6939)  gondwana-1 👍
+╰─ 64.71.180.153   6939    22.82                        (Sydney, NSW, AU, OC) e0-9.core2.syd1.he.net                                                                              
+╭─ 64.71.180.153   6939    22.82                        (Sydney, NSW, AU, OC) e0-9.core2.syd1.he.net                                                                              
+S (6939)  hawaiki ✘ || southern-cross-cable-network-sccn ✓ || southern-cross-next ✓
+╰─ 64.71.184.45    6939    168.49                      (San Jose, CA, US, NA) 10gigabitethernet5-13.core1.sjc1.he.net                                                             
+   184.104.195.114 6939    165.136                   (Pleasanton, CA, US, NA) 100ge16-2.core1.pao1.he.net                                                                         
+   64.62.180.46    6939    164.736             (San Jose, California, US, NA) isc-as-1280-as1280.e0-30.switch2.pao1.he.net                                                        
+   192.158.252.10  1280    164.943        (Mountain View, California, US, NA) us-pao-as1280.anchors.atlas.ripe.net                                                                

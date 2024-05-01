@@ -1,0 +1,19 @@
+   185.39.208.23   199993  0.0                       (Lisbon, Lisbon, PT, EU) atlasancora01.wan.dns.pt                                                                            
+   185.39.208.60   199993  0.543                     (Lisbon, Lisbon, PT, EU)                                                                                                     
+   194.210.4.137   1930    0.984                     (Lisbon, Lisbon, PT, EU) router63.lisboa.fccn.pt                                                                             
+   194.210.6.112   1930    0.924                     (Lisbon, Lisbon, PT, EU) router30.lisboa.fccn.pt                                                                             
+╭─ 194.210.6.105   1930    1.409                     (Lisbon, Lisbon, PT, EU) router6.lisboa.fccn.pt                                                                              
+LHL (1930, 6939)  africa-coast-to-europe-ace ✘ ↠ apollo ✘ || africa-coast-to-europe-ace ✘ ↠ flag-atlantic-1-fa-1 ✘ || seamewe-3 ✘ ↠ apollo ✘ || seamewe-3 ✘ ↠ flag-atlantic-1-fa-1 ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.198.225 6939    166.973          (Los Angeles, California, US, NA) port-channel17.core2.lax1.he.net                                                                    
+S (6939, 23944)  sea-us ✓ ↠ asia-america-gateway-aag-cable-system ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.212.74  23944   286.713                  (Hong Kong, None, HK, AS) sky-cable-corporation.port-channel4.switch1.hkg1.he.net                                             
+S (23944)  
+╰─ 130.105.0.33    23944   291.038                   (Quezon City, 0, PH, AS) *                                                                                                   
+   182.18.209.9    23944   292.471             (Manila, Metro Manila, PH, AS)                                                                                                     

@@ -1,0 +1,13 @@
+   102.219.127.20  37468   0.0                 (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 102.219.127.17  37468   0.509               (Singapore, Singapore, SG, AS)                                                                                                     
+LHL (37468)  seamewe-4 ✓ ↠ seacomtata-tgn-eurasia ✓ || seamewe-3 ✓ ↠ seacomtata-tgn-eurasia ✓ || seamewe-5 ✓ ↠ seacomtata-tgn-eurasia ✓ || peace-cable ✘ ↠ seacomtata-tgn-eurasia ✓
+├─ 102.219.127.7   37468   144.948            (Johannesburg, Gauteng, ZA, AF)                                                                                                     
+S&T (37468)  
+├─ 102.130.68.112  37468   160.291                       (None, None, AO, AF) *                                                                                                   
+LHL (37468, 24961)  
+├  100.64.192.13   *       309.687                                        ***                                                                                                     
+├─ 80.249.208.219  24961   323.497                    (Amsterdam, NH, NL, EU) eth53-1q2-h9077.core1-ams-eq3.bb.as24961.net                                                        
+T (24961)  
+╰─ 62.141.47.192   24961   323.332                   (Düsseldorf, NW, DE, EU) po15.core2-dus3.bb.as24961.net                                                                      
+   62.141.47.157   24961   323.541                   (Düsseldorf, NW, DE, EU) po2.agr1-dedi-m1.bb.as24961.net                                                                     
+   37.157.253.244  24961   323.595   (Kaarst, North Rhine-Westphalia, DE, EU)                                                                                                     

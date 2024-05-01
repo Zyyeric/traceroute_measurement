@@ -1,0 +1,16 @@
+   63.222.188.9    3491    0.0           (Kuala Lumpur, Kuala Lumpur, MY, AS)                                                                                                     
+   63.222.188.1    3491    0.517         (Kuala Lumpur, Kuala Lumpur, MY, AS)                                                                                                     
+╭─ 184.104.197.102 6939    9.196                   (Kuala Lumpur, 14, MY, AS) ve955.core1.kul1.he.net                                                                             
+S&T (6939)  indonesia-global-gateway-igg-system ✓ || palapa-ring-west ✓ || batam-dumai-melaka-bdm-cable-system ✓ || jasuka ✓ || seamewe-4 ✓ || seamewe-5 ✓ || seamewe-3 ✓ || seax-1 ✘ || asia-submarine-cable-express-asecahaya-malaysia ✓ || asia-america-gateway-aag-cable-system ✓ || batam-rengit-cable-system-brcs ✓ || apcn-2 ✓
+├─ 184.104.213.221 6939    18.116              (Singapore, Singapore, SG, AS) e0-48.core2.sin1.he.net                                                                             
+S (6939)  seamewe-5 ✓ || seamewe-3 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.105.80.13   6939    161.369                        (Milan, 25, IT, EU) 100ge7-2.core1.mil2.he.net                                                                          
+T (6939)  
+├─ 184.105.64.169  6939    177.296             (Sofia, Sofia-Capital, BG, EU) 100ge0-75.core3.sof1.he.net                                                                         
+T (6939, )  
+╰─ 176.126.38.47   *       176.741               (Áno Liósia, Attica, GR, EU) he.gr-ix.gr                                                                                         
+   184.104.191.234 6939    176.159                   (Koropí, Attica, GR, EU) fast-telecom-p-c.e0-7.core1.ath1.he.net                                                             
+   ***             *       -inf                                           *** *                                                                                                   
+   185.14.96.225   211186  199.426            (Lamía, Central Greece, GR, EU) vlan4090.lamia.fast.net.gr                                                                          
+   185.14.96.232   211186  209.218            (Lamía, Central Greece, GR, EU)                                                                                                     

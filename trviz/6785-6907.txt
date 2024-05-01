@@ -1,0 +1,30 @@
+   103.153.176.122 131657  0.0                       (Taipei, Taiwan, TW, AS) 103-153-176-122.as131657.net                                                                        
+   103.153.176.254 131657  0.582                     (Taipei, Taiwan, TW, AS) 103-153-176-254.as131657.net                                                                        
+╭─ 103.51.91.5     *       0.839                     (Taipei, Taiwan, TW, AS) et-0-0-1.cr1.hd.tpe.as131657.net                                                                    
+S (, 174)  seamewe-3 ✘ || apcn-2 ✘ || trans-pacific-express-tpe-cable-system ✘ || eac-c2c ✘ || faster ✘ || asia-pacific-gateway-apg ✘ || flag-north-asia-loopreach-north-asia-loop ✘ || new-cross-pacific-ncp-cable-system ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 66.28.4.233     174     30.839                      (Tokyo, Tokyo, JP, AS) be2012.ccr71.tyo01.atlas.cogentco.com                                                               
+S (174, 36249)  
+╰─ 154.54.83.190   36249   31.023             (Dallas-Fort Worth, TX, US, NA) be2709.rcr01.b027338-0.dfw01.atlas.cogentco.com                                                     
+   154.54.1.21     174     136.661                  (Los Angeles, CA, US, NA) be2894.ccr41.lax04.atlas.cogentco.com                                                               
+   154.54.25.149   174     136.42                   (Los Angeles, CA, US, NA) be3360.ccr42.lax01.atlas.cogentco.com                                                               
+╭─ 154.54.45.161   174     144.767                      (Phoenix, AZ, US, NA) be2932.ccr32.phx01.atlas.cogentco.com                                                               
+S&T (174)  
+├─ 154.54.26.54    174     153.246                       (Ottawa, ON, CA, NA) be3349.rcr11.yow01.atlas.cogentco.com                                                               
+S&T (174)  
+╰─ 154.54.2.5      174     168.965                   (Houston, Texas, US, NA) be3851.ccr42.iah01.atlas.cogentco.com                                                               
+   154.54.28.129   174     182.32                       (Atlanta, GA, US, NA) be2690.ccr42.atl01.atlas.cogentco.com                                                               
+   154.54.24.221   174     202.454                   (Washington, DC, US, NA) be2113.ccr42.dca01.atlas.cogentco.com                                                               
+   154.54.40.109   174     224.563                     (New York, NY, US, NA) be2807.ccr42.jfk02.atlas.cogentco.com                                                               
+   154.54.80.2     174     224.901                     (New York, NY, US, NA) be3295.ccr31.jfk05.atlas.cogentco.com                                                               
+╭─ 154.54.12.18    6453    224.529                     (New York, NY, US, NA) tata.jfk05.atlas.cogentco.com                                                                       
+LHL (6453)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 180.87.39.22    6453    445.395              (Mumbai, Maharashtra, IN, AS) if-ae-12-2.tcore2.mlv-mumbai.as6453.net                                                             
+╭─ 180.87.38.1     6453    444.915                       (Mumbai, MH, IN, AS) if-ae-2-2.tcore1.mlv-mumbai.as6453.net                                                              
+S (6453, 132884)  
+╰─ 103.26.244.19   132884  452.448           (Paltan, Dhaka Division, BD, AS) 103.26.244.19.summitgw.net                                                                          
+   103.26.244.2    58717   421.379                       (None, None, BD, AS) *                                                                                                   
+   103.199.87.187  58717   294.683           (Paltan, Dhaka Division, BD, AS) 103.199.87.187.summitiig.net                                                                        
+   ***             *       -inf                                           *** *                                                                                                   
+   103.15.246.16   58717   294.248                     (Dhaka, Dhaka, BD, AS)                                                                                                     

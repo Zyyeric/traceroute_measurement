@@ -1,0 +1,25 @@
+   103.170.232.152 142616  0.0                         (Tokyo, Tokyo, JP, AS) user-103-170-232-152.nrt04.jp.misaka.io                                                             
+   ***             *       -inf                                           *** *                                                                                                   
+   103.170.232.2   142616  0.267                       (Tokyo, Tokyo, JP, AS) spine1.nrt04.jp.misaka.io                                                                           
+   199.119.64.136  969     0.255                       (Tokyo, Tokyo, JP, AS) e53-10.cr1a.eqty8.nrt4.jp.917.as                                                                    
+   199.119.64.95   969     0.257                       (Tokyo, Tokyo, JP, AS) po100.cr2a.eqty8.nrt4.jp.917.as                                                                     
+╭─ 84.17.33.106    60068   0.291                       (Tokyo, Tokyo, JP, AS) po66-3518.cr01.nrt04.jp.misaka.io                                                                   
+S (60068, 36249)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 154.54.83.190   36249   0.73               (Dallas-Fort Worth, TX, US, NA) be2709.rcr01.b027338-0.dfw01.atlas.cogentco.com                                                     
+   154.54.1.21     174     102.796                  (Los Angeles, CA, US, NA) be2894.ccr41.lax04.atlas.cogentco.com                                                               
+   154.54.25.149   174     99.165                   (Los Angeles, CA, US, NA) be3360.ccr42.lax01.atlas.cogentco.com                                                               
+╭─ 154.54.45.161   174     110.822                      (Phoenix, AZ, US, NA) be2932.ccr32.phx01.atlas.cogentco.com                                                               
+S&T (174)  
+├─ 154.54.26.54    174     122.826                       (Ottawa, ON, CA, NA) be3349.rcr11.yow01.atlas.cogentco.com                                                               
+S&T (174)  
+╰─ 154.54.2.5      174     139.088                   (Houston, Texas, US, NA) be3851.ccr42.iah01.atlas.cogentco.com                                                               
+   154.54.84.2     174     165.773                        (Miami, FL, US, NA) be3570.ccr22.mia01.atlas.cogentco.com                                                               
+   154.54.40.30    174     163.581                   (Boca Raton, FL, US, NA) be2384.rcr52.bct01.atlas.cogentco.com                                                               
+   154.24.94.174   174     163.802                   (Miami, Florida, US, NA)                                                                                                     
+╭─ 38.142.194.218  37468   163.064                     (New York, NY, US, NA) *                                                                                                   
+S (37468)  
+├─ 170.238.233.162 37468   223.608                 (Fortaleza, Ceará, BR, SA) 162.233.238.170.angolacables.ao                                                                     
+S (37468)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 185.148.112.152 37468   313.096                   (Lisbon, Lisbon, PT, EU) 152.112.148.185.angolacables.ao                                                                     

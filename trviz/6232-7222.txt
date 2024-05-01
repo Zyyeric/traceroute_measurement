@@ -1,0 +1,15 @@
+   102.130.68.151  37468   0.0                (Johannesburg, Gauteng, ZA, AF)                                                                                                     
+╭─ 102.130.68.146  37468   0.335                  (Edenvale, Gauteng, ZA, AF)                                                                                                     
+LHL (37468)  seacomtata-tgn-eurasia ✓ ↠ seamewe-4 ✓ || seacomtata-tgn-eurasia ✓ ↠ seamewe-3 ✓ || seacomtata-tgn-eurasia ✓ ↠ seamewe-5 ✓ || seacomtata-tgn-eurasia ✓ ↠ peace-cable ✘
+├─ 102.219.127.6   37468   144.457             (Singapore, Singapore, SG, AS)                                                                                                     
+S (37468, 8529)  
+├─ 27.111.229.38   8529    144.768                   (Seogwipo, None, KR, AS) 8529.sgw.equinix.com                                                                                
+S (8529)  
+╰─ 213.202.6.228   8529    217.477                   (Muscat, Muscat, OM, AS)                                                                                                     
+╭─ 213.202.1.189   8529    246.542                   (Muscat, Muscat, OM, AS)                                                                                                     
+S&T (8529, 42961)  
+├─ 151.248.98.137  42961   247.084                       (None, None, BH, AS) *                                                                                                   
+S (42961)  
+├  10.32.1.6       *       250.733                                        ***                                                                                                     
+├  10.32.1.9       *       250.42                                         ***                                                                                                     
+╰─ 212.43.17.42    42961   250.309     (Al Farwānīyah, Al Farwaniyah, KW, AS)                                                                                                     

@@ -1,0 +1,17 @@
+   102.130.49.144  328383  0.0                (Johannesburg, Gauteng, ZA, AF) za-jnb-as57695.anchors.atlas.ripe.net                                                               
+   102.130.49.21   328383  0.152              (Johannesburg, Gauteng, ZA, AF) po-21.lag.jnb01.za.misaka.io                                                                        
+   102.130.49.3    328383  0.174              (Johannesburg, Gauteng, ZA, AF) spine2.v271.jnb01.za.misaka.io                                                                      
+╭─ 102.130.51.2    *       0.213              (Johannesburg, Gauteng, ZA, AF) e54-1-10.cr1a.tdjb1.jnb1.za.917.as                                                                  
+LHL (, 60068)  africa-coast-to-europe-ace ✘
+├─ 37.19.193.192   60068   0.18                      (Prague, Prague, CZ, EU) p77-3503.cr1a.tdjb1.jnb1.za.917.as                                                                  
+LHL (60068, 37468)  
+├─ 102.130.70.57   37468   0.271              (Johannesburg, Gauteng, ZA, AF)                                                                                                     
+S&T (37468)  africa-coast-to-europe-ace ✓
+├─ 102.130.68.112  37468   15.798                        (None, None, AO, AF) *                                                                                                   
+LHL (37468, 12779)  sat-3wasc ✓ || west-africa-cable-system-wacs 👍
+├  100.64.192.13   *       165.094                                        ***                                                                                                     
+├─ 80.249.209.17   12779   178.265                     (Schiphol, NH, NL, EU) ams-ix.itgate.net                                                                                   
+T (12779)  
+╰─ 213.254.30.222  12779   188.291                       (Torino, 21, IT, EU) be20.Scooby-Monster.core.TRN.itgate.net                                                             
+   213.254.30.223  12779   950.889                       (Torino, 21, IT, EU) po1.nx01.colo.trn1.itgate.net                                                                       
+   213.212.129.68  12779   187.865                  (Turin, Piedmont, IT, EU) it-trn-as12779.anchors.atlas.ripe.net                                                               

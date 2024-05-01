@@ -1,0 +1,15 @@
+   199.47.174.227  12110   0.0                       (Tampa, Florida, US, NA) atlas-anchor.tampa.coop                                                                             
+   199.47.174.225  12110   1.201                     (Tampa, Florida, US, NA) vlan-200.coop-stack.tampa.coop                                                                      
+   66.216.50.41    19151   1.003                     (Tampa, Florida, US, NA)                                                                                                     
+╭─ 66.216.2.15     19151   24.209                        (Dallas, TX, US, NA) *                                                                                                   
+S&T (19151, 6453)  arcos ✓ || gignet-1 ✘ || america-movil-submarine-cable-system-1-amx-1 ✘ || maya-1 ✓
+╰─ 206.223.118.40  6453    43.721                        (None, None, MX, NA) 100gig1-1.peer1.dallas1.transtelco.net                                                              
+   201.174.253.76  32098   61.313               (Piedras Negras, COA, MX, NA) 201-174-253-76.transtelco.net                                                                       
+   201.174.251.17  32098   68.524               (Piedras Negras, COA, MX, NA) 201-174-251-17.transtelco.net                                                                       
+   201.174.251.108 32098   68.449               (Piedras Negras, COA, MX, NA) 201-174-251-108.transtelco.net                                                                      
+   201.174.154.26  32098   69.158                     (Saltillo, COA, MX, NA) 201-174-154-26.transtelco.net                                                                       
+   10.3.26.26      *       71.627                                         ***                                                                                                     
+   10.3.9.111      *       73.471                                         ***                                                                                                     
+   10.3.2.72       *       73.27                                          ***                                                                                                     
+   177.242.222.97  13999   71.449                (Hermosillo, Sonora, MX, NA) customer-qro-222-97.megared.net.mx                                                                  
+   148.225.112.222 4493    73.203                (Hermosillo, Sonora, MX, NA)                                                                                                     

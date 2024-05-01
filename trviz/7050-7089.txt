@@ -1,0 +1,28 @@
+   94.24.115.154   15699   0.0                 (Barcelona, Catalonia, ES, EU)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   94.24.115.146   15699   0.749     (Cerdanyola del Vallès, Catalonia, ES, EU)                                                                                                     
+   185.11.200.65   15699   1.134     (Cerdanyola del Vallès, Catalonia, ES, EU)                                                                                                     
+   185.11.200.18   15699   1.757                      (Barcelona, CT, ES, EU) *                                                                                                   
+╭─ 212.36.70.125   15699   1.379     (Cerdanyola del Vallès, Catalonia, ES, EU) 3g-mpls-125.adam.es                                                                                 
+S&T (15699, 6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.193.150 6939    17.075                        (Lisbon, 11, PT, EU) port-channel6.core2.lis1.he.net                                                                     
+╭─ 184.104.224.113 6939    16.677                    (Lisbon, Lisbon, PT, EU) afrix-telecom-s-l.e0-19.switch1.lis1.he.net                                                         
+S&T (6939, 60171)  
+├─ 185.10.164.99   60171   252.171             (Barcelona, Catalonia, ES, EU)                                                                                                     
+S&T (60171)  
+╰─ 185.10.164.113  60171   251.991                      (London, ENG, GB, EU) *                                                                                                   
+╭─ 185.10.164.135  60171   254.954                      (London, ENG, GB, EU) *                                                                                                   
+S&T (60171)  
+├─ 185.10.164.32   60171   254.936             (Paris, Île-de-France, FR, EU)                                                                                                     
+S (60171)  
+├─ 102.223.52.73   60171   251.869                     (Lagos, Lagos, NG, AF)                                                                                                     
+S&T (60171)  
+├─ 185.10.164.45   60171   254.583                      (London, ENG, GB, EU) *                                                                                                   
+S&T (60171)  
+├─ 102.219.44.43   60171   251.889                     (Lagos, Lagos, NG, AF)                                                                                                     
+S&T (60171, 328913)  
+╰─ 196.49.84.51    328913  252.277                 (Abidjan, Abidjan, CI, AF) bdr3.std.douala-ix.net                                                                              
+╭─ 196.49.84.36    328913  252.187                 (Abidjan, Abidjan, CI, AF) gw1.std.douala-ix.net                                                                               
+S&T (328913)  
+╰─ 196.49.84.188   328913  255.6                   (Douala, Littoral, CM, AF) cm-dla-as328913.anchors.atlas.ripe.net                                                              

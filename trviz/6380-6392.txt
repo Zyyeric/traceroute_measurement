@@ -1,0 +1,18 @@
+   37.252.245.94   42473   0.0                         (Dubai, Dubai, AE, AS)                                                                                                     
+   37.252.245.93   42473   0.655                       (Dubai, Dubai, AE, AS)                                                                                                     
+╭─ 184.105.64.198  6939    111.27                         (Dubai, DU, AE, AS) 10ge4-11.core1.dxb1.he.net                                                                          
+S (6939)  
+├─ 184.104.193.102 6939    190.635   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) port-channel1.core3.mrs1.he.net                                                                     
+S&T (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.222.68  6939    267.207                   (Lisbon, Lisbon, PT, EU) port-channel9.core1.lis1.he.net                                                                     
+╭─ 184.104.224.178 37613   201.647                       (Lisbon, 11, PT, EU) etg-is-nigeria.e0-21.switch1.lis1.he.net                                                            
+S&T (37613)  
+╰─ 41.242.114.115  37613   337.002                     (Lagos, Lagos, NG, AF)                                                                                                     
+╭─ 196.216.148.158 *       359.142                     (Lagos, Lagos, NG, AF)                                                                                                     
+S&T (, 37727)  
+╰─ 154.65.16.37    37727   359.603             (Accra, Greater Accra, GH, AF)                                                                                                     
+   154.65.18.77    37727   359.112             (Accra, Greater Accra, GH, AF)                                                                                                     
+   154.65.16.114   37727   359.07              (Accra, Greater Accra, GH, AF)                                                                                                     
+   196.201.2.126   30997   437.565                       (Accra, 1, GH, None) *                                                                                                   
+   196.49.14.25    30997   441.486             (Accra, Greater Accra, GH, AF)                                                                                                     

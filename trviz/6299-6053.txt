@@ -1,0 +1,28 @@
+   197.80.104.36   10474   0.0                (Johannesburg, Gauteng, ZA, AF) 197-80-104-36.jhb.mweb.co.za                                                                        
+   197.80.75.3     10474   1.134                  (Randburg, Gauteng, ZA, AF) 20.bu-ether1.vic-pe-12.optinet.net                                                                  
+   197.80.7.15     10474   174.303                       (None, None, ZA, AF) 197-80-7-15.jhb.mweb.co.za                                                                          
+   197.80.4.9      10474   174.851                       (None, None, ZA, AF) bu-ether1.tis-pe-2.optinet.net                                                                      
+   197.80.4.252    10474   176.686                       (None, None, ZA, AF) bu-ether2.tis-pe-1.optinet.net                                                                      
+╭─ 197.80.4.216    10474   175.934                       (None, None, ZA, AF) 197-80-4-216.jhb.mweb.co.za                                                                         
+T (10474)  
+╰─ 197.80.5.89     10474   176.744                  (London, England, GB, EU) 197-80-5-89.jhb.mweb.co.za                                                                          
+╭─ 176.67.178.2    10474   176.93                      (London, None, GB, EU) *                                                                                                   
+T (10474)  
+├─ 176.67.178.3    10474   176.962                       (None, None, ZA, AF) *                                                                                                   
+T (10474)  
+╰─ 176.67.177.228  10474   177.541                  (London, England, GB, EU) be-15-779-thd-linx-1.optinet.net                                                                    
+   195.66.226.18   37721   175.702                    (London, ENG, GB, None) *                                                                                                   
+╭─ 102.67.96.9     37721   175.828                  (Poplar, England, GB, EU) xe-0-0-0-41.bb1.lon1.vts.bf                                                                         
+S&T (37721)  
+├─ 102.67.97.249   37721   202.534                       (Lisbon, 11, PT, EU) xe-0-0-1-2021.bb2.lis1.vts.bf                                                                       
+S&T (37721)  
+├─ 102.67.97.85    37721   184.693                        (Accra, AA, GH, AF) et-0-0-0-2009.bb1.acc1.vts.bf                                                                       
+T (37721)  
+╰─ 102.67.96.45    37721   198.281                 (Ouagadougou, KAD, BF, AF) et-0-0-1-2022.bb2.oua1.vts.bf                                                                       
+╭─ 102.67.96.30    37721   200.525              (Ouagadougou, Centre, BF, AF)                                                                                                     
+T (37721)  
+├─ 102.67.97.146   37721   200.844             (Accra, Greater Accra, GH, AF) ce0-255.pe3.oua1.vts.bf                                                                             
+T (37721, 37577)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 197.239.73.57   37577   200.589              (Ouagadougou, Centre, BF, AF)                                                                                                     
+   197.239.73.59   37577   200.668              (Ouagadougou, Centre, BF, AF)                                                                                                     

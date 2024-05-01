@@ -1,0 +1,16 @@
+   5.188.168.94    202422  0.0               (Bahçelievler, Istanbul, TR, AS)                                                                                                     
+   5.188.168.3     202422  0.169                 (Istanbul, Istanbul, TR, AS) vrrp.gcore.lu                                                                                       
+   10.255.20.181   *       0.187                                          ***                                                                                                     
+   10.255.20.177   *       0.348                                          ***                                                                                                     
+   149.14.44.65    174     0.514                 (Istanbul, Istanbul, TR, AS) be5099.agr21.ist01.atlas.cogentco.com                                                               
+╭─ 154.54.74.205   174     0.842                 (Istanbul, Istanbul, TR, AS) be3510.rcr71.ist01.atlas.cogentco.com                                                               
+S (174)  
+├─ 154.54.74.226   174     9.374                          (Lyon, ARA, FR, EU) be2881.rcr21.lys01.atlas.cogentco.com                                                               
+S&T (174)  
+├─ 130.117.0.190   174     14.101                        (Malaga, AN, ES, EU) be3304.rcr21.agp01.atlas.cogentco.com                                                               
+S (174)  
+╰─ 154.54.37.142   174     20.676                    (Athens, Attica, GR, EU) be2047.rcr21.ath01.atlas.cogentco.com                                                               
+   149.11.120.66   174     20.034               (Metamórfosi, Attica, GR, EU) fastpath1.demarc.cogentco.com                                                                       
+   185.201.254.31  56457   20.158                (Áno Liósia, Attica, GR, EU) be3503.ef2.ath01.fastpath.gr                                                                        
+   185.201.254.37  56457   20.365                (Áno Liósia, Attica, GR, EU) te1-24.sp0.ath01.fastpath.gr                                                                        
+   176.119.210.244 56457   20.34                     (Athens, Attica, GR, EU)                                                                                                     

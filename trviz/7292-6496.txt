@@ -1,0 +1,17 @@
+   185.5.201.10    59715   0.0       (San Benedetto del Tronto, The Marches, IT, EU) p6496.probes.atlas.ripe.net                                                                         
+   185.5.200.255   59715   0.351     (San Benedetto del Tronto, The Marches, IT, EU) ge02-sbtap01-a.as59715.net                                                                          
+╭─ 89.221.32.156   6762    6.658                        (Rome, Lazio, IT, EU) ge-11-1-3.roma1.rom.seabone.net                                                                     
+T (6762)  
+╰─ 195.22.196.137  6762    35.262             (Frankfurt am Main, HE, DE, EU) ae6.francoforte34.fra.seabone.net                                                                   
+╭─ 184.104.202.65  6939    34.87              (Frankfurt am Main, HE, DE, EU) port-channel7.core3.fra1.he.net                                                                     
+LHL (6939)  apollo ✓ || flag-atlantic-1-fa-1 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 72.52.92.70     6939    37.809                      (San Jose, CA, US, NA) 10ge7-5.core1.sjc2.he.net                                                                           
+S (6939)  
+├─ 184.105.81.30   6939    50.903                    (Marseille, PAC, FR, EU) port-channel4.core2.mrs1.he.net                                                                     
+S (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.64.126  6939    267.683             (Hong Kong, Hong Kong, HK, AS) 100ge0-62.core2.hkg1.he.net                                                                         
+   184.104.220.67  6939    277.013             (Hong Kong, Hong Kong, HK, AS) lshiy.e0-30.switch1.hkg1.he.net                                                                     
+   103.203.243.11  955     266.597             (Hong Kong, Hong Kong, HK, AS) multi-user.port-channe17.switch1.hkg1.bb.lshiy.net                                                  
+   89.213.179.65   32167   271.421             (Hong Kong, Hong Kong, HK, AS) 89-213-179-65.ip.lshiyusercontent.com                                                               

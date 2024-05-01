@@ -1,0 +1,15 @@
+   92.38.135.131   202422  0.0                         (Seoul, Seoul, KR, AS)                                                                                                     
+   92.38.135.3     202422  0.588                       (Seoul, Seoul, KR, AS) vrrp.gcore.lu                                                                                       
+   10.255.17.209   *       0.62                                           ***                                                                                                     
+   10.255.17.213   *       0.355                                          ***                                                                                                     
+   10.255.17.147   *       0.5                                            ***                                                                                                     
+╭─ 8.244.74.25     3356    1.296                       (Seoul, Seoul, KR, AS)                                                                                                     
+S (3356)  korea-japan-cable-network-kjcn ✓ || seamewe-3 ✓
+├─ 4.69.217.14     3356    31.333                         (Tokyo, 13, JP, AS) ae1.3505.edge2.Tokyo4.level3.net                                                                    
+S (3356, 211186)  seamewe-3 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 185.14.96.232   211186  304.506            (Lamía, Central Greece, GR, EU)                                                                                                     

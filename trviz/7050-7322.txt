@@ -1,0 +1,27 @@
+   212.45.159.245  8816    0.0                      (Milan, Lombardy, IT, EU) it-mil-as8816.anchors.atlas.ripe.net                                                                
+   212.45.159.246  8816    1.027                    (Milan, Lombardy, IT, EU) asr-luc1-gi7.metrolink.it                                                                           
+   212.45.137.158  8816    1.023                    (Milan, Lombardy, IT, EU) asr-sal1-te25.metrolink.it                                                                          
+   212.45.137.190  8816    1.149                    (Milan, Lombardy, IT, EU) br-mix-te12.metrolink.it                                                                            
+╭─ 185.1.114.20    *       1.006                   (Figino, Lombardy, IT, EU) he.minap.it                                                                                         
+S&T (, 6939)  janna ✘ ↠ seamewe-3 ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.189.31  6939    29.597                    (Lisbon, Lisbon, PT, EU) port-channel8.core1.lis1.he.net                                                                     
+╭─ 184.104.224.113 6939    33.653                    (Lisbon, Lisbon, PT, EU) afrix-telecom-s-l.e0-19.switch1.lis1.he.net                                                         
+S&T (6939, 60171)  west-africa-cable-system-wacs ✓ || africa-coast-to-europe-ace ✓ || tata-tgn-western-europe ✓ || sat-3wasc ✓ || seamewe-3 ✓
+├─ 185.10.164.99   60171   269.206             (Barcelona, Catalonia, ES, EU)                                                                                                     
+S&T (60171)  
+╰─ 185.10.164.113  60171   271.938                      (London, ENG, GB, EU) *                                                                                                   
+╭─ 185.10.164.135  60171   269.323                      (London, ENG, GB, EU) *                                                                                                   
+S&T (60171)  
+├─ 185.10.164.32   60171   269.308             (Paris, Île-de-France, FR, EU)                                                                                                     
+S (60171)  
+├─ 102.223.52.73   60171   271.554                     (Lagos, Lagos, NG, AF)                                                                                                     
+S&T (60171)  
+├─ 185.10.164.45   60171   268.948                      (London, ENG, GB, EU) *                                                                                                   
+S&T (60171)  
+├─ 102.219.44.43   60171   271.568                     (Lagos, Lagos, NG, AF)                                                                                                     
+S&T (60171, 328913)  
+╰─ 196.49.84.51    328913  271.972                 (Abidjan, Abidjan, CI, AF) bdr3.std.douala-ix.net                                                                              
+╭─ 196.49.84.36    328913  272.084                 (Abidjan, Abidjan, CI, AF) gw1.std.douala-ix.net                                                                               
+S&T (328913)  
+╰─ 196.49.84.188   328913  269.984                 (Douala, Littoral, CM, AF) cm-dla-as328913.anchors.atlas.ripe.net                                                              

@@ -1,0 +1,16 @@
+   45.94.14.204    208520  0.0                (Riyadh, Riyadh Region, SA, AS)                                                                                                     
+   45.94.14.193    208520  0.49               (Riyadh, Riyadh Region, SA, AS)                                                                                                     
+╭─ 212.138.250.7   8895    1.217              (Riyadh, Riyadh Region, SA, AS)                                                                                                     
+S (8895, 3356)  
+├─ 213.242.126.197 3356    87.205    (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) et-7-0-17-3.edge4.marseille1.level3.net                                                             
+S (3356, 35819)  
+├─ 212.133.4.70    35819   67.044                        (None, None, SA, AS) *                                                                                                   
+S (35819, 37100)  
+├─ 105.16.32.2     37100   221.981                   (Marseille, PAC, FR, EU) ae-2.cr-02-mrs.fr.seacomnet.com                                                                     
+S&T (37100)  
+╰─ 105.25.160.165  37100   229.469          (Cape Town, Western Cape, ZA, AF) ce-0-1-9.cr-02-cpt.za.seacomnet.com                                                                 
+   105.16.31.9     37100   222.432                    (Cape Town, WC, ZA, AF) xe-1-0-0-0.er-01-cpt.za.seacomnet.com                                                               
+   105.22.67.166   37100   222.181          (Cape Town, Western Cape, ZA, AF)                                                                                                     
+   102.220.178.118 328829  229.313          (Cape Town, Western Cape, ZA, AF) rnd-br2-sfp28-2-882.vumatel.co.za                                                                   
+   102.220.179.118 328829  230.303          (Cape Town, Western Cape, ZA, AF) unknown.vumatel.co.za                                                                               
+   102.220.178.25  328829  222.876          (Cape Town, Western Cape, ZA, AF) unknown.vumatel.co.za                                                                               

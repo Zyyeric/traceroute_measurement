@@ -1,0 +1,13 @@
+   38.47.189.189   140443  0.0           (Kuala Lumpur, Kuala Lumpur, MY, AS)                                                                                                     
+   38.47.189.1     140443  0.502         (Kuala Lumpur, Kuala Lumpur, MY, AS)                                                                                                     
+╭─ 38.47.188.2     140443  0.482         (Kuala Lumpur, Kuala Lumpur, MY, AS)                                                                                                     
+S&T (140443, 9002)  indonesia-global-gateway-igg-system ✓ || palapa-ring-west ✓ || batam-dumai-melaka-bdm-cable-system ✘ || jasuka ✓ || seamewe-4 ✘ || seamewe-5 ✓ || seax-1 ✘ || asia-submarine-cable-express-asecahaya-malaysia ✓ || asia-america-gateway-aag-cable-system ✓ || batam-rengit-cable-system-brcs ✘ || apcn-2 ✓
+├  10.111.220.141  *       6.706                                          ***                                                                                                     
+├─ 87.245.231.200  9002    6.877               (Singapore, Singapore, SG, AS) ae0-526.rt.eqx.sin.sg.retn.net                                                                      
+S (9002)  
+╰─ 87.245.234.34   9002    159.617                    (Brussels, BRU, BE, EU) et003-6.RT.IRX.BRU.BE.retn.net                                                                      
+   194.53.172.106  6696    159.867                  (Brussels, BRU, BE, None) verixi.bnix.net                                                                                     
+   87.238.225.11   6696    160.019                       (None, None, BE, EU) edg01.blutw.bra.be.verixi.net                                                                       
+   80.67.181.1     204059  159.605                    (Brussels, BRU, BE, EU) edge-01.louise.neutri.net                                                                           
+   80.67.181.18    204059  160.061       (Brussels, Brussels Capital, BE, EU) core-01.louise.neutri.net                                                                           
+   80.67.181.29    204059  160.349       (Brussels, Brussels Capital, BE, EU) be-bru-as204059.anchors.atlas.ripe.net                                                              

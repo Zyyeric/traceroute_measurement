@@ -1,0 +1,23 @@
+   197.189.194.147 37153   0.0                (Johannesburg, Gauteng, ZA, AF) atlas-anchor-jnb1.jnb.net.host-h.net                                                                
+   197.189.194.145 37153   2.324              (Johannesburg, Gauteng, ZA, AF)                                                                                                     
+   197.189.193.3   37153   0.292              (Johannesburg, Gauteng, ZA, AF) core-router2.jnb1.host-h.net                                                                        
+   196.60.8.42     6939    2.029                  (Johannesburg, 6, ZA, None) he.ixp.joburg                                                                                       
+╭─ 184.105.223.210 6939    20.761                     (Cape Town, WC, ZA, AF) 100ge0-34.core1.cpt1.he.net                                                                         
+S&T (6939)  west-africa-cable-system-wacs ✓
+├─ 184.104.188.209 6939    132.475                   (Lisbon, Lisbon, PT, EU) 100ge0-79.core1.lis1.he.net                                                                         
+LHL (6939)  africa-coast-to-europe-ace ✓ || seamewe-3 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 72.52.92.214    6939    180.472                    (Amsterdam, NH, NL, EU) port-channel12.core2.ams1.he.net                                                                    
+T (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.206.217 6939    188.514             (Stockholm, Stockholm, SE, EU)                                                                                                     
+T (6939, 12389)  
+╰─ 188.128.126.213 12389   229.78                       (Moscow, MOW, RU, EU) *                                                                                                   
+   95.167.67.162   12389   294.173                     (Suvorov, TUL, RU, EU) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   

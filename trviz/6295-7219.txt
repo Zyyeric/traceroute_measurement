@@ -1,0 +1,15 @@
+   102.219.127.20  37468   0.0                 (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 102.219.127.17  37468   0.358               (Singapore, Singapore, SG, AS)                                                                                                     
+LHL (37468)  seamewe-4 ✓ ↠ seacomtata-tgn-eurasia ✓ || seamewe-3 ✓ ↠ seacomtata-tgn-eurasia ✓ || seamewe-5 ✓ ↠ seacomtata-tgn-eurasia ✓ || peace-cable ✘ ↠ seacomtata-tgn-eurasia ✓
+├─ 102.219.127.7   37468   144.919            (Johannesburg, Gauteng, ZA, AF)                                                                                                     
+S&T (37468)  
+├─ 102.130.68.112  37468   160.163                       (None, None, AO, AF) *                                                                                                   
+LHL (37468, 12713)  
+├  100.64.192.13   *       309.482                                        ***                                                                                                     
+├─ 80.249.208.179  12713   324.458                    (Amsterdam, NH, NL, EU) ge0-3.ams.OTEglobe.net                                                                              
+LHL (12713, )  
+├─ 62.75.5.217     *       357.233                   (Athens, Attica, GR, EU)                                                                                                     
+S&T (, 42409)  
+╰─ 217.24.245.22   42409   359.154                       (None, None, AL, EU) *                                                                                                   
+   194.1.149.250   42409   360.011                       (None, None, AL, EU) *                                                                                                   
+   194.1.149.210   42409   359.918                   (Tirana, Tirana, AL, EU)                                                                                                     

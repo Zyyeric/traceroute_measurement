@@ -1,0 +1,15 @@
+   195.130.66.103  199399  0.0                       (Athens, Attica, GR, EU) gr-ath-as199399.anchors.atlas.ripe.net                                                              
+   195.130.66.102  199399  0.984                    (Výronas, Attica, GR, EU) gw-ripe-anchor.gr-ix.gr                                                                             
+   62.217.98.52    5408    0.379                    (Výronas, Attica, GR, EU) grix-admin-gw.eier.access-link.grnet.gr                                                             
+   83.97.88.69     21320   0.47                     (Výronas, Attica, GR, EU) grnet-ias-geant-gw.mx2.ath.gr.geant.net                                                             
+╭─ 62.40.98.141    20965   25.992                        (Athens, A1, GR, EU) ae0.mx1.ath2.gr.geant.net                                                                           
+T (20965)  
+╰─ 62.40.98.147    20965   25.979                    (Vienna, Vienna, AT, EU) ae0.mx1.vie.at.geant.net                                                                            
+╭─ 212.133.7.165   3356    27.07                     (Vienna, Vienna, AT, EU) ae68.edge4.vienna1.level3.net                                                                       
+T (3356)  
+├─ 171.75.10.84    3356    41.012              (Sofia, Sofia-Capital, BG, EU) ae10.2.bar2.sof2.neo.colt.net                                                                       
+LHL (3356, 198589)  
+├─ 212.162.31.130  198589  85.177                        (None, None, GB, EU) *                                                                                                   
+LHL (198589, 21277)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 130.193.166.22  21277   97.193                      (Erbil, Arbīl, IQ, AS)                                                                                                     

@@ -1,0 +1,32 @@
+   145.239.14.84   16276   0.0           (Dunkerque, Hauts-de-France, FR, EU) fr-grv-as16276.anchors.atlas.ripe.net                                                               
+   145.239.12.1    16276   0.217     (Grand-Fort-Philippe, Hauts-de-France, FR, EU)                                                                                                     
+   192.168.143.254 *       0.304                                          ***                                                                                                     
+╭─ 51.255.243.254  16276   0.628     (Grand-Fort-Philippe, Hauts-de-France, FR, EU)                                                                                                     
+S&T (16276)  
+├  10.97.155.11    *       0.663                                          ***                                                                                                     
+├  10.17.134.30    *       0.856                                          ***                                                                                                     
+├  10.73.0.22      *       0.722                                          ***                                                                                                     
+├  10.95.33.10     *       1.488                                          ***                                                                                                     
+├─ 213.251.128.65  16276   1.18 (4.067)               (London, England, GB, EU) be102.lon-drch-sbb1-nc5.uk.eu                                                                       
+S (16276)  
+╰─ 192.99.146.133  16276   74.775                        (None, None, CA, NA) nyc-ny1-sbb2-8k.nj.us                                                                               
+   ***             *       -inf                                           *** *                                                                                                   
+   198.27.73.204   16276   82.219                        (None, None, CA, NA) be102.bhs-g1-nc5.qc.ca                                                                              
+   198.27.73.207   16276   98.765                        (None, None, CA, NA) be100-1320.chi-1-a9.il.us                                                                           
+╭─ 198.27.73.148   16276   144.774                       (None, None, CA, NA) pao-sv8-bb1-a9.ca.us                                                                                
+S&T (16276, 4637)  
+├  10.200.3.195    *       142.744                                        ***                                                                                                     
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 202.84.251.61   4637    143.752             (San Jose, California, US, NA) i-1041.eqnx-core02.telstraglobal.net                                                                
+S (4637)  
+╰─ 202.84.247.38   4637    300.581          (Sydney, New South Wales, AU, OC) i-48.sydo-core04.telstraglobal.net                                                                  
+   ***             *       -inf                                           *** *                                                                                                   
+   203.50.6.107    1221    301.807          (Sydney, New South Wales, AU, OC) bundle-ether7.hay-core30.sydney.telstra.net                                                         
+   203.50.13.133   1221    307.227              (Melbourne, Victoria, AU, OC) bundle-ether3.cla-core30.melbourne.telstra.net                                                      
+   203.50.13.125   1221    313.79               (Melbourne, Victoria, AU, OC) bundle-ether2.exi-core30.melbourne.telstra.net                                                      
+   203.50.6.230    1221    324.971                     (Adelaide, SA, AU, OC) bundle-ether2.way-core10.adelaide.telstra.net                                                       
+   203.50.6.235    1221    353.736                        (Perth, WA, AU, OC) bundle-ether3.pie-core10.perth.telstra.net                                                          
+   203.50.6.177    1221    351.654                        (Perth, WA, AU, OC) bundle-ether1.pie-edge903.perth.telstra.net                                                         
+   138.217.126.78  1221    351.359         (Perth, Western Australia, AU, OC) tel4198820.lnk.telstra.net                                                                          
+   ***             *       -inf                                           *** *                                                                                                   
+   203.41.0.254    1221    353.174         (Perth, Western Australia, AU, OC) atlas-per.telstra.net                                                                               

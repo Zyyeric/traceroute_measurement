@@ -1,0 +1,26 @@
+   103.170.25.13   142360  0.0               (Semarang, Central Java, ID, AS) ipv4-13-25-170-103.nexa.net.id                                                                      
+   103.170.25.9    142360  0.228             (Semarang, Central Java, ID, AS) ipv4-9-25-170-103.nexa.net.id                                                                       
+   103.170.24.253  142360  0.325             (Semarang, Central Java, ID, AS) ipv4-253-24-170-103.nexa.net.id                                                                     
+╭─ 103.87.186.178  136106  8.991              (Mega, Southwest Papua, ID, AS) ip186-178.fiberstar.net.id                                                                          
+S&T (136106)  australia-singapore-cable-asc ✓ || matrix-cable-system ✘ || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || indonesia-global-gateway-igg-system ✓ || indigo-west ✓ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || jasuka ✓
+╰─ 103.87.186.3    136106  20.377              (Singapore, Singapore, SG, AS) ip186-3.fiberstar.net.id                                                                            
+╭─ 184.104.210.181 6939    19.764              (Singapore, Singapore, SG, AS) port-channel6.switch2.sin2.he.net                                                                   
+S (6939)  asia-america-gateway-aag-cable-system ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 72.52.92.69     6939    170.358                   (Pleasanton, CA, US, NA) 10ge4-5.core1.pao1.he.net                                                                           
+LHL (6939, 4637)  sea-us ✓ ↠ apollo ✓ || sea-us ✓ ↠ flag-atlantic-1-fa-1 ✓
+├─ 80.81.193.79    4637    179.974           (Frankfurt am Main, 5, DE, None) ULCO01.telstraglobal.net                                                                            
+T (4637)  
+├─ 202.84.178.37   4637    180.124                  (London, England, GB, EU) i-1107.ulhc-core03.telstraglobal.net                                                                
+S (4637)  
+├─ 202.84.249.1    4637    259.533          (Los Angeles, California, US, NA)                                                                                                     
+S (4637)  
+╰─ 202.84.137.21   4637    443.408          (Sydney, New South Wales, AU, OC) i-10305.sydo-core03.telstraglobal.net                                                               
+   203.50.13.97    1221    442.995                      (Sydney, NSW, AU, OC) bundle-ether3.oxf-gw11.sydney.telstra.net                                                           
+   203.50.6.117    1221    434.88           (Sydney, New South Wales, AU, OC) bundle-ether5.stl-core30.sydney.telstra.net                                                         
+   203.50.11.177   1221    432.652                      (Sydney, NSW, AU, OC) bundle-ether1.chw-edge903.sydney.telstra.net                                                        
+   203.48.8.166    1221    432.752          (Sydney, New South Wales, AU, OC) tel4239945.lnk.telstra.net                                                                          
+   ***             *       -inf                                           *** *                                                                                                   
+   203.41.0.43     1221    432.877          (Sydney, New South Wales, AU, OC)                                                                                                     

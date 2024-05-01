@@ -1,0 +1,17 @@
+   5.62.127.14     199610  0.0                      (London, England, GB, EU)                                                                                                     
+╭─ 5.62.127.1      199610  0.271                    (London, England, GB, EU)                                                                                                     
+T (199610)  
+├─ 46.251.228.201  199610  2.016       (Köln, North Rhine-Westphalia, DE, EU)                                                                                                     
+T (199610, 2914)  
+├─ 157.238.226.4   2914    4.606                    (London, England, GB, EU) ae-13.a02.londen12.uk.bb.gin.ntt.net                                                                
+S (2914)  
+╰─ 129.250.3.214   2914    2.703                         (None, None, US, NA) ae-0.r21.londen12.uk.bb.gin.ntt.net                                                                 
+╭─ 129.250.3.251   2914    4.434                         (None, None, US, NA) ae-1.a03.londen12.uk.bb.gin.ntt.net                                                                 
+S (2914)  
+├─ 129.250.9.2     2914    10.153                   (Poplar, England, GB, EU) ae-0.telecom-italia.londen12.uk.bb.gin.ntt.net                                                      
+S&T (2914, 6762)  
+╰─ 213.144.178.67  6762    70.101                    (Athens, Attica, GR, EU) ae10.atene6.ate.seabone.net                                                                         
+   149.11.120.66   174     72.729               (Metamórfosi, Attica, GR, EU) fastpath1.demarc.cogentco.com                                                                       
+   185.201.254.27  56457   73.317               (Metamórfosi, Attica, GR, EU) be3502.ef2.ath01.fastpath.gr                                                                        
+   185.201.254.39  56457   74.101               (Metamórfosi, Attica, GR, EU) te1-24.sp1.ath01.fastpath.gr                                                                        
+   176.119.210.244 56457   72.534                    (Athens, Attica, GR, EU)                                                                                                     

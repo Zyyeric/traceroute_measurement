@@ -1,0 +1,17 @@
+   188.143.128.12  44050   0.0       (Saint Petersburg, St.-Petersburg, RU, EU)                                                                                                     
+   188.143.128.1   44050   0.789     (Kudrovo, Leningradskaya Oblast', RU, EU) sgw.pinspb.ru                                                                                       
+   10.74.1.111     *       1.601                                          ***                                                                                                     
+   5.188.236.42    50509   1.115     (Kudrovo, Leningradskaya Oblast', RU, EU)                                                                                                     
+   5.188.236.240   50509   1.158           (Shushary, St.-Petersburg, RU, EU)                                                                                                     
+╭─ 185.1.152.59    6939    1.177 (6.208)                    (None, None, RU, EU) spb.piter-ix.he.net                                                                                 
+T (6939)  
+├─ 184.104.192.97  6939    8.089                  (Helsinki, Uusimaa, FI, EU) port-channel2.core2.tll1.he.net                                                                     
+T (6939)  
+├─ 184.104.192.94  6939    14.285                         (Riga, RIX, LV, EU) 100ge5-1.core1.rix1.he.net                                                                          
+S&T (6939)  bcs-east ✓
+├─ 184.104.192.90  6939    19.077                       (Vilnius, VL, LT, EU) 100ge5-1.core1.vno1.he.net                                                                          
+LHL (6939, 41931)  nordbalt ✘ ↠ baltica ✓ || nordbalt ✘ ↠ denmark-poland-2 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 212.91.1.10     41931   28.406                        (None, None, PL, EU) euronet.thinx.pl                                                                                    
+   77.46.118.5     41931   99.57                          (Mince, 20, PL, EU) ms01-to-er01.euro-net.pl                                                                            
+   77.46.127.110   41931   28.935               (Białystok, Podlasie, PL, EU) ripe-anchor.euro-net.pl                                                                             

@@ -1,0 +1,12 @@
+   206.108.17.63   852     0.0          (Vancouver, British Columbia, CA, NA) host63.17.108.206.in-addr.arpa                                                                      
+   206.108.17.62   852     0.483        (Vancouver, British Columbia, CA, NA) host62.17.108.206.in-addr.arpa                                                                      
+   154.11.2.254    852     0.412        (Vancouver, British Columbia, CA, NA) halifax.leaf.canada.psi.net                                                                         
+╭─ 154.11.6.235    852     1.174        (Vancouver, British Columbia, CA, NA)                                                                                                     
+LHL (852, 6939)  
+├─ 184.104.195.13  6939    1.176              (Frankfurt am Main, HE, DE, EU) 100ge4-2.core1.fra1.he.net                                                                          
+LHL (6939, 852)  
+├─ 154.11.15.10    852     3.895        (Vancouver, British Columbia, CA, NA) gtd-htrv-r1.bb.telus.com                                                                            
+S&T (852, 396507)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 216.218.135.206 396507  3.716                        (Seattle, WA, US, NA) emerald-onion.e0-10.switch1.sea2.he.net                                                             
+   23.129.64.254   396507  3.959                (Seattle, Washington, US, NA)                                                                                                     

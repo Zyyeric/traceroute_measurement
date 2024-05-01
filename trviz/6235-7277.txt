@@ -1,0 +1,15 @@
+   117.250.113.140 9829    0.0                      (Guwahati, Assam, IN, AS) static.ill.117.250.113.140.bsnl.co.in                                                               
+   117.250.113.138 9829    0.773              (North Guwāhāti, Assam, IN, AS) static.ill.117.250.113.138.bsnl.co.in                                                               
+   117.216.207.122 9829    42.025                       (Chennai, TN, IN, AS) *                                                                                                   
+   49.44.187.216   55836   44.384               (Chennai, Tamil Nadu, IN, AS)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 103.198.140.174 64049   60.293               (Airoli, Maharashtra, IN, AS)                                                                                                     
+S&T (64049)  seamewe-3 ✓ || seamewe-4 ✓ || i2i-cable-network-i2icn ✓ || tata-tgn-tata-indicom ✘
+╰─ 103.198.140.213 64049   161.531             (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 103.198.140.213 64049   161.531             (Singapore, Singapore, SG, AS)                                                                                                     
+LHL (64049, 41327)  seamewe-5 ✓ || seamewe-4 ✓ || peace-cable ✘ || seamewe-3 ✓
+├─ 185.1.47.100    41327   182.941                  (Mutterstadt, RP, DE, EU) ipv4.de-cix.mrs.as41327.fibertelecom.com                                                            
+T (41327, 24796)  
+├  172.30.100.41   *       202.818                                        ***                                                                                                     
+╰─ 213.254.31.98   24796   202.266                        (Turin, 21, IT, EU) namex-gw.customer.itgate.net                                                                        
+   193.201.40.210  24796   203.626                      (Rome, Lazio, IT, EU) it-rom-as24796.anchors.atlas.ripe.net                                                               

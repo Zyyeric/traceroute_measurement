@@ -1,0 +1,20 @@
+   103.170.232.152 142616  0.0                         (Tokyo, Tokyo, JP, AS) user-103-170-232-152.nrt04.jp.misaka.io                                                             
+   103.170.232.11  142616  0.106                       (Tokyo, Tokyo, JP, AS) po-31.lag.nrt04.jp.misaka.io                                                                        
+   103.170.232.2   142616  0.175                       (Tokyo, Tokyo, JP, AS) spine1.nrt04.jp.misaka.io                                                                           
+   199.119.64.136  969     0.335                       (Tokyo, Tokyo, JP, AS) e53-10.cr1a.eqty8.nrt4.jp.917.as                                                                    
+   199.119.64.95   969     0.209                       (Tokyo, Tokyo, JP, AS) po100.cr2a.eqty8.nrt4.jp.917.as                                                                     
+   84.17.33.104    60068   0.235                       (Tokyo, Tokyo, JP, AS) po66-3517.cr02.nrt04.jp.misaka.io                                                                   
+╭─ 62.115.189.145  1299    0.233 (0.651)                  (Tokyo, Tokyo, JP, AS) tky-b3-link.ip.twelve99.net                                                                         
+S (1299)  
+╰─ 62.115.127.10   1299    111.491                 (Portland, Oregon, US, NA) port-b3-link.ip.twelve99.net                                                                        
+   62.115.142.89   1299    111.563                 (Portland, Oregon, US, NA) port-b2-link.ip.twelve99.net                                                                        
+   62.115.139.133  1299    111.69               (Seattle, Washington, US, NA) sea-b3-link.ip.twelve99.net                                                                         
+   62.115.132.157  1299    111.697              (Seattle, Washington, US, NA) sea-b1-link.ip.twelve99.net                                                                         
+╭─ 213.248.88.191  1299    102.184              (Seattle, Washington, US, NA) gtt-ic-378559.ip.twelve99-cust.net                                                                  
+S (1299, 3257)  
+├─ 89.149.187.109  3257    232.46                       (London, ENG, GB, EU) ae15.cr11-lon1.ip4.gtt.net                                                                          
+S&T (3257, 8895)  
+├─ 154.14.64.198   8895    316.083                    (Amsterdam, NH, NL, EU) ip4.gtt.net                                                                                         
+LHL (8895, 208520)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 45.94.14.204    208520  316.081            (Riyadh, Riyadh Region, SA, AS)                                                                                                     

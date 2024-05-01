@@ -1,0 +1,14 @@
+   103.2.186.195   45345   0.0               (Nouméa, South Province, NC, OC) nc-nou-as45345.anchors.atlas.ripe.net                                                               
+   103.2.186.221   45345   21.396            (Nouméa, South Province, NC, OC) gw-ipv4-hosting-1010-mx204-f10.as45345.net                                                          
+   202.87.128.198  45345   0.808                          (Noumea, S, NC, OC) *                                                                                                   
+╭─ 202.87.128.197  18200   1.448             (Nouméa, South Province, NC, OC)                                                                                                     
+S (18200, 4826)  
+╰─ 123.103.197.21  4826    22.921           (Sydney, New South Wales, AU, OC) ip-21.197.103.123.vocus.net.au                                                                      
+╭─ 123.103.197.21  4826    22.921           (Sydney, New South Wales, AU, OC) ip-21.197.103.123.vocus.net.au                                                                      
+S (4826)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 114.31.199.43   4826    178.787                     (San Jose, CA, US, NA) be202.bdr03.sjc01.ca.us.vocus.network                                                               
+   114.31.199.35   4826    178.674                     (San Jose, CA, US, NA) be101.bdr03.lax01.ca.us.vocus.network                                                               
+   206.72.211.56   *       178.566          (Los Angeles, California, US, NA) macarne.as64289.any2ix.coresite.com                                                                 
+   ***             *       -inf                                           *** *                                                                                                   
+   192.189.157.25  64289   178.644          (Los Angeles, California, US, NA)                                                                                                     

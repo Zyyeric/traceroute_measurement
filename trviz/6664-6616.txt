@@ -1,0 +1,21 @@
+   94.77.252.90    47794   0.0                (Riyadh, Riyadh Region, SA, AS) 94-77-252-90.static.go.com.sa                                                                       
+   94.77.252.89    47794   0.557              (Riyadh, Riyadh Region, SA, AS) 94-77-252-89.static.go.com.sa                                                                       
+╭─ 94.77.210.69    47794   0.507                          (Jeddah, 2, SA, AS) *                                                                                                   
+S&T (47794, )  falcon ✘ || tata-tgn-gulf ✘ || gulf-bridge-international-cable-system-gbicsmiddle-east-north-africa-mena-cable-system ✘
+├─ 185.1.8.63      *       13.308                      (Dubai, Dubai, AE, AS) ipv4.uaeix-dubai.core1.dxb1.he.net                                                                  
+S (, 6939)  asia-africa-europe-1-aae-1 ✘ || imewe ✘ || seamewe-4 ✘
+├─ 184.104.193.102 6939    101.824   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) port-channel1.core3.mrs1.he.net                                                                     
+T (6939, 8551)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 80.81.192.191   8551    101.085           (Frankfurt am Main, 5, DE, None) decix1.bezeqint.net                                                                                 
+T (8551)  
+├  10.250.31.1     *       161.263                                        ***                                                                                                     
+├  10.250.31.4     *       161.133                                        ***                                                                                                     
+╰─ 212.179.124.85  8551    158.372                     (Tel Aviv, TA, IL, AS) bzq-179-124-85.cust.bezeqint.net                                                                    
+   212.179.124.81  8551    158.38                      (Tel Aviv, TA, IL, AS) bzq-179-124-81.cust.bezeqint.net                                                                    
+   212.179.124.186 8551    158.115                     (Tel Aviv, TA, IL, AS) bzq-179-124-186.cust.bezeqint.net                                                                   
+   169.254.0.0     *       162.625                                        ***                                                                                                     
+   10.255.29.243   *       162.533                                        ***                                                                                                     
+   146.185.219.73  202422  161.113    (Petaẖ Tiqva, Central District, IL, AS)                                                                                                     

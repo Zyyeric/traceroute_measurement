@@ -1,0 +1,25 @@
+   103.156.251.7   141235  0.0                 (Singapore, Singapore, SG, AS)                                                                                                     
+   103.156.251.3   141235  0.247               (Singapore, Singapore, SG, AS)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 62.115.138.20   1299    1.214               (Singapore, Singapore, SG, AS) sng-b7-link.ip.twelve99.net                                                                         
+S (1299)  asia-america-gateway-aag-cable-system ©
+╰─ 62.115.141.126  1299    167.929             (San Jose, California, US, NA) sjo-b23-link.ip.twelve99.net                                                                        
+╭─ 62.115.115.216  1299    169.826          (Santa Clara, California, US, NA) palo-b24-link.ip.twelve99.net                                                                       
+S&T (1299, 16276)  sea-us ©
+╰─ 192.99.146.32   16276   170.637                       (None, None, CA, NA) be100-105.pao-sv8-bb1-a9.ca.us                                                                      
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   198.27.73.149   16276   210.054                       (None, None, CA, NA) chi-1-a9.il.us                                                                                      
+╭─ 198.27.73.206   16276   227.767                       (None, None, CA, NA) be103.bhs-g1-nc5.qc.ca                                                                              
+LHL (16276)  exa-north-and-south ✘ ↠ seamewe-3 ✓ || exa-express ✘ ↠ seamewe-3 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 91.121.215.178  16276   251.631                       (None, None, FR, EU) be103.gra-g1-nc5.fr.eu                                                                              
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   51.255.243.207  16276   238.395       (Boeschepe, Hauts-de-France, FR, EU)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   145.239.14.84   16276   312.926       (Dunkerque, Hauts-de-France, FR, EU) fr-grv-as16276.anchors.atlas.ripe.net                                                               

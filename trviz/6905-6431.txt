@@ -1,0 +1,16 @@
+   109.171.136.4   50999   0.0                 (Jeddah, Mecca Region, SA, AS)                                                                                                     
+╭─ 109.171.136.2   50999   0.673               (Jeddah, Mecca Region, SA, AS)                                                                                                     
+S (50999, 3491)  seamewe-5 ✘ || peace-cable ✘ || seamewe-3 ✓
+├  10.126.145.5    *       0.69                                           ***                                                                                                     
+├  192.168.11.14   *       1.213                                          ***                                                                                                     
+├─ 63.218.249.165  3491    107.425             (Singapore, Singapore, SG, AS) 63-218-249-165.static.pccwglobal.net                                                                
+S (3491)  eac-c2c ✓ || asia-pacific-gateway-apg ✓ || southeast-asia-japan-cable-sjc ✓ || asia-america-gateway-aag-cable-system ✓ || asia-submarine-cable-express-asecahaya-malaysia ✓ || apcn-2 👍
+╰─ 63.223.17.106   3491    141.873                  (Hong Kong, None, HK, AS) Bundle-Ether51.clbr01.hkg04.pccwbtn.net                                                             
+╭─ 63.216.142.74   4651    142.272                  (Hong Kong, None, HK, AS) cat.te0-6-0-5.br03.hkg15.pccwbtn.net                                                                
+S (4651)  asia-america-gateway-aag-cable-system ✓ || asia-africa-europe-1-aae-1 ✓ || flag-europe-asia-fea ✘
+╰─ 61.19.9.121     4651    183.187                       (None, None, TH, AS) *                                                                                                   
+   61.19.7.2       4651    182.826                       (None, None, TH, AS) *                                                                                                   
+   122.155.224.74  135063  182.96                        (None, None, TH, AS) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   103.253.132.25  59238   188.829                 (Bangkok, Bangkok, TH, AS) th-bkk-as59238.anchors.atlas.ripe.net                                                               

@@ -1,0 +1,14 @@
+   103.156.251.7   141235  0.0                 (Singapore, Singapore, SG, AS)                                                                                                     
+   103.156.251.3   141235  0.284               (Singapore, Singapore, SG, AS)                                                                                                     
+   62.115.55.208   1299    1.1                 (Singapore, Singapore, SG, AS) snge-b5-link.ip.twelve99.net                                                                        
+   62.115.139.0    1299    1.284               (Singapore, Singapore, SG, AS) sng-b7-link.ip.twelve99.net                                                                         
+╭─ 62.115.137.243  1299    1.683               (Singapore, Singapore, SG, AS) snge-b4-link.ip.twelve99.net                                                                        
+S (1299)  eac-c2c © || asia-pacific-gateway-apg ✓ || southeast-asia-japan-cable-sjc ✓ || asia-america-gateway-aag-cable-system © || apcn-2 ✓
+╰─ 62.115.112.99   1299    33.071              (Hong Kong, Hong Kong, HK, AS) hnk-b3-link.ip.twelve99.net                                                                         
+╭─ 62.115.143.240  1299    35.524    (Hong Kong, Central and Western, HK, AS) hnk-b4-link.ip.twelve99.net                                                                         
+LHL (1299, 140627)  seamewe-3 ✓ || flag-europe-asia-fea ©
+├─ 62.115.184.191  140627  33.434                        (None, None, SE, EU) oneqode-svc078171-ic367784.c.telia.net                                                              
+LHL (140627)  seamewe-3 ✓
+├─ 103.151.64.206  140627  241.044                       (None, None, AU, OC) *                                                                                                   
+S (140627)  
+╰─ 103.151.64.31   140627  235.493                 (Hagåtña, Hagatna, GU, OC) atlas.guam.as140627.net                                                                             

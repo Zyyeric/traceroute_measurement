@@ -1,0 +1,20 @@
+   92.38.135.131   202422  0.0                         (Seoul, Seoul, KR, AS)                                                                                                     
+   92.38.135.2     202422  0.307                       (Seoul, Seoul, KR, AS) vrrp.gcore.lu                                                                                       
+   10.255.17.210   *       0.373                                          ***                                                                                                     
+   10.255.17.213   *       0.334                                          ***                                                                                                     
+   10.255.17.146   *       0.312                                          ***                                                                                                     
+╭─ 8.244.74.29     3356    0.321 (5.374)                  (Seoul, Seoul, KR, AS)                                                                                                     
+S (3356)  korea-japan-cable-network-kjcn ✓ || seamewe-3 ✓
+╰─ 4.69.217.14     3356    31.283                         (Tokyo, 13, JP, AS) ae1.3505.edge2.Tokyo4.level3.net                                                                    
+   4.68.70.86      3491    31.33                          (Tokyo, 13, JP, AS) PCCW-level3-Tokyo4.Level3.net                                                                       
+   63.218.250.22   3491    31.083                      (Tokyo, Tokyo, JP, AS) hu0-0-1-0.br06.tok02.as3491.net                                                                     
+╭─ 205.177.84.34   41095   30.825                      (Fukuoka, 7, JP, None) 205-177-84-34.static.pccwglobal.net                                                                 
+S (41095)  asia-submarine-cable-express-asecahaya-malaysia ✓ || seamewe-3 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 103.242.73.133  41095   85.226              (Singapore, Singapore, SG, AS) rt986164.r0.616.eq.sg.iptp.net                                                                      
+S&T (41095, 24176)  
+╰─ 210.86.233.17   24176   105.033    (Ho Chi Minh City, Ho Chi Minh, VN, AS) ci233-17.netnam.vn                                                                                  
+   210.86.233.30   24176   103.522    (Ho Chi Minh City, Ho Chi Minh, VN, AS) ci233-30.netnam.vn                                                                                  
+   210.86.232.101  24173   105.65                         (Hanoi, HN, VN, AS) ci232-101.netnam.vn                                                                                 
+   ***             *       -inf                                           *** *                                                                                                   
+   101.53.31.6     24173   107.66     (Ho Chi Minh City, Ho Chi Minh, VN, AS) ci53.31-6.netnam.vn                                                                                 

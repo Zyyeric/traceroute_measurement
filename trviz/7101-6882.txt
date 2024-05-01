@@ -1,0 +1,25 @@
+   196.6.220.42    37578   0.0              (Nairobi, Nairobi County, KE, AF)                                                                                                     
+   196.6.220.1     37578   0.446            (Nairobi, Nairobi County, KE, AF)                                                                                                     
+   197.155.93.66   30844   0.809            (Nairobi, Nairobi County, KE, AF) 197.155.93.66.liquidtelecom.net                                                                     
+   41.60.199.154   30844   112.778          (Nairobi, Nairobi County, KE, AF)                                                                                                     
+   197.155.94.9    30844   131.512                      (Nairobi, 30, KE, AF) et-1-1-8.lke-p2-msa.liquidtelecom.net                                                               
+╭─ 197.155.94.14   30844   113.045                      (Nairobi, 30, KE, AF) et-1-1-11.lke-p2-msa.liquidtelecom.net                                                              
+S (30844)  
+╰─ 197.155.90.200  30844   131.618   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) xe-0-0-2-2.lfr-pe2-mrs.liquidtelecom.net                                                            
+   5.11.10.88      30844   131.451                  (Marseille, None, FR, EU) te-0-0-0-6.lfr-pe1-mrs.liquidtelecom.net                                                            
+╭─ 185.1.47.34     21320   130.022                  (Marseille, 93, FR, None) marseille.de-cix.ix.geant.net                                                                       
+T (21320, 20965)  
+├─ 62.40.98.236    20965   160.995                   (Genève, Geneva, CH, EU) ae4.mx1.gen.ch.geant.net                                                                            
+T (20965)  
+├─ 62.40.98.239    20965   160.975             (Paris, Île-de-France, FR, EU) ae7.mx1.par.fr.geant.net                                                                            
+T (20965)  
+├─ 62.40.98.190    20965   151.318                     (Prague, None, CZ, EU) ae2.mx1.pra.cz.geant.net                                                                            
+T (20965, 21320)  
+├─ 83.97.89.222    21320   152.826                  (London, England, GB, EU) belnet-ias-geant.mx1.lon.uk.geant.net                                                               
+S&T (21320, 2611)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 193.191.18.10   2611    153.29                     (Brussels, BRU, BE, EU) ua.r1.antwil.belnet.net                                                                             
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   143.129.67.78   2611    136.441                       (None, None, BE, EU) *                                                                                                   
+   143.129.80.132  2611    136.82               (Antwerpen, Flanders, BE, EU)                                                                                                     

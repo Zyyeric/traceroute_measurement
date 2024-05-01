@@ -1,0 +1,17 @@
+   197.239.73.59   37577   0.0                  (Ouagadougou, Centre, BF, AF)                                                                                                     
+   197.239.73.57   37577   1.93                 (Ouagadougou, Centre, BF, AF)                                                                                                     
+   165.16.221.42   37721   2.205                         (None, None, BF, AF) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   102.67.97.181   37721   1.87                 (Ouagadougou, Centre, BF, AF) ce5-355.bb2.oua2.vts.bf                                                                             
+╭─ 102.67.96.39    37721   4.218                (Ouagadougou, Centre, BF, AF)                                                                                                     
+LHL (37721)  africa-coast-to-europe-ace ✓
+├─ 102.67.96.46    37721   17.898                       (Paris, None, FR, EU) xe-0-0-1-2022.bb2.prs1.vts.bf                                                                       
+LHL (37721)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 102.67.97.233   37721   25.13                (Ouagadougou, Centre, BF, AF) xe-0-0-5-722.br2.los1.vts.bf                                                                        
+LHL (37721, 37468)  africa-coast-to-europe-ace ✓ ↠ africa-coast-to-europe-ace ✓
+├─ 196.216.148.71  37468   100.746                       (None, None, NG, AF) *                                                                                                   
+S (37468)  west-africa-cable-system-wacs 👍 || sat-3wasc ✓
+╰─ 197.149.150.181 37468   168.173                       (None, None, AO, AF) *                                                                                                   
+   102.130.68.106  37468   151.292                       (None, None, AO, AF) *                                                                                                   
+   102.130.66.11   37468   147.574                   (Luanda, Luanda, AO, AF)                                                                                                     

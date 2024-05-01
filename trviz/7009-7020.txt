@@ -1,0 +1,19 @@
+   130.193.166.22  21277   0.0                         (Erbil, Arbīl, IQ, AS)                                                                                                     
+╭─ 130.193.166.21  21277   0.304                       (Erbil, Arbīl, IQ, AS)                                                                                                     
+LHL (21277, 13335)  seamewe-3 ✓
+├─ 5.23.0.73       13335   0.743                      (Algeciras, AN, ES, EU) *                                                                                                   
+T (13335, 6453)  
+├─ 80.231.203.16   6453    21.543          (Amsterdam, North Holland, NL, EU) if-et-5-3-0-0.tcore1.etky1-ankara.as6453.net                                                        
+T (6453)  
+╰─ 80.231.65.14    6453    77.935          (Frankfurt am Main, Hesse, DE, EU) if-ae-21-2.tcore2.fr0-frankfurt.as6453.net                                                          
+   5.23.30.16      6453    78.158             (Frankfurt am Main, HE, DE, EU) if-ae-9-2.tcore1.fnm-frankfurt.as6453.net                                                           
+╭─ 195.219.156.133 6453    78.929             (Frankfurt am Main, HE, DE, EU) if-ae-12-60.tcore2.fnm-frankfurt.as6453.net                                                         
+T (6453)  
+╰─ 195.219.87.215  6453    78.031    (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) if-be-50-2.ecore2.emrs2-marseille.as6453.net                                                        
+   195.219.187.3   6453    76.825    (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) if-be-34-2.ecore2.emrs2-marseille.as6453.net                                                        
+   195.219.175.3   6453    77.176                   (Marseille, None, FR, EU) if-ae-4-2.thar1.emrs2-marseille.as6453.net                                                          
+╭─ 80.231.217.99   6453    145.631   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU)                                                                                                     
+S (6453, 208520)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 45.94.14.204    208520  145.429            (Riyadh, Riyadh Region, SA, AS)                                                                                                     

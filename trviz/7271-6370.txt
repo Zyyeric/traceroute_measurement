@@ -1,0 +1,15 @@
+   103.202.216.76  59105   0.0                         (Chōfu, Tokyo, JP, AS)                                                                                                     
+   103.202.216.73  59105   0.898                       (Tokyo, Tokyo, JP, AS) ge-2-1-0.pop03er03.bb.homenoc.ad.jp                                                                 
+   103.48.31.180   59105   0.732                         (None, None, JP, AS) gi0-2-0.pop03cr01.bb.homenoc.ad.jp                                                                  
+   103.48.31.55    59105   1.25                        (Tokyo, Tokyo, JP, AS) ge-0-0-10.pop05er01.bb.homenoc.ad.jp                                                                
+╭─ 210.171.224.40  6939    2.344                        (Tokyo, 40, JP, None) as6939.ix.jpix.ad.jp                                                                                
+S (6939)  apcn-2 ✓ || eac-c2c ✓ || asia-pacific-gateway-apg ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.64.253  6939    76.545                      (Singapore, 4, SG, AS) 100ge11-1.core1.sin1.he.net                                                                         
+   184.104.199.150 6939    76.74               (Singapore, Singapore, SG, AS) port-channel1.core1.sin2.he.net                                                                     
+╭─ 184.104.210.182 136106  85.509                      (Singapore, 4, SG, AS) pt-mega-akses-persada.e0-2.switch2.sin2.he.net                                                      
+S&T (136106)  australia-singapore-cable-asc ✓ || indigo-west ✓ || indonesia-global-gateway-igg-system ✓ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || seamewe-3 ✓ || matrix-cable-system ✘ || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || jasuka ✓ || jakabare ✘
+╰─ 103.87.186.2    136106  96.714                        (None, None, ID, AS) ip186-2.fiberstar.net.id                                                                            
+   103.87.186.179  136106  98.504                  (Jakarta, Jakarta, ID, AS) ip186-179.fiberstar.net.id                                                                          
+   103.170.24.254  142360  98.505                        (None, None, ID, AS) ipv4-254-24.170.103.as142360.net                                                                    
+   103.170.25.13   142360  98.694            (Semarang, Central Java, ID, AS) ipv4-13-25-170-103.nexa.net.id                                                                      

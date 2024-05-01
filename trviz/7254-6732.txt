@@ -1,0 +1,14 @@
+   163.117.253.5   766     0.0                       (Madrid, Madrid, ES, EU)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   172.17.0.53     *       1.33                                           ***                                                                                                     
+   193.145.15.49   766     1.485                    (Leganés, Madrid, ES, EU) csic-rt-ju-02-xe-4-0-6.net.redimadrid.es                                                            
+   130.206.216.1   766     2.136                     (Madrid, Madrid, ES, EU) redimadrid-backup.ethtrunk8-103.telmad.rt1.mad.red.rediris.es                                       
+   130.206.245.26  766     2.545                         (None, None, ES, EU) telmad.rt1.ethtrunk13.ciemat.rt2.mad.red.rediris.es                                                 
+╭─ 193.149.1.141   201011  2.931                       (Madrid, 29, ES, None) core-backbone.baja.espanix.net                                                                      
+T (201011, 47815)  
+├─ 80.255.14.46    47815   25.971                        (Berlin, BE, DE, EU) core-backbone.server-ware.com                                                                       
+T (47815, 60068)  
+╰─ 169.150.195.74  60068   25.869                   (London, England, GB, EU) coreb-lon.cdn77.com                                                                                 
+   156.146.32.95   60068   25.738                   (Poplar, England, GB, EU)                                                                                                     
+   103.170.154.254 142594  25.882                   (London, England, GB, EU) 254.154.170.103.speedyvps.uk                                                                        

@@ -1,0 +1,20 @@
+   10.252.4.170    *       0.0                                            ***                                                                                                     
+   10.252.4.169    *       0.124                                          ***                                                                                                     
+   10.252.4.153    *       0.144                                          ***                                                                                                     
+   10.252.0.37     *       11.331                                         ***                                                                                                     
+   195.175.203.217 9121    14.403            (Bahçelievler, Istanbul, TR, AS) 195.175.203.217.static.turktelekom.com.tr                                                           
+   81.212.199.166  9121    13.236                (Istanbul, Istanbul, TR, AS) 00-atakoy-sr14s-t2-2---00-atakoy-sr12e-t3-7.statik.turktelekom.com.tr                               
+   212.156.252.237 9121    16.462                       (Aksaray, 68, TR, AS) 00-gayrettepe-xrs-t2-2---00-atakoy-xrs-t2-2.statik.turktelekom.com.tr                               
+   81.212.213.76   9121    13.804                (Istanbul, Istanbul, TR, AS) 81.212.213.76.static.turktelekom.com.tr                                                             
+   81.212.209.102  9121    13.75                         (None, None, TR, AS) 10-balya-sr12-t4-1---10-balikesir-sr12e-t3-3.statik.turktelekom.com.tr                              
+╭─ 212.156.139.62  42926   29.444                      (Istanbul, 34, TR, AS) 308-buk-col-2---00-ebgp-gayrettepe-k.statik.turktelekom.com.tr                                      
+S (42926, 2914)  seamewe-3 ✓
+├─ 83.217.231.61   2914    136.829                       (None, None, GB, EU) *                                                                                                   
+LHL (2914, 12252)  flag-europe-asia-fea © || seamewe-3 ✓
+├─ 46.33.78.153    12252   30.878                      (Bucharest, B, RO, EU) ae3.cr0-buc1.ip4.gtt.net                                                                            
+LHL (12252, 3257)  
+╰─ 213.200.126.10  3257    55.605                         (Milan, 25, IT, EU) et-1-0-23.cr5-mil3.ip4.gtt.net                                                                      
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   185.25.205.152  60798   60.465                   (Milan, Lombardy, IT, EU) 152.205.25.185.servereasy.it                                                                        

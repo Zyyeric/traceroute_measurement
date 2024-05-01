@@ -1,0 +1,16 @@
+   92.223.93.208   202422  0.0                      (Milan, Lombardy, IT, EU)                                                                                                     
+   92.223.93.195   202422  0.202                    (Milan, Lombardy, IT, EU) vrrp.gcore.lu                                                                                       
+   45.82.101.3     199524  0.176                    (Milan, Lombardy, IT, EU)                                                                                                     
+   10.255.169.178  *       0.27                                           ***                                                                                                     
+   149.14.135.249  174     0.514                    (Milan, Lombardy, IT, EU) hu0-1-0-0.nr51.b026361-0.mil01.atlas.cogentco.com                                                   
+╭─ 154.25.12.145   174     0.428 (1.425)               (Milan, Lombardy, IT, EU) be2218.rcr21.mil01.atlas.cogentco.com                                                               
+S&T (174)  
+├─ 154.54.74.177   174     10.276                    (Marseille, PAC, FR, EU) be2865.ccr32.mrs02.atlas.cogentco.com                                                               
+S&T (174)  seamewe-3 ✓
+╰─ 154.54.72.77    174     39.041                       (Valencia, V, ES, EU) be2776.ccr31.vlc02.atlas.cogentco.com                                                               
+╭─ 154.54.58.138   174     39.406                       (Sevilla, AN, ES, EU) be3239.rcr21.svq01.atlas.cogentco.com                                                               
+S&T (174)  
+╰─ 130.117.1.22    174     39.122                        (Lisbon, 11, PT, EU) be2447.rcr21.lis01.atlas.cogentco.com                                                               
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   185.32.189.249  62416   38.835                  (Odivelas, Lisbon, PT, EU) pt-lis-as62416.anchors.atlas.ripe.net                                                               

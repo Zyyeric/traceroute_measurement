@@ -1,0 +1,17 @@
+   103.160.63.222  140443  0.0                     (Jakarta, Jakarta, ID, AS) 222.63.160.103.in-addr.herza.id                                                                     
+╭─ 103.160.63.129  140443  0.296                   (Jakarta, Jakarta, ID, AS) 129.63.160.103.in-addr.herza.id                                                                     
+S (140443, 3491)  indonesia-global-gateway-igg-system ✓ ↠ sea-us ✓
+├  10.111.220.46   *       0.544                                          ***                                                                                                     
+├  10.111.220.6    *       12.367                                         ***                                                                                                     
+├  10.111.222.209  *       13.067                                         ***                                                                                                     
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 63.223.60.126   3491    187.46                   (San Joaquin, CA, US, NA) Bundle-Ether40.br06.sjo01.pccwbtn.net                                                               
+   63.217.21.70    3356    187.847                       (None, None, US, NA) 63-217-21-70.static.pccwglobal.net                                                                  
+   4.15.122.46     2152    187.683                     (San Jose, CA, US, NA) CENIC.ear1.SanJose1.Level3.net                                                                      
+   137.164.11.95   2152    188.485                      (Oakland, CA, US, NA) dc-oak-agg8--svl-agg10-300g.cenic.net                                                               
+   137.164.11.89   3292    186.833                     (Tri-City, OR, US, NA) dc-tri-agg2--oak-agg8-300g.cenic.net                                                                
+   137.164.46.7    2152    190.982                     (Tri-City, OR, US, NA) cor-agg8--tri-agg2--100ge.cenic.net                                                                 
+   137.164.50.243  2152    196.19                        (Corona, CA, US, NA) sha-coe-1--cor-agg8-10g.cenic.net                                                                   
+   137.164.34.84   2152    195.74                       (Shafter, CA, US, NA) sha-coe-2---to--sha-coe-1--10ge.cenic.net                                                           
+   137.164.13.11   23483   192.388                      (Shafter, CA, US, NA) shacoe-gw2--sha-coe-2-10g.cenic.net                                                                 
+   66.244.16.33    23483   192.35               (Redding, California, US, NA) us-rdd-as23483.anchors.atlas.ripe.net                                                               

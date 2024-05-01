@@ -1,0 +1,20 @@
+   82.98.154.62    42612   0.0                       (Madrid, Madrid, ES, EU) vls17370.dinaserver.com                                                                             
+   82.98.154.254   42612   0.897                     (Madrid, Madrid, ES, EU)                                                                                                     
+   10.1.1.81       *       0.963                                          ***                                                                                                     
+   10.1.1.65       *       1.354                                          ***                                                                                                     
+   193.149.1.113   6939    1.251 (4.337)                  (Madrid, 29, ES, None) hurricane.baja.espanix.net                                                                          
+   185.79.175.244  6939    15.242                      (Madrid, 29, ES, None) hurricane.alta.espanix.net                                                                          
+╭─ 184.105.222.166 6939    9.402                      (Barcelona, CT, ES, EU) 100ge0-54.core2.bcn1.he.net                                                                         
+S&T (6939)  
+├─ 184.104.188.203 6939    15.048    (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) port-channel17.core4.mrs1.he.net                                                                    
+T (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.198.58  6939    36.946             (Frankfurt am Main, HE, DE, EU) port-channel2.core3.fra1.he.net                                                                     
+╭─ 80.81.192.191   8551    27.302            (Frankfurt am Main, 5, DE, None) decix1.bezeqint.net                                                                                 
+T (8551)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 212.179.124.81  8551    82.345                      (Tel Aviv, TA, IL, AS) bzq-179-124-81.cust.bezeqint.net                                                                    
+   212.179.124.186 8551    82.492                      (Tel Aviv, TA, IL, AS) bzq-179-124-186.cust.bezeqint.net                                                                   
+   31.168.224.126  8551    93.482                      (Tel Aviv, TA, IL, AS) bzq-224-168-31-126.red.bezeqint.net                                                                 
+   ***             *       -inf                                           *** *                                                                                                   
+   146.185.219.73  202422  83.385     (Petaẖ Tiqva, Central District, IL, AS)                                                                                                     

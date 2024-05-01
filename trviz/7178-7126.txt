@@ -1,0 +1,17 @@
+   103.113.176.82  137566  0.0           (Ban Talat Bueng, Chon Buri, TH, AS)                                                                                                     
+   103.113.176.67  137566  1.116         (Ban Talat Bueng, Chon Buri, TH, AS)                                                                                                     
+   103.113.176.13  137566  1.2           (Ban Talat Bueng, Chon Buri, TH, AS)                                                                                                     
+   113.21.243.145  38082   1.186 (4.646)              (Bangkok, Bangkok, TH, AS) tig-net243-145.trueintergateway.com                                                                 
+╭─ 122.144.26.18   38082   30.947                        (None, None, TH, AS) TIG-Net26-18.trueintergateway.com                                                                   
+S&T (38082, 6939)  seamewe-4 ✓ || seamewe-3 ✓
+├─ 184.104.208.92  6939    47.275              (Singapore, Singapore, SG, AS) port-channel18.core3.sin1.he.net                                                                    
+S (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.81.29   6939    176.82                        (Paris, IDF, FR, EU) port-channel8.core2.par2.he.net                                                                     
+╭─ 216.66.88.242   3356    178.816                       (Paris, IDF, FR, EU) level3-as3356.10gigabitethernet7-8.core1.par2.he.net                                                
+S&T (3356, 25003)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 212.113.14.250  25003   185.173                     (London, None, GB, EU) IB.edge5.London1.Level3.net                                                                         
+T (25003)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 94.188.255.2    25003   252.658              (Bnei Brak, Tel Aviv, IL, AS) 255.188.94-binat-smaug.in-addr.arpa                                                                 

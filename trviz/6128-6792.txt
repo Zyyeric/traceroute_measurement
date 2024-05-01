@@ -1,0 +1,17 @@
+   141.164.39.1    20473   0.0                      (Paripark, Seoul, KR, AS) 141.164.39.1.vultrusercontent.com                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   10.84.0.25      *       0.493                                          ***                                                                                                     
+   10.84.2.45      *       0.989                                          ***                                                                                                     
+   10.84.2.38      *       1.027                                          ***                                                                                                     
+╭─ 192.145.251.32  14828   2.681                       (Seoul, Seoul, KR, AS)                                                                                                     
+S (14828, 6939)  asia-pacific-gateway-apg ✘ || flag-north-asia-loopreach-north-asia-loop ✘ || flag-europe-asia-fea ✘ || seamewe-3 ✘ || eac-c2c ✘
+├─ 184.105.81.69   6939    38.137              (Hong Kong, Hong Kong, HK, AS) 10ge0-131.core2.hkg1.he.net                                                                         
+S (6939)  apcn-2 ✓ || southeast-asia-japan-cable-sjc ✓ || seamewe-3 ✓ || eac-c2c ✓ || asia-pacific-gateway-apg ✓ || tata-tgn-intra-asia-tgn-ia ✓ || asia-submarine-cable-express-asecahaya-malaysia ✓ || asia-america-gateway-aag-cable-system ✓
+╰─ 184.104.199.182 6939    75.956              (Singapore, Singapore, SG, AS) port-channel3.core3.sin1.he.net                                                                     
+╭─ 65.49.109.214   6939    147.976             (Singapore, Singapore, SG, AS) pakistan-telecommunication-co-ltd.e0-26.switch1.sin1.he.net                                         
+S (6939, 7590)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 202.125.149.58  7590    169.858                   (Rawalpindi, PB, PK, AS) Touchstone-4.rwp44d1.pie.net.pk                                                                     
+   210.56.8.180    7590    162.669                    (Islamabad, IS, PK, AS) *                                                                                                   
+   210.56.11.202   7590    161.778             (Islamabad, Islamabad, PK, AS)                                                                                                     

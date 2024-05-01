@@ -1,0 +1,16 @@
+   103.40.209.7    63834   0.0                         (Tokyo, Tokyo, JP, AS)                                                                                                     
+   103.40.209.3    63834   0.166                     (Urayasu, Tokyo, JP, AS)                                                                                                     
+   10.255.194.66   *       0.184                                          ***                                                                                                     
+╭─ 61.213.169.9    2914    3.186                       (Tokyo, Tokyo, JP, AS) ge-103-0-0-27.r02.tokyjp05.jp.bb.gin.ntt.net                                                        
+S (2914)  
+╰─ 129.250.4.174   2914    3.071 (5.192)                    (None, None, US, NA) ae-5.sayonara-dorian.r21.nwrknj03.us.bb.gin.ntt.net                                                 
+╭─ 129.250.7.14    2914    2.957                         (None, None, US, NA) ae-0.a00.tokyjp09.jp.bb.gin.ntt.net                                                                 
+S (2914, 13335)  
+╰─ 61.120.144.42   13335   10.814                        (None, None, JP, AS) *                                                                                                   
+   103.22.201.36   13335   3.553                          (Tokyo, 13, JP, AS) *                                                                                                   
+   162.158.117.92  13335   2.979                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+╭─ 162.158.117.146 13335   2.995                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+S (13335, 141235)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 103.156.251.7   141235  71.985              (Singapore, Singapore, SG, AS)                                                                                                     

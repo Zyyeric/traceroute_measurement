@@ -1,0 +1,14 @@
+   180.211.88.22   45725   0.0                     (Jakarta, Jakarta, ID, AS) id-jkt-as45725.anchors.atlas.ripe.net                                                               
+   180.211.88.21   45725   0.416                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+   43.230.153.89   *       0.58                    (Jakarta, Jakarta, ID, AS)                                                                                                     
+╭─ 111.92.161.4    55655   0.957                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+S (55655, 6939)  sjjk ✘ ↠ jasuka ✘ ↠ seamewe-5 ✘
+├  10.110.1.0      *       12.254                                         ***                                                                                                     
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.194.200 6939    150.186   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) port-channel15.core4.mrs1.he.net                                                                    
+S&T (6939)  seamewe-3 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.193.138 6939    168.192                    (Brussels, BRU, BE, EU) 100ge0-33.core2.bru1.he.net                                                                         
+   80.67.181.2     204059  166.191                    (Brussels, BRU, BE, EU) edge-02.louise.neutri.net                                                                           
+   80.67.181.18    204059  166.553       (Brussels, Brussels Capital, BE, EU) core-01.louise.neutri.net                                                                           
+   80.67.181.29    204059  166.885       (Brussels, Brussels Capital, BE, EU) be-bru-as204059.anchors.atlas.ripe.net                                                              

@@ -1,0 +1,22 @@
+   87.201.194.242  15802   0.0                            (Dubai, DU, AE, AS) *                                                                                                   
+╭─ 87.201.194.241  15802   1.797                          (Dubai, DU, AE, AS) *                                                                                                   
+S&T (15802, )  seamewe-3 ✓ || flag-europe-asia-fea ✓
+├  10.100.35.117   *       1.827                                          ***                                                                                                     
+├  10.100.129.22   *       2.688                                          ***                                                                                                     
+├  10.254.41.74    *       118.082                                        ***                                                                                                     
+╰─ 195.66.231.9    *       121.499                 (Stepney, England, GB, EU)                                                                                                     
+╭─ 206.148.26.8    7578    122.942                  (Poplar, England, GB, EU) po10.lon-thn-bb1.globalsecurelayer.com                                                              
+S (7578)  exa-north-and-south ✘ || atlantic-crossing-1-ac-1 ✘ || flag-atlantic-1-fa-1 ✘ || apollo ✘ || yellow ✘ || tata-tgn-atlantic ✘
+╰─ 206.148.26.7    7578    187.597          (New York City, New York, US, NA) e52.nyc-eqxny2-bb1.globalsecurelayer.com                                                            
+   206.148.25.42   7578    206.333                (Chicago, Illinois, US, NA) e3.chi-eqxch1-bb1.globalsecurelayer.com                                                             
+   206.148.25.0    7578    244.348          (Los Angeles, California, US, NA) e50.lax-csla2-bb1.globalsecurelayer.com                                                             
+   206.148.25.91   7578    237.995          (Los Angeles, California, US, NA) e49.lax-csla2-bb1.globalsecurelayer.com                                                             
+╭─ 206.148.25.84   7578    244.063          (Los Angeles, California, US, NA) e50.ty-eqxty8-bb5.globalsecurelayer.com                                                             
+S (7578)  
+╰─ 206.148.24.51   7578    243.088          (Sydney, New South Wales, AU, OC) e30.ty-eqxty8-bb1.globalsecurelayer.com                                                             
+╭─ 206.148.24.66   7578    244.078          (Sydney, New South Wales, AU, OC) e51.sg-eqxsg3-bb1.globalsecurelayer.com                                                             
+S (7578)  
+╰─ 206.148.24.27   7578    245.631             (Singapore, Singapore, SG, AS) po1.sg-eqxsg3-cr2.globalsecurelayer.com                                                             
+╭─ 206.148.24.90   7578    275.609             (Singapore, Singapore, SG, AS) e51.hk-eqxhk1-bb3.globalsecurelayer.com                                                             
+S (7578, 57695)  
+╰─ 45.11.104.146   57695   425.227             (Hong Kong, Hong Kong, HK, AS) hk-hkg-as57695.anchors.atlas.ripe.net                                                               

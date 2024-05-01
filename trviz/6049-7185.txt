@@ -1,0 +1,14 @@
+   185.32.187.165  13238   0.0                    (Helsinki, Uusimaa, FI, EU)                                                                                                     
+╭─ 185.32.187.166  13238   1.286                  (Helsinki, Uusimaa, FI, EU)                                                                                                     
+S&T (13238, 3491)  c-lion1 ✘
+├  10.1.1.100      *       0.639                                          ***                                                                                                     
+├─ 63.222.114.41   3491    36.25           (Frankfurt am Main, Hesse, DE, EU)                                                                                                     
+LHL (3491, 2914)  apollo ✓ || flag-atlantic-1-fa-1 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 63.218.231.14   2914    22.234                        (None, None, US, NA) 63-218-231-14.static.pccwglobal.net                                                                 
+   129.250.3.153   2914    37.129                        (None, None, US, NA) ae-0.sayonara-dorian.a01.nycmny17.us.bb.gin.ntt.net                                                 
+╭─ 129.250.2.35    2914    36.112                        (None, None, US, NA) ae-8.r00.stocse02.se.bb.gin.ntt.net                                                                 
+S (2914, 8674)  
+├─ 81.19.110.50    8674    36.371                        (None, None, GB, EU) et48.r01-stc.sth.netnod.se                                                                          
+T (8674)  
+╰─ 185.42.136.158  8674    36.404              (Stockholm, Stockholm, SE, EU) se-sto-as8674.anchors.atlas.ripe.net                                                                

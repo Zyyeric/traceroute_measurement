@@ -1,0 +1,26 @@
+   192.168.0.130   *       0.0                                            ***                                                                                                     
+   192.168.0.1     *       0.153                                          ***                                                                                                     
+   172.16.254.1    *       0.277                                          ***                                                                                                     
+   192.168.1.1     *       0.714                                          ***                                                                                                     
+   10.98.238.18    *       0.594 (5.088)                                     ***                                                                                                     
+   10.0.0.170      *       7.567                                          ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   81.212.216.12   9121    5.268                 (Ümraniye, Istanbul, TR, AS) 34-acibadem-xrs-t2-2---34-acibadem-sr12e-t3-8.statik.turktelekom.com.tr                             
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 212.156.139.60  9121    19.199                      (Istanbul, 34, TR, AS) *                                                                                                   
+S&T (9121, 1299)  kafos ✘
+├─ 62.115.37.72    1299    50.273              (Bucharest, București, RO, EU) buca-b3-link.ip.twelve99.net                                                                        
+T (1299)  
+├─ 62.115.114.110  1299    50.052                    (Vienna, Vienna, AT, EU) win-bb1-link.ip.twelve99.net                                                                        
+T (1299, 174)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 154.54.58.5     174     133.777                       (Munich, BY, DE, EU) be2974.ccr21.muc03.atlas.cogentco.com                                                               
+T (174)  
+├─ 154.54.63.218   174     137.285                  (Milan, Lombardy, IT, EU) be3813.rcr21.mil01.atlas.cogentco.com                                                               
+S&T (174)  
+╰─ 154.54.74.177   174     137.794                   (Marseille, PAC, FR, EU) be2865.ccr32.mrs02.atlas.cogentco.com                                                               
+   154.54.39.65    174     140.787               (Lille/Lesquin, HDF, FR, EU) be3519.rcr51.lil01.atlas.cogentco.com                                                               
+   149.14.127.98   174     136.546   (Septèmes-les-Vallons, Provence-Alpes-Côte d'Azur, FR, EU)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   185.233.32.213  211997  141.274   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) 185-233-32-213.eho.link                                                                             

@@ -1,0 +1,19 @@
+   103.15.246.16   58717   0.0                         (Dhaka, Dhaka, BD, AS)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   172.16.203.70   *       0.759                                          ***                                                                                                     
+╭─ 103.199.87.9    58717   4.371                         (None, None, BD, AS) *                                                                                                   
+S (58717)  seamewe-5 ✓ || seamewe-4 ✓
+├─ 157.119.185.238 58717   56.751              (Singapore, Singapore, SG, AS) 157.119.185.238.summitiig.net                                                                       
+LHL (58717, 3216)  seamewe-4 ✓ || seamewe-3 ✓ || seamewe-5 ✓
+╰─ 87.245.231.193  3216    50.991                        (None, None, RU, EU) GW-SkyNetwork.retn.net                                                                              
+╭─ 87.245.233.42   9002    179.658                     (Irkutsk, IRK, RU, AS) ae2-5.RT.VSV.IKT.RU.retn.net                                                                        
+LHL (9002, 6762)  
+├─ 195.22.214.84   6762    181.935            (Frankfurt am Main, HE, DE, EU) et0-0-41.francoforte73.fra.seabone.net                                                              
+T (6762)  
+╰─ 195.22.205.39   6762    191.598                        (Milan, 25, IT, EU) ae21.milano51.mil.seabone.net                                                                       
+   195.22.205.39   6762    191.598                        (Milan, 25, IT, EU) ae21.milano51.mil.seabone.net                                                                       
+╭─ 195.22.192.205  42313   208.768                        (Milan, 25, IT, EU) albanian-telecom.milano51.mil.seabone.net                                                           
+S&T (42313, 42409)  
+╰─ 217.24.245.22   42409   209.731                       (None, None, AL, EU) *                                                                                                   
+   194.1.149.250   42409   209.342                       (None, None, AL, EU) *                                                                                                   
+   194.1.149.210   42409   209.04                    (Tirana, Tirana, AL, EU)                                                                                                     

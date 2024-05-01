@@ -1,0 +1,14 @@
+   193.50.97.164   2200    0.0                   (Plouzané, Brittany, FR, EU) anchor.netlab.enstb.org                                                                             
+   193.50.97.161   2200    0.607                 (Plouzané, Brittany, FR, EU) netlab-gw.enstb.org                                                                                 
+   192.108.116.201 50897   1.144                 (Plouzané, Brittany, FR, EU) asr-vlan39.enst-bretagne.fr                                                                         
+   193.51.188.10   2200    6.91              (Saint-Brieuc, Brittany, FR, EU) vl807-pc1-brest1-rtr-021.noc.renater.fr                                                             
+   193.51.177.174  2200    12.736              (Paris, Île-de-France, FR, EU) et-5-2-1-ren-nr-paris1-rtr-131.noc.renater.fr                                                       
+   193.55.204.195  2200    13.034                       (Paris, None, FR, EU) et-3-1-2-ren-nr-paris2-rtr-131.noc.renater.fr                                                       
+╭─ 195.42.144.232  24482   13.264                       (Paris, 11, FR, None) sg-gs.equinix-ix.fr                                                                                 
+S (24482)  seamewe-5 ✓ || peace-cable ✘ || seamewe-4 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 103.14.246.151  24482   173.77              (Singapore, Singapore, SG, AS)                                                                                                     
+S&T (24482, 45701)  indonesia-global-gateway-igg-system ✓ || australia-singapore-cable-asc ✓ || indigo-west ✓ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || seamewe-3 ✓ || matrix-cable-system ✓ || jasuka ✓ || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || jakabare ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 103.225.148.38  45701   199.472                 (Jakarta, Jakarta, ID, AS) ip-38-148-225-103.globalxtreme.net                                                                  

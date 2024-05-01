@@ -1,0 +1,13 @@
+   92.38.135.131   202422  0.0                         (Seoul, Seoul, KR, AS)                                                                                                     
+   92.38.135.2     202422  0.288                       (Seoul, Seoul, KR, AS) vrrp.gcore.lu                                                                                       
+   10.255.17.209   *       0.237                                          ***                                                                                                     
+   10.255.17.213   *       0.379                                          ***                                                                                                     
+   10.255.17.146   *       0.451                                          ***                                                                                                     
+╭─ 8.244.74.29     3356    0.411 (1.463)                  (Seoul, Seoul, KR, AS)                                                                                                     
+S (3356)  new-cross-pacific-ncp-cable-system ✓ || trans-pacific-express-tpe-cable-system ✓
+╰─ 4.69.209.162    3356    140.611                     (San Jose, CA, US, NA) *                                                                                                   
+╭─ 4.68.110.98     6762    140.759                     (San Jose, CA, US, NA) ae9-10G.edge1.SanJose.Level3.net                                                                    
+LHL (6762)  apollo ✓ ↠ seamewe-3 👍 || apollo ✓ ↠ seamewe-5 👍 || apollo ✓ ↠ seamewe-4 👍 || apollo ✓ ↠ asia-africa-europe-1-aae-1 ✓ || apollo ✓ ↠ imewe 👍 || flag-atlantic-1-fa-1 © ↠ seamewe-3 👍 || flag-atlantic-1-fa-1 © ↠ seamewe-5 👍 || flag-atlantic-1-fa-1 © ↠ seamewe-4 👍 || flag-atlantic-1-fa-1 © ↠ asia-africa-europe-1-aae-1 ✓ || flag-atlantic-1-fa-1 © ↠ imewe 👍
+╰─ 195.22.218.197  6762    294.466                    (Palermo, None, IT, EU) ae0.palermo4.pal.seabone.net                                                                        
+   213.144.186.82  42473   296.709                      (Palermo, 82, IT, EU) dcr01.anx35.pmo.it.anexia-it.net                                                                    
+   37.252.253.18   42473   296.863                  (Palermo, Sicily, IT, EU)                                                                                                     

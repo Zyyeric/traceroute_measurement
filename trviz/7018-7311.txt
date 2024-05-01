@@ -1,0 +1,15 @@
+   23.155.72.145   64289   0.0              (Santa Clara, California, US, NA)                                                                                                     
+   23.151.137.1    64289   0.155            (Santa Clara, California, US, NA)                                                                                                     
+   10.10.10.0      *       0.239                                          ***                                                                                                     
+   206.197.187.12  *       1.014                (Fremont, California, US, NA) as6939.sfmix.org                                                                                    
+   ***             *       -inf                                           *** *                                                                                                   
+   64.71.166.230   6939    1.452               (San Jose, California, US, NA) e0-1.switch1.snt3.he.net                                                                            
+   64.71.184.46    4826    1.36                        (San Jose, CA, US, NA) vocus.gigabitethernet2-13.core1.sjc1.he.net                                                         
+╭─ 114.31.199.33   4826    146.442                     (San Jose, CA, US, NA) be100.bdr04.sjc01.ca.us.vocus.network                                                               
+S (4826)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 114.31.192.49   4826    147.349                      (Sydney, NSW, AU, OC) be101.bdr01.syd01.nsw.vocus.network                                                                 
+╭─ 123.103.197.26  4826    174.734          (Sydney, New South Wales, AU, OC) ip-26.197.103.123.vocus.net.au                                                                      
+S (4826, 45345)  
+╰─ 202.87.128.198  45345   164.805                        (Noumea, S, NC, OC) *                                                                                                   
+   103.2.186.195   45345   166.293           (Nouméa, South Province, NC, OC) nc-nou-as45345.anchors.atlas.ripe.net                                                               

@@ -1,0 +1,13 @@
+   147.84.200.125  39069   0.0                       (Murcia, Murcia, ES, EU)                                                                                                     
+╭─ 147.84.200.11   39069   1.374                     (Murcia, Murcia, ES, EU)                                                                                                     
+T (39069, 12430)  
+├  10.250.42.181   *       13.216                                         ***                                                                                                     
+╰─ 185.1.192.33    12430   13.21                         (None, None, DE, EU) de-cix.mad.vodafone.es                                                                              
+   185.1.192.151   *       38.716          (Frankfurt am Main, Hesse, DE, EU) mad.de-cix.gw.hetzner.com                                                                           
+   213.239.252.18  24940   38.988                        (None, None, DE, EU) core9.fra.hetzner.com                                                                               
+   213.239.224.169 24940   57.714                        (None, None, DE, EU) core32.hel1.hetzner.com                                                                             
+╭─ 213.239.224.25  24940   59.101                        (None, None, DE, EU) juniper4.dc1.hel1.hetzner.com                                                                       
+S (24940, 16302)  
+╰─ 213.239.239.114 16302   58.435                         (Espoo, 18, FI, EU) suomicom-gw.hetzner.com                                                                             
+   77.246.204.230  203296  59.947                      (Helsinki, 18, FI, EU) gw-l1.dei.fi                                                                                        
+   185.139.168.19  203296  60.103                 (Helsinki, Uusimaa, FI, EU) fi-hel-as203296.anchors.atlas.ripe.net                                                              

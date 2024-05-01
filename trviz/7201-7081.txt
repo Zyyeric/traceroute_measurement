@@ -1,0 +1,15 @@
+   195.66.241.220  5459    0.0                      (London, England, GB, EU) ripe-anchor.linx.net                                                                                
+   195.66.241.219  5459    0.435                    (Poplar, England, GB, EU) hsrp1.tr1-tr6.linx.net                                                                              
+   195.66.248.34   5459    0.971                    (Poplar, England, GB, EU) gxn-transit.thn.linx.net                                                                            
+   62.72.142.234   5413    0.397                    (Poplar, England, GB, EU)                                                                                                     
+╭─ 195.66.224.138  2914    23.206                     (London, ENG, GB, None) ae-11.r24.londen12.uk.bb.gin.ntt.net                                                                
+S (2914)  
+╰─ 129.250.3.214   2914    1.531                         (None, None, US, NA) ae-0.r21.londen12.uk.bb.gin.ntt.net                                                                 
+╭─ 129.250.3.251   2914    1.493                         (None, None, US, NA) ae-1.a03.londen12.uk.bb.gin.ntt.net                                                                 
+S (2914)  
+├─ 81.25.207.114   2914    0.564                    (Poplar, England, GB, EU)                                                                                                     
+S&T (2914, 60841)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 104.167.214.1   60841   17.349            (Haarlem, North Holland, NL, EU) cr01.ams01.nl.infra.berrybyte.network                                                               
+   104.167.214.46  60841   17.539            (Haarlem, North Holland, NL, EU) 104-167-214-46.ipv4.berrybyte.network                                                               

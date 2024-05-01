@@ -1,0 +1,14 @@
+   123.176.1.4     7642    0.0                    (Male, Kaafu Atoll, MV, AS)                                                                                                     
+╭─ 123.176.1.2     7642    0.782                  (Male, Kaafu Atoll, MV, AS)                                                                                                     
+S (7642)  
+├─ 202.1.205.241   7642    0.976                       (Singapore, 4, SG, AS) xe-1-0-0-0.rt.dhivehinet.net.mv                                                                     
+S (7642, 20473)  
+├─ 27.111.229.119  20473   45.505                    (Seogwipo, None, KR, AS) 20473.sgw.equinix.com                                                                               
+S (20473)  
+├  10.79.1.161     *       45.767                                         ***                                                                                                     
+├  10.79.2.62      *       42.775                                         ***                                                                                                     
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 45.77.39.153    20473   45.294              (Singapore, Singapore, SG, AS) router01-vul-sin.as151332.net                                                                       
+S (20473, 7545)  
+╰─ 203.192.83.254  7545    126.801              (Melbourne, Victoria, AU, OC) ip-254-83-192-203.static.pipenetworks.com                                                           
+   103.179.37.157  151332  127.055              (Melbourne, Victoria, AU, OC)                                                                                                     

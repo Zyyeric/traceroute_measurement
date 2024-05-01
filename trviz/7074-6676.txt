@@ -1,0 +1,9 @@
+   203.175.175.206 24482   0.0                 (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 203.175.175.252 24482   0.411                         (None, None, SG, AS) edge-1.v10.sg3.sg.gs                                                                                
+S (24482, )  eac-c2c ✓ || asia-pacific-gateway-apg ✓
+╰─ 203.190.230.225 *       66.08                    (Hatsudai, Tokyo, JP, AS)                                                                                                     
+   203.190.230.227 *       66.827              (Motoyoyogichō, Tokyo, JP, AS)                                                                                                     
+   103.48.31.51    59105   66.854              (Motoyoyogichō, Tokyo, JP, AS) ge-2-1-8.pop03er03.bb.homenoc.ad.jp                                                                 
+   103.41.60.172   10010   67.28                       (Tokyo, Tokyo, JP, AS) koba-bgprt2.tokyo-ix.v4.open.ad.jp                                                                  
+   103.143.136.30  63781   69.17               (Motoyoyogichō, Tokyo, JP, AS) ospfrt1-bgprt2.kobayashi.ad.jp                                                                      
+   103.143.136.43  63781   68.016                      (Tokyo, Tokyo, JP, AS) koba-103-143-136-43.rev.kobayashi.ad.jp                                                             

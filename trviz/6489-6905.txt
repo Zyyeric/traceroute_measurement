@@ -1,0 +1,15 @@
+   103.253.132.25  59238   0.0                     (Bangkok, Bangkok, TH, AS) th-bkk-as59238.anchors.atlas.ripe.net                                                               
+   103.253.132.1   59238   0.353                (Khlong San, Bangkok, TH, AS) gw-cat.idc.inox.co.th                                                                               
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 122.155.224.73  4651    1.155                (Khlong San, Bangkok, TH, AS)                                                                                                     
+S&T (4651)  asia-america-gateway-aag-cable-system ✓ || seamewe-4 ✓ || seamewe-3 ✓
+├─ 61.19.9.138     4651    29.152              (Singapore, Singapore, SG, AS)                                                                                                     
+S (4651, 15802)  
+├─ 27.111.228.108  15802   29.546                    (Seogwipo, None, KR, AS) 15802.sgw.equinix.com                                                                               
+S (15802)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  10.100.128.21   *       107.044                                        ***                                                                                                     
+├  10.100.34.118   *       108.497                                        ***                                                                                                     
+╰─ 87.201.194.242  15802   108.638                        (Dubai, DU, AE, AS) *                                                                                                   

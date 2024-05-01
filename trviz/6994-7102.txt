@@ -1,0 +1,16 @@
+   182.161.73.41   55569   0.0                 (Singapore, Singapore, SG, AS)                                                                                                     
+   182.161.73.40   55569   0.185               (Singapore, Singapore, SG, AS)                                                                                                     
+   100.66.0.44     *       0.779                                          ***                                                                                                     
+   100.66.0.45     *       0.734                                          ***                                                                                                     
+   202.127.73.170  4637    0.696 (1.735)          (Singapore, Singapore, SG, AS) unknown.telstraglobal.net                                                                           
+   202.84.219.174  4637    168.183             (Singapore, Singapore, SG, AS) i-92.sgcn-core01.telstraglobal.net                                                                  
+╭─ 202.84.219.174  4637    168.183             (Singapore, Singapore, SG, AS) i-92.sgcn-core01.telstraglobal.net                                                                  
+S (4637)  
+╰─ 202.84.140.142  4637    167.187                  (London, England, GB, EU) i-1000.ulcn-core01.telstraglobal.net                                                                
+╭─ 202.84.178.54   4637    167.274                  (London, England, GB, EU) i-1007.ulhc02.telstraglobal.net                                                                     
+S&T (4637, 3356)  
+├─ 80.249.210.125  3356    192.374                     (Schiphol, NH, NL, EU) AMS-EQNX-POP-CRS-1.du.ae                                                                            
+T (3356, 57187)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 94.206.39.74    57187   189.662                        (Dubai, DU, AE, AS) j48-1.dxa.dxb.ae.datamena.net                                                                       
+   94.207.43.2     57187   189.787                     (Dubai, Dubai, AE, AS) -094-207-043-002.datamena.net                                                                       

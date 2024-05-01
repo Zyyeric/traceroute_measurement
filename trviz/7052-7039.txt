@@ -1,0 +1,18 @@
+   103.170.232.152 142616  0.0                         (Tokyo, Tokyo, JP, AS) user-103-170-232-152.nrt04.jp.misaka.io                                                             
+   ***             *       -inf                                           *** *                                                                                                   
+   103.170.232.2   142616  0.249                       (Tokyo, Tokyo, JP, AS) spine1.nrt04.jp.misaka.io                                                                           
+   199.119.64.136  969     0.349                       (Tokyo, Tokyo, JP, AS) e53-10.cr1a.eqty8.nrt4.jp.917.as                                                                    
+   199.119.64.95   969     0.321                       (Tokyo, Tokyo, JP, AS) po100.cr2a.eqty8.nrt4.jp.917.as                                                                     
+   84.17.33.106    60068   0.403                       (Tokyo, Tokyo, JP, AS) po66-3518.cr01.nrt04.jp.misaka.io                                                                   
+   61.200.82.185   2914    0.374                       (Tokyo, Tokyo, JP, AS) ae-22.a01.tokyjp09.jp.bb.gin.ntt.net                                                                
+╭─ 4.68.75.129     3356    0.453                          (Tokyo, 13, JP, AS) ae-13.edge2.Tokyo4.Level3.net                                                                       
+S (3356)  japan-u-s-cable-network-jus 👍 || tata-tgn-pacific ✓ || pacific-crossing-1-pc-1 ✓ || faster ✓ || jupiter ✓
+╰─ 4.69.219.65     3356    109.254                       (None, None, US, NA) *                                                                                                   
+   4.15.122.46     2152    107.522                     (San Jose, CA, US, NA) CENIC.ear1.SanJose1.Level3.net                                                                      
+   137.164.11.95   2152    118.203                      (Oakland, CA, US, NA) dc-oak-agg8--svl-agg10-300g.cenic.net                                                               
+   137.164.11.89   3292    114.612                     (Tri-City, OR, US, NA) dc-tri-agg2--oak-agg8-300g.cenic.net                                                                
+   137.164.46.7    2152    114.331                     (Tri-City, OR, US, NA) cor-agg8--tri-agg2--100ge.cenic.net                                                                 
+   137.164.50.243  2152    120.731                       (Corona, CA, US, NA) sha-coe-1--cor-agg8-10g.cenic.net                                                                   
+   137.164.34.84   2152    120.292                      (Shafter, CA, US, NA) sha-coe-2---to--sha-coe-1--10ge.cenic.net                                                           
+   137.164.13.11   23483   115.77                       (Shafter, CA, US, NA) shacoe-gw2--sha-coe-2-10g.cenic.net                                                                 
+   66.244.16.33    23483   120.457              (Redding, California, US, NA) us-rdd-as23483.anchors.atlas.ripe.net                                                               

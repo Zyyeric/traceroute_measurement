@@ -1,0 +1,19 @@
+   193.49.43.151   2200    0.0       (Grenoble, Auvergne-Rhône-Alpes, FR, EU)                                                                                                     
+   193.49.43.99    2200    0.905     (Fontaine, Auvergne-Rhône-Alpes, FR, EU) rteie.epn-campus.eu                                                                                 
+   192.168.103.252 *       3.175                                          ***                                                                                                     
+   193.54.185.9    2200    2.238     (Fontaine, Auvergne-Rhône-Alpes, FR, EU) tigre1.grenet.fr                                                                                    
+   193.51.181.94   2200    1.753     (Fontaine, Auvergne-Rhône-Alpes, FR, EU) hu0-2-0-2-ren-nr-grenoble-rtr-091.noc.renater.fr                                                    
+   193.55.204.14   2200    3.631     (Grenoble, Auvergne-Rhône-Alpes, FR, EU) hu0-3-0-3-ren-nr-lyon2-rtr-091.noc.renater.fr                                                       
+╭─ 193.51.180.172  2200    4.029     (Grenoble, Auvergne-Rhône-Alpes, FR, EU) et-3-1-3-ren-nr-lyon1-rtr-131.noc.renater.fr                                                        
+T (2200, 20965)  
+╰─ 83.97.89.13     20965   12.076                      (Geneva, None, CH, EU) renater-ias-geant-gw.gen.ch.geant.net                                                               
+╭─ 62.40.98.182    20965   21.195                      (Geneva, None, CH, EU) ae5.mx1.gen.ch.geant.net                                                                            
+T (20965, 24940)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 213.239.252.9   24940   19.38                         (None, None, DE, EU) core8.fra.hetzner.com                                                                               
+   213.239.224.150 24940   44.042                        (None, None, DE, EU) core31.hel1.hetzner.com                                                                             
+╭─ 213.239.224.37  24940   44.177                        (None, None, DE, EU) juniper4.dc1.hel1.hetzner.com                                                                       
+S (24940, 16302)  
+╰─ 213.239.239.114 16302   45.367                         (Espoo, 18, FI, EU) suomicom-gw.hetzner.com                                                                             
+   77.246.204.230  203296  45.244                      (Helsinki, 18, FI, EU) gw-l1.dei.fi                                                                                        
+   185.139.168.19  203296  45.839                 (Helsinki, Uusimaa, FI, EU) fi-hel-as203296.anchors.atlas.ripe.net                                                              

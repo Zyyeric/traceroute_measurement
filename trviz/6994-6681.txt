@@ -1,0 +1,13 @@
+   103.77.105.3    133800  0.0                     (Jakarta, Jakarta, ID, AS) ip-3-105-77-103.jkt-1.biznetg.io                                                                    
+   103.77.105.28   133800  0.196                   (Jakarta, Jakarta, ID, AS) ip-28-105-77-103.jkt-1.biznetg.io                                                                   
+   137.59.127.33   *       0.282                   (Jakarta, Jakarta, ID, AS) xe-0-2.cr01.jkt.biznetg.io                                                                          
+   202.169.59.21   17451   0.694 (1.735)              (Jakarta, Jakarta, ID, AS)                                                                                                     
+╭─ 182.253.255.18  17451   1.105                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+S&T (17451)  australia-singapore-cable-asc ✓ || matrix-cable-system ✘ || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || indonesia-global-gateway-igg-system ✓ || indigo-west ✓ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || jasuka ✓ || jakabare ✓
+╰─ 182.253.255.186 17451   12.064              (Singapore, Singapore, SG, AS) gs2-2.biznetnetworks.com                                                                            
+╭─ 184.104.199.150 6939    12.866              (Singapore, Singapore, SG, AS) port-channel1.core1.sin2.he.net                                                                     
+S (6939)  seamewe-5 ✓ || seamewe-3 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.64.198  6939    88.569                         (Dubai, DU, AE, AS) 10ge4-11.core1.dxb1.he.net                                                                          
+   185.1.8.17      57187   88.083                        (Dubai, 3, AE, None) j48-1.dxa.dxb.ae.datamena.net                                                                       
+   94.207.43.2     57187   89.166                      (Dubai, Dubai, AE, AS) -094-207-043-002.datamena.net                                                                       

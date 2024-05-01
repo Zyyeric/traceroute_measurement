@@ -1,0 +1,15 @@
+   103.253.132.25  59238   0.0                     (Bangkok, Bangkok, TH, AS) th-bkk-as59238.anchors.atlas.ripe.net                                                               
+   103.253.132.1   59238   0.424                (Khlong San, Bangkok, TH, AS) gw-cat.idc.inox.co.th                                                                               
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 122.155.224.73  4651    14.647               (Khlong San, Bangkok, TH, AS)                                                                                                     
+S&T (4651)  seamewe-4 ✓ || seamewe-3 ✓
+╰─ 61.19.9.90      4651    28.892                   (Singapore, None, SG, AS) *                                                                                                   
+╭─ 27.111.230.150  *       28.242              (Singapore, Singapore, SG, AS) 37468-sg1-ix.equinix.com                                                                            
+LHL (, 37468)  seamewe-4 ✘ ↠ seacomtata-tgn-eurasia ✘ || seamewe-3 ✘ ↠ seacomtata-tgn-eurasia ✘ || seamewe-5 ✘ ↠ seacomtata-tgn-eurasia ✘ || peace-cable ✘ ↠ seacomtata-tgn-eurasia ✘
+├─ 102.219.127.7   37468   172.255            (Johannesburg, Gauteng, ZA, AF)                                                                                                     
+S&T (37468)  
+├─ 102.130.68.112  37468   187.527                       (None, None, AO, AF) *                                                                                                   
+S (37468)  
+╰─ 102.130.68.69   37468   272.168                   (Lisbon, Lisbon, PT, EU)                                                                                                     
+   185.148.112.152 37468   260.267                   (Lisbon, Lisbon, PT, EU) 152.112.148.185.angolacables.ao                                                                     

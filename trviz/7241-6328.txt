@@ -1,0 +1,18 @@
+   185.32.189.249  62416   0.0                     (Odivelas, Lisbon, PT, EU) pt-lis-as62416.anchors.atlas.ripe.net                                                               
+   185.32.188.254  62416   6.515                (Prior Velho, Lisbon, PT, EU) powered.by.ptservidor.pt                                                                            
+╭─ 185.222.11.3    62416   0.645                (Prior Velho, Lisbon, PT, EU) core.br01.lis1.ptservidor.net                                                                       
+S&T (62416, 6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.105.222.69  6939    12.183            (Bilbao, Basque Country, ES, EU) port-channel5.core1.bio1.he.net                                                                     
+S (6939)  marea ✓
+╰─ 184.105.64.122  6939    91.717                       (Norfolk, VA, US, NA) 100ge0-30.core1.orf2.he.net                                                                         
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 72.52.92.122    6939    150.13                   (Los Angeles, CA, US, NA) 100ge14-1.core1.lax2.he.net                                                                         
+S (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.199.181 6939    254.053             (Hong Kong, Hong Kong, HK, AS) port-channel9.core2.hkg1.he.net                                                                     
+╭─ 184.104.212.74  23944   256.162                  (Hong Kong, None, HK, AS) sky-cable-corporation.port-channel4.switch1.hkg1.he.net                                             
+S (23944)  
+╰─ 130.105.0.33    23944   256.28                    (Quezon City, 0, PH, AS) *                                                                                                   
+   182.18.209.9    23944   280.658             (Manila, Metro Manila, PH, AS)                                                                                                     

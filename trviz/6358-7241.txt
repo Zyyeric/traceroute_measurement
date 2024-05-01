@@ -1,0 +1,26 @@
+   182.18.209.9    23944   0.0                 (Manila, Metro Manila, PH, AS)                                                                                                     
+   182.18.209.1    23944   0.913          (Quezon City, Metro Manila, PH, AS) 209-182.gw.skybroadband.com.ph                                                                      
+   130.105.0.48    23944   0.371                     (Quezon City, 0, PH, AS) *                                                                                                   
+╭─ 184.104.188.51  6939    16.362         (Quezon City, Metro Manila, PH, AS) 10ge0-8.core1.mnl1.he.net                                                                           
+S (6939)  
+├─ 184.104.212.73  6939    25.182              (Hong Kong, Hong Kong, HK, AS) e0-20.switch1.hkg1.he.net                                                                           
+S (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.194.200 6939    184.046   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) port-channel15.core4.mrs1.he.net                                                                    
+S&T (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.205.253 6939    192.964                  (London, England, GB, EU) mtn-globalconnect-solutions-ltd.port-channel7.core1.lon3.he.net                                     
+T (6939, 16637)  
+├─ 41.181.189.65   16637   224.828                     (Pretoria, GP, ZA, AF) *                                                                                                   
+T (16637)  
+╰─ 41.181.105.105  16637   206.065                  (London, England, GB, EU)                                                                                                     
+╭─ 41.181.244.176  16637   192.615                  (London, England, GB, EU)                                                                                                     
+T (16637, 20294)  
+├─ 41.181.247.39   20294   287.296                       (None, None, ZA, AF) *                                                                                                   
+LHL (20294)  
+╰─ 212.88.110.34   20294   286.148          (Kampala, Central Region, UG, AF)                                                                                                     
+   129.205.30.76   37063   285.014                       (Kampala, C, UG, AF) *                                                                                                   
+   41.191.77.206   328998  283.316                       (Kampala, C, UG, AF) *                                                                                                   
+   196.49.15.189   328998  283.881          (Kampala, Central Region, UG, AF)                                                                                                     

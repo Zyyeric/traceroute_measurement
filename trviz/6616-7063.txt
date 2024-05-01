@@ -1,0 +1,15 @@
+   197.189.194.147 37153   0.0                (Johannesburg, Gauteng, ZA, AF) atlas-anchor-jnb1.jnb.net.host-h.net                                                                
+   197.189.194.145 37153   0.509              (Johannesburg, Gauteng, ZA, AF)                                                                                                     
+   197.189.193.3   37153   0.272              (Johannesburg, Gauteng, ZA, AF) core-router2.jnb1.host-h.net                                                                        
+   196.60.8.42     6939    0.312 (2.006)             (Johannesburg, 6, ZA, None) he.ixp.joburg                                                                                       
+╭─ 184.105.223.210 6939    20.715                     (Cape Town, WC, ZA, AF) 100ge0-34.core1.cpt1.he.net                                                                         
+S&T (6939)  west-africa-cable-system-wacs ✓
+├─ 184.104.188.209 6939    132.478                   (Lisbon, Lisbon, PT, EU) 100ge0-79.core1.lis1.he.net                                                                         
+T (6939, )  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 80.81.197.77    *       233.07          (Frankfurt am Main, Hesse, DE, EU) atheeb.net                                                                                          
+LHL (, 47794)  falcon ✘ || tata-tgn-gulf ✘ || gulf-bridge-international-cable-system-gbicsmiddle-east-north-africa-mena-cable-system ✘
+╰─ 94.77.210.130   47794   232.913            (Riyadh, Riyadh Region, SA, AS) 94-77-210-130.static.go.com.sa                                                                      
+   94.77.252.90    47794   232.917            (Riyadh, Riyadh Region, SA, AS) 94-77-252-90.static.go.com.sa                                                                       

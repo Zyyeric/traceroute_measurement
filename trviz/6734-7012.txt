@@ -1,0 +1,19 @@
+   213.158.113.5   13101   0.0                     (Hamburg, Hamburg, DE, EU) ripe-anchor.gallifrey.tng.de                                                                        
+   213.158.113.28  13101   0.355           (Kiel, Schleswig-Holstein, DE, EU)                                                                                                     
+   82.97.188.3     13101   0.616           (Kiel, Schleswig-Holstein, DE, EU) kel1.tng.de                                                                                         
+   213.178.75.134  13101   0.894           (Kiel, Schleswig-Holstein, DE, EU) kel1.tng.de                                                                                         
+   213.178.65.157  13101   0.767           (Kiel, Schleswig-Holstein, DE, EU) kel2.tng.de                                                                                         
+╭─ 213.178.65.154  13101   0.75 (2.105)              (Hamburg, Hamburg, DE, EU) ham2.tng.de                                                                                         
+T (13101)  
+╰─ 213.178.65.149  13101   8.24            (Amsterdam, North Holland, NL, EU) ams2.tng.de                                                                                         
+   80.249.209.55   24940   8.548                       (Schiphol, NH, NL, EU) amsix-gw.hetzner.de                                                                                 
+╭─ 213.239.203.162 24940   8.683           (Amsterdam, North Holland, NL, EU) core50.ams.hetzner.com                                                                              
+T (24940)  
+├─ 213.239.252.82  24940   29.379              (Stockholm, Stockholm, SE, EU) core52.sto.hetzner.com                                                                              
+S&T (24940)  eastern-light ✘ || bcs-north---phase-1 ✓ || sweden-finland-4-sfs-4 ✓ || baltic-sea-submarine-cable ✘ || botnia ✓
+╰─ 213.239.254.57  24940   35.321                 (Helsinki, Uusimaa, FI, EU) core31.hel1.hetzner.com                                                                             
+   213.239.228.2   24940   60.151                 (Helsinki, Uusimaa, FI, EU) spine15.cloud1.hel1.hetzner.com                                                                     
+   213.239.228.26  24940   36.245                 (Helsinki, Uusimaa, FI, EU) spine2.cloud1.hel1.hetzner.com                                                                      
+   ***             *       -inf                                           *** *                                                                                                   
+   95.216.132.233  24940   35.813                      (Helsinki, 18, FI, EU) 15272.your-cloud.host                                                                               
+   95.217.19.69    24940   36.068                 (Helsinki, Uusimaa, FI, EU) fi-tuu-as24940-client.anchors.atlas.ripe.net                                                        

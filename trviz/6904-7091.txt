@@ -1,0 +1,13 @@
+   203.174.85.106  38001   0.0                 (Singapore, Singapore, SG, AS)                                                                                                     
+   203.174.85.105  38001   3.297               (Singapore, Singapore, SG, AS)                                                                                                     
+   10.15.62.202    *       3.863                                          ***                                                                                                     
+╭─ 192.80.16.61    2914    3.888               (Singapore, Singapore, SG, AS) xe-0-0-7-1.a01.sngpsi03.sg.bb.gin.ntt.net                                                           
+S (2914)  australia-singapore-cable-asc ✘ || indigo-west ✓ || seamewe-3 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 129.250.6.148   2914    95.718           (Sydney, New South Wales, AU, OC) ae-6.r21.sydnau06.au.bb.gin.ntt.net                                                                 
+   129.250.7.49    2914    96.062           (Sydney, New South Wales, AU, OC) ae-2.a00.sydnau05.au.bb.gin.ntt.net                                                                 
+╭─ 202.68.65.33    2914    96.338           (Sydney, New South Wales, AU, OC) ce-0-0-2-100.a00.sydnau05.au.ce.gin.ntt.net                                                         
+S (2914, 45177)  tasman-global-access-tga-cable ✓ || southern-cross-cable-network-sccn © || hawaiki ✘
+╰─ 14.1.54.101     45177   119.981                    (Auckland, AUK, NZ, OC) lt-6-2-0-22.mdr-cr2.as45177.net.nz                                                                  
+   ***             *       -inf                                           *** *                                                                                                   
+   202.46.184.4    38064   120.294               (Auckland, Auckland, NZ, OC)                                                                                                     

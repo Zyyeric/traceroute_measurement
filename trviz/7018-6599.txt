@@ -1,0 +1,16 @@
+   149.28.210.233  20473   0.0              (Santa Clara, California, US, NA) 149.28.210.233.vultrusercontent.com                                                                 
+   ***             *       -inf                                           *** *                                                                                                   
+   45.63.81.1      20473   12.066              (San Jose, California, US, NA) vl199-ds1-j2-yd39.sjc1.constant.com                                                                 
+   10.65.1.69      *       0.95                                           ***                                                                                                     
+   10.65.3.193     *       1.163                                          ***                                                                                                     
+   10.65.1.233     *       0.589                                          ***                                                                                                     
+   206.72.210.136  4826    9.649                  (Los Angeles, CA, US, None) vocus-connect-pty.as4826.any2ix.coresite.com                                                        
+   114.31.199.34   4826    161.969                     (San Jose, CA, US, NA) be101.bdr03.sjc01.ca.us.vocus.network                                                               
+╭─ 114.31.199.33   4826    162.19                      (San Jose, CA, US, NA) be100.bdr04.sjc01.ca.us.vocus.network                                                               
+S (4826)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 114.31.192.49   4826    162.205                      (Sydney, NSW, AU, OC) be101.bdr01.syd01.nsw.vocus.network                                                                 
+╭─ 123.103.197.26  4826    184.534          (Sydney, New South Wales, AU, OC) ip-26.197.103.123.vocus.net.au                                                                      
+S (4826, 45345)  
+╰─ 202.87.128.198  45345   183.979                        (Noumea, S, NC, OC) *                                                                                                   
+   103.2.186.195   45345   184.272           (Nouméa, South Province, NC, OC) nc-nou-as45345.anchors.atlas.ripe.net                                                               

@@ -1,0 +1,33 @@
+   197.189.194.147 37153   0.0                (Johannesburg, Gauteng, ZA, AF) atlas-anchor-jnb1.jnb.net.host-h.net                                                                
+   197.189.194.145 37153   1.852              (Johannesburg, Gauteng, ZA, AF)                                                                                                     
+   197.189.193.3   37153   0.563              (Johannesburg, Gauteng, ZA, AF) core-router2.jnb1.host-h.net                                                                        
+   41.66.132.245   37179   0.417              (Johannesburg, Gauteng, ZA, AF) 41-66-132-245-f5.customer.xe-0-0-2-gp-sm-dce-2.africainx.net                                        
+   41.84.12.109    37179   1.683              (Johannesburg, Gauteng, ZA, AF) core.ge-0-1-0-gp-id-pbr-1.za.africainx.net                                                          
+   105.25.146.5    37100   1.513              (Johannesburg, Gauteng, ZA, AF)                                                                                                     
+   105.16.28.2     37100   160.294                 (Johannesburg, GT, ZA, AF) ce-0-2-0-0.cr-02-jnb.za.seacomnet.com                                                               
+╭─ 105.16.11.170   37100   165.088          (Cape Town, Western Cape, ZA, AF) ce-0-2-11.cr-02-cpt.za.seacomnet.com                                                                
+T (37100)  
+╰─ 105.25.160.126  37100   163.741                  (London, England, GB, EU) ce-0-0-13.cr-02-lhr.uk.seacomnet.com                                                                
+   105.16.34.253   37100   160.018                      (London, ENG, GB, EU) xe-0-0-0-0.br-02-lhr.uk.seacomnet.com                                                               
+╭─ 82.112.115.169  2914    158.757            (Stockton-on-Tees, ENG, GB, EU) *                                                                                                   
+S (2914)  
+╰─ 129.250.3.214   2914    163.118                       (None, None, US, NA) ae-0.r21.londen12.uk.bb.gin.ntt.net                                                                 
+   129.250.2.111   2914    244.768                       (None, None, US, NA) ae-13.sayonara-dorian.r25.asbnva02.us.bb.gin.ntt.net                                                
+   ***             *       -inf                                           *** *                                                                                                   
+   129.250.2.87    2914    261.384                       (None, None, US, NA) ae-1.sayonara-dorian.r23.miamfl02.us.bb.gin.ntt.net                                                 
+   129.250.7.46    2914    263.473                   (Miami, Florida, US, NA) ae-1.a03.miamfl02.us.bb.gin.ntt.net                                                                 
+╭─ 129.250.202.94  1916    267.893                     (New York, NY, US, NA) xe-0-0-26-2.a01.miamfl02.us.ce.gin.ntt.net                                                          
+S (1916)  
+╰─ 170.79.213.46   1916    335.63                        (None, None, BR, SA) *                                                                                                   
+   170.79.213.138  *       336.706   (Rio de Janeiro, Rio de Janeiro, BR, SA) cce1-cce2.bkb.rnp.br                                                                                
+   170.79.213.30   1916    347.105                       (None, None, BR, SA) *                                                                                                   
+   170.79.213.155  *       365.402                  (Salvador, Bahia, BR, SA) cmg1-cba1-100g-infobarra.bkb.rnp.br                                                                 
+   200.143.253.162 1916    531.756                  (Nova Iguaçu, RJ, BR, SA) lanmg-mg.bkb.rnp.br                                                                                 
+   200.131.0.133   1916    364.725                       (None, None, BR, SA) ptp-almeirao-couve.pop-mg.rnp.br                                                                    
+   200.131.0.143   1916    361.692                       (None, None, BR, SA) ptp-tropeiro-almeirao.pop-mg.rnp.br                                                                 
+   200.19.158.1    1916    365.775     (Belo Horizonte, Minas Gerais, BR, SA) ufmg-20g-1.pop-mg.rnp.br                                                                            
+   150.164.164.43  271354  366.743     (Belo Horizonte, Minas Gerais, BR, SA)                                                                                                     
+   150.164.164.133 271354  366.795                       (None, None, BR, SA) *                                                                                                   
+   150.164.164.2   271354  361.941                       (None, None, BR, SA) dcc-fw.rede.ufmg.br                                                                                 
+   150.164.1.130   271354  365.749                       (None, None, BR, SA) shivalegacy.dcc.ufmg.br                                                                             
+   150.164.1.222   271354  362.291     (Belo Horizonte, Minas Gerais, BR, SA) ripeatlas-anchor.dcc.ufmg.br                                                                        

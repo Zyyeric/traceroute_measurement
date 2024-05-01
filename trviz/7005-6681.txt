@@ -1,0 +1,17 @@
+   103.77.105.3    133800  0.0                     (Jakarta, Jakarta, ID, AS) ip-3-105-77-103.jkt-1.biznetg.io                                                                    
+   ***             *       -inf                                           *** *                                                                                                   
+   137.59.127.33   *       0.389                   (Jakarta, Jakarta, ID, AS) xe-0-2.cr01.jkt.biznetg.io                                                                          
+   202.169.59.21   17451   1.981                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+╭─ 182.253.255.18  17451   1.073                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+S&T (17451)  b2js-jakarta-bangka-batam-singapore-cable-system ✘ || indonesia-global-gateway-igg-system ✓ || indigo-west ✓ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || jasuka ✓
+╰─ 182.253.100.186 17451   12.543              (Singapore, Singapore, SG, AS) gs2-6.biznetnetworks.com                                                                            
+╭─ 184.104.199.150 6939    13.463              (Singapore, Singapore, SG, AS) port-channel1.core1.sin2.he.net                                                                     
+S (6939)  seamewe-5 ✓ || peace-cable ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 37.49.236.10    6939    162.264                       (Paris, IDF, FR, EU) he.par.franceix.net                                                                                 
+S&T (6939, )  
+╰─ 185.1.127.23    *       174.148               (Nossegem, Flanders, BE, EU) he.belgiumix.net                                                                                    
+   80.67.181.2     204059  166.726                    (Brussels, BRU, BE, EU) edge-02.louise.neutri.net                                                                           
+   80.67.181.18    204059  173.885       (Brussels, Brussels Capital, BE, EU) core-01.louise.neutri.net                                                                           
+   80.67.181.29    204059  167.157       (Brussels, Brussels Capital, BE, EU) be-bru-as204059.anchors.atlas.ripe.net                                                              

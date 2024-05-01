@@ -1,0 +1,14 @@
+   204.15.11.34    13331   0.0                   (SeaTac, Washington, US, NA)                                                                                                     
+   204.15.11.3     13331   12.486               (Seattle, Washington, US, NA) irb-1099.c8cc.sea.metapeer.com                                                                      
+   207.229.73.33   13331   0.472                (Seattle, Washington, US, NA) ae0-982.c8br.sea.metapeer.com                                                                       
+   207.229.73.49   13331   0.434                (Seattle, Washington, US, NA) ae2-1008.c8br1.sea.metapeer.com                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   184.104.199.70  6939    1.052                (Seattle, Washington, US, NA) port-channel1.core1.sea2.he.net                                                                     
+╭─ 184.105.81.81   6939    20.165              (San Jose, California, US, NA) port-channel12.core4.sjc2.he.net                                                                    
+S (6939)  faster ✓ || pacific-crossing-1-pc-1 ✘ || jupiter ✓ || trans-pacific-express-tpe-cable-system ✓ || new-cross-pacific-ncp-cable-system ✓ || japan-u-s-cable-network-jus ✓ || tata-tgn-pacific ✓ || unityeac-pacific ✓
+├─ 184.104.194.38  6939    126.986               (Tokyo / Narita, 12, JP, AS) 100ge8-1.core1.tyo1.he.net                                                                          
+S (6939)  asia-submarine-cable-express-asecahaya-malaysia ✓ || flag-north-asia-loopreach-north-asia-loop ✓ || southeast-asia-japan-cable-sjc ✓ || flag-europe-asia-fea ✓ || eac-c2c ✓ || apcn-2 ✓ || asia-pacific-gateway-apg ✓ || seamewe-3 ✓
+╰─ 184.105.64.129  6939    187.053                  (Hong Kong, None, HK, AS) 100ge10-2.core1.hkg1.he.net                                                                         
+╭─ 184.104.212.74  23944   185.2                    (Hong Kong, None, HK, AS) sky-cable-corporation.port-channel4.switch1.hkg1.he.net                                             
+S (23944)  
+╰─ 182.18.209.9    23944   185.13              (Manila, Metro Manila, PH, AS)                                                                                                     

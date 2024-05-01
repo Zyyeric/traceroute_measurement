@@ -1,0 +1,12 @@
+   180.211.88.22   45725   0.0                     (Jakarta, Jakarta, ID, AS) id-jkt-as45725.anchors.atlas.ripe.net                                                               
+   180.211.88.21   45725   0.387                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+   43.230.153.89   *       0.476                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+╭─ 111.92.161.4    55655   0.716                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+S&T (55655, 6939)  australia-singapore-cable-asc ✘ || matrix-cable-system ✘ || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || indonesia-global-gateway-igg-system ✘ || seamewe-3 ✘ || indigo-west ✘ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || jasuka ✘ || jakabare ✘
+├  10.110.1.0      *       12.469                                         ***                                                                                                     
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.223.133 6939    14.296 (118.104)          (Singapore, Singapore, SG, AS) port-channel22.core2.sin1.he.net                                                                    
+╭─ 184.104.213.222 3491    12.578                      (Singapore, 4, SG, AS) btn-asn-as3491.e0-48.core2.sin1.he.net                                                              
+S&T (3491)  indonesia-global-gateway-igg-system ✓ || batam-dumai-melaka-bdm-cable-system ✘ || seamewe-5 ✓ || jasuka ✓ || seamewe-4 ✓ || asia-america-gateway-aag-cable-system ✓ || seax-1 ✘ || asia-submarine-cable-express-asecahaya-malaysia ✓ || palapa-ring-west ✓ || batam-rengit-cable-system-brcs ✘ || apcn-2 👍
+╰─ 63.218.166.226  3491    19.214                (Kuala Lumpur, None, MY, AS) TenGE0-2-0-3.br02.klp01.pccwbtn.net                                                                 
+   63.222.188.9    3491    19.917        (Kuala Lumpur, Kuala Lumpur, MY, AS)                                                                                                     

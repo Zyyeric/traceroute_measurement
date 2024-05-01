@@ -1,0 +1,12 @@
+   149.20.162.6    21699   0.0              (Los Angeles, California, US, NA)                                                                                                     
+   149.20.162.5    21699   10.311           (Los Angeles, California, US, NA)                                                                                                     
+   149.20.160.24   21699   0.275            (Los Angeles, California, US, NA)                                                                                                     
+╭─ 66.180.193.33   4213    0.315            (Los Angeles, California, US, NA)                                                                                                     
+S (4213, 23944)  asia-america-gateway-aag-cable-system ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.212.74  23944   167.718                  (Hong Kong, None, HK, AS) sky-cable-corporation.port-channel4.switch1.hkg1.he.net                                             
+S (23944)  eac-c2c ✓ || tata-tgn-intra-asia-tgn-ia ✓ || asia-america-gateway-aag-cable-system ✓
+╰─ 182.18.209.9    23944   181.061             (Manila, Metro Manila, PH, AS)                                                                                                     

@@ -1,0 +1,22 @@
+   213.238.162.218 48292   0.0                   (Istanbul, Istanbul, TR, AS) tr-ist-as48292.anchors.atlas.ripe.net                                                               
+   213.238.162.217 48292   0.437                 (Ataşehir, Istanbul, TR, AS) tr-ist-as48292.anchors.atlas.ripe.net                                                               
+   ***             *       -inf                                           *** *                                                                                                   
+   10.235.234.40   *       1.268                                          ***                                                                                                     
+   195.175.203.85  9121    0.867                 (Istanbul, Istanbul, TR, AS) 195.175.203.85.static.turktelekom.com.tr                                                            
+   212.156.251.17  9121    2.43                  (Istanbul, Istanbul, TR, AS) 00-gayrettepe-sr14s-t2-2---00-itu-sr12e-t3-1.statik.turktelekom.com.tr                              
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 212.156.139.62  42926   13.389                      (Istanbul, 34, TR, AS) 308-buk-col-2---00-ebgp-gayrettepe-k.statik.turktelekom.com.tr                                      
+S&T (42926, 1299)  
+├─ 62.115.37.72    1299    15.205              (Bucharest, București, RO, EU) buca-b3-link.ip.twelve99.net                                                                        
+T (1299)  
+╰─ 62.115.114.112  1299    37.479                    (Vienna, Vienna, AT, EU) win-bb2-link.ip.twelve99.net                                                                        
+   62.115.114.183  1299    37.571                    (Vienna, Vienna, AT, EU) win-b2-link.ip.twelve99.net                                                                         
+╭─ 130.117.14.181  174     42.099                         (Vienna, 9, AT, EU) be1300.ccr51.vie01.atlas.cogentco.com                                                               
+LHL (174)  
+├─ 130.117.0.70    174     70.657                       (Belgrade, 0, RS, EU) be3420.ccr51.beg03.atlas.cogentco.com                                                               
+LHL (174)  
+╰─ 130.117.50.73   174     71.318                    (Athens, Attica, GR, EU) be3246.rcr21.ath01.atlas.cogentco.com                                                               
+   149.11.120.66   174     74.817               (Metamórfosi, Attica, GR, EU) fastpath1.demarc.cogentco.com                                                                       
+   185.201.254.29  56457   74.873                (Áno Liósia, Attica, GR, EU) be3501.ef1.ath01.fastpath.gr                                                                        
+   185.201.254.33  56457   75.384                (Áno Liósia, Attica, GR, EU) te1-22.sp0.ath01.fastpath.gr                                                                        
+   176.119.210.244 56457   75.263                    (Athens, Attica, GR, EU)                                                                                                     

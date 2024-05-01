@@ -1,0 +1,20 @@
+   103.179.37.157  151332  0.0                  (Melbourne, Victoria, AU, OC)                                                                                                     
+   103.179.37.156  151332  0.391                (Melbourne, Victoria, AU, OC)                                                                                                     
+   203.192.83.253  7545    1.482                (Melbourne, Victoria, AU, OC) ip-253-83-192-203.static.pipenetworks.com                                                           
+   203.220.216.69  9942    1.993                (Melbourne, Victoria, AU, OC) au-vi-1015-ipg-221-bundle-ether28.tpgi.com.au                                                       
+   27.32.160.66    7545    11.218                       (Sydney, NSW, AU, OC) 27-32-160-66.static.tpgi.com.au                                                                     
+   203.26.22.121   7545    11.482                       (Sydney, NSW, AU, OC) 203-26-22-121.static.tpgi.com.au                                                                    
+╭─ 203.29.134.4    7545    12.866                       (Sydney, NSW, AU, OC) syd-apt-ros-int2-be100.tpgi.com.au                                                                  
+S (7545, 174)  hawaiki ✘ || southern-cross-cable-network-sccn ✓ || southern-cross-next ✓
+╰─ 38.32.115.105   174     157.061                     (San Jose, CA, US, NA) hu0-4-0-0.rcr21.b001848-1.sjc01.atlas.cogentco.com                                                  
+   154.54.3.137    174     157.552                     (San Jose, CA, US, NA) be2095.ccr22.sjc01.atlas.cogentco.com                                                               
+   154.54.5.102    174     158.107                     (San Jose, CA, US, NA) be3144.ccr41.sjc03.atlas.cogentco.com                                                               
+╭─ 4.68.110.125    3356    157.777                     (San Jose, CA, US, NA) ae-18.edge9.SanJose1.Level3.net                                                                     
+S (3356)  atlantic-crossing-1-ac-1 👍
+├─ 171.75.8.251    3356    280.715         (Amsterdam, North Holland, NL, EU) ae2.3201.ear3.ams1.neo.colt.net                                                                     
+S&T (3356, 50999)  circe-north ✓ || ulysses-2 © || scylla ✘ || zeus ✓ || atlantic-crossing-1-ac-1 👍 || concerto ✘ || farland-north ©
+├─ 213.19.197.50   50999   352.424                      (Woking, ENG, GB, EU) *                                                                                                   
+S&T (50999)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 109.171.136.4   50999   348.725             (Jeddah, Mecca Region, SA, AS)                                                                                                     

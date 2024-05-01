@@ -1,0 +1,19 @@
+   185.239.193.37  39484   0.0                   (Tampere, Pirkanmaa, FI, EU) fi-tmp-as39484.anchors.atlas.ripe.net                                                               
+   185.239.193.33  39484   0.927                 (Tampere, Pirkanmaa, FI, EU) her0-rtr1.poasnet.fi                                                                                
+   193.167.244.180 1741    0.475                 (Tampere, Pirkanmaa, FI, EU) tampere1-et-0-1-5-666.ip.funet.fi                                                                   
+   86.50.255.220   1741    2.867            (Hämeenlinna, Kanta-Häme, FI, EU) hameenlinna2.ip.funet.fi                                                                            
+   86.50.255.224   1741    2.962            (Hämeenlinna, Kanta-Häme, FI, EU) hameenlinna1.ip.funet.fi                                                                            
+   86.50.255.223   1741    2.934                     (Espoo, Uusimaa, FI, EU) espoo2.ip.funet.fi                                                                                  
+╭─ 86.50.255.232   1741    2.835                          (Espoo, 18, FI, EU) espoo1.ip.funet.fi                                                                                  
+LHL (1741, 2603)  havhingstennorth-sea-connect-nsc ✘ || atlantic-crossing-1-ac-1 ✘
+├─ 109.105.102.168 2603    2.966                         (None, None, DK, EU) fi-csc2.nordu.net                                                                                   
+S&T (2603)  ip-only-denmark-sweden ✓ || scandinavian-ring-south ✓ || danica-north ✓ || rnne-rdvig ✓ || energinet-laeso-varberg ✘ || globalconnect-2-gc2 ✘ || kattegat-2 ✓ || denmark-sweden-16 ✓
+╰─ 109.105.101.10  2603    12.825              (Stockholm, Stockholm, SE, EU) se-tug.nordu.net                                                                                    
+╭─ 194.68.123.182  *       12.932              (Stockholm, Stockholm, SE, EU) netnod-ix-ge-a-sth-1500.rt.ru                                                                       
+T (, 12389)  
+╰─ 95.167.94.213   12389   130.699                     (Suvorov, TUL, RU, EU) *                                                                                                   
+   188.254.90.106  12389   132.688           (Khabarovsk, Khabarovsk, RU, EU)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   92.38.191.67    210756  132.657           (Khabarovsk, Khabarovsk, RU, EU) vrrp.edgecenter.ru                                                                                  
+   185.209.84.10   198412  132.664                  (Khabarovsk, KHA, RU, AS) ae1-0.c10.khv01.ru.misaka.io                                                                        
+   185.209.84.141  57578   132.983           (Khabarovsk, Khabarovsk, RU, EU) ru-khv-as57578.anchors.atlas.ripe.net                                                               

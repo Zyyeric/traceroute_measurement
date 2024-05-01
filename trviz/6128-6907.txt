@@ -1,0 +1,15 @@
+   103.153.176.122 131657  0.0                       (Taipei, Taiwan, TW, AS) 103-153-176-122.as131657.net                                                                        
+   103.153.176.254 131657  0.286                     (Taipei, Taiwan, TW, AS) 103-153-176-254.as131657.net                                                                        
+   103.51.91.5     *       0.54                      (Taipei, Taiwan, TW, AS) et-0-0-1.cr1.hd.tpe.as131657.net                                                                    
+╭─ 103.158.187.30  *       0.844                     (Taipei, Taiwan, TW, AS) as6939.ly.stuix.io                                                                                  
+S (, 6939)  seamewe-3 ✘ || eac-c2c ✘ || apcn-2 ✘ || flag-north-asia-loopreach-north-asia-loop ✘ || asia-pacific-gateway-apg ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.105.64.129  6939    85.667                   (Hong Kong, None, HK, AS) 100ge10-2.core1.hkg1.he.net                                                                         
+S (6939)  
+╰─ 184.105.64.253  6939    105.035                     (Singapore, 4, SG, AS) 100ge11-1.core1.sin1.he.net                                                                         
+╭─ 65.49.109.214   6939    199.999             (Singapore, Singapore, SG, AS) pakistan-telecommunication-co-ltd.e0-26.switch1.sin1.he.net                                         
+S (6939, 7590)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 202.125.149.58  7590    217.109                   (Rawalpindi, PB, PK, AS) Touchstone-4.rwp44d1.pie.net.pk                                                                     
+   210.56.8.180    7590    297.181                    (Islamabad, IS, PK, AS) *                                                                                                   
+   210.56.11.202   7590    222.431             (Islamabad, Islamabad, PK, AS)                                                                                                     

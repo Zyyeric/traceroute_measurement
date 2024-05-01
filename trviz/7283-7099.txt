@@ -1,0 +1,14 @@
+   190.124.192.162 28109   0.0           (Bahía Blanca, Buenos Aires, AR, SA) anchorr.criba.edu.ar                                                                                
+   190.124.192.129 28109   0.357         (Bahía Blanca, Buenos Aires, AR, SA) gatevm.criba.edu.ar                                                                                 
+   190.124.210.20  28109   0.612         (Bahía Blanca, Buenos Aires, AR, SA)                                                                                                     
+╭─ 190.124.210.6   28109   0.586         (Bahía Blanca, Buenos Aires, AR, SA) rtmetro6.criba.edu.ar                                                                               
+S (28109, 6461)  south-america-1-sam-1 ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 198.32.243.180  6461    154.125                   (Miami, Florida, US, NA) eqix-mi1.globenet-1.com                                                                             
+╭─ 198.32.242.225  6461    136.402                   (Miami, Florida, US, NA) eqix-mi1.ufinetlatam-2.com                                                                          
+S&T (6461, )  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 45.68.5.64      *       148.798        (Guatemala City, Guatemala, GT, NA)                                                                                                     
+S&T (, 64150)  
+╰─ 45.68.35.213    64150   150.831   (San Pedro Sula, Cortés Department, HN, NA)                                                                                                     

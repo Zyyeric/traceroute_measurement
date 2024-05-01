@@ -1,0 +1,15 @@
+   193.50.97.164   2200    0.0                   (Plouzané, Brittany, FR, EU) anchor.netlab.enstb.org                                                                             
+   ***             *       -inf                                           *** *                                                                                                   
+   192.108.116.201 50897   1.134                 (Plouzané, Brittany, FR, EU) asr-vlan39.enst-bretagne.fr                                                                         
+   193.51.188.10   2200    7.59              (Saint-Brieuc, Brittany, FR, EU) vl807-pc1-brest1-rtr-021.noc.renater.fr                                                             
+   193.51.177.174  2200    22.235              (Paris, Île-de-France, FR, EU) et-5-2-1-ren-nr-paris1-rtr-131.noc.renater.fr                                                       
+   193.51.180.167  2200    18.452                        (Lyon, None, FR, EU) et-2-0-0-ren-nr-lyon1-rtr-131.noc.renater.fr                                                        
+   193.51.180.129  2200    21.727    (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) et-2-0-7-ren-nr-marseille1-rtr-131.noc.renater.fr                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 154.54.76.117   174     22.714    (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) be3147.ccr32.mrs02.atlas.cogentco.com                                                               
+S (174)  asia-africa-europe-1-aae-1 ✓ || seamewe-3 ✓
+├─ 154.54.6.26     174     253.86                   (Hong Kong, None, HK, AS) be2900.ccr21.hkg02.atlas.cogentco.com                                                               
+S (174)  
+╰─ 154.54.89.201   174     254.441                     (Tokyo, Tokyo, JP, AS) be3011.ccr71.tyo01.atlas.cogentco.com                                                               
+   154.18.29.226   174     255.5                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+   152.195.112.52  15133   254.943                     (Tokyo, Tokyo, JP, AS)                                                                                                     

@@ -1,0 +1,16 @@
+   185.14.96.232   211186  0.0                (Lamía, Central Greece, GR, EU)                                                                                                     
+   185.14.96.225   211186  0.645              (Lamía, Central Greece, GR, EU) vlan4090.lamia.fast.net.gr                                                                          
+   212.205.28.249  6799    0.774              (Lamía, Central Greece, GR, EU) 249.28.205.212.static.otenet.gr                                                                     
+   79.128.234.128  6799    3.677                    (Maroúsi, Attica, GR, EU)                                                                                                     
+   62.75.3.17      12713   3.605             (Néa Chalkidóna, Attica, GR, EU) kolasr02-hu-0-8-0-0.ath.oteglobe.gr                                                                 
+╭─ 62.75.6.38      *       36.708                    (Athens, Attica, GR, EU)                                                                                                     
+S (, 6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.223.253 6939    130.318                      (London, ENG, GB, EU) port-channel7.core3.lon2.he.net                                                                     
+   184.104.197.217 6939    55.181                       (London, ENG, GB, EU) ve958.core2.lon2.he.net                                                                             
+╭─ 216.66.88.58    15412   54.866                       (London, ENG, GB, EU) flag-as-as15412.10gigabitethernet2-2.core1.lon2.he.net                                              
+S&T (15412)  
+╰─ 85.95.26.146    15412   61.607                    (Marseille, PAC, FR, EU) ae4.0.cjr01.mrs002.flagtel.com                                                                      
+╭─ 85.95.25.93     15412   159.75                    (Marseille, PAC, FR, EU) xe-4-0-1.0.cjr01.mrs002.flagtel.com                                                                 
+S&T (15412)  
+╰─ 80.77.4.60      15412   161.965                     (Dubai, Dubai, AE, AS)                                                                                                     

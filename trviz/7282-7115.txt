@@ -1,0 +1,11 @@
+   123.176.1.4     7642    0.0                    (Male, Kaafu Atoll, MV, AS)                                                                                                     
+╭─ 123.176.1.2     7642    0.944                  (Male, Kaafu Atoll, MV, AS)                                                                                                     
+S (7642)  
+├─ 202.1.205.241   7642    1.039                       (Singapore, 4, SG, AS) xe-1-0-0-0.rt.dhivehinet.net.mv                                                                     
+S (7642, 6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.81.29   6939    191.74                        (Paris, IDF, FR, EU) port-channel8.core2.par2.he.net                                                                     
+   37.49.237.14    15826   207.17                        (Paris, IDF, FR, EU) nfrance.par.franceix.net                                                                            
+   192.168.1.131   *       205.35                                         ***                                                                                                     
+   80.247.237.225  15826   205.637   (Ramonville-Saint-Agne, Occitanie, FR, EU) ancre-atlas.nfrance.com                                                                             

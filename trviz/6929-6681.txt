@@ -1,0 +1,17 @@
+   103.77.105.3    133800  0.0                     (Jakarta, Jakarta, ID, AS) ip-3-105-77-103.jkt-1.biznetg.io                                                                    
+   ***             *       -inf                                           *** *                                                                                                   
+   137.59.127.33   *       0.499                   (Jakarta, Jakarta, ID, AS) xe-0-2.cr01.jkt.biznetg.io                                                                          
+   202.169.59.21   17451   2.068                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+   117.102.79.158  17451   2.041                         (None, None, ID, AS) *                                                                                                   
+╭─ 112.78.190.1    17451   2.015                   (Depok, West Java, ID, AS) id-jkt-mtr-1.biznetnetworks.com                                                                     
+S&T (17451)  australia-singapore-cable-asc ✓ || matrix-cable-system ✘ || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || indonesia-global-gateway-igg-system ✓ || seamewe-3 ✓ || indigo-west ✓ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || jasuka ✓ || jakabare ✓
+├─ 112.78.190.5    17451   16.132              (Singapore, Singapore, SG, AS)                                                                                                     
+S (17451, 38880)  asia-pacific-gateway-apg ✘ || eac-c2c ✘ || apcn-2 ✓ || seamewe-3 ✓
+├─ 27.111.228.169  38880   105.75                    (Seogwipo, None, KR, AS) 38880.sgw.equinix.com                                                                               
+S (38880, )  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 183.177.61.21   *       100.793              (Melbourne, Victoria, AU, OC) 38880.mel.equinix.com                                                                               
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   27.131.108.126  38880   101.606              (Melbourne, Victoria, AU, OC)                                                                                                     

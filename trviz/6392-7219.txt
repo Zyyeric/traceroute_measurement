@@ -1,0 +1,10 @@
+   102.219.127.20  37468   0.0                 (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 102.219.127.17  37468   0.5                 (Singapore, Singapore, SG, AS)                                                                                                     
+S (37468, 8529)  
+├─ 27.111.229.38   8529    0.534                     (Seogwipo, None, KR, AS) 8529.sgw.equinix.com                                                                                
+S (8529)  
+╰─ 134.0.220.252   8529    81.088                    (Muscat, Muscat, OM, AS)                                                                                                     
+╭─ 134.0.220.175   8529    81.77                         (Muscat, MA, OM, AS) *                                                                                                   
+S&T (8529, 42473)  
+╰─ 213.202.2.1     42473   165.286                        (Dubai, DU, AE, AS) i1.2.202.213omantel.net.om                                                                          
+   37.252.245.94   42473   165.657                     (Dubai, Dubai, AE, AS)                                                                                                     

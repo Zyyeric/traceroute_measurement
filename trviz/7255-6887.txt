@@ -1,0 +1,18 @@
+   27.111.84.21    135132  0.0           (Cebu City, Central Visayas, PH, AS) ph-ceb-as135132.anchors.atlas.ripe.net                                                              
+   27.111.84.20    135132  1.526             (Baugo, Central Visayas, PH, AS) vlan509.core.ceb02.ds.network                                                                       
+   192.168.159.142 *       22.036                                         ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   192.168.159.168 *       19.478                                         ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 43.224.189.33   137074  2.879             (Baugo, Central Visayas, PH, AS) 43-224-189-33.static.rise.as                                                                        
+S (137074, )  national-digital-transmission-network-ndtn ✘ ↠ seamewe-3 ✘ || national-digital-transmission-network-ndtn ✘ ↠ southeast-asia-japan-cable-sjc ✘ || national-digital-transmission-network-ndtn ✘ ↠ eac-c2c ✘ || national-digital-transmission-network-ndtn ✘ ↠ apcn-2 ✘
+├  10.255.64.91    *       56.706                                         ***                                                                                                     
+╰─ 210.173.177.85  *       58.07                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+   10.71.2.234     *       56.945                                         ***                                                                                                     
+   10.71.0.38      *       56.361                                         ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 108.160.140.47  20473   55.714                      (Tokyo, Tokyo, JP, AS) 108.160.140.47.vultrusercontent.com                                                                 
+S (20473, 8888)  seamewe-3 ✓ || australia-japan-cable-ajc ✓
+╰─ 103.136.146.152 8888    150.931          (Sydney, New South Wales, AU, OC) s22562.vps.hosting                                                                                  
+   203.192.83.254  7545    149.561              (Melbourne, Victoria, AU, OC) ip-254-83-192-203.static.pipenetworks.com                                                           
+   103.179.37.157  151332  150.382              (Melbourne, Victoria, AU, OC)                                                                                                     

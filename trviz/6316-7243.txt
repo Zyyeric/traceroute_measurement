@@ -1,0 +1,10 @@
+╭─ 185.148.112.152 37468   0.0                       (Lisbon, Lisbon, PT, EU) 152.112.148.185.angolacables.ao                                                                     
+S&T (37468)  tata-tgn-western-europe ✓ || europe-india-gateway-eig ✓ || seamewe-3 ✓
+├  10.42.104.1     *       0.571                                          ***                                                                                                     
+├─ 185.148.112.47  37468   38.326                   (London, England, GB, EU) 47.112.148.185.angolacables.ao                                                                      
+S&T (37468, 12779)  circe-north ✓ || ulysses-2 ✘ || scylla ✓ || zeus ✓ || concerto ✘ || farland-north ✘
+├─ 80.249.209.17   12779   45.124                      (Schiphol, NH, NL, EU) ams-ix.itgate.net                                                                                   
+T (12779)  
+╰─ 213.254.30.220  12779   63.43                         (Torino, 21, IT, EU) be20.Scrappy-Monster.core.TRN.itgate.net                                                            
+   213.254.30.221  12779   63.074                        (Torino, 21, IT, EU) po2.nx01.colo.trn1.itgate.net                                                                       
+   213.212.129.68  12779   63.124                   (Turin, Piedmont, IT, EU) it-trn-as12779.anchors.atlas.ripe.net                                                               

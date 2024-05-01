@@ -1,0 +1,23 @@
+   103.77.105.3    133800  0.0                     (Jakarta, Jakarta, ID, AS) ip-3-105-77-103.jkt-1.biznetg.io                                                                    
+   ***             *       -inf                                           *** *                                                                                                   
+   137.59.127.33   *       0.616                   (Jakarta, Jakarta, ID, AS) xe-0-2.cr01.jkt.biznetg.io                                                                          
+   202.169.59.21   17451   2.275                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+╭─ 182.253.100.233 17451   1.0                     (Jakarta, Jakarta, ID, AS)                                                                                                     
+S&T (17451)  b2js-jakarta-bangka-batam-singapore-cable-system ✘ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || jasuka ✓
+├─ 182.253.100.229 17451   12.5                (Singapore, Singapore, SG, AS)                                                                                                     
+S (17451, 137409)  
+├─ 27.111.229.213  137409  13.15                     (Seogwipo, None, KR, AS) 137409.sgw.equinix.com                                                                              
+S (137409, 7578)  
+╰─ 31.217.251.74   7578    13.171              (Singapore, Singapore, SG, AS) unknown.globalsecurelayer.com                                                                       
+╭─ 160.202.164.165 137409  85.769              (Singapore, Singapore, SG, AS)                                                                                                     
+S (137409, 8529)  
+╰─ 213.202.6.198   8529    84.971                    (Muscat, Muscat, OM, AS)                                                                                                     
+╭─ 134.0.220.179   17557   104.594                       (Muscat, MA, OM, AS) *                                                                                                   
+S (17557, 7590)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 202.125.149.58  7590    129.51                    (Rawalpindi, PB, PK, AS) Touchstone-4.rwp44d1.pie.net.pk                                                                     
+   210.56.8.180    7590    121.528                    (Islamabad, IS, PK, AS) *                                                                                                   
+   210.56.11.202   7590    120.729             (Islamabad, Islamabad, PK, AS)                                                                                                     

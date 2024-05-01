@@ -1,0 +1,12 @@
+   103.40.209.7    63834   0.0                         (Tokyo, Tokyo, JP, AS)                                                                                                     
+   103.40.209.3    63834   0.146                     (Urayasu, Tokyo, JP, AS)                                                                                                     
+   10.255.194.66   *       0.243                                          ***                                                                                                     
+╭─ 61.213.169.9    2914    3.289                       (Tokyo, Tokyo, JP, AS) ge-103-0-0-27.r02.tokyjp05.jp.bb.gin.ntt.net                                                        
+S (2914)  
+╰─ 129.250.5.56    2914    3.367                         (None, None, US, NA) ae-0.sayonara-dorian.a01.atlnga05.us.bb.gin.ntt.net                                                 
+╭─ 129.250.2.61    2914    3.588                         (None, None, US, NA) ae-0.a01.frnkge13.de.bb.gin.ntt.net                                                                 
+S (2914, 9824)  
+├─ 61.213.145.202  9824    4.723                 (Tokyo / Narita, 12, JP, AS) *                                                                                                   
+S (9824, 24482)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 203.175.175.206 24482   71.32               (Singapore, Singapore, SG, AS)                                                                                                     

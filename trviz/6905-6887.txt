@@ -1,0 +1,17 @@
+   27.111.84.21    135132  0.0           (Cebu City, Central Visayas, PH, AS) ph-ceb-as135132.anchors.atlas.ripe.net                                                              
+   27.111.84.20    135132  1.273             (Baugo, Central Visayas, PH, AS) vlan509.core.ceb02.ds.network                                                                       
+   192.168.159.142 *       21.035                                         ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   192.168.159.168 *       39.592                                         ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 43.224.189.33   137074  2.576             (Baugo, Central Visayas, PH, AS) 43-224-189-33.static.rise.as                                                                        
+S (137074, 4651)  tata-tgn-intra-asia-tgn-ia ✘ || asia-america-gateway-aag-cable-system ✘
+├  10.255.64.30    *       30.113                                         ***                                                                                                     
+├─ 36.255.57.38    4651    28.215                        (None, None, HK, AS) 4651-hp1-ix.equinix.com                                                                             
+S (4651)  asia-america-gateway-aag-cable-system ✓ || asia-africa-europe-1-aae-1 ✓ || flag-europe-asia-fea ✘
+╰─ 61.19.9.121     4651    69.83                         (None, None, TH, AS) *                                                                                                   
+   61.19.7.22      4651    82.369                        (None, None, TH, AS) *                                                                                                   
+   122.155.224.74  135063  69.487                        (None, None, TH, AS) *                                                                                                   
+   172.21.21.4     *       73.363                                         ***                                                                                                     
+   172.24.132.102  *       79.882                                         ***                                                                                                     
+   103.253.132.25  59238   93.988                  (Bangkok, Bangkok, TH, AS) th-bkk-as59238.anchors.atlas.ripe.net                                                               

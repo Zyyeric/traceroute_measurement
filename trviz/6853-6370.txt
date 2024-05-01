@@ -1,0 +1,23 @@
+   103.202.216.76  59105   0.0                         (Chōfu, Tokyo, JP, AS)                                                                                                     
+   103.202.216.73  59105   0.283                       (Tokyo, Tokyo, JP, AS) ge-2-1-0.pop03er03.bb.homenoc.ad.jp                                                                 
+   103.48.31.122   59105   0.283 (5.887)                    (None, None, JP, AS) v106.gi0-0-2.noc01cr01.bb.homenoc.ad.jp                                                             
+   103.48.31.47    59105   10.736                      (Tokyo, Tokyo, JP, AS) v1001.ge-0-0-0.pop05er01.bb.homenoc.ad.jp                                                           
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 184.104.188.97  6939    20.732                      (Osaka, Ōsaka, JP, AS) port-channel10.core2.osa1.he.net                                                                    
+S (6939)  japan-u-s-cable-network-jus ✓ || tata-tgn-pacific ✓ || pacific-crossing-1-pc-1 ✘ || faster ✓ || jupiter ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.213.218 6939    176.224                     (New York, NY, US, NA) 100ge11-1.core1.nyc5.he.net                                                                         
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 72.52.92.70     6939    253.572                     (San Jose, CA, US, NA) 10ge7-5.core1.sjc2.he.net                                                                           
+LHL (6939)  apollo ✓ || flag-atlantic-1-fa-1 ✓
+├─ 184.104.206.219 6939    264.459         (Frankfurt am Main, Hesse, DE, EU)                                                                                                     
+T (6939, 12389)  
+╰─ 87.226.183.5    12389   224.662                      (Moscow, MOW, RU, EU) *                                                                                                   
+   176.210.106.50  47165   330.884                        (Omsk, OMS, RU, EU) *                                                                                                   
+   217.25.211.30   49404   328.812                        (Omsk, OMS, RU, EU) host30.net211.omkc.ru                                                                               
+   ***             *       -inf                                           *** *                                                                                                   
+   193.169.52.51   49404   350.646                (Omsk, Omsk Oblast, RU, EU) host52-51.promobit.ru                                                                               

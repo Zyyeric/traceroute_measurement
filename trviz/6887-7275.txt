@@ -1,0 +1,15 @@
+   180.211.88.22   45725   0.0                     (Jakarta, Jakarta, ID, AS) id-jkt-as45725.anchors.atlas.ripe.net                                                               
+   180.211.88.21   45725   0.319                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+   43.230.153.89   *       0.589                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+╭─ 111.92.161.4    55655   0.756                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+S&T (55655, )  australia-singapore-cable-asc ✘ || matrix-cable-system ✘ || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || indonesia-global-gateway-igg-system ✘ || seamewe-3 ✘ || indigo-west ✘ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || jasuka ✘ || jakabare ✘
+├  10.110.4.6      *       12.646                                         ***                                                                                                     
+├─ 103.16.102.41   *       12.585              (Singapore, Singapore, SG, AS) rise-asia.sgix.sg                                                                                   
+S (, 135132)  tata-tgn-intra-asia-tgn-ia ✘
+├  10.255.64.92    *       58.763                                         ***                                                                                                     
+╰─ 43.224.189.37   135132  52.127               (Lapu-Lapu City, CEB, PH, AS) vlan7.border1.ceb02.ds.network                                                                      
+   192.168.159.164 *       2215.136                                       ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   192.168.159.143 *       57.217                                         ***                                                                                                     
+   27.111.84.21    135132  54.356        (Cebu City, Central Visayas, PH, AS) ph-ceb-as135132.anchors.atlas.ripe.net                                                              

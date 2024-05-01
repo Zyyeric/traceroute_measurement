@@ -1,0 +1,22 @@
+   131.100.0.158   42473   0.0       (Santiago de Querétaro, Querétaro, MX, NA)                                                                                                     
+   131.100.0.157   42473   0.433     (Santiago de Querétaro, Querétaro, MX, NA)                                                                                                     
+╭─ 62.115.166.225  1299    0.288     (Santiago de Querétaro, Querétaro, MX, NA) qro-b3-link.ip.twelve99.net                                                                         
+LHL (1299)  flag-atlantic-1-fa-1 © || exa-north-and-south ✘ || tata-tgn-atlantic ✓ || atlantic-crossing-1-ac-1 ✓ || apollo © || yellow ✓
+├─ 62.115.124.49   1299    1.066               (Stockholm, Stockholm, SE, EU) qro-b2-link.ip.twelve99.net                                                                         
+LHL (1299)  
+├─ 62.115.123.238  1299    8.962              (Monterrey, Nuevo León, MX, NA) mny-b2-link.ip.twelve99.net                                                                         
+S&T (1299)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 62.115.126.144  1299    20.648                    (Houston, Texas, US, NA) hou-b3-link.ip.twelve99.net                                                                         
+   62.115.116.47   1299    33.963                  (Atlanta, Georgia, US, NA) atl-b24-link.ip.twelve99.net                                                                        
+   62.115.113.49   1299    49.523                    (Miami, Florida, US, NA) mai-b2-link.ip.twelve99.net                                                                         
+╭─ 213.248.103.143 1299    49.294                    (Miami, Florida, US, NA) internexasa-ic-384967.ip.twelve99-cust.net                                                          
+S (1299, 262589)  flag-atlantic-1-fa-1 © ↠ atlantic-crossing-1-ac-1 ✓ ↠ pacific-caribbean-cable-system-pccs ✓ || flag-atlantic-1-fa-1 © ↠ atlantic-crossing-1-ac-1 ✓ ↠ colombia-florida-subsea-fiber-cfx-1 © || exa-north-and-south ✘ ↠ atlantic-crossing-1-ac-1 ✓ ↠ pacific-caribbean-cable-system-pccs ✓ || exa-north-and-south ✘ ↠ atlantic-crossing-1-ac-1 ✓ ↠ colombia-florida-subsea-fiber-cfx-1 © || tata-tgn-atlantic ✓ ↠ atlantic-crossing-1-ac-1 ✓ ↠ pacific-caribbean-cable-system-pccs ✓ || tata-tgn-atlantic ✓ ↠ atlantic-crossing-1-ac-1 ✓ ↠ colombia-florida-subsea-fiber-cfx-1 © || atlantic-crossing-1-ac-1 ✓ ↠ atlantic-crossing-1-ac-1 ✓ ↠ pacific-caribbean-cable-system-pccs ✓ || atlantic-crossing-1-ac-1 ✓ ↠ atlantic-crossing-1-ac-1 ✓ ↠ colombia-florida-subsea-fiber-cfx-1 © || apollo © ↠ atlantic-crossing-1-ac-1 ✓ ↠ pacific-caribbean-cable-system-pccs ✓ || apollo © ↠ atlantic-crossing-1-ac-1 ✓ ↠ colombia-florida-subsea-fiber-cfx-1 © || yellow ✓ ↠ atlantic-crossing-1-ac-1 ✓ ↠ pacific-caribbean-cable-system-pccs ✓ || yellow ✓ ↠ atlantic-crossing-1-ac-1 ✓ ↠ colombia-florida-subsea-fiber-cfx-1 ©
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 179.1.115.6     262589  93.956               (Bogotá, Bogota D.C., CO, SA)                                                                                                     
+S&T (262589, 263703)  arcos ✓
+├  172.23.0.138    *       104.392                                        ***                                                                                                     
+╰─ 190.97.246.90   263703  104.263                 (El Vigía, Mérida, VE, SA)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   172.26.0.94     *       104.244                                        ***                                                                                                     
+   170.254.172.12  265641  104.555                 (Maturín, Monagas, VE, SA) rev170-254-172-12.cixve.net                                                                         

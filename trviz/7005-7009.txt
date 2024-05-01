@@ -1,0 +1,17 @@
+   45.94.14.204    208520  0.0                (Riyadh, Riyadh Region, SA, AS)                                                                                                     
+   45.94.14.193    208520  0.555              (Riyadh, Riyadh Region, SA, AS)                                                                                                     
+╭─ 212.138.250.7   8895    1.023              (Riyadh, Riyadh Region, SA, AS)                                                                                                     
+S (8895, 3257)  europe-india-gateway-eig ✓ || seamewe-3 ✓ || flag-europe-asia-fea ✘
+╰─ 154.14.64.197   3257    92.702                   (London, England, GB, EU) et-0-0-8-2.cr11-lon1.ip4.gtt.net                                                                    
+   89.149.141.213  3257    92.565                       (London, ENG, GB, EU) ae18.cr11-lon2.ip4.gtt.net                                                                          
+╭─ 62.115.47.218   1299    92.862                   (London, England, GB, EU) ldn-b2-link.ip.twelve99.net                                                                         
+S&T (1299)  circe-north ✓ || scylla ✘ || ulysses-2 ✘ || zeus ✓ || concerto ✘ || farland-north ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 62.115.137.235  1299    98.395          (Amsterdam, North Holland, NL, EU) adm-bb2-link.ip.twelve99.net                                                                        
+S&T (1299)  
+╰─ 62.115.116.231  1299    100.794       (Brussels, Brussels Capital, BE, EU) brx-b4-link.ip.twelve99.net                                                                         
+   62.115.175.93   1299    100.147       (Brussels, Brussels Capital, BE, EU) verixi-ic-344941.ip.twelve99-cust.net                                                               
+   87.238.225.11   6696    100.689                       (None, None, BE, EU) edg01.blutw.bra.be.verixi.net                                                                       
+   80.67.181.1     204059  98.543                     (Brussels, BRU, BE, EU) edge-01.louise.neutri.net                                                                           
+   80.67.181.18    204059  96.77         (Brussels, Brussels Capital, BE, EU) core-01.louise.neutri.net                                                                           
+   80.67.181.29    204059  97.578        (Brussels, Brussels Capital, BE, EU) be-bru-as204059.anchors.atlas.ripe.net                                                              

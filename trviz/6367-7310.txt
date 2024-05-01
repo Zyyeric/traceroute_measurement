@@ -1,0 +1,12 @@
+   38.47.189.189   140443  0.0           (Kuala Lumpur, Kuala Lumpur, MY, AS)                                                                                                     
+   38.47.189.1     140443  0.206         (Kuala Lumpur, Kuala Lumpur, MY, AS)                                                                                                     
+╭─ 38.47.188.2     140443  0.23          (Kuala Lumpur, Kuala Lumpur, MY, AS)                                                                                                     
+S&T (140443, 174)  indonesia-global-gateway-igg-system ✓ || palapa-ring-west ✓ || batam-dumai-melaka-bdm-cable-system ✘ || jasuka ✓ || seamewe-4 ✘ || seamewe-5 ✓ || seax-1 ✘ || asia-submarine-cable-express-asecahaya-malaysia ✓ || asia-america-gateway-aag-cable-system ✓ || batam-rengit-cable-system-brcs ✘ || apcn-2 ✓
+├  10.111.220.141  *       0.226 (6.431)                                     ***                                                                                                     
+├─ 154.18.19.209   174     6.808               (Singapore, Singapore, SG, AS) te0-8-0-2-7.201.ccr31.sin01.atlas.cogentco.com                                                      
+S (174)  eac-c2c ✘ || asia-pacific-gateway-apg ✓ || southeast-asia-japan-cable-sjc © || asia-america-gateway-aag-cable-system © || seamewe-3 ✓ || asia-submarine-cable-express-asecahaya-malaysia ✓ || apcn-2 ✓
+├─ 154.54.87.226   174     41.749                   (Hong Kong, None, HK, AS) be2923.ccr21.hkg02.atlas.cogentco.com                                                               
+S (174)  eac-c2c ✘ || asia-pacific-gateway-apg ✓
+╰─ 154.54.89.201   174     102.174                     (Tokyo, Tokyo, JP, AS) be3011.ccr71.tyo01.atlas.cogentco.com                                                               
+   154.18.29.226   174     90.027                      (Tokyo, Tokyo, JP, AS)                                                                                                     
+   152.195.112.52  15133   89.762                      (Tokyo, Tokyo, JP, AS)                                                                                                     

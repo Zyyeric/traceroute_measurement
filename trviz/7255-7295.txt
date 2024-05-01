@@ -1,0 +1,16 @@
+   185.249.157.253 34428   0.0                      (Palermo, Sicily, IT, EU)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   185.249.157.255 34428   2.294          (Parco degli Ulivi, Sicily, IT, EU)                                                                                                     
+╭─ 217.29.66.10    5602    31.037                        (Milan, 9, IT, None) kpnqwest.mix-it.net                                                                                 
+LHL (5602, 201011)  seamewe-4 ✘ || asia-africa-europe-1-aae-1 ✘ || seamewe-5 ✘ || imewe ✘ || seamewe-3 ✘
+╰─ 81.95.2.138     201011  43.865                     (Amsterdam, NH, NL, EU) ae5-2074.ams10.core-backbone.com                                                                    
+   169.150.195.66  60068   46.61             (Haarlem, North Holland, NL, EU) coreb-ams.cdn77.com                                                                                 
+   45.134.214.139  57695   43.903                     (Amsterdam, NH, NL, EU) v3525.cr02.ams05.nl.misaka.io                                                                       
+   45.11.106.4     57695   46.777                     (Amsterdam, NH, NL, EU) po-04.lag.ams05.nl.misaka.io                                                                        
+   45.11.106.149   57695   43.869          (Amsterdam, North Holland, NL, EU) router01-msk-ams.as151332.net                                                                       
+╭─ 209.250.248.226 20473   39.85             (Halfweg, North Holland, NL, EU) router01-vul-ams.as151332.net                                                                       
+LHL (20473, 63949)  seamewe-4 ✓ || seamewe-3 ✓ || seamewe-5 ✓
+├─ 172.104.190.118 63949   270.84              (Singapore, Singapore, SG, AS) router01-akm-sin.as151332.net                                                                       
+S (63949, 7545)  australia-singapore-cable-asc ✓ || indigo-west ✓ || seamewe-3 ✓
+╰─ 203.192.83.254  7545    316.398              (Melbourne, Victoria, AU, OC) ip-254-83-192-203.static.pipenetworks.com                                                           
+   103.179.37.157  151332  316.603              (Melbourne, Victoria, AU, OC)                                                                                                     

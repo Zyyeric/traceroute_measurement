@@ -1,0 +1,16 @@
+   92.223.93.208   202422  0.0                      (Milan, Lombardy, IT, EU)                                                                                                     
+   92.223.93.195   202422  0.239                    (Milan, Lombardy, IT, EU) vrrp.gcore.lu                                                                                       
+   10.255.169.181  *       0.213                                          ***                                                                                                     
+   10.255.169.178  *       0.319                                          ***                                                                                                     
+   149.14.135.249  174     0.496                    (Milan, Lombardy, IT, EU) hu0-1-0-0.nr51.b026361-0.mil01.atlas.cogentco.com                                                   
+╭─ 154.25.12.145   174     0.428 (2.117)               (Milan, Lombardy, IT, EU) be2218.rcr21.mil01.atlas.cogentco.com                                                               
+S&T (174)  
+╰─ 154.54.74.165   174     10.194                    (Marseille, PAC, FR, EU) be2864.ccr31.mrs02.atlas.cogentco.com                                                               
+╭─ 154.54.72.109   174     20.971                        (Paris, IDF, FR, EU) be2779.ccr41.par01.atlas.cogentco.com                                                               
+S&T (174)  seamewe-3 ✓
+╰─ 154.54.56.129   174     27.812                       (London, ENG, GB, EU) be12497.ccr41.lon13.atlas.cogentco.com                                                              
+   130.117.3.98    174     28.389                       (London, ENG, GB, EU) be2538.rcr21.b015589-1.lon13.atlas.cogentco.com                                                     
+╭─ 149.11.44.138   174     28.973                   (London, England, GB, EU)                                                                                                     
+S&T (174, 37468)  europe-india-gateway-eig © || tata-tgn-western-europe ✓ || seamewe-3 ✓
+╰─ 185.148.112.46  37468   53.191                    (Lisbon, Lisbon, PT, EU) 46.112.148.185.angolacables.ao                                                                      
+   185.148.112.152 37468   53.324                    (Lisbon, Lisbon, PT, EU) 152.112.148.185.angolacables.ao                                                                     

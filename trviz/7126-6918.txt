@@ -1,0 +1,9 @@
+   139.162.3.33    63949   0.0                 (Singapore, Singapore, SG, AS) li845-33.members.linode.com                                                                         
+   ***             *       -inf                                           *** *                                                                                                   
+   10.209.35.10    *       0.673                                          ***                                                                                                     
+   10.209.32.1     *       0.282                                          ***                                                                                                     
+╭─ 139.162.0.101   63949   0.403               (Singapore, Singapore, SG, AS) lo0-0.gw1.sin1.sg.linode.com                                                                        
+S (63949, 38082)  
+├─ 27.111.228.76   38082   1.25                      (Seogwipo, None, KR, AS) 38082.sgw.equinix.com                                                                               
+S (38082, 137566)  
+╰─ 103.113.176.82  137566  28.287        (Ban Talat Bueng, Chon Buri, TH, AS)                                                                                                     

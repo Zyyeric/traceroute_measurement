@@ -1,0 +1,14 @@
+   195.209.139.36  29114   0.0              (Ivanovo, Ivanovo Oblast, RU, EU) anchor1.atlas.ruitb.ru                                                                              
+   195.209.139.1   29114   0.389            (Ivanovo, Ivanovo Oblast, RU, EU) itb-bgp-gw1.ruitb.ru                                                                                
+   87.255.238.146  38917   1.911            (Ivanovo, Ivanovo Oblast, RU, EU)                                                                                                     
+╭─ 195.68.181.185  3216    1.605            (Ivanovo, Ivanovo Oblast, RU, EU)                                                                                                     
+LHL (3216)  
+╰─ 79.104.225.62   3216    48.401                     (Amsterdam, NH, NL, EU) mx01.Amsterdam.gldn.net                                                                             
+╭─ 80.249.209.196  41095   59.717                     (Amsterdam, NH, NL, EU) ams-ix.iptp.net                                                                                     
+LHL (41095)  
+╰─ 103.23.168.233  41095   317.72                         (Tokyo, 13, JP, AS) be2.r0.bc05.bbt.ty.jp.iptp.net                                                                      
+   103.23.168.233  41095   317.72                         (Tokyo, 13, JP, AS) be2.r0.bc05.bbt.ty.jp.iptp.net                                                                      
+   103.23.168.198  59103   218.892                        (Tokyo, 13, JP, AS) as59103.r0.214.ty2.eq.jp.iptp.net                                                                   
+   103.41.60.171   59103   219.395                       (None, None, JP, AS) koba-bgprt1.tokyo-ix.v4.open.ad.jp                                                                  
+   103.143.136.26  63781   221.424                       (None, None, JP, AS) ospfrt1-bgprt1.kobayashi.ad.jp                                                                      
+   103.143.136.43  63781   220.256                     (Tokyo, Tokyo, JP, AS) koba-103-143-136-43.rev.kobayashi.ad.jp                                                             

@@ -1,0 +1,15 @@
+   180.211.88.22   45725   0.0                     (Jakarta, Jakarta, ID, AS) id-jkt-as45725.anchors.atlas.ripe.net                                                               
+   180.211.88.21   45725   0.343                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+   43.230.153.89   *       0.434                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+╭─ 111.92.161.4    55655   0.587                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+S&T (55655, 6939)  australia-singapore-cable-asc ✘ || matrix-cable-system ✘ || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || indonesia-global-gateway-igg-system ✘ || seamewe-3 ✘ || indigo-west ✘ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || jasuka ✘ || jakabare ✘
+├  10.110.1.0      *       12.178                                         ***                                                                                                     
+├─ 74.82.49.213    6939    13.102              (Singapore, Singapore, SG, AS) e0-49.switch7.sin1.he.net                                                                           
+S (6939)  seamewe-5 ✓
+├─ 184.104.194.200 6939    154.199   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) port-channel15.core4.mrs1.he.net                                                                    
+S&T (6939, )  seamewe-4 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 217.29.67.120   *       170.6                    (Milan, Lombardy, IT, EU) glpr.mix-it.net                                                                                     
+   193.41.57.248   34428   185.849                       (None, None, IT, EU) *                                                                                                   
+   185.249.157.254 34428   183.171                  (Palermo, Sicily, IT, EU)                                                                                                     
+   185.249.157.253 34428   185.25                   (Palermo, Sicily, IT, EU)                                                                                                     

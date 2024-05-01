@@ -1,0 +1,13 @@
+   63.222.40.114   3491    0.0                       (Taipei, Taiwan, TW, AS) ncic.te0-1-0-23.br01.tap04.as3491.net                                                               
+╭─ 63.222.40.113   3491    1.034                      (Neihu, Taiwan, TW, AS) te0-1-0-23.br01.tap04.as3491.net                                                                    
+S (3491, 3356)  faster ✓ || trans-pacific-express-tpe-cable-system ✓ || new-cross-pacific-ncp-cable-system ✓ || pacific-light-cable-network-plcn ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 63.217.21.70    3356    138.285                       (None, None, US, NA) 63-217-21-70.static.pccwglobal.net                                                                  
+   4.15.122.46     2152    137.168                     (San Jose, CA, US, NA) CENIC.ear1.SanJose1.Level3.net                                                                      
+   137.164.11.95   2152    139.96                       (Oakland, CA, US, NA) dc-oak-agg8--svl-agg10-300g.cenic.net                                                               
+   137.164.11.89   3292    139.844                     (Tri-City, OR, US, NA) dc-tri-agg2--oak-agg8-300g.cenic.net                                                                
+   137.164.46.7    2152    143.797                     (Tri-City, OR, US, NA) cor-agg8--tri-agg2--100ge.cenic.net                                                                 
+   137.164.50.243  2152    150.517                       (Corona, CA, US, NA) sha-coe-1--cor-agg8-10g.cenic.net                                                                   
+   137.164.34.84   2152    149.85                       (Shafter, CA, US, NA) sha-coe-2---to--sha-coe-1--10ge.cenic.net                                                           
+   137.164.13.11   23483   145.488                      (Shafter, CA, US, NA) shacoe-gw2--sha-coe-2-10g.cenic.net                                                                 
+   66.244.16.33    23483   145.422              (Redding, California, US, NA) us-rdd-as23483.anchors.atlas.ripe.net                                                               

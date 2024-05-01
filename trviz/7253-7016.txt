@@ -1,0 +1,13 @@
+   103.160.63.222  140443  0.0                     (Jakarta, Jakarta, ID, AS) 222.63.160.103.in-addr.herza.id                                                                     
+╭─ 103.160.63.129  140443  0.326                   (Jakarta, Jakarta, ID, AS) 129.63.160.103.in-addr.herza.id                                                                     
+S (140443, 6939)  indonesia-global-gateway-igg-system ✓ ↠ sea-us ✓
+├  10.111.220.46   *       0.557                                          ***                                                                                                     
+├  10.111.220.6    *       12.27                                          ***                                                                                                     
+├  10.111.222.206  *       12.556                                         ***                                                                                                     
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.81.82   6939    187.655             (San Jose, California, US, NA) port-channel10.core2.pao1.he.net                                                                    
+   64.62.180.46    6939    187.527             (San Jose, California, US, NA) isc-as-1280-as1280.e0-30.switch2.pao1.he.net                                                        
+   192.158.252.10  1280    187.661        (Mountain View, California, US, NA) us-pao-as1280.anchors.atlas.ripe.net                                                                

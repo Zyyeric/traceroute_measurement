@@ -1,0 +1,13 @@
+   185.209.84.141  57578   0.0               (Khabarovsk, Khabarovsk, RU, EU) ru-khv-as57578.anchors.atlas.ripe.net                                                               
+   ***             *       -inf                                           *** *                                                                                                   
+   92.38.191.66    210756  0.651             (Khabarovsk, Khabarovsk, RU, EU) vrrp.edgecenter.ru                                                                                  
+   92.223.110.3    210756  0.401             (Khabarovsk, Khabarovsk, RU, EU)                                                                                                     
+   10.255.10.186   *       0.496                                          ***                                                                                                     
+   212.119.196.105 3216    1.023             (Khabarovsk, Khabarovsk, RU, EU)                                                                                                     
+╭─ 79.104.238.11   3216    1.238                   (Khabarovsk, None, RU, AS) pe01.Khabarovsk.gldn.net                                                                            
+S (3216, )  russia-japan-cable-network-rjcn ✓ || sakhalin-kuril-islands-cable ✓ || hokkaido-sakhalin-cable-system-hscs ✓
+╰─ 210.173.177.68  *       25.859                   (Hatsudai, Tokyo, JP, AS)                                                                                                     
+   84.17.33.107    57695   25.712                (Tokyo / Narita, 12, JP, AS) v3518.cr02.nrt04.jp.misaka.io                                                                       
+   199.119.64.141  969     25.773                      (Tokyo, Tokyo, JP, AS) e32-20.spine1.nrt04.jp.misaka.io                                                                    
+   103.170.232.11  142616  25.586                      (Tokyo, Tokyo, JP, AS) po-31.lag.nrt04.jp.misaka.io                                                                        
+   103.170.232.152 142616  25.892                      (Tokyo, Tokyo, JP, AS) user-103-170-232-152.nrt04.jp.misaka.io                                                             

@@ -1,0 +1,17 @@
+   63.222.40.114   3491    0.0                       (Taipei, Taiwan, TW, AS) ncic.te0-1-0-23.br01.tap04.as3491.net                                                               
+   63.222.40.113   3491    0.935                      (Neihu, Taiwan, TW, AS) te0-1-0-23.br01.tap04.as3491.net                                                                    
+   63.223.9.102    3491    0.766                       (Taipei, None, TW, AS) Bundle-Ether41.br02.tap04.pccwbtn.net                                                               
+   63.217.71.50    3491    1.058                     (Taipei, Taiwan, TW, AS) 63-217-71-50.static.pccwglobal.net                                                                  
+╭─ 129.250.2.82    2914    0.653                     (Taipei, Taiwan, TW, AS) ae-2.r23.taiptw01.tw.bb.gin.ntt.net                                                                 
+S (2914)  seamewe-3 ✓ || eac-c2c © || flag-north-asia-loopreach-north-asia-loop ✓ || asia-pacific-gateway-apg 👍
+├─ 129.250.2.19    2914    54.181              (Hong Kong, Hong Kong, HK, AS) ae-4.r26.tkokhk01.hk.bb.gin.ntt.net                                                                 
+S (2914)  
+╰─ 129.250.5.29    2914    55.606                        (None, None, US, NA) ae-0.r27.tkokhk01.hk.bb.gin.ntt.net                                                                 
+╭─ 129.250.7.66    2914    88.947                        (None, None, US, NA) ae-7.r22.sngpsi07.sg.bb.gin.ntt.net                                                                 
+S (2914)  
+╰─ 129.250.5.238   2914    86.268              (Singapore, Singapore, SG, AS) ae-0.a03.sngpsi07.sg.bb.gin.ntt.net                                                                 
+╭─ 116.51.26.82    2914    90.609                   (Singapore, None, SG, AS) ae-0.emirates-du.sngpsi07.sg.bb.gin.ntt.net                                                         
+S (2914, 57187)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 94.206.39.74    57187   164.279                        (Dubai, DU, AE, AS) j48-1.dxa.dxb.ae.datamena.net                                                                       
+   94.207.43.2     57187   165.873                     (Dubai, Dubai, AE, AS) -094-207-043-002.datamena.net                                                                       

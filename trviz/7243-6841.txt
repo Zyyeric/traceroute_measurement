@@ -1,0 +1,16 @@
+   195.130.66.103  199399  0.0                       (Athens, Attica, GR, EU) gr-ath-as199399.anchors.atlas.ripe.net                                                              
+   195.130.66.102  199399  1.286                    (Výronas, Attica, GR, EU) gw-ripe-anchor.gr-ix.gr                                                                             
+   62.217.98.52    5408    0.784                    (Výronas, Attica, GR, EU) grix-admin-gw.eier.access-link.grnet.gr                                                             
+   83.97.88.69     21320   0.795                    (Výronas, Attica, GR, EU) grnet-ias-geant-gw.mx2.ath.gr.geant.net                                                             
+╭─ 62.40.98.141    20965   26.817                        (Athens, A1, GR, EU) ae0.mx1.ath2.gr.geant.net                                                                           
+T (20965)  
+╰─ 62.40.98.147    20965   26.042                    (Vienna, Vienna, AT, EU) ae0.mx1.vie.at.geant.net                                                                            
+╭─ 212.133.7.165   3356    41.706                    (Vienna, Vienna, AT, EU) ae68.edge4.vienna1.level3.net                                                                       
+LHL (3356)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 4.37.37.166     3356    163.499                   (Miami, Florida, US, NA) angola-cabl.edge6.miami1.level3.net                                                                 
+S (3356, 37468)  
+├─ 170.238.233.162 37468   188.648                 (Fortaleza, Ceará, BR, SA) 162.233.238.170.angolacables.ao                                                                     
+S (37468)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 185.148.112.152 37468   189.897                   (Lisbon, Lisbon, PT, EU) 152.112.148.185.angolacables.ao                                                                     

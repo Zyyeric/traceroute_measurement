@@ -1,0 +1,13 @@
+   103.77.105.3    133800  0.0                     (Jakarta, Jakarta, ID, AS) ip-3-105-77-103.jkt-1.biznetg.io                                                                    
+   103.77.105.28   133800  0.162                   (Jakarta, Jakarta, ID, AS) ip-28-105-77-103.jkt-1.biznetg.io                                                                   
+   137.59.127.33   *       0.283                   (Jakarta, Jakarta, ID, AS) xe-0-2.cr01.jkt.biznetg.io                                                                          
+   202.169.59.21   17451   0.654 (5.612)              (Jakarta, Jakarta, ID, AS)                                                                                                     
+╭─ 182.253.100.233 17451   1.026                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+S&T (17451)  australia-singapore-cable-asc ✓ || matrix-cable-system ✘ || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || indonesia-global-gateway-igg-system ✓ || indigo-west ✓ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || jasuka ✓ || jakabare ✓
+├─ 182.253.255.190 17451   11.955              (Singapore, Singapore, SG, AS) gs2-4.biznetnetworks.com                                                                            
+S (17451, 6939)  eac-c2c ✘ || asia-pacific-gateway-apg ✘ || southeast-asia-japan-cable-sjc ✓ || asia-america-gateway-aag-cable-system ✓ || apcn-2 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.220.67  6939    46.208              (Hong Kong, Hong Kong, HK, AS) lshiy.e0-30.switch1.hkg1.he.net                                                                     
+   103.203.243.11  955     45.344              (Hong Kong, Hong Kong, HK, AS) multi-user.port-channe17.switch1.hkg1.bb.lshiy.net                                                  
+   89.213.179.65   32167   45.251              (Hong Kong, Hong Kong, HK, AS) 89-213-179-65.ip.lshiyusercontent.com                                                               

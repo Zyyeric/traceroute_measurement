@@ -1,0 +1,17 @@
+   107.162.217.5   55002   0.0                 (San Jose, California, US, NA)                                                                                                     
+   107.162.217.1   55002   0.393            (Santa Clara, California, US, NA)                                                                                                     
+   100.100.1.14    *       0.653                                          ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   206.223.116.37  6939    1.11                        (San Jose, CA, US, NA) as6939.100gigabitethernet2-3.core1.sjc2.he.net                                                      
+   184.105.81.82   6939    1.735               (San Jose, California, US, NA) port-channel10.core2.pao1.he.net                                                                    
+   184.105.64.138  6939    19.566                      (Portland, OR, US, NA) 100ge15-1.core1.pdx1.he.net                                                                         
+   184.104.195.66  6939    20.513                      (Portland, OR, US, NA) 100ge0-36.core1.pdx2.he.net                                                                         
+╭─ 184.104.188.77  6939    20.378                  (Portland, Oregon, US, NA) 100ge0-28.core1.pdx3.he.net                                                                         
+S (6939)  southern-cross-cable-network-sccn ✓ || hawaiki ✘ || southern-cross-next ✓
+╰─ 184.104.195.150 6939    162.639                    (Auckland, AUK, NZ, OC) 100ge0-36.core1.akl2.he.net                                                                         
+   216.218.224.39  6939    156.902               (Auckland, Auckland, NZ, OC) two-degrees-mobile-limited.e0-33.core1.akl2.he.net                                                  
+   ***             *       -inf                                           *** *                                                                                                   
+   131.203.72.166  9790    157.178               (Auckland, Auckland, NZ, OC) default-rdns.vocus.co.nz                                                                            
+   131.203.72.165  9790    157.318               (Auckland, Auckland, NZ, OC) default-rdns.vocus.co.nz                                                                            
+   103.242.68.65   133075  157.549                  (Wellington, WGN, NZ, OC) *                                                                                                   
+   103.242.68.78   133075  157.762               (Auckland, Auckland, NZ, OC) 103-242-68-78.broadband.telesmart.co.nz                                                             

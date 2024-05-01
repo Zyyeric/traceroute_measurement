@@ -1,0 +1,19 @@
+╭─ 185.148.112.152 37468   0.0                       (Lisbon, Lisbon, PT, EU) 152.112.148.185.angolacables.ao                                                                     
+S (37468, 22697)  ellalink ✘
+├  10.42.104.1     *       0.326                                          ***                                                                                                     
+├  100.64.192.137  *       62.08                                          ***                                                                                                     
+├─ 170.238.233.163 22697   125.454                       (None, None, BR, SA) 163.233.238.170.angolacables.ao                                                                     
+S (22697, 3356)  
+╰─ 4.37.37.165     3356    126.895                   (Miami, Florida, US, NA) et-7-0-5.edge6.miami1.level3.net                                                                    
+   ***             *       -inf                                           *** *                                                                                                   
+   184.104.188.218 6939    126.93                    (Miami, Florida, US, NA) port-channel1.core1.mia1.he.net                                                                     
+   198.32.242.176  6939    127.417                      (Miami, FL, US, None) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 184.105.213.53  6939    161.062                       (Dallas, TX, US, NA) 100ge11-2.core1.dal1.he.net                                                                         
+S (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.220.67  6939    315.797             (Hong Kong, Hong Kong, HK, AS) lshiy.e0-30.switch1.hkg1.he.net                                                                     
+   103.203.243.11  955     315.505             (Hong Kong, Hong Kong, HK, AS) multi-user.port-channe17.switch1.hkg1.bb.lshiy.net                                                  
+   89.213.179.65   32167   315.465             (Hong Kong, Hong Kong, HK, AS) 89-213-179-65.ip.lshiyusercontent.com                                                               

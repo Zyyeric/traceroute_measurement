@@ -1,0 +1,17 @@
+   193.50.97.164   2200    0.0                   (Plouzané, Brittany, FR, EU) anchor.netlab.enstb.org                                                                             
+   ***             *       -inf                                           *** *                                                                                                   
+   192.108.116.201 50897   0.869                 (Plouzané, Brittany, FR, EU) asr-vlan39.enst-bretagne.fr                                                                         
+   193.51.188.10   2200    6.965             (Saint-Brieuc, Brittany, FR, EU) vl807-pc1-brest1-rtr-021.noc.renater.fr                                                             
+   193.51.177.174  2200    12.787              (Paris, Île-de-France, FR, EU) et-5-2-1-ren-nr-paris1-rtr-131.noc.renater.fr                                                       
+   193.55.204.195  2200    13.632                       (Paris, None, FR, EU) et-3-1-2-ren-nr-paris2-rtr-131.noc.renater.fr                                                       
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 37.49.236.10    6939    132.226                       (Paris, IDF, FR, EU) he.par.franceix.net                                                                                 
+S (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.208.93  6939    162.917             (Singapore, Singapore, SG, AS) true-internet-corporation-co-ltd.port-channel18.core3.sin1.he.net                                   
+S&T (6939, 38082)  
+╰─ 122.144.26.19   38082   188.827                       (None, None, TH, AS) TIG-Net26-19.trueintergateway.com                                                                   
+   113.21.243.146  137566  195.085                       (None, None, TH, AS) TIG-Net243-146.trueintergateway.com                                                                 
+   103.113.176.2   137566  188.721                       (None, None, TH, AS) *                                                                                                   
+   103.113.176.82  137566  194.247       (Ban Talat Bueng, Chon Buri, TH, AS)                                                                                                     

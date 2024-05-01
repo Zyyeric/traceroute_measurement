@@ -1,0 +1,21 @@
+   193.49.43.151   2200    0.0       (Grenoble, Auvergne-Rhône-Alpes, FR, EU)                                                                                                     
+   193.49.43.99    2200    0.396     (Fontaine, Auvergne-Rhône-Alpes, FR, EU) rteie.epn-campus.eu                                                                                 
+   ***             *       -inf                                           *** *                                                                                                   
+   193.54.185.9    2200    5.428     (Fontaine, Auvergne-Rhône-Alpes, FR, EU) tigre1.grenet.fr                                                                                    
+   193.51.181.94   2200    1.299     (Fontaine, Auvergne-Rhône-Alpes, FR, EU) hu0-2-0-2-ren-nr-grenoble-rtr-091.noc.renater.fr                                                    
+   193.55.204.14   2200    2.972     (Grenoble, Auvergne-Rhône-Alpes, FR, EU) hu0-3-0-3-ren-nr-lyon2-rtr-091.noc.renater.fr                                                       
+╭─ 193.51.180.172  2200    3.034     (Grenoble, Auvergne-Rhône-Alpes, FR, EU) et-3-1-3-ren-nr-lyon1-rtr-131.noc.renater.fr                                                        
+T (2200, 20965)  
+╰─ 83.97.89.13     20965   11.257                      (Geneva, None, CH, EU) renater-ias-geant-gw.gen.ch.geant.net                                                               
+╭─ 184.104.195.178 6939    11.866                        (Geneva, GE, CH, EU) 100ge0-36.core2.gva1.he.net                                                                         
+LHL (6939, 4651)  seamewe-4 ✓ || peace-cable ✘ || seamewe-5 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 74.82.46.34     4651    151.87                   (Singapore, None, SG, AS) cat-telecom-public-company-ltd.e0-38.switch1.sin1.he.net                                            
+S&T (4651)  asia-america-gateway-aag-cable-system ✓ || seamewe-4 ✓ || seamewe-3 ✓
+╰─ 61.19.9.137     4651    179.515                 (Bangkok, Bangkok, TH, AS)                                                                                                     
+   61.19.7.2       4651    178.158                       (None, None, TH, AS) *                                                                                                   
+   122.155.224.74  135063  179.111                       (None, None, TH, AS) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   103.253.132.25  59238   179.689                 (Bangkok, Bangkok, TH, AS) th-bkk-as59238.anchors.atlas.ripe.net                                                               

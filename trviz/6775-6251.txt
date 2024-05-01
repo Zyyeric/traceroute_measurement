@@ -1,0 +1,17 @@
+   193.65.45.86    719     0.0              (Hämeenlinna, Kanta-Häme, FI, EU)                                                                                                     
+   193.65.45.85    719     0.376                     (Espoo, Uusimaa, FI, EU)                                                                                                     
+   193.229.29.196  719     2.937                  (Helsinki, Uusimaa, FI, EU)                                                                                                     
+   213.192.184.76  6667    2.884                  (Helsinki, Uusimaa, FI, EU)                                                                                                     
+   213.192.184.176 6667    3.124                         (None, None, FI, EU) *                                                                                                   
+╭─ 193.110.224.33  *       3.304                  (Helsinki, Uusimaa, FI, EU) he.ficix2.ficix.fi                                                                                  
+LHL (, 6939)  exa-north-and-south ✘ || atlantic-crossing-1-ac-1 ✘ || flag-atlantic-1-fa-1 ✘ || apollo ✘ || yellow ✘ || tata-tgn-atlantic ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.188.253 6939    100.117               (Newark, New Jersey, US, NA) port-channel2.core2.ewr5.he.net                                                                     
+S&T (6939, 394256)  exa-north-and-south ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 192.30.89.87    394256  159.47       (Vancouver, British Columbia, CA, NA) ca-van-as394256.anchors.atlas.ripe.net                                                              

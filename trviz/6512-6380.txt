@@ -1,0 +1,17 @@
+   196.49.14.25    30997   0.0                 (Accra, Greater Accra, GH, AF)                                                                                                     
+   196.49.14.1     30997   0.38                (Accra, Greater Accra, GH, AF)                                                                                                     
+╭─ 197.221.70.89   *       0.885               (Accra, Greater Accra, GH, AF)                                                                                                     
+S&T (, 3741)  
+╰─ 196.14.240.4    3741    0.942                         (None, None, ZA, AF) *                                                                                                   
+╭─ 168.209.160.109 3741    255.737                       (None, None, ZA, AF) *                                                                                                   
+T (3741)  
+╰─ 168.209.160.108 3741    255.82                   (London, England, GB, EU)                                                                                                     
+╭─ 168.209.246.3   3741    257.668                     (London, None, GB, EU) core2b-dock-be-1.ip.ddii.network                                                                    
+T (3741)  
+├─ 168.209.246.1   3741    257.593                       (None, None, ZA, AF) core1b-dock-be-1.ip.ddii.network                                                                    
+T (3741, 28792)  
+╰─ 195.66.224.131  28792   255.415                    (London, ENG, GB, None) *                                                                                                   
+   80.82.243.141   28792   255.157                      (Witney, ENG, GB, EU) gi-2-1-0.lon-core-01.ip.pblin.net                                                                   
+   80.82.243.120   28792   257.716                      (Witney, ENG, GB, EU) oxf-core-02.ip.pblin.net                                                                            
+   80.82.243.127   28792   257.956                      (Witney, ENG, GB, EU) oxf-access-10.ip.pblin.net                                                                          
+   80.82.241.134   28792   257.819                  (London, England, GB, EU) 134-241-82-80.in-addr.pblin.net                                                                     

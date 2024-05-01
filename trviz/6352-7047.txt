@@ -1,0 +1,19 @@
+   80.77.4.60      15412   0.0                         (Dubai, Dubai, AE, AS)                                                                                                     
+   80.77.4.57      15412   1.951                       (Dubai, Dubai, AE, AS)                                                                                                     
+╭─ 85.95.25.94     15412   125.828                        (Dubai, DU, AE, AS) xe-0-0-1.0.pjr04.dxb001.flagtel.com                                                                 
+S&T (15412)  
+╰─ 85.95.26.145    15412   125.521                     (London, None, GB, EU) ae4.0.pjr03.ldn001.flagtel.com                                                                      
+   62.216.128.114  15412   128.772                     (London, None, GB, EU) xe-3-2-0.0.cjr01.ldn002.flagtel.com                                                                 
+   195.66.225.24   2603    125.814                    (London, ENG, GB, None) *                                                                                                   
+╭─ 109.105.102.98  2603    137.431                      (London, ENG, GB, EU) ndn-gw.mx1.lon.uk.geant.net                                                                         
+S&T (2603, 20965)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 62.40.98.222    20965   154.567                     (Bilbao, None, ES, EU) ae4.rt1.bil.es.geant.net                                                                            
+S&T (20965, 21320)  
+├─ 83.97.90.19     21320   154.231                  (London, England, GB, EU) rediris-ias-geant.bil.es.geant.net                                                                  
+S&T (21320, 766)  
+╰─ 130.206.245.22  766     164.86                        (None, None, ES, EU) ehu.rt2.ethtrunk3.unizar.rt2.ara.red.rediris.es                                                     
+   130.206.245.94  766     164.703                       (None, None, ES, EU) unizar.rt2.ae6-323.telmad.rt4.mad.red.rediris.es                                                    
+   130.206.214.98  13041   170.243                       (None, None, ES, EU) anella-router.red.rediris.es                                                                        
+   84.88.18.254    13041   170.1               (Barcelona, Catalonia, ES, EU) anchor-anella.cesca.cat                                                                             

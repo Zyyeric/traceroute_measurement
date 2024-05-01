@@ -1,0 +1,16 @@
+   92.38.135.131   202422  0.0                         (Seoul, Seoul, KR, AS)                                                                                                     
+   92.38.135.2     202422  0.231                       (Seoul, Seoul, KR, AS) vrrp.gcore.lu                                                                                       
+   10.255.17.210   *       0.31                                           ***                                                                                                     
+   10.255.17.213   *       0.244                                          ***                                                                                                     
+   10.255.17.147   *       0.315                                          ***                                                                                                     
+╭─ 113.29.52.41    3549    0.573                       (Seoul, Seoul, KR, AS)                                                                                                     
+S (3549, 3356)  apcn-2 ✘ || korea-japan-cable-network-kjcn ✘ || eac-c2c ✘ || asia-pacific-gateway-apg ✘
+╰─ 4.69.217.14     3356    34.959                         (Tokyo, 13, JP, AS) ae1.3505.edge2.Tokyo4.level3.net                                                                    
+   ***             *       -inf                                           *** *                                                                                                   
+   63.218.250.22   3491    31.37                       (Tokyo, Tokyo, JP, AS) hu0-0-1-0.br06.tok02.as3491.net                                                                     
+   205.177.84.34   41095   31.002                      (Fukuoka, 7, JP, None) 205-177-84-34.static.pccwglobal.net                                                                 
+   103.23.168.233  41095   27.437                         (Tokyo, 13, JP, AS) be2.r0.bc05.bbt.ty.jp.iptp.net                                                                      
+   103.23.168.198  59103   31.49                          (Tokyo, 13, JP, AS) as59103.r0.214.ty2.eq.jp.iptp.net                                                                   
+   103.41.60.171   59103   31.839                        (None, None, JP, AS) koba-bgprt1.tokyo-ix.v4.open.ad.jp                                                                  
+   103.143.136.26  63781   33.941                        (None, None, JP, AS) ospfrt1-bgprt1.kobayashi.ad.jp                                                                      
+   103.143.136.43  63781   32.153                      (Tokyo, Tokyo, JP, AS) koba-103-143-136-43.rev.kobayashi.ad.jp                                                             

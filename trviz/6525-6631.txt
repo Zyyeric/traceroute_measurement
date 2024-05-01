@@ -1,0 +1,13 @@
+   92.38.178.149   202422  0.0                       (Urayasu, Tokyo, JP, AS)                                                                                                     
+╭─ 92.38.178.1     202422  0.266                     (Urayasu, Tokyo, JP, AS) gw.gcore.lu                                                                                         
+S (202422, 6939)  japan-u-s-cable-network-jus ✘ || tata-tgn-pacific ✘ || pacific-crossing-1-pc-1 ✘ || faster ✘ || jupiter ✘
+├  10.255.16.182   *       0.266                                          ***                                                                                                     
+├  10.255.16.184   *       0.473                                          ***                                                                                                     
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.194.37  6939    108.085                     (San Jose, CA, US, NA) 100ge12-2.core1.sjc2.he.net                                                                         
+   184.105.81.82   6939    108.52              (San Jose, California, US, NA) port-channel10.core2.pao1.he.net                                                                    
+   184.105.177.238 46749   108.618                   (Pleasanton, CA, US, NA) stanford-university.100gigabitethernet5-1.core1.pao1.he.net                                         
+   171.66.0.238    32      108.77                      (Stanford, CA, US, NA) csee-west-rtr-vl12.SUNet                                                                            
+   ***             *       -inf                                           *** *                                                                                                   
+   171.67.70.16    32      109.294             (Stanford, California, US, NA) us-pao-as32.anchors.atlas.ripe.net                                                                  

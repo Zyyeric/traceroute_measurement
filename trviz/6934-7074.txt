@@ -1,0 +1,13 @@
+   103.143.136.43  63781   0.0                         (Tokyo, Tokyo, JP, AS) koba-103-143-136-43.rev.kobayashi.ad.jp                                                             
+   103.143.136.62  63781   1.811                       (Tokyo, Tokyo, JP, AS) koba-103-143-136-62.rev.kobayashi.ad.jp                                                             
+   103.143.136.29  63781   0.234                       (Tokyo, Tokyo, JP, AS) bgprt2-ospfrt1.kobayashi.ad.jp                                                                      
+   103.143.136.17  63781   0.375                       (Tokyo, Tokyo, JP, AS) koba-103-143-136-17.rev.kobayashi.ad.jp                                                             
+   103.41.60.164   10010   0.345                       (Tokyo, Tokyo, JP, AS) bgp3.tokyo-ix.v4.open.ad.jp                                                                         
+   150.99.184.33   2907    1.927                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+   150.99.10.187   2907    1.604                         (None, None, JP, AS) *                                                                                                   
+╭─ 203.190.230.40  *       2.484                       (Tokyo, Tokyo, JP, AS) 6939.tyo.equinix.com                                                                                
+S (, 6939)  japan-u-s-cable-network-jus ✘ || tata-tgn-pacific ✘ || pacific-crossing-1-pc-1 ✘ || faster ✘ || jupiter ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.80.61   6939    127.974              (Seattle, Washington, US, NA) 100ge0-40.core1.sea2.he.net                                                                         
+   216.218.135.206 396507  128.017                      (Seattle, WA, US, NA) emerald-onion.e0-10.switch1.sea2.he.net                                                             
+   23.129.64.254   396507  127.684              (Seattle, Washington, US, NA)                                                                                                     

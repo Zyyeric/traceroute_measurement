@@ -1,0 +1,16 @@
+   92.38.135.131   202422  0.0                         (Seoul, Seoul, KR, AS)                                                                                                     
+   92.38.135.2     202422  0.185                       (Seoul, Seoul, KR, AS) vrrp.gcore.lu                                                                                       
+   10.255.17.210   *       0.173                                          ***                                                                                                     
+   10.255.17.213   *       0.234                                          ***                                                                                                     
+   10.255.17.146   *       0.253                                          ***                                                                                                     
+╭─ 8.244.72.213    3356    0.239 (0.788)                  (Seoul, Seoul, KR, AS)                                                                                                     
+S (3356)  apcn-2 ✓ || asia-pacific-gateway-apg ✓ || flag-north-asia-loopreach-north-asia-loop ✓ || eac-c2c © || new-cross-pacific-ncp-cable-system ✓ || korea-japan-cable-network-kjcn ✓ || seamewe-3 ✓ || flag-europe-asia-fea © || trans-pacific-express-tpe-cable-system ✓
+├─ 4.69.217.14     3356    31.248                         (Tokyo, 13, JP, AS) ae1.3505.edge2.Tokyo4.level3.net                                                                    
+S (3356, 6453)  
+╰─ 209.58.55.34    6453    31.207                        (None, None, US, NA) *                                                                                                   
+╭─ 209.58.55.33    6453    97.67                         (None, None, US, NA) *                                                                                                   
+S (6453)  
+╰─ 120.29.217.13   6453    97.105                   (Singapore, None, SG, AS) if-ae-36-2.tcore1.svw-singapore.as6453.net                                                          
+   180.87.164.16   6453    97.432              (Singapore, Singapore, SG, AS) if-ae-24-2.thar1.40b-singapore.as6453.net                                                           
+   180.87.164.62   14907   85.69                         (None, None, SG, AS) *                                                                                                   
+   103.102.166.20  14907   85.61               (Singapore, Singapore, SG, AS) ripe-atlas-eqsin.wikimedia.org                                                                      

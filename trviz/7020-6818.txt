@@ -1,0 +1,16 @@
+   63.222.40.114   3491    0.0                       (Taipei, Taiwan, TW, AS) ncic.te0-1-0-23.br01.tap04.as3491.net                                                               
+╭─ 63.222.40.113   3491    1.073                      (Neihu, Taiwan, TW, AS) te0-1-0-23.br01.tap04.as3491.net                                                                    
+S (3491)  seamewe-3 👍 || eac-c2c ✓ || apcn-2 👍 || flag-north-asia-loopreach-north-asia-loop 👍 || asia-pacific-gateway-apg ✓
+╰─ 63.218.174.122  3491    79.292              (Hong Kong, Hong Kong, HK, AS) be41.br04.hkg12.as3491.net                                                                          
+   154.54.140.65   174     79.42                    (Hong Kong, None, HK, AS) be3492.rcr51.hkg01.atlas.cogentco.com                                                               
+╭─ 154.54.88.49    174     80.328                   (Hong Kong, None, HK, AS) be2414.ccr21.hkg02.atlas.cogentco.com                                                               
+S (174)  asia-africa-europe-1-aae-1 ✓ || seamewe-3 ✓
+╰─ 154.54.6.25     174     281.294                   (Marseille, PAC, FR, EU) be2900.ccr32.mrs02.atlas.cogentco.com                                                               
+╭─ 154.54.72.225   174     280.361                       (Paris, IDF, FR, EU) be2780.ccr42.par01.atlas.cogentco.com                                                               
+T (174)  
+╰─ 154.54.58.237   174     280.556            (Frankfurt am Main, HE, DE, EU) be2800.ccr42.fra03.atlas.cogentco.com                                                               
+╭─ 154.54.75.82    174     281.529         (Frankfurt am Main, Hesse, DE, EU) be4423.rcr21.b015749-1.fra03.atlas.cogentco.com                                                     
+LHL (174, 21277)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 130.193.166.21  21277   348.754                     (Erbil, Arbīl, IQ, AS)                                                                                                     
+   130.193.166.22  21277   345.82                      (Erbil, Arbīl, IQ, AS)                                                                                                     

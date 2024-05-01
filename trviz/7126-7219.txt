@@ -1,0 +1,9 @@
+   102.219.127.20  37468   0.0                 (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 102.219.127.17  37468   0.375               (Singapore, Singapore, SG, AS)                                                                                                     
+S (37468, 45796)  asia-pacific-gateway-apg ✓ || eac-c2c ✓ || apcn-2 ✓ || seamewe-3 ✓
+├─ 27.111.228.192  45796   157.324                   (Seogwipo, None, KR, AS) 45796.sgw.equinix.com                                                                               
+S (45796)  
+╰─ 115.31.164.31   45796   157.368                       (None, None, TH, AS) *                                                                                                   
+   115.31.164.203  137566  159.428                       (None, None, TH, AS) *                                                                                                   
+   103.113.176.2   137566  159.458                       (None, None, TH, AS) *                                                                                                   
+   103.113.176.82  137566  160.973       (Ban Talat Bueng, Chon Buri, TH, AS)                                                                                                     

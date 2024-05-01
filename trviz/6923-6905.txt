@@ -1,0 +1,12 @@
+   103.253.132.25  59238   0.0                     (Bangkok, Bangkok, TH, AS) th-bkk-as59238.anchors.atlas.ripe.net                                                               
+   103.253.132.1   59238   0.305                (Khlong San, Bangkok, TH, AS) gw-cat.idc.inox.co.th                                                                               
+   172.24.132.24   *       0.208                                          ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 122.155.224.73  4651    1.304                (Khlong San, Bangkok, TH, AS)                                                                                                     
+S (4651)  asia-america-gateway-aag-cable-system ✓ || asia-africa-europe-1-aae-1 ✓ || flag-europe-asia-fea ✘
+╰─ 61.19.9.122     4651    41.913                   (Hong Kong, None, HK, AS) *                                                                                                   
+╭─ 123.255.90.198  140627  52.106                  (Hong Kong, HCW, HK, None) oneqode1-10g.hkix.net                                                                               
+S (140627)  
+├─ 103.151.64.206  140627  94.279                        (None, None, AU, OC) *                                                                                                   
+S (140627)  
+╰─ 103.151.64.31   140627  94.387                  (Hagåtña, Hagatna, GU, OC) atlas.guam.as140627.net                                                                             

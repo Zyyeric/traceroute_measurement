@@ -1,0 +1,26 @@
+   203.41.0.254    1221    0.0             (Perth, Western Australia, AU, OC) atlas-per.telstra.net                                                                               
+   203.41.0.253    1221    0.318           (Perth, Western Australia, AU, OC)                                                                                                     
+   138.217.126.78  1221    0.264           (Perth, Western Australia, AU, OC) tel4198820.lnk.telstra.net                                                                          
+   138.217.126.77  1221    1.065           (Perth, Western Australia, AU, OC) bundle-ether801-219.pie-edge903.perth.telstra.net                                                   
+   203.50.6.176    1221    0.869 (2.49)                     (Perth, WA, AU, OC) bundle-ether11.pie-core10.perth.telstra.net                                                         
+   203.50.6.234    1221    28.524                      (Adelaide, SA, AU, OC) bundle-ether3.way-core10.adelaide.telstra.net                                                       
+   203.50.6.231    1221    41.09                     (Melbourne, VIC, AU, OC) bundle-ether16.exi-core10.melbourne.telstra.net                                                     
+   203.50.13.124   1221    40.861               (Melbourne, Victoria, AU, OC) bundle-ether2.cla-core30.melbourne.telstra.net                                                      
+╭─ 203.50.13.132   1221    51.652           (Sydney, New South Wales, AU, OC) bundle-ether3.hay-core30.sydney.telstra.net                                                         
+S (1221, 4637)  seamewe-3 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 203.50.13.94    4637    189.169                       (None, None, HK, AS) *                                                                                                   
+╭─ 203.50.13.94    4637    189.169                       (None, None, HK, AS) *                                                                                                   
+S (4637)  
+╰─ 202.84.141.225  4637    224.881          (Los Angeles, California, US, NA) i-10604.1wlt-core02.telstraglobal.net                                                               
+   202.84.141.225  4637    224.881          (Los Angeles, California, US, NA) i-10604.1wlt-core02.telstraglobal.net                                                               
+╭─ 202.84.253.86   4637    224.597          (Los Angeles, California, US, NA) i-93.tlot02.bi.telstraglobal.net                                                                    
+S (4637)  
+├─ 210.57.53.99    4637    224.751             (Hong Kong, Hong Kong, HK, AS) unknown.telstraglobal.net                                                                           
+S (4637, 3257)  
+├─ 89.149.187.109  3257    326.769                      (London, ENG, GB, EU) ae15.cr11-lon1.ip4.gtt.net                                                                          
+S&T (3257, 8895)  
+├─ 154.14.64.198   8895    442.909                    (Amsterdam, NH, NL, EU) ip4.gtt.net                                                                                         
+LHL (8895, 208520)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 45.94.14.204    208520  442.716            (Riyadh, Riyadh Region, SA, AS)                                                                                                     

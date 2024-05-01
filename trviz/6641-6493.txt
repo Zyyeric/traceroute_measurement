@@ -1,0 +1,16 @@
+   206.108.17.63   852     0.0          (Vancouver, British Columbia, CA, NA) host63.17.108.206.in-addr.arpa                                                                      
+   206.108.17.62   852     0.366        (Vancouver, British Columbia, CA, NA) host62.17.108.206.in-addr.arpa                                                                      
+   154.11.2.252    852     0.396        (Vancouver, British Columbia, CA, NA) leaf1.montreal.psi.net                                                                              
+   154.11.6.235    852     0.99         (Vancouver, British Columbia, CA, NA)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 154.11.15.10    852     3.754        (Vancouver, British Columbia, CA, NA) gtd-htrv-r1.bb.telus.com                                                                            
+S&T (852, 6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.105.81.81   6939    22.413              (San Jose, California, US, NA) port-channel12.core4.sjc2.he.net                                                                    
+S (6939)  new-cross-pacific-ncp-cable-system ✓ || trans-pacific-express-tpe-cable-system ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.64.66   6939    159.732                        (Seoul, 28, KR, AS) 10ge0-2.core2.sel1.he.net                                                                           
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   45.80.212.35    199524  144.626                     (Seoul, Seoul, KR, AS) vrrp.gcore.com                                                                                      
+   92.38.135.131   202422  143.193                     (Seoul, Seoul, KR, AS)                                                                                                     

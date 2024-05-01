@@ -1,0 +1,19 @@
+   94.24.115.154   15699   0.0                 (Barcelona, Catalonia, ES, EU)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   94.24.115.146   15699   0.528     (Cerdanyola del Vallès, Catalonia, ES, EU)                                                                                                     
+   185.11.200.65   15699   0.934     (Cerdanyola del Vallès, Catalonia, ES, EU)                                                                                                     
+   149.6.130.73    174     2.806               (Barcelona, Catalonia, ES, EU) te0-4-1-1.rcr21.bcn01.atlas.cogentco.com                                                            
+   154.54.61.197   174     7.149                        (Valencia, V, ES, EU) be2421.ccr31.vlc02.atlas.cogentco.com                                                               
+╭─ 154.54.58.138   174     20.48                        (Sevilla, AN, ES, EU) be3239.rcr21.svq01.atlas.cogentco.com                                                               
+S&T (174)  
+├─ 130.117.1.22    174     26.518                        (Lisbon, 11, PT, EU) be2447.rcr21.lis01.atlas.cogentco.com                                                               
+LHL (174, 37468)  africa-coast-to-europe-ace ✓ ↠ apollo © || africa-coast-to-europe-ace ✓ ↠ flag-atlantic-1-fa-1 © || seamewe-3 ✓ ↠ apollo © || seamewe-3 ✓ ↠ flag-atlantic-1-fa-1 ©
+├─ 149.6.145.42    37468   26.181                        (None, None, US, NA) angola-cables.demarc.cogentco.com                                                                   
+LHL (37468)  apollo ✘ ↠ africa-coast-to-europe-ace ✓ || flag-atlantic-1-fa-1 ✘ ↠ africa-coast-to-europe-ace ✓
+├─ 102.130.68.68   37468   134.015          (Cape Town, Western Cape, ZA, AF)                                                                                                     
+S&T (37468)  west-africa-cable-system-wacs 👍 || sat-3wasc ✓
+╰─ 102.130.68.139  37468   168.869                       (None, None, AO, AF) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   102.130.66.11   37468   169.504                   (Luanda, Luanda, AO, AF)                                                                                                     

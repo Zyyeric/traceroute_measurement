@@ -1,0 +1,10 @@
+   192.158.252.10  1280    0.0            (Mountain View, California, US, NA) us-pao-as1280.anchors.atlas.ripe.net                                                                
+   192.158.252.3   1280    0.243              (Palo Alto, California, US, NA) r2.pao2-guests.isc.org                                                                              
+   64.62.180.45    6939    0.742              (Palo Alto, California, US, NA) e0-30.switch2.pao1.he.net                                                                           
+╭─ 184.105.81.81   6939    1.279               (San Jose, California, US, NA) port-channel12.core4.sjc2.he.net                                                                    
+S (6939, 131111)  asia-america-gateway-aag-cable-system ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 65.49.108.46    131111  174.742                     (Singapore, 4, SG, AS) moratel-international-pte-ltd.10gigabitethernet3-13.core1.sin1.he.net                               
+   103.116.125.2   23947   174.552             (Singapore, Singapore, SG, AS)                                                                                                     

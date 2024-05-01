@@ -1,0 +1,14 @@
+   192.42.97.214   8473    0.0                         (Malmö, Skåne, SE, EU) se-mma-as8473.anchors.atlas.ripe.net                                                                
+╭─ 192.42.97.213   8473    0.832                       (Malmö, Skåne, SE, EU)                                                                                                     
+S&T (8473, 6939)  globalconnect-2-gc2 ✘ || ip-only-denmark-sweden ✓ || scandinavian-ring-south ✓ || danica-north ✓ || denmark-sweden-16 ✓
+├─ 192.38.7.38     6939    2.1                     (Copenhagen, 17, DK, None) *                                                                                                   
+S (6939)  
+├─ 184.105.64.134  6939    1.493                        (Ashburn, VA, US, NA) 100ge15-1.core1.ash1.he.net                                                                         
+LHL (6939)  
+├─ 184.105.80.157  6939    11.732                    (Berlin, Berlin, DE, EU) 100ge0-65.core3.ber1.he.net                                                                         
+LHL (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.192.90  6939    27.209                       (Vilnius, VL, LT, EU) 100ge5-1.core1.vno1.he.net                                                                          
+   185.1.113.29    21412   30.903                     (Vilnius, 65, LT, None) *                                                                                                   
+   5.20.2.250      21412   31.006                       (Vilnius, VL, LT, EU) dmz-2-250.cgates.lt                                                                                 
+   5.20.2.255      21412   31.092                  (Vilnius, Vilnius, LT, EU) dmz-2-255.cgates.lt                                                                                 

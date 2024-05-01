@@ -1,0 +1,11 @@
+   103.116.125.2   23947   0.0                 (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 103.116.125.1   23947   1.276               (Singapore, Singapore, SG, AS)                                                                                                     
+S (23947, 6939)  asia-submarine-cable-express-asecahaya-malaysia ✓ || seamewe-3 ✓ || eac-c2c ✘ || apcn-2 ✓ || southeast-asia-japan-cable-sjc ✓ || asia-pacific-gateway-apg ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.105.64.254  6939    67.507                (Tokyo / Narita, 12, JP, AS) 100ge16-2.core1.tyo1.he.net                                                                         
+S (6939)  tata-tgn-pacific ✓ || faster ✓ || japan-u-s-cable-network-jus ✓ || new-cross-pacific-ncp-cable-system ✓ || jupiter ✓ || trans-pacific-express-tpe-cable-system ✓ || unityeac-pacific ✓ || pacific-crossing-1-pc-1 ✘
+╰─ 184.104.194.37  6939    174.594                     (San Jose, CA, US, NA) 100ge12-2.core1.sjc2.he.net                                                                         
+   ***             *       -inf                                           *** *                                                                                                   
+   64.62.180.46    6939    174.409             (San Jose, California, US, NA) isc-as-1280-as1280.e0-30.switch2.pao1.he.net                                                        
+   192.158.252.10  1280    174.573        (Mountain View, California, US, NA) us-pao-as1280.anchors.atlas.ripe.net                                                                

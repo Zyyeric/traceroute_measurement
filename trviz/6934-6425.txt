@@ -1,0 +1,14 @@
+   202.214.97.16   2497    0.0                      (Hatsudai, Tokyo, JP, AS)                                                                                                     
+   202.214.97.2    2497    2.5                         (Tokyo, Tokyo, JP, AS)                                                                                                     
+   210.138.93.41   2497    0.542                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+   58.138.114.237  2497    0.962                       (Tokyo, Tokyo, JP, AS) tky009ipgw01.iij.net                                                                                
+   58.138.114.213  2497    0.847                       (Tokyo, Tokyo, JP, AS) tky009bb01.iij.net                                                                                  
+   58.138.112.54   2497    1.882                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+   58.138.112.46   2497    1.829                       (Tokyo, Tokyo, JP, AS) tky009ix52.iij.net                                                                                  
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 184.104.199.10  6939    11.438                      (Tokyo, Tokyo, JP, AS) port-channel1.core3.tyo1.he.net                                                                     
+S (6939)  japan-u-s-cable-network-jus ✓ || tata-tgn-pacific ✓ || pacific-crossing-1-pc-1 ✘ || faster ✓ || jupiter ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.199.70  6939    110.971              (Seattle, Washington, US, NA) port-channel1.core1.sea2.he.net                                                                     
+   216.218.135.206 396507  121.923                      (Seattle, WA, US, NA) emerald-onion.e0-10.switch1.sea2.he.net                                                             
+   23.129.64.254   396507  122.088              (Seattle, Washington, US, NA)                                                                                                     

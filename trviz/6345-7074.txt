@@ -1,0 +1,18 @@
+   103.143.136.43  63781   0.0                         (Tokyo, Tokyo, JP, AS) koba-103-143-136-43.rev.kobayashi.ad.jp                                                             
+   103.143.136.62  63781   1.399                       (Tokyo, Tokyo, JP, AS) koba-103-143-136-62.rev.kobayashi.ad.jp                                                             
+   103.143.136.29  63781   0.387                       (Tokyo, Tokyo, JP, AS) bgprt2-ospfrt1.kobayashi.ad.jp                                                                      
+   103.143.136.17  63781   0.336                       (Tokyo, Tokyo, JP, AS) koba-103-143-136-17.rev.kobayashi.ad.jp                                                             
+   103.41.60.164   10010   0.352                       (Tokyo, Tokyo, JP, AS) bgp3.tokyo-ix.v4.open.ad.jp                                                                         
+   150.99.184.33   2907    1.562                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+   150.99.10.187   2907    1.92                          (None, None, JP, AS) *                                                                                                   
+   202.232.6.17    2497    2.214                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+   58.138.114.221  2497    3.699                       (Tokyo, Tokyo, JP, AS) tky009bb01.iij.net                                                                                  
+   58.138.112.46   2497    4.299                       (Tokyo, Tokyo, JP, AS) tky009ix52.iij.net                                                                                  
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 129.250.5.48    2914    3.069                       (Tokyo, Tokyo, JP, AS) ae-7.r33.tokyjp05.jp.bb.gin.ntt.net                                                                 
+S (2914)  japan-u-s-cable-network-jus 👍
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 129.250.5.66    2914    71.011                        (None, None, US, NA) ae-1.a02.sngpsi07.sg.bb.gin.ntt.net                                                                 
+S (2914, 14907)  
+╰─ 116.51.26.210   14907   72.313                        (None, None, SG, AS) xe-0-0-21-0.a00.sngpsi07.sg.ce.gin.ntt.net                                                          
+   103.102.166.20  14907   72.228              (Singapore, Singapore, SG, AS) ripe-atlas-eqsin.wikimedia.org                                                                      

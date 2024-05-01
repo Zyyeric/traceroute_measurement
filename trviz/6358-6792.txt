@@ -1,0 +1,29 @@
+   141.164.39.1    20473   0.0                      (Paripark, Seoul, KR, AS) 141.164.39.1.vultrusercontent.com                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   10.84.0.17      *       1.47                                           ***                                                                                                     
+   10.84.2.49      *       1.217                                          ***                                                                                                     
+╭─ 192.145.251.32  14828   2.057                       (Seoul, Seoul, KR, AS)                                                                                                     
+S (14828, 6939)  apcn-2 ✘ || eac-c2c ✘ || flag-north-asia-loopreach-north-asia-loop ✘ || asia-pacific-gateway-apg ✘ || flag-europe-asia-fea ✘ || seamewe-3 ✘
+├─ 184.105.81.69   6939    55.555              (Hong Kong, Hong Kong, HK, AS) 10ge0-131.core2.hkg1.he.net                                                                         
+S (6939)  
+├─ 184.104.199.182 6939    68.976              (Singapore, Singapore, SG, AS) port-channel3.core3.sin1.he.net                                                                     
+S (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.196.242 6939    246.306                       (Paris, IDF, FR, EU) 100ge0-72.core2.par2.he.net                                                                         
+S&T (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.64.5    6939    241.805                  (London, England, GB, EU) port-channel4.core1.lon3.he.net                                                                     
+╭─ 184.104.205.253 6939    243.162                  (London, England, GB, EU) mtn-globalconnect-solutions-ltd.port-channel7.core1.lon3.he.net                                     
+T (6939, 16637)  
+╰─ 41.181.189.65   16637   243.359                     (Pretoria, GP, ZA, AF) *                                                                                                   
+╭─ 41.181.190.151  16637   243.958                     (Pretoria, GP, ZA, AF) *                                                                                                   
+T (16637)  
+├─ 41.181.244.176  16637   243.652                  (London, England, GB, EU)                                                                                                     
+T (16637, 20294)  
+├─ 41.181.247.39   20294   393.641                       (None, None, ZA, AF) *                                                                                                   
+LHL (20294)  
+╰─ 212.88.110.34   20294   393.455          (Kampala, Central Region, UG, AF)                                                                                                     
+   129.205.30.76   37063   393.461                       (Kampala, C, UG, AF) *                                                                                                   
+   41.191.77.206   328998  392.798                       (Kampala, C, UG, AF) *                                                                                                   
+   196.49.15.189   328998  393.236          (Kampala, Central Region, UG, AF)                                                                                                     

@@ -1,0 +1,24 @@
+   10.252.4.170    *       0.0                                            ***                                                                                                     
+   10.252.4.169    *       0.185                                          ***                                                                                                     
+   10.252.4.153    *       0.198                                          ***                                                                                                     
+   10.252.0.37     *       12.498                                         ***                                                                                                     
+   195.175.203.217 9121    15.526            (Bahçelievler, Istanbul, TR, AS) 195.175.203.217.static.turktelekom.com.tr                                                           
+   81.212.199.166  9121    14.396                (Istanbul, Istanbul, TR, AS) 00-atakoy-sr14s-t2-2---00-atakoy-sr12e-t3-7.statik.turktelekom.com.tr                               
+   212.156.252.237 9121    17.594                       (Aksaray, 68, TR, AS) 00-gayrettepe-xrs-t2-2---00-atakoy-xrs-t2-2.statik.turktelekom.com.tr                               
+   81.212.213.76   9121    15.053                (Istanbul, Istanbul, TR, AS) 81.212.213.76.static.turktelekom.com.tr                                                             
+   81.212.209.102  9121    14.852                        (None, None, TR, AS) 10-balya-sr12-t4-1---10-balikesir-sr12e-t3-3.statik.turktelekom.com.tr                              
+╭─ 212.156.139.62  42926   30.778                      (Istanbul, 34, TR, AS) 308-buk-col-2---00-ebgp-gayrettepe-k.statik.turktelekom.com.tr                                      
+S (42926, 2914)  seamewe-3 ✓
+├─ 83.217.231.61   2914    137.98                        (None, None, GB, EU) *                                                                                                   
+S (2914)  
+╰─ 129.250.3.137   2914    143.201                       (None, None, US, NA) ae-9.r00.buchro01.ro.bb.gin.ntt.net                                                                 
+   129.250.3.194   2914    140.294                       (None, None, US, NA) ae-6.r21.mlanit02.it.bb.gin.ntt.net                                                                 
+╭─ 129.250.3.163   2914    141.038                       (None, None, US, NA) ae-0.sayonara-dorian.a01.snjsca04.us.bb.gin.ntt.net                                                 
+LHL (2914, 6762)  
+├─ 129.250.9.42    6762    75.954                         (Milan, 25, IT, EU) ae-0.telecom-italia.mlanit02.it.bb.gin.ntt.net                                                      
+S&T (6762)  
+╰─ 213.144.178.67  6762    62.054                    (Athens, Attica, GR, EU) ae10.atene6.ate.seabone.net                                                                         
+   149.11.120.67   174     60.845               (Metamórfosi, Attica, GR, EU) fastpath2.demarc.cogentco.com                                                                       
+   185.201.254.29  56457   63.985                (Áno Liósia, Attica, GR, EU) be3501.ef1.ath01.fastpath.gr                                                                        
+   185.201.254.33  56457   64.078                (Áno Liósia, Attica, GR, EU) te1-22.sp0.ath01.fastpath.gr                                                                        
+   176.119.210.244 56457   64.085                    (Athens, Attica, GR, EU)                                                                                                     

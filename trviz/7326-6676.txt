@@ -1,0 +1,21 @@
+   203.175.175.206 24482   0.0                 (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 103.14.247.241  24482   0.51                (Singapore, Singapore, SG, AS)                                                                                                     
+S&T (24482, 6453)  
+├─ 180.87.106.10   6453    0.681                         (None, None, IN, AS) *                                                                                                   
+S&T (6453)  
+╰─ 180.87.106.9    6453    0.91                     (Singapore, None, SG, AS) ix-hge-0-0-0-20.ecore1.svw-singapore.as6453.net                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   210.57.53.84    4637    1.466               (Singapore, Singapore, SG, AS) unknown.telstraglobal.net                                                                           
+   202.84.219.174  4637    49.721              (Singapore, Singapore, SG, AS) i-92.sgcn-core01.telstraglobal.net                                                                  
+╭─ 202.84.219.174  4637    49.721              (Singapore, Singapore, SG, AS) i-92.sgcn-core01.telstraglobal.net                                                                  
+S (4637)  
+├─ 202.84.141.238  4637    48.723    (Hong Kong, Central and Western, HK, AS) i-25451.pthw-core02.telstraglobal.net                                                               
+S (4637, 1221)  
+╰─ 203.50.9.5      1221    96.492                         (Perth, WA, AU, OC) bundle-ether5.wel-core10.perth.telstra.net                                                          
+   203.50.6.232    1221    96.448                      (Adelaide, SA, AU, OC) bundle-ether3.fli-core10.adelaide.telstra.net                                                       
+   203.50.6.229    1221    95.699                    (Melbourne, VIC, AU, OC) bundle-ether16.win-core10.melbourne.telstra.net                                                     
+   203.50.13.130   1221    96.314           (Sydney, New South Wales, AU, OC) bundle-ether3.stl-core30.sydney.telstra.net                                                         
+   203.50.11.177   1221    95.9                         (Sydney, NSW, AU, OC) bundle-ether1.chw-edge903.sydney.telstra.net                                                        
+   203.48.8.166    1221    95.633           (Sydney, New South Wales, AU, OC) tel4239945.lnk.telstra.net                                                                          
+   ***             *       -inf                                           *** *                                                                                                   
+   203.41.0.43     1221    95.265           (Sydney, New South Wales, AU, OC)                                                                                                     

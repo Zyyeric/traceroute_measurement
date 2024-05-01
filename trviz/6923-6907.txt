@@ -1,0 +1,16 @@
+   103.153.176.122 131657  0.0                       (Taipei, Taiwan, TW, AS) 103-153-176-122.as131657.net                                                                        
+   103.153.176.254 131657  0.293                     (Taipei, Taiwan, TW, AS) 103-153-176-254.as131657.net                                                                        
+╭─ 103.51.91.5     *       0.5                       (Taipei, Taiwan, TW, AS) et-0-0-1.cr1.hd.tpe.as131657.net                                                                    
+S (, 6939)  faster ✘ || trans-pacific-express-tpe-cable-system ✘ || new-cross-pacific-ncp-cable-system ✘ || pacific-light-cable-network-plcn ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 72.52.92.113    6939    153.825                     (New York, NY, US, NA) 100ge11-2.core1.nyc4.he.net                                                                         
+S (6939)  
+╰─ 184.105.65.222  6939    198.961          (Sydney, New South Wales, AU, OC) 100ge0-76.core1.syd1.he.net                                                                         
+╭─ 184.104.197.182 6939    213.446                    (Brisbane, QLD, AU, OC) port-channel1.core1.bne1.he.net                                                                     
+S (6939, 140627)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 103.151.64.220  140627  209.152                 (Hagåtña, Hagatna, GU, OC) oq-guam-cor01--oq-bris-cor01-753.as140627.net                                                       
+   103.151.64.31   140627  213.34                  (Hagåtña, Hagatna, GU, OC) atlas.guam.as140627.net                                                                             

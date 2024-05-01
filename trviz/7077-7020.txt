@@ -1,0 +1,18 @@
+   130.193.166.22  21277   0.0                         (Erbil, Arbīl, IQ, AS)                                                                                                     
+╭─ 130.193.166.21  21277   0.362                       (Erbil, Arbīl, IQ, AS)                                                                                                     
+T (21277)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 5.23.0.72       21277   28.383                      (Istanbul, 34, TR, AS) ix-ae-13-0.tcore1.it5-istanbul.as6453.net                                                           
+LHL (21277, 6453)  seamewe-5 ✘ || seamewe-3 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 195.219.194.149 6453    75.231                     (Amsterdam, NH, NL, EU) if-ae-6-2.tcore1.av2-amsterdam.as6453.net                                                           
+╭─ 195.219.194.6   6453    74.35                      (Amsterdam, NH, NL, EU) if-ae-2-2.tcore2.av2-amsterdam.as6453.net                                                           
+S&T (6453)  
+├─ 80.231.131.160  6453    73.8                        (London, None, GB, EU) if-ae-14-2.tcore2.l78-london.as6453.net                                                             
+S (6453)  
+╰─ 80.231.131.66   6453    183.586                       (Mumbai, MH, IN, AS) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   115.114.12.186  4755    206.993                     (Delhi, Delhi, IN, AS) 115.114.12.186.static-delhi.vsnl.net.in                                                             
+   180.179.197.198 17439   207.155                       (None, None, IN, AS) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   216.48.178.84   132420  204.435             (Noida, Uttar Pradesh, IN, AS) e2e-95-84.ssdcloudindia.net                                                                         

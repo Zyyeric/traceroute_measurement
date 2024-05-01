@@ -1,0 +1,18 @@
+   86.38.3.141     15419   0.0                       (Kaunas, Kaunas, LT, EU) 141.3.38.86.static.telecentras.lt                                                                   
+   86.38.3.142     15419   0.32                    (Vilnius, Vilnius, LT, EU) 142.3.38.86.static.telecentras.lt                                                                   
+   10.0.0.97       *       0.334                                          ***                                                                                                     
+   10.0.0.213      *       0.445                                          ***                                                                                                     
+   10.0.0.198      *       0.449                                          ***                                                                                                     
+   213.197.128.101 15440   0.54                    (Vilnius, Vilnius, LT, EU) sql1.data.lt                                                                                        
+   213.197.128.21  15440   0.549                   (Vilnius, Vilnius, LT, EU)                                                                                                     
+╭─ 80.77.167.184   28917   0.709                   (Vilnius, Vilnius, LT, EU) vilnius-sk-b1-ae1-vlan3607.fiord.net                                                                
+LHL (28917)  nordbalt ✘ ↠ baltica ✓ || bcs-east-west-interlink ✘ ↠ baltica ✓
+├─ 62.140.239.53   28917   21.484          (Frankfurt am Main, Hesse, DE, EU) frankfurt-nt-b1-ae1-vlan3699.fiord.net                                                              
+S&T (28917, 8473)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 46.59.113.204   8473    29.159                          (Malmo, M, SE, EU) mmo-cr1.mmo-cr3.bahnhof.net                                                                         
+   46.59.112.132   8473    29.41                      (Stockholm, AB, SE, EU) mmo-cr3.sto-cr4.bahnhof.net                                                                         
+   46.59.112.140   8473    29.152                     (Stockholm, AB, SE, EU) sto-cr4.sto-cr3.bahnhof.net                                                                         
+   176.10.178.43   8473    30.323                     (Stockholm, AB, SE, EU) sto-cr3.sto-pio-dr1.bahnhof.net                                                                     
+   176.10.178.215  8473    29.117                     (Stockholm, AB, SE, EU) sto-pio-dr1.pio-dr2.bahnhof.net                                                                     
+   192.42.97.210   8473    28.975              (Stockholm, Stockholm, SE, EU) se-sto-as8473.anchors.atlas.ripe.net                                                                

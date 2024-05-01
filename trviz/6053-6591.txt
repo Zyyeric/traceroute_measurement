@@ -1,0 +1,26 @@
+   172.17.48.40    *       0.0                                            ***                                                                                                     
+   172.17.48.254   *       0.399                                          ***                                                                                                     
+   172.22.8.12     *       0.629                                          ***                                                                                                     
+   172.22.6.7      *       1.04                                           ***                                                                                                     
+   192.168.217.217 *       1.306                                          ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   10.201.176.229  *       3.927                                          ***                                                                                                     
+   10.21.212.10    *       4.427                                          ***                                                                                                     
+╭─ 85.132.90.169   29049   12.975             (Rasht, Gilan Province, IR, AS)                                                                                                     
+LHL (29049, 20764)  falcon ✘ || gulf-bridge-international-cable-system-gbicsmiddle-east-north-africa-mena-cable-system ✘ || omranepeg-cable-system ✓ || pishgaman-oman-iran-poi-network ✘
+├  10.50.10.49     *       20.085                                         ***                                                                                                     
+├─ 81.27.252.128   20764   50.151                      (Redkino, TVE, RU, EU) msk-m9-cr4.ae1-2795.rascom.as20764.net                                                              
+T (20764, 10474)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 195.66.224.149  10474   96.552                     (London, ENG, GB, None) lon-up-1.mweb.co.za                                                                                 
+T (10474)  
+╰─ 176.67.177.233  10474   269.346                       (None, None, ZA, AF) be-22-776-thd-p-1.optinet.net                                                                       
+   197.80.5.84     10474   269.446            (Johannesburg, Gauteng, ZA, AF) 197-80-5-84.jhb.mweb.co.za                                                                          
+   197.80.4.217    10474   267.077            (Johannesburg, Gauteng, ZA, AF) 197-80-4-217.jhb.mweb.co.za                                                                         
+   197.80.5.61     10474   268.047                       (None, None, ZA, AF) 197-80-5-61.jhb.mweb.co.za                                                                          
+   197.80.4.225    10474   268.82                        (None, None, ZA, AF) bu-ether2.mca-pe-1.optinet.net                                                                      
+   197.80.4.36     10474   267.123                       (None, None, ZA, AF) bu-ether3.vic-pe-1.optinet.net                                                                      
+   197.80.7.13     10474   269.217                       (None, None, ZA, AF) 101.te0-0-2-2.vic-pe-13.optinet.net                                                                 
+   197.80.104.36   10474   266.779            (Johannesburg, Gauteng, ZA, AF) 197-80-104-36.jhb.mweb.co.za                                                                        

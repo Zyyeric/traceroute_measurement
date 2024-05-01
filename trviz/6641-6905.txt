@@ -1,0 +1,15 @@
+   103.253.132.25  59238   0.0                     (Bangkok, Bangkok, TH, AS) th-bkk-as59238.anchors.atlas.ripe.net                                                               
+   103.253.132.1   59238   0.802                (Khlong San, Bangkok, TH, AS) gw-cat.idc.inox.co.th                                                                               
+   172.24.132.24   *       0.225                                          ***                                                                                                     
+   172.21.21.2     *       0.363                                          ***                                                                                                     
+╭─ 122.155.224.73  4651    1.156                (Khlong San, Bangkok, TH, AS)                                                                                                     
+S&T (4651)  asia-america-gateway-aag-cable-system ✓ || seamewe-4 ✓ || seamewe-3 ✓
+╰─ 61.19.9.90      4651    28.721                   (Singapore, None, SG, AS) *                                                                                                   
+╭─ 4.68.111.197    3356    37.47               (Singapore, Singapore, SG, AS)                                                                                                     
+S (3356)  
+├─ 4.69.134.42     3356    165.55                        (None, None, US, NA) *                                                                                                   
+S (3356, 199524)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 45.80.212.35    199524  123.114                     (Seoul, Seoul, KR, AS) vrrp.gcore.com                                                                                      
+   92.38.135.131   202422  120.694                     (Seoul, Seoul, KR, AS)                                                                                                     

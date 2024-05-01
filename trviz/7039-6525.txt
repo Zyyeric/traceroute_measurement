@@ -1,0 +1,13 @@
+   171.67.70.16    32      0.0                 (Stanford, California, US, NA) us-pao-as32.anchors.atlas.ripe.net                                                                  
+   171.67.70.1     32      0.65                (Stanford, California, US, NA) sw-tor-01.esrg.stanford.edu                                                                         
+   10.214.4.252    *       0.986                                          ***                                                                                                     
+   171.66.0.209    32      1.371               (Stanford, California, US, NA)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 184.105.81.81   6939    2.465               (San Jose, California, US, NA) port-channel12.core4.sjc2.he.net                                                                    
+S (6939, )  faster ✓ || japan-u-s-cable-network-jus ✓ || pacific-crossing-1-pc-1 ✘ || jupiter ✓ || tata-tgn-pacific ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 203.190.230.209 *       109.321                     (Tokyo, Tokyo, JP, AS)                                                                                                     
+   84.17.33.105    57695   109.395               (Tokyo / Narita, 12, JP, AS) v3517.cr01.nrt04.jp.misaka.io                                                                       
+   199.119.64.143  969     109.555                     (Tokyo, Tokyo, JP, AS) e32-20.spine2.nrt04.jp.misaka.io                                                                    
+   103.170.232.11  142616  109.423                     (Tokyo, Tokyo, JP, AS) po-31.lag.nrt04.jp.misaka.io                                                                        
+   103.170.232.152 142616  109.365                     (Tokyo, Tokyo, JP, AS) user-103-170-232-152.nrt04.jp.misaka.io                                                             

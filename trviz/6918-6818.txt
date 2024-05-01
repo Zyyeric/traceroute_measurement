@@ -1,0 +1,14 @@
+   63.222.40.114   3491    0.0                       (Taipei, Taiwan, TW, AS) ncic.te0-1-0-23.br01.tap04.as3491.net                                                               
+╭─ 63.222.40.113   3491    1.023                      (Neihu, Taiwan, TW, AS) te0-1-0-23.br01.tap04.as3491.net                                                                    
+S (3491)  seamewe-3 👍 || eac-c2c ✓ || apcn-2 👍 || flag-north-asia-loopreach-north-asia-loop 👍 || asia-pacific-gateway-apg ✓
+╰─ 63.223.17.110   3491    80.281                   (Hong Kong, None, HK, AS) HundredGE0-0-0-31.clbr02.hkg04.pccwbtn.net                                                          
+   63.216.84.226   3491    80.248              (Hong Kong, Hong Kong, HK, AS) 63-216-84-226.static.pccwglobal.net                                                                 
+╭─ 23.56.143.42    20940   79.975                   (Hong Kong, None, HK, AS) ae1.r01.hkg03.icn.netarch.akamai.com                                                                
+S (20940)  apcn-2 ✓ || southeast-asia-japan-cable-sjc ✓ || eac-c2c ✓ || asia-pacific-gateway-apg ✓ || asia-america-gateway-aag-cable-system ✓
+╰─ 23.215.54.49    20940   111.556             (Singapore, Singapore, SG, AS) ae11.r01.sin01.icn.netarch.akamai.com                                                               
+   23.56.138.35    20940   112.317                     (Singapore, 4, SG, AS) ae6.r01.sin01.ien.netarch.akamai.com                                                                
+   23.56.138.53    20940   110.978             (Singapore, Singapore, SG, AS) a23-56-138-53.deploy.static.akamaitechnologies.com                                                  
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   139.162.3.33    63949   111.852             (Singapore, Singapore, SG, AS) li845-33.members.linode.com                                                                         

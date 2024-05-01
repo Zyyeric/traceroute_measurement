@@ -1,0 +1,22 @@
+   163.117.253.5   766     0.0                       (Madrid, Madrid, ES, EU)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   172.17.0.53     *       1.032                                          ***                                                                                                     
+   193.145.15.49   766     1.578                    (Leganés, Madrid, ES, EU) csic-rt-ju-02-xe-4-0-6.net.redimadrid.es                                                            
+   130.206.216.1   766     1.946                     (Madrid, Madrid, ES, EU) redimadrid-backup.ethtrunk8-103.telmad.rt1.mad.red.rediris.es                                       
+   130.206.245.26  766     2.183                         (None, None, ES, EU) telmad.rt1.ethtrunk13.ciemat.rt2.mad.red.rediris.es                                                 
+╭─ 193.149.1.141   201011  2.602                       (Madrid, 29, ES, None) core-backbone.baja.espanix.net                                                                      
+T (201011, 47815)  
+├─ 80.255.14.46    47815   25.619                        (Berlin, BE, DE, EU) core-backbone.server-ware.com                                                                       
+T (47815, 60068)  
+╰─ 169.150.195.74  60068   25.644                   (London, England, GB, EU) coreb-lon.cdn77.com                                                                                 
+   156.146.32.107  58313   26.108                       (London, ENG, GB, EU) v3518.cr02.lon07.gb.misaka.io                                                                       
+   45.142.244.4    211398  26.968                       (London, ENG, GB, EU) po-04.lag.lon07.gb.misaka.io                                                                        
+╭─ 45.142.244.244  58313   27.568                   (London, England, GB, EU) user-45-142-244-244.lon07.gb.misaka.io                                                              
+S&T (58313, 20473)  
+├─ 217.69.15.96    20473   25.656              (Paris, Île-de-France, FR, EU) router01-vul-par.as151332.net                                                                       
+S (20473)  
+├─ 45.77.39.153    20473   205.32              (Singapore, Singapore, SG, AS) router01-vul-sin.as151332.net                                                                       
+S (20473, 7545)  
+╰─ 203.192.83.254  7545    351.512              (Melbourne, Victoria, AU, OC) ip-254-83-192-203.static.pipenetworks.com                                                           
+   103.179.37.157  151332  355.232              (Melbourne, Victoria, AU, OC)                                                                                                     

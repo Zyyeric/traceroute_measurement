@@ -1,0 +1,13 @@
+   185.34.2.114    36236   0.0                         (Dubai, Dubai, AE, AS)                                                                                                     
+   185.34.2.113    36236   0.996                       (Dubai, Dubai, AE, AS)                                                                                                     
+╭─ 185.34.2.12     36236   0.291                       (Dubai, Dubai, AE, AS)                                                                                                     
+S (36236, 6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.189.45  6939    99.488    (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) ve1002.core3.mrs1.he.net                                                                            
+╭─ 184.104.193.101 6939    102.757   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) port-channel10.core4.mrs1.he.net                                                                    
+S&T (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.188.210 6939    233.414          (Cape Town, Western Cape, ZA, AF) 100ge0-33.core1.cpt1.he.net                                                                         
+   196.10.140.20   37153   232.962                  (Cape Town, 11, ZA, None) *                                                                                                   
+   196.40.102.70   37153   245.93                        (None, None, ZA, AF) core-access-switch1-vlan1001.cpt.host-h.net                                                         
+   196.40.111.147  37153   233.253          (Cape Town, Western Cape, ZA, AF) atlas-anchor-cpt3.cpt.net.host-h.net                                                                

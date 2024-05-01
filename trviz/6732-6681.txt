@@ -1,0 +1,20 @@
+   103.77.105.3    133800  0.0                     (Jakarta, Jakarta, ID, AS) ip-3-105-77-103.jkt-1.biznetg.io                                                                    
+   ***             *       -inf                                           *** *                                                                                                   
+   137.59.127.33   *       0.427                   (Jakarta, Jakarta, ID, AS) xe-0-2.cr01.jkt.biznetg.io                                                                          
+   202.169.59.21   17451   2.558                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+╭─ 182.253.255.18  17451   2.116                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+S&T (17451)  matrix-cable-system ✘ || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || indonesia-global-gateway-igg-system ✓ || indigo-west ✓ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || jasuka ✓
+╰─ 182.253.255.45  17451   13.207              (Singapore, Singapore, SG, AS) gs2-5.biznetnetworks.com                                                                            
+   184.104.199.150 6939    13.601              (Singapore, Singapore, SG, AS) port-channel1.core1.sin2.he.net                                                                     
+╭─ 103.16.102.81   6939    15.156                    (Singapore, 1, SG, None) hurricane-electric.sgix.sg                                                                          
+S (6939, )  seamewe-3 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 193.242.98.19   *       173.764             (Barcelona, Catalonia, ES, EU) rediris.01.catnix.net                                                                               
+   130.206.245.94  766     181.615                       (None, None, ES, EU) unizar.rt2.ae6-323.telmad.rt4.mad.red.rediris.es                                                    
+   130.206.245.49  766     184.739                       (None, None, ES, EU) TELMAD.RT3.ETHTRUNK3.telmad.rt1.mad.red.rediris.es                                                  
+   130.206.216.2   766     186.197                       (None, None, ES, EU) redimadrid-backup-router.red.rediris.es                                                             
+   193.145.15.50   766     186.42                        (None, None, ES, EU) uc3m-rt-ju-01-xe-0-1-0.net.redimadrid.es                                                            
+   ***             *       -inf                                           *** *                                                                                                   
+   163.117.49.4    766     185.542                       (Madrid, MD, ES, EU) b01014zr.uc3m.es                                                                                    
+   163.117.253.5   766     187.042                   (Madrid, Madrid, ES, EU)                                                                                                     

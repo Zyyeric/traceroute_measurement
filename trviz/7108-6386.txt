@@ -1,0 +1,17 @@
+   202.142.143.178 4764    0.0                  (Melbourne, Victoria, AU, OC) be3.bng1.vdc03.mel.aussiebb.net                                                                     
+╭─ 202.142.143.177 4764    1.124                (Melbourne, Victoria, AU, OC) gi0-0-0-8.acc3.530col.vic.aussiebb.net                                                              
+S (4764)  seamewe-3 ✓ || indigo-west ✓ || australia-singapore-cable-asc ✓
+├  10.241.6.22     *       1.677                                          ***                                                                                                     
+├  10.241.4.228    *       3.298                                          ***                                                                                                     
+├  10.241.4.151    *       1.214                                          ***                                                                                                     
+├─ 180.150.2.85    4764    89.198              (Singapore, Singapore, SG, AS) be3.core1.equinix-sg1.sin.aussiebb.net                                                              
+S (4764, 7713)  
+├─ 27.111.228.77   7713    89.793                    (Seogwipo, None, KR, AS) 7713.sgw.equinix.com                                                                                
+S (7713)  
+╰─ 180.240.204.9   7713    90.618              (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 180.240.204.9   7713    90.618              (Singapore, Singapore, SG, AS)                                                                                                     
+S&T (7713)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 36.93.255.177   7713    109.064                      (Batam, Riau, ID, AS)                                                                                                     
+   36.93.255.178   58475   108.056                       (None, None, ID, AS) *                                                                                                   
+   103.23.232.7    58475   108.268    (Banjarmasin, South Kalimantan, ID, AS)                                                                                                     

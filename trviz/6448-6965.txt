@@ -1,0 +1,14 @@
+   193.1.201.140   1213    0.0                   (Tallaght, Leinster, IE, EU) atlas-anchor.heanet.ie                                                                              
+   193.1.201.138   1213    0.262                   (Dublin, Leinster, IE, EU) pw-spine1-vlan11.services.hea.net                                                                   
+   87.44.56.177    1213    0.313                        (Dublin, L, IE, None) ae3.core1-pw.nn.hea.net                                                                             
+╭─ 212.222.58.253  3257    0.317              (Palmerstown, Leinster, IE, EU) ae1-100.cr0-dub4.ip4.gtt.net                                                                        
+S&T (3257)  geo-eirgrid ✘ || rockabill © || esat-2 ✘ || sirius-south ✘ || exa-north-and-south ✘ || havhingstenceltixconnect-2-cc-2 © || exa-express ✘ || pan-european-crossing-uk-ireland ✓ || esat-1 ✘ || solas ✓
+├─ 89.149.137.209  3257    9.762                        (London, ENG, GB, EU) ae35.cr1-lon1.ip4.gtt.net                                                                           
+S&T (3257, 3292)  
+╰─ 195.215.109.17  3292    9.612                     (Copenhagen, 84, DK, EU) xe-10-2-0-0.ldn4nqp1.uk.ip.tdc.net                                                                  
+   83.88.3.254     3292    30.466                        (None, None, DK, EU) ae2-0.sdnqe11.dk.ip.tdc.net                                                                         
+   93.167.247.106  3292    30.619         (Stilling, Central Jutland, DK, EU) cpe.et-3-3-0-100.sdnqe11.dk.customer.tdc.net                                                        
+   80.70.0.252     48854   30.759         (Stilling, Central Jutland, DK, EU)                                                                                                     
+   80.70.0.255     48854   30.107        (Tranbjerg, Central Jutland, DK, EU)                                                                                                     
+   212.237.248.21  48854   30.959                   (Skanderborg, 82, DK, EU) *                                                                                                   
+   185.221.36.2    48854   30.608        (Tranbjerg, Central Jutland, DK, EU) dk-skg-as48854.anchors.atlas.ripe.net                                                               

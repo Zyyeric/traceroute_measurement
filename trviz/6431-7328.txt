@@ -1,0 +1,18 @@
+   102.212.60.247  329276  0.0              (Cape Town, Western Cape, ZA, AF) za-cpt-as329276.anchors.atlas.ripe.net                                                              
+   102.212.60.2    329276  0.172             (Rosebank, Western Cape, ZA, AF) net.lnx-solutions.com                                                                               
+   196.250.236.121 37662   0.288             (Rosebank, Western Cape, ZA, AF)                                                                                                     
+╭─ 154.66.247.234  37662   0.759                      (Trichardt, MP, ZA, AF) *                                                                                                   
+S&T (37662)  eastern-africa-submarine-system-eassy 👍 || seacomtata-tgn-eurasia ✓
+├─ 154.66.247.99   37662   113.23                        (None, None, KE, AF) *                                                                                                   
+LHL (37662, 6939)  peace-cable ✘ ↠ flag-europe-asia-fea ✘ || peace-cable ✘ ↠ seamewe-3 ✓ || seacomtata-tgn-eurasia ✓ ↠ flag-europe-asia-fea ✘ || seacomtata-tgn-eurasia ✓ ↠ seamewe-3 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.193.149 6939    119.812                        (Madrid, M, ES, EU) ve960.core1.mad1.he.net                                                                             
+S (6939, 3356)  
+├─ 4.68.63.81      3356    119.819                         (None, CO, US, NA) *                                                                                                   
+S (3356, 50999)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 213.19.197.50   50999   211.911                      (Woking, ENG, GB, EU) *                                                                                                   
+S&T (50999)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 109.171.136.4   50999   212.018             (Jeddah, Mecca Region, SA, AS)                                                                                                     

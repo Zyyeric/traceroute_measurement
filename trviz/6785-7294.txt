@@ -1,0 +1,29 @@
+   10.252.4.170    *       0.0                                            ***                                                                                                     
+   10.252.4.169    *       0.118                                          ***                                                                                                     
+   10.252.4.153    *       0.147                                          ***                                                                                                     
+   10.252.0.37     *       14.236                                         ***                                                                                                     
+╭─ 184.104.196.46  6939    52.415                      (Istanbul, 34, TR, AS) 100ge0-36.core1.ist1.he.net                                                                         
+S&T (6939)  
+├─ 184.105.65.49   6939    49.534                         (Sofia, 23, BG, EU) 100ge14-1.core1.sof1.he.net                                                                         
+S&T (6939, 1299)  
+╰─ 62.115.38.114   1299    48.517              (Bucharest, București, RO, EU) hurricane-ic-375277.ip.twelve99-cust.net                                                            
+╭─ 62.115.38.113   1299    52.055              (Bucharest, București, RO, EU) buca-b3-link.ip.twelve99.net                                                                        
+T (1299)  
+├─ 62.115.114.110  1299    48.221                    (Vienna, Vienna, AT, EU) win-bb1-link.ip.twelve99.net                                                                        
+T (1299)  
+├─ 62.115.137.202  1299    59.178          (Frankfurt am Main, Hesse, DE, EU) ffm-bb1-link.ip.twelve99.net                                                                        
+T (1299)  
+╰─ 62.115.120.240  1299    67.97           (Amsterdam, North Holland, NL, EU) adm-bb1-link.ip.twelve99.net                                                                        
+   62.115.120.227  1299    68.838          (Amsterdam, North Holland, NL, EU) adm-b10-link.ip.twelve99.net                                                                        
+   62.115.44.49    1299    65.964          (Amsterdam, North Holland, NL, EU) tata-ic-380281.ip.twelve99-cust.net                                                                 
+╭─ 195.219.194.26  6453    216.828                    (Amsterdam, NH, NL, EU) if-ae-41-2.tcore1.av2-amsterdam.as6453.net                                                          
+T (6453)  
+├─ 195.219.194.78  6453    215.056            (Frankfurt am Main, HE, DE, EU) if-ae-6-3.tcore1.fnm-frankfurt.as6453.net                                                           
+T (6453)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 80.231.165.24   6453    212.734   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) if-bundle-2-2.qcore1.emrs2-marseille.as6453.net                                                     
+S (6453, 58717)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 103.15.246.16   58717   224.116                     (Dhaka, Dhaka, BD, AS)                                                                                                     

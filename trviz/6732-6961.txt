@@ -1,0 +1,25 @@
+   5.158.64.189    199181  0.0                (Battipaglia, Campania, IT, EU)                                                                                                     
+   5.158.64.129    199181  0.617            (Torre dei Rai, Campania, IT, EU)                                                                                                     
+   5.158.64.237    199181  0.66             (Torre dei Rai, Campania, IT, EU)                                                                                                     
+   77.39.128.5     199181  0.66             (Torre dei Rai, Campania, IT, EU)                                                                                                     
+   89.221.32.36    6762    12.075                       (Rome, Lazio, IT, EU) et0-0-32-0.roma54.rom.seabone.net                                                                   
+   195.22.213.218  6762    33.161                         (Milan, 25, IT, EU) vlan.milano50.mil.seabone.net                                                                       
+╭─ 195.22.213.218  6762    33.161                         (Milan, 25, IT, EU) vlan.milano50.mil.seabone.net                                                                       
+LHL (6762, 2603)  seamewe-4 👍 || asia-africa-europe-1-aae-1 ✓ || seamewe-5 👍 || imewe 👍 || seamewe-3 👍
+├─ 80.249.209.203  2603    33.965                     (Amsterdam, NH, NL, EU) nl-ams.nordu.net                                                                                    
+S&T (2603)  circe-north ✓ || ulysses-2 ✘ || scylla ✓ || zeus ✓ || concerto ✘ || farland-north ✘
+╰─ 109.105.102.97  2603    40.102                      (Hexton, None, GB, EU) uk-hex.nordu.net                                                                                    
+╭─ 109.105.102.98  2603    40.953                       (London, ENG, GB, EU) ndn-gw.mx1.lon.uk.geant.net                                                                         
+S&T (2603, 20965)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 62.40.98.222    20965   58.603                      (Bilbao, None, ES, EU) ae4.rt1.bil.es.geant.net                                                                            
+S&T (20965, 21320)  
+├─ 83.97.90.19     21320   48.826                   (London, England, GB, EU) rediris-ias-geant.bil.es.geant.net                                                                  
+S&T (21320, 766)  
+╰─ 130.206.245.17  766     49.889                        (None, None, ES, EU) EHU.RT2.ETHTRUNK2.telmad.rt1.mad.red.rediris.es                                                     
+   130.206.216.2   766     50.141                        (None, None, ES, EU) redimadrid-backup-router.red.rediris.es                                                             
+   193.145.15.50   766     50.466                        (None, None, ES, EU) uc3m-rt-ju-01-xe-0-1-0.net.redimadrid.es                                                            
+   ***             *       -inf                                           *** *                                                                                                   
+   163.117.49.4    766     51.17                         (Madrid, MD, ES, EU) b01014zr.uc3m.es                                                                                    
+   163.117.253.5   766     51.212                    (Madrid, Madrid, ES, EU)                                                                                                     

@@ -1,0 +1,17 @@
+   196.49.15.189   328998  0.0              (Kampala, Central Region, UG, AF)                                                                                                     
+   196.49.15.253   328998  0.612            (Kampala, Central Region, UG, AF)                                                                                                     
+   41.191.77.205   37063   1.028            (Kampala, Central Region, UG, AF)                                                                                                     
+   129.205.30.77   37063   1.42                          (Kampala, C, UG, AF) *                                                                                                   
+╭─ 129.205.30.230  37063   9.012            (Kampala, Central Region, UG, AF)                                                                                                     
+T (37063, 6939)  
+├─ 196.223.21.74   6939    160.716                     (Nairobi, 5, KE, None) *                                                                                                   
+S&T (6939)  
+├─ 184.104.189.42  6939    161.651               (Djibouti, Djibouti, DJ, AF) ve1004.core2.jib1.he.net                                                                            
+S (6939)  
+├─ 184.104.193.102 6939    161.52    (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) port-channel1.core3.mrs1.he.net                                                                     
+S&T (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.193.154 6939    166.056                    (Brussels, BRU, BE, EU) 100ge0-35.core2.bru1.he.net                                                                         
+   184.104.206.254 212882  164.753                    (Brussels, BRU, BE, EU) dnx-network-sarl.10gigabitethernet11-4.core1.bru1.he.net                                            
+   91.237.218.10   212882  165.743               (Zaventem, Flanders, BE, EU) atlas.dnx.lu                                                                                        

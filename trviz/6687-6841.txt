@@ -1,0 +1,34 @@
+   195.130.66.103  199399  0.0                       (Athens, Attica, GR, EU) gr-ath-as199399.anchors.atlas.ripe.net                                                              
+   195.130.66.102  199399  1.359                    (Výronas, Attica, GR, EU) gw-ripe-anchor.gr-ix.gr                                                                             
+   62.217.98.52    5408    0.626                    (Výronas, Attica, GR, EU) grix-admin-gw.eier.access-link.grnet.gr                                                             
+   83.97.88.69     21320   0.636                    (Výronas, Attica, GR, EU) grnet-ias-geant-gw.mx2.ath.gr.geant.net                                                             
+╭─ 62.40.98.141    20965   47.556                        (Athens, A1, GR, EU) ae0.mx1.ath2.gr.geant.net                                                                           
+T (20965)  
+├─ 62.40.98.147    20965   47.329                    (Vienna, Vienna, AT, EU) ae0.mx1.vie.at.geant.net                                                                            
+T (20965)  
+├─ 62.40.98.242    20965   46.851                    (Prague, Prague, CZ, EU) ae5.rt1.pra.cz.geant.net                                                                            
+T (20965)  
+├─ 62.40.98.158    20965   47.776          (Frankfurt am Main, Hesse, DE, EU) ae6.rt1.fra.de.geant.net                                                                            
+T (20965)  
+╰─ 62.40.98.20     20965   43.738          (Amsterdam, North Holland, NL, EU) ae8.rt1.ams.nl.geant.net                                                                            
+╭─ 83.97.89.33     2603    46.935                     (Amsterdam, NH, NL, EU) nordunet-ias-nordunet-gw.ams.nl.geant.net                                                           
+S&T (2603)  
+╰─ 109.105.97.74   2603    52.348                        (None, None, DK, EU) dk-esbj.nordu.net                                                                                   
+╭─ 109.105.97.2    2603    57.671                    (Ballerup, None, DK, EU) dk-bal2.nordu.net                                                                                   
+S&T (2603)  
+╰─ 109.105.101.56  2603    68.769              (Stockholm, Stockholm, SE, EU) se-tug.nordu.net                                                                                    
+╭─ 109.105.101.53  2603    66.154              (Stockholm, Stockholm, SE, EU) se-bma.nordu.net                                                                                    
+S&T (2603, 1273)  
+├─ 109.105.98.3    1273    67.685                        (None, None, DK, EU) ndn-gw1.vodafone.com                                                                                
+S (1273)  
+╰─ 195.2.16.213    1273    89.972                        (None, None, GB, EU) ae1-xcr2.six.cw.net                                                                                 
+   195.2.18.86     1273    89.935                        (None, None, GB, EU) xe-0-0-0-16-vpr1.sye.cwasia.net                                                                     
+╭─ 195.2.27.222    1273    89.836                        (None, None, GB, EU) ae12-xcr1.mlb.cw.net                                                                                
+S&T (1273)  
+├─ 195.2.31.118    1273    74.876                    (Genoa, Liguria, IT, EU) ae23-xcr1.mrx.cw.net                                                                                
+S&T (1273)  
+├─ 195.2.27.157    1273    97.527                        (None, None, GB, EU) ae6-xcr1.bsb.cw.net                                                                                 
+S&T (1273, 12430)  
+╰─ 195.89.97.98    12430   89.506                        (None, None, ES, EU) vfspain-barcelona-gw.bsb.cw.net                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   147.84.200.125  39069   103.118                   (Murcia, Murcia, ES, EU)                                                                                                     

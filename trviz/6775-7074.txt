@@ -1,0 +1,17 @@
+   103.143.136.43  63781   0.0                         (Tokyo, Tokyo, JP, AS) koba-103-143-136-43.rev.kobayashi.ad.jp                                                             
+   103.143.136.62  63781   1.024                       (Tokyo, Tokyo, JP, AS) koba-103-143-136-62.rev.kobayashi.ad.jp                                                             
+   103.143.136.29  63781   0.289                       (Tokyo, Tokyo, JP, AS) bgprt2-ospfrt1.kobayashi.ad.jp                                                                      
+   103.143.136.17  63781   0.386                       (Tokyo, Tokyo, JP, AS) koba-103-143-136-17.rev.kobayashi.ad.jp                                                             
+   103.41.60.164   10010   0.368                       (Tokyo, Tokyo, JP, AS) bgp3.tokyo-ix.v4.open.ad.jp                                                                         
+   150.99.184.33   2907    1.555                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+   150.99.10.187   2907    1.84                          (None, None, JP, AS) *                                                                                                   
+╭─ 203.190.230.40  *       1.469 (2.993)                  (Tokyo, Tokyo, JP, AS) 6939.tyo.equinix.com                                                                                
+S (, 6939)  japan-u-s-cable-network-jus ✘ || tata-tgn-pacific ✘ || pacific-crossing-1-pc-1 ✘ || faster ✘ || jupiter ✘
+╰─ 184.104.194.37  6939    109.625                     (San Jose, CA, US, NA) 100ge12-2.core1.sjc2.he.net                                                                         
+   184.105.81.82   6939    109.63              (San Jose, California, US, NA) port-channel10.core2.pao1.he.net                                                                    
+   184.104.193.26  6939    126.611                     (Portland, OR, US, NA) 100ge14-1.core1.pdx1.he.net                                                                         
+╭─ 184.104.199.69  6939    128.207              (Seattle, Washington, US, NA) port-channel15.core2.sea1.he.net                                                                    
+S&T (6939)  
+╰─ 184.104.196.222 6939    131.575                    (Vancouver, BC, CA, NA) port-channel2.core2.yvr1.he.net                                                                     
+   65.19.133.197   6939    131.181      (Vancouver, British Columbia, CA, NA)                                                                                                     
+   192.30.89.87    394256  131.114      (Vancouver, British Columbia, CA, NA) ca-van-as394256.anchors.atlas.ripe.net                                                              

@@ -1,0 +1,14 @@
+   212.7.0.250     8728    0.0                    (Tallinn, Harjumaa, EE, EU) ee-tll-as8728.anchors.atlas.ripe.net                                                                
+   212.7.0.254     8728    0.265                  (Tallinn, Harjumaa, EE, EU)                                                                                                     
+   212.7.30.40     8728    0.563                  (Tallinn, Harjumaa, EE, EU) c-30-40.infonet.ee                                                                                  
+╭─ 212.7.29.133    8728    0.82                        (Tallinn, 1, EE, None) *                                                                                                   
+S&T (8728, 24940)  sweden-estonia-ee-s-1 ✘ || baltic-sea-submarine-cable ✘
+╰─ 194.68.123.71   24940   6.817                    (Stockholm, 26, SE, None) netnod-ix-ge-a-sth-1500.hetzner.de                                                                  
+╭─ 213.239.252.65  24940   6.982               (Stockholm, Stockholm, SE, EU) core52.sto.hetzner.com                                                                              
+S&T (24940)  eastern-light ✘ || bcs-north---phase-1 ✓ || sweden-finland-4-sfs-4 ✓ || baltic-sea-submarine-cable ✘ || botnia ✓
+╰─ 213.239.254.65  24940   13.032                 (Helsinki, Uusimaa, FI, EU) core32.hel1.hetzner.com                                                                             
+   213.239.228.14  24940   13.124                 (Helsinki, Uusimaa, FI, EU) spine16.cloud1.hel1.hetzner.com                                                                     
+   213.239.228.46  24940   13.695                 (Helsinki, Uusimaa, FI, EU) spine1.cloud1.hel1.hetzner.com                                                                      
+   ***             *       -inf                                           *** *                                                                                                   
+   95.216.132.233  24940   13.144                      (Helsinki, 18, FI, EU) 15272.your-cloud.host                                                                               
+   95.217.19.69    24940   13.413                 (Helsinki, Uusimaa, FI, EU) fi-tuu-as24940-client.anchors.atlas.ripe.net                                                        

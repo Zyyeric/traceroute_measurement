@@ -1,0 +1,21 @@
+   77.223.128.226  43391   0.0                (İzmir, İzmir Province, TR, AS)                                                                                                     
+   10.200.0.1      *       0.355                                          ***                                                                                                     
+   10.20.0.250     *       0.967                                          ***                                                                                                     
+   10.34.35.10     *       14.786                                         ***                                                                                                     
+╭─ 185.1.48.16     *       15.832                (Ataşehir, Istanbul, TR, AS) ipv4.decix-istanbul.he.net                                                                          
+S&T (, 6939)  kafos ✘
+├─ 184.104.196.45  6939    24.209              (Sofia, Sofia-Capital, BG, EU) 100ge0-70.core3.sof1.he.net                                                                         
+LHL (6939)  seamewe-4 ✓ || asia-africa-europe-1-aae-1 ✓ || seamewe-5 ✓ || imewe ✓ || seamewe-3 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.105.80.14   6939    71.23                     (Marseille, PAC, FR, EU) 100ge14-1.core1.mrs1.he.net                                                                         
+S (6939, 132602)  seamewe-5 ✓ || seamewe-4 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.209.214 132602  226.875                       (None, None, BD, AS) bangladesh-submarine-cable-company-limited.e0-2.switch1.sin1.he.net                                 
+S (132602)  
+├─ 103.16.152.73   132602  228.354                     (Singapore, 4, SG, AS) 103-16-152-73-noc.bsccl.com                                                                         
+S (132602)  
+├─ 103.16.152.81   132602  233.69                        (None, None, BD, AS) 103-16-152-81-noc.bsccl.com                                                                         
+S (132602, 9829)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 117.250.113.140 9829    253.603                  (Guwahati, Assam, IN, AS) static.ill.117.250.113.140.bsnl.co.in                                                               

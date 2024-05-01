@@ -1,0 +1,8 @@
+   203.175.175.206 24482   0.0                 (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 203.175.175.252 24482   0.423                         (None, None, SG, AS) edge-1.v10.sg3.sg.gs                                                                                
+S (24482)  
+╰─ 27.111.228.159  24482   0.657                     (Seogwipo, None, KR, AS) 24482.sgw.equinix.com                                                                               
+╭─ 27.111.229.181  4764    0.872                     (Seogwipo, None, KR, AS) 4764.sgw.equinix.com                                                                                
+S (4764)  
+├  10.241.6.23     *       88.73                                          ***                                                                                                     
+╰─ 202.142.143.178 4764    88.567               (Melbourne, Victoria, AU, OC) be3.bng1.vdc03.mel.aussiebb.net                                                                     

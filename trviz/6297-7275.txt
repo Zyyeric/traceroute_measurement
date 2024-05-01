@@ -1,0 +1,21 @@
+   180.211.88.22   45725   0.0                     (Jakarta, Jakarta, ID, AS) id-jkt-as45725.anchors.atlas.ripe.net                                                               
+   180.211.88.21   45725   0.342                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+╭─ 43.230.153.89   *       0.364                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+S (, 1273)  seamewe-3 ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├  10.110.1.0      *       12.321                                         ***                                                                                                     
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 123.255.91.22   1273    47.573                  (Hong Kong, HCW, HK, None) cwcom1-lacp-10g.hkix.net                                                                            
+S (1273)  
+╰─ 195.2.8.38      1273    206.401                       (None, None, GB, EU) ae0-xcr1.fix.cw.net                                                                                 
+   195.2.30.154    1273    206.183                       (None, None, GB, EU) ae1-xcr1.bud.cw.net                                                                                 
+   195.2.31.182    1273    206.352                       (None, None, GB, EU) ae43-xcr1.sof.cw.net                                                                                
+╭─ 195.2.12.58     3329    212.096                       (None, None, GB, EU) vfgr1-vf-gw.sof.cw.net                                                                              
+S&T (3329)  
+╰─ 62.74.30.102    3329    216.725                        (Athens, I, GR, EU) *                                                                                                   
+   62.74.30.101    3329    216.884                        (Athens, I, GR, EU) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   62.74.226.30    12361   224.786                   (Athens, Attica, GR, EU) dumy30.panafonet.gr                                                                                 
+   ***             *       -inf                                           *** *                                                                                                   
+   139.91.68.3     8522    222.317                 (Irákleion, Crete, GR, EU)                                                                                                     

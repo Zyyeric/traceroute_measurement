@@ -1,0 +1,26 @@
+   77.223.128.226  43391   0.0                (İzmir, İzmir Province, TR, AS)                                                                                                     
+   10.200.0.1      *       0.382                                          ***                                                                                                     
+   10.20.0.251     *       1.046                                          ***                                                                                                     
+   10.34.35.9      *       14.775                                         ***                                                                                                     
+   149.14.44.1     174     14.489                (Istanbul, Istanbul, TR, AS) te0-6-0-6.agr21.ist01.atlas.cogentco.com                                                            
+╭─ 154.54.74.205   174     14.664                (Istanbul, Istanbul, TR, AS) be3510.rcr71.ist01.atlas.cogentco.com                                                               
+S (174)  
+├─ 154.54.74.226   174     23.375                         (Lyon, ARA, FR, EU) be2881.rcr21.lys01.atlas.cogentco.com                                                               
+LHL (174)  
+├─ 130.117.0.94    174     28.362                       (Belgrade, 0, RS, EU) be3421.ccr51.beg03.atlas.cogentco.com                                                               
+T (174)  
+├─ 130.117.0.125   174     33.562                      (Budapest, PE, HU, EU) be3422.ccr31.bud01.atlas.cogentco.com                                                               
+T (174)  
+├─ 154.54.59.177   174     35.995                    (Bratislava, BL, SK, EU) be3263.ccr22.bts01.atlas.cogentco.com                                                               
+T (174)  
+├─ 154.54.59.185   174     39.69                          (Vienna, 9, AT, EU) be3463.ccr52.vie01.atlas.cogentco.com                                                               
+LHL (174)  
+├─ 130.117.50.82   174     39.873                         (Dublin, D, IE, EU) be2209.rcr11.b022738-0.dub01.atlas.cogentco.com                                                     
+LHL (174)  
+├─ 149.6.175.250   174     40.785         (Le Pre-Saint-Gervais, IDF, FR, EU) *                                                                                                   
+S (174, 20965)  
+╰─ 62.40.98.146    20965   64.63                         (Athens, A1, GR, EU) ae1.mx1.ath2.gr.geant.net                                                                           
+   83.97.88.66     5408    63.786                        (Athens, A1, GR, EU) grnet-ias-grnet-gw.mx1.ath2.gr.geant.net                                                            
+   62.217.100.63   5408    64.428                        (None, None, GR, EU) eier-kolettir-AE.backbone.grnet.gr                                                                  
+   62.217.98.53    199399  64.953                        (None, None, GR, EU) grix-ADMIN.eier.access-link.grnet.gr                                                                
+   195.130.66.103  199399  65.792                    (Athens, Attica, GR, EU) gr-ath-as199399.anchors.atlas.ripe.net                                                              

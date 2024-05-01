@@ -1,0 +1,16 @@
+   103.77.105.3    133800  0.0                     (Jakarta, Jakarta, ID, AS) ip-3-105-77-103.jkt-1.biznetg.io                                                                    
+   103.77.105.28   133800  0.154                   (Jakarta, Jakarta, ID, AS) ip-28-105-77-103.jkt-1.biznetg.io                                                                   
+   137.59.127.33   *       0.273                   (Jakarta, Jakarta, ID, AS) xe-0-2.cr01.jkt.biznetg.io                                                                          
+   202.169.59.21   17451   1.483                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+   182.253.187.142 17451   1.747                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+╭─ 112.78.190.1    17451   2.343                   (Depok, West Java, ID, AS) id-jkt-mtr-1.biznetnetworks.com                                                                     
+S&T (17451)  australia-singapore-cable-asc ✓ || matrix-cable-system ✘ || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || indonesia-global-gateway-igg-system ✓ || seamewe-3 ✓ || indigo-west ✓ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || jasuka ✓ || jakabare ✓
+├─ 112.78.190.5    17451   15.941              (Singapore, Singapore, SG, AS)                                                                                                     
+S (17451, 58453)  
+├─ 27.111.228.228  58453   15.352                    (Seogwipo, None, KR, AS) 58453.sgw.equinix.com                                                                               
+S (58453)  
+╰─ 223.118.5.201   58453   48.139              (Hong Kong, Hong Kong, HK, AS)                                                                                                     
+   223.120.3.90    58453   48.605                        (None, None, HK, AS) *                                                                                                   
+   223.119.0.93    202196  46.385                        (None, None, HK, AS) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   37.10.40.14     202196  46.882              (Hong Kong, Hong Kong, HK, AS)                                                                                                     

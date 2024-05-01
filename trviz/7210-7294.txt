@@ -1,0 +1,18 @@
+   10.252.4.170    *       0.0                                            ***                                                                                                     
+   10.252.4.169    *       0.103                                          ***                                                                                                     
+   10.252.4.153    *       0.16                                           ***                                                                                                     
+   10.252.0.37     *       14.276                                         ***                                                                                                     
+   195.175.203.217 9121    17.28             (Bahçelievler, Istanbul, TR, AS) 195.175.203.217.static.turktelekom.com.tr                                                           
+   81.212.199.166  9121    16.15                 (Istanbul, Istanbul, TR, AS) 00-atakoy-sr14s-t2-2---00-atakoy-sr12e-t3-7.statik.turktelekom.com.tr                               
+   212.156.252.237 9121    19.356                       (Aksaray, 68, TR, AS) 00-gayrettepe-xrs-t2-2---00-atakoy-xrs-t2-2.statik.turktelekom.com.tr                               
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 81.212.209.102  9121    16.847                        (None, None, TR, AS) 10-balya-sr12-t4-1---10-balikesir-sr12e-t3-3.statik.turktelekom.com.tr                              
+S&T (9121)  kafos ✘
+├─ 212.156.102.136 9121    73.477               (Zalău, Sălaj County, RO, EU) 302-ams-col-2---00-ebgp-gayrettepe-k.statik.turktelekom.com.tr                                      
+LHL (9121, 47720)  geo-eirgrid ✘ || exa-north-and-south ✘ || havhingstenceltixconnect-2-cc-2 ✘ || esat-2 ✘ || rockabill ✘ || sirius-south ✘ || pan-european-crossing-uk-ireland ✓ || esat-1 ✘ || exa-express ✘ || solas ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 62.23.108.46    47720   91.153                       (Dublin, L, IE, None) host.46.108.23.62.rev.coltfrance.com                                                                
+   91.103.0.196    47720   87.999                           (Cork, M, IE, EU) *                                                                                                   
+   91.103.0.99     42953   90.186                           (Cork, M, IE, EU) *                                                                                                   
+   185.6.39.132    42953   88.479                     (Cork, Munster, IE, EU)                                                                                                     

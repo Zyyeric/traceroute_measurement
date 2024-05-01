@@ -1,0 +1,23 @@
+   103.170.154.254 142594  0.0                      (London, England, GB, EU) 254.154.170.103.speedyvps.uk                                                                        
+╭─ 103.170.154.1   142594  0.163                    (London, England, GB, EU)                                                                                                     
+T (142594, 60068)  
+├─ 156.146.32.92   60068   0.282                     (Prague, Prague, CZ, EU) unn-156-146-32-92.cdn77.com                                                                         
+LHL (60068)  
+╰─ 185.229.188.196 60068   7.235                         (Paris, IDF, FR, EU) vl1102.par-eq5-core-1.cdn77.com                                                                     
+   185.156.45.115  60068   7.43                (Paris, Île-de-France, FR, EU) vl211.par-tel2-edge-1.cdn77.com                                                                     
+   91.121.131.72   16276   8.097                         (None, None, FR, EU) par-th2-pb1-nc5.fr.eu                                                                               
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 54.36.50.227    16276   11.708                        (None, None, FR, EU) be103.rbx-g3-nc5.fr.eu                                                                              
+LHL (16276)  seamewe-3 ✓ ↠ exa-north-and-south ✘ || seamewe-3 ✓ ↠ exa-express ✘ || high-capacity-undersea-guernsey-optical-fibre-hugo ✓ ↠ exa-north-and-south ✘ || uk-channel-islands-8 ✘ ↠ exa-north-and-south ✘ || high-capacity-undersea-guernsey-optical-fibre-hugo ✓ ↠ exa-express ✘ || uk-channel-islands-8 ✘ ↠ exa-express ✘ || channel-islands-9-liberty-submarine-cable ✘ ↠ exa-north-and-south ✘ || uk-channel-islands-7 ✓ ↠ exa-north-and-south ✘ || channel-islands-9-liberty-submarine-cable ✘ ↠ exa-express ✘ || uk-channel-islands-7 ✓ ↠ exa-express ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 192.99.146.127  16276   80.448                        (None, None, CA, NA) nyc-ny1-sbb1-8k.nj.us                                                                               
+   198.27.73.204   16276   87.175                        (None, None, CA, NA) be102.bhs-g1-nc5.qc.ca                                                                              
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   149.56.60.164   16276   89.427               (Beauharnois, Quebec, CA, NA)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   54.39.185.31    16276   89.292               (Châteauguay, Quebec, CA, NA) ca-bha-as16276.anchors.atlas.ripe.net                                                               

@@ -1,0 +1,17 @@
+   195.43.87.140   51349   0.0                    (Tallinn, Harjumaa, EE, EU) rr-s-140.internet.ee                                                                                
+   195.43.87.139   51349   0.319                  (Tallinn, Harjumaa, EE, EU) rr-s-139.internet.ee                                                                                
+╭─ 212.107.37.94   1257    0.872                  (Tallinn, Harjumaa, EE, EU) static-212-107-37-94.cust.tele2.ee                                                                  
+T (1257)  
+╰─ 91.129.14.219   1257    6.548                         (Riga, Riga, LV, EU) tvt-peer-1.ae2-unit0.tele2.net                                                                      
+╭─ 130.244.200.135 1257    5.962                     (Mārupe, Mārupe, LV, EU) peer-as1299.tvt.tele2.net                                                                           
+S (1257, 1299)  sweden-latvia ✘ || latvia-sweden-1-lv-se-1 👍
+├─ 62.115.139.202  1299    16.945              (Stockholm, Stockholm, SE, EU) s-bb2-link.ip.twelve99.net                                                                          
+S&T (1299)  baltica 👍
+╰─ 62.115.127.22   1299    30.338                  (Hamburg, Hamburg, DE, EU) hbg-bb2-link.ip.twelve99.net                                                                        
+   62.115.132.109  1299    30.067                  (Hamburg, Hamburg, DE, EU) hbg-b2-link.ip.twelve99.net                                                                         
+   80.239.135.173  1299    36.968                  (Hamburg, Hamburg, DE, EU) plusserver-ic-361690.ip.twelve99-cust.net                                                           
+   85.119.200.142  6659    37.221                       (Hamburg, HH, DE, EU) be2.er0.ham6.plusserver.com                                                                         
+   194.15.144.152  6659    36.822                        (None, None, DE, EU) *                                                                                                   
+   194.15.144.152  6659    36.822                        (None, None, DE, EU) *                                                                                                   
+   212.116.21.241  6659    36.591    (Norderstedt, Schleswig-Holstein, DE, EU)                                                                                                     
+   212.116.14.178  6659    36.801                  (Hamburg, Hamburg, DE, EU)                                                                                                     

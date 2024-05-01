@@ -1,0 +1,18 @@
+   92.38.178.149   202422  0.0                       (Urayasu, Tokyo, JP, AS)                                                                                                     
+   92.38.178.1     202422  0.156                     (Urayasu, Tokyo, JP, AS) gw.gcore.lu                                                                                         
+   10.255.16.181   *       0.178                                          ***                                                                                                     
+   10.255.16.183   *       0.456                                          ***                                                                                                     
+╭─ 61.213.146.130  2914    1.283                     (Urayasu, Tokyo, JP, AS)                                                                                                     
+S (2914, 9808)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 129.250.5.33    9808    48.545                        (None, None, US, NA) ae-0.a02.tkokhk01.hk.bb.gin.ntt.net                                                                 
+S (9808, 6453)  
+╰─ 116.0.93.210    6453    53.114                        (None, None, SG, AS) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   180.87.12.1     6453    82.081                   (Singapore, None, SG, AS) if-ae-2-2.tcore1.svw-singapore.as6453.net                                                           
+╭─ 180.87.12.34    6453    260.181                       (None, None, SG, AS) *                                                                                                   
+S&T (6453, 45117)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 121.241.90.58   45117   260.502                    (Ahmedabad, GJ, IN, AS) 121.241.90.58.static-ahmedabad.vsnl.net.in                                                          
+   116.206.155.229 45117   268.53                (Ahmedabad, Gujarat, IN, AS)                                                                                                     

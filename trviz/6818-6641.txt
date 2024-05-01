@@ -1,0 +1,12 @@
+   92.38.135.131   202422  0.0                         (Seoul, Seoul, KR, AS)                                                                                                     
+   92.38.135.2     202422  0.241                       (Seoul, Seoul, KR, AS) vrrp.gcore.lu                                                                                       
+   10.255.17.209   *       0.334                                          ***                                                                                                     
+   10.255.17.213   *       0.291                                          ***                                                                                                     
+   10.255.17.147   *       0.384                                          ***                                                                                                     
+╭─ 113.29.52.41    3549    0.518                       (Seoul, Seoul, KR, AS)                                                                                                     
+S (3549, 3356)  asia-pacific-gateway-apg ✘ || flag-north-asia-loopreach-north-asia-loop ✘ || eac-c2c ✘ || apcn-2 ✘ || new-cross-pacific-ncp-cable-system ✘ || seamewe-3 ✘ || flag-europe-asia-fea ✘ || trans-pacific-express-tpe-cable-system ✘
+╰─ 4.69.217.14     3356    34.725                         (Tokyo, 13, JP, AS) ae1.3505.edge2.Tokyo4.level3.net                                                                    
+╭─ 4.68.70.86      3491    31.342                         (Tokyo, 13, JP, AS) PCCW-level3-Tokyo4.Level3.net                                                                       
+S (3491)  apcn-2 👍 || faster ✓ || trans-pacific-express-tpe-cable-system ✓ || new-cross-pacific-ncp-cable-system ✓ || asia-pacific-gateway-apg ✓ || eac-c2c ✓ || seamewe-3 👍
+╰─ 63.223.9.90     3491    60.915                      (Taipei, None, TW, AS) Bundle-Ether44.br01.tap04.pccwbtn.net                                                               
+   63.222.40.114   3491    89.371                    (Taipei, Taiwan, TW, AS) ncic.te0-1-0-23.br01.tap04.as3491.net                                                               

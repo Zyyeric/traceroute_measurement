@@ -1,0 +1,13 @@
+   200.160.6.19    22548   0.0                 (São Paulo, São Paulo, BR, SA) br-sao-as22548.anchors.atlas.ripe.net                                                               
+   200.160.6.61    22548   0.989         (Taboão da Serra, São Paulo, BR, SA) ae1-89.ar3.jd.registro.br                                                                           
+   200.160.0.253   22548   1.476                         (None, None, BR, SA) ae0-0.core1.nu.registro.br                                                                          
+╭─ 200.160.0.161   22548   3.87                          (None, None, BR, SA) xe-5-0-0-0.gw1.nu.registro.br                                                                       
+S (22548, 6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.198.242 6939    44.177          (Virginia Beach, Virginia, US, NA) port-channel1.core1.for1.he.net                                                                     
+   184.104.199.177 6939    146.739                   (Miami, Florida, US, NA) 100ge0-53.core2.mia1.he.net                                                                         
+╭─ 206.41.108.150  52468   464.552                       (None, None, US, NA) *                                                                                                   
+S&T (52468)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 181.78.120.102  52468   216.072                   (Panamá, Panamá, PA, NA) 102.120.78.181.ufinet.com.pa                                                                        
+   179.0.200.36    272037  263.099                   (Panamá, Panamá, PA, NA)                                                                                                     

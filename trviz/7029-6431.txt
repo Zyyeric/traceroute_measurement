@@ -1,0 +1,25 @@
+   109.171.136.4   50999   0.0                 (Jeddah, Mecca Region, SA, AS)                                                                                                     
+╭─ 109.171.136.2   50999   0.618               (Jeddah, Mecca Region, SA, AS)                                                                                                     
+LHL (50999, 3356)  seamewe-5 ✘ || seamewe-4 ✘ || asia-africa-europe-1-aae-1 ✓ || peace-cable ✘ || imewe ✘ || seamewe-3 ✓
+├  10.126.145.5    *       0.628                                          ***                                                                                                     
+├  192.168.11.14   *       1.065                                          ***                                                                                                     
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 171.75.8.214    3356    68.897          (Amsterdam, North Holland, NL, EU) ae1.3104.edge7.ams1.neo.colt.net                                                                    
+╭─ 4.68.37.174     2914    68.911                     (Amsterdam, NH, NL, EU) NTT-level3-200G.Amsterdam1.Level3.net                                                               
+S (2914)  
+╰─ 129.250.7.86    2914    69.009                        (None, None, US, NA) ae-3.r20.amstnl07.nl.bb.gin.ntt.net                                                                 
+   129.250.7.28    2914    91.144                        (None, None, US, NA) ae-4.r21.vienat02.at.bb.gin.ntt.net                                                                 
+╭─ 129.250.7.12    2914    90.668                        (None, None, US, NA) ae-0.r20.vienat02.at.bb.gin.ntt.net                                                                 
+LHL (2914)  
+├─ 129.250.3.63    2914    104.633            (Frankfurt am Main, HE, DE, EU) ae-5.r01.buchro01.ro.bb.gin.ntt.net                                                                 
+LHL (2914)  
+├─ 129.250.3.137   2914    104.664                       (None, None, US, NA) ae-9.r00.buchro01.ro.bb.gin.ntt.net                                                                 
+S (2914, 9121)  
+├─ 83.217.231.42   9121    114.904                       (None, None, GB, EU) *                                                                                                   
+S (9121)  
+╰─ 212.156.139.75  9121    117.685                     (Istanbul, 34, TR, AS) 34-ebgp-acibadem-sr12e-k---305-vie-col-2.statik.turktelekom.com.tr                                  
+   81.212.216.13   9121    117.627                     (Istanbul, 34, TR, AS) 34-acibadem-sr12e-t3-8---34-acibadem-xrs-t2-2.statik.turktelekom.com.tr                             
+   81.212.78.44    9121    119.753               (Istanbul, Istanbul, TR, AS) 81.212.78.44.static.turktelekom.com.tr                                                              
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   78.189.206.22   9121    123.013               (Adapazarı, Sakarya, TR, AS) 78.189.206.22.static.ttnet.com.tr                                                                   

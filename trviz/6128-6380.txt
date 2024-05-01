@@ -1,0 +1,22 @@
+   196.49.14.25    30997   0.0                 (Accra, Greater Accra, GH, AF)                                                                                                     
+   196.49.14.1     30997   0.405               (Accra, Greater Accra, GH, AF)                                                                                                     
+╭─ 197.221.70.89   *       0.944               (Accra, Greater Accra, GH, AF)                                                                                                     
+S&T (, 3741)  
+╰─ 196.14.240.4    3741    1.014                         (None, None, ZA, AF) *                                                                                                   
+╭─ 168.209.160.109 3741    255.888                       (None, None, ZA, AF) *                                                                                                   
+T (3741)  
+╰─ 168.209.160.108 3741    256.774                  (London, England, GB, EU)                                                                                                     
+╭─ 168.209.246.3   3741    256.72                      (London, None, GB, EU) core2b-dock-be-1.ip.ddii.network                                                                    
+T (3741)  
+├─ 168.209.246.65  3741    256.107                       (None, None, ZA, AF) core1b-dock-be-2.ip.ddii.network                                                                    
+LHL (3741, 6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 65.49.109.214   6939    360.593             (Singapore, Singapore, SG, AS) pakistan-telecommunication-co-ltd.e0-26.switch1.sin1.he.net                                         
+S (6939, 7590)  
+├  10.253.13.41    *       378.469                                        ***                                                                                                     
+╰─ 202.125.149.58  7590    378.395                   (Rawalpindi, PB, PK, AS) Touchstone-4.rwp44d1.pie.net.pk                                                                     
+   210.56.8.180    7590    426.172                    (Islamabad, IS, PK, AS) *                                                                                                   
+   210.56.11.202   7590    378.865             (Islamabad, Islamabad, PK, AS)                                                                                                     

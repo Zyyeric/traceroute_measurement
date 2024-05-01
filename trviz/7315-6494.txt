@@ -1,0 +1,22 @@
+   80.67.190.218   204092  0.0                     (Rennes, Brittany, FR, EU) ripe-anchor.grifon.fr                                                                               
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   89.234.186.43   204092  0.577                         (None, None, FR, EU) eth1.33.asbr02.cogent-rns.grifon.fr                                                                 
+   89.234.186.145  204092  8.565               (Paris, Île-de-France, FR, EU) eno1.201.asbr-th2.grifon.fr                                                                         
+   193.200.43.84   34019   8.798               (Paris, Île-de-France, FR, EU) xe-201-0-33-204-er02-th2.bb.hivane.net                                                              
+   193.164.153.206 34019   8.67                          (None, None, FR, EU) ae0-3000-rt-th2-j.bb.hivane.net                                                                     
+╭─ 193.5.122.30    *       8.77      (Charenton-le-Pont, Île-de-France, FR, EU) i68ixe-005-ae3.bb.ip-plus.net                                                                       
+T (, 3303)  
+╰─ 138.187.129.92  3303    15.839                        (None, None, CH, EU) i68geb-015-ae14.bb.ip-plus.net                                                                      
+   138.187.129.79  3303    16.138                    (Zürich, Zurich, CH, EU) i68gem-015-ae11.bb.ip-plus.net                                                                      
+╭─ 184.104.195.178 6939    17.459                        (Geneva, GE, CH, EU) 100ge0-36.core2.gva1.he.net                                                                         
+T (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.196.231 6939    17.991              (Paris, Île-de-France, FR, EU) port-channel6.core2.par3.he.net                                                                     
+S (6939)  apollo ✓ || flag-atlantic-1-fa-1 ✓
+╰─ 184.104.188.213 6939    88.01           (Virginia Beach, Virginia, US, NA) port-channel4.core2.orf2.he.net                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 184.104.199.178 6939    181.576                   (Miami, Florida, US, NA) 100ge0-35.core1.for1.he.net                                                                         
+S (6939, 266152)  
+╰─ 45.184.145.203  266152  228.56                     (Fortaleza, CE, BR, SA) as266152.fortaleza.ce.ix.br                                                                         
+   45.6.36.173     266152  217.883          (Campina Grande, Paraíba, BR, SA) 45.6.36.173.pjmfibra.com.br                                                                         

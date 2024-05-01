@@ -1,0 +1,23 @@
+   176.119.210.244 56457   0.0                       (Athens, Attica, GR, EU)                                                                                                     
+   176.119.210.254 56457   0.463                 (Áno Liósia, Attica, GR, EU)                                                                                                     
+   185.201.254.34  56457   0.169                 (Áno Liósia, Attica, GR, EU) te0-4.ef1.ath01.fastpath.gr                                                                         
+   185.201.254.26  56457   0.408                 (Áno Liósia, Attica, GR, EU) be3502.er0.ath01.fastpath.gr                                                                        
+╭─ 213.144.178.113 6762    0.745                 (Áno Liósia, Attica, GR, EU) xe2-0-0-3.atene6.ate.seabone.net                                                                    
+S&T (6762)  mednautilus-submarine-system 👍 || oteglobe-kokkini-bari ✘ || italy-greece-1 ✘
+├─ 185.100.113.151 6762    66.116                        (None, None, IT, EU) *                                                                                                   
+LHL (6762, 2603)  seamewe-4 👍 || asia-africa-europe-1-aae-1 ✓ || seamewe-5 👍 || imewe 👍 || seamewe-3 👍
+├─ 80.249.209.203  2603    64.238                     (Amsterdam, NH, NL, EU) nl-ams.nordu.net                                                                                    
+S&T (2603)  ulysses-2 ✘ || zeus ✓ || circe-north ✓ || scylla ✓ || concerto ✘ || farland-north ✘
+╰─ 109.105.102.97  2603    83.98                       (Hexton, None, GB, EU) uk-hex.nordu.net                                                                                    
+╭─ 109.105.102.98  2603    69.492                       (London, ENG, GB, EU) ndn-gw.mx1.lon.uk.geant.net                                                                         
+S&T (2603, 20965)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 62.40.98.222    20965   86.779                      (Bilbao, None, ES, EU) ae4.rt1.bil.es.geant.net                                                                            
+S&T (20965, 21320)  
+├─ 83.97.90.19     21320   89.42                    (London, England, GB, EU) rediris-ias-geant.bil.es.geant.net                                                                  
+S&T (21320, 766)  
+╰─ 130.206.245.22  766     92.521                        (None, None, ES, EU) ehu.rt2.ethtrunk3.unizar.rt2.ara.red.rediris.es                                                     
+   130.206.245.94  766     92.571                        (None, None, ES, EU) unizar.rt2.ae6-323.telmad.rt4.mad.red.rediris.es                                                    
+   130.206.214.98  13041   101.384                       (None, None, ES, EU) anella-router.red.rediris.es                                                                        
+   84.88.18.254    13041   100.968             (Barcelona, Catalonia, ES, EU) anchor-anella.cesca.cat                                                                             

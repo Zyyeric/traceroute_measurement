@@ -1,0 +1,12 @@
+   180.211.88.22   45725   0.0                     (Jakarta, Jakarta, ID, AS) id-jkt-as45725.anchors.atlas.ripe.net                                                               
+   180.211.88.21   45725   0.29                    (Jakarta, Jakarta, ID, AS)                                                                                                     
+╭─ 43.230.153.89   *       0.635                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+S&T (, 7575)  australia-singapore-cable-asc ✘ || matrix-cable-system ✘ || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || indonesia-global-gateway-igg-system ✘ || seamewe-3 ✘ || indigo-west ✘ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || jasuka ✘ || jakabare ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├  10.110.4.6      *       13.046                                         ***                                                                                                     
+├─ 103.16.102.67   7575    13.242                    (Singapore, 1, SG, None) aarnet.sgix.sg                                                                                      
+S (7575)  australia-singapore-cable-asc ✓ || indigo-west 👍 || seamewe-3 ✓
+╰─ 113.197.15.7    7575    114.764                  (Queensland, QLD, AU, OC) et-0-3-0.pe1.fvly.qld.aarnet.net.au                                                                 
+   138.44.129.154  4608    116.437                     (Lismore, NSW, AU, OC) gw-apnic-pe1.fvly.aarnet.net.au                                                                     
+   203.119.104.26  4608    116.502                    (Brisbane, QLD, AU, OC) et-1-38.nxcs1.bne.apnic.net                                                                         
+   203.119.111.139 4608    116.965             (Brisbane, Queensland, AU, OC) anchor.apnic.net                                                                                    

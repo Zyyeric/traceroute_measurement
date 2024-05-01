@@ -1,0 +1,16 @@
+   45.11.104.146   57695   0.0                 (Hong Kong, Hong Kong, HK, AS) hk-hkg-as57695.anchors.atlas.ripe.net                                                               
+   ***             *       -inf                                           *** *                                                                                                   
+   45.11.104.7     57695   0.296                    (Hong Kong, None, HK, AS) po-07.lag.hkg12.hk.misaka.io                                                                        
+   199.119.64.150  969     0.307               (Hong Kong, Hong Kong, HK, AS) po103-10.cr1a.eqhk2.hkg12.hk.917.as                                                                 
+   185.229.189.198 60068   0.204               (Hong Kong, Hong Kong, HK, AS) p77-6.cr1a.eqhk2.hkg12.hk.917.as                                                                    
+╭─ 36.255.56.8     *       0.654               (Hong Kong, Hong Kong, HK, AS) 6939.hkg.equinix.com                                                                                
+S (, 6939)  apcn-2 ✘ || southeast-asia-japan-cable-sjc ✘ || eac-c2c ✘ || asia-pacific-gateway-apg ✘ || asia-america-gateway-aag-cable-system ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.65.178  6939    32.678              (Singapore, Singapore, SG, AS) port-channel5.core1.sin2.he.net                                                                     
+╭─ 184.104.210.182 136106  33.521                      (Singapore, 4, SG, AS) pt-mega-akses-persada.e0-2.switch2.sin2.he.net                                                      
+S&T (136106)  australia-singapore-cable-asc ✓ || indigo-west ✓ || indonesia-global-gateway-igg-system ✓ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || seamewe-3 ✓ || matrix-cable-system ✘ || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || jasuka ✓ || jakabare ✘
+╰─ 103.87.186.2    136106  44.663                        (None, None, ID, AS) ip186-2.fiberstar.net.id                                                                            
+   103.87.186.179  136106  51.507                  (Jakarta, Jakarta, ID, AS) ip186-179.fiberstar.net.id                                                                          
+   103.170.24.254  142360  51.592                        (None, None, ID, AS) ipv4-254-24.170.103.as142360.net                                                                    
+   103.170.25.13   142360  51.771            (Semarang, Central Java, ID, AS) ipv4-13-25-170-103.nexa.net.id                                                                      

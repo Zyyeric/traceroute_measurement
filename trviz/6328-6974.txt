@@ -1,0 +1,25 @@
+   182.161.74.241  55569   0.0                         (Tokyo, Tokyo, JP, AS)                                                                                                     
+   182.161.74.240  55569   0.066                     (Urayasu, Tokyo, JP, AS)                                                                                                     
+   100.66.0.44     *       0.227                                          ***                                                                                                     
+   100.66.0.43     *       0.231                                          ***                                                                                                     
+╭─ 210.57.79.10    4637    0.217 (1.886)            (Kawasaki, Kanagawa, JP, AS) unknown.telstraglobal.net                                                                           
+S (4637)  apcn-2 👍 || eac-c2c 👍 || asia-pacific-gateway-apg ✓
+╰─ 202.47.216.145  4637    101.556                       (None, None, HK, AS) i-95.jtha-core02.telstraglobal.net                                                                  
+╭─ 202.47.216.145  4637    101.556                       (None, None, HK, AS) i-95.jtha-core02.telstraglobal.net                                                                  
+S (4637)  
+╰─ 202.84.140.86   4637    109.831             (San Jose, California, US, NA) i-10842.eqnx-core02.telstraglobal.net                                                               
+   202.84.247.17   4637    108.632             (San Jose, California, US, NA) i-92.eqnx03.telstraglobal.net                                                                       
+   ***             *       -inf                                           *** *                                                                                                   
+   84.116.146.34   6830    253.839                     (New York, NY, US, NA) us-nyc01b-rd2-ae-18-0.aorta.net                                                                     
+╭─ 84.116.146.142  6830    266.454               (Washington, DC, DC, US, NA) us-was03a-rd1-ae-5-0.aorta.net                                                                      
+S (6830)  
+╰─ 84.116.130.121  6830    265.919                    (Amsterdam, NH, NL, EU) nl-ams02a-rc2-lag-102-0.aorta.net                                                                   
+   84.116.136.145  6830    262.193         (Amsterdam, North Holland, NL, EU) cz-prg01a-ra4-ae-99-40.aorta.net                                                                    
+╭─ 213.46.192.34   33915   268.458         (Amsterdam, North Holland, NL, EU) d192034.upc-d.chello.nl                                                                             
+T (33915, 47787)  
+├─ 193.109.190.74  47787   273.702                   (Madrid, Madrid, ES, EU) er1.mad1.edgoo.net                                                                                  
+S&T (47787)  
+╰─ 193.163.151.209 47787   280.597                       (Lisbon, 11, PT, EU) cr1.lis1.edgoo.net                                                                                  
+   193.109.188.7   47787   277.44                    (Lisbon, Lisbon, PT, EU)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   185.32.189.249  62416   278.942                 (Odivelas, Lisbon, PT, EU) pt-lis-as62416.anchors.atlas.ripe.net                                                               

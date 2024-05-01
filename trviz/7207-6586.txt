@@ -1,0 +1,25 @@
+   37.10.41.14     202196  0.0                 (Singapore, Singapore, SG, AS)                                                                                                     
+   37.10.41.9      202196  0.657               (Singapore, Singapore, SG, AS)                                                                                                     
+   210.57.30.93    4637    1.974               (Singapore, Singapore, SG, AS) unknown.telstraglobal.net                                                                           
+   202.84.219.174  4637    163.226             (Singapore, Singapore, SG, AS) i-92.sgcn-core01.telstraglobal.net                                                                  
+╭─ 202.84.219.174  4637    163.226             (Singapore, Singapore, SG, AS) i-92.sgcn-core01.telstraglobal.net                                                                  
+S (4637)  
+╰─ 202.84.141.17   4637    169.971          (Los Angeles, California, US, NA) i-10551.tlot-core02.telstraglobal.net                                                               
+   202.84.141.17   4637    169.971          (Los Angeles, California, US, NA) i-10551.tlot-core02.telstraglobal.net                                                               
+   202.40.149.177  4637    169.196                  (Los Angeles, CA, US, NA) i-91.tlot02.telstraglobal.net                                                                       
+╭─ 134.159.61.106  4637    162.72              (San Jose, California, US, NA) l3-peer.eqnx03.pr.telstraglobal.net                                                                 
+S (4637, 3356)  
+├─ 171.75.8.243    3356    249.477   (Septèmes-les-Vallons, Provence-Alpes-Côte d'Azur, FR, EU) ae1.3505.edge4.mrs1.neo.colt.net                                                                    
+S (3356, 35819)  
+├─ 212.133.4.70    35819   317.771                       (None, None, SA, AS) *                                                                                                   
+S (35819, 37100)  
+├─ 105.16.33.1     37100   433.474                   (Marseille, PAC, FR, EU) ae-2.cr-01-mrs.fr.seacomnet.com                                                                     
+S&T (37100)  
+╰─ 105.16.12.97    37100   445.595          (Cape Town, Western Cape, ZA, AF) ce-0-2-5.cr-01-cpt.za.seacomnet.com                                                                 
+   105.25.160.149  37100   447.307            (Johannesburg, Gauteng, ZA, AF) ce-0-2-9.cr-01-jnb.za.seacomnet.com                                                                 
+   105.16.28.9     37100   447.334                 (Johannesburg, GT, ZA, AF) ce-0-0-2.er-01-jnb.za.seacomnet.com                                                                 
+╭─ 105.22.34.174   37100   447.932            (Johannesburg, Gauteng, ZA, AF) ce-0-1-5-91.customer-gw-rogers-capital.er-01-jnb.za.seacomnet.com                                   
+S (37100, 36868)  
+╰─ 196.46.34.108   36868   483.499                       (None, None, MU, AF) *                                                                                                   
+   196.46.49.34    36868   483.658   (Quatre Bornes, Plaines Wilhems, MU, AF)                                                                                                     
+   102.222.106.178 328699  484.576           (Port Louis, Port Louis, MU, AF)                                                                                                     

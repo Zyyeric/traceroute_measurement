@@ -1,0 +1,29 @@
+╭─ 196.49.84.188   328913  0.0                     (Douala, Littoral, CM, AF) cm-dla-as328913.anchors.atlas.ripe.net                                                              
+S (328913, 60171)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 102.219.44.42   60171   1.884                       (Lagos, Lagos, NG, AF)                                                                                                     
+S (60171)  
+├─ 185.10.164.44   60171   237.631             (Barcelona, Catalonia, ES, EU)                                                                                                     
+S (60171)  
+├─ 102.223.52.72   60171   237.296                     (Lagos, Lagos, NG, AF)                                                                                                     
+S (60171)  
+╰─ 185.10.164.33   60171   237.912             (Barcelona, Catalonia, ES, EU)                                                                                                     
+╭─ 185.10.164.134  60171   237.583             (Barcelona, Catalonia, ES, EU)                                                                                                     
+S&T (60171, 37542)  
+├─ 185.10.164.112  37542   238.568                      (London, ENG, GB, EU) *                                                                                                   
+S&T (37542, 60171)  
+├─ 185.10.164.98   60171   239.588             (Barcelona, Catalonia, ES, EU)                                                                                                     
+S&T (60171, 174)  
+├─ 149.6.144.161   174     264.75                        (Lisbon, 11, PT, EU) te0-1-1-7.rcr21.lis01.atlas.cogentco.com                                                            
+S&T (174)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 154.54.56.126   174     270.281                   (Marseille, PAC, FR, EU) be3078.ccr32.mrs02.atlas.cogentco.com                                                               
+T (174, 35574)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 149.14.132.178  35574   287.292           (Frankfurt am Main, 5, DE, None) sed-multitel.demarc.cogentco.com                                                                    
+T (35574)  
+╰─ 194.187.174.6   35574   287.908                  (Milan, Lombardy, IT, EU)                                                                                                     

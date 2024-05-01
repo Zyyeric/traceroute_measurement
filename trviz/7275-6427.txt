@@ -1,0 +1,16 @@
+   119.17.170.244  9268    0.0              (Sydney, New South Wales, AU, OC) gen-119-17-170-244.ptr4.otw.net.au                                                                  
+   119.17.170.242  9268    0.779            (Sydney, New South Wales, AU, OC) te0-0-0.1397.iaaspe1.47bou.syd.core.otw.net.au                                                      
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   10.254.250.85   *       1.148                                          ***                                                                                                     
+╭─ 103.110.178.245 9268    1.176            (Sydney, New South Wales, AU, OC) welcometoaussiebroadband.syd.otw.net.au                                                             
+S (9268, 4764)  seamewe-3 ✓ || indigo-west ✓ || australia-singapore-cable-asc ✓
+├─ 180.150.2.85    4764    92.87               (Singapore, Singapore, SG, AS) be3.core1.equinix-sg1.sin.aussiebb.net                                                              
+S (4764, 133840)  
+├─ 27.111.228.241  133840  104.074                   (Seogwipo, None, KR, AS) 133840.sgw.equinix.com                                                                              
+S (133840)  
+╰─ 103.66.70.56    133840  104.056                 (Jakarta, Jakarta, ID, AS)                                                                                                     
+   121.100.0.45    38158   104.03                  (Jakarta, Jakarta, ID, AS)                                                                                                     
+   43.230.152.226  *       104.195                 (Jakarta, Jakarta, ID, AS) global-in.kings.id                                                                                  
+   43.230.153.90   *       104.268                 (Jakarta, Jakarta, ID, AS)                                                                                                     
+   180.211.88.22   45725   104.305                 (Jakarta, Jakarta, ID, AS) id-jkt-as45725.anchors.atlas.ripe.net                                                               

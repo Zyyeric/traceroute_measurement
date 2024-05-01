@@ -1,0 +1,16 @@
+   213.238.162.218 48292   0.0                   (Istanbul, Istanbul, TR, AS) tr-ist-as48292.anchors.atlas.ripe.net                                                               
+   213.238.162.217 48292   0.353                 (Ataşehir, Istanbul, TR, AS) tr-ist-as48292.anchors.atlas.ripe.net                                                               
+   ***             *       -inf                                           *** *                                                                                                   
+   10.235.234.40   *       1.601                                          ***                                                                                                     
+   195.175.203.85  9121    0.64                  (Istanbul, Istanbul, TR, AS) 195.175.203.85.static.turktelekom.com.tr                                                            
+   212.156.251.17  9121    0.847                 (Istanbul, Istanbul, TR, AS) 00-gayrettepe-sr14s-t2-2---00-itu-sr12e-t3-1.statik.turktelekom.com.tr                              
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 212.156.101.196 9121    37.738                (Istanbul, Istanbul, TR, AS) 301-fra-col-2---00-ebgp-gayrettepe-k.statik.turktelekom.com.tr                                      
+S&T (9121, 3356)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 171.75.9.233    3356    47.19               (Sofia, Sofia-Capital, BG, EU) ae2.20.bar2.sof2.neo.colt.net                                                                       
+LHL (3356, 198589)  
+├─ 212.162.31.130  198589  68.568                        (None, None, GB, EU) *                                                                                                   
+LHL (198589, 21277)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 130.193.166.22  21277   68.441                      (Erbil, Arbīl, IQ, AS)                                                                                                     

@@ -1,0 +1,15 @@
+   103.253.132.25  59238   0.0                     (Bangkok, Bangkok, TH, AS) th-bkk-as59238.anchors.atlas.ripe.net                                                               
+   103.253.132.1   59238   0.335                (Khlong San, Bangkok, TH, AS) gw-cat.idc.inox.co.th                                                                               
+   172.24.132.24   *       0.297                                          ***                                                                                                     
+   172.21.21.2     *       0.487                                          ***                                                                                                     
+╭─ 122.155.224.73  4651    0.443 (6.299)           (Khlong San, Bangkok, TH, AS)                                                                                                     
+S (4651)  asia-america-gateway-aag-cable-system ✓ || asia-africa-europe-1-aae-1 ✓ || flag-europe-asia-fea ✘
+├─ 61.19.9.122     4651    42.112                   (Hong Kong, None, HK, AS) *                                                                                                   
+S (4651, 3491)  
+├─ 123.255.90.244  3491    43.079                 (Bennettsville, SC, US, NA) btn1-lacp-10g.hkix.net                                                                              
+S (3491)  
+╰─ 63.223.33.82    3491    95.046                         (Tokyo, 13, JP, AS) Bundle-Ether41.clbr01.tok13.pccwbtn.net                                                             
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   5.8.70.17       199524  92.478                         (Tokyo, 13, JP, AS) gw.gcore.lu                                                                                         
+   92.38.178.149   202422  96.171                    (Urayasu, Tokyo, JP, AS)                                                                                                     

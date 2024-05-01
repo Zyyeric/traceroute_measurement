@@ -1,0 +1,21 @@
+   193.42.115.222  51724   0.0                  (Tomsk, Tomsk Oblast, RU, EU) p7234-probes-atlas-ripe.flynet.pro                                                                  
+   193.42.115.137  51724   0.394                (Tomsk, Tomsk Oblast, RU, EU) border2vlan13.flynet.pro                                                                            
+╭─ 31.131.196.10   9049    0.909                (Tomsk, Tomsk Oblast, RU, EU) 31x131x196x10.static.ertelecom.ru                                                                   
+T (9049)  
+├─ 87.245.228.193  9049    53.167                        (None, None, GB, EU) GW-ERTelecom.retn.net                                                                               
+T (9049, 9002)  
+├─ 87.245.228.192  9002    55.332            (Saint Petersburg, None, RU, AS) ae4-110.RT.BM.SPB.RU.retn.net                                                                       
+LHL (9002)  
+╰─ 87.245.232.233  9002    84.324             (Frankfurt am Main, HE, DE, EU) ae3-4.RT.EQX.FKT.DE.retn.net                                                                        
+╭─ 195.22.214.84   6762    84.333             (Frankfurt am Main, HE, DE, EU) et0-0-41.francoforte73.fra.seabone.net                                                              
+LHL (6762)  
+╰─ 195.22.197.27   6762    281.292                     (Singapore, 4, SG, AS) ae14.singapore2.sin.seabone.net                                                                     
+   93.186.133.89   7713    264.019                     (Singapore, 4, SG, AS) telkom.singapore2.sin.seabone.net                                                                   
+   180.240.204.9   7713    275.779             (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 180.240.204.9   7713    275.779             (Singapore, Singapore, SG, AS)                                                                                                     
+S&T (7713)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 36.64.254.21    7713    291.769       (Gubengairlangga, East Java, ID, AS)                                                                                                     
+   36.64.254.22    7713    283.523                   (Denpasar, Bali, ID, AS)                                                                                                     
+   103.215.228.2   140443  283.725              (Surabaya, East Java, ID, AS) 2.228.215.103.in-addr.herza.id                                                                      
+   103.215.229.229 140443  283.792              (Surabaya, East Java, ID, AS) 229.229.215.103.in-addr.herza.id                                                                    

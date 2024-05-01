@@ -1,0 +1,24 @@
+   103.242.68.78   133075  0.0                   (Auckland, Auckland, NZ, OC) 103-242-68-78.broadband.telesmart.co.nz                                                             
+   103.242.68.65   133075  0.513                    (Wellington, WGN, NZ, OC) *                                                                                                   
+   131.203.72.165  9790    0.693                 (Auckland, Auckland, NZ, OC) default-rdns.vocus.co.nz                                                                            
+   131.203.72.166  9790    0.947                 (Auckland, Auckland, NZ, OC) default-rdns.vocus.co.nz                                                                            
+   ***             *       -inf                                           *** *                                                                                                   
+   175.45.102.234  9790    1.671                      (Auckland, AUK, NZ, OC) as9790.bdr01.akl05.akl.nz.vocus.network                                                             
+╭─ 175.45.102.233  4826    2.029                      (Auckland, AUK, NZ, OC) be1000.bdr01.akl05.akl.nz.vocus.network                                                             
+S (4826, )  southern-cross-next ✓ || tasman-global-access-tga-cable ✓ || southern-cross-cable-network-sccn ✓ || hawaiki ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 103.1.77.14     *       118.109          (Sydney, New South Wales, AU, OC) be202.lsr01.dody.nsw.vocus.network                                                                  
+   103.1.76.147    4826    117.132                       (None, None, AU, OC) be803.lsr01.prth.wa.vocus.network                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 114.31.206.75   4826    117.693                        (Perth, WA, AU, OC) be203.bdr02.sin01.sin.vocus.network                                                                 
+S (4826, 7713)  
+├─ 27.111.228.77   7713    155.99                    (Seogwipo, None, KR, AS) 7713.sgw.equinix.com                                                                                
+S (7713)  
+╰─ 180.240.204.9   7713    154.315             (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 180.240.204.9   7713    154.315             (Singapore, Singapore, SG, AS)                                                                                                     
+S&T (7713)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 36.64.254.21    7713    193.736       (Gubengairlangga, East Java, ID, AS)                                                                                                     
+   36.64.254.22    7713    195.873                   (Denpasar, Bali, ID, AS)                                                                                                     
+   103.215.228.2   140443  193.562              (Surabaya, East Java, ID, AS) 2.228.215.103.in-addr.herza.id                                                                      
+   103.215.229.229 140443  196.024              (Surabaya, East Java, ID, AS) 229.229.215.103.in-addr.herza.id                                                                    

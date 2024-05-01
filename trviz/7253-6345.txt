@@ -1,0 +1,12 @@
+   103.102.166.20  14907   0.0                 (Singapore, Singapore, SG, AS) ripe-atlas-eqsin.wikimedia.org                                                                      
+╭─ 103.102.166.19  14907   0.496               (Singapore, Singapore, SG, AS) ae1-530.cr2-eqsin.wikimedia.org                                                                     
+S (14907, 6939)  
+├─ 27.111.228.81   6939    5.256                     (Seogwipo, None, KR, AS) 6939.sgw.equinix.com                                                                                
+S (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.105.64.254  6939    67.878                (Tokyo / Narita, 12, JP, AS) 100ge16-2.core1.tyo1.he.net                                                                         
+S (6939)  
+╰─ 184.104.194.37  6939    175.209                     (San Jose, CA, US, NA) 100ge12-2.core1.sjc2.he.net                                                                         
+   184.105.81.82   6939    174.926             (San Jose, California, US, NA) port-channel10.core2.pao1.he.net                                                                    
+   64.62.180.46    6939    175.228             (San Jose, California, US, NA) isc-as-1280-as1280.e0-30.switch2.pao1.he.net                                                        
+   192.158.252.10  1280    175.54         (Mountain View, California, US, NA) us-pao-as1280.anchors.atlas.ripe.net                                                                

@@ -1,0 +1,12 @@
+   102.219.127.20  37468   0.0                 (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 102.219.127.17  37468   0.403               (Singapore, Singapore, SG, AS)                                                                                                     
+S (37468)  asia-america-gateway-aag-cable-system ✓
+╰─ 102.219.127.5   37468   162.061          (Los Angeles, California, US, NA)                                                                                                     
+   170.238.233.33  37468   271.677                   (Miami, Florida, US, NA) 33.233.238.170.angolacables.ao                                                                      
+╭─ 4.37.37.165     3356    273.451                   (Miami, Florida, US, NA) et-7-0-5.edge6.miami1.level3.net                                                                    
+S (3356, 25003)  sea-us © ↠ exa-north-and-south ✘ || sea-us © ↠ atlantic-crossing-1-ac-1 👍 || sea-us © ↠ yellow 👍 || sea-us © ↠ apollo © || sea-us © ↠ tata-tgn-atlantic ✓ || sea-us © ↠ flag-atlantic-1-fa-1 ©
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 212.113.14.250  25003   371.06                      (London, None, GB, EU) IB.edge5.London1.Level3.net                                                                         
+T (25003)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 94.188.255.2    25003   371.268              (Bnei Brak, Tel Aviv, IL, AS) 255.188.94-binat-smaug.in-addr.arpa                                                                 

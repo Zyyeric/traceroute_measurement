@@ -1,0 +1,32 @@
+   109.171.136.4   50999   0.0                 (Jeddah, Mecca Region, SA, AS)                                                                                                     
+╭─ 109.171.136.2   50999   0.881               (Jeddah, Mecca Region, SA, AS)                                                                                                     
+LHL (50999, 3356)  seamewe-5 ✘ || seamewe-4 ✘ || asia-africa-europe-1-aae-1 ✓ || peace-cable ✘ || imewe ✘ || seamewe-3 ✓
+├  10.126.145.5    *       0.924                                          ***                                                                                                     
+├  192.168.11.14   *       1.458                                          ***                                                                                                     
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 171.75.8.214    3356    69.252          (Amsterdam, North Holland, NL, EU) ae1.3104.edge7.ams1.neo.colt.net                                                                    
+╭─ 4.68.37.174     2914    69.263                     (Amsterdam, NH, NL, EU) NTT-level3-200G.Amsterdam1.Level3.net                                                               
+S (2914)  
+╰─ 129.250.7.88    2914    69.761                        (None, None, US, NA) ae-3.r21.amstnl07.nl.bb.gin.ntt.net                                                                 
+╭─ 129.250.7.71    2914    69.276                        (None, None, US, NA) ae-1.a00.amstnl07.nl.bb.gin.ntt.net                                                                 
+S (2914)  
+╰─ 157.238.231.205 2914    69.064          (Amsterdam, North Holland, NL, EU)                                                                                                     
+╭─ 206.148.26.80   7578    69.12           (Amsterdam, North Holland, NL, EU)                                                                                                     
+S&T (7578)  
+╰─ 206.148.26.23   7578    75.413                   (London, England, GB, EU) e49.lon-eqxld8-bb6.globalsecurelayer.com                                                            
+╭─ 206.148.26.14   7578    75.062                   (London, England, GB, EU) e59.lon-thn-bb1.globalsecurelayer.com                                                               
+S (7578)  
+╰─ 206.148.26.7    7578    143.04           (New York City, New York, US, NA) e52.nyc-eqxny2-bb1.globalsecurelayer.com                                                            
+   206.148.25.42   7578    161.416                (Chicago, Illinois, US, NA) e3.chi-eqxch1-bb1.globalsecurelayer.com                                                             
+   206.148.25.79   7578    201.255          (Los Angeles, California, US, NA) e52.lax-csla2-cr2.globalsecurelayer.com                                                             
+   206.148.25.91   7578    201.056          (Los Angeles, California, US, NA) e49.lax-csla2-bb1.globalsecurelayer.com                                                             
+╭─ 206.148.25.84   7578    239.542          (Los Angeles, California, US, NA) e50.ty-eqxty8-bb5.globalsecurelayer.com                                                             
+S (7578)  
+├─ 206.148.24.51   7578    248.166          (Sydney, New South Wales, AU, OC) e30.ty-eqxty8-bb1.globalsecurelayer.com                                                             
+S (7578)  
+╰─ 206.148.24.34   7578    235.667                     (Tokyo, Tokyo, JP, AS) po50-2.ty-eqxty8-cr2.globalsecurelayer.com                                                          
+   206.148.24.35   7578    243.976                     (Tokyo, Tokyo, JP, AS) po10-2.ty-eqxty8-sw4.globalsecurelayer.com                                                          
+   45.11.107.52    969     235.777                     (Tokyo, Tokyo, JP, AS) e52-1-gsl.cr1a.eqty8.nrt4.jp.917.as                                                                 
+   199.119.64.139  969     239.199                   (Urayasu, Tokyo, JP, AS) e31-10.spine2.nrt04.jp.misaka.io                                                                    
+   103.170.232.11  142616  243.924                     (Tokyo, Tokyo, JP, AS) po-31.lag.nrt04.jp.misaka.io                                                                        
+   103.170.232.152 142616  235.571                     (Tokyo, Tokyo, JP, AS) user-103-170-232-152.nrt04.jp.misaka.io                                                             

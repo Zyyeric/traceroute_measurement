@@ -1,0 +1,17 @@
+   172.17.48.40    *       0.0                                            ***                                                                                                     
+   172.17.48.254   *       0.486                                          ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   172.22.6.7      *       1.259                                          ***                                                                                                     
+   172.25.0.197    *       1.304                                          ***                                                                                                     
+   172.16.86.37    *       4.547                                          ***                                                                                                     
+   172.16.5.233    *       5.063                                          ***                                                                                                     
+   172.16.2.138    *       4.424                                          ***                                                                                                     
+   213.144.184.56  6762    79.272          (Frankfurt am Main, Hesse, DE, EU)                                                                                                     
+   195.22.211.33   6762    79.956             (Frankfurt am Main, HE, DE, EU) ae12.francoforte34.fra.seabone.net                                                                  
+╭─ 4.68.63.109     3356    90.404             (Frankfurt am Main, HE, DE, EU) ae-16.edge8.Frankfurt1.Level3.net                                                                   
+T (3356, 25003)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 212.113.14.250  25003   97.779                      (London, None, GB, EU) IB.edge5.London1.Level3.net                                                                         
+T (25003)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 94.188.255.2    25003   152.944              (Bnei Brak, Tel Aviv, IL, AS) 255.188.94-binat-smaug.in-addr.arpa                                                                 

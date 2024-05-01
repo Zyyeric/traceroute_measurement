@@ -1,0 +1,27 @@
+   203.41.0.254    1221    0.0             (Perth, Western Australia, AU, OC) atlas-per.telstra.net                                                                               
+   203.41.0.253    1221    0.423           (Perth, Western Australia, AU, OC)                                                                                                     
+   138.217.126.78  1221    0.404           (Perth, Western Australia, AU, OC) tel4198820.lnk.telstra.net                                                                          
+   138.217.126.77  1221    1.12            (Perth, Western Australia, AU, OC) bundle-ether801-219.pie-edge903.perth.telstra.net                                                   
+   203.50.6.176    1221    1.088                          (Perth, WA, AU, OC) bundle-ether11.pie-core10.perth.telstra.net                                                         
+   203.50.6.234    1221    29.081                      (Adelaide, SA, AU, OC) bundle-ether3.way-core10.adelaide.telstra.net                                                       
+   203.50.6.231    1221    40.631                    (Melbourne, VIC, AU, OC) bundle-ether16.exi-core10.melbourne.telstra.net                                                     
+   203.50.13.124   1221    40.861               (Melbourne, Victoria, AU, OC) bundle-ether2.cla-core30.melbourne.telstra.net                                                      
+   203.50.13.132   1221    52.028           (Sydney, New South Wales, AU, OC) bundle-ether3.hay-core30.sydney.telstra.net                                                         
+╭─ 203.50.6.104    1221    55.358           (Sydney, New South Wales, AU, OC) bundle-ether3.oxf-gw30.sydney.telstra.net                                                           
+S (1221, 4637)  seamewe-3 ✓
+╰─ 203.50.13.94    4637    189.964                       (None, None, HK, AS) *                                                                                                   
+╭─ 203.50.13.94    4637    189.964                       (None, None, HK, AS) *                                                                                                   
+S (4637)  
+╰─ 202.84.141.225  4637    226.252          (Los Angeles, California, US, NA) i-10604.1wlt-core02.telstraglobal.net                                                               
+   202.84.141.225  4637    226.252          (Los Angeles, California, US, NA) i-10604.1wlt-core02.telstraglobal.net                                                               
+   202.84.253.86   4637    224.662          (Los Angeles, California, US, NA) i-93.tlot02.bi.telstraglobal.net                                                                    
+╭─ 134.159.61.106  4637    224.558             (San Jose, California, US, NA) l3-peer.eqnx03.pr.telstraglobal.net                                                                 
+S (4637, 3356)  
+╰─ 171.75.8.87     3356    378.309                   (Madrid, Madrid, ES, EU) ae1.3102.edge1.mad1.neo.colt.net                                                                    
+   213.242.114.122 3356    387.684                   (Madrid, Madrid, ES, EU) serveisweb.bar2.barcelona1.level3.net                                                               
+   130.206.245.25  766     387.704                       (None, None, ES, EU) ciemat.rt2.ethtrunk1.telmad.rt1.mad.red.rediris.es                                                  
+   130.206.216.2   766     387.808                       (None, None, ES, EU) redimadrid-backup-router.red.rediris.es                                                             
+   193.145.15.50   766     387.741                       (None, None, ES, EU) uc3m-rt-ju-01-xe-0-1-0.net.redimadrid.es                                                            
+   ***             *       -inf                                           *** *                                                                                                   
+   163.117.49.4    766     388.259                       (Madrid, MD, ES, EU) b01014zr.uc3m.es                                                                                    
+   163.117.253.5   766     391.137                   (Madrid, Madrid, ES, EU)                                                                                                     

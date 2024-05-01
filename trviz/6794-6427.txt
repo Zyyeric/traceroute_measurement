@@ -1,0 +1,21 @@
+   119.17.170.244  9268    0.0              (Sydney, New South Wales, AU, OC) gen-119-17-170-244.ptr4.otw.net.au                                                                  
+   119.17.170.242  9268    0.485            (Sydney, New South Wales, AU, OC) te0-0-0.1397.iaaspe1.47bou.syd.core.otw.net.au                                                      
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   10.254.250.85   *       1.831                                          ***                                                                                                     
+╭─ 103.110.178.245 9268    1.366            (Sydney, New South Wales, AU, OC) welcometoaussiebroadband.syd.otw.net.au                                                             
+S (9268, 4764)  seamewe-3 ✓ || indigo-west ✓ || australia-singapore-cable-asc ✓
+╰─ 180.150.2.63    4764    93.404              (Singapore, Singapore, SG, AS) be30.core2.equinix-sg1.sin.aussiebb.net                                                             
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 62.115.139.0    1299    93.611              (Singapore, Singapore, SG, AS) sng-b7-link.ip.twelve99.net                                                                         
+S (1299)  apcn-2 ✓ || asia-submarine-cable-express-asecahaya-malaysia ✓ || seamewe-3 ✓ || eac-c2c © || southeast-asia-japan-cable-sjc ✓ || asia-pacific-gateway-apg ✓
+╰─ 62.115.126.245  1299    168.691                     (Tokyo, Tokyo, JP, AS) tky-b3-link.ip.twelve99.net                                                                         
+   62.115.126.134  1299    169.45                      (Tokyo, Tokyo, JP, AS) tky-b2-link.ip.twelve99.net                                                                         
+╭─ 62.115.41.151   1299    171.629                     (Tokyo, Tokyo, JP, AS) constantcompany-ic-358213.ip.twelve99-cust.net                                                      
+S (1299, 46997)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 141.193.21.2    46997   174.454                       (None, None, US, NA) tky01.jp.nat.moe                                                                                    
+   141.193.21.6    46997   217.73               (Seattle, Washington, US, NA) sea01.us.nat.moe                                                                                    
+   141.193.21.100  46997   217.401              (Seattle, Washington, US, NA) us-sea-as46997.anchors.atlas.ripe.net                                                               

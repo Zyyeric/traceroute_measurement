@@ -1,0 +1,19 @@
+   185.6.39.132    42953   0.0                        (Cork, Munster, IE, EU)                                                                                                     
+   185.6.39.130    42953   0.898                      (Cork, Munster, IE, EU)                                                                                                     
+   91.103.0.98     47720   0.667                      (Cork, Munster, IE, EU)                                                                                                     
+   91.103.0.197    47720   0.735                      (Cork, Munster, IE, EU)                                                                                                     
+╭─ 185.6.36.69     6939    0.737 (5.39)                     (Dublin, D, IE, EU) 10ge16-1.core1.dub1.he.net                                                                          
+S&T (6939)  exa-express ✓ || pan-european-crossing-uk-ireland ✓ || esat-1 ✓ || solas ✓
+╰─ 72.52.92.197    6939    9.925                    (Manchester, ENG, GB, EU) 100ge3-2.core1.man1.he.net                                                                          
+╭─ 72.52.92.201    6939    15.264                       (London, ENG, GB, EU) 100ge0-61.core3.lon2.he.net                                                                         
+S&T (6939)  seamewe-3 ✓ || high-capacity-undersea-guernsey-optical-fibre-hugo ✓ || uk-channel-islands-8 ✘ || channel-islands-9-liberty-submarine-cable ✓ || uk-channel-islands-7 ✓
+├─ 184.105.223.254 6939    23.772                        (Paris, IDF, FR, EU) port-channel4.core2.par2.he.net                                                                     
+S (6939)  seamewe-5 ✓ || peace-cable ✘ || seamewe-4 ✓ || seamewe-3 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 65.49.109.214   6939    198.037             (Singapore, Singapore, SG, AS) pakistan-telecommunication-co-ltd.e0-26.switch1.sin1.he.net                                         
+S (6939, 7590)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 202.125.149.58  7590    216.068                   (Rawalpindi, PB, PK, AS) Touchstone-4.rwp44d1.pie.net.pk                                                                     
+   210.56.8.180    7590    233.94                     (Islamabad, IS, PK, AS) *                                                                                                   
+   210.56.11.202   7590    216.126             (Islamabad, Islamabad, PK, AS)                                                                                                     

@@ -1,0 +1,12 @@
+   103.143.136.43  63781   0.0                         (Tokyo, Tokyo, JP, AS) koba-103-143-136-43.rev.kobayashi.ad.jp                                                             
+   103.143.136.62  63781   2.297                       (Tokyo, Tokyo, JP, AS) koba-103-143-136-62.rev.kobayashi.ad.jp                                                             
+   103.143.136.25  63781   0.271                       (Tokyo, Tokyo, JP, AS) bgprt1-ospfrt1.kobayashi.ad.jp                                                                      
+   103.41.60.164   10010   0.463                       (Tokyo, Tokyo, JP, AS) bgp3.tokyo-ix.v4.open.ad.jp                                                                         
+   150.99.184.33   2907    1.436                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+   150.99.10.187   2907    1.508                         (None, None, JP, AS) *                                                                                                   
+╭─ 210.171.224.40  6939    7.107                        (Tokyo, 40, JP, None) as6939.ix.jpix.ad.jp                                                                                
+S (6939)  eac-c2c ✓ || asia-pacific-gateway-apg ✓
+╰─ 184.105.64.129  6939    55.155                   (Hong Kong, None, HK, AS) 100ge10-2.core1.hkg1.he.net                                                                         
+   184.104.220.67  6939    50.871              (Hong Kong, Hong Kong, HK, AS) lshiy.e0-30.switch1.hkg1.he.net                                                                     
+   103.203.243.11  955     50.619              (Hong Kong, Hong Kong, HK, AS) multi-user.port-channe17.switch1.hkg1.bb.lshiy.net                                                  
+   89.213.179.65   32167   50.52               (Hong Kong, Hong Kong, HK, AS) 89-213-179-65.ip.lshiyusercontent.com                                                               

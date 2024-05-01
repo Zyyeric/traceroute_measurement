@@ -1,0 +1,17 @@
+   5.62.127.14     199610  0.0                      (London, England, GB, EU)                                                                                                     
+╭─ 5.62.127.1      199610  0.324                    (London, England, GB, EU)                                                                                                     
+T (199610)  
+├─ 46.251.228.201  199610  1.815       (Köln, North Rhine-Westphalia, DE, EU)                                                                                                     
+T (199610, 2914)  
+├─ 157.238.226.4   2914    1.931                    (London, England, GB, EU) ae-13.a02.londen12.uk.bb.gin.ntt.net                                                                
+S (2914)  
+╰─ 129.250.3.212   2914    2.199                         (None, None, US, NA) ae-0.r20.londen12.uk.bb.gin.ntt.net                                                                 
+╭─ 129.250.3.249   2914    1.842                         (None, None, US, NA) ae-13.a03.londen12.uk.bb.gin.ntt.net                                                                
+S (2914)  
+├─ 129.250.9.2     2914    8.718                    (Poplar, England, GB, EU) ae-0.telecom-italia.londen12.uk.bb.gin.ntt.net                                                      
+S&T (2914, 6762)  
+╰─ 195.22.192.83   6762    24.84                          (Milan, 25, IT, EU) ae26.milano81.mil.seabone.net                                                                       
+   185.78.48.20    201333  31.059                   (Milan, Lombardy, IT, EU) ens2f4-r01.mil1d.naquadria.net                                                                      
+   185.78.48.146   201333  27.808                   (Milan, Lombardy, IT, EU) ens1f4-911-r02.pia1.naquadria.net                                                                   
+   185.78.48.244   201333  27.928                     (Parabiago, 25, IT, EU) lf01b5-vlan910.pia1.naquadria.net                                                                   
+   185.78.49.100   201333  28.437          (Piacenza, Emilia-Romagna, IT, EU) it-pcz-as201333.anchors.atlas.ripe.net                                                              

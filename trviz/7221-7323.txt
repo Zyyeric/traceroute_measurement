@@ -1,0 +1,12 @@
+   114.31.201.91   4826    0.0              (Sydney, New South Wales, AU, OC) 91.201.31.114.core.vocus.network                                                                    
+╭─ 114.31.201.90   4826    0.796            (Sydney, New South Wales, AU, OC) 90.201.31.114.core.vocus.network                                                                    
+S (4826)  hawaiki ✘ || southern-cross-cable-network-sccn ✓ || southern-cross-next ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 114.31.199.43   4826    153.013                     (San Jose, CA, US, NA) be202.bdr03.sjc01.ca.us.vocus.network                                                               
+   64.71.184.45    6939    153.519                     (San Jose, CA, US, NA) 10gigabitethernet5-13.core1.sjc1.he.net                                                             
+   184.104.195.114 6939    149.446                   (Pleasanton, CA, US, NA) 100ge16-2.core1.pao1.he.net                                                                         
+   ***             *       -inf                                           *** *                                                                                                   
+   184.105.64.137  6939    168.367                      (Seattle, WA, US, NA) port-channel2.core2.sea1.he.net                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   209.189.201.131 7752    167.558              (Seattle, Washington, US, NA) eth48.ar01.sttlwawb.pop.threshinc.net                                                               
+   209.189.223.8   7752    172.286              (Seattle, Washington, US, NA) 209-189-223-8.ip.threshinc.net                                                                      

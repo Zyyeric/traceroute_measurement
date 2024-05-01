@@ -1,0 +1,16 @@
+   104.238.161.230 20473   0.0                          (Ōi, Saitama, JP, AS) 104.238.161.230.vultrusercontent.com                                                                
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 209.222.31.33   20473   14.323              (Motoyoyogichō, Tokyo, JP, AS) vl199-ds1-j2-r235.tyo2.constant.com                                                                 
+S (20473, 4651)  eac-c2c ✓ || asia-pacific-gateway-apg ✓
+├  10.71.1.9       *       1.161                                          ***                                                                                                     
+├  10.71.2.233     *       1.141                                          ***                                                                                                     
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 65.49.108.78    4651    53.722                   (Hong Kong, None, HK, AS) cat-telecom-public-company-ltd.10gigabitethernet7-2.core1.hkg1.he.net                               
+S (4651)  asia-america-gateway-aag-cable-system ✓ || asia-africa-europe-1-aae-1 ✓ || flag-europe-asia-fea ✘
+╰─ 61.19.9.121     4651    93.5                          (None, None, TH, AS) *                                                                                                   
+   61.19.7.22      4651    93.757                        (None, None, TH, AS) *                                                                                                   
+   122.155.224.74  135063  93.148                        (None, None, TH, AS) *                                                                                                   
+   172.21.21.5     *       94.594                                         ***                                                                                                     
+   172.24.132.102  *       93.067                                         ***                                                                                                     
+   103.253.132.25  59238   95.028                  (Bangkok, Bangkok, TH, AS) th-bkk-as59238.anchors.atlas.ripe.net                                                               

@@ -1,0 +1,12 @@
+   89.213.179.65   32167   0.0                 (Hong Kong, Hong Kong, HK, AS) 89-213-179-65.ip.lshiyusercontent.com                                                               
+   89.213.179.64   32167   0.065             (Kadoorie, Kowloon City, HK, AS) 89-213-179-64.ip.lshiyusercontent.com                                                               
+╭─ 103.203.243.10  955     0.209             (Kadoorie, Kowloon City, HK, AS) port-channe17.switch1.hkg1.bb.lshiy.net                                                             
+S (955, 6939)  apcn-2 ✘ || southeast-asia-japan-cable-sjc ✓ || seamewe-3 ✓ || eac-c2c ✘ || asia-pacific-gateway-apg ✘ || asia-submarine-cable-express-asecahaya-malaysia ✘ || asia-america-gateway-aag-cable-system ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.199.182 6939    36.163              (Singapore, Singapore, SG, AS) port-channel3.core3.sin1.he.net                                                                     
+S (6939)  seamewe-5 ✓
+╰─ 184.105.64.198  6939    105.881                        (Dubai, DU, AE, AS) 10ge4-11.core1.dxb1.he.net                                                                          
+╭─ 185.1.8.35      47794   118.061                       (Dubai, 3, AE, None) atheeb.net                                                                                          
+S&T (47794)  
+╰─ 94.77.210.70    47794   120.245                        (Jeddah, 2, SA, AS) *                                                                                                   
+   94.77.252.90    47794   118.155            (Riyadh, Riyadh Region, SA, AS) 94-77-252-90.static.go.com.sa                                                                       

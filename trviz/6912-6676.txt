@@ -1,0 +1,16 @@
+   203.175.175.206 24482   0.0                 (Singapore, Singapore, SG, AS)                                                                                                     
+   103.14.247.241  24482   0.573               (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 103.16.102.30   24482   0.698                     (Singapore, 1, SG, None) sggs.sgix.sg                                                                                        
+S (24482, 137409)  
+├─ 27.111.229.213  137409  0.925                     (Seogwipo, None, KR, AS) 137409.sgw.equinix.com                                                                              
+S (137409, 7578)  
+╰─ 206.148.24.79   7578    1.226               (Singapore, Singapore, SG, AS) po4.sg-eqxsg3-cr2.globalsecurelayer.com                                                             
+╭─ 206.148.24.26   7578    0.967               (Singapore, Singapore, SG, AS) po1.sg-eqxsg3-bb1.globalsecurelayer.com                                                             
+S (7578)  
+╰─ 206.148.24.20   7578    47.208        (Belmont, Western Australia, AU, OC) e52.per-ndcp2-bb2.globalsecurelayer.com                                                             
+   206.148.24.8    7578    92.66            (Sydney, New South Wales, AU, OC) e2.syd-eqxsy5-bb1.globalsecurelayer.com                                                             
+   206.148.24.115  7578    92.58            (Sydney, New South Wales, AU, OC) po7.syd-eqxsy5-bb1.globalsecurelayer.com                                                            
+   206.148.24.113  7578    92.595           (Sydney, New South Wales, AU, OC)                                                                                                     
+   206.148.24.117  7578    92.413           (Sydney, New South Wales, AU, OC)                                                                                                     
+   100.64.1.10     *       92.468                                         ***                                                                                                     
+   202.165.66.5    137409  92.834           (Sydney, New South Wales, AU, OC)                                                                                                     

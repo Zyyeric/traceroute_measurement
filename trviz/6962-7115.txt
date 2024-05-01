@@ -1,0 +1,9 @@
+   123.176.1.4     7642    0.0                    (Male, Kaafu Atoll, MV, AS)                                                                                                     
+╭─ 123.176.1.2     7642    0.728                  (Male, Kaafu Atoll, MV, AS)                                                                                                     
+S (7642)  
+├─ 202.1.205.241   7642    0.823                       (Singapore, 4, SG, AS) xe-1-0-0-0.rt.dhivehinet.net.mv                                                                     
+S (7642, 15802)  
+├─ 27.111.228.92   15802   45.139                    (Seogwipo, None, KR, AS) 15802.sgw.equinix.com                                                                               
+S (15802)  
+├  10.65.8.233     *       124.131                                        ***                                                                                                     
+╰─ 94.203.76.219   15802   123.938                     (Dubai, Dubai, AE, AS)                                                                                                     

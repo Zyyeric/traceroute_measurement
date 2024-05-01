@@ -1,0 +1,20 @@
+   77.223.128.226  43391   0.0                (İzmir, İzmir Province, TR, AS)                                                                                                     
+   10.200.0.1      *       0.353                                          ***                                                                                                     
+   10.20.0.250     *       0.881                                          ***                                                                                                     
+   10.34.35.10     *       14.696                                         ***                                                                                                     
+╭─ 185.1.48.16     *       15.815                (Ataşehir, Istanbul, TR, AS) ipv4.decix-istanbul.he.net                                                                          
+S&T (, 6939)  kafos ✘
+├─ 184.104.196.45  6939    24.471              (Sofia, Sofia-Capital, BG, EU) 100ge0-70.core3.sof1.he.net                                                                         
+LHL (6939)  atlantic-crossing-1-ac-1 ✓
+├─ 184.104.196.193 6939    43.476                        (Denver, CO, US, NA) 100ge2-1.core1.den1.he.net                                                                          
+S (6939, 4651)  sea-us ✓ ↠ asia-america-gateway-aag-cable-system ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 74.82.46.34     4651    189.483                  (Singapore, None, SG, AS) cat-telecom-public-company-ltd.e0-38.switch1.sin1.he.net                                            
+S&T (4651)  asia-america-gateway-aag-cable-system ✓ || seamewe-4 ✓ || seamewe-3 ✓
+╰─ 61.19.9.137     4651    215.444                 (Bangkok, Bangkok, TH, AS)                                                                                                     
+   61.19.7.2       4651    215.414                       (None, None, TH, AS) *                                                                                                   
+   122.155.224.74  135063  216.891                       (None, None, TH, AS) *                                                                                                   
+   172.21.21.4     *       215.397                                        ***                                                                                                     
+   172.24.132.101  *       215.819                                        ***                                                                                                     
+   103.253.132.25  59238   216.991                 (Bangkok, Bangkok, TH, AS) th-bkk-as59238.anchors.atlas.ripe.net                                                               

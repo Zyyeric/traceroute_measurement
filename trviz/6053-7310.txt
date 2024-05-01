@@ -1,0 +1,16 @@
+   38.47.189.189   140443  0.0           (Kuala Lumpur, Kuala Lumpur, MY, AS)                                                                                                     
+   38.47.189.1     140443  0.205         (Kuala Lumpur, Kuala Lumpur, MY, AS)                                                                                                     
+╭─ 38.47.188.2     140443  0.195         (Kuala Lumpur, Kuala Lumpur, MY, AS)                                                                                                     
+S&T (140443, 9002)  indonesia-global-gateway-igg-system ✓ || palapa-ring-west ✓ || batam-dumai-melaka-bdm-cable-system ✘ || jasuka ✓ || seamewe-4 ✘ || seamewe-5 ✓ || seax-1 ✘ || asia-submarine-cable-express-asecahaya-malaysia ✓ || asia-america-gateway-aag-cable-system ✓ || batam-rengit-cable-system-brcs ✘ || apcn-2 ✓
+├  10.111.220.141  *       6.229                                          ***                                                                                                     
+├─ 87.245.231.200  9002    6.411               (Singapore, Singapore, SG, AS) ae0-526.rt.eqx.sin.sg.retn.net                                                                      
+S (9002)  seamewe-5 ✓
+╰─ 87.245.232.112  9002    144.331                   (Marseille, PAC, FR, EU) ae2-5.RT.IRX.MRS.FR.retn.net                                                                        
+╭─ 193.251.250.191 5511    144.458                       (None, None, FR, EU) *                                                                                                   
+S&T (5511)  
+├─ 81.52.200.141   5511    342.135                    (Cape Town, WC, ZA, AF) *                                                                                                   
+S (5511)  
+├─ 193.251.250.186 5511    338.667             (Paris, Île-de-France, FR, EU)                                                                                                     
+S&T (5511, 10474)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 197.80.104.36   10474   356.224            (Johannesburg, Gauteng, ZA, AF) 197-80-104-36.jhb.mweb.co.za                                                                        

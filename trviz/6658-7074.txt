@@ -1,0 +1,32 @@
+   103.143.136.43  63781   0.0                         (Tokyo, Tokyo, JP, AS) koba-103-143-136-43.rev.kobayashi.ad.jp                                                             
+   103.143.136.62  63781   3.68                        (Tokyo, Tokyo, JP, AS) koba-103-143-136-62.rev.kobayashi.ad.jp                                                             
+   103.143.136.25  63781   0.435                       (Tokyo, Tokyo, JP, AS) bgprt1-ospfrt1.kobayashi.ad.jp                                                                      
+   103.41.60.164   10010   0.924                       (Tokyo, Tokyo, JP, AS) bgp3.tokyo-ix.v4.open.ad.jp                                                                         
+   150.99.184.33   2907    2.167                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+   150.99.10.187   2907    1.968                         (None, None, JP, AS) *                                                                                                   
+   202.232.6.17    2497    2.283                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+╭─ 58.138.114.217  2497    2.926                       (Tokyo, Tokyo, JP, AS) tky009bb00.iij.net                                                                                  
+S (2497)  japan-u-s-cable-network-jus ✓ || tata-tgn-pacific ✓ || pacific-crossing-1-pc-1 ✓
+╰─ 58.138.88.234   2497    102.528             (San Jose, California, US, NA) sjc002bb00.iij.net                                                                                  
+   ***             *       -inf                                           *** *                                                                                                   
+   62.115.119.228  1299    175.636          (New York City, New York, US, NA) nyk-bb2-link.ip.twelve99.net                                                                        
+╭─ 62.115.136.201  1299    313.075                (Ashburn, Virginia, US, NA) ash-bb2-link.ip.twelve99.net                                                                        
+S (1299)  
+├─ 62.115.112.243  1299    295.436             (Paris, Île-de-France, FR, EU) prs-bb1-link.ip.twelve99.net                                                                        
+T (1299)  
+├─ 62.115.134.96   1299    308.206         (Amsterdam, North Holland, NL, EU) adm-bb1-link.ip.twelve99.net                                                                        
+T (1299)  
+├─ 80.91.252.43    1299    285.586                 (Hamburg, Hamburg, DE, EU) hbg-bb3-link.ip.twelve99.net                                                                        
+T (1299)  
+╰─ 62.115.134.76   1299    298.099       (Copenhagen, Capital Region, DK, EU) kbn-bb5-link.ip.twelve99.net                                                                        
+╭─ 62.115.143.7    1299    286.356       (Copenhagen, Capital Region, DK, EU) kbn-b1-link.ip.twelve99.net                                                                         
+S&T (1299)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 62.115.139.172  1299    280.334             (Stockholm, Stockholm, SE, EU) s-bb2-link.ip.twelve99.net                                                                          
+S&T (1299)  
+╰─ 62.115.122.35   1299    294.641                (Helsinki, Uusimaa, FI, EU) hls-b3-link.ip.twelve99.net                                                                         
+   213.248.72.155  1299    256.35                     (Ingå, Uusimaa, FI, EU) ciniaoy-ic-374690.ip.twelve99-cust.net                                                              
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   93.174.194.183  20904   263.601         (Oulu, North Ostrobothnia, FI, EU)                                                                                                     

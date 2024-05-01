@@ -1,0 +1,15 @@
+   199.47.174.227  12110   0.0                       (Tampa, Florida, US, NA) atlas-anchor.tampa.coop                                                                             
+   199.47.174.225  12110   1.17                      (Tampa, Florida, US, NA) vlan-200.coop-stack.tampa.coop                                                                      
+   66.216.50.41    19151   1.265                     (Tampa, Florida, US, NA)                                                                                                     
+╭─ 66.216.2.15     19151   24.503                        (Dallas, TX, US, NA) *                                                                                                   
+S&T (19151, 6453)  arcos ✓ || gignet-1 ✘ || america-movil-submarine-cable-system-1-amx-1 ✘ || maya-1 ✓
+╰─ 206.223.118.40  6453    43.71                         (None, None, MX, NA) 100gig1-1.peer1.dallas1.transtelco.net                                                              
+   187.251.0.40    32098   44.113               (Piedras Negras, COA, MX, NA) *                                                                                                   
+   201.174.251.69  32098   60.054               (Piedras Negras, COA, MX, NA) 201-174-251-69.transtelco.net                                                                       
+   201.174.254.83  32098   68.012    (Santiago de Querétaro, Querétaro, MX, NA) 201-174-254-83.transtelco.net                                                                       
+   201.174.254.190 32098   68.212    (Santiago de Querétaro, Querétaro, MX, NA) 201-174-254-190.transtelco.net                                                                      
+   201.174.172.2   22908   67.875                    (Queretaro, QUE, MX, NA) 201-174-172-2.transtelco.net                                                                        
+   10.5.17.50      *       68.04                                          ***                                                                                                     
+   201.175.40.234  22908   68.302    (Santiago de Querétaro, Querétaro, MX, NA) 201-175-40-234.kionetworks.com                                                                      
+   172.18.20.2     *       68.309                                         ***                                                                                                     
+   45.71.11.105    64112   68.641    (Santiago de Querétaro, Querétaro, MX, NA)                                                                                                     

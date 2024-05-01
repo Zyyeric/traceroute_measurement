@@ -1,0 +1,15 @@
+   103.153.176.122 131657  0.0                       (Taipei, Taiwan, TW, AS) 103-153-176-122.as131657.net                                                                        
+   103.153.176.254 131657  0.241                     (Taipei, Taiwan, TW, AS) 103-153-176-254.as131657.net                                                                        
+╭─ 103.51.91.5     *       0.612                     (Taipei, Taiwan, TW, AS) et-0-0-1.cr1.hd.tpe.as131657.net                                                                    
+S (, 174)  seamewe-3 ✘ || apcn-2 ✘ || trans-pacific-express-tpe-cable-system ✘ || eac-c2c ✘ || faster ✘ || asia-pacific-gateway-apg ✘ || flag-north-asia-loopreach-north-asia-loop ✘ || new-cross-pacific-ncp-cable-system ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 66.28.4.233     174     30.791                      (Tokyo, Tokyo, JP, AS) be2012.ccr71.tyo01.atlas.cogentco.com                                                               
+S (174)  seamewe-3 ✓ || asia-submarine-cable-express-asecahaya-malaysia ✓ || apcn-2 ✓ || eac-c2c ✘ || asia-pacific-gateway-apg ✓ || flag-north-asia-loopreach-north-asia-loop ✓ || southeast-asia-japan-cable-sjc © || flag-europe-asia-fea ©
+├─ 154.54.89.202   174     87.154              (Hong Kong, Hong Kong, HK, AS) be3011.ccr21.hkg02.atlas.cogentco.com                                                               
+S (174)  asia-africa-europe-1-aae-1 ✓
+╰─ 154.54.6.25     174     269.269                   (Marseille, PAC, FR, EU) be2900.ccr32.mrs02.atlas.cogentco.com                                                               
+   154.54.72.225   174     294.906                       (Paris, IDF, FR, EU) be2780.ccr42.par01.atlas.cogentco.com                                                               
+   130.117.3.54    174     303.393           (Bordeaux/Merignac, NAQ, FR, EU) be3051.rcr71.bod01.atlas.cogentco.com                                                               
+   154.25.0.74     174     303.277           (Bordeaux/Merignac, NAQ, FR, EU) te0-0-2-2.nr11.b015544-0.bod01.atlas.cogentco.com                                                   
+   149.6.44.19     174     302.513     (Bordeaux, Nouvelle-Aquitaine, FR, EU)                                                                                                     
+   185.233.100.99  198985  303.039     (Bordeaux, Nouvelle-Aquitaine, FR, EU) ripe-atlas.aquilenet.fr                                                                             

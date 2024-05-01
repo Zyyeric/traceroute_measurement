@@ -1,0 +1,19 @@
+   27.111.84.21    135132  0.0           (Cebu City, Central Visayas, PH, AS) ph-ceb-as135132.anchors.atlas.ripe.net                                                              
+   27.111.84.20    135132  1.076             (Baugo, Central Visayas, PH, AS) vlan509.core.ceb02.ds.network                                                                       
+   192.168.159.142 *       0.89 (6.041)                                     ***                                                                                                     
+   192.168.159.152 *       0.704                                          ***                                                                                                     
+   192.168.159.168 *       20.082                                         ***                                                                                                     
+   192.168.159.165 *       2.841                                          ***                                                                                                     
+╭─ 203.177.209.217 4775    3.564             (Baugo, Central Visayas, PH, AS)                                                                                                     
+S (4775, 4637)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 210.57.65.25    4637    42.472              (Singapore, Singapore, SG, AS) unknown.telstraglobal.net                                                                           
+╭─ 67.199.139.109  3257    42.134                      (Singapore, 4, SG, AS) ae10.cr4-sin1.ip4.gtt.net                                                                           
+S (3257)  
+├─ 89.149.187.109  3257    270.614                      (London, ENG, GB, EU) ae15.cr11-lon1.ip4.gtt.net                                                                          
+S&T (3257, 8895)  
+├─ 154.14.64.198   8895    401.46                     (Amsterdam, NH, NL, EU) ip4.gtt.net                                                                                         
+LHL (8895, 208520)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 45.94.14.204    208520  417.989            (Riyadh, Riyadh Region, SA, AS)                                                                                                     

@@ -1,0 +1,31 @@
+   103.179.37.157  151332  0.0                  (Melbourne, Victoria, AU, OC)                                                                                                     
+   103.179.37.156  151332  0.205                (Melbourne, Victoria, AU, OC)                                                                                                     
+   203.192.83.253  7545    1.286                (Melbourne, Victoria, AU, OC) ip-253-83-192-203.static.pipenetworks.com                                                           
+   203.220.216.73  7545    1.65                         (Sydney, NSW, AU, OC) 203-220-216-73.tpgi.com.au                                                                          
+   27.32.160.194   7545    13.958                       (Sydney, NSW, AU, OC) 27-32-160-194.static.tpgi.com.au                                                                    
+   202.7.173.17    7545    12.79                        (Sydney, NSW, AU, OC) syd-gls-har-crt2-be-10.tpgi.com.au                                                                  
+╭─ 203.221.3.3     7545    12.942                       (Sydney, NSW, AU, OC) syd-gls-har-int1-he0-3-0-2.tpgi.com.au                                                              
+S (7545, 174)  hawaiki ✘ || southern-cross-cable-network-sccn ✓ || southern-cross-next ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 154.54.43.13    174     157.999                (San Francisco, CA, US, NA) be3670.ccr22.sfo01.atlas.cogentco.com                                                               
+   154.54.44.142   174     172.367               (Salt Lake City, UT, US, NA) be3110.ccr32.slc01.atlas.cogentco.com                                                               
+   154.54.42.98    174     183.259                       (Denver, CO, US, NA) be3038.ccr22.den01.atlas.cogentco.com                                                               
+   154.54.31.90    174     194.018                  (Kansas City, MO, US, NA) be3036.ccr22.mci01.atlas.cogentco.com                                                               
+   154.54.44.170   174     206.377                      (Chicago, IL, US, NA) be2832.ccr42.ord01.atlas.cogentco.com                                                               
+   154.54.7.130    174     290.447                    (Cleveland, OH, US, NA) be2718.ccr22.cle04.atlas.cogentco.com                                                               
+   154.54.162.170  174     290.517          (New York City, New York, US, NA)                                                                                                     
+╭─ 154.54.84.214   174     290.292                     (New York, NY, US, NA) be2897.rcr24.jfk01.atlas.cogentco.com                                                               
+S (174)  
+╰─ 154.54.93.22    174     290.454                  (London, England, GB, EU) be4327.ccr52.lhr01.atlas.cogentco.com                                                               
+╭─ 154.54.60.13    174     290.516                      (London, ENG, GB, EU) be3488.ccr42.lon13.atlas.cogentco.com                                                               
+S&T (174)  
+├─ 130.117.51.42   174     290.525                    (Amsterdam, NH, NL, EU) be12488.ccr42.ams03.atlas.cogentco.com                                                              
+T (174)  
+╰─ 130.117.0.142   174     297.33             (Frankfurt am Main, HE, DE, EU) be2814.ccr42.fra03.atlas.cogentco.com                                                               
+   130.117.1.117   174     297.505            (Frankfurt am Main, HE, DE, EU) be3187.agr41.fra03.atlas.cogentco.com                                                               
+╭─ 154.25.15.94    174     297.644         (Frankfurt am Main, Hesse, DE, EU) be2632.nr61.b015753-1.fra03.atlas.cogentco.com                                                      
+T (174, 47794)  
+├─ 149.11.182.90   47794   359.944                  (Forest Row, ENG, GB, EU) *                                                                                                   
+S&T (47794)  
+╰─ 94.77.210.130   47794   367.271            (Riyadh, Riyadh Region, SA, AS) 94-77-210-130.static.go.com.sa                                                                      
+   94.77.252.90    47794   430.886            (Riyadh, Riyadh Region, SA, AS) 94-77-252-90.static.go.com.sa                                                                       

@@ -1,0 +1,23 @@
+   185.39.208.23   199993  0.0                       (Lisbon, Lisbon, PT, EU) atlasancora01.wan.dns.pt                                                                            
+   185.39.208.60   199993  3.775                     (Lisbon, Lisbon, PT, EU)                                                                                                     
+   194.210.4.137   1930    14.97                     (Lisbon, Lisbon, PT, EU) router63.lisboa.fccn.pt                                                                             
+   194.210.6.112   1930    36.698                    (Lisbon, Lisbon, PT, EU) router30.lisboa.fccn.pt                                                                             
+   194.210.6.103   1930    6.289                     (Lisbon, Lisbon, PT, EU) router3.lisboa.fccn.pt                                                                              
+   194.210.6.102   1930    30.468                        (Lisbon, 11, PT, EU) Router30.Lisboa.fccn.pt                                                                             
+   193.136.1.9     1930    41.145                      (Porto, Porto, PT, EU) router20.porto.fccn.pt                                                                              
+   194.210.7.103   1930    49.214                         (Porto, 13, PT, EU) Router2.Porto.fccn.pt                                                                               
+╭─ 83.97.88.44     21320   11.138                    (Lisbon, Lisbon, PT, EU) fccn-ias-geant-gw.rt1.por.pt.geant.net                                                              
+S&T (21320, 20965)  seamewe-3 ✓
+├─ 62.40.98.220    20965   57.044                      (Bilbao, None, ES, EU) ae2.rt1.bil.es.geant.net                                                                            
+S&T (20965)  
+├─ 62.40.98.223    20965   63.456                        (Paris, IDF, FR, EU) ae4.mx1.par.fr.geant.net                                                                            
+T (20965)  
+╰─ 62.40.98.238    20965   110.17                    (Genève, Geneva, CH, EU) ae7.mx1.gen.ch.geant.net                                                                            
+╭─ 62.40.98.182    20965   136.764                     (Geneva, None, CH, EU) ae5.mx1.gen.ch.geant.net                                                                            
+T (20965, 3356)  
+╰─ 62.67.72.69     3356    264.345         (Frankfurt am Main, Hesse, DE, EU) lag-117.ear4.frankfurt1.level3.net                                                                  
+   171.75.10.131   3356    619.763         (Frankfurt am Main, Hesse, DE, EU) ae1.3122.edge9.frf1.neo.colt.net                                                                    
+╭─ 63.218.233.1    3491    466.263            (Frankfurt am Main, HE, DE, EU) 63-218-233-1.static.pccwglobal.net                                                                  
+LHL (3491)  seamewe-3 👍 || flag-europe-asia-fea ✓
+╰─ 63.218.148.102  3491    356.457                      (Seoul, None, KR, AS) Bundle-Ether43.br04.seo01.pccwbtn.net                                                               
+   63.222.106.8    3491    380.837                     (Seoul, Seoul, KR, AS) 63-222-106-8.static.pccwglobal.net                                                                  

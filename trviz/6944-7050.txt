@@ -1,0 +1,32 @@
+╭─ 196.49.84.188   328913  0.0                     (Douala, Littoral, CM, AF) cm-dla-as328913.anchors.atlas.ripe.net                                                              
+S (328913, 60171)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 102.219.44.42   60171   1.255                       (Lagos, Lagos, NG, AF)                                                                                                     
+S (60171)  
+├─ 185.10.164.44   60171   236.74              (Barcelona, Catalonia, ES, EU)                                                                                                     
+S (60171)  
+├─ 102.223.52.72   60171   237.29                      (Lagos, Lagos, NG, AF)                                                                                                     
+S (60171)  
+╰─ 185.10.164.33   60171   237.429             (Barcelona, Catalonia, ES, EU)                                                                                                     
+╭─ 185.10.164.134  60171   237.072             (Barcelona, Catalonia, ES, EU)                                                                                                     
+S&T (60171, 37542)  
+├─ 185.10.164.112  37542   239.86                       (London, ENG, GB, EU) *                                                                                                   
+S&T (37542, 60171)  
+├─ 185.10.164.98   60171   239.716             (Barcelona, Catalonia, ES, EU)                                                                                                     
+S&T (60171, 6939)  
+├─ 184.104.224.112 6939    240.323                   (Lisbon, Lisbon, PT, EU) e0-18.switch1.lis1.he.net                                                                           
+S&T (6939)  
+╰─ 184.104.195.97  6939    267.412                      (London, ENG, GB, EU) 100ge0-35.core2.lon3.he.net                                                                         
+╭─ 184.105.65.2    6939    264.111                      (London, ENG, GB, EU) 100ge0-36.core3.lon1.he.net                                                                         
+S (6939, 4637)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 202.84.140.141  4637    436.833             (Singapore, Singapore, SG, AS) i-1000.sgcn-core01.telstraglobal.net                                                                
+   202.84.140.141  4637    436.833             (Singapore, Singapore, SG, AS) i-1000.sgcn-core01.telstraglobal.net                                                                
+╭─ 202.84.207.190  4637    433.172             (Singapore, Singapore, SG, AS) unknown.telstraglobal.net                                                                           
+S (4637)  
+╰─ 202.84.204.41   4637    435.679                     (Dubai, Dubai, AE, AS) i-103.uddm01.telstraglobal.net                                                                      
+   217.151.46.27   4637    432.186                     (Dubai, Dubai, AE, AS) unknown.telstraglobal.net                                                                           
+   156.154.53.254  12008   435.034                     (Dubai, Dubai, AE, AS)                                                                                                     

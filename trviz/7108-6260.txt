@@ -1,0 +1,28 @@
+   185.39.208.23   199993  0.0                       (Lisbon, Lisbon, PT, EU) atlasancora01.wan.dns.pt                                                                            
+   185.39.208.60   199993  10.35                     (Lisbon, Lisbon, PT, EU)                                                                                                     
+   194.210.4.137   1930    13.52                     (Lisbon, Lisbon, PT, EU) router63.lisboa.fccn.pt                                                                             
+   194.210.6.212   1930    10.369                    (Lisbon, Lisbon, PT, EU)                                                                                                     
+   193.136.1.11    1930    14.413                      (Porto, Porto, PT, EU) router40.porto.fccn.pt                                                                              
+   194.210.7.203   1930    6.698                          (Porto, 13, PT, EU) Router2.Porto.fccn.pt                                                                               
+╭─ 62.40.127.144   20965   29.908                    (Lisbon, Lisbon, PT, EU) fccn-bckp-gw.rt1.por.pt.geant.net                                                                   
+S&T (20965)  
+├─ 62.40.98.220    20965   114.186                     (Bilbao, None, ES, EU) ae2.rt1.bil.es.geant.net                                                                            
+S&T (20965)  
+├─ 62.40.98.223    20965   106.007                       (Paris, IDF, FR, EU) ae4.mx1.par.fr.geant.net                                                                            
+S&T (20965)  
+├─ 62.40.98.106    20965   194.171                       (Lisbon, 11, PT, EU) ae0.mx2.lis.pt.geant.net                                                                            
+S&T (20965)  
+├─ 62.40.98.64     20965   353.145                  (London, England, GB, EU) ae2.mx1.lon.uk.geant.net                                                                            
+S (20965, 24490)  
+├─ 202.179.249.33  24490   626.444                       (None, None, CN, AS) *                                                                                                   
+S (24490, 23855)  
+╰─ 203.30.38.92    23855   541.03                      (Singapore, 4, SG, AS) et-6-2-3160-geant-soe1.singaren.net.sg                                                              
+╭─ 203.30.38.111   134148  874.871                       (None, None, SG, AS) 980-soe2-soe1.singaren.net.sg                                                                       
+S (134148, 141682)  
+╰─ 103.161.244.242 141682  1309.673                    (Tokyo, Tokyo, JP, AS)                                                                                                     
+   103.161.244.43  141682  931.153                     (Tokyo, Tokyo, JP, AS)                                                                                                     
+╭─ 103.161.244.202 141682  733.221                     (Tokyo, Tokyo, JP, AS)                                                                                                     
+S (141682, )  
+╰─ 103.78.235.0    *       600.642                 (Jakarta, Jakarta, ID, AS)                                                                                                     
+   103.81.101.1    58475   484.401                       (None, None, ID, AS) *                                                                                                   
+   103.23.232.7    58475   366.098    (Banjarmasin, South Kalimantan, ID, AS)                                                                                                     

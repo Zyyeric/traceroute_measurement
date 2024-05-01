@@ -1,0 +1,12 @@
+   203.119.111.139 4608    0.0                 (Brisbane, Queensland, AU, OC) anchor.apnic.net                                                                                    
+   203.119.111.131 4608    0.587               (Brisbane, Queensland, AU, OC) vl-1705.nxcs2.hosted.au.apnic.net                                                                   
+╭─ 203.119.104.29  4608    0.437                      (Brisbane, QLD, AU, OC) te-0-1-5.nxgw2.bne.apnic.net                                                                        
+S (4608, )  seamewe-3 ✓ || indigo-west ✓ || australia-singapore-cable-asc ✓
+├─ 27.111.230.169  *       104.75              (Singapore, Singapore, SG, AS)                                                                                                     
+S&T (, 136106)  
+├─ 103.87.184.83   136106  116.068                       (None, None, ID, AS) ip184-83.fiberstar.net.id                                                                           
+S&T (136106, 7632)  
+├─ 111.95.244.214  7632    124.308             (Singapore, Singapore, SG, AS) fm-dyn-111-95-244-214.fast.net.id                                                                   
+S&T (7632, 142360)  
+╰─ 103.170.24.254  142360  124.316                       (None, None, ID, AS) ipv4-254-24.170.103.as142360.net                                                                    
+   103.170.25.13   142360  124.437           (Semarang, Central Java, ID, AS) ipv4-13-25-170-103.nexa.net.id                                                                      

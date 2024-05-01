@@ -1,0 +1,22 @@
+   92.38.135.131   202422  0.0                         (Seoul, Seoul, KR, AS)                                                                                                     
+   92.38.135.2     202422  0.617                       (Seoul, Seoul, KR, AS) vrrp.gcore.lu                                                                                       
+   10.255.17.209   *       0.958                                          ***                                                                                                     
+   10.255.17.213   *       0.802                                          ***                                                                                                     
+   10.255.17.146   *       0.638                                          ***                                                                                                     
+╭─ 8.244.72.213    3356    0.694 (2.964)                  (Seoul, Seoul, KR, AS)                                                                                                     
+S (3356)  new-cross-pacific-ncp-cable-system ✓ || trans-pacific-express-tpe-cable-system ✓
+╰─ 4.69.219.210    3356    123.801                       (None, None, US, NA) *                                                                                                   
+   195.12.254.196  1299    142.635              (Seattle, Washington, US, NA) sea-b1-link.ip.twelve99.net                                                                         
+   62.115.132.154  1299    177.699                (Chicago, Illinois, US, NA) chi-bb2-link.ip.twelve99.net                                                                        
+╭─ 62.115.132.134  1299    190.852          (Jersey City, New Jersey, US, NA) nyk-bb2-link.ip.twelve99.net                                                                        
+S (1299)  exa-north-and-south ✘ || atlantic-crossing-1-ac-1 ✓ || yellow ✓ || apollo © || tata-tgn-atlantic ✓ || flag-atlantic-1-fa-1 ©
+├─ 62.115.113.21   1299    264.253                  (London, England, GB, EU) ldn-bb1-link.ip.twelve99.net                                                                        
+T (1299)  
+╰─ 80.91.249.11    1299    277.585                 (Hamburg, Hamburg, DE, EU) hbg-bb3-link.ip.twelve99.net                                                                        
+╭─ 62.115.123.76   1299    281.229         (Frankfurt am Main, Hesse, DE, EU) ffm-bb1-link.ip.twelve99.net                                                                        
+T (1299)  
+╰─ 62.115.123.13   1299    284.188             (Paris, Île-de-France, FR, EU) prs-bb1-link.ip.twelve99.net                                                                        
+   62.115.118.59   1299    277.354             (Paris, Île-de-France, FR, EU) prs-b3-link.ip.twelve99.net                                                                         
+   80.239.135.198  1299    264.685             (Paris, Île-de-France, FR, EU) qbrick-ic-153139.ip.twelve99-cust.net                                                               
+   95.81.129.209   52039   276.343                       (None, None, FR, EU) *                                                                                                   
+   185.150.253.30  52039   276.383                 (Rennes, Brittany, FR, EU)                                                                                                     

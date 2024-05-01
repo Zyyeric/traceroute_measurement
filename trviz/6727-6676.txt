@@ -1,0 +1,17 @@
+   203.175.175.206 24482   0.0                 (Singapore, Singapore, SG, AS)                                                                                                     
+   203.175.175.252 24482   0.421                         (None, None, SG, AS) edge-1.v10.sg3.sg.gs                                                                                
+╭─ 103.16.102.30   24482   0.78                      (Singapore, 1, SG, None) sggs.sgix.sg                                                                                        
+S (24482, 16276)  eac-c2c ✓ || asia-pacific-gateway-apg ✓ || southeast-asia-japan-cable-sjc ✓ || asia-america-gateway-aag-cable-system ✓ || seamewe-3 ✓ || asia-submarine-cable-express-asecahaya-malaysia ✓ || apcn-2 ✓ || tata-tgn-intra-asia-tgn-ia ✓
+├  10.200.0.198    *       0.935                                          ***                                                                                                     
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 103.5.15.27     16276   92.041                      (Central, HCW, HK, AS) syd-sy2-bb1-a9.au.asia                                                                              
+S (16276)  
+╰─ 72.251.0.8      16276   90.679           (Sydney, New South Wales, AU, OC)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   139.99.219.16   16276   90.272           (Sydney, New South Wales, AU, OC) au-syd-as16276.anchors.atlas.ripe.net                                                               

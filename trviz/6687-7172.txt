@@ -1,0 +1,13 @@
+   63.222.106.8    3491    0.0                         (Seoul, Seoul, KR, AS) 63-222-106-8.static.pccwglobal.net                                                                  
+╭─ 63.222.106.2    3491    0.628                (Yongsan-dong, Seoul, KR, AS) 63-222-106-2.static.pccwglobal.net                                                                  
+S (3491)  asia-pacific-gateway-apg ✓ || flag-north-asia-loopreach-north-asia-loop 👍 || eac-c2c ✓ || apcn-2 👍 || new-cross-pacific-ncp-cable-system ✓ || korea-japan-cable-network-kjcn ✓ || seamewe-3 👍 || flag-europe-asia-fea ✓ || trans-pacific-express-tpe-cable-system ✓
+╰─ 63.218.250.229  3491    30.471                      (Tokyo, Tokyo, JP, AS) hundredge0-4-0-3.br02.tok02.as3491.net                                                              
+╭─ 63.218.251.202  3491    30.541                      (Tokyo, Tokyo, JP, AS)                                                                                                     
+S (3491, 1273)  flag-europe-asia-fea ✓ || seamewe-3 👍
+╰─ 195.2.10.193    1273    267.85                        (None, None, GB, EU) *                                                                                                   
+   195.2.2.57      1273    266.728                       (None, None, GB, EU) ae34-xcr1.mrx.cw.net                                                                                
+╭─ 195.2.27.157    1273    267.763                       (None, None, GB, EU) ae6-xcr1.bsb.cw.net                                                                                 
+S&T (1273, 12430)  
+╰─ 195.89.97.98    12430   264.153                       (None, None, ES, EU) vfspain-barcelona-gw.bsb.cw.net                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   147.84.200.125  39069   295.29                    (Murcia, Murcia, ES, EU)                                                                                                     

@@ -1,0 +1,23 @@
+   197.239.73.59   37577   0.0                  (Ouagadougou, Centre, BF, AF)                                                                                                     
+   197.239.73.57   37577   0.406                (Ouagadougou, Centre, BF, AF)                                                                                                     
+   165.16.221.42   37721   1.042                         (None, None, BF, AF) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   102.67.97.145   37721   1.42                 (Ouagadougou, Centre, BF, AF) ce5-255.bb1.oua1.vts.bf                                                                             
+╭─ 102.67.96.39    37721   3.415                (Ouagadougou, Centre, BF, AF)                                                                                                     
+LHL (37721)  africa-coast-to-europe-ace ✓
+├─ 102.67.96.46    37721   17.261                       (Paris, None, FR, EU) xe-0-0-1-2022.bb2.prs1.vts.bf                                                                       
+S&T (37721)  africa-coast-to-europe-ace ✓ || seamewe-3 ✓
+├─ 102.67.96.247   37721   95.06                     (Lisbon, Lisbon, PT, EU) ce1-2036.bb2.lis1.vts.bf                                                                            
+S&T (37721)  
+╰─ 102.67.96.255   37721   102.151                   (Madrid, Madrid, ES, EU) xe-0-0-1-2062.bb2.mad1.vts.bf                                                                       
+   102.67.97.190   37721   107.354                        (Madrid, M, ES, EU) xe-0-0-3-82.br2.mad1.vts.bf                                                                         
+   185.1.192.12    13335   113.209                        (Madrid, M, ES, EU) de-cix-madrid.as13335.net                                                                           
+   188.114.108.7   13335   113.273                       (Madrid, MD, ES, EU) *                                                                                                   
+   188.114.106.64  13335   106.964                   (Madrid, Madrid, ES, EU)                                                                                                     
+   188.114.106.104 13335   106.976                       (Madrid, MD, ES, EU) *                                                                                                   
+╭─ 188.114.106.75  13335   106.689                   (Madrid, Madrid, ES, EU)                                                                                                     
+S (13335, 208800)  flag-europe-asia-fea ✓ || seamewe-3 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 91.201.7.243    208800  242.506             (Abu Dhabi, Abu Dhabi, AE, AS)                                                                                                     

@@ -1,0 +1,15 @@
+   103.15.246.16   58717   0.0                         (Dhaka, Dhaka, BD, AS)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   172.16.203.70   *       1.027                                          ***                                                                                                     
+   103.199.87.153  58717   1.216                         (None, None, BD, AS) *                                                                                                   
+╭─ 103.199.87.12   58717   1.593                         (None, None, BD, AS) *                                                                                                   
+S (58717)  seamewe-5 ✓ || seamewe-4 ✓
+├─ 157.119.185.76  58717   45.142              (Singapore, Singapore, SG, AS) 157.119.185.76.summitiig.net                                                                        
+S (58717, 15802)  asia-pacific-gateway-apg ✓ || eac-c2c ✘ || apcn-2 ✓ || seamewe-3 ✓
+├─ 27.111.228.108  15802   121.123                   (Seogwipo, None, KR, AS) 15802.sgw.equinix.com                                                                               
+S (15802)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  10.100.128.21   *       125.815                                        ***                                                                                                     
+├  10.100.34.118   *       123.446                                        ***                                                                                                     
+╰─ 87.201.194.242  15802   123.631                        (Dubai, DU, AE, AS) *                                                                                                   

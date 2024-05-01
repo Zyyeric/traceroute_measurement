@@ -1,0 +1,13 @@
+   102.219.127.20  37468   0.0                 (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 102.219.127.17  37468   0.434               (Singapore, Singapore, SG, AS)                                                                                                     
+S (37468, 8529)  
+├─ 27.111.229.38   8529    0.834                     (Seogwipo, None, KR, AS) 8529.sgw.equinix.com                                                                                
+S (8529)  
+╰─ 213.202.6.226   8529    74.305                    (Muscat, Muscat, OM, AS)                                                                                                     
+╭─ 213.202.6.194   8529    77.936                    (Muscat, Muscat, OM, AS)                                                                                                     
+S&T (8529, 42961)  
+├─ 151.248.98.137  42961   254.873                       (None, None, BH, AS) *                                                                                                   
+S (42961)  
+├  10.32.1.106     *       250.894                                        ***                                                                                                     
+├  10.32.1.109     *       251.435                                        ***                                                                                                     
+╰─ 212.43.17.42    42961   250.688     (Al Farwānīyah, Al Farwaniyah, KW, AS)                                                                                                     

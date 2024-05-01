@@ -1,0 +1,15 @@
+   62.50.171.162   35132   0.0                      (Førde, Vestland, NO, EU) 162.62-50-171.enivest.net                                                                           
+   62.50.171.161   35132   0.894                    (Førde, Vestland, NO, EU) 161.62-50-171.enivest.net                                                                           
+   193.28.236.38   30950   9.021                         (Oslo, Oslo, NO, EU) ba-h-gw.bkkb.no                                                                                     
+╭─ 184.105.64.230  6939    15.45                         (Oslo, Oslo, NO, EU) 100ge0-59.core2.osl1.he.net                                                                         
+S (6939)  cantat-3 ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.197.126 6939    28.179          (Amsterdam, North Holland, NL, EU) port-channel1.core2.ams7.he.net                                                                     
+   184.104.196.94  6939    28.491                     (Amsterdam, NH, NL, EU) ve1001.core1.ams7.he.net                                                                            
+╭─ 184.104.197.186 6939    28.507                     (Amsterdam, NH, NL, EU) port-channel6.core2.ams2.he.net                                                                     
+S&T (6939)  ulysses-2 ✘ || zeus ✓ || circe-north ✓ || scylla ✓ || concerto ✓ || farland-north ✘
+╰─ 184.105.64.5    6939    33.748                   (London, England, GB, EU) port-channel4.core1.lon3.he.net                                                                     
+   184.104.204.238 201933  33.85                        (London, ENG, GB, EU) cxs-connected-enterprise-ltd.10gigabitethernet1-1-21.switch1.lon3.he.net                            
+   91.193.116.89   209669  34.248                     (Brighton, ENG, GB, EU) 1ge-0-0.edge.pd1.lon.gbr.primonetwork.co.uk                                                         
+   ***             *       -inf                                           *** *                                                                                                   
+   185.251.232.156 209669  34.52                    (Bexley, England, GB, EU) 156.232.251.185.arpa.primonetwork.co.uk                                                             

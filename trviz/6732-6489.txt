@@ -1,0 +1,27 @@
+   87.201.194.242  15802   0.0                            (Dubai, DU, AE, AS) *                                                                                                   
+╭─ 87.201.194.241  15802   2.139                          (Dubai, DU, AE, AS) *                                                                                                   
+S (15802, 6762)  asia-africa-europe-1-aae-1 ✓ || imewe ✓ || seamewe-5 ✓ || flag-europe-asia-fea ✓ || seamewe-4 ✓ || seamewe-3 ✓
+├  10.100.35.117   *       2.203                                          ***                                                                                                     
+├  10.100.129.22   *       3.1                                            ***                                                                                                     
+├  10.53.17.81     *       4.792                                          ***                                                                                                     
+╰─ 195.22.197.54   6762    90.261                   (Palermo, Sicily, IT, EU) ae9.palermo3.pal.seabone.net                                                                        
+   195.22.213.218  6762    134.196                        (Milan, 25, IT, EU) vlan.milano50.mil.seabone.net                                                                       
+╭─ 195.22.213.218  6762    134.196                        (Milan, 25, IT, EU) vlan.milano50.mil.seabone.net                                                                       
+LHL (6762, 2603)  seamewe-4 👍 || asia-africa-europe-1-aae-1 ✓ || seamewe-5 👍 || imewe 👍 || seamewe-3 👍
+├─ 80.249.209.203  2603    130.399                    (Amsterdam, NH, NL, EU) nl-ams.nordu.net                                                                                    
+S&T (2603)  
+╰─ 109.105.102.97  2603    130.057                     (Hexton, None, GB, EU) uk-hex.nordu.net                                                                                    
+╭─ 109.105.102.98  2603    266.712                      (London, ENG, GB, EU) ndn-gw.mx1.lon.uk.geant.net                                                                         
+S&T (2603, 20965)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 62.40.98.222    20965   296.762                     (Bilbao, None, ES, EU) ae4.rt1.bil.es.geant.net                                                                            
+S&T (20965, 21320)  
+├─ 83.97.90.19     21320   280.43                   (London, England, GB, EU) rediris-ias-geant.bil.es.geant.net                                                                  
+S&T (21320, 766)  
+╰─ 130.206.245.17  766     302.479                       (None, None, ES, EU) EHU.RT2.ETHTRUNK2.telmad.rt1.mad.red.rediris.es                                                     
+   130.206.216.2   766     295.787                       (None, None, ES, EU) redimadrid-backup-router.red.rediris.es                                                             
+   193.145.15.50   766     299.702                       (None, None, ES, EU) uc3m-rt-ju-01-xe-0-1-0.net.redimadrid.es                                                            
+   ***             *       -inf                                           *** *                                                                                                   
+   163.117.49.4    766     301.102                       (Madrid, MD, ES, EU) b01014zr.uc3m.es                                                                                    
+   163.117.253.5   766     296.923                   (Madrid, Madrid, ES, EU)                                                                                                     

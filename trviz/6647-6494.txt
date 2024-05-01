@@ -1,0 +1,17 @@
+   80.67.190.218   204092  0.0                     (Rennes, Brittany, FR, EU) ripe-anchor.grifon.fr                                                                               
+   80.67.190.193   204092  0.228                   (Rennes, Brittany, FR, EU) xn--beurresal-j4a.grifon.fr                                                                         
+   89.234.186.34   204092  0.501                         (None, None, FR, EU) asbr02.cogent-rns.bb.grifon.fr                                                                      
+   89.234.186.43   204092  0.518                         (None, None, FR, EU) eth1.33.asbr02.cogent-rns.grifon.fr                                                                 
+   89.234.186.145  204092  8.355               (Paris, Île-de-France, FR, EU) eno1.201.asbr-th2.grifon.fr                                                                         
+   193.200.43.84   34019   8.433               (Paris, Île-de-France, FR, EU) xe-201-0-33-204-er02-th2.bb.hivane.net                                                              
+   193.164.153.195 34019   9.089                         (None, None, FR, EU) xe-0-0-3-rt2-vty.bb.hivane.net                                                                      
+   193.164.153.250 34019   8.9                           (None, None, FR, EU) xe-0-0-0-rt-vty.bb.hivane.net                                                                       
+   37.77.36.10     44530   8.627     (Charenton-le-Pont, Île-de-France, FR, EU) hivane.dc3-2.rt.hopus.net                                                                           
+╭─ 37.77.32.46     44530   9.001              (Thiais, Île-de-France, FR, EU) lag-dc3-2.th2-1.rt.hopus.net                                                                        
+T (44530, 3320)  
+╰─ 80.156.160.77   3320    9.071                   (Froendenberg, NW, DE, EU) *                                                                                                   
+   217.239.58.29   3320    15.165                        (None, None, DE, EU) pd9ef3a1d.dip0.t-ipconnect.de                                                                       
+╭─ 80.156.160.133  199610  14.685                  (Froendenberg, NW, DE, EU) *                                                                                                   
+T (199610)  
+╰─ 46.251.228.200  199610  15.961                        (None, None, GB, EU) *                                                                                                   
+   5.62.127.14     199610  15.627                   (London, England, GB, EU)                                                                                                     

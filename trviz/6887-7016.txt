@@ -1,0 +1,14 @@
+   103.160.63.222  140443  0.0                     (Jakarta, Jakarta, ID, AS) 222.63.160.103.in-addr.herza.id                                                                     
+╭─ 103.160.63.129  140443  0.287                   (Jakarta, Jakarta, ID, AS) 129.63.160.103.in-addr.herza.id                                                                     
+S (140443, 135132)  indonesia-global-gateway-igg-system ✓ ↠ palapa-ring-middle ✓ || indonesia-global-gateway-igg-system ✓ ↠ sea-us ✓ || seamewe-3 ✓
+├  10.111.220.46   *       0.556                                          ***                                                                                                     
+├  10.111.220.6    *       12.331                                         ***                                                                                                     
+├  10.111.222.206  *       12.41                                          ***                                                                                                     
+├  ***             *       -inf                                           *** *                                                                                                   
+├  10.255.64.92    *       50.399                                         ***                                                                                                     
+╰─ 43.224.189.37   135132  50.653               (Lapu-Lapu City, CEB, PH, AS) vlan7.border1.ceb02.ds.network                                                                      
+   192.168.159.164 *       1412.982                                       ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   192.168.159.143 *       57.229                                         ***                                                                                                     
+   27.111.84.21    135132  53.921        (Cebu City, Central Visayas, PH, AS) ph-ceb-as135132.anchors.atlas.ripe.net                                                              

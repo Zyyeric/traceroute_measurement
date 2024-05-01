@@ -1,0 +1,14 @@
+   185.32.187.169  13238   0.0       (Saint Petersburg, St.-Petersburg, RU, EU)                                                                                                     
+   185.32.187.170  13238   0.374 (5.073)(Saint Petersburg, St.-Petersburg, RU, EU)                                                                                                     
+   10.1.2.254      *       0.748                                          ***                                                                                                     
+╭─ 185.0.12.87     *       9.693                     (Moscow, Moscow, RU, EU) yandex.msk.piter-ix.net                                                                             
+S&T ()  
+├─ 185.0.13.161    *       28.201                 (Tallinn, Harjumaa, EE, EU) hetzner.msk.piter-ix.net                                                                            
+LHL (, 24940)  sweden-estonia-ee-s-1 ✘ ↠ baltica ✘ || baltic-sea-submarine-cable ✘ ↠ baltica ✘
+├─ 213.239.224.26  24940   27.298                        (None, None, DE, EU) core32.hel1.hetzner.com                                                                             
+S (24940)  
+╰─ 213.239.228.6   24940   34.011                 (Helsinki, Uusimaa, FI, EU) spine15.cloud1.hel1.hetzner.com                                                                     
+   213.239.228.26  24940   28.094                 (Helsinki, Uusimaa, FI, EU) spine2.cloud1.hel1.hetzner.com                                                                      
+   ***             *       -inf                                           *** *                                                                                                   
+   95.216.132.233  24940   26.379                      (Helsinki, 18, FI, EU) 15272.your-cloud.host                                                                               
+   95.217.19.69    24940   27.51                  (Helsinki, Uusimaa, FI, EU) fi-tuu-as24940-client.anchors.atlas.ripe.net                                                        

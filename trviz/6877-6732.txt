@@ -1,0 +1,16 @@
+   163.117.253.5   766     0.0                       (Madrid, Madrid, ES, EU)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   172.17.0.53     *       0.863                                          ***                                                                                                     
+   193.145.15.49   766     1.844                    (Leganés, Madrid, ES, EU) csic-rt-ju-02-xe-4-0-6.net.redimadrid.es                                                            
+   130.206.216.1   766     3.276                     (Madrid, Madrid, ES, EU) redimadrid-backup.ethtrunk8-103.telmad.rt1.mad.red.rediris.es                                       
+╭─ 130.206.245.126 766     11.464                        (None, None, ES, EU) telmad.rt1.ethtrunk2.cica.rt2.and.red.rediris.es                                                    
+S&T (766, 8220)  seamewe-3 ✘
+├─ 193.136.250.110 8220    20.078                      (Lisbon, 14, PT, None) Colt.AS8220.gigapix.pt                                                                              
+S&T (8220)  tata-tgn-western-europe ✓ || europe-india-gateway-eig ✓ || seamewe-3 ✓
+├─ 193.114.170.221 8220    50.795                        (None, None, GB, EU) *                                                                                                   
+S&T (8220, 39923)  
+╰─ 213.246.245.218 39923   47.568                     (Brussels, BRU, BE, EU) *                                                                                                   
+   109.68.160.65   39923   50.534        (Brussels, Brussels Capital, BE, EU) devrandom1.customer.unix-solutions.be                                                               
+   45.87.79.251    208725  48.061        (Brussels, Brussels Capital, BE, EU) router01.sw1.core.devrandom.be                                                                      
+   45.87.76.6      208725  49.493        (Brussels, Brussels Capital, BE, EU) ansible.devrandom.be                                                                                

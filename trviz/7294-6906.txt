@@ -1,0 +1,27 @@
+   185.92.128.30   60924   0.0                         (Dubai, Dubai, AE, AS)                                                                                                     
+╭─ 185.92.128.3    60924   0.207                       (Dubai, Dubai, AE, AS)                                                                                                     
+LHL (60924)  seamewe-5 ✘ || seamewe-4 ✓ || asia-africa-europe-1-aae-1 ✓ || imewe ✓ || seamewe-3 ✓
+├─ 185.92.128.4    60924   0.251                         (None, None, IE, EU) *                                                                                                   
+LHL (60924, 8966)  
+├─ 195.229.27.145  8966    0.244 (6.08)                    (None, None, AE, AS) *                                                                                                   
+LHL (8966, 174)  seamewe-5 ✓ || seamewe-4 👍 || asia-africa-europe-1-aae-1 👍 || imewe 👍 || seamewe-3 👍
+├  10.229.0.101    *       118.453                                        ***                                                                                                     
+╰─ 149.14.159.73   174     138.449            (Frankfurt am Main, HE, DE, EU) hu0-1-0-6.agr41.fra03.atlas.cogentco.com                                                            
+   130.117.1.118   174     138.741            (Frankfurt am Main, HE, DE, EU) be3187.ccr42.fra03.atlas.cogentco.com                                                               
+╭─ 154.54.36.254   174     144.287                       (Munich, BY, DE, EU) be2960.ccr22.muc03.atlas.cogentco.com                                                               
+T (174)  
+├─ 154.54.59.181   174     156.484                        (Vienna, 9, AT, EU) be3462.ccr52.vie01.atlas.cogentco.com                                                               
+T (174)  
+├─ 154.54.59.186   174     180.221                   (Bratislava, BL, SK, EU) be3463.ccr22.bts01.atlas.cogentco.com                                                               
+T (174)  
+├─ 154.54.59.178   174     168.3                       (Budapest, PE, HU, EU) be3263.ccr31.bud01.atlas.cogentco.com                                                               
+T (174)  
+├─ 154.54.38.246   174     171.023                     (Bucharest, B, RO, EU) be3262.ccr31.buh01.atlas.cogentco.com                                                               
+S&T (174)  
+╰─ 154.54.77.237   174     180.352               (Istanbul, Istanbul, TR, AS) be3572.rcr71.ist01.atlas.cogentco.com                                                               
+   154.25.16.82    174     172.084               (Istanbul, Istanbul, TR, AS) be3821.nr71.b061536-0.ist01.atlas.cogentco.com                                                      
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   149.34.193.159  208972  160.163               (Istanbul, Istanbul, TR, AS)                                                                                                     
+   149.34.193.159  208972  160.163               (Istanbul, Istanbul, TR, AS)                                                                                                     

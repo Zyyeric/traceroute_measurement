@@ -1,0 +1,21 @@
+   103.153.176.122 131657  0.0                       (Taipei, Taiwan, TW, AS) 103-153-176-122.as131657.net                                                                        
+   103.153.176.254 131657  0.214                     (Taipei, Taiwan, TW, AS) 103-153-176-254.as131657.net                                                                        
+╭─ 103.51.91.5     *       0.425                     (Taipei, Taiwan, TW, AS) et-0-0-1.cr1.hd.tpe.as131657.net                                                                    
+S (, 174)  seamewe-3 ✘ || apcn-2 ✘ || trans-pacific-express-tpe-cable-system ✘ || eac-c2c ✘ || faster ✘ || asia-pacific-gateway-apg ✘ || flag-north-asia-loopreach-north-asia-loop ✘ || new-cross-pacific-ncp-cable-system ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 66.28.4.233     174     30.93                       (Tokyo, Tokyo, JP, AS) be2012.ccr71.tyo01.atlas.cogentco.com                                                               
+S (174)  korea-japan-cable-network-kjcn ✓ || seamewe-3 ✓ || apcn-2 ✓ || eac-c2c ✘ || asia-pacific-gateway-apg ✓ || flag-north-asia-loopreach-north-asia-loop ✓ || new-cross-pacific-ncp-cable-system © || flag-europe-asia-fea © || trans-pacific-express-tpe-cable-system ✓
+╰─ 154.54.89.198   174     91.398                      (Seoul, Seoul, KR, AS) be3010.ccr71.sel01.atlas.cogentco.com                                                               
+╭─ 154.54.93.182   174     95.211                      (Seoul, Seoul, KR, AS) be4409.ccr72.sel01.atlas.cogentco.com                                                               
+S (174)  
+├─ 154.54.30.206   174     90.969                   (Hong Kong, None, HK, AS) be2223.ccr21.hkg02.atlas.cogentco.com                                                               
+S (174)  
+├─ 154.54.6.25     174     273.403                   (Marseille, PAC, FR, EU) be2900.ccr32.mrs02.atlas.cogentco.com                                                               
+S&T (174)  
+╰─ 154.54.72.77    174     314.704                      (Valencia, V, ES, EU) be2776.ccr31.vlc02.atlas.cogentco.com                                                               
+╭─ 154.54.58.138   174     314.665                      (Sevilla, AN, ES, EU) be3239.rcr21.svq01.atlas.cogentco.com                                                               
+S&T (174)  
+╰─ 130.117.1.22    174     314.715                       (Lisbon, 11, PT, EU) be2447.rcr21.lis01.atlas.cogentco.com                                                               
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   185.32.189.249  62416   314.53                  (Odivelas, Lisbon, PT, EU) pt-lis-as62416.anchors.atlas.ripe.net                                                               

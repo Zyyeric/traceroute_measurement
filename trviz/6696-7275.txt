@@ -1,0 +1,22 @@
+   180.211.88.22   45725   0.0                     (Jakarta, Jakarta, ID, AS) id-jkt-as45725.anchors.atlas.ripe.net                                                               
+   180.211.88.21   45725   0.344                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+   43.230.153.89   *       0.3                     (Jakarta, Jakarta, ID, AS)                                                                                                     
+╭─ 111.92.161.4    55655   0.545                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+S&T (55655, 9002)  australia-singapore-cable-asc ✘ || matrix-cable-system ✘ || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || indonesia-global-gateway-igg-system ✘ || seamewe-3 ✘ || indigo-west ✘ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || jasuka ✘ || jakabare ✘
+├  10.110.1.0      *       12.216                                         ***                                                                                                     
+├─ 87.245.238.250  9002    12.216                      (Singapore, 4, SG, AS) ae0-302.RT1.EQX.SIN.SG.retn.net                                                                     
+LHL (9002)  seamewe-5 ✓ || seamewe-4 ✓ || peace-cable ✘ || seamewe-3 ✓
+├─ 87.245.232.123  9002    169.916                    (Amsterdam, NH, NL, EU) ae0-2.RT.IR9.AMS.NL.retn.net                                                                        
+T (9002, 16276)  
+╰─ 54.36.50.30     16276   172.933                       (None, None, FR, EU) ams-1-a9.nl.eu                                                                                      
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   213.186.32.210  16276   173.498                       (None, None, FR, EU) be104.gra-g1-nc5.fr.eu                                                                              
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   51.255.243.207  16276   172.514       (Boeschepe, Hauts-de-France, FR, EU)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   145.239.14.84   16276   196.459       (Dunkerque, Hauts-de-France, FR, EU) fr-grv-as16276.anchors.atlas.ripe.net                                                               

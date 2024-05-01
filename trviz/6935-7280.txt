@@ -1,0 +1,22 @@
+   185.14.96.232   211186  0.0                (Lamía, Central Greece, GR, EU)                                                                                                     
+   185.14.96.225   211186  0.656              (Lamía, Central Greece, GR, EU) vlan4090.lamia.fast.net.gr                                                                          
+   212.205.28.249  6799    0.682              (Lamía, Central Greece, GR, EU) 249.28.205.212.static.otenet.gr                                                                     
+   79.128.234.128  6799    3.578                    (Maroúsi, Attica, GR, EU)                                                                                                     
+   62.75.3.17      12713   4.713             (Néa Chalkidóna, Attica, GR, EU) kolasr02-hu-0-8-0-0.ath.oteglobe.gr                                                                 
+╭─ 62.75.5.202     *       36.762                    (Athens, Attica, GR, EU)                                                                                                     
+S (, 1273)  
+╰─ 217.161.88.205  1273    36.377                        (None, None, GB, EU) *                                                                                                   
+   195.2.20.225    1273    197.227                       (None, None, GB, EU) ae59.xcr1.fix.cw.net                                                                                
+╭─ 195.2.2.157     1273    194.221                       (None, None, GB, EU) ae8-xcr1.mlb.cw.net                                                                                 
+S&T (1273)  
+├─ 195.2.31.118    1273    59.898                    (Genoa, Liguria, IT, EU) ae23-xcr1.mrx.cw.net                                                                                
+S&T (1273)  
+├─ 195.2.2.58      1273    197.168                       (None, None, GB, EU) ae33-xcr1.sng.cw.net                                                                                
+S (1273, 3491)  
+├─ 63.218.165.61   3491    197.477                     (Singapore, 4, SG, AS) 63-218-165-61.static.pccwglobal.net                                                                 
+LHL (3491)  
+╰─ 63.223.48.154   3491    253.731            (Johannesburg, Gauteng, ZA, AF) hu0-0-0-21.br03.jnb01.as3491.net                                                                    
+   45.11.107.135   969     253.139                (Edenvale, Gauteng, ZA, AF) e49-1-103-pccw.cr2a.jnb1.za.917.as                                                                  
+   102.130.51.5    *       253.023            (Johannesburg, Gauteng, ZA, AF) e36-1-20.spine1.jnb01.za.misaka.io                                                                  
+   102.130.49.21   328383  253.079            (Johannesburg, Gauteng, ZA, AF) po-21.lag.jnb01.za.misaka.io                                                                        
+   102.130.49.144  328383  253.246            (Johannesburg, Gauteng, ZA, AF) za-jnb-as57695.anchors.atlas.ripe.net                                                               

@@ -1,0 +1,14 @@
+   103.143.136.43  63781   0.0                         (Tokyo, Tokyo, JP, AS) koba-103-143-136-43.rev.kobayashi.ad.jp                                                             
+   103.143.136.62  63781   2.503                       (Tokyo, Tokyo, JP, AS) koba-103-143-136-62.rev.kobayashi.ad.jp                                                             
+   103.143.136.25  63781   0.425                       (Tokyo, Tokyo, JP, AS) bgprt1-ospfrt1.kobayashi.ad.jp                                                                      
+   103.41.60.164   10010   0.362                       (Tokyo, Tokyo, JP, AS) bgp3.tokyo-ix.v4.open.ad.jp                                                                         
+   150.99.184.33   2907    2.061                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+   150.99.10.187   2907    1.574                         (None, None, JP, AS) *                                                                                                   
+╭─ 202.232.6.17    2497    2.406                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+S (2497)  tata-tgn-pacific ✓ || pacific-crossing-1-pc-1 ✓ || faster ✓ || jupiter ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 58.138.88.230   2497    95.091               (Seattle, Washington, US, NA) sea001bb00.iij.net                                                                                  
+╭─ 206.81.80.227   852     107.675                    (Seattle, WA, US, None) six1.bb.telus.com                                                                                   
+S&T (852)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 206.108.17.63   852     110.571      (Vancouver, British Columbia, CA, NA) host63.17.108.206.in-addr.arpa                                                                      

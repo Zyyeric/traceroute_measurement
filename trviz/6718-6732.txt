@@ -1,0 +1,40 @@
+   163.117.253.5   766     0.0                       (Madrid, Madrid, ES, EU)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   172.17.0.53     *       0.924                                          ***                                                                                                     
+   193.145.15.49   766     1.388                    (Leganés, Madrid, ES, EU) csic-rt-ju-02-xe-4-0-6.net.redimadrid.es                                                            
+   130.206.216.1   766     1.885                     (Madrid, Madrid, ES, EU) redimadrid-backup.ethtrunk8-103.telmad.rt1.mad.red.rediris.es                                       
+   130.206.245.50  766     1.828                         (None, None, ES, EU) telmad.rt1.ae11-0.telmad.rt4.mad.red.rediris.es                                                     
+╭─ 83.97.90.20     21320   1.685                     (Madrid, Madrid, ES, EU) rediris-ias-geant-gw.mad.es.geant.net                                                               
+S&T (21320, 20965)  africa-coast-to-europe-ace ✓ || seamewe-3 ✓
+├─ 62.40.98.227    20965   33.17     (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) ae2.rt1.mar.fr.geant.net                                                                            
+T (20965)  
+├─ 62.40.98.236    20965   33.5                      (Genève, Geneva, CH, EU) ae4.mx1.gen.ch.geant.net                                                                            
+T (20965)  
+├─ 62.40.98.239    20965   33.677              (Paris, Île-de-France, FR, EU) ae7.mx1.par.fr.geant.net                                                                            
+S&T (20965)  africa-coast-to-europe-ace ✘ || seamewe-3 ✘
+├─ 62.40.98.106    20965   33.839                        (Lisbon, 11, PT, EU) ae0.mx2.lis.pt.geant.net                                                                            
+S&T (20965)  
+╰─ 62.40.98.64     20965   33.082                   (London, England, GB, EU) ae2.mx1.lon.uk.geant.net                                                                            
+╭─ 195.66.225.227  31133   32.425                     (London, ENG, GB, None) *                                                                                                   
+S (31133, 6461)  
+├─ 64.125.29.114   6461    35.115                        (None, None, US, NA) cs1.lhr15.uk.zip.zayo.com.29.125.64.in-addr.arpa                                                    
+S (6461)  
+├─ 64.125.29.129   6461    34.315                       (London, ENG, GB, EU) ae1.mcs1.lhr15.uk.eth.zayo.com                                                                      
+S (6461, 4637)  
+├─ 82.98.196.161   4637    32.402                        (None, None, HK, AS) 82.98.196.161.IPYX-284545-900-ZYO.zip.zayo.com                                                      
+S (4637)  
+╰─ 202.84.178.37   4637    32.777                   (London, England, GB, EU) i-1107.ulhc-core03.telstraglobal.net                                                                
+╭─ 202.84.178.9    4637    32.16                    (London, England, GB, EU) i-1003.ulcn-core01.telstraglobal.net                                                                
+S (4637)  
+╰─ 202.84.140.141  4637    261.837             (Singapore, Singapore, SG, AS) i-1000.sgcn-core01.telstraglobal.net                                                                
+   202.84.140.141  4637    261.837             (Singapore, Singapore, SG, AS) i-1000.sgcn-core01.telstraglobal.net                                                                
+   202.84.219.173  4637    259.25              (Singapore, Singapore, SG, AS) i-92.sggs01.telstraglobal.net                                                                       
+╭─ 210.57.30.171   4637    266.197             (Singapore, Singapore, SG, AS) unknown.telstraglobal.net                                                                           
+S&T (4637, 7552)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 27.68.237.138   7552    284.032                        (Hanoi, HN, VN, AS) localhost                                                                                           
+   210.86.233.30   24176   225.956    (Ho Chi Minh City, Ho Chi Minh, VN, AS) ci233-30.netnam.vn                                                                                  
+   210.86.232.101  24173   224.662                        (Hanoi, HN, VN, AS) ci232-101.netnam.vn                                                                                 
+   ***             *       -inf                                           *** *                                                                                                   
+   101.53.31.6     24173   227.345    (Ho Chi Minh City, Ho Chi Minh, VN, AS) ci53.31-6.netnam.vn                                                                                 

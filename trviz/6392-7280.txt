@@ -1,0 +1,32 @@
+   185.14.96.232   211186  0.0                (Lamía, Central Greece, GR, EU)                                                                                                     
+   185.14.96.225   211186  0.67               (Lamía, Central Greece, GR, EU) vlan4090.lamia.fast.net.gr                                                                          
+   212.205.28.249  6799    0.758              (Lamía, Central Greece, GR, EU) 249.28.205.212.static.otenet.gr                                                                     
+   79.128.234.128  6799    3.493                    (Maroúsi, Attica, GR, EU)                                                                                                     
+   62.75.3.17      12713   3.915             (Néa Chalkidóna, Attica, GR, EU) kolasr02-hu-0-8-0-0.ath.oteglobe.gr                                                                 
+╭─ 62.75.27.18     *       37.704                    (Athens, Attica, GR, EU)                                                                                                     
+LHL ()  mednautilus-submarine-system ✘ ↠ asia-africa-europe-1-aae-1 ✘ || mednautilus-submarine-system ✘ ↠ seamewe-3 ✘
+╰─ 80.81.197.29    *       171.644         (Frankfurt am Main, Hesse, DE, EU) de-cix.fra.gslnetworks.com.au                                                                       
+╭─ 206.148.26.73   7578    40.957    (Düsseldorf, North Rhine-Westphalia, DE, EU)                                                                                                     
+T (7578)  
+╰─ 206.148.26.64   7578    46.184              (Paris, Île-de-France, FR, EU) e17.par-thpa2-cr2.globalsecurelayer.com                                                             
+╭─ 206.148.26.59   7578    46.723              (Paris, Île-de-France, FR, EU) e23.par-eqxpa3-cr1.globalsecurelayer.com                                                            
+S (7578)  
+╰─ 206.148.26.57   7578    120.993                (Ashburn, Virginia, US, NA) e56.ash-eqxdc10-bb3.globalsecurelayer.com                                                           
+   206.148.25.48   7578    134.379              (East Point, Georgia, US, NA) e52.atl-drtatl1-bb1.globalsecurelayer.com                                                           
+   206.148.25.24   7578    148.95            (University Park, Texas, US, NA) e51.dal-eqxda11-bb1.globalsecurelayer.com                                                           
+   206.148.25.23   7578    172.591                 (Phoenix, Arizona, US, NA) e50.phx-pnap-bb1.globalsecurelayer.com                                                              
+   206.148.25.19   7578    171.633          (Los Angeles, California, US, NA) e51.lax-csla2-bb1.globalsecurelayer.com                                                             
+╭─ 206.148.25.84   7578    269.161          (Los Angeles, California, US, NA) e50.ty-eqxty8-bb5.globalsecurelayer.com                                                             
+S (7578)  
+╰─ 206.148.24.51   7578    269.3            (Sydney, New South Wales, AU, OC) e30.ty-eqxty8-bb1.globalsecurelayer.com                                                             
+╭─ 206.148.24.66   7578    335.976          (Sydney, New South Wales, AU, OC) e51.sg-eqxsg3-bb1.globalsecurelayer.com                                                             
+S (7578)  
+╰─ 31.217.251.74   7578    336.054             (Singapore, Singapore, SG, AS) unknown.globalsecurelayer.com                                                                       
+╭─ 160.202.164.165 137409  264.286             (Singapore, Singapore, SG, AS)                                                                                                     
+S (137409, 8529)  
+╰─ 134.0.220.250   8529    344.056                   (Muscat, Muscat, OM, AS)                                                                                                     
+   213.202.6.201   8529    343.744                   (Muscat, Muscat, OM, AS)                                                                                                     
+╭─ 134.0.220.73    8529    348.687                       (Muscat, MA, OM, AS) *                                                                                                   
+S&T (8529, 42473)  
+╰─ 213.202.2.1     42473   285.609                        (Dubai, DU, AE, AS) i1.2.202.213omantel.net.om                                                                          
+   37.252.245.94   42473   286.118                     (Dubai, Dubai, AE, AS)                                                                                                     

@@ -1,0 +1,22 @@
+   192.168.0.130   *       0.0                                            ***                                                                                                     
+   192.168.0.1     *       0.173                                          ***                                                                                                     
+   172.16.254.1    *       0.293                                          ***                                                                                                     
+   192.168.1.1     *       0.68                                           ***                                                                                                     
+   10.98.238.18    *       0.573 (4.361)                                     ***                                                                                                     
+   10.0.0.170      *       10.559                                         ***                                                                                                     
+   81.212.78.45    9121    5.246                     (Ankara, Ankara, TR, AS) 81.212.78.45.static.turktelekom.com.tr                                                              
+   81.212.216.50   9121    4.923              (Sultanbeyli, Istanbul, TR, AS) 34-acibadem-xrs-t2-1---34-acibadem-sr12e-t3-8.statik.turktelekom.com.tr                             
+   81.212.197.108  9121    5.273                 (Ataşehir, Istanbul, TR, AS) 34-ebgp-acibadem-sr12e-k---34-acibadem-xrs-t2-1.statik.turktelekom.com.tr                           
+╭─ 212.156.139.60  9121    18.818                      (Istanbul, 34, TR, AS) *                                                                                                   
+S&T (9121, 1299)  kafos ✘
+├─ 62.115.37.72    1299    50.068              (Bucharest, București, RO, EU) buca-b3-link.ip.twelve99.net                                                                        
+T (1299)  
+├─ 62.115.114.110  1299    50.254                    (Vienna, Vienna, AT, EU) win-bb1-link.ip.twelve99.net                                                                        
+T (1299)  
+├─ 62.115.137.202  1299    49.915          (Frankfurt am Main, Hesse, DE, EU) ffm-bb1-link.ip.twelve99.net                                                                        
+T (1299)  
+╰─ 62.115.132.175  1299    58.322                   (Milan, Lombardy, IT, EU) mno-b2-link.ip.twelve99.net                                                                         
+   62.115.181.121  1299    49.688                   (Milan, Lombardy, IT, EU) fibertelecom-ic-350341.ip.twelve99-cust.net                                                         
+   ***             *       -inf                                           *** *                                                                                                   
+   213.254.31.98   24796   58.758                         (Turin, 21, IT, EU) namex-gw.customer.itgate.net                                                                        
+   193.201.40.210  24796   58.93                        (Rome, Lazio, IT, EU) it-rom-as24796.anchors.atlas.ripe.net                                                               

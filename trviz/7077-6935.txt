@@ -1,0 +1,28 @@
+   102.130.49.144  328383  0.0                (Johannesburg, Gauteng, ZA, AF) za-jnb-as57695.anchors.atlas.ripe.net                                                               
+   ***             *       -inf                                           *** *                                                                                                   
+   102.130.49.3    328383  0.358              (Johannesburg, Gauteng, ZA, AF) spine2.v271.jnb01.za.misaka.io                                                                      
+╭─ 102.130.51.6    *       0.308              (Johannesburg, Gauteng, ZA, AF) e54-1-20.cr2a.tdjb1.jnb1.za.917.as                                                                  
+LHL (, 969)  africa-coast-to-europe-ace ✘ ↠ apollo ✘ || africa-coast-to-europe-ace ✘ ↠ flag-atlantic-1-fa-1 ✘
+├─ 199.119.64.250  969     0.338                    (Dover, Delaware, US, NA) po100.cr1a.tdjb1.jnb1.za.917.as                                                                     
+LHL (969, 60068)  apollo ✘ || flag-atlantic-1-fa-1 ✘
+├─ 37.19.193.190   60068   0.304                     (Prague, Prague, CZ, EU) p77-3502.cr1a.tdjb1.jnb1.za.917.as                                                                  
+LHL (60068, 5511)  
+├─ 193.251.152.55  5511    0.463              (Johannesburg, Gauteng, ZA, AF)                                                                                                     
+S (5511)  africa-coast-to-europe-ace 👍
+╰─ 81.52.166.152   5511    158.087                       (None, None, FR, EU) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 80.231.154.27   6453    159.367             (Paris, Île-de-France, FR, EU) if-bundle-2-2.qcore2.pye-paris.as6453.net                                                           
+S&T (6453)  apollo ✓ ↠ apollo ✓ || apollo ✓ ↠ flag-atlantic-1-fa-1 ✓ || flag-atlantic-1-fa-1 ✓ ↠ apollo ✓ || flag-atlantic-1-fa-1 ✓ ↠ flag-atlantic-1-fa-1 ✓
+╰─ 80.231.196.37   6453    159.838                  (London, England, GB, EU) if-bundle-13-2.qcore1.ldn-london.as6453.net                                                         
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 80.231.131.1    6453    159.086                     (London, None, GB, EU) if-ae-2-2.tcore2.l78-london.as6453.net                                                              
+S (6453)  
+╰─ 80.231.131.66   6453    272.172                       (Mumbai, MH, IN, AS) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   115.114.12.186  4755    294.689                     (Delhi, Delhi, IN, AS) 115.114.12.186.static-delhi.vsnl.net.in                                                             
+   180.179.197.218 17439   291.684                       (None, None, IN, AS) *                                                                                                   
+   180.179.210.68  132420  297.125                       (None, None, IN, AS) 180-179-210-68.static.e2enetworks.in                                                                
+   216.48.178.84   132420  291.822             (Noida, Uttar Pradesh, IN, AS) e2e-95-84.ssdcloudindia.net                                                                         

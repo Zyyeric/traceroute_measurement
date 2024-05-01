@@ -1,0 +1,16 @@
+   179.0.200.36    272037  0.0                       (Panamá, Panamá, PA, NA)                                                                                                     
+   179.0.200.1     272037  0.37                      (Panamá, Panamá, PA, NA)                                                                                                     
+╭─ 181.78.120.101  52468   34.958                    (Panamá, Panamá, PA, NA) 101.120.78.181.ufinet.com.pa                                                                        
+S (52468, 23520)  maya-1 ✓
+├  172.16.27.166   *       43.903                                         ***                                                                                                     
+├─ 69.79.104.34    23520   62.53                     (Miami, Florida, US, NA)                                                                                                     
+S (23520, 6939)  pacific-caribbean-cable-system-pccs 👍 || america-movil-submarine-cable-system-1-amx-1 ✘ || arcos 👍 || colombia-florida-subsea-fiber-cfx-1 👍 || globenet ✘ || south-america-1-sam-1 ✘ || maya-1 👍
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 72.52.92.209    6939    155.792              (Bogotá, Bogota D.C., CO, SA) 100ge0-35.core2.bog1.he.net                                                                         
+S (6939)  south-american-crossing-sac ✓
+╰─ 184.104.188.70  6939    220.554   (Santiago, Santiago Metropolitan, CL, SA) port-channel1.core1.scl1.he.net                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   138.186.10.34   52511   210.419   (Santiago, Santiago Metropolitan, CL, SA) 34.10.186.138.static.hostednode.net                                                                 

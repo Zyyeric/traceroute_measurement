@@ -1,0 +1,15 @@
+   216.48.178.84   132420  0.0                 (Noida, Uttar Pradesh, IN, AS) e2e-95-84.ssdcloudindia.net                                                                         
+   216.48.176.1    132420  7.416                       (Delhi, Delhi, IN, AS) e2e-93-1.ssdcloudindia.net                                                                          
+   180.179.210.65  17439   0.567                   (Pitampura, Delhi, IN, AS) 180-179-210-65.static.e2enetworks.in                                                                
+   180.179.197.217 17439   0.826                   (Pitampura, Delhi, IN, AS)                                                                                                     
+   115.114.12.185  4755    1.186                       (Delhi, Delhi, IN, AS) 115.114.12.185.static-delhi.vsnl.net.in                                                             
+   ***             *       -inf                                           *** *                                                                                                   
+   180.87.38.5     6453    24.001                        (Mumbai, MH, IN, AS) ix-ae-0-100.tcore1.mlv-mumbai.as6453.net                                                            
+╭─ 180.87.38.2     6453    152.644                       (Mumbai, MH, IN, AS) if-ae-2-2.tcore2.mlv-mumbai.as6453.net                                                              
+S (6453)  
+├─ 180.87.39.21    6453    147.078                  (London, England, GB, EU) if-ae-12-2.tcore1.l78-london.as6453.net                                                             
+S (6453, 3257)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 76.74.41.138    3257    308.915              (Arlington, Virginia, US, NA) ip4.gtt.net                                                                                         
+LHL (3257, 12008)  
+╰─ 156.154.135.254 12008   310.376            (Johannesburg, Gauteng, ZA, AF)                                                                                                     

@@ -1,0 +1,24 @@
+   195.130.66.103  199399  0.0                       (Athens, Attica, GR, EU) gr-ath-as199399.anchors.atlas.ripe.net                                                              
+   195.130.66.102  199399  1.2                      (Výronas, Attica, GR, EU) gw-ripe-anchor.gr-ix.gr                                                                             
+   62.217.98.52    5408    0.688                    (Výronas, Attica, GR, EU) grix-admin-gw.eier.access-link.grnet.gr                                                             
+   83.97.88.69     21320   0.538                    (Výronas, Attica, GR, EU) grnet-ias-geant-gw.mx2.ath.gr.geant.net                                                             
+╭─ 62.40.98.141    20965   26.119                        (Athens, A1, GR, EU) ae0.mx1.ath2.gr.geant.net                                                                           
+T (20965)  
+╰─ 62.40.98.147    20965   25.875                    (Vienna, Vienna, AT, EU) ae0.mx1.vie.at.geant.net                                                                            
+╭─ 212.133.7.165   3356    39.652                    (Vienna, Vienna, AT, EU) ae68.edge4.vienna1.level3.net                                                                       
+T (3356)  
+╰─ 171.75.9.108    3356    46.614                   (Milan, Lombardy, IT, EU) ae2.11.edge1.mln1.neo.colt.net                                                                      
+╭─ 4.68.70.162     6453    55.132                       (Milan, None, IT, EU) TATA-level3-Milan1.Level3.net                                                                       
+S&T (6453)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 195.219.187.3   6453    67.011    (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) if-be-34-2.ecore2.emrs2-marseille.as6453.net                                                        
+╭─ 195.219.175.7   6453    67.088    (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) if-be-6-2.ecore4.emrs2-marseille.as6453.net                                                         
+S&T (6453)  
+├─ 195.219.186.20  6453    67.083                   (London, England, GB, EU) if-ae-8-2.tcore2.l78-london.as6453.net                                                              
+S (6453)  
+╰─ 80.231.131.66   6453    204.303                       (Mumbai, MH, IN, AS) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   115.114.12.186  4755    206.093                     (Delhi, Delhi, IN, AS) 115.114.12.186.static-delhi.vsnl.net.in                                                             
+   180.179.197.198 17439   206.81                        (None, None, IN, AS) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   216.48.178.84   132420  207.143             (Noida, Uttar Pradesh, IN, AS) e2e-95-84.ssdcloudindia.net                                                                         

@@ -1,0 +1,30 @@
+   159.65.150.114  14061   0.0            (Doddaballapura, Karnataka, IN, AS) in-blr-as14061.anchors.atlas.ripe.net                                                               
+   ***             *       -inf                                           *** *                                                                                                   
+   10.66.66.14     *       0.515                                          ***                                                                                                     
+   143.198.252.78  *       0.482               (Bengaluru, Karnataka, IN, AS)                                                                                                     
+   143.244.192.10  *       0.389               (Bengaluru, Karnataka, IN, AS)                                                                                                     
+   143.244.225.130 *       0.482               (Bengaluru, Karnataka, IN, AS)                                                                                                     
+╭─ 61.246.97.189   9498    1.841               (Bengaluru, Karnataka, IN, AS) dsl-tn-189.97.246.61.airtelbroadband.in                                                             
+S (9498, 6939)  europe-india-gateway-eig 👍 || seamewe-3 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.224.113 6939    167.948                   (Lisbon, Lisbon, PT, EU) afrix-telecom-s-l.e0-19.switch1.lis1.he.net                                                         
+S&T (6939, 60171)  west-africa-cable-system-wacs ✓ || africa-coast-to-europe-ace ✓ || tata-tgn-western-europe ✓ || sat-3wasc ✓ || seamewe-3 ✓
+├─ 185.10.164.99   60171   389.622             (Barcelona, Catalonia, ES, EU)                                                                                                     
+S&T (60171)  
+╰─ 185.10.164.113  60171   398.758                      (London, ENG, GB, EU) *                                                                                                   
+╭─ 185.10.164.135  60171   392.719                      (London, ENG, GB, EU) *                                                                                                   
+S&T (60171)  
+├─ 185.10.164.32   60171   402.054             (Paris, Île-de-France, FR, EU)                                                                                                     
+S (60171)  
+├─ 102.223.52.73   60171   404.13                      (Lagos, Lagos, NG, AF)                                                                                                     
+S&T (60171)  
+├─ 185.10.164.45   60171   400.987                      (London, ENG, GB, EU) *                                                                                                   
+S&T (60171)  
+├─ 102.219.44.43   60171   389.892                     (Lagos, Lagos, NG, AF)                                                                                                     
+S&T (60171, 328913)  
+╰─ 196.49.84.51    328913  389.375                 (Abidjan, Abidjan, CI, AF) bdr3.std.douala-ix.net                                                                              
+╭─ 196.49.84.36    328913  390.487                 (Abidjan, Abidjan, CI, AF) gw1.std.douala-ix.net                                                                               
+S&T (328913)  
+╰─ 196.49.84.188   328913  406.503                 (Douala, Littoral, CM, AF) cm-dla-as328913.anchors.atlas.ripe.net                                                              

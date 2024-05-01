@@ -1,0 +1,12 @@
+   103.153.176.122 131657  0.0                       (Taipei, Taiwan, TW, AS) 103-153-176-122.as131657.net                                                                        
+   103.153.176.254 131657  0.351                     (Taipei, Taiwan, TW, AS) 103-153-176-254.as131657.net                                                                        
+╭─ 103.51.91.5     *       0.606                     (Taipei, Taiwan, TW, AS) et-0-0-1.cr1.hd.tpe.as131657.net                                                                    
+S (, 6939)  faster ✘ || eac-c2c ✘ || asia-pacific-gateway-apg ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.199.145 6939    28.234                      (Osaka, Ōsaka, JP, AS) port-channel6.core1.osa1.he.net                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   103.48.31.100   59105   175.143                       (None, None, JP, AS) ge-0-0-9.pop03er02.bb.homenoc.ad.jp                                                                 
+   103.48.31.123   59105   175.533                       (None, None, JP, AS) v1100.ge-0-0-8.pop03er03.bb.homenoc.ad.jp                                                           
+   103.41.60.172   10010   160.2                       (Tokyo, Tokyo, JP, AS) koba-bgprt2.tokyo-ix.v4.open.ad.jp                                                                  
+   103.143.136.30  63781   149.332             (Motoyoyogichō, Tokyo, JP, AS) ospfrt1-bgprt2.kobayashi.ad.jp                                                                      
+   103.143.136.43  63781   149.498                     (Tokyo, Tokyo, JP, AS) koba-103-143-136-43.rev.kobayashi.ad.jp                                                             

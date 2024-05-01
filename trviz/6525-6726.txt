@@ -1,0 +1,25 @@
+╭─ 139.99.78.22    16276   0.0                 (Singapore, Singapore, SG, AS) sg-sin-as16276.anchors.atlas.ripe.net                                                               
+S (16276, 4637)  eac-c2c ✓ || asia-pacific-gateway-apg ✓ || southeast-asia-japan-cable-sjc ✓ || asia-america-gateway-aag-cable-system ✓ || apcn-2 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  10.29.210.254   *       0.553                                          ***                                                                                                     
+├  10.29.192.54    *       0.538                                          ***                                                                                                     
+├  10.29.135.102   *       0.944                                          ***                                                                                                     
+├  10.133.65.56    *       1.083                                          ***                                                                                                     
+├  10.75.0.76      *       1.236                                          ***                                                                                                     
+├  10.75.248.16    *       1.563                                          ***                                                                                                     
+├  ***             *       -inf                                           *** *                                                                                                   
+├  10.200.0.217    *       1.421                                          ***                                                                                                     
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 202.84.249.161  4637    32.216    (Hong Kong, Central and Western, HK, AS)                                                                                                     
+   202.84.157.37   4637    32.227    (Hong Kong, Central and Western, HK, AS)                                                                                                     
+╭─ 103.203.158.51  *       34.598              (Hong Kong, Hong Kong, HK, AS)                                                                                                     
+S (, 46749)  asia-america-gateway-aag-cable-system ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.177.238 46749   258.991                   (Pleasanton, CA, US, NA) stanford-university.100gigabitethernet5-1.core1.pao1.he.net                                         
+   171.66.0.238    32      255.632                     (Stanford, CA, US, NA) csee-west-rtr-vl12.SUNet                                                                            
+   ***             *       -inf                                           *** *                                                                                                   
+   171.67.70.16    32      256.044             (Stanford, California, US, NA) us-pao-as32.anchors.atlas.ripe.net                                                                  

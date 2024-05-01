@@ -1,0 +1,13 @@
+   188.124.38.132  49505   0.0       (Saint Petersburg, St.-Petersburg, RU, EU)                                                                                                     
+   188.124.38.129  49505   0.34      (Saint Petersburg, St.-Petersburg, RU, EU)                                                                                                     
+   92.53.93.28     49505   0.548     (Saint Petersburg, St.-Petersburg, RU, EU)                                                                                                     
+   92.53.93.15     49505   0.809                         (None, None, RU, EU) *                                                                                                   
+╭─ 178.18.226.223  24940   29.291                        (None, None, RU, EU) *                                                                                                   
+LHL (24940)  
+├─ 213.239.224.38  24940   29.355                        (None, None, DE, EU) core31.hel1.hetzner.com                                                                             
+S (24940)  
+╰─ 213.239.228.10  24940   29.318                 (Helsinki, Uusimaa, FI, EU) spine16.cloud1.hel1.hetzner.com                                                                     
+   213.239.228.46  24940   36.131                 (Helsinki, Uusimaa, FI, EU) spine1.cloud1.hel1.hetzner.com                                                                      
+   ***             *       -inf                                           *** *                                                                                                   
+   95.216.132.233  24940   29.451                      (Helsinki, 18, FI, EU) 15272.your-cloud.host                                                                               
+   95.217.19.69    24940   29.676                 (Helsinki, Uusimaa, FI, EU) fi-tuu-as24940-client.anchors.atlas.ripe.net                                                        

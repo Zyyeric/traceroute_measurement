@@ -1,0 +1,21 @@
+   141.164.39.1    20473   0.0                      (Paripark, Seoul, KR, AS) 141.164.39.1.vultrusercontent.com                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   100.100.100.1   *       0.844                                          ***                                                                                                     
+   10.84.0.17      *       0.741                                          ***                                                                                                     
+   10.84.2.49      *       1.235                                          ***                                                                                                     
+   210.176.150.116 4637    1.635                       (Seoul, Seoul, KR, AS) unknown.telstraglobal.net                                                                           
+╭─ 202.84.149.101  4637    2.09                        (Seoul, Seoul, KR, AS)                                                                                                     
+S (4637)  asia-pacific-gateway-apg ✓ || flag-north-asia-loopreach-north-asia-loop 👍 || flag-europe-asia-fea ✓ || seamewe-3 👍 || eac-c2c 👍
+╰─ 202.84.141.253  4637    37.551    (Hong Kong, Central and Western, HK, AS) i-1088.hkth-core03.telstraglobal.net                                                                
+   202.84.153.26   4637    37.296    (Hong Kong, Central and Western, HK, AS)                                                                                                     
+   210.57.53.25    6453    37.492                        (None, None, HK, AS) unknown.telstraglobal.net                                                                           
+   180.87.112.142  6453    282.007                  (Hong Kong, None, HK, AS) if-ae-7-2.thar1.hk2-hongkong.as6453.net                                                             
+╭─ 116.0.82.63     6453    300.557                     (Central, HCW, HK, AS) *                                                                                                   
+S (6453)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 180.87.36.82    6453    283.056                      (Chennai, TN, IN, AS) if-ae-13-2.tcore1.cxr-chennai.as6453.net                                                            
+╭─ 180.87.36.1     58717   286.006                      (Kolkata, WB, IN, AS) if-be-10-2.ecore2.klk-kolkata.as6453.net                                                            
+S (58717)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 103.15.246.16   58717   132.861                     (Dhaka, Dhaka, BD, AS)                                                                                                     

@@ -1,0 +1,19 @@
+   185.6.39.132    42953   0.0                        (Cork, Munster, IE, EU)                                                                                                     
+   185.6.39.130    42953   0.897                      (Cork, Munster, IE, EU)                                                                                                     
+   91.103.0.98     47720   0.491                      (Cork, Munster, IE, EU)                                                                                                     
+   91.103.0.197    47720   0.652                      (Cork, Munster, IE, EU)                                                                                                     
+╭─ 185.6.36.69     6939    0.646 (5.28)                     (Dublin, D, IE, EU) 10ge16-1.core1.dub1.he.net                                                                          
+S&T (6939)  geo-eirgrid ✘ || rockabill ✓ || esat-2 ✓ || sirius-south ✘ || exa-north-and-south ✓ || havhingstenceltixconnect-2-cc-2 ✓ || exa-express ✓ || pan-european-crossing-uk-ireland ✓ || esat-1 ✓ || solas ✓
+├─ 72.52.92.197    6939    9.737                    (Manchester, ENG, GB, EU) 100ge3-2.core1.man1.he.net                                                                          
+S&T (6939)  circe-north ✓ || ulysses-2 ✘ || scylla ✓ || zeus ✓ || concerto ✓ || farland-north ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.196.94  6939    18.451                     (Amsterdam, NH, NL, EU) ve1001.core1.ams7.he.net                                                                            
+╭─ 184.104.197.126 6939    18.084          (Amsterdam, North Holland, NL, EU) port-channel1.core2.ams7.he.net                                                                     
+S (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.105.81.141  6939    35.878                       (Ashburn, VA, US, NA) port-channel10.core3.ash1.he.net                                                                    
+S (6939, 56655)  
+╰─ 185.125.170.252 56655   36.58                         (Oslo, Oslo, NO, EU)                                                                                                     
+   185.125.170.47  56655   37.223                        (Oslo, Oslo, NO, EU)                                                                                                     
+   185.14.97.165   56655   2846.239                      (Oslo, Oslo, NO, EU)                                                                                                     
+   185.14.97.165   56655   2846.239                      (Oslo, Oslo, NO, EU)                                                                                                     

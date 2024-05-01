@@ -1,0 +1,12 @@
+   192.158.252.10  1280    0.0            (Mountain View, California, US, NA) us-pao-as1280.anchors.atlas.ripe.net                                                                
+   192.158.252.3   1280    0.402              (Palo Alto, California, US, NA) r2.pao2-guests.isc.org                                                                              
+   64.62.180.45    6939    1.0                (Palo Alto, California, US, NA) e0-30.switch2.pao1.he.net                                                                           
+╭─ 184.105.81.81   6939    1.585               (San Jose, California, US, NA) port-channel12.core4.sjc2.he.net                                                                    
+S (6939, )  faster ✓ || japan-u-s-cable-network-jus ✓ || pacific-crossing-1-pc-1 ✘ || jupiter ✓ || trans-pacific-express-tpe-cable-system ✓ || new-cross-pacific-ncp-cable-system ✓ || tata-tgn-pacific ✓ || unityeac-pacific ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 210.171.225.228 *       175.912                     (Tokyo, Tokyo, JP, AS)                                                                                                     
+S (, 140443)  
+├  10.111.220.146  *       182.492                                        ***                                                                                                     
+╰─ 38.47.188.1     140443  181.872       (Kuala Lumpur, Kuala Lumpur, MY, AS)                                                                                                     
+   38.47.189.189   140443  182.435       (Kuala Lumpur, Kuala Lumpur, MY, AS)                                                                                                     

@@ -1,0 +1,16 @@
+   45.183.45.23    64116   0.0                  (Lima, Lima Province, PE, SA)                                                                                                     
+   45.183.45.1     64116   1.137                (Lima, Lima Province, PE, SA)                                                                                                     
+   10.7.11.129     *       1.78                                           ***                                                                                                     
+╭─ 200.25.44.65    7195    1.463                (Lima, Lima Province, PE, SA) ae100.3007.edge1.lim1.as7195.net                                                                    
+LHL (7195)  south-america-1-sam-1 ✘ || america-movil-submarine-cable-system-1-amx-1 ✓ || globenet ✓
+├─ 200.25.51.99    7195    2.16                       (Sao Paulo, SP, BR, SA) ae1.0.edge2.gru1.as7195.net                                                                         
+S (7195)  brusa ✘ || america-movil-submarine-cable-system-1-amx-1 ✓ || south-america-1-sam-1 ✘ || globenet ✓ || monet ✓ || americas-ii ✓
+╰─ 200.25.51.189   7195    79.11                   (Flagami, Florida, US, NA) ae1051.0.edge2.mia1.as7195.net                                                                      
+   200.25.51.215   7195    109.291           (University Park, Texas, US, NA) ae1214.0.edge2.dal1.as7195.net                                                                      
+╭─ 200.25.51.212   7195    109.578                    (Dallas, Texas, US, NA) ae0.0.edge1.dal1.as7195.net                                                                         
+S&T (7195)  arcos ✓ || gignet-1 ✘ || america-movil-submarine-cable-system-1-amx-1 ✓ || maya-1 ✓
+╰─ 200.25.51.131   7195    138.775   (Santiago de Querétaro, Querétaro, MX, NA) ae50.0.edge1.qro1.as7195.net                                                                        
+   200.25.51.59    7195    139.153   (Santiago de Querétaro, Querétaro, MX, NA) ae0.0.edge2.qro1.as7195.net                                                                         
+   201.175.40.234  22908   143.419   (Santiago de Querétaro, Querétaro, MX, NA) 201-175-40-234.kionetworks.com                                                                      
+   172.18.20.2     *       143.375                                        ***                                                                                                     
+   45.71.11.105    64112   143.825   (Santiago de Querétaro, Querétaro, MX, NA)                                                                                                     

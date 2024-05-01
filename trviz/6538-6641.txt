@@ -1,0 +1,28 @@
+   92.38.135.131   202422  0.0                         (Seoul, Seoul, KR, AS)                                                                                                     
+   92.38.135.3     202422  0.19                        (Seoul, Seoul, KR, AS) vrrp.gcore.lu                                                                                       
+   10.255.17.210   *       0.211                                          ***                                                                                                     
+   10.255.17.213   *       0.257                                          ***                                                                                                     
+   10.255.17.147   *       0.277                                          ***                                                                                                     
+╭─ 113.29.52.41    3549    0.515                       (Seoul, Seoul, KR, AS)                                                                                                     
+S (3549, 3356)  apcn-2 ✘ || asia-pacific-gateway-apg ✘ || flag-north-asia-loopreach-north-asia-loop ✘ || eac-c2c ✘ || new-cross-pacific-ncp-cable-system ✘ || korea-japan-cable-network-kjcn ✘ || seamewe-3 ✘ || flag-europe-asia-fea ✘ || trans-pacific-express-tpe-cable-system ✘
+╰─ 4.69.217.14     3356    30.915                         (Tokyo, 13, JP, AS) ae1.3505.edge2.Tokyo4.level3.net                                                                    
+╭─ 4.68.75.130     2914    30.885                         (Tokyo, 13, JP, AS) NTT-level3-Tokyo4.Level3.net                                                                        
+S (2914)  japan-u-s-cable-network-jus 👍 || tata-tgn-pacific ✓ || pacific-crossing-1-pc-1 👍 || faster ✓ || jupiter 👍 || new-cross-pacific-ncp-cable-system ✓ || trans-pacific-express-tpe-cable-system 👍 || unityeac-pacific ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 129.250.3.188   2914    188.714                       (None, None, US, NA) ae-5.sayonara-dorian.r25.asbnva02.us.bb.gin.ntt.net                                                 
+   129.250.2.110   2914    258.893                       (None, None, US, NA) ae-7.r21.londen12.uk.bb.gin.ntt.net                                                                 
+   129.250.3.13    2914    265.499                       (None, None, US, NA) ae-16.r20.frnkge13.de.bb.gin.ntt.net                                                                
+╭─ 129.250.7.16    2914    265.525                       (None, None, US, NA) ae-0.a00.tokyjp09.jp.bb.gin.ntt.net                                                                 
+S (2914, 9121)  
+├─ 213.198.83.222  9121    276.317                       (None, None, GB, EU) *                                                                                                   
+S (9121)  
+╰─ 212.156.101.195 9121    314.97                      (Istanbul, 34, TR, AS) 38-kayseri-h2-2---301-fra-col-2.statik.turktelekom.com.tr                                           
+   81.212.233.149  9121    313.377                     (Ulus, Bartın, TR, AS) 06-ulus-sr14s-t2-2---38-kayseri-h2-2.statik.turktelekom.com.tr                                      
+   212.156.119.12  9121    313.624               (Ataşehir, Istanbul, TR, AS) 06-ulus-sr14s-t2-1---06-ulus-sr14s-t2-2.statik.turktelekom.com.tr                                   
+╭─ 212.156.76.30   9121    352.79                    (Ankara, Ankara, TR, AS) 212.156.76.30.static.turktelekom.com.tr                                                             
+T (9121, 3216)  
+╰─ 79.104.246.167  3216    385.94                    (Kemerovo, None, RU, AS) pe02.kemerovo.gldn.net                                                                              
+   91.221.180.33   49673   392.244                       (None, None, RU, EU) host_91_221_180_33.milecom.ru                                                                       
+   94.247.111.19   49673   394.486   (Novosibirsk, Novosibirsk Oblast, RU, EU) ru-ovb-as49673.anchors.atlas.ripe.net                                                               

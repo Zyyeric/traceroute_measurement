@@ -1,0 +1,15 @@
+   103.23.232.7    58475   0.0        (Banjarmasin, South Kalimantan, ID, AS)                                                                                                     
+   103.23.232.1    58475   0.299      (Banjarmasin, South Kalimantan, ID, AS)                                                                                                     
+╭─ 36.93.255.177   7713    0.299 (2.296)                   (Batam, Riau, ID, AS)                                                                                                     
+S&T (7713)  s-u-b-cable-system 👍 ↠ australia-singapore-cable-asc ✓ || jaka2ladema 👍 ↠ jakabare ✓ || jaka2ladema 👍 ↠ jasuka 👍 || s-u-b-cable-system 👍 ↠ matrix-cable-system ✘ || s-u-b-cable-system 👍 ↠ b2js-jakarta-bangka-batam-singapore-cable-system ✘ || s-u-b-cable-system 👍 ↠ indonesia-global-gateway-igg-system 👍 || s-u-b-cable-system 👍 ↠ seamewe-3 ✓ || s-u-b-cable-system 👍 ↠ jasuka 👍 || s-u-b-cable-system 👍 ↠ indigo-west ✓ || s-u-b-cable-system 👍 ↠ jakarta-bangka-bintan-batam-singapore-b3js ✘ || s-u-b-cable-system 👍 ↠ jakabare ✓
+├─ 180.240.192.33  7713    21.399              (Singapore, Singapore, SG, AS)                                                                                                     
+S (7713)  eac-c2c ✓ || asia-pacific-gateway-apg ✓ || southeast-asia-japan-cable-sjc 👍 || asia-america-gateway-aag-cable-system 👍 || seamewe-3 ✓ || asia-submarine-cable-express-asecahaya-malaysia ✓ || apcn-2 ✓ || tata-tgn-intra-asia-tgn-ia ✓
+├─ 180.240.197.113 7713    72.358              (Hong Kong, Hong Kong, HK, AS)                                                                                                     
+S (7713, 6939)  asia-america-gateway-aag-cable-system 👍
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.81.81   6939    206.389             (San Jose, California, US, NA) port-channel12.core4.sjc2.he.net                                                                    
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   23.155.72.145   64289   206.804          (Santa Clara, California, US, NA)                                                                                                     

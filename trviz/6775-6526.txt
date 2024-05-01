@@ -1,0 +1,18 @@
+   195.209.139.36  29114   0.0              (Ivanovo, Ivanovo Oblast, RU, EU) anchor1.atlas.ruitb.ru                                                                              
+   195.209.139.1   29114   0.718            (Ivanovo, Ivanovo Oblast, RU, EU) itb-bgp-gw1.ruitb.ru                                                                                
+   87.255.238.137  38917   1.513            (Ivanovo, Ivanovo Oblast, RU, EU)                                                                                                     
+╭─ 188.43.195.202  20485   2.235            (Ivanovo, Ivanovo Oblast, RU, EU) ivo06rb.transtelecom.net                                                                            
+LHL (20485)  
+├─ 80.81.194.117   20485   47.339            (Frankfurt am Main, 5, DE, None) ipv4.de-cix.fra.de.as20485.ttk.ru                                                                   
+T (20485, 6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.105.223.254 6939    63.924                        (Paris, IDF, FR, EU) port-channel4.core2.par2.he.net                                                                     
+S (6939)  flag-atlantic-1-fa-1 ✓
+├─ 184.104.199.222 6939    125.168          (New York City, New York, US, NA) port-channel1.core2.nyc4.he.net                                                                     
+S&T (6939)  exa-north-and-south ✓
+╰─ 184.104.196.178 6939    152.162                      (Toronto, ON, CA, NA) 100ge0-78.core2.tor1.he.net                                                                         
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   65.19.133.197   6939    183.621      (Vancouver, British Columbia, CA, NA)                                                                                                     
+   192.30.89.87    394256  188.123      (Vancouver, British Columbia, CA, NA) ca-van-as394256.anchors.atlas.ripe.net                                                              

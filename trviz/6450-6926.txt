@@ -1,0 +1,12 @@
+╭─ 194.156.155.241 48386   0.0                       (Madrid, Madrid, ES, EU) es-mad-as48386-client.anchors.atlas.ripe.net                                                        
+S (48386, 50069)  
+├─ 45.11.107.144   50069   0.154                         (None, None, US, NA) interxion-mad2.edge.mad01.es.misaka.io                                                              
+S (50069, 60068)  
+╰─ 84.17.33.96     60068   0.258                     (Madrid, Madrid, ES, EU) gw-cdn77-1.mad02.es.misaka.io                                                                       
+╭─ 81.95.9.58      201011  0.434                     (Madrid, Madrid, ES, EU) ae0-401.mad10.core-backbone.com                                                                     
+T (201011)  
+├─ 80.255.15.165   201011  28.321                     (Amsterdam, NH, NL, EU) ae3-2072.ams10.core-backbone.com                                                                    
+T (201011, 35574)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 194.187.172.112 35574   41.76                        (Rome, Lazio, IT, EU)                                                                                                     

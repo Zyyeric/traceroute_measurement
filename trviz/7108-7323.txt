@@ -1,0 +1,17 @@
+   114.31.201.91   4826    0.0              (Sydney, New South Wales, AU, OC) 91.201.31.114.core.vocus.network                                                                    
+   114.31.201.90   4826    0.601            (Sydney, New South Wales, AU, OC) 90.201.31.114.core.vocus.network                                                                    
+   ***             *       -inf                                           *** *                                                                                                   
+   103.1.77.46     *       92.941           (Sydney, New South Wales, AU, OC) be203.lsr01.dody.nsw.vocus.network                                                                  
+   103.1.76.147    4826    92.809                        (None, None, AU, OC) be803.lsr01.prth.wa.vocus.network                                                                   
+   103.1.77.9      4826    92.306                       (Sydney, NSW, AU, OC) be221.cor02.syd04.nsw.vocus.network                                                                 
+╭─ 114.31.206.75   4826    92.068                         (Perth, WA, AU, OC) be203.bdr02.sin01.sin.vocus.network                                                                 
+S (4826, 7713)  
+├─ 27.111.228.77   7713    127.736                   (Seogwipo, None, KR, AS) 7713.sgw.equinix.com                                                                                
+S (7713)  
+╰─ 180.240.204.9   7713    128.062             (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 180.240.204.9   7713    128.062             (Singapore, Singapore, SG, AS)                                                                                                     
+S&T (7713)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 36.93.255.177   7713    165.656                      (Batam, Riau, ID, AS)                                                                                                     
+   36.93.255.178   58475   163.455                       (None, None, ID, AS) *                                                                                                   
+   103.23.232.7    58475   162.507    (Banjarmasin, South Kalimantan, ID, AS)                                                                                                     

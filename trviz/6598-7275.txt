@@ -1,0 +1,15 @@
+   180.211.88.22   45725   0.0                     (Jakarta, Jakarta, ID, AS) id-jkt-as45725.anchors.atlas.ripe.net                                                               
+   180.211.88.21   45725   0.492                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+   43.230.153.89   *       0.342                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+╭─ 111.92.161.4    55655   0.719                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+S&T (55655, 6939)  australia-singapore-cable-asc ✘ || matrix-cable-system ✘ || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || indonesia-global-gateway-igg-system ✘ || seamewe-3 ✘ || indigo-west ✘ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || jasuka ✘ || jakabare ✘
+├  10.110.1.0      *       12.173                                         ***                                                                                                     
+├─ 74.82.49.213    6939    13.326              (Singapore, Singapore, SG, AS) e0-49.switch7.sin1.he.net                                                                           
+S (6939, 20473)  asia-america-gateway-aag-cable-system ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 206.72.211.53   20473   187.237                (Los Angeles, CA, US, None) clan-servers-hosting.as20473.any2ix.coresite.com                                                    
+   10.68.1.14      *       187.175                                        ***                                                                                                     
+   10.68.3.154     *       186.407                                        ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   149.248.18.65   20473   186.869          (Los Angeles, California, US, NA) 149.248.18.65.vultrusercontent.com                                                                  

@@ -1,0 +1,11 @@
+   103.2.186.195   45345   0.0               (Nouméa, South Province, NC, OC) nc-nou-as45345.anchors.atlas.ripe.net                                                               
+   103.2.186.221   45345   0.646             (Nouméa, South Province, NC, OC) gw-ipv4-hosting-1010-mx204-f10.as45345.net                                                          
+   202.87.128.198  45345   1.134                          (Noumea, S, NC, OC) *                                                                                                   
+╭─ 202.87.128.197  18200   1.379             (Nouméa, South Province, NC, OC)                                                                                                     
+S (18200, 45177)  gondwana-1 👍
+╰─ 45.127.172.173  45177   22.777                       (Sydney, NSW, AU, OC) 45177.syd.equinix.com                                                                               
+╭─ 45.127.172.173  45177   22.777                       (Sydney, NSW, AU, OC) 45177.syd.equinix.com                                                                               
+S (45177)  tasman-global-access-tga-cable ✓ || southern-cross-cable-network-sccn ✓ || hawaiki ✘
+╰─ 14.1.54.101     45177   45.986                     (Auckland, AUK, NZ, OC) lt-6-2-0-22.mdr-cr2.as45177.net.nz                                                                  
+   ***             *       -inf                                           *** *                                                                                                   
+   202.46.184.4    38064   46.303                (Auckland, Auckland, NZ, OC)                                                                                                     

@@ -1,0 +1,35 @@
+   103.179.37.157  151332  0.0                  (Melbourne, Victoria, AU, OC)                                                                                                     
+   103.179.37.156  151332  0.59                 (Melbourne, Victoria, AU, OC)                                                                                                     
+   203.192.83.253  7545    2.416                (Melbourne, Victoria, AU, OC) ip-253-83-192-203.static.pipenetworks.com                                                           
+   203.220.216.73  7545    1.699                        (Sydney, NSW, AU, OC) 203-220-216-73.tpgi.com.au                                                                          
+   27.32.160.194   7545    14.188                       (Sydney, NSW, AU, OC) 27-32-160-194.static.tpgi.com.au                                                                    
+   202.7.173.17    7545    12.937                       (Sydney, NSW, AU, OC) syd-gls-har-crt2-be-10.tpgi.com.au                                                                  
+╭─ 203.221.3.3     7545    13.408                       (Sydney, NSW, AU, OC) syd-gls-har-int1-he0-3-0-2.tpgi.com.au                                                              
+S (7545, 174)  hawaiki ✘ || southern-cross-cable-network-sccn ✓ || southern-cross-next ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 154.54.43.9     174     158.706                (San Francisco, CA, US, NA) be3669.ccr21.sfo01.atlas.cogentco.com                                                               
+   154.54.44.138   174     172.409               (Salt Lake City, UT, US, NA) be3109.ccr21.slc01.atlas.cogentco.com                                                               
+   154.54.41.146   174     183.629                       (Denver, CO, US, NA) be3037.ccr21.den01.atlas.cogentco.com                                                               
+   154.54.5.90     174     194.651                  (Kansas City, MO, US, NA) be3035.ccr21.mci01.atlas.cogentco.com                                                               
+   154.54.42.166   174     206.707                      (Chicago, IL, US, NA) be2831.ccr41.ord01.atlas.cogentco.com                                                               
+╭─ 154.54.6.222    174     294.339                    (Cleveland, OH, US, NA) be2717.ccr21.cle04.atlas.cogentco.com                                                               
+S&T (174)  
+╰─ 154.54.31.226   174     294.386                      (Toronto, ON, CA, NA) be2993.ccr31.yyz02.atlas.cogentco.com                                                               
+╭─ 154.54.41.206   174     294.378                     (Montreal, QC, CA, NA) be3259.ccr21.ymq01.atlas.cogentco.com                                                               
+S (174)  
+├─ 154.54.44.161   174     294.194                   (Liverpool, ENG, GB, EU) be3042.ccr21.lpl01.atlas.cogentco.com                                                               
+S&T (174)  
+├─ 154.54.77.245   174     294.287                    (Amsterdam, NH, NL, EU) be2182.ccr41.ams03.atlas.cogentco.com                                                               
+T (174)  
+╰─ 130.117.0.122   174     301.054            (Frankfurt am Main, HE, DE, EU) be2813.ccr41.fra03.atlas.cogentco.com                                                               
+╭─ 154.54.36.54    174     306.517                       (Munich, BY, DE, EU) be2959.ccr21.muc03.atlas.cogentco.com                                                               
+T (174)  
+├─ 154.54.58.6     174     312.161                        (Vienna, 9, AT, EU) be2974.ccr51.vie01.atlas.cogentco.com                                                               
+LHL (174)  
+├─ 130.117.0.70    174     345.357                      (Belgrade, 0, RS, EU) be3420.ccr51.beg03.atlas.cogentco.com                                                               
+LHL (174)  
+╰─ 130.117.50.73   174     345.177                   (Athens, Attica, GR, EU) be3246.rcr21.ath01.atlas.cogentco.com                                                               
+   176.126.38.48   *       348.778              (Metamórfosi, Attica, GR, EU) fastpath.gr-ix.gr                                                                                   
+   185.201.254.27  56457   348.817              (Metamórfosi, Attica, GR, EU) be3502.ef2.ath01.fastpath.gr                                                                        
+   185.201.254.39  56457   349.12               (Metamórfosi, Attica, GR, EU) te1-24.sp1.ath01.fastpath.gr                                                                        
+   176.119.210.244 56457   349.548                   (Athens, Attica, GR, EU)                                                                                                     

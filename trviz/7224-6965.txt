@@ -1,0 +1,19 @@
+   193.1.201.140   1213    0.0                   (Tallaght, Leinster, IE, EU) atlas-anchor.heanet.ie                                                                              
+   193.1.201.138   1213    0.339                   (Dublin, Leinster, IE, EU) pw-spine1-vlan11.services.hea.net                                                                   
+   87.44.56.177    1213    0.403                        (Dublin, L, IE, None) ae3.core1-pw.nn.hea.net                                                                             
+╭─ 212.222.58.253  3257    0.904              (Palmerstown, Leinster, IE, EU) ae1-100.cr0-dub4.ip4.gtt.net                                                                        
+S&T (3257)  geo-eirgrid ✘ || rockabill © || esat-2 ✘ || sirius-south ✘ || exa-north-and-south ✘ || havhingstenceltixconnect-2-cc-2 © || exa-express ✘ || pan-european-crossing-uk-ireland ✓ || esat-1 ✘ || solas ✓
+╰─ 141.136.107.6   3257    10.528                       (London, ENG, GB, EU) ae1.cr12-lon1.ip4.gtt.net                                                                           
+╭─ 4.68.72.201     3356    10.431                      (London, None, GB, EU) ae-11.edge7.London1.Level3.net                                                                      
+S (3356)  exa-north-and-south ✘ || atlantic-crossing-1-ac-1 👍 || flag-atlantic-1-fa-1 © || apollo © || yellow 👍 || tata-tgn-atlantic ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 4.30.178.110    3356    79.518           (New York City, New York, US, NA)                                                                                                     
+   64.15.10.55     *       81.847              (Hicksville, New York, US, NA)                                                                                                     
+   64.15.3.153     6128    81.481                        (None, None, US, NA) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   65.51.3.116     54004   82.968            (Greenwich, Connecticut, US, NA) 41330374.cst.lightpath.net                                                                          
+   65.51.3.117     54004   83.17             (Waltham, Massachusetts, US, NA) 41330375.cst.lightpath.net                                                                          
+   23.175.208.253  54316   82.286           (New York City, New York, US, NA) core1.ny1.ap.foundation                                                                             
+   23.175.209.11   54316   82.563                 (Astoria, New York, US, NA)                                                                                                     

@@ -1,0 +1,17 @@
+   37.10.40.14     202196  0.0                 (Hong Kong, Hong Kong, HK, AS)                                                                                                     
+   37.10.40.9      202196  0.294            (Tai Yuen Estate, Tai Po, HK, AS)                                                                                                     
+   10.127.0.54     *       0.406                                          ***                                                                                                     
+   223.119.0.94    58453   0.387 (2.352)          (Hong Kong, Hong Kong, HK, AS)                                                                                                     
+   223.118.2.50    58453   151.72                        (None, None, HK, AS) *                                                                                                   
+   223.118.10.185  58453   223.227                       (None, None, HK, AS) *                                                                                                   
+╭─ 223.118.10.61   58453   223.244                       (None, None, HK, AS) *                                                                                                   
+S (58453, 20473)  
+╰─ 198.32.160.157  20473   231.474                     (New York, NY, US, NA) nyiix.gi3-6.cr1.nyc1.choopa.net                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 64.176.214.215  20473   219.037           (Piscataway, New Jersey, US, NA) router01-vul-ewr.as151332.net                                                                       
+S (20473, 8888)  
+╰─ 103.136.146.152 8888    265.695          (Sydney, New South Wales, AU, OC) s22562.vps.hosting                                                                                  
+   203.192.83.254  7545    276.191              (Melbourne, Victoria, AU, OC) ip-254-83-192-203.static.pipenetworks.com                                                           
+   103.179.37.157  151332  276.356              (Melbourne, Victoria, AU, OC)                                                                                                     

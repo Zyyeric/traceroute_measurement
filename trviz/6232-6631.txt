@@ -1,0 +1,20 @@
+   92.38.178.149   202422  0.0                       (Urayasu, Tokyo, JP, AS)                                                                                                     
+   92.38.178.1     202422  0.152                     (Urayasu, Tokyo, JP, AS) gw.gcore.lu                                                                                         
+   10.255.16.181   *       0.172                                          ***                                                                                                     
+   10.255.16.183   *       0.395                                          ***                                                                                                     
+   210.171.225.113 *       0.417                    (Hatsudai, Tokyo, JP, AS)                                                                                                     
+╭─ 206.148.24.47   7578    0.62                        (Tokyo, Tokyo, JP, AS) po2.ty-eqxty8-bb5.globalsecurelayer.com                                                             
+S (7578)  
+├─ 206.148.24.66   7578    67.339           (Sydney, New South Wales, AU, OC) e51.sg-eqxsg3-bb1.globalsecurelayer.com                                                             
+S (7578)  
+╰─ 31.217.251.74   7578    67.225              (Singapore, Singapore, SG, AS) unknown.globalsecurelayer.com                                                                       
+╭─ 160.202.164.165 137409  68.447              (Singapore, Singapore, SG, AS)                                                                                                     
+S (137409, 8529)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 213.202.1.189   8529    237.084                   (Muscat, Muscat, OM, AS)                                                                                                     
+S&T (8529, 42961)  
+├─ 151.248.98.137  42961   237.35                        (None, None, BH, AS) *                                                                                                   
+S (42961)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 212.43.17.42    42961   240.4       (Al Farwānīyah, Al Farwaniyah, KW, AS)                                                                                                     

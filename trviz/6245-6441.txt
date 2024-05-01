@@ -1,0 +1,16 @@
+   91.209.0.21     60396   0.0                         (Malmö, Skåne, SE, EU) se-lud-as60396.anchors.atlas.ripe.net                                                               
+   91.209.0.1      60396   0.148                        (Lund, Skåne, SE, EU) ens19.gw.seludsms.0x5e.se                                                                           
+   46.227.64.210   42675   0.903                        (Lund, Skåne, SE, EU) ae5-704.cph-ixn.obe.net                                                                             
+╭─ 46.227.64.234   42675   1.838                        (Lund, Skåne, SE, EU) ae5-100.cph-dlr.obe.net                                                                             
+S&T (42675, )  ip-only-denmark-sweden ✘ || danica-north ✘ || scandinavian-ring-south ✘ || denmark-sweden-16 ✘
+├─ 212.237.192.187 *       2.665         (Copenhagen, Capital Region, DK, EU) netnod-ix-cph-blue-9000.he.net                                                                      
+T (, 6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.105.81.209  6939    17.555                    (Berlin, Berlin, DE, EU) port-channel7.core3.ber1.he.net                                                                     
+S&T (6939)  baltica ✓
+├─ 184.104.188.39  6939    32.232                   (Warsaw, Mazovia, PL, EU) port-channel15.core2.waw1.he.net                                                                    
+T (6939, 21412)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 185.1.113.29    21412   26.314                     (Vilnius, 65, LT, None) *                                                                                                   
+   5.20.2.250      21412   27.203                       (Vilnius, VL, LT, EU) dmz-2-250.cgates.lt                                                                                 
+   5.20.2.255      21412   26.904                  (Vilnius, Vilnius, LT, EU) dmz-2-255.cgates.lt                                                                                 

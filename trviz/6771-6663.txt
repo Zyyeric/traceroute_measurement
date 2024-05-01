@@ -1,0 +1,14 @@
+   92.223.93.208   202422  0.0                      (Milan, Lombardy, IT, EU)                                                                                                     
+   92.223.93.195   202422  0.378                    (Milan, Lombardy, IT, EU) vrrp.gcore.lu                                                                                       
+   45.82.101.3     199524  0.157                    (Milan, Lombardy, IT, EU)                                                                                                     
+   10.255.169.178  *       0.297                                          ***                                                                                                     
+   217.29.66.167   13335   1.194                         (Milan, 9, IT, None) cloudflare.mix-it.net                                                                               
+   188.114.100.11  13335   1.237                          (Milan, 25, IT, EU) *                                                                                                   
+   162.158.131.23  13335   0.926                    (Milan, Lombardy, IT, EU)                                                                                                     
+   162.158.131.149 13335   0.962                    (Milan, Lombardy, IT, EU)                                                                                                     
+╭─ 162.158.131.169 13335   1.001                    (Milan, Lombardy, IT, EU)                                                                                                     
+S (13335, 208800)  asia-africa-europe-1-aae-1 ✓ || imewe ✓ || seamewe-5 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 91.201.7.243    208800  130.384             (Abu Dhabi, Abu Dhabi, AE, AS)                                                                                                     

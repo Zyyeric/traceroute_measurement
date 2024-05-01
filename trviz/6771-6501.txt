@@ -1,0 +1,17 @@
+   37.143.141.141  196745  0.0                       (Poole, England, GB, EU) atlas.datacenta.net                                                                                 
+   172.22.10.219   *       0.298                                          ***                                                                                                     
+   37.143.136.253  196745  0.943               (Bournemouth, England, GB, EU)                                                                                                     
+   193.251.248.53  5511    5.049                    (London, England, GB, EU)                                                                                                     
+╭─ 193.251.129.79  5511    5.166                       (London, None, GB, EU) *                                                                                                   
+S&T (5511, 13335)  
+├─ 193.251.150.108 13335   5.341                         (None, None, FR, EU) cloudflare-13.gw.opentransit.net                                                                    
+S&T (13335)  
+╰─ 141.101.71.61   13335   5.535                    (Poplar, England, GB, EU)                                                                                                     
+   172.70.160.12   13335   5.071                    (London, England, GB, EU)                                                                                                     
+   172.70.161.117  13335   5.204                        (London, ENG, GB, EU) *                                                                                                   
+╭─ 172.70.161.86   13335   5.272                        (London, ENG, GB, EU) *                                                                                                   
+S&T (13335, 208800)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 91.201.7.243    208800  120.921             (Abu Dhabi, Abu Dhabi, AE, AS)                                                                                                     

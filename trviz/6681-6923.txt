@@ -1,0 +1,13 @@
+   103.151.64.31   140627  0.0                     (Hagåtña, Hagatna, GU, OC) atlas.guam.as140627.net                                                                             
+╭─ 103.151.64.30   140627  0.255                 (Piti Village, Piti, GU, OC) oq-guam-cor01--atlas-probe.as140627.net                                                             
+S (140627)  japan-guam-australia-south-jga-s ✓ || pipe-pacific-cable-1-ppc-1 ✓ || australia-japan-cable-ajc ✓
+╰─ 103.151.64.7    140627  70.419                        (None, None, AU, OC) *                                                                                                   
+   218.100.52.11   13335   71.547                       (Sydney, 2, AU, None) as13335.nsw.ix.asn.au                                                                               
+   108.162.250.5   13335   71.411           (Sydney, New South Wales, AU, OC)                                                                                                     
+   108.162.248.113 13335   70.924                       (Sydney, NSW, AU, OC) *                                                                                                   
+   108.162.248.94  13335   71.096                       (Sydney, NSW, AU, OC) *                                                                                                   
+╭─ 108.162.248.155 13335   71.139                       (Sydney, NSW, AU, OC) *                                                                                                   
+S (13335, 133800)  indigo-west ✓ || seamewe-3 ✓ || australia-singapore-cable-asc ✓ || oman-australia-cable-oac ✘
+├  172.16.18.101   *       125.905                                        ***                                                                                                     
+╰─ 137.59.127.34   133800  126.237                       (None, None, ID, AS) ip-34-127-59-137.core.biznetg.io                                                                    
+   103.77.105.3    133800  125.8                   (Jakarta, Jakarta, ID, AS) ip-3-105-77-103.jkt-1.biznetg.io                                                                    

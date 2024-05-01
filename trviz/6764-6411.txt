@@ -1,0 +1,27 @@
+   107.162.217.5   55002   0.0                 (San Jose, California, US, NA)                                                                                                     
+╭─ 107.162.217.1   55002   0.366            (Santa Clara, California, US, NA)                                                                                                     
+S (55002, 2914)  asia-america-gateway-aag-cable-system ✘
+├  100.100.1.14    *       0.579                                          ***                                                                                                     
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 128.241.10.56   2914    195.209             (Singapore, Singapore, SG, AS) ae-57.a03.sngpsi07.sg.bb.gin.ntt.net                                                                
+S (2914)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 129.250.5.135   2914    215.833             (Hong Kong, Hong Kong, HK, AS) ae-1.a00.newthk04.hk.bb.gin.ntt.net                                                                 
+S (2914, 7473)  
+╰─ 203.208.178.230 7473    267.545                       (None, None, SG, AS) *                                                                                                   
+   203.208.154.13  7473    269.549                       (None, None, SG, AS) *                                                                                                   
+╭─ 203.208.158.194 7473    268.392                       (None, None, SG, AS) *                                                                                                   
+S (7473, 7474)  
+╰─ 203.208.150.190 7474    382.209                    (Brisbane, QLD, AU, OC) *                                                                                                   
+   59.154.18.82    7474    253.046                    (Brisbane, QLD, AU, OC) *                                                                                                   
+   59.154.116.18   7474    251.665          (Sydney, New South Wales, AU, OC)                                                                                                     
+   103.197.232.190 64098   252.172          (Sydney, New South Wales, AU, OC)                                                                                                     
+   103.197.232.127 64098   252.203          (Sydney, New South Wales, AU, OC)                                                                                                     
+   103.197.232.101 64098   251.936          (Sydney, New South Wales, AU, OC)                                                                                                     
+   103.197.232.58  64098   251.548          (Sydney, New South Wales, AU, OC)                                                                                                     
+   59.153.9.245    138466  251.678                      (Sydney, NSW, AU, OC) *                                                                                                   
+   103.126.52.196  138466  251.887                       (None, None, AU, OC) vl129-bo0.pauseq4rbdr2.datamossa.io                                                                 
+   103.126.52.180  138466  252.251          (Sydney, New South Wales, AU, OC) as138466.anchors.atlas.ripe.net                                                                     

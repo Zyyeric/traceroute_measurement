@@ -1,0 +1,14 @@
+   96.126.70.90    21659   0.0               (Moncton, New Brunswick, CA, NA) 96-126-70-90.apbx.ca                                                                                
+   ***             *       -inf                                           *** *                                                                                                   
+   98.143.249.17   3367    1.502             (Moncton, New Brunswick, CA, NA) enova-98-143-249-17.e-novations.ca                                                                  
+╭─ 209.51.184.133  6939    1.755             (Moncton, New Brunswick, CA, NA) port-channel2.core2.yqm1.he.net                                                                     
+S&T (6939)  exa-north-and-south ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 72.52.92.9      6939    12.688             (Boston, Massachusetts, US, NA) 100ge0-78.core2.bos1.he.net                                                                         
+╭─ 184.104.194.86  6939    18.104           (New York City, New York, US, NA) 100ge0-17.core2.nyc4.he.net                                                                         
+S (6939)  exa-north-and-south ✓ || atlantic-crossing-1-ac-1 ✓ || yellow ✓ || apollo ✓ || tata-tgn-atlantic ✓ || flag-atlantic-1-fa-1 ✓
+╰─ 184.104.198.125 6939    81.587                   (London, England, GB, EU) port-channel4.core3.lon2.he.net                                                                     
+   195.66.224.131  28792   81.138                     (London, ENG, GB, None) *                                                                                                   
+   80.82.243.152   28792   86.252                       (Witney, ENG, GB, EU) te0-3-0.man-core-01.ip.pblin.net                                                                    
+   80.82.243.244   28792   86.168                 (Didsbury, England, GB, EU) 244-243-82-80.in-addr.pblin.net                                                                     
+   80.82.242.39    28792   86.026               (Manchester, England, GB, EU) 39-242-82-80.in-addr.pblin.net                                                                      

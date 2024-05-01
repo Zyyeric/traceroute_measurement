@@ -1,0 +1,15 @@
+   103.179.37.157  151332  0.0                  (Melbourne, Victoria, AU, OC)                                                                                                     
+   103.179.37.156  151332  0.283                (Melbourne, Victoria, AU, OC)                                                                                                     
+   203.192.83.253  7545    1.585                (Melbourne, Victoria, AU, OC) ip-253-83-192-203.static.pipenetworks.com                                                           
+   203.220.216.73  7545    1.834                        (Sydney, NSW, AU, OC) 203-220-216-73.tpgi.com.au                                                                          
+   27.32.160.193   7545    85.729              (North Melbourne, VIC, AU, OC) 27-32-160-193.static.tpgi.com.au                                                                    
+╭─ 203.219.57.14   7545    84.955          (Perth, Western Australia, AU, OC) per-apt-stg-crt1-be20.tpgi.com.au                                                                   
+S (7545)  
+╰─ 203.219.107.114 7545    85.548              (Singapore, Singapore, SG, AS) sin-eqx-aye-int1-hu-0-0-0-20.tpg.com.au                                                             
+╭─ 184.105.80.45   6939    211.893             (Singapore, Singapore, SG, AS) port-channel21.core2.sin1.he.net                                                                    
+S (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.64.129  6939    220.72                   (Hong Kong, None, HK, AS) 100ge10-2.core1.hkg1.he.net                                                                         
+   184.104.220.67  6939    243.065             (Hong Kong, Hong Kong, HK, AS) lshiy.e0-30.switch1.hkg1.he.net                                                                     
+   103.203.243.11  955     243.671             (Hong Kong, Hong Kong, HK, AS) multi-user.port-channe17.switch1.hkg1.bb.lshiy.net                                                  
+   89.213.179.65   32167   243.158             (Hong Kong, Hong Kong, HK, AS) 89-213-179-65.ip.lshiyusercontent.com                                                               

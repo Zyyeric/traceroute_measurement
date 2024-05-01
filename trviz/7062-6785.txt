@@ -1,0 +1,19 @@
+   103.15.246.16   58717   0.0                         (Dhaka, Dhaka, BD, AS)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   172.16.203.70   *       0.793                                          ***                                                                                                     
+   157.119.185.211 58717   0.996                           (Dhaka, C, BD, AS) *                                                                                                   
+   103.199.87.233  58717   6.035                         (None, None, BD, AS) *                                                                                                   
+╭─ 103.199.87.42   58717   50.333                        (None, None, BD, AS) *                                                                                                   
+S (58717, 6939)  seamewe-5 ✓ || seamewe-4 ✓
+├─ 184.105.80.45   6939    261.483             (Singapore, Singapore, SG, AS) port-channel21.core2.sin1.he.net                                                                    
+S (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.189.42  6939    182.783               (Djibouti, Djibouti, DJ, AF) ve1004.core2.jib1.he.net                                                                            
+S&T (6939)  
+├─ 184.105.64.13   6939    263.117                     (Mombasa, 300, KE, AF) port-channel2.core1.mba1.he.net                                                                     
+S (6939)  
+╰─ 184.104.198.49  6939    306.802                       (Durban, NL, ZA, AF) port-channel3.core1.dur1.he.net                                                                     
+   184.104.188.210 6939    292.178          (Cape Town, Western Cape, ZA, AF) 100ge0-33.core1.cpt1.he.net                                                                         
+   196.10.140.21   37153   290.449                  (Cape Town, 11, ZA, None) *                                                                                                   
+   196.40.102.70   37153   304.887                       (None, None, ZA, AF) core-access-switch1-vlan1001.cpt.host-h.net                                                         
+   196.40.111.147  37153   290.447          (Cape Town, Western Cape, ZA, AF) atlas-anchor-cpt3.cpt.net.host-h.net                                                                

@@ -1,0 +1,28 @@
+   141.164.39.1    20473   0.0                      (Paripark, Seoul, KR, AS) 141.164.39.1.vultrusercontent.com                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   100.100.100.1   *       0.468                                          ***                                                                                                     
+   10.84.0.21      *       0.819                                          ***                                                                                                     
+   10.84.2.53      *       1.314                                          ***                                                                                                     
+   210.176.150.116 4637    1.658                       (Seoul, Seoul, KR, AS) unknown.telstraglobal.net                                                                           
+╭─ 202.84.149.101  4637    1.388                       (Seoul, Seoul, KR, AS)                                                                                                     
+S (4637)  apcn-2 👍 || asia-pacific-gateway-apg ✓ || flag-north-asia-loopreach-north-asia-loop 👍 || eac-c2c 👍 || new-cross-pacific-ncp-cable-system ✓ || korea-japan-cable-network-kjcn ✓ || seamewe-3 👍 || flag-europe-asia-fea ✓ || trans-pacific-express-tpe-cable-system ✓
+├─ 202.84.138.37   4637    31.43                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+S (4637)  japan-u-s-cable-network-jus 👍 || tata-tgn-pacific ✓ || pacific-crossing-1-pc-1 ✓ || faster ✓ || jupiter ✓ || new-cross-pacific-ncp-cable-system ✓ || trans-pacific-express-tpe-cable-system ✓ || unityeac-pacific 👍
+╰─ 202.84.141.1    4637    139.901             (San Jose, California, US, NA) i-10857.eqnx-core02.telstraglobal.net                                                               
+   202.84.247.17   4637    137.593             (San Jose, California, US, NA) i-92.eqnx03.telstraglobal.net                                                                       
+   213.248.75.146  1299    134.269             (San Jose, California, US, NA) sjo-b23-link.ip.twelve99.net                                                                        
+   62.115.115.216  1299    139.561          (Santa Clara, California, US, NA) palo-b24-link.ip.twelve99.net                                                                       
+   62.115.174.65   1299    139.149               (Newark, California, US, NA) cogent-ic-344188.ip.twelve99-cust.net                                                               
+   154.54.88.185   174     139.912                (San Francisco, CA, US, NA) be2430.ccr22.sfo01.atlas.cogentco.com                                                               
+   154.54.44.142   174     154.298               (Salt Lake City, UT, US, NA) be3110.ccr32.slc01.atlas.cogentco.com                                                               
+   154.54.42.98    174     179.412                       (Denver, CO, US, NA) be3038.ccr22.den01.atlas.cogentco.com                                                               
+   154.54.31.90    174     182.077                  (Kansas City, MO, US, NA) be3036.ccr22.mci01.atlas.cogentco.com                                                               
+   154.54.44.170   174     182.346                      (Chicago, IL, US, NA) be2832.ccr42.ord01.atlas.cogentco.com                                                               
+   154.54.7.130    174     193.355                    (Cleveland, OH, US, NA) be2718.ccr22.cle04.atlas.cogentco.com                                                               
+╭─ 154.54.162.170  174     200.516          (New York City, New York, US, NA)                                                                                                     
+S (174)  apollo © || flag-atlantic-1-fa-1 ©
+╰─ 154.54.27.170   174     279.525                       (Paris, IDF, FR, EU) be3628.ccr42.par01.atlas.cogentco.com                                                               
+   130.117.3.54    174     288.163           (Bordeaux/Merignac, NAQ, FR, EU) be3051.rcr71.bod01.atlas.cogentco.com                                                               
+   154.25.0.74     174     287.871           (Bordeaux/Merignac, NAQ, FR, EU) te0-0-2-2.nr11.b015544-0.bod01.atlas.cogentco.com                                                   
+   149.6.44.19     174     287.295     (Bordeaux, Nouvelle-Aquitaine, FR, EU)                                                                                                     
+   185.233.100.99  198985  287.588     (Bordeaux, Nouvelle-Aquitaine, FR, EU) ripe-atlas.aquilenet.fr                                                                             

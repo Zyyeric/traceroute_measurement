@@ -1,0 +1,17 @@
+   92.38.135.131   202422  0.0                         (Seoul, Seoul, KR, AS)                                                                                                     
+   92.38.135.2     202422  0.307                       (Seoul, Seoul, KR, AS) vrrp.gcore.lu                                                                                       
+   10.255.17.209   *       0.259                                          ***                                                                                                     
+   10.255.17.213   *       0.234                                          ***                                                                                                     
+   10.255.17.147   *       0.428                                          ***                                                                                                     
+╭─ 113.29.52.41    3549    0.647                       (Seoul, Seoul, KR, AS)                                                                                                     
+S (3549, 3356)  apcn-2 ✘ || asia-pacific-gateway-apg ✘ || flag-north-asia-loopreach-north-asia-loop ✘ || eac-c2c ✘ || new-cross-pacific-ncp-cable-system ✘ || korea-japan-cable-network-kjcn ✘ || seamewe-3 ✘ || flag-europe-asia-fea ✘ || trans-pacific-express-tpe-cable-system ✘
+╰─ 4.69.217.14     3356    32.685                         (Tokyo, 13, JP, AS) ae1.3505.edge2.Tokyo4.level3.net                                                                    
+╭─ 4.68.75.130     2914    30.929                         (Tokyo, 13, JP, AS) NTT-level3-Tokyo4.Level3.net                                                                        
+S (2914)  
+╰─ 129.250.7.55    2914    31.186                        (None, None, US, NA) ae-1.r30.tokyjp05.jp.bb.gin.ntt.net                                                                 
+   ***             *       -inf                                           *** *                                                                                                   
+   129.250.2.99    2914    123.648                       (None, None, US, NA) ae-0.sayonara-dorian.a03.sttlwa01.us.bb.gin.ntt.net                                                 
+╭─ 168.143.191.135 852     155.657                      (Seattle, WA, US, NA) ae-0.telus.sttlwa01.us.bb.gin.ntt.net                                                               
+S&T (852)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 206.108.17.63   852     143.081      (Vancouver, British Columbia, CA, NA) host63.17.108.206.in-addr.arpa                                                                      

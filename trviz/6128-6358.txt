@@ -1,0 +1,17 @@
+   196.49.15.189   328998  0.0              (Kampala, Central Region, UG, AF)                                                                                                     
+   196.49.15.253   328998  0.365            (Kampala, Central Region, UG, AF)                                                                                                     
+   41.191.77.205   37063   0.75             (Kampala, Central Region, UG, AF)                                                                                                     
+   129.205.30.77   37063   0.686 (3.252)                    (Kampala, C, UG, AF) *                                                                                                   
+╭─ 129.205.30.230  37063   8.74             (Kampala, Central Region, UG, AF)                                                                                                     
+T (37063, 6939)  
+├─ 196.223.21.74   6939    160.761                     (Nairobi, 5, KE, None) *                                                                                                   
+S&T (6939)  
+├─ 184.104.189.42  6939    161.819               (Djibouti, Djibouti, DJ, AF) ve1004.core2.jib1.he.net                                                                            
+S (6939)  
+╰─ 184.104.194.201 6939    238.606             (Singapore, Singapore, SG, AS) port-channel14.core3.sin1.he.net                                                                    
+╭─ 65.49.109.214   6939    268.51              (Singapore, Singapore, SG, AS) pakistan-telecommunication-co-ltd.e0-26.switch1.sin1.he.net                                         
+S (6939, 7590)  
+├  10.253.13.45    *       284.123                                        ***                                                                                                     
+╰─ 202.125.149.58  7590    284.866                   (Rawalpindi, PB, PK, AS) Touchstone-4.rwp44d1.pie.net.pk                                                                     
+   210.56.8.180    7590    334.661                    (Islamabad, IS, PK, AS) *                                                                                                   
+   210.56.11.202   7590    285.537             (Islamabad, Islamabad, PK, AS)                                                                                                     

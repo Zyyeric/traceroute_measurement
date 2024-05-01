@@ -1,0 +1,16 @@
+   37.10.40.14     202196  0.0                 (Hong Kong, Hong Kong, HK, AS)                                                                                                     
+   37.10.40.9      202196  0.25             (Tai Yuen Estate, Tai Po, HK, AS)                                                                                                     
+   10.127.0.54     *       0.363                                          ***                                                                                                     
+   223.119.0.94    58453   2.559               (Hong Kong, Hong Kong, HK, AS)                                                                                                     
+╭─ 223.118.2.165   58453   2.558                         (None, None, HK, AS) *                                                                                                   
+S (58453)  
+├─ 223.118.4.18    58453   37.886              (Singapore, Singapore, SG, AS)                                                                                                     
+S (58453)  
+╰─ 223.118.18.158  58453   212.641                       (None, None, HK, AS) *                                                                                                   
+╭─ 223.118.18.98   58453   210.236                       (None, None, HK, AS) *                                                                                                   
+S (58453, 12779)  
+├─ 195.66.226.31   12779   277.195                    (London, ENG, GB, None) linx.itgate.net                                                                                     
+S&T (12779)  
+╰─ 213.254.30.222  12779   295.012                       (Torino, 21, IT, EU) be20.Scooby-Monster.core.TRN.itgate.net                                                             
+   213.254.30.223  12779   302.462                       (Torino, 21, IT, EU) po1.nx01.colo.trn1.itgate.net                                                                       
+   213.212.129.68  12779   295.118                  (Turin, Piedmont, IT, EU) it-trn-as12779.anchors.atlas.ripe.net                                                               

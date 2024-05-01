@@ -1,0 +1,16 @@
+   5.62.127.14     199610  0.0                      (London, England, GB, EU)                                                                                                     
+╭─ 5.62.127.1      199610  0.691                    (London, England, GB, EU)                                                                                                     
+T (199610)  
+├─ 46.251.228.201  199610  2.093       (Köln, North Rhine-Westphalia, DE, EU)                                                                                                     
+T (199610, 2914)  
+├─ 157.238.226.4   2914    2.323                    (London, England, GB, EU) ae-13.a02.londen12.uk.bb.gin.ntt.net                                                                
+S (2914)  
+╰─ 129.250.3.214   2914    2.243                         (None, None, US, NA) ae-0.r21.londen12.uk.bb.gin.ntt.net                                                                 
+╭─ 129.250.4.25    2914    7.799                         (None, None, US, NA) ae-12.r20.parsfr04.fr.bb.gin.ntt.net                                                                
+S (2914)  
+├─ 129.250.3.39    2914    19.789                        (None, None, GB, EU) ae-17.r00.mrslfr01.fr.bb.gin.ntt.net                                                                
+S&T (2914, 15412)  
+╰─ 81.25.193.98    15412   23.424                    (Marseille, PAC, FR, EU) *                                                                                                   
+╭─ 85.95.25.93     15412   123.862                   (Marseille, PAC, FR, EU) xe-4-0-1.0.cjr01.mrs002.flagtel.com                                                                 
+S&T (15412)  
+╰─ 80.77.4.60      15412   122.123                     (Dubai, Dubai, AE, AS)                                                                                                     

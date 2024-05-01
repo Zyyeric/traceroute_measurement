@@ -1,0 +1,20 @@
+   185.39.208.23   199993  0.0                       (Lisbon, Lisbon, PT, EU) atlasancora01.wan.dns.pt                                                                            
+   185.39.208.60   199993  0.441                     (Lisbon, Lisbon, PT, EU)                                                                                                     
+   194.210.4.137   1930    0.823                     (Lisbon, Lisbon, PT, EU) router63.lisboa.fccn.pt                                                                             
+   194.210.6.112   1930    0.877                     (Lisbon, Lisbon, PT, EU) router30.lisboa.fccn.pt                                                                             
+╭─ 194.210.6.105   1930    1.232                     (Lisbon, Lisbon, PT, EU) router6.lisboa.fccn.pt                                                                              
+S&T (1930, 6939)  seamewe-3 ✘ || sat-3wasc ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.105.222.69  6939    11.908            (Bilbao, Basque Country, ES, EU) port-channel5.core1.bio1.he.net                                                                     
+S (6939)  marea ✓
+├─ 184.104.197.94  6939    77.456          (Virginia Beach, Virginia, US, NA) port-channel1.core2.orf2.he.net                                                                     
+S (6939)  new-cross-pacific-ncp-cable-system ✓ || trans-pacific-express-tpe-cable-system ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.81.70   6939    292.351                        (Seoul, 28, KR, AS) 10ge0-1.core2.sel1.he.net                                                                           
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   45.80.212.34    199524  313.874                     (Seoul, Seoul, KR, AS) vrrp.gcore.com                                                                                      
+   92.38.135.131   202422  318.524                     (Seoul, Seoul, KR, AS)                                                                                                     

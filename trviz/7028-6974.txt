@@ -1,0 +1,12 @@
+   182.161.74.241  55569   0.0                         (Tokyo, Tokyo, JP, AS)                                                                                                     
+   182.161.74.240  55569   0.127                     (Urayasu, Tokyo, JP, AS)                                                                                                     
+   100.66.0.44     *       0.359                                          ***                                                                                                     
+   100.66.0.43     *       0.359                                          ***                                                                                                     
+   203.190.230.72  13335   1.247                 (Tokyo / Narita, 12, JP, AS) 13335.tyo.equinix.com                                                                               
+   103.22.201.25   13335   0.912                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+   172.68.117.12   13335   0.921                          (Tokyo, 13, JP, AS) *                                                                                                   
+   172.68.117.86   13335   1.038                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+╭─ 172.68.117.226  13335   1.039                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+S (13335, 141235)  asia-pacific-gateway-apg ✓ || eac-c2c ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 103.156.251.7   141235  68.7                (Singapore, Singapore, SG, AS)                                                                                                     

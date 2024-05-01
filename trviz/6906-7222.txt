@@ -1,0 +1,11 @@
+   102.130.68.151  37468   0.0                (Johannesburg, Gauteng, ZA, AF)                                                                                                     
+╭─ 102.130.68.146  37468   0.308                  (Edenvale, Gauteng, ZA, AF)                                                                                                     
+LHL (37468)  seacomtata-tgn-eurasia ✓ ↠ seamewe-4 ✓ || seacomtata-tgn-eurasia ✓ ↠ seamewe-3 ✓ || seacomtata-tgn-eurasia ✓ ↠ seamewe-5 ✓ || seacomtata-tgn-eurasia ✓ ↠ peace-cable ✘
+├─ 102.219.127.6   37468   144.54              (Singapore, Singapore, SG, AS)                                                                                                     
+S (37468, 15802)  
+├─ 27.111.228.17   15802   173.434                   (Seogwipo, None, KR, AS) 15802.sgw.equinix.com                                                                               
+S (15802, 8966)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 195.229.0.109   8966    170.451       (Al Fujairah City, Fujairah, AE, AS)                                                                                                     
+   195.229.27.146  17557   164.768                       (None, None, AE, AS) *                                                                                                   
+   185.92.128.30   60924   164.851                     (Dubai, Dubai, AE, AS)                                                                                                     

@@ -1,0 +1,40 @@
+   103.23.232.7    58475   0.0        (Banjarmasin, South Kalimantan, ID, AS)                                                                                                     
+   103.23.232.1    58475   0.304      (Banjarmasin, South Kalimantan, ID, AS)                                                                                                     
+   103.81.101.2    *       16.793     (Banjarmasin, South Kalimantan, ID, AS)                                                                                                     
+╭─ 103.78.235.1    132678  28.398                        (None, None, ID, AS) *                                                                                                   
+S (132678, 141682)  
+╰─ 103.161.244.201 141682  28.86                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+╭─ 103.161.244.41  141682  81.618                      (Tokyo, Tokyo, JP, AS)                                                                                                     
+S (141682, 35889)  
+├─ 103.161.244.33  35889   109.766                       (None, None, AU, OC) *                                                                                                   
+S (35889, 7660)  
+╰─ 203.181.249.110 7660    170.58                      (Tokyo, Tokyo, JP, AS)                                                                                                     
+╭─ 203.181.249.101 7660    170.833                       (None, None, JP, AS) tyo-mx10k-irb6.jp.apan.net                                                                          
+S (7660, 22388)  
+╰─ 192.203.115.129 22388   269.103                       (None, None, US, NA) ve-1451.rtr.seat.transpac.org                                                                       
+   207.231.240.8   11164   271.684                       (None, None, US, NA) abilene-1-lo-jmb-706.sttlwa.pacificwave.net                                                         
+   163.253.2.54    11164   344.302                       (None, None, US, NA) fourhundredge-0-0-0-16.4079.core1.seat.net.internet2.edu                                            
+   163.253.1.156   11164   344.092                       (None, None, US, NA) fourhundredge-0-0-0-0.4079.core1.salt.net.internet2.edu                                             
+   163.253.1.170   11164   344.61                        (None, None, US, NA) fourhundredge-0-0-0-0.4079.core1.denv.net.internet2.edu                                             
+   163.253.1.243   11164   344.037                       (None, None, US, NA) fourhundredge-0-0-0-0.4079.core1.kans.net.internet2.edu                                             
+   163.253.1.244   11164   344.191                       (None, None, US, NA) fourhundredge-0-0-0-3.4079.core2.chic.net.internet2.edu                                             
+   163.253.2.19    11164   346.275                       (None, None, US, NA) fourhundredge-0-0-0-3.4079.core2.eqch.net.internet2.edu                                             
+   163.253.2.16    11164   345.033                       (None, None, US, NA) fourhundredge-0-0-0-0.4079.core2.clev.net.internet2.edu                                             
+   163.253.1.138   11164   344.593                       (None, None, US, NA) fourhundredge-0-0-0-3.4079.core2.ashb.net.internet2.edu                                             
+╭─ 163.253.1.121   11164   344.263                   (Washington, DC, US, NA) fourhundredge-0-0-0-1.4079.core1.wash.net.internet2.edu                                             
+S (11164, 20965)  
+├─ 62.40.124.44    20965   332.409                      (London, ENG, GB, EU) internet2-gw.mx1.lon.uk.geant.net                                                                   
+S&T (20965)  
+╰─ 62.40.98.22     20965   340.675         (Amsterdam, North Holland, NL, EU) ae4.rt1.ams.nl.geant.net                                                                            
+╭─ 62.40.98.7      20965   337.71          (Amsterdam, North Holland, NL, EU) ae0.0_mx1.ams.nl.geant.net                                                                          
+T (20965)  
+├─ 62.40.98.81     20965   340.892                        (Milan, 25, IT, EU) ae6.mx1.mil2.it.geant.net                                                                           
+LHL (20965, 2611)  
+├─ 62.40.127.135   2611    340.64                     (Amsterdam, NH, NL, EU) belnet.mx1.ams.nl.geant.net                                                                         
+S&T (2611)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 193.191.18.10   2611    341.13                     (Brussels, BRU, BE, EU) ua.r1.antwil.belnet.net                                                                             
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   143.129.67.78   2611    342.417                       (None, None, BE, EU) *                                                                                                   
+   143.129.80.132  2611    342.606              (Antwerpen, Flanders, BE, EU)                                                                                                     

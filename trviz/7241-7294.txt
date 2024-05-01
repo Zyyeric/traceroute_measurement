@@ -1,0 +1,16 @@
+   10.252.4.170    *       0.0                                            ***                                                                                                     
+   10.252.4.169    *       0.132                                          ***                                                                                                     
+   10.252.4.153    *       0.157                                          ***                                                                                                     
+   10.252.0.37     *       14.222                                         ***                                                                                                     
+╭─ 184.104.196.46  6939    52.425                      (Istanbul, 34, TR, AS) 100ge0-36.core1.ist1.he.net                                                                         
+S&T (6939)  
+├─ 184.105.65.49   6939    47.731                         (Sofia, 23, BG, EU) 100ge14-1.core1.sof1.he.net                                                                         
+LHL (6939, 23944)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.212.74  23944   252.266                  (Hong Kong, None, HK, AS) sky-cable-corporation.port-channel4.switch1.hkg1.he.net                                             
+S (23944)  
+╰─ 130.105.0.33    23944   255.904                   (Quezon City, 0, PH, AS) *                                                                                                   
+   182.18.209.9    23944   251.076             (Manila, Metro Manila, PH, AS)                                                                                                     

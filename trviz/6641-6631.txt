@@ -1,0 +1,17 @@
+   92.38.178.149   202422  0.0                       (Urayasu, Tokyo, JP, AS)                                                                                                     
+   92.38.178.1     202422  0.163                     (Urayasu, Tokyo, JP, AS) gw.gcore.lu                                                                                         
+   10.255.16.182   *       0.18                                           ***                                                                                                     
+   10.255.16.184   *       0.427                                          ***                                                                                                     
+╭─ 61.213.146.128  2914    1.193                     (Urayasu, Tokyo, JP, AS)                                                                                                     
+S (2914)  
+╰─ 129.250.6.130   2914    1.429                         (None, None, US, NA) ae-19.r30.tokyjp05.jp.bb.gin.ntt.net                                                                
+╭─ 129.250.7.54    2914    1.4                           (None, None, US, NA) ae-0.a01.tokyjp09.jp.bb.gin.ntt.net                                                                 
+S (2914, 3356)  
+├─ 4.68.75.129     3356    1.686                          (Tokyo, 13, JP, AS) ae-13.edge2.Tokyo4.Level3.net                                                                       
+S (3356)  
+├─ 4.69.134.42     3356    33.29                         (None, None, US, NA) *                                                                                                   
+S (3356, 199524)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 45.80.212.34    199524  31.785                      (Seoul, Seoul, KR, AS) vrrp.gcore.com                                                                                      
+   92.38.135.131   202422  31.868                      (Seoul, Seoul, KR, AS)                                                                                                     

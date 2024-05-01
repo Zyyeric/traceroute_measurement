@@ -1,0 +1,21 @@
+   92.38.132.60    202422  0.0                       (Miami, Florida, US, NA)                                                                                                     
+   92.38.132.3     202422  0.396                     (Miami, Florida, US, NA) vrrp.gcore.lu                                                                                       
+   92.223.107.3    199524  0.444                     (Miami, Florida, US, NA)                                                                                                     
+   10.255.81.183   *       1.132                                          ***                                                                                                     
+   10.255.81.201   *       0.878                                          ***                                                                                                     
+╭─ 206.41.108.51   1916    0.624                         (None, None, US, NA) *                                                                                                   
+S (1916)  
+╰─ 200.143.252.26  1916    0.967                    (Nova Iguaçu, RJ, BR, SA) mia2-mia1.bkb.rnp.br                                                                                
+   170.79.213.46   1916    64.874                        (None, None, BR, SA) *                                                                                                   
+   170.79.213.138  *       65.497    (Rio de Janeiro, Rio de Janeiro, BR, SA) cce1-cce2.bkb.rnp.br                                                                                
+   170.79.213.30   1916    77.754                        (None, None, BR, SA) *                                                                                                   
+   170.79.213.155  *       96.634                   (Salvador, Bahia, BR, SA) cmg1-cba1-100g-infobarra.bkb.rnp.br                                                                 
+   200.143.253.162 1916    243.626                  (Nova Iguaçu, RJ, BR, SA) lanmg-mg.bkb.rnp.br                                                                                 
+   200.131.0.133   1916    95.729                        (None, None, BR, SA) ptp-almeirao-couve.pop-mg.rnp.br                                                                    
+   200.131.0.143   1916    95.844                        (None, None, BR, SA) ptp-tropeiro-almeirao.pop-mg.rnp.br                                                                 
+   200.19.158.1    1916    96.06       (Belo Horizonte, Minas Gerais, BR, SA) ufmg-20g-1.pop-mg.rnp.br                                                                            
+   150.164.164.43  271354  95.958      (Belo Horizonte, Minas Gerais, BR, SA)                                                                                                     
+   150.164.164.133 271354  96.638                        (None, None, BR, SA) *                                                                                                   
+   150.164.164.2   271354  96.556                        (None, None, BR, SA) dcc-fw.rede.ufmg.br                                                                                 
+   150.164.1.130   271354  96.321                        (None, None, BR, SA) shivalegacy.dcc.ufmg.br                                                                             
+   150.164.1.222   271354  96.842      (Belo Horizonte, Minas Gerais, BR, SA) ripeatlas-anchor.dcc.ufmg.br                                                                        

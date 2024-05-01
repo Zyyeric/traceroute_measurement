@@ -1,0 +1,17 @@
+   80.67.190.218   204092  0.0                     (Rennes, Brittany, FR, EU) ripe-anchor.grifon.fr                                                                               
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   89.234.186.43   204092  0.661                         (None, None, FR, EU) eth1.33.asbr02.cogent-rns.grifon.fr                                                                 
+   89.234.186.145  204092  8.772               (Paris, Île-de-France, FR, EU) eno1.201.asbr-th2.grifon.fr                                                                         
+   193.200.43.84   34019   8.867               (Paris, Île-de-France, FR, EU) xe-201-0-33-204-er02-th2.bb.hivane.net                                                              
+   193.164.153.195 34019   9.165                         (None, None, FR, EU) xe-0-0-3-rt2-vty.bb.hivane.net                                                                      
+   37.49.237.90    20473   10.007                        (Paris, IDF, FR, EU) choopa.par.franceix.net                                                                             
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 217.69.15.96    20473   10.109              (Paris, Île-de-France, FR, EU) router01-vul-par.as151332.net                                                                       
+S (20473)  seamewe-5 ✓
+├─ 45.77.39.153    20473   172.258             (Singapore, Singapore, SG, AS) router01-vul-sin.as151332.net                                                                       
+S (20473, 7545)  australia-singapore-cable-asc ✓ || indigo-west ✓ || seamewe-3 ✓
+╰─ 203.192.83.254  7545    293.43               (Melbourne, Victoria, AU, OC) ip-254-83-192-203.static.pipenetworks.com                                                           
+   103.179.37.157  151332  291.682              (Melbourne, Victoria, AU, OC)                                                                                                     

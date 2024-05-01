@@ -1,0 +1,14 @@
+   203.119.111.139 4608    0.0                 (Brisbane, Queensland, AU, OC) anchor.apnic.net                                                                                    
+   203.119.111.131 4608    0.732               (Brisbane, Queensland, AU, OC) vl-1705.nxcs2.hosted.au.apnic.net                                                                   
+   203.119.104.29  4608    0.484                      (Brisbane, QLD, AU, OC) te-0-1-5.nxgw2.bne.apnic.net                                                                        
+   203.119.104.81  4608    0.535                   (Hope Island, QLD, AU, OC) po-11-921.nxgw1.bne.apnic.net                                                                       
+   184.104.197.182 6939    14.498                     (Brisbane, QLD, AU, OC) port-channel1.core1.bne1.he.net                                                                     
+╭─ 64.71.180.153   6939    16.569                       (Sydney, NSW, AU, OC) e0-9.core2.syd1.he.net                                                                              
+S (6939)  tasman-global-access-tga-cable ✓ || southern-cross-cable-network-sccn ✓ || hawaiki ✘
+╰─ 184.104.195.150 6939    49.925                     (Auckland, AUK, NZ, OC) 100ge0-36.core1.akl2.he.net                                                                         
+   216.218.224.39  6939    41.473                (Auckland, Auckland, NZ, OC) two-degrees-mobile-limited.e0-33.core1.akl2.he.net                                                  
+   ***             *       -inf                                           *** *                                                                                                   
+   131.203.72.166  9790    46.256                (Auckland, Auckland, NZ, OC) default-rdns.vocus.co.nz                                                                            
+   131.203.72.165  9790    43.136                (Auckland, Auckland, NZ, OC) default-rdns.vocus.co.nz                                                                            
+   103.242.68.65   133075  43.656                   (Wellington, WGN, NZ, OC) *                                                                                                   
+   103.242.68.78   133075  44.855                (Auckland, Auckland, NZ, OC) 103-242-68-78.broadband.telesmart.co.nz                                                             

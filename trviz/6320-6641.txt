@@ -1,0 +1,21 @@
+   92.38.135.131   202422  0.0                         (Seoul, Seoul, KR, AS)                                                                                                     
+   92.38.135.3     202422  0.518                       (Seoul, Seoul, KR, AS) vrrp.gcore.lu                                                                                       
+   10.255.17.209   *       0.721                                          ***                                                                                                     
+   10.255.17.213   *       0.811                                          ***                                                                                                     
+   10.255.17.146   *       0.769                                          ***                                                                                                     
+╭─ 8.244.74.29     3356    1.367                       (Seoul, Seoul, KR, AS)                                                                                                     
+S (3356)  new-cross-pacific-ncp-cable-system ✓ || trans-pacific-express-tpe-cable-system ✓
+╰─ 4.69.219.210    3356    123.299                       (None, None, US, NA) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   154.54.86.109   174     151.142               (Salt Lake City, UT, US, NA) be2029.ccr32.slc01.atlas.cogentco.com                                                               
+   154.54.42.98    174     151.103                       (Denver, CO, US, NA) be3038.ccr22.den01.atlas.cogentco.com                                                               
+   154.54.31.90    174     169.035                  (Kansas City, MO, US, NA) be3036.ccr22.mci01.atlas.cogentco.com                                                               
+   154.54.44.170   174     175.564                      (Chicago, IL, US, NA) be2832.ccr42.ord01.atlas.cogentco.com                                                               
+   154.54.7.130    174     179.392                    (Cleveland, OH, US, NA) be2718.ccr22.cle04.atlas.cogentco.com                                                               
+╭─ 154.54.162.170  174     193.48           (New York City, New York, US, NA)                                                                                                     
+S (174)  
+╰─ 154.54.27.170   174     253.364                       (Paris, IDF, FR, EU) be3628.ccr42.par01.atlas.cogentco.com                                                               
+   130.117.3.54    174     261.991           (Bordeaux/Merignac, NAQ, FR, EU) be3051.rcr71.bod01.atlas.cogentco.com                                                               
+   154.25.0.70     174     261.841           (Bordeaux/Merignac, NAQ, FR, EU) te0-0-2-0.nr11.b015544-0.bod01.atlas.cogentco.com                                                   
+   149.6.44.19     174     260.995     (Bordeaux, Nouvelle-Aquitaine, FR, EU)                                                                                                     
+   185.233.100.99  198985  261.77      (Bordeaux, Nouvelle-Aquitaine, FR, EU) ripe-atlas.aquilenet.fr                                                                             

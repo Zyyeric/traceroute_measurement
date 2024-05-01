@@ -1,0 +1,14 @@
+   119.17.170.244  9268    0.0              (Sydney, New South Wales, AU, OC) gen-119-17-170-244.ptr4.otw.net.au                                                                  
+   119.17.170.242  9268    0.57             (Sydney, New South Wales, AU, OC) te0-0-0.1397.iaaspe1.47bou.syd.core.otw.net.au                                                      
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   10.254.250.85   *       1.308                                          ***                                                                                                     
+╭─ 103.110.178.245 9268    1.484            (Sydney, New South Wales, AU, OC) welcometoaussiebroadband.syd.otw.net.au                                                             
+S (9268, 4764)  seamewe-3 ✓ || indigo-west ✓ || australia-singapore-cable-asc ✓
+├─ 180.150.2.85    4764    93.126              (Singapore, Singapore, SG, AS) be3.core1.equinix-sg1.sin.aussiebb.net                                                              
+S&T (4764, 23951)  australia-singapore-cable-asc ✓ || indigo-west ✓ || indonesia-global-gateway-igg-system ✓ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || seamewe-3 ✓ || matrix-cable-system ✘ || jasuka ✓ || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || jakabare ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 202.152.153.4   23951   115.629   (Pugeran Maguwoharjo, Yogyakarta, ID, AS) 202-152-153-4.as23951.net                                                                           
+   202.152.153.32  23951   115.337                       (Sleman, YO, ID, AS) 202-152-153-32.as23951.net                                                                          
+   202.152.153.9   23951   217.141                      (Babadan, JT, ID, AS) 202-152-153-9.as23951.net                                                                           
+   202.152.129.74  23951   217.551           (Yogyakarta, Yogyakarta, ID, AS) 202-152-129-74.citra.net.id                                                                         

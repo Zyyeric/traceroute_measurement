@@ -1,0 +1,15 @@
+   23.174.128.243  53698   0.0               (Sacramento, California, US, NA) us-sac-as53698.anchors.atlas.ripe.net                                                               
+   23.174.128.17   53698   0.394             (Sacramento, California, US, NA) vlan3-gateway.qts.smf.nix-ops.net                                                                   
+   65.74.145.156   17018   0.4               (Sacramento, California, US, NA)                                                                                                     
+   173.225.174.8   17018   1.297             (Sacramento, California, US, NA)                                                                                                     
+   62.115.189.206  1299    0.966             (Sacramento, California, US, NA) sac-b1-link.ip.twelve99.net                                                                         
+╭─ 62.115.114.108  1299    111.488             (San Jose, California, US, NA) sjo-b23-link.ip.twelve99.net                                                                        
+S (1299)  
+╰─ 62.115.123.141  1299    111.646                     (Tokyo, Tokyo, JP, AS) tky-b2-link.ip.twelve99.net                                                                         
+╭─ 62.115.126.135  1299    111.924                     (Tokyo, Tokyo, JP, AS) tky-b3-link.ip.twelve99.net                                                                         
+S (1299)  
+╰─ 62.115.134.186  1299    166.306             (Hong Kong, Hong Kong, HK, AS) hnk-b4-link.ip.twelve99.net                                                                         
+╭─ 213.248.98.47   1299    179.382   (Hong Kong, Central and Western, HK, AS) skycable-ic-363139.ip.twelve99-cust.net                                                             
+S (1299, 23944)  
+╰─ 130.105.0.33    23944   192.312                   (Quezon City, 0, PH, AS) *                                                                                                   
+   182.18.209.9    23944   187.532             (Manila, Metro Manila, PH, AS)                                                                                                     

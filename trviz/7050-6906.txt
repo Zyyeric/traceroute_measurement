@@ -1,0 +1,28 @@
+╭─ 185.92.128.30   60924   0.0                         (Dubai, Dubai, AE, AS)                                                                                                     
+LHL (60924)  seamewe-5 ✘ || seamewe-4 ✓ || asia-africa-europe-1-aae-1 ✓ || imewe ✓ || seamewe-3 ✓
+├─ 185.92.128.4    60924   0.376                         (None, None, IE, EU) *                                                                                                   
+LHL (60924, 8966)  
+├─ 195.229.27.145  8966    0.376 (3.716)                    (None, None, AE, AS) *                                                                                                   
+S (8966)  seamewe-5 ✓ || seamewe-4 👍 || asia-africa-europe-1-aae-1 👍 || imewe 👍 || seamewe-3 👍
+╰─ 195.229.3.87    8966    95.838                    (Marseille, PAC, FR, EU) *                                                                                                   
+╭─ 37.49.236.239   60171   109.78                        (Paris, IDF, FR, EU) afrix-telecom.par.franceix.net                                                                      
+S&T (60171)  exa-express ✘ ↠ seamewe-3 ✓ || pan-european-crossing-uk-ireland ✘ ↠ seamewe-3 ✓ || esat-1 ✘ ↠ seamewe-3 ✓ || solas ✘ ↠ seamewe-3 ✓
+╰─ 185.35.142.60   60171   380.204             (Barcelona, Catalonia, ES, EU)                                                                                                     
+╭─ 185.10.164.99   60171   380.256             (Barcelona, Catalonia, ES, EU)                                                                                                     
+S&T (60171)  
+╰─ 185.10.164.113  60171   383.2                        (London, ENG, GB, EU) *                                                                                                   
+╭─ 185.10.164.135  60171   377.072                      (London, ENG, GB, EU) *                                                                                                   
+S&T (60171)  
+├─ 185.10.164.32   60171   377.012             (Paris, Île-de-France, FR, EU)                                                                                                     
+S (60171)  
+├─ 102.223.52.73   60171   382.433                     (Lagos, Lagos, NG, AF)                                                                                                     
+S&T (60171)  
+├─ 185.10.164.45   60171   376.773                      (London, ENG, GB, EU) *                                                                                                   
+T (60171, 328840)  
+╰─ 102.220.16.44   328840  496.198                 (Douala, Littoral, CM, AF)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   

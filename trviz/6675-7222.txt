@@ -1,0 +1,13 @@
+   102.130.68.151  37468   0.0                (Johannesburg, Gauteng, ZA, AF)                                                                                                     
+╭─ 102.130.68.146  37468   0.342                  (Edenvale, Gauteng, ZA, AF)                                                                                                     
+S&T (37468)  
+├─ 102.130.68.112  37468   15.937                        (None, None, AO, AF) *                                                                                                   
+LHL (37468, 9002)  
+├  100.64.192.13   *       165.116                                        ***                                                                                                     
+├─ 195.66.224.193  9002    165.686                    (London, ENG, GB, None) linx-224.retn.net                                                                                   
+S&T (9002)  
+╰─ 87.245.233.115  9002    189.328                  (Milan, Lombardy, IT, EU) et302-10.rt.vsx.pda.it.retn.net                                                                     
+   87.245.241.129  9002    192.438                  (Milan, Lombardy, IT, EU) gw-as201333.retn.net                                                                                
+   185.78.48.22    201333  188.645                  (Milan, Lombardy, IT, EU) ens1f4-920-r02.pia1.naquadria.net                                                                   
+   185.78.48.244   201333  188.713                    (Parabiago, 25, IT, EU) lf01b5-vlan910.pia1.naquadria.net                                                                   
+   185.78.49.100   201333  188.812         (Piacenza, Emilia-Romagna, IT, EU) it-pcz-as201333.anchors.atlas.ripe.net                                                              

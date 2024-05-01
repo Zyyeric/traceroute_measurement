@@ -1,0 +1,16 @@
+   103.153.176.122 131657  0.0                       (Taipei, Taiwan, TW, AS) 103-153-176-122.as131657.net                                                                        
+   103.153.176.254 131657  0.429                     (Taipei, Taiwan, TW, AS) 103-153-176-254.as131657.net                                                                        
+╭─ 103.51.91.5     *       0.804                     (Taipei, Taiwan, TW, AS) et-0-0-1.cr1.hd.tpe.as131657.net                                                                    
+S (, 6939)  seamewe-3 ✘ || apcn-2 ✘ || trans-pacific-express-tpe-cable-system ✘ || eac-c2c ✘ || faster ✘ || asia-pacific-gateway-apg ✘ || flag-north-asia-loopreach-north-asia-loop ✘ || new-cross-pacific-ncp-cable-system ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.105.80.141  6939    30.562                (Tokyo / Narita, 12, JP, AS) 100ge0-79.core2.tyo1.he.net                                                                         
+S (6939)  seamewe-3 ✓ || asia-submarine-cable-express-asecahaya-malaysia ✓ || apcn-2 ✓ || eac-c2c ✓ || asia-pacific-gateway-apg ✓ || flag-north-asia-loopreach-north-asia-loop ✓ || southeast-asia-japan-cable-sjc ✓ || flag-europe-asia-fea ✓
+╰─ 184.105.64.129  6939    105.601                  (Hong Kong, None, HK, AS) 100ge10-2.core1.hkg1.he.net                                                                         
+╭─ 103.203.158.122 12389   283.821                  (Hong Kong, None, HK, AS) *                                                                                                   
+LHL (12389)  seamewe-3 👍 || asia-africa-europe-1-aae-1 👍 || flag-europe-asia-fea ✓
+╰─ 95.167.94.213   12389   304.783                     (Suvorov, TUL, RU, EU) *                                                                                                   
+   188.254.90.106  12389   307.039           (Khabarovsk, Khabarovsk, RU, EU)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   92.38.191.66    210756  304.149           (Khabarovsk, Khabarovsk, RU, EU) vrrp.edgecenter.ru                                                                                  
+   185.209.84.10   198412  303.115                  (Khabarovsk, KHA, RU, AS) ae1-0.c10.khv01.ru.misaka.io                                                                        
+   185.209.84.141  57578   302.716           (Khabarovsk, Khabarovsk, RU, EU) ru-khv-as57578.anchors.atlas.ripe.net                                                               

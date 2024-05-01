@@ -1,0 +1,15 @@
+   185.239.193.37  39484   0.0                   (Tampere, Pirkanmaa, FI, EU) fi-tmp-as39484.anchors.atlas.ripe.net                                                               
+   185.239.193.33  39484   1.135                 (Tampere, Pirkanmaa, FI, EU) her0-rtr1.poasnet.fi                                                                                
+   193.167.244.180 1741    0.417                 (Tampere, Pirkanmaa, FI, EU) tampere1-et-0-1-5-666.ip.funet.fi                                                                   
+   86.50.255.220   1741    2.798            (Hämeenlinna, Kanta-Häme, FI, EU) hameenlinna2.ip.funet.fi                                                                            
+   86.50.255.224   1741    2.835            (Hämeenlinna, Kanta-Häme, FI, EU) hameenlinna1.ip.funet.fi                                                                            
+   86.50.255.223   1741    2.973                     (Espoo, Uusimaa, FI, EU) espoo2.ip.funet.fi                                                                                  
+╭─ 86.50.255.232   1741    2.723                          (Espoo, 18, FI, EU) espoo1.ip.funet.fi                                                                                  
+LHL (1741, 2603)  havhingstennorth-sea-connect-nsc ✘ || atlantic-crossing-1-ac-1 ✘
+├─ 109.105.102.168 2603    2.895                         (None, None, DK, EU) fi-csc2.nordu.net                                                                                   
+S&T (2603)  ip-only-denmark-sweden ✓ || scandinavian-ring-south ✓ || danica-north ✓ || rnne-rdvig ✓ || energinet-laeso-varberg ✘ || globalconnect-2-gc2 ✘ || kattegat-2 ✓ || denmark-sweden-16 ✓
+╰─ 109.105.101.10  2603    12.709              (Stockholm, Stockholm, SE, EU) se-tug.nordu.net                                                                                    
+   213.248.97.17   1299    13.11               (Stockholm, Stockholm, SE, EU) s-b1-link.ip.twelve99.net                                                                           
+   62.115.144.87   199150  13.235                        (None, None, SE, EU) excedonetwork-svc079012-ic368711.c.telia.net                                                        
+   193.180.242.94  199150  35.55                          (Solna, AB, SE, EU) *                                                                                                   
+   193.180.242.86  199150  13.25                   (Solna, Stockholm, SE, EU)                                                                                                     

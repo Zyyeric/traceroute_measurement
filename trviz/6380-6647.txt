@@ -1,0 +1,15 @@
+   5.62.127.14     199610  0.0                      (London, England, GB, EU)                                                                                                     
+╭─ 5.62.127.1      199610  0.705                    (London, England, GB, EU)                                                                                                     
+T (199610)  
+├─ 46.251.228.201  199610  2.122       (Köln, North Rhine-Westphalia, DE, EU)                                                                                                     
+T (199610, 3741)  
+├  169.254.0.82    *       2.277                                          ***                                                                                                     
+├─ 195.66.224.198  3741    2.822                      (London, ENG, GB, None) te0-3-1-0.core1b-dock.isnet.net                                                                     
+T (3741)  
+╰─ 168.209.246.16  3741    2.899                         (None, None, ZA, AF) ar3-dock-be-1.ip.ddii.network                                                                       
+   168.209.160.109 3741    2.819                         (None, None, ZA, AF) *                                                                                                   
+   196.14.240.4    3741    256.885                       (None, None, ZA, AF) *                                                                                                   
+╭─ 196.14.240.5    37350   257.058                       (None, None, ZA, AF) *                                                                                                   
+S&T (37350, 30997)  
+╰─ 196.201.2.126   30997   256.631                       (Accra, 1, GH, None) *                                                                                                   
+   196.49.14.25    30997   256.674             (Accra, Greater Accra, GH, AF)                                                                                                     

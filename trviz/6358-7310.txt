@@ -1,0 +1,26 @@
+   38.47.189.189   140443  0.0           (Kuala Lumpur, Kuala Lumpur, MY, AS)                                                                                                     
+   38.47.189.1     140443  0.318         (Kuala Lumpur, Kuala Lumpur, MY, AS)                                                                                                     
+   38.47.188.2     140443  0.367         (Kuala Lumpur, Kuala Lumpur, MY, AS)                                                                                                     
+╭─ 218.100.44.120  *       1.042         (Kuala Lumpur, Kuala Lumpur, MY, AS) he.myix.my                                                                                          
+S (, 6939)  
+├─ 27.111.228.81   6939    27.74                     (Seogwipo, None, KR, AS) 6939.sgw.equinix.com                                                                                
+S (6939)  
+├─ 103.16.102.81   6939    26.951                    (Singapore, 1, SG, None) hurricane-electric.sgix.sg                                                                          
+S (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 72.52.92.165    6939    249.724                      (London, ENG, GB, EU) 100ge7-1.core1.lon2.he.net                                                                          
+   184.105.64.5    6939    239.021                  (London, England, GB, EU) port-channel4.core1.lon3.he.net                                                                     
+╭─ 184.104.205.253 6939    169.358                  (London, England, GB, EU) mtn-globalconnect-solutions-ltd.port-channel7.core1.lon3.he.net                                     
+T (6939, 16637)  
+╰─ 41.181.189.65   16637   178.215                     (Pretoria, GP, ZA, AF) *                                                                                                   
+╭─ 41.181.190.151  16637   171.275                     (Pretoria, GP, ZA, AF) *                                                                                                   
+T (16637)  
+├─ 41.181.244.176  16637   171.136                  (London, England, GB, EU)                                                                                                     
+T (16637, 20294)  
+├─ 41.181.247.39   20294   321.912                       (None, None, ZA, AF) *                                                                                                   
+LHL (20294)  
+╰─ 212.88.110.34   20294   320.924          (Kampala, Central Region, UG, AF)                                                                                                     
+   129.205.30.76   37063   320.944                       (Kampala, C, UG, AF) *                                                                                                   
+   41.191.77.206   328998  320.732                       (Kampala, C, UG, AF) *                                                                                                   
+   196.49.15.189   328998  320.618          (Kampala, Central Region, UG, AF)                                                                                                     

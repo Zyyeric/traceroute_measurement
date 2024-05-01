@@ -1,0 +1,14 @@
+   103.253.132.25  59238   0.0                     (Bangkok, Bangkok, TH, AS) th-bkk-as59238.anchors.atlas.ripe.net                                                               
+   103.253.132.1   59238   0.271                (Khlong San, Bangkok, TH, AS) gw-cat.idc.inox.co.th                                                                               
+   172.24.132.102  *       0.297                                          ***                                                                                                     
+   172.24.132.24   *       0.245                                          ***                                                                                                     
+   172.21.21.2     *       0.425                                          ***                                                                                                     
+╭─ 122.155.224.73  4651    0.377 (1.032)           (Khlong San, Bangkok, TH, AS)                                                                                                     
+S (4651)  flag-europe-asia-fea ✘ || seamewe-3 ✓
+├─ 61.19.9.114     4651    212.135                  (London, England, GB, EU)                                                                                                     
+T (4651, 3356)  
+├─ 80.81.194.198   3356    227.387           (Frankfurt am Main, 5, DE, None) AMS-AM2-POP-CRS-1.du.ae                                                                             
+T (3356, 57187)  
+├  10.65.8.237     *       237.066                                        ***                                                                                                     
+╰─ 94.206.39.74    57187   221.359                        (Dubai, DU, AE, AS) j48-1.dxa.dxb.ae.datamena.net                                                                       
+   94.207.43.2     57187   223.925                     (Dubai, Dubai, AE, AS) -094-207-043-002.datamena.net                                                                       

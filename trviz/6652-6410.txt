@@ -1,0 +1,13 @@
+   200.160.6.19    22548   0.0                 (São Paulo, São Paulo, BR, SA) br-sao-as22548.anchors.atlas.ripe.net                                                               
+   200.160.6.61    22548   0.496         (Taboão da Serra, São Paulo, BR, SA) ae1-89.ar3.jd.registro.br                                                                           
+   200.160.0.253   22548   0.496 (2.914)                    (None, None, BR, SA) ae0-0.core1.nu.registro.br                                                                          
+╭─ 200.160.0.161   22548   9.436                         (None, None, BR, SA) xe-5-0-0-0.gw1.nu.registro.br                                                                       
+S&T (22548, 6939)  south-american-crossing-sac ✘ || malbec ✓ || tannat ✓ || south-america-1-sam-1 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.188.74  6939    723.649   (Buenos Aires, Buenos Aires F.D., AR, SA) port-channel1.core1.bue1.he.net                                                                     
+T (6939)  
+╰─ 184.104.188.169 6939    856.684   (Santiago, Santiago Metropolitan, CL, SA) 100ge0-35.core1.scl1.he.net                                                                         
+   138.204.229.99  61506   838.16    (Santiago, Santiago Metropolitan, CL, SA)                                                                                                     
+   138.204.228.160 61506   883.237                     (Quillota, VS, CL, SA) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   138.204.228.25  61506   832.583           (Valparaíso, Valparaíso, CL, SA)                                                                                                     

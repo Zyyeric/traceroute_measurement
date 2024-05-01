@@ -1,0 +1,16 @@
+   31.3.155.41     51430   0.0                 (Stockholm, Stockholm, SE, EU) iajsyagsshoes0.shoesnethoje.com.br                                                                  
+╭─ 37.46.121.3     51430   0.703               (Stockholm, Stockholm, SE, EU) swe-net-ip.as51430.net                                                                              
+T (51430)  
+├─ 185.2.28.41     51430   0.787                         (None, None, NL, EU) swe-net-ip.as51430.net                                                                              
+T (51430, )  
+╰─ 192.121.80.162  *       1.607               (Stockholm, Stockholm, SE, EU) as6939-20g-sk1.sthix.net                                                                            
+╭─ 194.68.123.187  6939    13.154                     (Stockholm, AB, SE, EU) 10gigabitethernet1-2.core1.sto1.he.net                                                              
+S&T (6939)  latvia-sweden-1-lv-se-1 ✓ || sweden-latvia ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.192.94  6939    13.867                         (Riga, RIX, LV, EU) 100ge5-1.core1.rix1.he.net                                                                          
+S&T (6939, 33922)  bcs-east ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 216.66.80.50    33922   16.422                       (Vilnius, VL, LT, EU) nacionalinis-telekomunikaciju-tinklas.10gigabitethernet1-2.core1.vno1.he.net                        
+   84.32.142.178   25406   19.14                        (Vilnius, VL, LT, EU) *                                                                                                   
+   62.80.224.100   25406   19.146                      (Šiauliai, SA, LT, EU) sl-100.splius.lt                                                                                    
+   62.80.227.146   25406   19.33                 (Šiauliai, Siauliai, LT, EU) hst-227-146.splius.lt                                                                               

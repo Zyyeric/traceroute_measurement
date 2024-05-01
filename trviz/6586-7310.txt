@@ -1,0 +1,14 @@
+   38.47.189.189   140443  0.0           (Kuala Lumpur, Kuala Lumpur, MY, AS)                                                                                                     
+   38.47.189.1     140443  0.128         (Kuala Lumpur, Kuala Lumpur, MY, AS)                                                                                                     
+╭─ 38.47.188.2     140443  0.421         (Kuala Lumpur, Kuala Lumpur, MY, AS)                                                                                                     
+S (140443, 58453)  
+├  10.111.220.145  *       6.562                                          ***                                                                                                     
+├─ 27.111.228.228  58453   7.612                     (Seogwipo, None, KR, AS) 58453.sgw.equinix.com                                                                               
+S (58453)  
+╰─ 223.120.2.105   58453   42.355                        (None, None, HK, AS) *                                                                                                   
+   223.120.3.90    58453   42.836                        (None, None, HK, AS) *                                                                                                   
+╭─ 223.119.0.93    202196  43.759                        (None, None, HK, AS) *                                                                                                   
+S (202196)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 37.10.41.14     202196  40.679              (Singapore, Singapore, SG, AS)                                                                                                     

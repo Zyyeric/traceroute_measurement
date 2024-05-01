@@ -1,0 +1,17 @@
+   103.225.148.38  45701   0.0                     (Jakarta, Jakarta, ID, AS) ip-38-148-225-103.globalxtreme.net                                                                  
+   103.225.148.34  45701   0.392                   (Jakarta, Jakarta, ID, AS) ip-34-148-225-103.globalxtreme.net                                                                  
+╭─ 202.58.202.249  *       12.718                  (Jakarta, Jakarta, ID, AS) ae-2-0-r1-sg1.globalxtreme.net                                                                      
+S&T (, 6939)  
+├─ 184.105.223.134 6939    13.176              (Singapore, Singapore, SG, AS) port-channel1.core3.sin1.he.net                                                                     
+S (6939)  
+├─ 184.104.194.200 6939    149.809   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) port-channel15.core4.mrs1.he.net                                                                    
+S&T (6939)  
+├─ 184.105.80.13   6939    159.011                        (Milan, 25, IT, EU) 100ge7-2.core1.mil2.he.net                                                                          
+LHL (6939)  
+├─ 184.104.196.194 6939    175.709                       (Denver, CO, US, NA) port-channel1.core1.den3.he.net                                                                     
+LHL (6939)  
+╰─ 184.105.64.170  6939    187.014                       (Athens, A1, GR, EU) 100ge0-36.core1.ath1.he.net                                                                         
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   185.14.96.225   211186  201.692            (Lamía, Central Greece, GR, EU) vlan4090.lamia.fast.net.gr                                                                          
+   185.14.96.232   211186  201.242            (Lamía, Central Greece, GR, EU)                                                                                                     

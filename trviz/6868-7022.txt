@@ -1,0 +1,18 @@
+   185.70.144.118  200567  0.0                     (Hamburg, Hamburg, DE, EU)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   62.214.137.217  8881    4.1                           (Berlin, BE, DE, EU) *                                                                                                   
+   62.115.161.23   1299    6.652                   (Hamburg, Hamburg, DE, EU) versatel-ic-333314.ip.twelve99-cust.net                                                             
+╭─ 62.115.161.22   1299    5.362                   (Hamburg, Hamburg, DE, EU) hbg-b2-link.ip.twelve99.net                                                                         
+T (1299)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 62.115.127.89   1299    15.854          (Amsterdam, North Holland, NL, EU) adm-bb2-link.ip.twelve99.net                                                                        
+   62.115.120.229  1299    16.012          (Amsterdam, North Holland, NL, EU) adm-b10-link.ip.twelve99.net                                                                        
+╭─ 62.115.147.71   1299    16.294          (Amsterdam, North Holland, NL, EU) blix-ic-323109.ip.twelve99-cust.net                                                                 
+S&T (1299, 50304)  atlantic-crossing-1-ac-1 ✓ || hronn ✘ || cantat-3 ✘ || cobracable ✘
+├─ 31.169.49.102   50304   27.253                    (Copenhagen, 84, DK, EU) te-0-0-0-5.ncs-glc-cph.blix.com                                                                     
+S&T (50304)  
+├─ 178.255.145.26  50304   27.335                     (Stockholm, AB, SE, EU) 100ge0.ncs-ix-arn.blix.com                                                                          
+T (50304)  
+╰─ 178.255.145.176 50304   29.927                           (Oslo, 2, NO, EU) 100ge1.ncs-dpu-osl.blix.com                                                                         
+   31.169.48.101   50304   27.368                    (Stodsbuoye, 34, NO, EU) *                                                                                                   
+   195.43.159.22   207788  29.333                        (Oslo, Oslo, NO, EU) anchors.as207788.net                                                                                

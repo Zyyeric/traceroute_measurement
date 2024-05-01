@@ -1,0 +1,16 @@
+   82.148.224.6    25376   0.0                      (Bolton, England, GB, EU)                                                                                                     
+   82.148.224.193  25376   0.566                    (Bolton, England, GB, EU) vl16.ds-193.netnorth.net.uk                                                                         
+   82.148.224.3    25376   0.231                         (None, None, GB, EU) Po1-16.asr-bol23.netnorth.net.uk                                                                    
+   82.148.224.2    25376   0.611                (Manchester, England, GB, EU) po1-16.asr-ma1.netnorth.net.uk                                                                      
+╭─ 185.1.101.28    *       1.439                    (Bolton, England, GB, EU)                                                                                                     
+S (, 6939)  exa-north-and-south ✘ || atlantic-crossing-1-ac-1 ✘ || flag-atlantic-1-fa-1 ✘ || apollo ✘ || yellow ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.81.41   6939    71.352                      (New York, NY, US, NA) 100ge15-2.core1.nyc5.he.net                                                                         
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 184.104.194.87  6939    76.241             (Boston, Massachusetts, US, NA) 100ge0-40.core2.bos1.he.net                                                                         
+S&T (6939)  exa-north-and-south ✓
+╰─ 184.104.193.106 6939    85.056                       (Halifax, NS, CA, NA) 100ge0-36.core1.yhz1.he.net                                                                         
+   72.52.92.10     6939    87.008                       (Moncton, NB, CA, NA) 100ge0-33.core2.yqm1.he.net                                                                         
+   209.51.184.134  3367    86.837                       (Moncton, NB, CA, NA) f6-networks-inc.10gigabitethernet12-15.core1.yqm1.he.net                                            
+   98.143.249.21   21659   86.55                        (Moncton, NB, CA, NA) enova-98-143-249-21.e-novations.ca                                                                  
+   96.126.70.90    21659   86.574            (Moncton, New Brunswick, CA, NA) 96-126-70-90.apbx.ca                                                                                

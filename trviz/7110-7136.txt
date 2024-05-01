@@ -1,0 +1,22 @@
+   193.49.43.151   2200    0.0       (Grenoble, Auvergne-Rhône-Alpes, FR, EU)                                                                                                     
+   193.49.43.99    2200    0.781     (Fontaine, Auvergne-Rhône-Alpes, FR, EU) rteie.epn-campus.eu                                                                                 
+   ***             *       -inf                                           *** *                                                                                                   
+   193.54.185.9    2200    4.813     (Fontaine, Auvergne-Rhône-Alpes, FR, EU) tigre1.grenet.fr                                                                                    
+   193.51.181.94   2200    1.449     (Fontaine, Auvergne-Rhône-Alpes, FR, EU) hu0-2-0-2-ren-nr-grenoble-rtr-091.noc.renater.fr                                                    
+   193.55.204.14   2200    4.253     (Grenoble, Auvergne-Rhône-Alpes, FR, EU) hu0-3-0-3-ren-nr-lyon2-rtr-091.noc.renater.fr                                                       
+╭─ 193.51.180.172  2200    7.468     (Grenoble, Auvergne-Rhône-Alpes, FR, EU) et-3-1-3-ren-nr-lyon1-rtr-131.noc.renater.fr                                                        
+T (2200, 20965)  
+├─ 83.97.89.13     20965   11.817                      (Geneva, None, CH, EU) renater-ias-geant-gw.gen.ch.geant.net                                                               
+T (20965, 3303)  
+├─ 192.65.185.137  3303    11.18                         (Paris, IDF, FR, EU) cern-000.ip-plus.net                                                                                
+T (3303)  
+╰─ 138.187.129.149 3303    11.237                        (None, None, CH, EU) i79zhh-025-ae1.bb.ip-plus.net                                                                       
+   138.187.130.112 3303    11.823                        (None, None, CH, EU) i69lsp-015-ae1.bb.ip-plus.net                                                                       
+   138.187.131.242 3303    13.706                        (None, None, CH, EU) i64bem-015-ae0.bb.ip-plus.net                                                                       
+   138.187.129.192 3303    13.547                        (None, None, CH, EU) i71lzf-015-ae0.bb.ip-plus.net                                                                       
+╭─ 138.187.129.203 3303    15.417                        (None, None, CH, EU) i63bel-005-ae4.bb.ip-plus.net                                                                       
+T (3303, 12874)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 89.97.200.158   12874   29.113                          (Rome, 62, IT, EU) *                                                                                                   
+   83.103.40.66    21034   45.106                         (Polla, 72, IT, EU) 83-103-40-66.ip.fastwebnet.it                                                                       
+   195.32.69.197   21034   45.078                  (Pescara, Abruzzo, IT, EU) ripe-atlas.micso.it                                                                                 

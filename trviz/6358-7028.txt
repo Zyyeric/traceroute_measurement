@@ -1,0 +1,31 @@
+   103.156.251.7   141235  0.0                 (Singapore, Singapore, SG, AS)                                                                                                     
+   103.156.251.3   141235  0.34                (Singapore, Singapore, SG, AS)                                                                                                     
+   103.156.250.127 141235  0.514               (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 116.51.30.80    2914    1.693               (Singapore, Singapore, SG, AS) ge-100-0-0-18.r00.sngpsi07.sg.bb.gin.ntt.net                                                        
+S (2914)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 129.250.5.66    2914    1.31                          (None, None, US, NA) ae-1.a02.sngpsi07.sg.bb.gin.ntt.net                                                                 
+S (2914, 6453)  
+╰─ 180.87.108.162  6453    1.407                    (Singapore, None, SG, AS) ix-be-32.ecore3.esin4-singapore.as6453.net                                                          
+╭─ 180.87.108.2    6453    231.364                  (Singapore, None, SG, AS) if-be-49-2.ecore2.esin4-singapore.as6453.net                                                        
+S&T (6453)  
+╰─ 180.87.36.40    6453    180.484                      (Chennai, TN, IN, AS) if-ae-34-2.tcore1.cxr-chennai.as6453.net                                                            
+╭─ 180.87.36.6     6453    180.672                      (Chennai, TN, IN, AS) if-ae-3-3.tcore2.cxr-chennai.as6453.net                                                             
+S (6453)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 80.231.130.130  6453    181.945                     (London, None, GB, EU) if-ae-17-2.tcore1.ldn-london.as6453.net                                                             
+S (6453, 16637)  
+├─ 80.231.76.121   16637   251.306                       (None, None, CA, NA) *                                                                                                   
+LHL (16637)  
+├─ 41.181.189.65   16637   251.908                     (Pretoria, GP, ZA, AF) *                                                                                                   
+T (16637)  
+╰─ 41.181.105.105  16637   183.451                  (London, England, GB, EU)                                                                                                     
+╭─ 41.181.244.176  16637   245.404                  (London, England, GB, EU)                                                                                                     
+T (16637, 20294)  
+├─ 41.181.247.39   20294   420.104                       (None, None, ZA, AF) *                                                                                                   
+LHL (20294)  
+╰─ 212.88.110.34   20294   367.987          (Kampala, Central Region, UG, AF)                                                                                                     
+   129.205.30.76   37063   353.9                         (Kampala, C, UG, AF) *                                                                                                   
+   41.191.77.206   328998  421.841                       (Kampala, C, UG, AF) *                                                                                                   
+   196.49.15.189   328998  424.535          (Kampala, Central Region, UG, AF)                                                                                                     

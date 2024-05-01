@@ -1,0 +1,16 @@
+   114.31.201.91   4826    0.0              (Sydney, New South Wales, AU, OC) 91.201.31.114.core.vocus.network                                                                    
+   114.31.201.90   4826    0.696            (Sydney, New South Wales, AU, OC) 90.201.31.114.core.vocus.network                                                                    
+   ***             *       -inf                                           *** *                                                                                                   
+   103.1.77.14     *       92.248           (Sydney, New South Wales, AU, OC) be202.lsr01.dody.nsw.vocus.network                                                                  
+╭─ 103.1.76.147    4826    93.643                        (None, None, AU, OC) be803.lsr01.prth.wa.vocus.network                                                                   
+S (4826, 9002)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 27.111.229.103  9002    93.009                    (Seogwipo, None, KR, AS) 9002.sgw.equinix.com                                                                                
+S (9002)  
+├─ 87.245.231.245  9002    104.388                       (None, None, GB, EU) GW-NAPInfo.retn.net                                                                                 
+S (9002, 45147)  
+╰─ 119.110.114.54  45147   103.195                       (None, None, ID, AS) *                                                                                                   
+   119.110.121.82  45147   104.405                 (Jakarta, Jakarta, ID, AS)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   103.225.148.38  45701   104.795                 (Jakarta, Jakarta, ID, AS) ip-38-148-225-103.globalxtreme.net                                                                  

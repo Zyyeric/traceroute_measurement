@@ -1,0 +1,27 @@
+   103.77.105.3    133800  0.0                     (Jakarta, Jakarta, ID, AS) ip-3-105-77-103.jkt-1.biznetg.io                                                                    
+   ***             *       -inf                                           *** *                                                                                                   
+   137.59.127.33   *       0.339                   (Jakarta, Jakarta, ID, AS) xe-0-2.cr01.jkt.biznetg.io                                                                          
+   202.169.59.21   17451   1.216                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+╭─ 182.253.255.18  17451   1.03                    (Jakarta, Jakarta, ID, AS)                                                                                                     
+S&T (17451)  australia-singapore-cable-asc ✓ || matrix-cable-system ✘ || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || indonesia-global-gateway-igg-system ✓ || seamewe-3 ✓ || indigo-west ✓ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || jasuka ✓ || jakabare ✓
+╰─ 182.253.255.45  17451   13.154              (Singapore, Singapore, SG, AS) gs2-5.biznetnetworks.com                                                                            
+╭─ 184.104.199.150 6939    13.69               (Singapore, Singapore, SG, AS) port-channel1.core1.sin2.he.net                                                                     
+S (6939)  seamewe-5 ✓ || peace-cable ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 37.49.232.13    6939    157.749                  (Marseille, 93, FR, None) hurricane.mrs.franceix.net                                                                          
+T (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 80.81.192.172   6939    165.801            (Frankfurt am Main, HE, DE, EU) ipv4.decix-frankfurt.core1.fra1.he.net                                                              
+╭─ 80.81.193.79    4637    178.898           (Frankfurt am Main, 5, DE, None) ULCO01.telstraglobal.net                                                                            
+T (4637)  
+├─ 202.84.178.37   4637    178.762                  (London, England, GB, EU) i-1107.ulhc-core03.telstraglobal.net                                                                
+S (4637)  
+├─ 202.84.249.1    4637    270.232          (Los Angeles, California, US, NA)                                                                                                     
+S (4637)  
+╰─ 202.84.137.21   4637    316.765          (Sydney, New South Wales, AU, OC) i-10305.sydo-core03.telstraglobal.net                                                               
+   203.50.13.97    1221    318.427                      (Sydney, NSW, AU, OC) bundle-ether3.oxf-gw11.sydney.telstra.net                                                           
+   203.50.6.109    1221    317.244          (Sydney, New South Wales, AU, OC) bundle-ether6.stl-core30.sydney.telstra.net                                                         
+   203.50.11.177   1221    317.16                       (Sydney, NSW, AU, OC) bundle-ether1.chw-edge903.sydney.telstra.net                                                        
+   203.48.8.166    1221    317.026          (Sydney, New South Wales, AU, OC) tel4239945.lnk.telstra.net                                                                          
+   ***             *       -inf                                           *** *                                                                                                   
+   203.41.0.43     1221    316.945          (Sydney, New South Wales, AU, OC)                                                                                                     

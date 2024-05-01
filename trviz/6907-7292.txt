@@ -1,0 +1,11 @@
+   89.213.179.65   32167   0.0                 (Hong Kong, Hong Kong, HK, AS) 89-213-179-65.ip.lshiyusercontent.com                                                               
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 103.203.243.10  955     0.337             (Kadoorie, Kowloon City, HK, AS) port-channe17.switch1.hkg1.bb.lshiy.net                                                             
+S (955, 6939)  apcn-2 ✘ || southeast-asia-japan-cable-sjc ✓ || eac-c2c ✘ || asia-pacific-gateway-apg ✘ || asia-submarine-cable-express-asecahaya-malaysia ✘ || asia-america-gateway-aag-cable-system ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.199.182 6939    34.707              (Singapore, Singapore, SG, AS) port-channel3.core3.sin1.he.net                                                                     
+╭─ 103.16.102.157  *       34.905              (Singapore, Singapore, SG, AS) herza.sgix.sg                                                                                       
+S&T (, 140443)  indonesia-global-gateway-igg-system ✘ || batam-dumai-melaka-bdm-cable-system ✘ || seamewe-5 ✘ || palapa-ring-west ✘ || jasuka ✘ || seamewe-4 ✘ || asia-america-gateway-aag-cable-system ✘ || seax-1 ✘ || asia-submarine-cable-express-asecahaya-malaysia ✘ || batam-rengit-cable-system-brcs ✘ || apcn-2 ✘
+├  10.111.220.146  *       39.17                                          ***                                                                                                     
+╰─ 38.47.188.1     140443  41.735        (Kuala Lumpur, Kuala Lumpur, MY, AS)                                                                                                     
+   38.47.189.189   140443  50.464        (Kuala Lumpur, Kuala Lumpur, MY, AS)                                                                                                     

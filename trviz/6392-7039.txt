@@ -1,0 +1,21 @@
+   103.170.232.152 142616  0.0                         (Tokyo, Tokyo, JP, AS) user-103-170-232-152.nrt04.jp.misaka.io                                                             
+   ***             *       -inf                                           *** *                                                                                                   
+   103.170.232.2   142616  0.238                       (Tokyo, Tokyo, JP, AS) spine1.nrt04.jp.misaka.io                                                                           
+╭─ 199.119.64.140  969     0.258                       (Tokyo, Tokyo, JP, AS) e53-20.cr2a.eqty8.nrt4.jp.917.as                                                                    
+S (969)  
+├─ 199.119.64.94   969     0.311               (San Jose, California, US, NA) po100.cr1a.eqty8.nrt4.jp.917.as                                                                     
+S (969, 137409)  
+╰─ 160.202.164.140 137409  0.31                        (Tokyo, Tokyo, JP, AS)                                                                                                     
+   206.148.24.34   7578    0.25                        (Tokyo, Tokyo, JP, AS) po50-2.ty-eqxty8-cr2.globalsecurelayer.com                                                          
+╭─ 206.148.24.47   7578    0.272                       (Tokyo, Tokyo, JP, AS) po2.ty-eqxty8-bb5.globalsecurelayer.com                                                             
+S (7578)  
+├─ 206.148.24.66   7578    67.117           (Sydney, New South Wales, AU, OC) e51.sg-eqxsg3-bb1.globalsecurelayer.com                                                             
+S (7578)  
+╰─ 31.217.251.74   7578    67.04               (Singapore, Singapore, SG, AS) unknown.globalsecurelayer.com                                                                       
+╭─ 160.202.164.165 137409  72.549              (Singapore, Singapore, SG, AS)                                                                                                     
+S (137409, 8529)  
+╰─ 134.0.220.250   8529    152.486                   (Muscat, Muscat, OM, AS)                                                                                                     
+╭─ 134.0.217.213   8529    150.554                       (Muscat, MA, OM, AS) *                                                                                                   
+S&T (8529, 42473)  
+╰─ 213.202.2.1     42473   149.312                        (Dubai, DU, AE, AS) i1.2.202.213omantel.net.om                                                                          
+   37.252.245.94   42473   152.32                      (Dubai, Dubai, AE, AS)                                                                                                     

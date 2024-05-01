@@ -1,0 +1,23 @@
+   141.164.39.1    20473   0.0                      (Paripark, Seoul, KR, AS) 141.164.39.1.vultrusercontent.com                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   100.100.200.1   *       0.324                                          ***                                                                                                     
+   10.84.0.25      *       0.421                                          ***                                                                                                     
+   10.84.2.53      *       0.958                                          ***                                                                                                     
+   210.176.150.116 4637    1.318                       (Seoul, Seoul, KR, AS) unknown.telstraglobal.net                                                                           
+╭─ 202.84.149.101  4637    1.747                       (Seoul, Seoul, KR, AS)                                                                                                     
+S (4637)  asia-pacific-gateway-apg ✓ || flag-north-asia-loopreach-north-asia-loop 👍 || flag-europe-asia-fea ✓ || seamewe-3 👍 || eac-c2c 👍
+├─ 202.84.141.253  4637    36.675    (Hong Kong, Central and Western, HK, AS) i-1088.hkth-core03.telstraglobal.net                                                                
+S (4637)  apcn-2 👍 || southeast-asia-japan-cable-sjc ✓ || seamewe-3 👍 || eac-c2c 👍 || asia-pacific-gateway-apg ✓ || asia-submarine-cable-express-asecahaya-malaysia ✓ || asia-america-gateway-aag-cable-system 👍
+╰─ 202.84.141.109  4637    74.433              (Singapore, Singapore, SG, AS) i-15152.sgcn-core01.telstraglobal.net                                                               
+   202.84.141.109  4637    74.433              (Singapore, Singapore, SG, AS) i-15152.sgcn-core01.telstraglobal.net                                                               
+   202.84.224.197  4637    73.513              (Singapore, Singapore, SG, AS) i-91.istt04.telstraglobal.net                                                                       
+╭─ 202.126.128.54  4637    72.914              (Singapore, Singapore, SG, AS) unknown.telstraglobal.net                                                                           
+S (4637, 8529)  seamewe-5 ✓
+╰─ 134.0.220.254   8529    141.76                    (Muscat, Muscat, OM, AS)                                                                                                     
+╭─ 213.202.1.189   8529    263.579                   (Muscat, Muscat, OM, AS)                                                                                                     
+S&T (8529, 42961)  
+├─ 151.248.98.137  42961   263.509                       (None, None, BH, AS) *                                                                                                   
+S (42961)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 212.43.17.42    42961   267.165     (Al Farwānīyah, Al Farwaniyah, KW, AS)                                                                                                     

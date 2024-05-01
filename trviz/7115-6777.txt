@@ -1,0 +1,14 @@
+   41.221.208.94   3491    0.0                (Johannesburg, Gauteng, ZA, AF) 41-221-208-94.static.pccwglobal.net                                                                 
+   41.221.208.93   3491    0.91               (Johannesburg, Gauteng, ZA, AF) 41-221-208-93.static.pccwglobal.net                                                                 
+   196.60.8.42     6939    16.62                  (Johannesburg, 6, ZA, None) he.ixp.joburg                                                                                       
+╭─ 184.105.80.102  6939    23.918                        (Durban, NL, ZA, AF) 100ge0-34.core1.dur1.he.net                                                                         
+S&T (6939)  eastern-africa-submarine-system-eassy ✓ || seacomtata-tgn-eurasia ✓
+├─ 184.105.81.93   6939    70.697                      (Mombasa, 300, KE, AF) port-channel4.core1.mba1.he.net                                                                     
+S&T (6939)  seacomtata-tgn-eurasia ✓ || djibouti-africa-regional-express-1-dare1 ✓ || peace-cable ✘ || eastern-africa-submarine-system-eassy ✓
+├─ 184.104.197.225 6939    148.677                (Djibouti City, DJ, DJ, AF) 10ge14-8.core1.jib1.he.net                                                                          
+S (6939, 7642)  peace-cable ✘ || seamewe-3 ✓ || seamewe-5 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 74.82.51.50     7642    413.848                     (Singapore, 4, SG, AS) dhivehi-raajjeyge-gulhan-plc.10gigabitethernet1-1-28.switch2.sin1.he.net                            
+S (7642)  
+╰─ 202.1.205.242   7642    409.135                       (None, None, MV, AS) xe-1-0-0-1.rt.dhivehinet.net.mv                                                                     
+   123.176.1.4     7642    413.541                (Male, Kaafu Atoll, MV, AS)                                                                                                     

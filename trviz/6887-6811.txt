@@ -1,0 +1,15 @@
+   63.218.212.242  3491    0.0               (El Segundo, California, US, NA) yomura.ge-0-0-0-10.br03.lax05.as3491.net                                                            
+╭─ 63.218.212.241  3491    0.827            (Los Angeles, California, US, NA) ge-0-0-0-10.br03.lax05.as3491.net                                                                   
+S (3491)  asia-america-gateway-aag-cable-system ✓
+╰─ 63.223.17.94    3491    158.847                  (Hong Kong, None, HK, AS) HundredGE0-7-0-0.br02.hkg15.pccwbtn.net                                                             
+   63.223.17.94    3491    158.847                  (Hong Kong, None, HK, AS) HundredGE0-7-0-0.br02.hkg15.pccwbtn.net                                                             
+╭─ 63.218.2.190    4775    161.159                  (Hong Kong, None, HK, AS) *                                                                                                   
+S (4775)  tata-tgn-intra-asia-tgn-ia ✓ || asia-america-gateway-aag-cable-system ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 203.177.209.217 4775    188.464           (Baugo, Central Visayas, PH, AS)                                                                                                     
+   203.177.209.218 135132  188.837              (Lapu-Lapu City, CEB, PH, AS) vlan5.vsrx.ceb02.ds.network                                                                         
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   27.111.84.21    135132  192.95        (Cebu City, Central Visayas, PH, AS) ph-ceb-as135132.anchors.atlas.ripe.net                                                              

@@ -1,0 +1,24 @@
+   103.170.232.152 142616  0.0                         (Tokyo, Tokyo, JP, AS) user-103-170-232-152.nrt04.jp.misaka.io                                                             
+   103.170.232.11  142616  0.099                       (Tokyo, Tokyo, JP, AS) po-31.lag.nrt04.jp.misaka.io                                                                        
+   103.170.232.2   142616  0.2                         (Tokyo, Tokyo, JP, AS) spine1.nrt04.jp.misaka.io                                                                           
+   199.119.64.140  969     0.17                        (Tokyo, Tokyo, JP, AS) e53-20.cr2a.eqty8.nrt4.jp.917.as                                                                    
+   84.17.33.104    60068   0.17                        (Tokyo, Tokyo, JP, AS) po66-3517.cr02.nrt04.jp.misaka.io                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 154.54.83.189   174     0.705                       (Tokyo, Tokyo, JP, AS) be3929.ccr71.tyo01.atlas.cogentco.com                                                               
+S (174)  apcn-2 ✓ || korea-japan-cable-network-kjcn ✓ || eac-c2c ✘ || asia-pacific-gateway-apg ✓
+╰─ 154.54.89.198   174     65.461                      (Seoul, Seoul, KR, AS) be3010.ccr71.sel01.atlas.cogentco.com                                                               
+╭─ 154.54.93.182   174     65.514                      (Seoul, Seoul, KR, AS) be4409.ccr72.sel01.atlas.cogentco.com                                                               
+S (174)  
+├─ 154.54.30.206   174     61.293                   (Hong Kong, None, HK, AS) be2223.ccr21.hkg02.atlas.cogentco.com                                                               
+S (174)  
+╰─ 154.54.6.25     174     278.18                    (Marseille, PAC, FR, EU) be2900.ccr32.mrs02.atlas.cogentco.com                                                               
+╭─ 154.54.72.225   174     278.368                       (Paris, IDF, FR, EU) be2780.ccr42.par01.atlas.cogentco.com                                                               
+T (174)  
+╰─ 154.54.58.237   174     278.331            (Frankfurt am Main, HE, DE, EU) be2800.ccr42.fra03.atlas.cogentco.com                                                               
+   130.117.1.117   174     278.309            (Frankfurt am Main, HE, DE, EU) be3187.agr41.fra03.atlas.cogentco.com                                                               
+╭─ 154.25.15.94    174     278.945         (Frankfurt am Main, Hesse, DE, EU) be2632.nr61.b015753-1.fra03.atlas.cogentco.com                                                      
+T (174, 47794)  
+├─ 149.11.182.90   47794   324.956                  (Forest Row, ENG, GB, EU) *                                                                                                   
+S&T (47794)  
+╰─ 94.77.210.130   47794   331.637            (Riyadh, Riyadh Region, SA, AS) 94-77-210-130.static.go.com.sa                                                                      
+   94.77.252.90    47794   351.57             (Riyadh, Riyadh Region, SA, AS) 94-77-252-90.static.go.com.sa                                                                       

@@ -1,0 +1,21 @@
+   194.149.138.252 5379    0.0                  (Skopje, Grad Skopje, MK, EU)                                                                                                     
+   194.149.138.254 5379    7.496                (Skopje, Grad Skopje, MK, EU)                                                                                                     
+   194.149.137.73  5379    0.538                (Skopje, Grad Skopje, MK, EU)                                                                                                     
+╭─ 194.149.130.90  5379    0.539                (Skopje, Grad Skopje, MK, EU)                                                                                                     
+T (5379, 21320)  
+├─ 83.97.88.101    21320   4.477               (Sofia, Sofia-Capital, BG, EU) marnet-ias.mx1.sof.bg.geant.net                                                                     
+LHL (21320, 20965)  
+├─ 62.40.98.9      20965   23.27                     (Zagreb, Zagreb, HR, EU) ae0.mx2.zag.hr.geant.net                                                                            
+LHL (20965)  
+├─ 62.40.98.188    20965   19.256                         (Milan, 25, IT, EU) ae8.mx1.mil2.it.geant.net                                                                           
+T (20965, 3356)  
+├─ 212.133.15.9    3356    23.066                (Budapest, Budapest, HU, EU) ae51.edge1.budapest1.level3.net                                                                     
+T (3356, 12713)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 195.122.181.190 12713   45.948                        (None, None, GB, EU) *                                                                                                   
+S&T (12713)  
+├─ 62.75.4.225     12713   89.435                         (Athens, I, GR, EU) *                                                                                                   
+S&T (12713, 42409)  
+╰─ 217.24.245.22   42409   56.52                         (None, None, AL, EU) *                                                                                                   
+   194.1.149.250   42409   56.164                        (None, None, AL, EU) *                                                                                                   
+   194.1.149.210   42409   57.218                    (Tirana, Tirana, AL, EU)                                                                                                     

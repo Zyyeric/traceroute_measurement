@@ -1,0 +1,23 @@
+╭─ 196.49.84.188   328913  0.0                     (Douala, Littoral, CM, AF) cm-dla-as328913.anchors.atlas.ripe.net                                                              
+S (328913)  
+╰─ 196.49.84.177   328913  0.326                   (Abidjan, Abidjan, CI, AF)                                                                                                     
+╭─ 196.49.84.34    328913  0.61                    (Abidjan, Abidjan, CI, AF) bdr2.std.douala-ix.net                                                                              
+S&T (328913, )  
+├─ 196.60.84.61    *       0.941                   (Douala, Littoral, CM, AF) as328840.member.std.douala-ix.net                                                                   
+S (, 60171)  
+├─ 102.219.44.42   60171   0.94                        (Lagos, Lagos, NG, AF)                                                                                                     
+S (60171)  
+├─ 185.10.164.44   60171   236.495             (Barcelona, Catalonia, ES, EU)                                                                                                     
+S (60171)  
+├─ 102.223.52.72   60171   237.111                     (Lagos, Lagos, NG, AF)                                                                                                     
+S (60171)  
+╰─ 185.10.164.33   60171   237.052             (Barcelona, Catalonia, ES, EU)                                                                                                     
+╭─ 185.10.164.134  60171   237.021             (Barcelona, Catalonia, ES, EU)                                                                                                     
+S&T (60171, 37542)  
+├─ 185.10.164.112  37542   239.556                      (London, ENG, GB, EU) *                                                                                                   
+S&T (37542, 60171)  
+├─ 185.10.164.98   60171   239.765             (Barcelona, Catalonia, ES, EU)                                                                                                     
+S&T (60171, 62416)  
+╰─ 193.136.250.75  62416   239.229                     (Lisbon, 14, PT, None) PTServidor.AS62416.gigapix.pt                                                                       
+   185.222.11.4    62416   2371.152                  (Lisbon, Lisbon, PT, EU) core.bfsw1.lis1.ptservidor.net                                                                      
+   185.32.189.249  62416   236.758                 (Odivelas, Lisbon, PT, EU) pt-lis-as62416.anchors.atlas.ripe.net                                                               

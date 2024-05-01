@@ -1,0 +1,14 @@
+   92.38.135.131   202422  0.0                         (Seoul, Seoul, KR, AS)                                                                                                     
+   92.38.135.2     202422  0.312                       (Seoul, Seoul, KR, AS) vrrp.gcore.lu                                                                                       
+   10.255.17.210   *       0.296                                          ***                                                                                                     
+   10.255.17.213   *       0.34                                           ***                                                                                                     
+   10.255.17.146   *       0.431                                          ***                                                                                                     
+╭─ 8.244.74.29     3356    0.753                       (Seoul, Seoul, KR, AS)                                                                                                     
+S (3356)  new-cross-pacific-ncp-cable-system ✓ || trans-pacific-express-tpe-cable-system ✓
+╰─ 4.69.219.210    3356    123.112                       (None, None, US, NA) *                                                                                                   
+   4.68.70.170     3356    123.25               (Seattle, Washington, US, NA) comcast-level3-seattle1.level3.net                                                                  
+   96.110.44.89    7922    123.356                      (Seattle, WA, US, NA) be-2313-cs03.seattle.wa.ibone.comcast.net                                                           
+   96.110.39.226   7922    123.498                      (Seattle, WA, US, NA) be-2301-pe01.seattle.wa.ibone.comcast.net                                                           
+   75.149.228.26   13331   139.501               (Washington, DC, VA, US, NA) cogent.iad01.atlas.cogentco.com                                                                     
+   207.229.73.34   13331   149.345                       (None, None, US, NA) irb-983.c8cc1.sea.metapeer.com                                                                      
+   204.15.11.34    13331   123.205               (SeaTac, Washington, US, NA)                                                                                                     

@@ -1,0 +1,19 @@
+   63.222.187.5    3491    0.0                 (Manila, Metro Manila, PH, AS)                                                                                                     
+╭─ 63.222.187.14   3491    0.886              (Bel Air, Metro Manila, PH, AS)                                                                                                     
+S (3491)  eac-c2c ✓ || seamewe-3 👍 || southeast-asia-japan-cable-sjc ✓ || tata-tgn-intra-asia-tgn-ia ✓ || asia-submarine-cable-express-asecahaya-malaysia ✓ || asia-america-gateway-aag-cable-system ✓
+╰─ 63.218.210.90   3491    24.874                   (Hong Kong, None, HK, AS) HundredGE0-0-0-1.br05.hkg15.pccwbtn.net                                                             
+╭─ 63.218.210.90   3491    24.874                   (Hong Kong, None, HK, AS) HundredGE0-0-0-1.br05.hkg15.pccwbtn.net                                                             
+S (3491, 6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.105.223.134 6939    43.535              (Singapore, Singapore, SG, AS) port-channel1.core3.sin1.he.net                                                                     
+S (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.105.80.13   6939    269.226                        (Milan, 25, IT, EU) 100ge7-2.core1.mil2.he.net                                                                          
+T (6939)  
+├─ 184.105.64.169  6939    296.453             (Sofia, Sofia-Capital, BG, EU) 100ge0-75.core3.sof1.he.net                                                                         
+T (6939, )  
+╰─ 176.126.38.47   *       295.913               (Áno Liósia, Attica, GR, EU) he.gr-ix.gr                                                                                         
+   184.104.191.234 6939    292.17                    (Koropí, Attica, GR, EU) fast-telecom-p-c.e0-7.core1.ath1.he.net                                                             
+   ***             *       -inf                                           *** *                                                                                                   
+   185.14.96.225   211186  311.831            (Lamía, Central Greece, GR, EU) vlan4090.lamia.fast.net.gr                                                                          
+   185.14.96.232   211186  311.183            (Lamía, Central Greece, GR, EU)                                                                                                     

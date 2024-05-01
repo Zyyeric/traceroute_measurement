@@ -1,0 +1,17 @@
+   202.152.129.74  23951   0.0               (Yogyakarta, Yogyakarta, ID, AS) 202-152-129-74.citra.net.id                                                                         
+   202.152.129.73  23951   0.362     (Pugeran Maguwoharjo, Yogyakarta, ID, AS) 202-152-129-73.citra.net.id                                                                         
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 103.87.184.221  136106  9.785                  (Jember, East Java, ID, AS) ip184-221.fiberstar.ne                                                                              
+S&T (136106)  australia-singapore-cable-asc ✓ || matrix-cable-system ✘ || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || indonesia-global-gateway-igg-system ✓ || seamewe-3 ✓ || indigo-west ✓ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || jasuka ✓ || jakabare ✘
+╰─ 103.87.187.27   136106  21.457              (Singapore, Singapore, SG, AS) ip187-27.fiberstar.net.id                                                                           
+╭─ 184.105.65.178  6939    24.847              (Singapore, Singapore, SG, AS) port-channel5.core1.sin2.he.net                                                                     
+S (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 72.52.92.113    6939    69.545                      (New York, NY, US, NA) 100ge11-2.core1.nyc4.he.net                                                                         
+S (6939)  
+├─ 184.105.65.222  6939    114.813          (Sydney, New South Wales, AU, OC) 100ge0-76.core1.syd1.he.net                                                                         
+S (6939)  
+╰─ 184.104.195.150 6939    147.458                    (Auckland, AUK, NZ, OC) 100ge0-36.core1.akl2.he.net                                                                         
+   184.105.213.230 6939    144.915                    (Auckland, AUK, NZ, OC) 10ge0-48.core1.akl1.he.net                                                                          
+   ***             *       -inf                                           *** *                                                                                                   
+   202.46.184.4    38064   146.314               (Auckland, Auckland, NZ, OC)                                                                                                     

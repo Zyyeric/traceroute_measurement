@@ -1,0 +1,20 @@
+   37.143.141.141  196745  0.0                       (Poole, England, GB, EU) atlas.datacenta.net                                                                                 
+   ***             *       -inf                                           *** *                                                                                                   
+   37.143.136.252  196745  0.342                   (Bournemouth, ENG, GB, EU) *                                                                                                   
+   138.124.175.189 206347  0.623               (Bournemouth, England, GB, EU)                                                                                                     
+   138.124.175.173 206347  1.34                (Bournemouth, England, GB, EU)                                                                                                     
+   138.124.175.157 206347  1.594               (Bournemouth, England, GB, EU)                                                                                                     
+   138.124.175.149 206347  1.893         (Charlton Marshall, England, GB, EU)                                                                                                     
+   138.124.175.81  206347  4.115                    (London, England, GB, EU)                                                                                                     
+   195.66.226.176  20473   4.581                        (London, ENG, GB, EU) vl32-br1-cer.lon3.choopa.net                                                                        
+   10.69.3.74      *       4.844                                          ***                                                                                                     
+   10.69.0.190     *       4.456                                          ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 78.141.239.220  20473   4.538                    (London, England, GB, EU) router01-vul-lon.as151332.net                                                                       
+S&T (20473)  seamewe-3 ✓ || high-capacity-undersea-guernsey-optical-fibre-hugo ✘ || uk-channel-islands-8 ✘ || channel-islands-9-liberty-submarine-cable ✘ || uk-channel-islands-7 ✘
+├─ 217.69.15.96    20473   11.216              (Paris, Île-de-France, FR, EU) router01-vul-par.as151332.net                                                                       
+S (20473)  seamewe-5 ✓ || peace-cable ✘ || seamewe-4 ✓ || seamewe-3 ✓
+├─ 45.77.39.153    20473   242.389             (Singapore, Singapore, SG, AS) router01-vul-sin.as151332.net                                                                       
+S (20473, 7545)  australia-singapore-cable-asc ✓ || indigo-west ✓ || seamewe-3 ✓
+╰─ 203.192.83.254  7545    297.348              (Melbourne, Victoria, AU, OC) ip-254-83-192-203.static.pipenetworks.com                                                           
+   103.179.37.157  151332  297.796              (Melbourne, Victoria, AU, OC)                                                                                                     

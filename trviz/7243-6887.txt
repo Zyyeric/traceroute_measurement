@@ -1,0 +1,17 @@
+   27.111.84.21    135132  0.0           (Cebu City, Central Visayas, PH, AS) ph-ceb-as135132.anchors.atlas.ripe.net                                                              
+   27.111.84.20    135132  1.656             (Baugo, Central Visayas, PH, AS) vlan509.core.ceb02.ds.network                                                                       
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   192.168.159.165 *       2.746                                          ***                                                                                                     
+╭─ 43.224.189.33   137074  2.986             (Baugo, Central Visayas, PH, AS) 43-224-189-33.static.rise.as                                                                        
+S (137074, )  tata-tgn-intra-asia-tgn-ia ✘ || asia-america-gateway-aag-cable-system ✘
+├  10.255.64.24    *       43.702                                         ***                                                                                                     
+├─ 27.111.230.150  *       54.946              (Singapore, Singapore, SG, AS) 37468-sg1-ix.equinix.com                                                                            
+LHL (, 37468)  seamewe-4 ✘ ↠ seacomtata-tgn-eurasia ✘ || seamewe-3 ✘ ↠ seacomtata-tgn-eurasia ✘ || seamewe-5 ✘ ↠ seacomtata-tgn-eurasia ✘ || peace-cable ✘ ↠ seacomtata-tgn-eurasia ✘
+├─ 102.219.127.7   37468   190.939            (Johannesburg, Gauteng, ZA, AF)                                                                                                     
+S&T (37468)  
+├─ 102.130.68.112  37468   200.608                       (None, None, AO, AF) *                                                                                                   
+S (37468)  
+╰─ 102.130.68.69   37468   327.853                   (Lisbon, Lisbon, PT, EU)                                                                                                     
+   185.148.112.152 37468   325.485                   (Lisbon, Lisbon, PT, EU) 152.112.148.185.angolacables.ao                                                                     

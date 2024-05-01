@@ -1,0 +1,15 @@
+   159.65.150.114  14061   0.0            (Doddaballapura, Karnataka, IN, AS) in-blr-as14061.anchors.atlas.ripe.net                                                               
+   ***             *       -inf                                           *** *                                                                                                   
+   10.66.66.10     *       0.349                                          ***                                                                                                     
+   143.198.252.92  *       0.358               (Bengaluru, Karnataka, IN, AS)                                                                                                     
+   143.244.192.14  *       0.436               (Bengaluru, Karnataka, IN, AS)                                                                                                     
+   143.244.225.126 *       0.408               (Bengaluru, Karnataka, IN, AS)                                                                                                     
+   182.79.27.225   9498    1.552               (Bengaluru, Karnataka, IN, AS)                                                                                                     
+╭─ 116.119.57.148  9498    38.396                        (None, None, IN, AS) *                                                                                                   
+S (9498, 6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.199.181 6939    70.235              (Hong Kong, Hong Kong, HK, AS) port-channel9.core2.hkg1.he.net                                                                     
+╭─ 184.104.212.74  23944   73.657                   (Hong Kong, None, HK, AS) sky-cable-corporation.port-channel4.switch1.hkg1.he.net                                             
+S (23944)  
+╰─ 130.105.0.33    23944   74.332                    (Quezon City, 0, PH, AS) *                                                                                                   
+   182.18.209.9    23944   73.89               (Manila, Metro Manila, PH, AS)                                                                                                     

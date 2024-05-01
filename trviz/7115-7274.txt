@@ -1,0 +1,16 @@
+   77.223.128.226  43391   0.0                (İzmir, İzmir Province, TR, AS)                                                                                                     
+   10.200.0.1      *       0.313                                          ***                                                                                                     
+   10.20.0.251     *       0.884                                          ***                                                                                                     
+   10.34.35.10     *       14.728                                         ***                                                                                                     
+╭─ 185.1.48.16     *       15.907                (Ataşehir, Istanbul, TR, AS) ipv4.decix-istanbul.he.net                                                                          
+S&T (, 6939)  kafos ✘
+├─ 184.104.196.45  6939    24.1                (Sofia, Sofia-Capital, BG, EU) 100ge0-70.core3.sof1.he.net                                                                         
+LHL (6939)  atlantic-crossing-1-ac-1 ✓
+├─ 184.104.196.193 6939    43.435                        (Denver, CO, US, NA) 100ge2-1.core1.den1.he.net                                                                          
+S (6939, 7642)  asia-america-gateway-aag-cable-system ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 74.82.51.50     7642    231.904                     (Singapore, 4, SG, AS) dhivehi-raajjeyge-gulhan-plc.10gigabitethernet1-1-28.switch2.sin1.he.net                            
+S (7642)  
+╰─ 202.1.205.242   7642    228.008                       (None, None, MV, AS) xe-1-0-0-1.rt.dhivehinet.net.mv                                                                     
+   123.176.1.4     7642    230.236                (Male, Kaafu Atoll, MV, AS)                                                                                                     

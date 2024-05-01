@@ -1,0 +1,14 @@
+   213.158.113.5   13101   0.0                     (Hamburg, Hamburg, DE, EU) ripe-anchor.gallifrey.tng.de                                                                        
+   213.158.113.28  13101   0.382           (Kiel, Schleswig-Holstein, DE, EU)                                                                                                     
+   82.97.188.3     13101   0.72            (Kiel, Schleswig-Holstein, DE, EU) kel1.tng.de                                                                                         
+   213.178.75.134  13101   0.606           (Kiel, Schleswig-Holstein, DE, EU) kel1.tng.de                                                                                         
+   213.178.80.33   13101   2.654                   (Hamburg, Hamburg, DE, EU) ham1.tng.de                                                                                         
+╭─ 62.67.248.89    3356    3.049                     (Berlin, Berlin, DE, EU)                                                                                                     
+T (3356, 41000)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 176.74.23.251   41000   19.063                 (Shadwell, England, GB, EU) 2.vlan.lon1-csw1.uk.as41000.net                                                                     
+   176.74.23.211   41000   19.565                   (London, England, GB, EU) 0.xe-0-0-23.lon2-csw1.uk.as41000.net                                                                
+   176.74.23.214   41000   21.485               (Manchester, England, GB, EU) 0.xe-0-0-23.man1-csw1.uk.as41000.net                                                                
+   176.74.23.223   41000   21.935               (Manchester, England, GB, EU) 0.ae1.man1-esw1.uk.as41000.net                                                                      
+   176.74.17.75    41000   21.039               (Manchester, England, GB, EU) uk-mnc-as41000.anchors.atlas.ripe.net                                                               

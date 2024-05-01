@@ -1,0 +1,17 @@
+   103.253.132.25  59238   0.0                     (Bangkok, Bangkok, TH, AS) th-bkk-as59238.anchors.atlas.ripe.net                                                               
+   103.253.132.1   59238   0.294                (Khlong San, Bangkok, TH, AS) gw-cat.idc.inox.co.th                                                                               
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 122.155.224.73  4651    1.836                (Khlong San, Bangkok, TH, AS)                                                                                                     
+S&T (4651)  asia-america-gateway-aag-cable-system ✓ || seamewe-4 ✓ || seamewe-3 ✓
+├─ 61.19.9.138     4651    29.111              (Singapore, Singapore, SG, AS)                                                                                                     
+S (4651, 17557)  asia-pacific-gateway-apg ✓ || eac-c2c ✓ || apcn-2 ✓ || seamewe-3 ✓
+├─ 27.111.228.83   17557   105.937                   (Seogwipo, None, KR, AS) 17557.sgw.equinix.com                                                                               
+S (17557, 7590)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 202.125.149.58  7590    129.488                   (Rawalpindi, PB, PK, AS) Touchstone-4.rwp44d1.pie.net.pk                                                                     
+   210.56.8.180    7590    119.255                    (Islamabad, IS, PK, AS) *                                                                                                   
+   210.56.11.202   7590    121.856             (Islamabad, Islamabad, PK, AS)                                                                                                     

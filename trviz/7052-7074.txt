@@ -1,0 +1,19 @@
+   103.143.136.43  63781   0.0                         (Tokyo, Tokyo, JP, AS) koba-103-143-136-43.rev.kobayashi.ad.jp                                                             
+   103.143.136.62  63781   1.711                       (Tokyo, Tokyo, JP, AS) koba-103-143-136-62.rev.kobayashi.ad.jp                                                             
+   103.143.136.29  63781   1.479                       (Tokyo, Tokyo, JP, AS) bgprt2-ospfrt1.kobayashi.ad.jp                                                                      
+   103.143.136.17  63781   0.355                       (Tokyo, Tokyo, JP, AS) koba-103-143-136-17.rev.kobayashi.ad.jp                                                             
+   103.41.60.164   10010   1.034                       (Tokyo, Tokyo, JP, AS) bgp3.tokyo-ix.v4.open.ad.jp                                                                         
+   150.99.184.33   2907    1.388                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+   150.99.10.185   2907    1.673                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+╭─ 150.99.21.55    2907    102.992                     (Tokyo, Tokyo, JP, AS)                                                                                                     
+S (2907, 2152)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 137.164.25.34   2152    114.441                    (Sunnyvale, CA, US, NA) svl-agg10-dc--svl-agg10-hpr.cenic.net                                                               
+   137.164.11.95   2152    110.533                      (Oakland, CA, US, NA) dc-oak-agg8--svl-agg10-300g.cenic.net                                                               
+   137.164.11.89   3292    119.596                     (Tri-City, OR, US, NA) dc-tri-agg2--oak-agg8-300g.cenic.net                                                                
+   137.164.46.7    2152    116.065                     (Tri-City, OR, US, NA) cor-agg8--tri-agg2--100ge.cenic.net                                                                 
+   137.164.50.243  2152    118.056                       (Corona, CA, US, NA) sha-coe-1--cor-agg8-10g.cenic.net                                                                   
+   137.164.34.84   2152    116.822                      (Shafter, CA, US, NA) sha-coe-2---to--sha-coe-1--10ge.cenic.net                                                           
+   137.164.13.11   23483   117.162                      (Shafter, CA, US, NA) shacoe-gw2--sha-coe-2-10g.cenic.net                                                                 
+   66.244.16.33    23483   117.218              (Redding, California, US, NA) us-rdd-as23483.anchors.atlas.ripe.net                                                               

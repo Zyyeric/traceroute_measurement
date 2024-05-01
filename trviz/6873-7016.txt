@@ -1,0 +1,15 @@
+   103.160.63.222  140443  0.0                     (Jakarta, Jakarta, ID, AS) 222.63.160.103.in-addr.herza.id                                                                     
+╭─ 103.160.63.129  140443  0.2                     (Jakarta, Jakarta, ID, AS) 129.63.160.103.in-addr.herza.id                                                                     
+S&T (140443, 9002)  australia-singapore-cable-asc ✓ || matrix-cable-system ✘ || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || indonesia-global-gateway-igg-system ✓ || seamewe-3 ✓ || indigo-west ✘ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || jasuka ✓ || jakabare ✘
+├  10.111.220.46   *       0.525                                          ***                                                                                                     
+├  10.111.220.6    *       12.29                                          ***                                                                                                     
+├  10.111.222.209  *       12.382                                         ***                                                                                                     
+├─ 87.245.231.200  9002    12.367              (Singapore, Singapore, SG, AS) ae0-526.rt.eqx.sin.sg.retn.net                                                                      
+S (9002)  seamewe-5 ✓ || seamewe-4 ✓ || peace-cable ✘
+╰─ 87.245.234.118  9002    167.747             (Paris, Île-de-France, FR, EU) ae5-8.rt.thv.par.fr.retn.net                                                                        
+   37.49.236.19    2200    178.809                       (Paris, IDF, FR, EU) renater.par.franceix.net                                                                            
+   193.55.204.192  2200    167.615                       (Paris, IDF, FR, EU) et-2-0-2-ren-nr-paris1-rtr-131.noc.renater.fr                                                       
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   192.108.116.205 2200    187.748                       (Brest, BRE, FR, EU) *                                                                                                   
+   193.50.97.164   2200    188.324               (Plouzané, Brittany, FR, EU) anchor.netlab.enstb.org                                                                             

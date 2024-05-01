@@ -1,0 +1,19 @@
+   103.160.63.222  140443  0.0                     (Jakarta, Jakarta, ID, AS) 222.63.160.103.in-addr.herza.id                                                                     
+╭─ 103.160.63.129  140443  0.184                   (Jakarta, Jakarta, ID, AS) 129.63.160.103.in-addr.herza.id                                                                     
+S (140443, 137409)  
+├  10.111.220.46   *       0.415                                          ***                                                                                                     
+├  10.111.220.6    *       12.177                                         ***                                                                                                     
+├  10.111.222.206  *       12.186                                         ***                                                                                                     
+├─ 27.111.229.213  137409  12.836                    (Seogwipo, None, KR, AS) 137409.sgw.equinix.com                                                                              
+S (137409, 7578)  
+╰─ 31.217.251.74   7578    12.935              (Singapore, Singapore, SG, AS) unknown.globalsecurelayer.com                                                                       
+╭─ 160.202.164.165 137409  13.12               (Singapore, Singapore, SG, AS)                                                                                                     
+S (137409, 8529)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 213.202.1.189   8529    132.385                   (Muscat, Muscat, OM, AS)                                                                                                     
+S&T (8529, 42961)  
+├─ 151.248.98.137  42961   132.784                       (None, None, BH, AS) *                                                                                                   
+S (42961)  
+├  10.32.1.6       *       129.872                                        ***                                                                                                     
+├  10.32.1.9       *       129.742                                        ***                                                                                                     
+╰─ 212.43.17.42    42961   129.536     (Al Farwānīyah, Al Farwaniyah, KW, AS)                                                                                                     

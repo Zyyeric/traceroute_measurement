@@ -1,0 +1,16 @@
+   117.20.118.21   45498   0.0               (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     
+   117.20.118.17   45498   2.123             (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     
+   27.109.113.21   45498   1.179             (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     
+   27.109.113.7    45498   1.072                     (Phnom Penh, 12, KH, AS) *                                                                                                   
+╭─ 27.109.113.4    45498   1.037             (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     
+S (45498, 4775)  asia-africa-europe-1-aae-1 ✘
+├─ 36.255.56.75    4775    58.784                   (Hong Kong, None, HK, AS) 4775.hkg.equinix.com                                                                                
+S (4775)  
+╰─ 112.198.0.69    4775    59.208                        (None, None, PH, AS) *                                                                                                   
+   203.177.209.217 4775    72.627            (Baugo, Central Visayas, PH, AS)                                                                                                     
+   203.177.209.218 135132  70.671               (Lapu-Lapu City, CEB, PH, AS) vlan5.vsrx.ceb02.ds.network                                                                         
+   192.168.159.164 *       2180.31                                        ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   192.168.159.143 *       76.708                                         ***                                                                                                     
+   27.111.84.21    135132  73.859        (Cebu City, Central Visayas, PH, AS) ph-ceb-as135132.anchors.atlas.ripe.net                                                              

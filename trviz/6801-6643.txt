@@ -1,0 +1,11 @@
+   92.38.132.60    202422  0.0                       (Miami, Florida, US, NA)                                                                                                     
+   92.38.132.3     202422  0.194                     (Miami, Florida, US, NA) vrrp.gcore.lu                                                                                       
+╭─ 92.223.107.3    199524  0.192                     (Miami, Florida, US, NA)                                                                                                     
+S (199524, 6762)  
+├  10.255.81.184   *       0.832                                          ***                                                                                                     
+├  10.255.81.193   *       0.453                                          ***                                                                                                     
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 195.22.221.29   6762    103.845                   (Santiago, None, CL, SA) ae9.santiago7.san.seabone.net                                                                       
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   148.163.223.233 36236   106.441   (Santiago, Santiago Metropolitan, CL, SA) cl-scl-as36236.anchors.atlas.ripe.net                                                               

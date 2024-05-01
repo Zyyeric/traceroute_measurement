@@ -1,0 +1,15 @@
+   202.152.129.74  23951   0.0               (Yogyakarta, Yogyakarta, ID, AS) 202-152-129-74.citra.net.id                                                                         
+   202.152.129.73  23951   0.344     (Pugeran Maguwoharjo, Yogyakarta, ID, AS) 202-152-129-73.citra.net.id                                                                         
+   202.152.153.4   23951   0.658     (Pugeran Maguwoharjo, Yogyakarta, ID, AS) 202-152-153-4.as23951.net                                                                           
+╭─ 202.152.131.233 23951   23.861            (Yogyakarta, Yogyakarta, ID, AS) eie.rtr1-sgw-eq.citra.net.id                                                                        
+S (23951, 15802)  
+├─ 27.111.228.17   15802   24.346                    (Seogwipo, None, KR, AS) 15802.sgw.equinix.com                                                                               
+S (15802, 8966)  
+├  10.229.0.134    *       97.106                                         ***                                                                                                     
+╰─ 195.229.0.109   8966    118.568       (Al Fujairah City, Fujairah, AE, AS)                                                                                                     
+╭─ 195.229.29.54   17557   104.865                       (None, None, AE, AS) *                                                                                                   
+S (17557, 7590)  
+├  10.253.13.41    *       123.201                                        ***                                                                                                     
+╰─ 202.125.149.58  7590    131.207                   (Rawalpindi, PB, PK, AS) Touchstone-4.rwp44d1.pie.net.pk                                                                     
+   210.56.8.180    7590    125.08                     (Islamabad, IS, PK, AS) *                                                                                                   
+   210.56.11.202   7590    123.531             (Islamabad, Islamabad, PK, AS)                                                                                                     

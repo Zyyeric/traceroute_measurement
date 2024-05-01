@@ -1,0 +1,18 @@
+   213.184.86.101  59795   0.0           (Copenhagen, Capital Region, DK, EU) dk-cph-as59795.anchors.atlas.ripe.net                                                               
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 185.212.169.49  9009    0.798             (Herlev, Capital Region, DK, EU) vlan108.as04.cph1.dk.m247.ro                                                                        
+S (9009)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 77.243.185.214  9009    1.659                    (Manchester, ENG, GB, EU) te-13-7-0.core-dc2.man4.uk.m247.com                                                                 
+S&T (9009, 1299)  
+╰─ 213.248.89.118  1299    1.696         (Copenhagen, Capital Region, DK, EU) kbn-b4-link.ip.twelve99.net                                                                         
+╭─ 62.115.136.230  1299    1.966         (Copenhagen, Capital Region, DK, EU) kbn-bb6-link.ip.twelve99.net                                                                        
+T (1299)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 62.115.132.109  1299    6.909                   (Hamburg, Hamburg, DE, EU) hbg-b2-link.ip.twelve99.net                                                                         
+S&T (1299)  
+├─ 62.115.47.251   1299    15.095         (Göteborg, Västra Götaland, SE, EU) orange-ic-358514.ip.twelve99-cust.net                                                               
+S (1299, 5617)  
+╰─ 213.25.5.138    5617    32.673          (Szczecin, West Pomerania, PL, EU) szcz-r2.tpnet.pl                                                                                    
+   80.50.63.146    28785   32.429                      (Szczecin, 32, PL, EU) *                                                                                                   
+   213.222.217.85  28785   32.86           (Szczecin, West Pomerania, PL, EU)                                                                                                     

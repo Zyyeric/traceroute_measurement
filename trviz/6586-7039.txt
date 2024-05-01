@@ -1,0 +1,15 @@
+   103.170.232.152 142616  0.0                         (Tokyo, Tokyo, JP, AS) user-103-170-232-152.nrt04.jp.misaka.io                                                             
+   103.170.232.11  142616  0.127                       (Tokyo, Tokyo, JP, AS) po-31.lag.nrt04.jp.misaka.io                                                                        
+   103.170.232.3   142616  0.177                       (Tokyo, Tokyo, JP, AS) spine2.nrt04.jp.misaka.io                                                                           
+   199.119.64.138  969     0.195                       (Tokyo, Tokyo, JP, AS) e54-10.cr1a.eqty8.nrt4.jp.917.as                                                                    
+   199.119.64.95   969     0.196                       (Tokyo, Tokyo, JP, AS) po100.cr2a.eqty8.nrt4.jp.917.as                                                                     
+   84.17.33.106    60068   0.199                       (Tokyo, Tokyo, JP, AS) po66-3518.cr01.nrt04.jp.misaka.io                                                                   
+   138.199.0.216   60068   0.162                 (Tokyo / Narita, 12, JP, AS) vl250.tyo-eq8-core-1.cdn77.com                                                                      
+╭─ 203.190.230.108 58453   55.499                (Tokyo / Narita, 12, JP, AS) 58453.tyo.equinix.com                                                                               
+S (58453)  
+╰─ 223.118.2.122   58453   51.918                        (None, None, HK, AS) *                                                                                                   
+╭─ 223.119.0.93    202196  52.061                        (None, None, HK, AS) *                                                                                                   
+S (202196)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 37.10.41.14     202196  86.021              (Singapore, Singapore, SG, AS)                                                                                                     

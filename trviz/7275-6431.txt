@@ -1,0 +1,21 @@
+   109.171.136.4   50999   0.0                 (Jeddah, Mecca Region, SA, AS)                                                                                                     
+╭─ 109.171.136.2   50999   0.65                (Jeddah, Mecca Region, SA, AS)                                                                                                     
+LHL (50999, 6939)  seamewe-5 ✘ || seamewe-4 ✘ || asia-africa-europe-1-aae-1 ✓ || peace-cable ✘ || imewe ✘ || seamewe-3 ✓
+├  10.126.145.5    *       0.688                                          ***                                                                                                     
+├  192.168.11.14   *       0.944                                          ***                                                                                                     
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.198.117 6939    69.364          (Amsterdam, North Holland, NL, EU) port-channel1.core2.ams1.he.net                                                                     
+T (6939)  
+╰─ 216.66.88.241   6939    77.505                        (Paris, IDF, FR, EU) 10gigabitethernet7-4.core1.par2.he.net                                                              
+╭─ 184.105.81.30   6939    87.341                    (Marseille, PAC, FR, EU) port-channel4.core2.mrs1.he.net                                                                     
+S (6939)  peace-cable ✘ || seamewe-4 ✓ || seamewe-5 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 74.82.49.214    6939    248.556             (Singapore, Singapore, SG, AS) pt-jala-lintas-media.e0-3.switch5.sin1.he.net                                                       
+S&T (6939, 133840)  
+╰─ 103.66.70.104   133840  248.766                 (Jakarta, Jakarta, ID, AS)                                                                                                     
+   121.100.0.45    38158   312.548                 (Jakarta, Jakarta, ID, AS)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   180.211.88.22   45725   239.834                 (Jakarta, Jakarta, ID, AS) id-jkt-as45725.anchors.atlas.ripe.net                                                               

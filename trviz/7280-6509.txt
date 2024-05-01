@@ -1,0 +1,13 @@
+   31.14.143.132   31034   0.0                      (Arezzo, Tuscany, IT, EU) host132-143-14-31.serverdedicati.aruba.it                                                           
+   31.14.143.130   31034   0.599                  (La Costa, Tuscany, IT, EU) host130-143-14-31.serverdedicati.aruba.it                                                           
+   62.149.185.19   31034   0.76                   (La Costa, Tuscany, IT, EU) cr1-be102.it1.aruba.it                                                                              
+   62.149.185.173  31034   7.917                    (Arezzo, Tuscany, IT, EU) br1-hu0-0-0-21-702.it101.aruba.it                                                                   
+╭─ 185.1.106.24    *       7.409                    (Milan, Lombardy, IT, EU) 6939-mlb-ix-equinix.com                                                                             
+LHL (, 6939)  
+├─ 184.104.196.194 6939    26.859                        (Denver, CO, US, NA) port-channel1.core1.den3.he.net                                                                     
+LHL (6939)  
+╰─ 184.105.64.170  6939    38.0                          (Athens, A1, GR, EU) 100ge0-36.core1.ath1.he.net                                                                         
+   184.104.191.234 6939    38.478                    (Koropí, Attica, GR, EU) fast-telecom-p-c.e0-7.core1.ath1.he.net                                                             
+   ***             *       -inf                                           *** *                                                                                                   
+   185.14.96.225   211186  52.652             (Lamía, Central Greece, GR, EU) vlan4090.lamia.fast.net.gr                                                                          
+   185.14.96.232   211186  51.921             (Lamía, Central Greece, GR, EU)                                                                                                     

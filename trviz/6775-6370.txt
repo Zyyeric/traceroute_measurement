@@ -1,0 +1,15 @@
+   103.202.216.76  59105   0.0                         (Chōfu, Tokyo, JP, AS)                                                                                                     
+   103.202.216.73  59105   0.339                       (Tokyo, Tokyo, JP, AS) ge-2-1-0.pop03er03.bb.homenoc.ad.jp                                                                 
+   103.48.31.122   59105   0.339 (5.571)                    (None, None, JP, AS) v106.gi0-0-2.noc01cr01.bb.homenoc.ad.jp                                                             
+╭─ 103.48.31.47    59105   10.574                      (Tokyo, Tokyo, JP, AS) v1001.ge-0-0-0.pop05er01.bb.homenoc.ad.jp                                                           
+S (59105, 6939)  japan-u-s-cable-network-jus ✓ || tata-tgn-pacific ✘ || pacific-crossing-1-pc-1 ✘ || faster ✓ || jupiter ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.193.26  6939    129.374                     (Portland, OR, US, NA) 100ge14-1.core1.pdx1.he.net                                                                         
+S&T (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.196.222 6939    137.068                    (Vancouver, BC, CA, NA) port-channel2.core2.yvr1.he.net                                                                     
+   65.19.133.197   6939    136.411      (Vancouver, British Columbia, CA, NA)                                                                                                     
+   192.30.89.87    394256  136.238      (Vancouver, British Columbia, CA, NA) ca-van-as394256.anchors.atlas.ripe.net                                                              

@@ -1,0 +1,21 @@
+   103.215.229.229 140443  0.0                  (Surabaya, East Java, ID, AS) 229.229.215.103.in-addr.herza.id                                                                    
+   103.215.229.1   140443  0.175         (Gubengairlangga, East Java, ID, AS)                                                                                                     
+   103.215.228.1   140443  0.249         (Gubengairlangga, East Java, ID, AS) 1.228.215.103.in-addr.herza.id                                                                      
+╭─ 36.64.254.21    7713    0.237 (3.676)    (Gubengairlangga, East Java, ID, AS)                                                                                                     
+S&T (7713)  australia-singapore-cable-asc ✓ || matrix-cable-system ✘ || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || indonesia-global-gateway-igg-system 👍 || seamewe-3 ✓ || jasuka 👍 || indigo-west ✓ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || jakabare ✓
+├─ 180.240.192.33  7713    24.357              (Singapore, Singapore, SG, AS)                                                                                                     
+S (7713)  asia-america-gateway-aag-cable-system 👍
+╰─ 180.240.72.246  7713    163.32           (Los Angeles, California, US, NA)                                                                                                     
+╭─ 98.158.102.75   41095   163.225          (Los Angeles, California, US, NA) 6-5.r0.111.la1.ca.us.iptp.net                                                                       
+S (41095)  sea-us ✓ ↠ apollo ✓ || sea-us ✓ ↠ flag-atlantic-1-fa-1 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  10.255.1.11     *       252.796                                        ***                                                                                                     
+├─ 176.56.189.132  41095   228.529   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) as63927.r0.b07.0a02.mrs.fr.iptp.net                                                                 
+S (41095, 135132)  
+├  10.255.64.92    *       265.889                                        ***                                                                                                     
+╰─ 43.224.189.37   135132  268.735              (Lapu-Lapu City, CEB, PH, AS) vlan7.border1.ceb02.ds.network                                                                      
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   27.111.84.21    135132  269.786       (Cebu City, Central Visayas, PH, AS) ph-ceb-as135132.anchors.atlas.ripe.net                                                              

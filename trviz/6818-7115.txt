@@ -1,0 +1,16 @@
+   123.176.1.4     7642    0.0                    (Male, Kaafu Atoll, MV, AS)                                                                                                     
+╭─ 123.176.1.2     7642    0.521                  (Male, Kaafu Atoll, MV, AS)                                                                                                     
+S (7642)  
+╰─ 202.1.205.241   7642    0.839                       (Singapore, 4, SG, AS) xe-1-0-0-0.rt.dhivehinet.net.mv                                                                     
+   203.208.148.161 7473    82.769              (Singapore, Singapore, SG, AS)                                                                                                     
+   203.208.183.89  7473    80.25               (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 203.208.158.206 4845    79.424              (Singapore, Singapore, SG, AS)                                                                                                     
+S (4845, 7473)  
+├─ 203.208.151.122 7473    81.55               (Hong Kong, Hong Kong, HK, AS)                                                                                                     
+S (7473)  
+├─ 203.208.151.93  7473    82.083                        (None, None, SG, AS) *                                                                                                   
+S (7473, 3491)  
+├─ 63.218.211.253  3491    79.255                   (Hong Kong, None, HK, AS) 63-218-211-253.static.pccwglobal.net                                                                
+S (3491)  
+╰─ 63.223.9.198    3491    159.131                     (Taipei, None, TW, AS) HundredGE0-3-0-1.br01.tap04.pccwbtn.net                                                             
+   63.222.40.114   3491    160.507                   (Taipei, Taiwan, TW, AS) ncic.te0-1-0-23.br01.tap04.as3491.net                                                               

@@ -1,0 +1,16 @@
+   27.111.84.21    135132  0.0           (Cebu City, Central Visayas, PH, AS) ph-ceb-as135132.anchors.atlas.ripe.net                                                              
+   27.111.84.20    135132  1.499             (Baugo, Central Visayas, PH, AS) vlan509.core.ceb02.ds.network                                                                       
+   192.168.159.142 *       94.769                                         ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   192.168.159.165 *       3.906                                          ***                                                                                                     
+   43.224.189.33   137074  2.269             (Baugo, Central Visayas, PH, AS) 43-224-189-33.static.rise.as                                                                        
+╭─ 103.44.232.39   63927   40.158                      (Cebu City, 7, PH, AS) 103-44-232-39.static.rise.as                                                                        
+S (63927, 3356)  national-digital-transmission-network-ndtn ✘ ↠ seamewe-3 ✓
+├─ 212.73.201.185  3356    260.804   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) et-7-0-35-3-201.edge4.marseille1.level3.net                                                         
+S&T (3356, 25003)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 212.113.14.250  25003   259.976                     (London, None, GB, EU) IB.edge5.London1.Level3.net                                                                         
+T (25003)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 94.188.255.2    25003   320.14               (Bnei Brak, Tel Aviv, IL, AS) 255.188.94-binat-smaug.in-addr.arpa                                                                 

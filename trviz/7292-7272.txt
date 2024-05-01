@@ -1,0 +1,12 @@
+   5.199.167.27    216444  0.0                 (Singapore, Singapore, SG, AS)                                                                                                     
+   5.199.167.25    216444  0.506               (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 8.245.2.161     3356    1.695               (Singapore, Singapore, SG, AS)                                                                                                     
+S (3356, 6939)  
+├─ 27.111.228.81   6939    1.691                     (Seogwipo, None, KR, AS) 6939.sgw.equinix.com                                                                                
+S (6939)  
+├─ 184.105.223.134 6939    2.325               (Singapore, Singapore, SG, AS) port-channel1.core3.sin1.he.net                                                                     
+S (6939)  
+╰─ 184.104.199.181 6939    34.173              (Hong Kong, Hong Kong, HK, AS) port-channel9.core2.hkg1.he.net                                                                     
+   184.104.220.67  6939    31.252              (Hong Kong, Hong Kong, HK, AS) lshiy.e0-30.switch1.hkg1.he.net                                                                     
+   103.203.243.11  955     31.238              (Hong Kong, Hong Kong, HK, AS) multi-user.port-channe17.switch1.hkg1.bb.lshiy.net                                                  
+   89.213.179.65   32167   31.32               (Hong Kong, Hong Kong, HK, AS) 89-213-179-65.ip.lshiyusercontent.com                                                               

@@ -1,0 +1,18 @@
+   147.84.200.125  39069   0.0                       (Murcia, Murcia, ES, EU)                                                                                                     
+╭─ 147.84.200.11   39069   1.385                     (Murcia, Murcia, ES, EU)                                                                                                     
+T (39069, 12430)  
+├  10.250.42.181   *       13.049                                         ***                                                                                                     
+├─ 185.1.192.145   12430   12.976                        (None, None, DE, EU) PEESATO04-v4.vodafone.es                                                                            
+T (12430, 6939)  
+╰─ 185.1.192.47    6939    14.409                         (Madrid, M, ES, EU) ipv4.decix-madrid.core1.mad1.he.net                                                                 
+╭─ 184.105.222.166 6939    21.96                      (Barcelona, CT, ES, EU) 100ge0-54.core2.bcn1.he.net                                                                         
+S (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 74.82.49.214    6939    257.543             (Singapore, Singapore, SG, AS) pt-jala-lintas-media.e0-3.switch5.sin1.he.net                                                       
+S&T (6939, 133840)  
+╰─ 103.66.70.104   133840  257.123                 (Jakarta, Jakarta, ID, AS)                                                                                                     
+   121.100.0.45    38158   257.398                 (Jakarta, Jakarta, ID, AS)                                                                                                     
+   43.230.152.226  *       257.411                 (Jakarta, Jakarta, ID, AS) global-in.kings.id                                                                                  
+   ***             *       -inf                                           *** *                                                                                                   
+   180.211.88.22   45725   176.276                 (Jakarta, Jakarta, ID, AS) id-jkt-as45725.anchors.atlas.ripe.net                                                               

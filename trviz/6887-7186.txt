@@ -1,0 +1,16 @@
+   45.87.135.252   208398  0.0                 (Singapore, Singapore, SG, AS)                                                                                                     
+   45.87.135.253   208398  1.249               (Singapore, Singapore, SG, AS)                                                                                                     
+   10.1.1.254      *       0.484                                          ***                                                                                                     
+╭─ 93.186.133.209  6762    0.664               (Singapore, Singapore, SG, AS)                                                                                                     
+S (6762, 174)  eac-c2c ✓ || apcn-2 ✓ || asia-pacific-gateway-apg ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 154.54.87.226   174     30.776                   (Hong Kong, None, HK, AS) be2923.ccr21.hkg02.atlas.cogentco.com                                                               
+╭─ 154.18.8.50     174     30.416              (Hong Kong, Hong Kong, HK, AS)                                                                                                     
+S (174, 135132)  tata-tgn-intra-asia-tgn-ia ✓ || asia-america-gateway-aag-cable-system ©
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 43.224.189.37   135132  47.375               (Lapu-Lapu City, CEB, PH, AS) vlan7.border1.ceb02.ds.network                                                                      
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   27.111.84.21    135132  49.368        (Cebu City, Central Visayas, PH, AS) ph-ceb-as135132.anchors.atlas.ripe.net                                                              

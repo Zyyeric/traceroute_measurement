@@ -1,0 +1,15 @@
+   103.170.154.254 142594  0.0                      (London, England, GB, EU) 254.154.170.103.speedyvps.uk                                                                        
+╭─ 103.170.154.1   142594  0.165                    (London, England, GB, EU)                                                                                                     
+T (142594, 60068)  
+├─ 156.146.32.92   60068   0.264                     (Prague, Prague, CZ, EU) unn-156-146-32-92.cdn77.com                                                                         
+LHL (60068)  
+├─ 185.229.188.204 60068   17.188    (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) vl1102.mrs-itx2-core-2.cdn77.com                                                                    
+T (60068)  
+├─ 84.17.32.85     60068   17.419                    (Prague, Prague, CZ, EU) zain-mrs.cdn77.com                                                                                  
+LHL (60068, 59605)  
+╰─ 151.248.96.132  59605   101.96                        (None, None, BH, AS) *                                                                                                   
+╭─ 151.248.98.137  42961   103.03                        (None, None, BH, AS) *                                                                                                   
+S (42961)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 212.43.17.42    42961   101.9       (Al Farwānīyah, Al Farwaniyah, KW, AS)                                                                                                     

@@ -1,0 +1,25 @@
+   102.212.60.247  329276  0.0              (Cape Town, Western Cape, ZA, AF) za-cpt-as329276.anchors.atlas.ripe.net                                                              
+   102.212.60.2    329276  0.123             (Rosebank, Western Cape, ZA, AF) net.lnx-solutions.com                                                                               
+   196.250.236.121 37662   0.265             (Rosebank, Western Cape, ZA, AF)                                                                                                     
+╭─ 154.66.247.234  37662   0.241 (0.747)                 (Trichardt, MP, ZA, AF) *                                                                                                   
+S&T (37662)  eastern-africa-submarine-system-eassy 👍 || seacomtata-tgn-eurasia ✓
+├─ 154.66.247.99   37662   113.286                       (None, None, KE, AF) *                                                                                                   
+LHL (37662, 6939)  peace-cable ✘ ↠ seamewe-3 ✓ || peace-cable ✘ ↠ europe-india-gateway-eig ✓ || seacomtata-tgn-eurasia ✓ ↠ seamewe-3 ✓ || seacomtata-tgn-eurasia ✓ ↠ europe-india-gateway-eig ✓
+├─ 184.104.204.93  6939    112.772                   (Lisbon, Lisbon, PT, EU) e0-18.core1.lis1.he.net                                                                             
+S&T (6939)  
+├─ 184.104.193.149 6939    119.785                        (Madrid, M, ES, EU) ve960.core1.mad1.he.net                                                                             
+S&T (6939, 1273)  
+├─ 195.2.2.125     1273    119.678                       (None, None, GB, EU) xe-8-0-0-xcr1.max.cw.net                                                                            
+S&T (1273)  
+├─ 195.2.25.114    1273    159.751                  (Turin, Piedmont, IT, EU) ae1-xcr1.mrx.cw.net                                                                                 
+S&T (1273)  
+╰─ 195.2.21.186    1273    146.577                       (None, None, GB, EU) ae51.xcr1.mlu.cw.net                                                                                
+╭─ 195.2.16.2      1273    162.041                       (None, None, GB, EU) ae23.0-xcr1.sof.cw.net                                                                              
+S&T (1273, 3329)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 62.74.30.101    3329    170.594                        (Athens, I, GR, EU) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   62.74.226.30    12361   179.415                   (Athens, Attica, GR, EU) dumy30.panafonet.gr                                                                                 
+   ***             *       -inf                                           *** *                                                                                                   
+   139.91.68.3     8522    175.687                 (Irákleion, Crete, GR, EU)                                                                                                     

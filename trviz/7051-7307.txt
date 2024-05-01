@@ -1,0 +1,19 @@
+   138.117.32.11   264479  0.0              (Feira de Santana, Bahia, BR, SA) 138-117-32-11.static.turbozoneinternet.net.br                                                       
+   138.117.32.9    264479  1.217            (Feira de Santana, Bahia, BR, SA) 138-117-32-9.static.turbozoneinternet.net.br                                                        
+   131.255.120.234 264479  1.534            (Feira de Santana, Bahia, BR, SA) rt01-core.turbozoneinternet.net.br                                                                  
+   10.10.127.5     *       1.625                                          ***                                                                                                     
+   10.10.127.9     *       1.509                                          ***                                                                                                     
+╭─ 45.184.144.214  *       28.812                  (Fortaleza, Ceará, BR, SA) as6939.fortaleza.ce.ix.br                                                                           
+S (, 6939)  south-america-1-sam-1 ✘ || america-movil-submarine-cable-system-1-amx-1 ✘ || brusa ✘ || globenet ✘ || monet ✘ || americas-ii ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.195.162 6939    126.779                       (Newark, NJ, US, NA) port-channel2.core1.ewr5.he.net                                                                     
+S (6939)  
+├─ 184.104.189.26  6939    208.504       (Copenhagen, Capital Region, DK, EU) port-channel4.core3.cph1.he.net                                                                     
+S (6939)  
+├─ 184.105.81.141  6939    211.28                       (Ashburn, VA, US, NA) port-channel10.core3.ash1.he.net                                                                    
+S (6939, 56655)  
+╰─ 185.125.170.252 56655   226.547                       (Oslo, Oslo, NO, EU)                                                                                                     
+   185.125.170.45  56655   226.467                       (Oslo, Oslo, NO, EU)                                                                                                     
+   185.14.97.165   56655   2987.366                      (Oslo, Oslo, NO, EU)                                                                                                     
+   185.14.97.165   56655   2987.366                      (Oslo, Oslo, NO, EU)                                                                                                     

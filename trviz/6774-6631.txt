@@ -1,0 +1,17 @@
+   92.38.178.149   202422  0.0                       (Urayasu, Tokyo, JP, AS)                                                                                                     
+   92.38.178.1     202422  0.165                     (Urayasu, Tokyo, JP, AS) gw.gcore.lu                                                                                         
+   10.255.16.181   *       0.176                                          ***                                                                                                     
+   10.255.16.184   *       0.399                                          ***                                                                                                     
+   61.200.80.173   2914    1.214                       (Tokyo, Tokyo, JP, AS) ce-0-2-0-3.r02.tokyjp08.jp.bb.gin.ntt.net                                                           
+╭─ 129.250.2.100   2914    1.033                       (Tokyo, Tokyo, JP, AS) ae-20.r32.tokyjp05.jp.bb.gin.ntt.net                                                                
+S (2914)  
+├─ 129.250.7.54    2914    1.354                         (None, None, US, NA) ae-0.a01.tokyjp09.jp.bb.gin.ntt.net                                                                 
+S (2914, 3356)  
+├─ 4.68.75.129     3356    1.15 (2.188)                     (Tokyo, 13, JP, AS) ae-13.edge2.Tokyo4.Level3.net                                                                       
+S (3356)  
+╰─ 4.69.160.73     3356    108.664                      (Seattle, WA, US, NA) ae2.3613.edge1.Seattle3.level3.net                                                                  
+   4.59.232.138    54527   107.763                      (Seattle, WA, US, NA) *                                                                                                   
+╭─ 135.84.184.226  54527   104.007                      (Seattle, WA, US, NA) *                                                                                                   
+S&T (54527, 54632)  
+╰─ 135.84.178.229  54632   104.306                    (Vancouver, BC, CA, NA) xe-0-1-0-1245-border2-van1.etinw.net                                                                
+   23.170.33.3     54632   104.129      (Vancouver, British Columbia, CA, NA) ca-van-as397131.anchors.atlas.ripe.net                                                              

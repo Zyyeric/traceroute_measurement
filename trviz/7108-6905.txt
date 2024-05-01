@@ -1,0 +1,17 @@
+   103.253.132.25  59238   0.0                     (Bangkok, Bangkok, TH, AS) th-bkk-as59238.anchors.atlas.ripe.net                                                               
+   103.253.132.1   59238   0.252                (Khlong San, Bangkok, TH, AS) gw-cat.idc.inox.co.th                                                                               
+   172.24.132.23   *       0.469                                          ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 122.155.224.73  4651    1.429                (Khlong San, Bangkok, TH, AS)                                                                                                     
+S&T (4651)  asia-america-gateway-aag-cable-system ✓ || seamewe-4 ✓ || seamewe-3 ✓
+├─ 61.19.9.138     4651    29.108              (Singapore, Singapore, SG, AS)                                                                                                     
+S (4651, 7713)  
+├─ 27.111.228.77   7713    27.603                    (Seogwipo, None, KR, AS) 7713.sgw.equinix.com                                                                                
+S (7713)  
+╰─ 180.240.204.9   7713    30.836              (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 180.240.204.9   7713    30.836              (Singapore, Singapore, SG, AS)                                                                                                     
+S&T (7713)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 36.93.255.177   7713    49.176                       (Batam, Riau, ID, AS)                                                                                                     
+   36.93.255.178   58475   48.278                        (None, None, ID, AS) *                                                                                                   
+   103.23.232.7    58475   45.615     (Banjarmasin, South Kalimantan, ID, AS)                                                                                                     

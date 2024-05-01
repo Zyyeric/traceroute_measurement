@@ -1,0 +1,21 @@
+   202.214.97.16   2497    0.0                      (Hatsudai, Tokyo, JP, AS)                                                                                                     
+   202.214.97.2    2497    2.674                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+   210.138.93.41   2497    0.65                        (Tokyo, Tokyo, JP, AS)                                                                                                     
+   58.138.114.233  2497    1.134                       (Tokyo, Tokyo, JP, AS) tky009ipgw00.iij.net                                                                                
+   58.138.114.197  2497    1.086                       (Tokyo, Tokyo, JP, AS) tky009bb01.iij.net                                                                                  
+╭─ 58.138.112.54   2497    1.419                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+S (2497)  japan-u-s-cable-network-jus ✓ || tata-tgn-pacific ✓ || pacific-crossing-1-pc-1 ✓ || faster ✓ || jupiter ✓
+╰─ 58.138.88.238   2497    100.62              (San Jose, California, US, NA) sjc002bb00.iij.net                                                                                  
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 62.115.119.228  1299    170.564          (New York City, New York, US, NA) nyk-bb2-link.ip.twelve99.net                                                                        
+S (1299)  atlantic-crossing-1-ac-1 ✓ || havfrueaec-2 ✓
+├─ 80.91.254.90    1299    260.161       (Copenhagen, Capital Region, DK, EU) kbn-bb6-link.ip.twelve99.net                                                                        
+S&T (1299)  ip-only-denmark-sweden © || scandinavian-ring-south 👍 || danica-north 👍 || rnne-rdvig © || energinet-laeso-varberg ✘ || globalconnect-2-gc2 © || kattegat-2 © || denmark-sweden-16 ©
+├─ 62.115.139.172  1299    266.342             (Stockholm, Stockholm, SE, EU) s-bb2-link.ip.twelve99.net                                                                          
+S&T (1299)  eastern-light ✘ || bcs-north---phase-1 👍 || sweden-finland-4-sfs-4 👍 || baltic-sea-submarine-cable ✘ || botnia 👍
+╰─ 62.115.123.203  1299    272.064                (Helsinki, Uusimaa, FI, EU) hls-b4-link.ip.twelve99.net                                                                         
+   62.115.162.99   1299    271.827                (Helsinki, Uusimaa, FI, EU) fne-ic-332648.ip.twelve99-cust.net                                                                  
+   87.236.158.145  47605   275.515                       (None, None, FI, EU) *                                                                                                   
+   87.236.158.63   199087  275.304                       (None, None, FI, EU) *                                                                                                   
+   89.190.2.245    199087  271.525   (Lestijärvi, Central Ostrobothnia, FI, EU) dynamic-245-2.kasenet.fi                                                                            
+   89.190.1.74     199087  271.782   (Lestijärvi, Central Ostrobothnia, FI, EU) dynamic-74-1.kasenet.fi                                                                             

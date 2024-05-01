@@ -1,0 +1,12 @@
+   92.38.132.60    202422  0.0                       (Miami, Florida, US, NA)                                                                                                     
+   92.38.132.3     202422  0.203                     (Miami, Florida, US, NA) vrrp.gcore.lu                                                                                       
+   92.223.107.3    199524  0.255                     (Miami, Florida, US, NA)                                                                                                     
+   10.255.81.184   *       0.683                                          ***                                                                                                     
+   10.255.81.194   *       0.469                                          ***                                                                                                     
+╭─ 198.32.243.180  6461    0.323                     (Miami, Florida, US, NA) eqix-mi1.globenet-1.com                                                                             
+S (6461, 28109)  south-america-1-sam-1 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 190.124.210.4   28109   153.768                       (None, None, AR, SA) rtmetro4.criba.edu.ar                                                                               
+   190.124.210.18  28109   153.948                       (None, None, AR, SA) *                                                                                                   
+   190.124.192.162 28109   154.217       (Bahía Blanca, Buenos Aires, AR, SA) anchorr.criba.edu.ar                                                                                

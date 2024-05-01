@@ -1,0 +1,16 @@
+   103.15.246.16   58717   0.0                         (Dhaka, Dhaka, BD, AS)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   172.16.203.70   *       0.75                                           ***                                                                                                     
+   157.119.185.211 58717   1.299                           (Dhaka, C, BD, AS) *                                                                                                   
+   103.199.87.233  58717   6.136                         (None, None, BD, AS) *                                                                                                   
+╭─ 103.199.87.40   58717   50.84                         (None, None, BD, AS) *                                                                                                   
+S (58717, 6939)  seamewe-5 ✓ || seamewe-4 ✓
+├─ 184.105.80.45   6939    261.465             (Singapore, Singapore, SG, AS) port-channel21.core2.sin1.he.net                                                                    
+LHL (6939)  seamewe-5 ✓ ↠ c-lion1 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.192.98  6939    203.631                     (Helsinki, 18, FI, EU) 100ge4-2.core1.hel1.he.net                                                                          
+   193.110.224.40  16302   203.282                    (Helsinki, 1, FI, None) suomicom.ficix2.ficix.fi                                                                            
+   77.246.204.230  203296  204.561                     (Helsinki, 18, FI, EU) gw-l1.dei.fi                                                                                        
+   185.139.168.19  203296  205.43                 (Helsinki, Uusimaa, FI, EU) fi-hel-as203296.anchors.atlas.ripe.net                                                              

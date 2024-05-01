@@ -1,0 +1,22 @@
+   117.20.118.21   45498   0.0               (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     
+   117.20.118.17   45498   7.278             (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     
+   27.109.113.25   45498   1.094             (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     
+╭─ 27.109.113.6    45498   1.195                     (Phnom Penh, 12, KH, AS) *                                                                                                   
+LHL (45498)  asia-africa-europe-1-aae-1 ✘ ↠ seamewe-4 ✘ || asia-africa-europe-1-aae-1 ✘ ↠ seamewe-3 ✓ || asia-africa-europe-1-aae-1 ✘ ↠ seamewe-5 ✓ || asia-africa-europe-1-aae-1 ✘ ↠ peace-cable ✘
+╰─ 27.109.113.56   45498   34.383              (Singapore, Singapore, SG, AS)                                                                                                     
+   62.115.183.180  1299    34.289              (Singapore, Singapore, SG, AS) snge-b5-link.ip.twelve99.net                                                                        
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 62.115.137.243  1299    34.993              (Singapore, Singapore, SG, AS) snge-b4-link.ip.twelve99.net                                                                        
+S (1299)  eac-c2c © || asia-pacific-gateway-apg ✓ || southeast-asia-japan-cable-sjc ✓ || asia-america-gateway-aag-cable-system © || apcn-2 ✓
+├─ 62.115.112.223  1299    68.65               (Hong Kong, Hong Kong, HK, AS) hnk-b4-link.ip.twelve99.net                                                                         
+S (1299)  apcn-2 ✓ || seamewe-3 ✓ || asia-submarine-cable-express-asecahaya-malaysia ✓ || flag-north-asia-loopreach-north-asia-loop ✓ || flag-europe-asia-fea © || asia-pacific-gateway-apg ✓ || eac-c2c © || southeast-asia-japan-cable-sjc ✓
+├─ 62.115.134.187  1299    316.447                     (Tokyo, Tokyo, JP, AS) tky-b3-link.ip.twelve99.net                                                                         
+S (1299)  
+╰─ 62.115.137.108  1299    228.352          (Los Angeles, California, US, NA) lax-b23-link.ip.twelve99.net                                                                        
+   62.115.123.136  1299    262.93                     (Dallas, Texas, US, NA) dls-bb2-link.ip.twelve99.net                                                                        
+   62.115.138.65   1299    247.77                     (Dallas, Texas, US, NA) dls-b23-link.ip.twelve99.net                                                                        
+╭─ 213.248.76.159  1299    256.112                    (Dallas, Texas, US, NA) telecomitalia-ic-363398.ip.twelve99-cust.net                                                        
+LHL (1299, 6762)  
+╰─ 195.22.196.117  6762    307.67                       (Rome, Lazio, IT, EU)                                                                                                     
+   89.221.32.157   59715   312.546                         (Rome, 62, IT, EU) citta-san-benedetto-d.roma1.rom.seabone.net                                                         
+   185.5.201.10    59715   324.323   (San Benedetto del Tronto, The Marches, IT, EU) p6496.probes.atlas.ripe.net                                                                         

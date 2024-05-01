@@ -1,0 +1,27 @@
+   196.40.111.147  37153   0.0              (Cape Town, Western Cape, ZA, AF) atlas-anchor-cpt3.cpt.net.host-h.net                                                                
+   196.40.111.145  37153   16.201           (Cape Town, Western Cape, ZA, AF)                                                                                                     
+   41.204.206.37   37153   0.345            (Cape Town, Western Cape, ZA, AF) core-router1.cpt2.host-h.net                                                                        
+   41.66.133.1     37179   0.494            (Cape Town, Western Cape, ZA, AF) 41-66-133-1-2.customer-xe-0-0-2-wc-ro-het-mee-1.africainx.net                                       
+   41.84.12.29     37179   0.843            (Cape Town, Western Cape, ZA, AF) core.100g-0-8-0-wc-ro-ter-pbr-1.za.africainx.net                                                    
+   41.84.12.28     37179   18.464                  (Johannesburg, GP, ZA, AF) core.100g-0-8-0-wc-ro-ter-scp-2.za.africainx.net                                                    
+╭─ 41.84.12.174    37179   17.357                  (Johannesburg, GP, ZA, AF) core.xe-1-2-0-gp-id-scp-2.za.africainx.net                                                          
+LHL (37179, 2603)  africa-coast-to-europe-ace ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 80.81.192.241   2603    168.975            (Frankfurt am Main, HE, DE, EU) de-ffm.nordu.net                                                                                    
+T (2603)  
+╰─ 109.105.102.97  2603    170.883                     (Hexton, None, GB, EU) uk-hex.nordu.net                                                                                    
+╭─ 109.105.102.98  2603    187.472                      (London, ENG, GB, EU) ndn-gw.mx1.lon.uk.geant.net                                                                         
+S&T (2603, 20965)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 62.40.98.222    20965   197.523                     (Bilbao, None, ES, EU) ae4.rt1.bil.es.geant.net                                                                            
+S&T (20965, 21320)  
+├─ 83.97.90.19     21320   200.757                  (London, England, GB, EU) rediris-ias-geant.bil.es.geant.net                                                                  
+S&T (21320, 766)  
+╰─ 130.206.245.5   766     185.768                       (None, None, ES, EU) ehu.rt2.ethtrunk5.ciemat.rt2.mad.red.rediris.es                                                     
+   130.206.245.2   766     199.35                        (None, None, ES, EU) ciemat.rt2.ae1-0.telmad.rt4.mad.red.rediris.es                                                      
+   130.206.214.98  13041   208.219                       (None, None, ES, EU) anella-router.red.rediris.es                                                                        
+   84.88.18.254    13041   207.774             (Barcelona, Catalonia, ES, EU) anchor-anella.cesca.cat                                                                             

@@ -1,0 +1,13 @@
+   182.18.209.9    23944   0.0                 (Manila, Metro Manila, PH, AS)                                                                                                     
+╭─ 182.18.209.1    23944   1.141          (Quezon City, Metro Manila, PH, AS) 209-182.gw.skybroadband.com.ph                                                                      
+S (23944, 13335)  eac-c2c ✓ || seamewe-3 ✓ || southeast-asia-japan-cable-sjc ✓ || tata-tgn-intra-asia-tgn-ia ✓ || asia-submarine-cable-express-asecahaya-malaysia ✓ || asia-america-gateway-aag-cable-system ✓
+├  172.31.31.10    *       0.449                                          ***                                                                                                     
+╰─ 123.255.90.246  13335   44.22                   (Hong Kong, HCW, HK, None) cloudflare1-lacp-100g.hkix.net                                                                      
+   172.71.208.2    13335   37.331              (Hong Kong, Hong Kong, HK, AS)                                                                                                     
+   172.71.209.122  13335   37.342              (Hong Kong, Hong Kong, HK, AS)                                                                                                     
+   172.71.209.119  13335   37.76               (Hong Kong, Hong Kong, HK, AS)                                                                                                     
+╭─ 172.71.209.122  13335   37.342              (Hong Kong, Hong Kong, HK, AS)                                                                                                     
+S (13335, 133800)  
+├  172.16.18.101   *       49.208                                         ***                                                                                                     
+╰─ 137.59.127.34   133800  49.014                        (None, None, ID, AS) ip-34-127-59-137.core.biznetg.io                                                                    
+   103.77.105.3    133800  49.12                   (Jakarta, Jakarta, ID, AS) ip-3-105-77-103.jkt-1.biznetg.io                                                                    

@@ -1,0 +1,24 @@
+   23.174.128.243  53698   0.0               (Sacramento, California, US, NA) us-sac-as53698.anchors.atlas.ripe.net                                                               
+   23.174.128.17   53698   0.542             (Sacramento, California, US, NA) vlan3-gateway.qts.smf.nix-ops.net                                                                   
+   65.74.145.156   17018   0.618             (Sacramento, California, US, NA)                                                                                                     
+   173.225.174.8   17018   1.266             (Sacramento, California, US, NA)                                                                                                     
+   173.225.174.13  17018   1.355             (Sacramento, California, US, NA)                                                                                                     
+   4.14.111.245    3356    5.101          (San Francisco, California, US, NA) xe-9-2-2.bar1.sanfrancisco1.level3.net                                                              
+   4.69.219.65     3356    4.597                         (None, None, US, NA) *                                                                                                   
+   4.68.63.114     2914    5.165                         (None, None, US, NA) NTT-level3-SanJose1.Level3.net                                                                      
+   ***             *       -inf                                           *** *                                                                                                   
+   129.250.4.151   2914    15.254                        (None, None, US, NA) ae-3.sayonara-dorian.r25.lsanca07.us.bb.gin.ntt.net                                                 
+   129.250.2.114   2914    15.224                        (None, None, US, NA) ae-1.sayonara-dorian.a02.lsanca20.us.bb.gin.ntt.net                                                 
+   157.238.230.129 2914    15.181           (Los Angeles, California, US, NA)                                                                                                     
+   206.148.25.88   7578    15.817           (Los Angeles, California, US, NA) e6.lax-csla2-bb5.globalsecurelayer.com                                                              
+   206.148.25.91   7578    15.826           (Los Angeles, California, US, NA) e49.lax-csla2-bb1.globalsecurelayer.com                                                             
+╭─ 206.148.25.84   7578    113.646          (Los Angeles, California, US, NA) e50.ty-eqxty8-bb5.globalsecurelayer.com                                                             
+S (7578)  
+├─ 206.148.24.51   7578    113.58           (Sydney, New South Wales, AU, OC) e30.ty-eqxty8-bb1.globalsecurelayer.com                                                             
+S (7578)  
+╰─ 206.148.24.34   7578    113.561                     (Tokyo, Tokyo, JP, AS) po50-2.ty-eqxty8-cr2.globalsecurelayer.com                                                          
+   206.148.24.35   7578    113.648                     (Tokyo, Tokyo, JP, AS) po10-2.ty-eqxty8-sw4.globalsecurelayer.com                                                          
+   45.11.107.52    969     133.434                     (Tokyo, Tokyo, JP, AS) e52-1-gsl.cr1a.eqty8.nrt4.jp.917.as                                                                 
+   199.119.64.137  969     118.031                     (Tokyo, Tokyo, JP, AS) e31-10.spine1.nrt04.jp.misaka.io                                                                    
+   103.170.232.11  142616  133.331                     (Tokyo, Tokyo, JP, AS) po-31.lag.nrt04.jp.misaka.io                                                                        
+   103.170.232.152 142616  133.918                     (Tokyo, Tokyo, JP, AS) user-103-170-232-152.nrt04.jp.misaka.io                                                             

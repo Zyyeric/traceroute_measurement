@@ -1,0 +1,14 @@
+   185.209.84.141  57578   0.0               (Khabarovsk, Khabarovsk, RU, EU) ru-khv-as57578.anchors.atlas.ripe.net                                                               
+   185.209.84.10   198412  0.117                    (Khabarovsk, KHA, RU, AS) ae1-0.c10.khv01.ru.misaka.io                                                                        
+   92.38.191.67    210756  0.217             (Khabarovsk, Khabarovsk, RU, EU) vrrp.edgecenter.ru                                                                                  
+   92.223.110.2    210756  0.182             (Khabarovsk, Khabarovsk, RU, EU)                                                                                                     
+   10.255.10.186   *       0.239                                          ***                                                                                                     
+   212.119.196.105 3216    0.222 (0.663)        (Khabarovsk, Khabarovsk, RU, EU)                                                                                                     
+╭─ 79.104.235.78   *       112.584                   (Moscow, Moscow, RU, EU) mx01.stockholm.gldn.net                                                                             
+LHL (, 6667)  
+├─ 194.68.128.136  6667    114.139                  (Stockholm, 26, SE, None) netnod-ix-ge-b-sth-1500.eunetip.net                                                                 
+S&T (6667)  eastern-light ✘ || bcs-north---phase-1 ✓ || sweden-finland-4-sfs-4 👍 || botnia ✓
+╰─ 213.192.184.94  6667    118.593                       (None, None, FI, EU) *                                                                                                   
+   213.192.184.81  6667    118.141                (Helsinki, Uusimaa, FI, EU) ge2-0-0-0.bbr2.hel1.fi.eunetip.net                                                                  
+   ***             *       -inf                                           *** *                                                                                                   
+   193.65.45.86    719     121.963          (Hämeenlinna, Kanta-Häme, FI, EU)                                                                                                     

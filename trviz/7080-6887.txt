@@ -1,0 +1,13 @@
+   27.111.84.21    135132  0.0           (Cebu City, Central Visayas, PH, AS) ph-ceb-as135132.anchors.atlas.ripe.net                                                              
+   27.111.84.20    135132  1.511             (Baugo, Central Visayas, PH, AS) vlan509.core.ceb02.ds.network                                                                       
+   192.168.159.142 *       6.59                                           ***                                                                                                     
+   192.168.159.152 *       1.682                                          ***                                                                                                     
+   192.168.159.168 *       38.49                                          ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 43.224.189.33   137074  2.089             (Baugo, Central Visayas, PH, AS) 43-224-189-33.static.rise.as                                                                        
+S (137074, 3491)  tata-tgn-intra-asia-tgn-ia ✘ || asia-america-gateway-aag-cable-system ✘
+├  10.255.64.24    *       42.591                                         ***                                                                                                     
+├─ 63.222.113.104  3491    58.409              (Singapore, Singapore, SG, AS)                                                                                                     
+S (3491)  
+╰─ 63.223.16.82    3491    95.582                         (Tokyo, 13, JP, AS) HundredGE0-3-0-0.br03.tok01.pccwbtn.net                                                             
+   63.222.190.5    3491    93.028                      (Tokyo, Tokyo, JP, AS)                                                                                                     

@@ -1,0 +1,20 @@
+   102.220.178.25  328829  0.0              (Cape Town, Western Cape, ZA, AF) unknown.vumatel.co.za                                                                               
+   102.220.178.30  328829  0.352            (Cape Town, Western Cape, ZA, AF) unknown.vumatel.co.za                                                                               
+   102.220.179.117 328829  0.825            (Cape Town, Western Cape, ZA, AF) unknown.vumatel.co.za                                                                               
+   102.220.178.117 328829  0.889            (Cape Town, Western Cape, ZA, AF) rnd-br1-sfp28-1-882.vumatel.co.za                                                                   
+   102.220.177.105 328829  22.301                (Diepsloot, Gauteng, ZA, AF) tri-br2-sfp2-834.vumatel.co.za                                                                      
+   102.220.177.114 328829  22.222                 (Pretoria, Gauteng, ZA, AF) tri-br1-sfp28-2-861.vumatel.co.za                                                                   
+╭─ 102.220.179.122 328829  31.944             (Johannesburg, Gauteng, ZA, AF) unknown.vumatel.co.za                                                                               
+S&T (328829, 6939)  eastern-africa-submarine-system-eassy ✓ || seacomtata-tgn-eurasia ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.198.50  6939    73.129                      (Mombasa, 300, KE, AF) port-channel3.core1.mba1.he.net                                                                     
+S&T (6939)  seacomtata-tgn-eurasia ✓ || djibouti-africa-regional-express-1-dare1 ✓ || peace-cable ✘ || eastern-africa-submarine-system-eassy ✓
+├─ 184.105.64.14   6939    151.725                (Djibouti City, DJ, DJ, AF) 10ge4-6.core1.jib1.he.net                                                                           
+S (6939)  seamewe-5 ✓
+├─ 184.105.65.237  6939    231.051                     (Singapore, 4, SG, AS) 10ge3-19.core1.sin1.he.net                                                                          
+S (6939)  
+╰─ 184.104.189.46  6939    272.379                     (Dubai, Dubai, AE, AS) ve1002.core2.dxb1.he.net                                                                            
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   185.34.2.114    36236   279.3                       (Dubai, Dubai, AE, AS)                                                                                                     

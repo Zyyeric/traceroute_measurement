@@ -1,0 +1,11 @@
+   185.121.168.251 61138   0.0                  (Newmarket, Auckland, NZ, OC) nz-akl-as61138.anchors.atlas.ripe.net                                                               
+   10.0.0.1        *       0.173                                          ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 116.251.184.174 55850   114.852               (Auckland, Auckland, NZ, OC) et-0-2-1.atc-p-3.as55850.net                                                                        
+LHL (55850, 199524)  hawaiki ✘ ↠ new-cross-pacific-ncp-cable-system ✓ || hawaiki ✘ ↠ trans-pacific-express-tpe-cable-system ✓ || southern-cross-cable-network-sccn ✘ ↠ new-cross-pacific-ncp-cable-system ✓ || southern-cross-cable-network-sccn ✘ ↠ trans-pacific-express-tpe-cable-system ✓ || southern-cross-next ✘ ↠ new-cross-pacific-ncp-cable-system ✓ || southern-cross-next ✘ ↠ trans-pacific-express-tpe-cable-system ✓
+├─ 27.111.228.222  199524  116.175                   (Seogwipo, None, KR, AS) 199524.sgw.equinix.com                                                                              
+S (199524, 63199)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 92.223.117.7    63199   114.542                     (Central, HCW, HK, AS) *                                                                                                   
+S (63199, 199610)  
+╰─ 128.0.113.132   199610  115.114             (Singapore, Singapore, SG, AS)                                                                                                     

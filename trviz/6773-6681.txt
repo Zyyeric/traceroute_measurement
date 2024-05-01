@@ -1,0 +1,15 @@
+   103.77.105.3    133800  0.0                     (Jakarta, Jakarta, ID, AS) ip-3-105-77-103.jkt-1.biznetg.io                                                                    
+   ***             *       -inf                                           *** *                                                                                                   
+   137.59.127.33   *       0.389                   (Jakarta, Jakarta, ID, AS) xe-0-2.cr01.jkt.biznetg.io                                                                          
+   202.169.59.21   17451   1.396                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+╭─ 182.253.255.18  17451   1.146                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+S&T (17451)  australia-singapore-cable-asc ✓ || matrix-cable-system ✘ || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || indonesia-global-gateway-igg-system ✓ || indigo-west ✓ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || jasuka ✓
+╰─ 182.253.187.93  17451   12.163              (Singapore, Singapore, SG, AS)                                                                                                     
+   154.18.17.217   174     13.478              (Singapore, Singapore, SG, AS) hu0-1-0-0.201.rcr51.sin02.atlas.cogentco.com                                                        
+   154.54.89.205   174     13.363                      (Singapore, 4, SG, AS) be2270.ccr31.sin01.atlas.cogentco.com                                                               
+╭─ 154.54.140.74   3491    12.807                      (Singapore, 4, SG, AS) pccw.sin01.atlas.cogentco.com                                                                       
+S (3491)  eac-c2c ✓ || asia-pacific-gateway-apg ✓ || southeast-asia-japan-cable-sjc ✓ || asia-america-gateway-aag-cable-system ✓ || apcn-2 👍
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 63.223.193.193  3491    46.259                   (Hong Kong, None, HK, AS) TenG0-0-0-1.dcbr01.hkg39.pccwbtn.net                                                                
+   63.223.193.193  3491    46.259                   (Hong Kong, None, HK, AS) TenG0-0-0-1.dcbr01.hkg39.pccwbtn.net                                                                
+   63.222.7.46     3491    45.904              (Hong Kong, Hong Kong, HK, AS) 63-222-7-46.static.pccwglobal.net                                                                   

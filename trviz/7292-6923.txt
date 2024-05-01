@@ -1,0 +1,16 @@
+   103.151.64.31   140627  0.0                     (Hagåtña, Hagatna, GU, OC) atlas.guam.as140627.net                                                                             
+╭─ 103.151.64.30   140627  0.224                 (Piti Village, Piti, GU, OC) oq-guam-cor01--atlas-probe.as140627.net                                                             
+S (140627)  tata-tgn-pacific ✓ || guam-okinawa-kyushu-incheon-goki ✘ || japan-guam-australia-north-jga-n ✘
+├─ 103.151.64.205  140627  28.749                      (Tokyo, Tokyo, JP, AS) tokyo.routers.as140627.net                                                                          
+S (140627, 58453)  
+╰─ 223.119.80.5    58453   29.316              (Hong Kong, Hong Kong, HK, AS)                                                                                                     
+   223.118.4.242   58453   29.272                        (None, None, HK, AS) *                                                                                                   
+   223.118.4.114   58453   29.603                        (None, None, HK, AS) *                                                                                                   
+╭─ 223.118.2.238   58453   29.475                        (None, None, HK, AS) *                                                                                                   
+S (58453, 6939)  
+├─ 184.105.64.254  6939    133.871               (Tokyo / Narita, 12, JP, AS) 100ge16-2.core1.tyo1.he.net                                                                         
+S (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.220.67  6939    141.755             (Hong Kong, Hong Kong, HK, AS) lshiy.e0-30.switch1.hkg1.he.net                                                                     
+   103.203.243.11  955     144.302             (Hong Kong, Hong Kong, HK, AS) multi-user.port-channe17.switch1.hkg1.bb.lshiy.net                                                  
+   89.213.179.65   32167   144.321             (Hong Kong, Hong Kong, HK, AS) 89-213-179-65.ip.lshiyusercontent.com                                                               

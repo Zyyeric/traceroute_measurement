@@ -1,0 +1,18 @@
+   102.220.178.25  328829  0.0              (Cape Town, Western Cape, ZA, AF) unknown.vumatel.co.za                                                                               
+   102.220.178.30  328829  0.197            (Cape Town, Western Cape, ZA, AF) unknown.vumatel.co.za                                                                               
+   102.220.179.117 328829  0.732            (Cape Town, Western Cape, ZA, AF) unknown.vumatel.co.za                                                                               
+   102.220.178.117 328829  0.634            (Cape Town, Western Cape, ZA, AF) rnd-br1-sfp28-1-882.vumatel.co.za                                                                   
+   102.220.177.105 328829  22.245                (Diepsloot, Gauteng, ZA, AF) tri-br2-sfp2-834.vumatel.co.za                                                                      
+   102.220.177.114 328829  22.241                 (Pretoria, Gauteng, ZA, AF) tri-br1-sfp28-2-861.vumatel.co.za                                                                   
+╭─ 102.220.179.122 328829  31.976             (Johannesburg, Gauteng, ZA, AF) unknown.vumatel.co.za                                                                               
+S&T (328829, 6939)  eastern-africa-submarine-system-eassy ✓ || seacomtata-tgn-eurasia ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.198.50  6939    73.34                       (Mombasa, 300, KE, AF) port-channel3.core1.mba1.he.net                                                                     
+S&T (6939)  seacomtata-tgn-eurasia ✓ || djibouti-africa-regional-express-1-dare1 ✓ || peace-cable ✘ || eastern-africa-submarine-system-eassy ✓
+├─ 184.105.64.14   6939    151.65                 (Djibouti City, DJ, DJ, AF) 10ge4-6.core1.jib1.he.net                                                                           
+S (6939)  seamewe-5 ✓
+╰─ 184.105.65.237  6939    230.591                     (Singapore, 4, SG, AS) 10ge3-19.core1.sin1.he.net                                                                          
+╭─ 74.82.51.50     7642    272.012                     (Singapore, 4, SG, AS) dhivehi-raajjeyge-gulhan-plc.10gigabitethernet1-1-28.switch2.sin1.he.net                            
+S (7642)  
+╰─ 202.1.205.242   7642    274.403                       (None, None, MV, AS) xe-1-0-0-1.rt.dhivehinet.net.mv                                                                     
+   123.176.1.4     7642    274.208                (Male, Kaafu Atoll, MV, AS)                                                                                                     

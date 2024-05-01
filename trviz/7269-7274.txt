@@ -1,0 +1,36 @@
+   77.223.128.226  43391   0.0                (İzmir, İzmir Province, TR, AS)                                                                                                     
+   10.200.0.1      *       0.313                                          ***                                                                                                     
+   10.20.0.251     *       0.893                                          ***                                                                                                     
+   10.34.35.9      *       14.962                                         ***                                                                                                     
+   149.14.44.1     174     14.511                (Istanbul, Istanbul, TR, AS) te0-6-0-6.agr21.ist01.atlas.cogentco.com                                                            
+╭─ 154.54.74.205   174     14.746                (Istanbul, Istanbul, TR, AS) be3510.rcr71.ist01.atlas.cogentco.com                                                               
+S (174)  
+├─ 154.54.74.226   174     23.298                         (Lyon, ARA, FR, EU) be2881.rcr21.lys01.atlas.cogentco.com                                                               
+LHL (174)  
+├─ 130.117.0.94    174     28.505                       (Belgrade, 0, RS, EU) be3421.ccr51.beg03.atlas.cogentco.com                                                               
+T (174)  
+├─ 130.117.0.125   174     33.547                      (Budapest, PE, HU, EU) be3422.ccr31.bud01.atlas.cogentco.com                                                               
+T (174)  
+├─ 154.54.59.177   174     36.024                    (Bratislava, BL, SK, EU) be3263.ccr22.bts01.atlas.cogentco.com                                                               
+T (174)  
+├─ 154.54.59.185   174     39.808                         (Vienna, 9, AT, EU) be3463.ccr52.vie01.atlas.cogentco.com                                                               
+T (174)  
+╰─ 154.54.59.182   174     46.784                        (Munich, BY, DE, EU) be3462.ccr22.muc03.atlas.cogentco.com                                                               
+   154.54.36.253   174     50.798             (Frankfurt am Main, HE, DE, EU) be2960.ccr42.fra03.atlas.cogentco.com                                                               
+╭─ 130.117.15.86   6453    50.325             (Frankfurt am Main, HE, DE, EU) tata.fra03.atlas.cogentco.com                                                                       
+T (6453)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 80.231.153.169  6453    64.8                         (Paris, None, FR, EU) if-ae-55-4.tcore1.pye-paris.as6453.net                                                              
+   80.231.154.25   6453    65.692              (Paris, Île-de-France, FR, EU) if-bundle-13-2.qcore1.pye-paris.as6453.net                                                          
+╭─ 80.231.154.27   6453    64.175              (Paris, Île-de-France, FR, EU) if-bundle-2-2.qcore2.pye-paris.as6453.net                                                           
+S&T (6453)  
+╰─ 80.231.196.37   6453    63.661                   (London, England, GB, EU) if-bundle-13-2.qcore1.ldn-london.as6453.net                                                         
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 80.231.131.1    6453    63.877                      (London, None, GB, EU) if-ae-2-2.tcore2.l78-london.as6453.net                                                              
+S (6453)  
+╰─ 80.231.131.66   6453    185.298                       (Mumbai, MH, IN, AS) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   121.241.90.58   45117   192.617                    (Ahmedabad, GJ, IN, AS) 121.241.90.58.static-ahmedabad.vsnl.net.in                                                          
+   116.206.155.229 45117   193.659               (Ahmedabad, Gujarat, IN, AS)                                                                                                     

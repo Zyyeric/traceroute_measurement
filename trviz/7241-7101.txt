@@ -1,0 +1,18 @@
+   143.129.80.132  2611    0.0                  (Antwerpen, Flanders, BE, EU)                                                                                                     
+   143.129.80.130  2611    0.369                  (Berchem, Flanders, BE, EU)                                                                                                     
+   143.129.67.252  2611    0.932                  (Berchem, Flanders, BE, EU)                                                                                                     
+   192.168.141.40  *       1.642                                          ***                                                                                                     
+   192.168.148.101 *       2.528                                          ***                                                                                                     
+   193.191.18.9    2611    2.061                  (Berchem, Flanders, BE, EU) r1.antwil.belnet.net                                                                                
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 194.53.172.33   6939    4.289                    (Brussels, BRU, BE, None) he.bnix.net                                                                                         
+S&T (6939)  seamewe-3 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.105.81.30   6939    20.686                    (Marseille, PAC, FR, EU) port-channel4.core2.mrs1.he.net                                                                     
+S (6939)  asia-africa-europe-1-aae-1 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.199.181 6939    190.465             (Hong Kong, Hong Kong, HK, AS) port-channel9.core2.hkg1.he.net                                                                     
+╭─ 184.104.212.74  23944   216.063                  (Hong Kong, None, HK, AS) sky-cable-corporation.port-channel4.switch1.hkg1.he.net                                             
+S (23944)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 182.18.209.9    23944   205.272             (Manila, Metro Manila, PH, AS)                                                                                                     

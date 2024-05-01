@@ -1,0 +1,26 @@
+   192.168.0.130   *       0.0                                            ***                                                                                                     
+   192.168.0.1     *       0.151                                          ***                                                                                                     
+   172.16.254.1    *       0.226                                          ***                                                                                                     
+   192.168.1.1     *       0.647                                          ***                                                                                                     
+   10.98.238.18    *       0.536 (3.994)                                     ***                                                                                                     
+   10.0.0.170      *       7.324                                          ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 81.212.216.50   9121    5.381              (Sultanbeyli, Istanbul, TR, AS) 34-acibadem-xrs-t2-1---34-acibadem-sr12e-t3-8.statik.turktelekom.com.tr                             
+S&T (9121)  kafos ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 212.156.102.38  9121    63.749               (Zalău, Sălaj County, RO, EU) 302-ams-col-2---34-ebgp-acibadem-sr12e-k.statik.turktelekom.com.tr                                  
+LHL (9121, 1299)  circe-north ✓ || scylla ✘ || ulysses-2 ✘ || zeus ✓ || atlantic-crossing-1-ac-1 ✓ || concerto ✘ || farland-north ✘
+╰─ 213.248.75.222  1299    60.278          (Amsterdam, North Holland, NL, EU) adm-b3-link.ip.twelve99.net                                                                         
+╭─ 62.115.154.137  1299    59.585          (Amsterdam, North Holland, NL, EU) vodafonepeering-ic-338719.ip.twelve99-cust.net                                                      
+S&T (1299, 1273)  
+╰─ 195.2.27.45     1273    73.33                         (None, None, GB, EU) ae3.xcr2.fri.cw.net                                                                                 
+   195.2.30.154    1273    76.757                        (None, None, GB, EU) ae1-xcr1.bud.cw.net                                                                                 
+   195.2.31.182    1273    80.655                        (None, None, GB, EU) ae43-xcr1.sof.cw.net                                                                                
+╭─ 195.2.12.58     3329    85.54                         (None, None, GB, EU) vfgr1-vf-gw.sof.cw.net                                                                              
+S&T (3329)  
+╰─ 62.74.30.102    3329    91.992                         (Athens, I, GR, EU) *                                                                                                   
+   62.74.30.101    3329    84.353                         (Athens, I, GR, EU) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   62.74.226.30    12361   92.804                    (Athens, Attica, GR, EU) dumy30.panafonet.gr                                                                                 
+   ***             *       -inf                                           *** *                                                                                                   
+   139.91.68.3     8522    92.429                  (Irákleion, Crete, GR, EU)                                                                                                     

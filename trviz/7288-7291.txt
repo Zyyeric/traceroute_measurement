@@ -1,0 +1,13 @@
+   103.133.238.187 132808  0.0                 (Brisbane, Queensland, AU, OC) iptelco.com.au                                                                                      
+   103.133.238.130 132808  0.345               (Brisbane, Queensland, AU, OC) vmnet-hsrp66.bdr01-bne-br1.iptelco.net.au                                                           
+   103.17.223.161  58511   0.408               (Brisbane, Queensland, AU, OC) pe.as132808.as58511.net.223.17.103.in-addr.arpa                                                     
+   103.30.218.118  58511   103.587                       (None, None, AU, OC) et-0-0-6.cor101.ndcb1.au.as58511.net                                                                
+   103.30.218.137  58511   103.537                       (None, None, AU, OC) et-0-0-7.cor102.ndcb1.au.as58511.net                                                                
+   ***             *       -inf                                           *** *                                                                                                   
+   103.30.216.43   58511   104.059                       (None, None, AU, OC) po10-2.bdr1.ae1.au.as58511.net                                                                      
+╭─ 103.30.218.216  *       104.082       (The Rocks, New South Wales, AU, OC) hu0-0-0-31.cor101.ndcp1.au.as58511.net                                                              
+S (, 7713)  palapa-ring-east ✘
+╰─ 36.64.254.21    7713    123.05        (Gubengairlangga, East Java, ID, AS)                                                                                                     
+   36.64.254.22    7713    122.734                   (Denpasar, Bali, ID, AS)                                                                                                     
+   103.215.228.2   140443  122.735              (Surabaya, East Java, ID, AS) 2.228.215.103.in-addr.herza.id                                                                      
+   103.215.229.229 140443  122.854              (Surabaya, East Java, ID, AS) 229.229.215.103.in-addr.herza.id                                                                    

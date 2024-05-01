@@ -1,0 +1,14 @@
+   103.133.238.187 132808  0.0                 (Brisbane, Queensland, AU, OC) iptelco.com.au                                                                                      
+   103.133.238.130 132808  0.235               (Brisbane, Queensland, AU, OC) vmnet-hsrp66.bdr01-bne-br1.iptelco.net.au                                                           
+   103.133.238.14  132808  0.765               (Brisbane, Queensland, AU, OC) te0-0-0-402.bdr01-bne-br1.iptelco.net.au                                                            
+   184.104.197.182 6939    13.93                      (Brisbane, QLD, AU, OC) port-channel1.core1.bne1.he.net                                                                     
+   103.26.68.236   *       13.133           (Sydney, New South Wales, AU, OC) as6939.sydney.megaport.com                                                                          
+╭─ 184.105.65.223  6939    59.099          (Perth, Western Australia, AU, OC) 100ge0-32.core1.per1.he.net                                                                         
+S (6939, 131111)  seamewe-3 ✓ || indigo-west ✓ || australia-singapore-cable-asc ©
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 65.49.108.46    131111  105.26                      (Singapore, 4, SG, AS) moratel-international-pte-ltd.10gigabitethernet3-13.core1.sin1.he.net                               
+S&T (131111, )  australia-singapore-cable-asc ✘ || indigo-west ✘ || indonesia-global-gateway-igg-system ✓ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || seamewe-3 ✘ || matrix-cable-system ✘ || jasuka ✓ || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || jakabare ✘
+╰─ 103.111.193.61  *       127.687           (Yogyakarta, Yogyakarta, ID, AS)                                                                                                     
+   202.152.153.9   23951   127.159                      (Babadan, JT, ID, AS) 202-152-153-9.as23951.net                                                                           
+   202.152.129.74  23951   127.262           (Yogyakarta, Yogyakarta, ID, AS) 202-152-129-74.citra.net.id                                                                         

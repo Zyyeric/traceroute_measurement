@@ -1,0 +1,23 @@
+   77.223.128.226  43391   0.0                (İzmir, İzmir Province, TR, AS)                                                                                                     
+   10.200.0.1      *       0.339                                          ***                                                                                                     
+   10.20.0.251     *       0.937                                          ***                                                                                                     
+   10.34.35.9      *       14.717                                         ***                                                                                                     
+   149.14.44.1     174     14.479                (Istanbul, Istanbul, TR, AS) te0-6-0-6.agr21.ist01.atlas.cogentco.com                                                            
+╭─ 154.54.74.205   174     14.84                 (Istanbul, Istanbul, TR, AS) be3510.rcr71.ist01.atlas.cogentco.com                                                               
+S (174)  
+├─ 154.54.74.226   174     23.486                         (Lyon, ARA, FR, EU) be2881.rcr21.lys01.atlas.cogentco.com                                                               
+LHL (174)  
+├─ 130.117.0.94    174     28.419                       (Belgrade, 0, RS, EU) be3421.ccr51.beg03.atlas.cogentco.com                                                               
+T (174)  
+╰─ 130.117.0.125   174     33.914                      (Budapest, PE, HU, EU) be3422.ccr31.bud01.atlas.cogentco.com                                                               
+╭─ 130.117.1.14    174     33.746                      (Budapest, PE, HU, EU) be2246.rcr51.b020664-1.bud01.atlas.cogentco.com                                                     
+LHL (174, 21320)  
+├─ 149.6.182.114   21320   33.662         (Le Pre-Saint-Gervais, IDF, FR, EU) *                                                                                                   
+T (21320, 20965)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 62.40.98.8      20965   48.494              (Sofia, Sofia-Capital, BG, EU) ae0.rt1.sof.bg.geant.net                                                                            
+╭─ 83.97.88.102    21320   51.92                          (Sofia, 23, BG, EU) marnet-ias-gw.mx1.sof.bg.geant.net                                                                  
+T (21320, 5379)  
+╰─ 194.149.130.89  5379    51.868               (Skopje, Grad Skopje, MK, EU)                                                                                                     
+   194.149.137.75  5379    53.241                        (None, None, MK, EU) *                                                                                                   
+   194.149.138.252 5379    52.306               (Skopje, Grad Skopje, MK, EU)                                                                                                     

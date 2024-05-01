@@ -1,0 +1,23 @@
+   102.222.106.178 328699  0.0               (Port Louis, Port Louis, MU, AF)                                                                                                     
+   102.222.106.1   328699  0.14              (Ebene, Plaines Wilhems, MU, AF)                                                                                                     
+╭─ 196.46.49.33    36868   0.308             (Ebene, Plaines Wilhems, MU, AF)                                                                                                     
+S (36868, 6939)  meltingpot-indianoceanic-submarine-system-metiss ✘ || safe ✓
+╰─ 196.46.34.109   6939    43.813                  (Johannesburg, GT, ZA, AF) *                                                                                                   
+   196.60.8.42     6939    44.279                 (Johannesburg, 6, ZA, None) he.ixp.joburg                                                                                       
+╭─ 184.105.223.210 6939    63.202                     (Cape Town, WC, ZA, AF) 100ge0-34.core1.cpt1.he.net                                                                         
+T (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.195.97  6939    201.561                      (London, ENG, GB, EU) 100ge0-35.core2.lon3.he.net                                                                         
+S&T (6939)  circe-north ✓ || scylla ✓ || ulysses-2 ✘ || zeus ✓ || concerto ✓ || farland-north ✘
+╰─ 184.104.193.194 6939    208.826                    (Amsterdam, NH, NL, EU) 100ge0-33.core2.ams2.he.net                                                                         
+   184.104.198.2   6939    207.348                    (Amsterdam, NH, NL, EU) port-channel5.core1.ams7.he.net                                                                     
+╭─ 184.104.197.126 6939    207.049         (Amsterdam, North Holland, NL, EU) port-channel1.core2.ams7.he.net                                                                     
+S (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.105.81.141  6939    227.962                      (Ashburn, VA, US, NA) port-channel10.core3.ash1.he.net                                                                    
+S (6939, 56655)  
+╰─ 185.125.170.251 56655   228.653                       (Oslo, Oslo, NO, EU)                                                                                                     
+   185.125.170.252 56655   228.579                       (Oslo, Oslo, NO, EU)                                                                                                     
+   185.125.170.47  56655   229.174                       (Oslo, Oslo, NO, EU)                                                                                                     
+   185.14.97.165   56655   380.388                       (Oslo, Oslo, NO, EU)                                                                                                     
+   185.14.97.165   56655   380.388                       (Oslo, Oslo, NO, EU)                                                                                                     

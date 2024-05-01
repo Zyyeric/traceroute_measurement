@@ -1,0 +1,17 @@
+   96.126.70.90    21659   0.0               (Moncton, New Brunswick, CA, NA) 96-126-70-90.apbx.ca                                                                                
+   96.126.70.1     21659   0.55              (Moncton, New Brunswick, CA, NA) 96-126-70-1.apbx.ca                                                                                 
+   98.143.249.17   3367    1.267             (Moncton, New Brunswick, CA, NA) enova-98-143-249-17.e-novations.ca                                                                  
+╭─ 209.51.184.133  6939    1.205             (Moncton, New Brunswick, CA, NA) port-channel2.core2.yqm1.he.net                                                                     
+S&T (6939)  exa-north-and-south ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 72.52.92.9      6939    12.092             (Boston, Massachusetts, US, NA) 100ge0-78.core2.bos1.he.net                                                                         
+   184.104.194.86  6939    17.723           (New York City, New York, US, NA) 100ge0-17.core2.nyc4.he.net                                                                         
+   184.105.64.178  6939    17.418                      (New York, NY, US, NA) ve951.core2.nyc6.he.net                                                                             
+╭─ 206.82.104.6    *       17.886           (New York City, New York, US, NA) xe-2-2-0-0.nyk3nqp2.us.ip.tdc.net                                                                   
+S (, 3292)  atlantic-crossing-1-ac-1 ✘ || havfrueaec-2 ✘
+╰─ 83.88.3.254     3292    105.021                       (None, None, DK, EU) ae2-0.sdnqe11.dk.ip.tdc.net                                                                         
+   93.167.247.106  3292    105.226        (Stilling, Central Jutland, DK, EU) cpe.et-3-3-0-100.sdnqe11.dk.customer.tdc.net                                                        
+   80.70.0.252     48854   105.229        (Stilling, Central Jutland, DK, EU)                                                                                                     
+   80.70.0.255     48854   105.36        (Tranbjerg, Central Jutland, DK, EU)                                                                                                     
+   212.237.248.21  48854   105.532                  (Skanderborg, 82, DK, EU) *                                                                                                   
+   185.221.36.2    48854   105.312       (Tranbjerg, Central Jutland, DK, EU) dk-skg-as48854.anchors.atlas.ripe.net                                                               

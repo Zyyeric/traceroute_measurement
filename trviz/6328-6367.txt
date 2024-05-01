@@ -1,0 +1,18 @@
+   152.195.112.52  15133   0.0                         (Tokyo, Tokyo, JP, AS)                                                                                                     
+╭─ 152.195.112.49  15133   0.988                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+S (15133, 174)  apcn-2 ✓ || korea-japan-cable-network-kjcn ✓ || eac-c2c ✓ || asia-pacific-gateway-apg ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 154.54.89.198   174     61.025                      (Seoul, Seoul, KR, AS) be3010.ccr71.sel01.atlas.cogentco.com                                                               
+╭─ 154.54.93.182   174     61.168                      (Seoul, Seoul, KR, AS) be4409.ccr72.sel01.atlas.cogentco.com                                                               
+S (174)  
+├─ 154.54.30.206   174     60.99                    (Hong Kong, None, HK, AS) be2223.ccr21.hkg02.atlas.cogentco.com                                                               
+S (174)  
+├─ 154.54.6.25     174     243.215                   (Marseille, PAC, FR, EU) be2900.ccr32.mrs02.atlas.cogentco.com                                                               
+S&T (174)  
+╰─ 154.54.72.77    174     284.693                      (Valencia, V, ES, EU) be2776.ccr31.vlc02.atlas.cogentco.com                                                               
+╭─ 154.54.58.138   174     284.791                      (Sevilla, AN, ES, EU) be3239.rcr21.svq01.atlas.cogentco.com                                                               
+S&T (174)  
+╰─ 130.117.1.22    174     284.908                       (Lisbon, 11, PT, EU) be2447.rcr21.lis01.atlas.cogentco.com                                                               
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   185.32.189.249  62416   284.604                 (Odivelas, Lisbon, PT, EU) pt-lis-as62416.anchors.atlas.ripe.net                                                               

@@ -1,0 +1,23 @@
+   196.49.14.25    30997   0.0                 (Accra, Greater Accra, GH, AF)                                                                                                     
+   196.49.14.1     30997   0.28                (Accra, Greater Accra, GH, AF)                                                                                                     
+╭─ 197.221.70.89   *       0.903               (Accra, Greater Accra, GH, AF)                                                                                                     
+S&T (, 3741)  
+╰─ 196.14.240.4    3741    0.834                         (None, None, ZA, AF) *                                                                                                   
+╭─ 168.209.160.109 3741    255.788                       (None, None, ZA, AF) *                                                                                                   
+T (3741)  
+╰─ 168.209.160.108 3741    257.971                  (London, England, GB, EU)                                                                                                     
+╭─ 168.209.246.3   3741    256.323                     (London, None, GB, EU) core2b-dock-be-1.ip.ddii.network                                                                    
+T (3741)  
+├─ 168.209.246.65  3741    256.98                        (None, None, ZA, AF) core1b-dock-be-2.ip.ddii.network                                                                    
+T (3741, 3303)  
+├─ 195.66.224.110  3303    207.599                    (London, ENG, GB, None) lon-0150t202.ip-plus.net                                                                            
+T (3303)  
+├─ 138.187.129.140 3303    206.115                       (None, None, CH, EU) i62bsw-015-ae4.bb.ip-plus.net                                                                       
+T (3303)  
+╰─ 138.187.129.99  3303    213.543                       (Paris, IDF, FR, EU) i00par-005-ae0.bb.ip-plus.net                                                                       
+   ***             *       -inf                                           *** *                                                                                                   
+   193.164.153.207 34019   269.792                       (None, None, FR, EU) ae0-3000-rt2-th2-j.bb.hivane.net                                                                    
+   193.201.149.156 *       197.256       (Saint-Denis, Île-de-France, FR, EU) as204092.fnc-ix.net                                                                                 
+   89.234.186.43   204092  209.851                       (None, None, FR, EU) eth1.33.asbr02.cogent-rns.grifon.fr                                                                 
+   89.234.186.42   204092  210.082                 (Rennes, Brittany, FR, EU) hv03.cogent-rns.bb.grifon.fr                                                                        
+   80.67.190.218   204092  210.243                 (Rennes, Brittany, FR, EU) ripe-anchor.grifon.fr                                                                               

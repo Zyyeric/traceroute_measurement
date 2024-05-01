@@ -1,0 +1,18 @@
+   185.32.189.249  62416   0.0                     (Odivelas, Lisbon, PT, EU) pt-lis-as62416.anchors.atlas.ripe.net                                                               
+   185.32.188.254  62416   0.226 (6.435)           (Prior Velho, Lisbon, PT, EU) powered.by.ptservidor.pt                                                                            
+   185.222.11.3    62416   0.452                (Prior Velho, Lisbon, PT, EU) core.br01.lis1.ptservidor.net                                                                       
+╭─ 193.109.188.6   47787   0.508                (Prior Velho, Lisbon, PT, EU)                                                                                                     
+S&T (47787)  seamewe-3 ✓
+├─ 193.163.151.208 47787   10.46                          (Madrid, M, ES, EU) cr1.mad2.edgoo.net                                                                                  
+T (47787, 20965)  
+├─ 185.1.192.126   20965   9.636                         (None, None, DE, EU) de-cix.mad.geant.org                                                                                
+T (20965)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 62.40.98.151    20965   52.716                        (Athens, A1, GR, EU) ae3.mx2.ath.gr.geant.net                                                                            
+╭─ 83.97.88.70     5408    54.336                        (Athens, A1, GR, EU) grnet-ias-grnet-gw.mx2.ath.gr.geant.net                                                             
+LHL (5408, 8522)  
+├─ 62.217.98.49    8522    59.364                    (Hannover, None, DE, EU) forth-her-4.eier.access-link.grnet.gr                                                               
+T (8522)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 139.91.68.3     8522    59.574                  (Irákleion, Crete, GR, EU)                                                                                                     

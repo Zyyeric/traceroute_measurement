@@ -1,0 +1,24 @@
+╭─ 196.49.84.188   328913  0.0                     (Douala, Littoral, CM, AF) cm-dla-as328913.anchors.atlas.ripe.net                                                              
+S (328913)  
+╰─ 196.49.84.177   328913  0.961                   (Abidjan, Abidjan, CI, AF)                                                                                                     
+╭─ 196.49.84.34    328913  1.216                   (Abidjan, Abidjan, CI, AF) bdr2.std.douala-ix.net                                                                              
+S&T (328913, )  
+├─ 196.60.84.61    *       1.598                   (Douala, Littoral, CM, AF) as328840.member.std.douala-ix.net                                                                   
+S (, 60171)  
+├─ 102.219.44.42   60171   1.714                       (Lagos, Lagos, NG, AF)                                                                                                     
+S (60171)  
+├─ 185.10.164.44   60171   268.725             (Barcelona, Catalonia, ES, EU)                                                                                                     
+S (60171)  
+├─ 102.223.52.72   60171   269.328                     (Lagos, Lagos, NG, AF)                                                                                                     
+S (60171)  
+╰─ 185.10.164.33   60171   269.543             (Barcelona, Catalonia, ES, EU)                                                                                                     
+╭─ 185.10.164.134  60171   269.152             (Barcelona, Catalonia, ES, EU)                                                                                                     
+S&T (60171, 37542)  
+├─ 185.10.164.112  37542   272.015                      (London, ENG, GB, EU) *                                                                                                   
+S&T (37542, 60171)  
+╰─ 185.10.164.98   60171   271.972             (Barcelona, Catalonia, ES, EU)                                                                                                     
+╭─ 185.35.142.61   60171   271.707                       (None, None, ES, EU) *                                                                                                   
+S&T (60171, 15826)  
+╰─ 37.49.237.14    15826   281.552                       (Paris, IDF, FR, EU) nfrance.par.franceix.net                                                                            
+   ***             *       -inf                                           *** *                                                                                                   
+   80.247.237.225  15826   280.092   (Ramonville-Saint-Agne, Occitanie, FR, EU) ancre-atlas.nfrance.com                                                                             

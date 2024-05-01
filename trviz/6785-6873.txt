@@ -1,0 +1,18 @@
+   193.50.97.164   2200    0.0                   (Plouzané, Brittany, FR, EU) anchor.netlab.enstb.org                                                                             
+   ***             *       -inf                                           *** *                                                                                                   
+   192.108.116.201 50897   0.824                 (Plouzané, Brittany, FR, EU) asr-vlan39.enst-bretagne.fr                                                                         
+   193.51.188.10   2200    7.296             (Saint-Brieuc, Brittany, FR, EU) vl807-pc1-brest1-rtr-021.noc.renater.fr                                                             
+   193.51.177.174  2200    12.369              (Paris, Île-de-France, FR, EU) et-5-2-1-ren-nr-paris1-rtr-131.noc.renater.fr                                                       
+   77.67.123.205   3257    12.372                        (Paris, IDF, FR, EU) ae7-81.cr4-par7.ip4.gtt.net                                                                         
+   89.149.185.170  3257    13.082                        (Paris, IDF, FR, EU) et-0-0-13.cr4-par9.ip4.gtt.net                                                                      
+   80.231.44.2     6453    12.798              (Paris, Île-de-France, FR, EU) ix-be-28.ecore1.pye-paris.as6453.net                                                                
+   80.231.154.34   6453    156.148             (Paris, Île-de-France, FR, EU) if-bundle-45-2.qcore1.pye-paris.as6453.net                                                          
+╭─ 80.231.154.33   6453    155.062   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) if-bundle-15-2.qcore1.emrs2-marseille.as6453.net                                                    
+S (6453)  
+├─ 195.219.174.17  6453    158.776              (Mumbai, Maharashtra, IN, AS) if-ae-6-2.tcore1.mlv-mumbai.as6453.net                                                              
+S (6453, 132884)  
+╰─ 103.26.244.17   132884  165.087           (Paltan, Dhaka Division, BD, AS) 103.26.244.17.summitgw.net                                                                          
+   103.26.244.2    58717   174.591                       (None, None, BD, AS) *                                                                                                   
+   157.119.185.169 58717   170.517                         (Dhaka, C, BD, AS) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   103.15.246.16   58717   188.591                     (Dhaka, Dhaka, BD, AS)                                                                                                     

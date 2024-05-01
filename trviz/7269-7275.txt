@@ -1,0 +1,16 @@
+   180.211.88.22   45725   0.0                     (Jakarta, Jakarta, ID, AS) id-jkt-as45725.anchors.atlas.ripe.net                                                               
+   180.211.88.21   45725   0.292                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+╭─ 43.230.153.89   *       0.436                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+S&T (, 9002)  australia-singapore-cable-asc ✘ || matrix-cable-system ✘ || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || indonesia-global-gateway-igg-system ✘ || seamewe-3 ✘ || indigo-west ✘ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || jasuka ✘ || jakabare ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├  10.110.1.0      *       12.408                                         ***                                                                                                     
+╰─ 87.245.238.250  9002    12.677                      (Singapore, 4, SG, AS) ae0-302.RT1.EQX.SIN.SG.retn.net                                                                     
+   180.87.54.66    6453    12.768              (Singapore, Singapore, SG, AS) ix-be-20.ecore4.esin4-singapore.as6453.net                                                          
+   180.87.108.80   6453    13.338              (Singapore, Singapore, SG, AS) if-be-18-2.ecore2.esin4-singapore.as6453.net                                                        
+   ***             *       -inf                                           *** *                                                                                                   
+   209.58.82.130   6453    13.297              (Singapore, Singapore, SG, AS) if-ae-33-2.tcore1.svw-singapore.as6453.net                                                          
+╭─ 180.87.12.34    6453    74.404                        (None, None, SG, AS) *                                                                                                   
+S&T (6453, 45117)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 121.241.90.58   45117   83.549                     (Ahmedabad, GJ, IN, AS) 121.241.90.58.static-ahmedabad.vsnl.net.in                                                          
+   116.206.155.229 45117   84.877                (Ahmedabad, Gujarat, IN, AS)                                                                                                     

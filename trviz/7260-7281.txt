@@ -1,0 +1,17 @@
+   77.92.233.166   35805   0.0                     (Tbilisi, Tbilisi, GE, AS)                                                                                                     
+   77.92.233.165   35805   0.398                   (Tbilisi, Tbilisi, GE, AS)                                                                                                     
+   188.123.128.85  35805   0.71                    (Tbilisi, Tbilisi, GE, AS) 188-123-128-85.dsl.utg.ge                                                                           
+   188.123.128.96  35805   0.845                   (Tbilisi, Tbilisi, GE, AS) 188-123-128-96.dsl.utg.ge                                                                           
+╭─ 178.134.240.220 35805   0.912                   (Tbilisi, Tbilisi, GE, AS)                                                                                                     
+T (35805, 3356)  
+├─ 213.249.104.57  3356    19.289                    (Ankara, Ankara, TR, AS) et-0-0-25.edge1.malikoy2.level3.net                                                                 
+S&T (3356, 174)  kafos ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 154.54.38.246   174     62.211                      (Bucharest, B, RO, EU) be3262.ccr31.buh01.atlas.cogentco.com                                                               
+╭─ 154.54.63.246   174     65.469                     (Constanta, CT, RO, EU) te0-0-2-2.rcr11.cnd01.atlas.cogentco.com                                                            
+S&T (174)  
+╰─ 130.117.2.53    174     68.126                          (Varna, 3, BG, EU) te0-0-1-0.rcr11.var01.atlas.cogentco.com                                                            
+   77.71.113.2     57619   56.012                        (None, None, BG, EU) ns2.varnadatacenter.net                                                                             
+   77.71.113.143   57619   56.093                      (Varna, Varna, BG, EU) ip-143-113-71-77.varnadatacenter.net                                                                
+   185.184.62.4    213093  56.299                      (Varna, Varna, BG, EU)                                                                                                     

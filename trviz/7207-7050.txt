@@ -1,0 +1,27 @@
+╭─ 196.49.84.188   328913  0.0                     (Douala, Littoral, CM, AF) cm-dla-as328913.anchors.atlas.ripe.net                                                              
+S (328913)  
+╰─ 196.49.84.177   328913  0.389                   (Abidjan, Abidjan, CI, AF)                                                                                                     
+╭─ 196.49.84.34    328913  1.026                   (Abidjan, Abidjan, CI, AF) bdr2.std.douala-ix.net                                                                              
+S&T (328913, 60171)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 102.219.44.42   60171   1.43                        (Lagos, Lagos, NG, AF)                                                                                                     
+S (60171)  
+├─ 185.10.164.44   60171   237.249             (Barcelona, Catalonia, ES, EU)                                                                                                     
+S (60171)  
+├─ 102.223.52.72   60171   237.769                     (Lagos, Lagos, NG, AF)                                                                                                     
+S (60171)  
+╰─ 185.10.164.33   60171   237.561             (Barcelona, Catalonia, ES, EU)                                                                                                     
+╭─ 185.10.164.134  60171   237.287             (Barcelona, Catalonia, ES, EU)                                                                                                     
+S&T (60171, 37542)  
+├─ 185.10.164.112  37542   241.169                      (London, ENG, GB, EU) *                                                                                                   
+S&T (37542, 60171)  
+├─ 185.10.164.98   60171   239.874             (Barcelona, Catalonia, ES, EU)                                                                                                     
+S (60171, 6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.188.210 6939    351.009          (Cape Town, Western Cape, ZA, AF) 100ge0-33.core1.cpt1.he.net                                                                         
+   184.105.223.209 6939    371.68                  (Johannesburg, GT, ZA, AF) 100ge0-36.core2.jnb1.he.net                                                                         
+╭─ 196.60.8.228    6939    371.125                 (Johannesburg, GT, ZA, AF) adbn.ixp.joburg                                                                                     
+S (6939, 36868)  
+╰─ 196.46.34.108   36868   411.125                       (None, None, MU, AF) *                                                                                                   
+   196.46.49.34    36868   411.039   (Quatre Bornes, Plaines Wilhems, MU, AF)                                                                                                     
+   102.222.106.178 328699  414.573           (Port Louis, Port Louis, MU, AF)                                                                                                     

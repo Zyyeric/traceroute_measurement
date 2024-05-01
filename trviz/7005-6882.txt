@@ -1,0 +1,22 @@
+   196.6.220.42    37578   0.0              (Nairobi, Nairobi County, KE, AF)                                                                                                     
+   196.6.220.1     37578   0.51             (Nairobi, Nairobi County, KE, AF)                                                                                                     
+   197.155.93.66   30844   0.992            (Nairobi, Nairobi County, KE, AF) 197.155.93.66.liquidtelecom.net                                                                     
+   197.155.94.50   30844   175.343                    (Nairobi, None, KE, AF) hu-0-4-0-2.lke-p2-nbi.liquidtelecom.net                                                             
+╭─ 197.155.94.189  30844   175.254                      (Nairobi, 30, KE, AF) et-1-1-10.lke-p2-msa.liquidtelecom.net                                                              
+S (30844)  
+├─ 5.11.9.126      30844   192.653                  (Marseille, None, FR, EU) 5.11.9.126.liquidtelecom.net                                                                        
+S&T (30844)  
+╰─ 5.11.13.108     30844   192.903                  (London, England, GB, EU) hu-0-0-0-12.luk-p2-tho.liquidtelecom.com                                                            
+   5.11.13.45      30844   192.26                   (London, England, GB, EU) et-0-0-0.0.luk-pr3-tho.liquidtelecom.net                                                            
+╭─ 195.66.225.227  31133   193.363                    (London, ENG, GB, None) *                                                                                                   
+S&T (31133, 6461)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 64.125.29.87    6461    200.078                       (Paris, IDF, FR, EU) ae1.mcs1.cdg12.fr.eth.zayo.com                                                                      
+╭─ 79.141.38.181   6461    165.364             (Paris, Île-de-France, FR, EU) 79.141.38.181.idia-344160-zyo.zip.zayo.com                                                          
+S&T (6461, 6696)  
+╰─ 62.112.29.168   6696    173.735                   (Brussels, None, BE, EU) edg01.lcldg.bra.be.verixi.net                                                                       
+   62.112.29.165   6696    174.102                       (None, None, BE, EU) edg01.blutw.bra.be.verixi.net                                                                       
+   80.67.181.1     204059  173.166                    (Brussels, BRU, BE, EU) edge-01.louise.neutri.net                                                                           
+   80.67.181.18    204059  173.268       (Brussels, Brussels Capital, BE, EU) core-01.louise.neutri.net                                                                           
+   80.67.181.29    204059  173.961       (Brussels, Brussels Capital, BE, EU) be-bru-as204059.anchors.atlas.ripe.net                                                              

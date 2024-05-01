@@ -1,0 +1,16 @@
+   185.78.49.100   201333  0.0             (Piacenza, Emilia-Romagna, IT, EU) it-pcz-as201333.anchors.atlas.ripe.net                                                              
+   185.78.49.5     201333  0.497            (Gerbido, Emilia-Romagna, IT, EU) lf01b5-vlan902.pia1.naquadria.net                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   185.78.48.20    201333  1.648                    (Milan, Lombardy, IT, EU) ens2f4-r01.mil1d.naquadria.net                                                                      
+╭─ 195.22.196.120  6762    2.511            (Gerbido, Emilia-Romagna, IT, EU) et0-0-2-0.milano81.mil.seabone.net                                                                  
+S&T (6762)  
+╰─ 213.144.170.115 6762    9.006     (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) ae42.marsiglia3.mar.seabone.net                                                                     
+   213.144.176.179 30844   26.373                   (Marseille, None, FR, EU) liquid-telecom.marsiglia3.mar.seabone.net                                                           
+╭─ 5.11.13.115     30844   28.119    (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) te0-0-0-23.lfr-p1-mrs.liquidtelecom.com                                                             
+S&T (30844)  seamewe-3 ✓
+├─ 217.15.112.225  30844   155.544                      (London, ENG, GB, EU) xe-0-1-1-1.ltz-p1-sea.liquidtelecom.net                                                             
+LHL (30844)  europe-india-gateway-eig ✓ ↠ peace-cable ✘ || europe-india-gateway-eig ✓ ↠ seacomtata-tgn-eurasia ✓ || seamewe-3 ✓ ↠ peace-cable ✘ || flag-europe-asia-fea ✓ ↠ peace-cable ✘ || seamewe-3 ✓ ↠ seacomtata-tgn-eurasia ✓ || flag-europe-asia-fea ✓ ↠ seacomtata-tgn-eurasia ✓
+╰─ 197.155.94.8    30844   172.898                    (Nairobi, None, KE, AF) hu-0-2-0-2.lke-p1-nbi.liquidtelecom.net                                                             
+   197.155.94.47   30844   172.924                    (Nairobi, None, KE, AF) xe-0-1-0-0.lke-pe3-nbi.liquidtelecom.net                                                            
+   197.155.93.65   37578   173.02                       (Nairobi, 30, KE, AF) 197.155.93.65.liquidtelecom.net                                                                     
+   196.6.220.42    37578   173.467          (Nairobi, Nairobi County, KE, AF)                                                                                                     

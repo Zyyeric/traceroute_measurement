@@ -1,0 +1,18 @@
+   37.143.141.141  196745  0.0                       (Poole, England, GB, EU) atlas.datacenta.net                                                                                 
+   172.22.10.219   *       0.318                                          ***                                                                                                     
+   37.143.136.253  196745  1.026               (Bournemouth, England, GB, EU)                                                                                                     
+╭─ 193.251.248.53  5511    4.967                    (London, England, GB, EU)                                                                                                     
+S&T (5511, 4637)  
+├─ 193.251.248.0   4637    4.99                          (None, None, FR, EU) *                                                                                                   
+S&T (4637, 1299)  
+├─ 62.115.122.180  1299    5.191            (City of London, England, GB, EU) ldn-bb2-link.ip.twelve99.net                                                                        
+S (1299)  
+╰─ 62.115.112.244  1299    74.549           (New York City, New York, US, NA) nyk-bb1-link.ip.twelve99.net                                                                        
+╭─ 62.115.141.244  1299    81.128                 (Ashburn, Virginia, US, NA) rest-bb1-link.ip.twelve99.net                                                                       
+LHL (1299)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 213.248.82.249  1299    157.309             (Stockholm, Stockholm, SE, EU) angolacables-ic-357090.ip.twelve99-cust.net                                                         
+LHL (1299, 266152)  seamewe-3 ✓ ↠ ellalink ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 45.6.36.173     266152  196.867          (Campina Grande, Paraíba, BR, SA) 45.6.36.173.pjmfibra.com.br                                                                         

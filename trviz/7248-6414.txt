@@ -1,0 +1,12 @@
+   185.126.112.18  3236    0.0                      (Kyiv, Kyiv City, UA, EU)                                                                                                     
+   185.126.112.1   3236    0.772                    (Kyiv, Kyiv City, UA, EU) gw-e95.rr.omnilance.com                                                                             
+   185.13.250.73   61297   1.103                    (Kyiv, Kyiv City, UA, EU)                                                                                                     
+╭─ 193.111.51.246  1820    0.879                    (Kyiv, Kyiv City, UA, EU) v107.kie-452-sw.kv.wnet.ua                                                                          
+LHL (1820, 20764)  baltica ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 80.81.193.166   20764   50.664            (Frankfurt am Main, 5, DE, None) de-cix-fra-gw.rascom.as20764.net                                                                    
+S (20764)  c-lion1 ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 81.27.251.65    20764   89.155                 (Helsinki, Uusimaa, FI, EU) tbs-cl9-cr1.lt-0-0-0-0.rascom.as20764.net                                                           
+LHL (20764, 198150)  georgia-russia ✓
+╰─ 46.8.37.34      198150  89.183                  (Tbilisi, Tbilisi, GE, AS) ge-tbs-as198150.anchors.atlas.ripe.net                                                              

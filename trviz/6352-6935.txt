@@ -1,0 +1,20 @@
+   102.130.49.144  328383  0.0                (Johannesburg, Gauteng, ZA, AF) za-jnb-as57695.anchors.atlas.ripe.net                                                               
+   ***             *       -inf                                           *** *                                                                                                   
+   102.130.49.3    328383  0.19               (Johannesburg, Gauteng, ZA, AF) spine2.v271.jnb01.za.misaka.io                                                                      
+╭─ 102.130.51.6    *       0.184              (Johannesburg, Gauteng, ZA, AF) e54-1-20.cr2a.tdjb1.jnb1.za.917.as                                                                  
+LHL (, 969)  africa-coast-to-europe-ace ✘ ↠ apollo ✘ || africa-coast-to-europe-ace ✘ ↠ flag-atlantic-1-fa-1 ✘
+├─ 199.119.64.250  969     0.195                    (Dover, Delaware, US, NA) po100.cr1a.tdjb1.jnb1.za.917.as                                                                     
+LHL (969, 60068)  apollo ✘ || flag-atlantic-1-fa-1 ✘
+├─ 37.19.193.192   60068   0.281                     (Prague, Prague, CZ, EU) p77-3503.cr1a.tdjb1.jnb1.za.917.as                                                                  
+LHL (60068, 37468)  
+├─ 102.130.70.57   37468   0.388              (Johannesburg, Gauteng, ZA, AF)                                                                                                     
+S&T (37468)  africa-coast-to-europe-ace ✓ ↠ apollo ✘ ↠ apollo ✘ || africa-coast-to-europe-ace ✓ ↠ apollo ✘ ↠ flag-atlantic-1-fa-1 ✘ || africa-coast-to-europe-ace ✓ ↠ flag-atlantic-1-fa-1 ✘ ↠ apollo ✘ || africa-coast-to-europe-ace ✓ ↠ flag-atlantic-1-fa-1 ✘ ↠ flag-atlantic-1-fa-1 ✘
+├─ 102.130.68.112  37468   15.949                        (None, None, AO, AF) *                                                                                                   
+S (37468)  west-africa-cable-system-wacs 👍 || sat-3wasc ✓
+╰─ 102.130.68.69   37468   127.514                   (Lisbon, Lisbon, PT, EU)                                                                                                     
+╭─ 193.136.250.35  766     220.435                     (Lisbon, 14, PT, None) REDIRIS.AS766.gigapix.pt                                                                            
+S&T (766)  
+╰─ 130.206.245.34  766     224.679                       (None, None, ES, EU) cica.rt2.ethtrunk4.uv.rt2.val.red.rediris.es                                                        
+   130.206.245.90  766     224.007                       (None, None, ES, EU) uv.rt2.ae3-322.telmad.rt4.mad.red.rediris.es                                                        
+   130.206.214.98  13041   232.994                       (None, None, ES, EU) anella-router.red.rediris.es                                                                        
+   84.88.18.254    13041   232.496             (Barcelona, Catalonia, ES, EU) anchor-anella.cesca.cat                                                                             

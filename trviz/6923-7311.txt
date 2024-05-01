@@ -1,0 +1,11 @@
+   23.155.72.145   64289   0.0              (Santa Clara, California, US, NA)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   10.10.10.0      *       0.255                                          ***                                                                                                     
+╭─ 64.71.166.230   6939    0.879               (San Jose, California, US, NA) e0-1.switch1.snt3.he.net                                                                            
+S (6939)  hawaiki ✘ || southern-cross-cable-network-sccn ✓ || southern-cross-next ✓
+╰─ 184.104.194.234 6939    142.756                      (Sydney, NSW, AU, OC) 100ge0-36.core2.syd1.he.net                                                                         
+   184.104.197.182 6939    156.981                    (Brisbane, QLD, AU, OC) port-channel1.core1.bne1.he.net                                                                     
+╭─ 103.26.70.32    *       172.146             (Brisbane, Queensland, AU, OC) as140627.brisbane.megaport.com                                                                      
+S (, 140627)  
+╰─ 103.151.64.220  140627  168.535                 (Hagåtña, Hagatna, GU, OC) oq-guam-cor01--oq-bris-cor01-753.as140627.net                                                       
+   103.151.64.31   140627  171.554                 (Hagåtña, Hagatna, GU, OC) atlas.guam.as140627.net                                                                             

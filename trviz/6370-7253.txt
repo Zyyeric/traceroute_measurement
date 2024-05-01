@@ -1,0 +1,11 @@
+   192.158.252.10  1280    0.0            (Mountain View, California, US, NA) us-pao-as1280.anchors.atlas.ripe.net                                                                
+   192.158.252.3   1280    0.35               (Palo Alto, California, US, NA) r2.pao2-guests.isc.org                                                                              
+   64.62.180.45    6939    0.845              (Palo Alto, California, US, NA) e0-30.switch2.pao1.he.net                                                                           
+╭─ 184.105.81.81   6939    1.526               (San Jose, California, US, NA) port-channel12.core4.sjc2.he.net                                                                    
+S (6939, )  faster ✓ || japan-u-s-cable-network-jus ✓ || pacific-crossing-1-pc-1 ✘ || jupiter ✓ || tata-tgn-pacific ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 203.190.230.227 *       108.795             (Motoyoyogichō, Tokyo, JP, AS)                                                                                                     
+   103.48.31.51    59105   114.17              (Motoyoyogichō, Tokyo, JP, AS) ge-2-1-8.pop03er03.bb.homenoc.ad.jp                                                                 
+   103.41.60.172   10010   109.231                     (Tokyo, Tokyo, JP, AS) koba-bgprt2.tokyo-ix.v4.open.ad.jp                                                                  
+   ***             *       -inf                                           *** *                                                                                                   
+   103.143.136.43  63781   109.663                     (Tokyo, Tokyo, JP, AS) koba-103-143-136-43.rev.kobayashi.ad.jp                                                             

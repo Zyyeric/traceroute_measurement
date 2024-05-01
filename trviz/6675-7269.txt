@@ -1,0 +1,20 @@
+   116.206.155.229 45117   0.0                   (Ahmedabad, Gujarat, IN, AS)                                                                                                     
+   116.206.155.225 45117   0.653                 (Ahmedabad, Gujarat, IN, AS)                                                                                                     
+   121.241.90.57   4755    0.602                 (Ahmedabad, Gujarat, IN, AS) 121.241.90.57.static-ahmedabad.vsnl.net.in                                                          
+   172.28.176.253  *       9.076                                          ***                                                                                                     
+╭─ 180.87.38.5     6453    9.118                         (Mumbai, MH, IN, AS) ix-ae-0-100.tcore1.mlv-mumbai.as6453.net                                                            
+S (6453)  seamewe-4 👍 || asia-africa-europe-1-aae-1 ✓ || imewe 👍 || seamewe-3 👍
+╰─ 195.219.174.16  6453    130.569   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) if-be-6-2.ecore1.emrs2-marseille.as6453.net                                                         
+╭─ 80.231.165.25   6453    131.875   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) if-bundle-2-2.qcore2.emrs2-marseille.as6453.net                                                     
+T (6453)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 5.23.30.17      6453    132.099            (Frankfurt am Main, HE, DE, EU) if-ae-9-2.tcore2.fr0-frankfurt.as6453.net                                                           
+╭─ 80.231.65.2     9002    134.952            (Frankfurt am Main, HE, DE, EU) *                                                                                                   
+T (9002)  
+├─ 87.245.233.5    9002    154.534                   (Vladimir, None, RU, AS) ae0-8.RT.KSZ.VMR.RU.retn.net                                                                        
+T (9002)  
+╰─ 87.245.241.129  9002    151.249                  (Milan, Lombardy, IT, EU) gw-as201333.retn.net                                                                                
+   185.78.48.22    201333  152.446                  (Milan, Lombardy, IT, EU) ens1f4-920-r02.pia1.naquadria.net                                                                   
+   185.78.48.244   201333  154.038                    (Parabiago, 25, IT, EU) lf01b5-vlan910.pia1.naquadria.net                                                                   
+   185.78.49.100   201333  157.095         (Piacenza, Emilia-Romagna, IT, EU) it-pcz-as201333.anchors.atlas.ripe.net                                                              

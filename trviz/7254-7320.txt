@@ -1,0 +1,19 @@
+   5.180.57.81     56987   0.0           (Lyon, Auvergne-Rhône-Alpes, FR, EU) fr-lio-as56987.anchors.atlas.ripe.net                                                               
+   5.180.57.80     56987   0.211     (Saint-Fons, Auvergne-Rhône-Alpes, FR, EU) 80-57-180-5.rev.abaclouda.net                                                                       
+   5.180.58.70     56987   0.249     (Saint-Fons, Auvergne-Rhône-Alpes, FR, EU) 01-xe.bgp03.lyn.abaclouda.net                                                                       
+╭─ 37.77.39.18     44530   0.256     (Saint-Fons, Auvergne-Rhône-Alpes, FR, EU) abaclouda.ly1-1.rt.hopus.net                                                                        
+T (44530)  
+├─ 37.77.32.13     44530   2.714                     (Lausanne, Vaud, CH, EU) lag-ly1-1.gv1-1.rt.hopus.net                                                                        
+LHL (44530, 6830)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 84.116.133.153  6830    16.484                        (None, None, NL, EU) ch-nax01a-rc1-ae-22-0.aorta.net                                                                     
+T (6830)  
+├─ 84.116.130.225  6830    16.621                        (Paris, IDF, FR, EU) fr-par02b-rd1-ae-6-0.aorta.net                                                                      
+S&T (6830)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 84.116.135.50   6830    16.558                       (London, ENG, GB, EU) uk-lon01c-ri2-ae-4-0.aorta.net                                                                      
+S&T (6830, 60068)  
+├─ 213.46.175.146  60068   20.263                        (None, None, NL, EU) *                                                                                                   
+S&T (60068)  
+╰─ 156.146.32.93   60068   20.304                 (Shadwell, England, GB, EU)                                                                                                     
+   103.170.154.254 142594  20.349                   (London, England, GB, EU) 254.154.170.103.speedyvps.uk                                                                        

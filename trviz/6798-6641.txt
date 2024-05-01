@@ -1,0 +1,16 @@
+   92.38.135.131   202422  0.0                         (Seoul, Seoul, KR, AS)                                                                                                     
+   92.38.135.3     202422  0.259                       (Seoul, Seoul, KR, AS) vrrp.gcore.lu                                                                                       
+   10.255.17.210   *       0.432                                          ***                                                                                                     
+   10.255.17.213   *       0.416                                          ***                                                                                                     
+   10.255.17.147   *       0.28                                           ***                                                                                                     
+╭─ 8.244.74.25     3356    0.315 (1.694)                  (Seoul, Seoul, KR, AS)                                                                                                     
+S (3356)  korea-japan-cable-network-kjcn ✓ || seamewe-3 ✓
+╰─ 4.69.218.106    3356    31.036                         (Tokyo, 13, JP, AS) ae1.3501.ear1.Tokyo4.level3.net                                                                     
+╭─ 183.182.80.149  3257    31.035                      (Tokyo, Tokyo, JP, AS) ae3.cr1-tyo1.ip4.gtt.net                                                                            
+LHL (3257)  seamewe-3 ✓
+├─ 89.149.187.205  3257    358.722         (Frankfurt am Main, Hesse, DE, EU) ae5.cr2-dxb1.ip4.gtt.net                                                                            
+T (3257, 36236)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 185.34.2.114    36236   257.629                     (Dubai, Dubai, AE, AS)                                                                                                     

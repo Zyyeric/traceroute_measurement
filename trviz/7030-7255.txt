@@ -1,0 +1,18 @@
+   103.179.37.157  151332  0.0                  (Melbourne, Victoria, AU, OC)                                                                                                     
+   103.179.37.156  151332  0.416                (Melbourne, Victoria, AU, OC)                                                                                                     
+   203.192.83.253  7545    1.378                (Melbourne, Victoria, AU, OC) ip-253-83-192-203.static.pipenetworks.com                                                           
+   203.220.216.73  7545    1.68                         (Sydney, NSW, AU, OC) 203-220-216-73.tpgi.com.au                                                                          
+   27.32.160.193   7545    85.637              (North Melbourne, VIC, AU, OC) 27-32-160-193.static.tpgi.com.au                                                                    
+╭─ 203.219.57.14   7545    84.744          (Perth, Western Australia, AU, OC) per-apt-stg-crt1-be20.tpgi.com.au                                                                   
+S (7545)  
+├─ 203.219.107.114 7545    85.276              (Singapore, Singapore, SG, AS) sin-eqx-aye-int1-hu-0-0-0-20.tpg.com.au                                                             
+S (7545, 137409)  
+├─ 27.111.229.213  137409  213.019                   (Seogwipo, None, KR, AS) 137409.sgw.equinix.com                                                                              
+S (137409, 7578)  
+╰─ 206.148.24.79   7578    213.833             (Singapore, Singapore, SG, AS) po4.sg-eqxsg3-cr2.globalsecurelayer.com                                                             
+╭─ 206.148.24.90   7578    243.711             (Singapore, Singapore, SG, AS) e51.hk-eqxhk1-bb3.globalsecurelayer.com                                                             
+S (7578, 969)  
+╰─ 45.11.107.70    969     243.753             (Hong Kong, Hong Kong, HK, AS) e26-1-gsl.cr1a.eqhk2.hkg12.hk.917.as                                                                
+   199.119.64.151  969     243.773             (Hong Kong, Hong Kong, HK, AS) po103-10.spine3.hkg12.hk.misaka.io                                                                  
+   45.11.104.9     57695   243.014             (Hong Kong, Hong Kong, HK, AS) po30.0103.hkg12.hk.misaka.io                                                                        
+   45.11.104.146   57695   243.252             (Hong Kong, Hong Kong, HK, AS) hk-hkg-as57695.anchors.atlas.ripe.net                                                               

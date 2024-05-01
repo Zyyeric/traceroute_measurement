@@ -1,0 +1,18 @@
+   63.222.40.114   3491    0.0                       (Taipei, Taiwan, TW, AS) ncic.te0-1-0-23.br01.tap04.as3491.net                                                               
+   63.222.40.113   3491    1.085                      (Neihu, Taiwan, TW, AS) te0-1-0-23.br01.tap04.as3491.net                                                                    
+   63.223.9.230    3491    0.878                       (Taipei, None, TW, AS) Bundle-Ether45.br02.tap04.pccwbtn.net                                                               
+╭─ 63.217.71.50    3491    1.089                     (Taipei, Taiwan, TW, AS) 63-217-71-50.static.pccwglobal.net                                                                  
+S (3491, 2914)  
+╰─ 129.250.7.40    2914    1.353                         (None, None, US, NA) ae-3.r22.taiptw01.tw.bb.gin.ntt.net                                                                 
+   ***             *       -inf                                           *** *                                                                                                   
+   129.250.3.193   2914    133.254                       (None, None, US, NA) ae-4.sayonara-dorian.r25.lsanca07.us.bb.gin.ntt.net                                                 
+   129.250.3.188   2914    191.58                        (None, None, US, NA) ae-5.sayonara-dorian.r25.asbnva02.us.bb.gin.ntt.net                                                 
+   129.250.2.110   2914    261.861                       (None, None, US, NA) ae-7.r21.londen12.uk.bb.gin.ntt.net                                                                 
+   129.250.4.37    2914    267.038                       (None, None, US, NA) ae-8.r02.brslbe01.be.bb.gin.ntt.net                                                                 
+╭─ 129.250.3.234   2914    277.0                         (None, None, US, NA) ae-1.sayonara-dorian.a02.lsanca07.us.bb.gin.ntt.net                                                 
+LHL (2914, 39923)  
+╰─ 81.20.71.126    39923   276.936                    (Zaventem, VLG, BE, EU) xe-0-0-0-2-8.r02.brslbe01.be.ce.gin.ntt.net                                                         
+   109.68.160.13   39923   277.131       (Brussels, Brussels Capital, BE, EU) xe-4-3-2.br10.zav.as39923.net                                                                       
+   109.68.160.65   39923   277.046       (Brussels, Brussels Capital, BE, EU) devrandom1.customer.unix-solutions.be                                                               
+   45.87.79.251    208725  274.126       (Brussels, Brussels Capital, BE, EU) router01.sw1.core.devrandom.be                                                                      
+   45.87.76.6      208725  276.529       (Brussels, Brussels Capital, BE, EU) ansible.devrandom.be                                                                                

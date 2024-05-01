@@ -1,0 +1,15 @@
+   202.152.129.74  23951   0.0               (Yogyakarta, Yogyakarta, ID, AS) 202-152-129-74.citra.net.id                                                                         
+   202.152.129.73  23951   0.336     (Pugeran Maguwoharjo, Yogyakarta, ID, AS) 202-152-129-73.citra.net.id                                                                         
+   202.152.153.24  23951   0.712     (Pugeran Maguwoharjo, Yogyakarta, ID, AS) 202-152-153-24.as23951.net                                                                          
+╭─ 202.152.131.247 23951   23.857            (Yogyakarta, Yogyakarta, ID, AS) amsix.rtr1-sgw-eq.citra.net.id                                                                      
+LHL (23951, 8426)  seamewe-3 ✓
+├─ 80.249.209.228  8426    206.958                     (Schiphol, NH, NL, EU) te-0-0-1-1-tc1-br1.router.nl.clara.net                                                              
+S&T (8426)  circe-north ✓ || ulysses-2 ✘ || scylla ✓ || zeus ✓ || atlantic-crossing-1-ac-1 ✓ || concerto ✓ || farland-north ✓
+├─ 212.61.142.58   8426    274.401                     (London, None, GB, EU) tengige0-1-1-3-t6-mse1.router.uk.clara.net                                                          
+S&T (8426)  
+╰─ 195.22.9.57     8426    211.846                    (Carnaxide, 11, PT, EU) tlx-mse2-te-0-0-4.pt.clara.net                                                                      
+   195.22.9.7      8426    214.218                    (Carnaxide, 11, PT, EU) tlx-ar1-0-0-0-23.router.pt.clara.net                                                                
+   77.91.207.126   8426    214.005                       (None, None, PT, EU) not-assigned                                                                                        
+   80.172.218.14   62416   212.758                       (None, None, PT, EU) core.rt13.lis1.ptservidor.net                                                                       
+   ***             *       -inf                                           *** *                                                                                                   
+   185.32.189.249  62416   211.011                 (Odivelas, Lisbon, PT, EU) pt-lis-as62416.anchors.atlas.ripe.net                                                               

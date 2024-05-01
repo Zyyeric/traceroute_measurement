@@ -1,0 +1,20 @@
+   185.14.96.232   211186  0.0                (Lamía, Central Greece, GR, EU)                                                                                                     
+   185.14.96.225   211186  0.627              (Lamía, Central Greece, GR, EU) vlan4090.lamia.fast.net.gr                                                                          
+   212.205.28.249  6799    0.652              (Lamía, Central Greece, GR, EU) 249.28.205.212.static.otenet.gr                                                                     
+   79.128.234.128  6799    3.599                    (Maroúsi, Attica, GR, EU)                                                                                                     
+   62.75.3.17      12713   3.221             (Néa Chalkidóna, Attica, GR, EU) kolasr02-hu-0-8-0-0.ath.oteglobe.gr                                                                 
+╭─ 62.75.6.34      *       37.271                    (Athens, Attica, GR, EU)                                                                                                     
+LHL (, 201011)  mednautilus-submarine-system ✘ ↠ asia-africa-europe-1-aae-1 ✘ || mednautilus-submarine-system ✘ ↠ seamewe-3 ✘
+├─ 5.56.17.181     201011  36.285          (Frankfurt am Main, Hesse, DE, EU) ae7-0.fra30.core-backbone.com                                                                       
+T (201011)  
+╰─ 81.95.2.138     201011  48.955                     (Amsterdam, NH, NL, EU) ae5-2074.ams10.core-backbone.com                                                                    
+   169.150.195.66  60068   42.312            (Haarlem, North Holland, NL, EU) coreb-ams.cdn77.com                                                                                 
+   45.134.214.139  57695   42.408                     (Amsterdam, NH, NL, EU) v3525.cr02.ams05.nl.misaka.io                                                                       
+   45.11.106.4     57695   42.102                     (Amsterdam, NH, NL, EU) po-04.lag.ams05.nl.misaka.io                                                                        
+   45.11.106.149   57695   42.467          (Amsterdam, North Holland, NL, EU) router01-msk-ams.as151332.net                                                                       
+╭─ 209.250.248.226 20473   49.288            (Halfweg, North Holland, NL, EU) router01-vul-ams.as151332.net                                                                       
+LHL (20473, 63949)  seamewe-4 ✓ || seamewe-3 ✓ || seamewe-5 ✓
+├─ 172.104.190.118 63949   196.366             (Singapore, Singapore, SG, AS) router01-akm-sin.as151332.net                                                                       
+S (63949, 7545)  australia-singapore-cable-asc ✓ || indigo-west ✓ || seamewe-3 ✓
+╰─ 203.192.83.254  7545    316.542              (Melbourne, Victoria, AU, OC) ip-254-83-192-203.static.pipenetworks.com                                                           
+   103.179.37.157  151332  317.253              (Melbourne, Victoria, AU, OC)                                                                                                     

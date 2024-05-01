@@ -1,0 +1,20 @@
+   10.252.4.170    *       0.0                                            ***                                                                                                     
+   10.252.4.169    *       0.118                                          ***                                                                                                     
+   10.252.4.153    *       0.134                                          ***                                                                                                     
+   10.252.0.37     *       9.539                                          ***                                                                                                     
+╭─ 184.104.196.46  6939    47.988                      (Istanbul, 34, TR, AS) 100ge0-36.core1.ist1.he.net                                                                         
+S&T (6939)  
+├─ 184.105.65.49   6939    43.178                         (Sofia, 23, BG, EU) 100ge14-1.core1.sof1.he.net                                                                         
+LHL (6939, 1299)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 62.115.165.38   1299    55.31     (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) hurricane-ic-359257.ip.twelve99-cust.net                                                            
+S (1299, 4651)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 74.82.46.34     4651    192.083                  (Singapore, None, SG, AS) cat-telecom-public-company-ltd.e0-38.switch1.sin1.he.net                                            
+S&T (4651)  
+╰─ 61.19.9.133     4651    217.053                       (None, None, TH, AS) *                                                                                                   
+   61.19.7.22      4651    221.434                       (None, None, TH, AS) *                                                                                                   
+   122.155.224.74  135063  227.322                       (None, None, TH, AS) *                                                                                                   
+   172.21.21.5     *       221.159                                        ***                                                                                                     
+   172.24.132.102  *       221.832                                        ***                                                                                                     
+   103.253.132.25  59238   215.912                 (Bangkok, Bangkok, TH, AS) th-bkk-as59238.anchors.atlas.ripe.net                                                               

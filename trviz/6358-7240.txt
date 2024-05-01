@@ -1,0 +1,24 @@
+   202.70.133.25   140443  0.0                 (Singapore, Singapore, SG, AS) 25.133.70.202.in-addr.herza.id                                                                      
+   202.70.133.1    140443  0.137               (Singapore, Singapore, SG, AS) 1.133.70.202.in-addr.herza.id                                                                       
+╭─ 202.70.132.1    140443  0.283               (Singapore, Singapore, SG, AS) 1.132.70.202.in-addr.herza.id                                                                       
+S (140443, 6939)  seamewe-5 ✓ || seamewe-4 ✘ || peace-cable ✘ || seamewe-3 ✓
+├  10.111.222.206  *       0.501                                          ***                                                                                                     
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.196.242 6939    228.299                       (Paris, IDF, FR, EU) 100ge0-72.core2.par2.he.net                                                                         
+S&T (6939)  
+╰─ 72.52.92.165    6939    320.04                       (London, ENG, GB, EU) 100ge7-1.core1.lon2.he.net                                                                          
+   184.105.64.5    6939    230.551                  (London, England, GB, EU) port-channel4.core1.lon3.he.net                                                                     
+╭─ 184.104.205.253 6939    170.605                  (London, England, GB, EU) mtn-globalconnect-solutions-ltd.port-channel7.core1.lon3.he.net                                     
+T (6939, 16637)  
+╰─ 41.181.189.65   16637   162.581                     (Pretoria, GP, ZA, AF) *                                                                                                   
+╭─ 41.181.190.151  16637   163.987                     (Pretoria, GP, ZA, AF) *                                                                                                   
+T (16637)  
+├─ 41.181.244.176  16637   163.862                  (London, England, GB, EU)                                                                                                     
+T (16637, 20294)  
+├─ 41.181.247.39   20294   314.342                       (None, None, ZA, AF) *                                                                                                   
+LHL (20294)  
+╰─ 212.88.110.34   20294   313.298          (Kampala, Central Region, UG, AF)                                                                                                     
+   129.205.30.76   37063   312.352                       (Kampala, C, UG, AF) *                                                                                                   
+   41.191.77.206   328998  314.581                       (Kampala, C, UG, AF) *                                                                                                   
+   196.49.15.189   328998  313.067          (Kampala, Central Region, UG, AF)                                                                                                     

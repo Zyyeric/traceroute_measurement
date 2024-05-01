@@ -1,0 +1,26 @@
+   185.239.193.37  39484   0.0                   (Tampere, Pirkanmaa, FI, EU) fi-tmp-as39484.anchors.atlas.ripe.net                                                               
+   185.239.193.33  39484   0.86                  (Tampere, Pirkanmaa, FI, EU) her0-rtr1.poasnet.fi                                                                                
+   193.167.244.180 1741    0.45                  (Tampere, Pirkanmaa, FI, EU) tampere1-et-0-1-5-666.ip.funet.fi                                                                   
+   86.50.255.220   1741    3.017            (Hämeenlinna, Kanta-Häme, FI, EU) hameenlinna2.ip.funet.fi                                                                            
+   86.50.255.224   1741    2.869            (Hämeenlinna, Kanta-Häme, FI, EU) hameenlinna1.ip.funet.fi                                                                            
+   86.50.255.223   1741    4.126                     (Espoo, Uusimaa, FI, EU) espoo2.ip.funet.fi                                                                                  
+╭─ 86.50.255.232   1741    2.803                          (Espoo, 18, FI, EU) espoo1.ip.funet.fi                                                                                  
+LHL (1741, 2603)  havhingstennorth-sea-connect-nsc ✘ || atlantic-crossing-1-ac-1 ✘
+├─ 109.105.102.168 2603    2.697                         (None, None, DK, EU) fi-csc2.nordu.net                                                                                   
+T (2603)  
+╰─ 109.105.97.77   2603    18.254                       (Hamburg, HH, DE, EU) de-hmb.nordu.net                                                                                    
+╭─ 109.105.97.105  2603    26.846             (Frankfurt am Main, HE, DE, EU) de-ffm.nordu.net                                                                                    
+T (2603)  
+├─ 109.105.97.78   2603    33.526                      (Hexton, None, GB, EU) uk-hex.nordu.net                                                                                    
+S (2603, 3491)  havhingstennorth-sea-connect-nsc ✓ ↠ seamewe-3 ✓ || atlantic-crossing-1-ac-1 ✘ ↠ seamewe-3 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 63.218.248.54   3491    210.442                     (Singapore, 4, SG, AS) hun0-6-0-2.br02.sin03.pccwbtn.net                                                                   
+S (3491, 41095)  
+├─ 63.218.249.102  41095   197.104                       (None, None, US, NA) 63-218-249-102.static.pccwglobal.net                                                                
+S (41095)  
+╰─ 103.23.168.233  41095   277.198                        (Tokyo, 13, JP, AS) be2.r0.bc05.bbt.ty.jp.iptp.net                                                                      
+   103.23.168.233  41095   277.198                        (Tokyo, 13, JP, AS) be2.r0.bc05.bbt.ty.jp.iptp.net                                                                      
+   103.23.168.198  59103   264.718                        (Tokyo, 13, JP, AS) as59103.r0.214.ty2.eq.jp.iptp.net                                                                   
+   103.41.60.171   59103   264.733                       (None, None, JP, AS) koba-bgprt1.tokyo-ix.v4.open.ad.jp                                                                  
+   103.143.136.26  63781   267.299                       (None, None, JP, AS) ospfrt1-bgprt1.kobayashi.ad.jp                                                                      
+   103.143.136.43  63781   264.874                     (Tokyo, Tokyo, JP, AS) koba-103-143-136-43.rev.kobayashi.ad.jp                                                             

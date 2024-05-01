@@ -1,0 +1,21 @@
+   146.185.219.73  202422  0.0        (Petaẖ Tiqva, Central District, IL, AS)                                                                                                     
+   146.185.219.3   202422  0.281                 (Tel Aviv, Tel Aviv, IL, AS) vrrp.gcore.lu                                                                                       
+   10.255.29.242   *       0.265                                          ***                                                                                                     
+╭─ 192.115.73.153  12400   10.048                      (Tel Aviv, TA, IL, AS) *                                                                                                   
+LHL (12400)  mednautilus-submarine-system ✓ ↠ seamewe-3 ✓ || jonah ✘ ↠ seamewe-3 ✓ || lev-submarine-system ✘ ↠ seamewe-3 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 93.186.129.37   12400   59.857                       (Cascais, 11, PT, EU) partner.catania8.cat.seabone.net                                                                    
+S&T (12400, 6762)  
+├─ 93.186.129.36   6762    53.044                   (Catania, Sicily, IT, EU)                                                                                                     
+S&T (6762)  
+╰─ 195.22.209.220  6762    74.33                        (London, ENG, GB, EU) ae30.londra32.lon.seabone.net                                                                       
+   134.159.95.229  4637    63.498                       (London, ENG, GB, EU) i-2-peer.ulco01.pr.telstraglobal.net                                                                
+╭─ 202.84.178.13   4637    63.464              (Camden Town, England, GB, EU) i-1008.ulcn-core01.telstraglobal.net                                                                
+S (4637)  
+╰─ 202.84.140.141  4637    296.917             (Singapore, Singapore, SG, AS) i-1000.sgcn-core01.telstraglobal.net                                                                
+   202.84.140.141  4637    296.917             (Singapore, Singapore, SG, AS) i-1000.sgcn-core01.telstraglobal.net                                                                
+╭─ 202.84.207.190  4637    305.496             (Singapore, Singapore, SG, AS) unknown.telstraglobal.net                                                                           
+S (4637)  
+╰─ 202.84.204.45   4637    294.487                     (Dubai, Dubai, AE, AS) i-102.uddm01.telstraglobal.net                                                                      
+   217.151.46.27   4637    294.767                     (Dubai, Dubai, AE, AS) unknown.telstraglobal.net                                                                           
+   156.154.53.254  12008   302.791                     (Dubai, Dubai, AE, AS)                                                                                                     

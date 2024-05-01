@@ -1,0 +1,9 @@
+   103.151.64.31   140627  0.0                     (Hagåtña, Hagatna, GU, OC) atlas.guam.as140627.net                                                                             
+╭─ 103.151.64.30   140627  0.452                 (Piti Village, Piti, GU, OC) oq-guam-cor01--atlas-probe.as140627.net                                                             
+S (140627)  japan-guam-australia-south-jga-s ✓ || pipe-pacific-cable-1-ppc-1 ✓ || australia-japan-cable-ajc ✓
+╰─ 103.151.64.7    140627  70.565                        (None, None, AU, OC) *                                                                                                   
+╭─ 218.100.52.127  35280   71.15                        (Sydney, 2, AU, None) as35280.nsw.ix.asn.au                                                                               
+S (35280, 55002)  hawaiki ✘ || southern-cross-cable-network-sccn ✓ || telstra-endeavour ✓
+├  100.99.0.35     *       179.186                                        ***                                                                                                     
+├  100.100.1.15    *       179.023                                        ***                                                                                                     
+╰─ 107.162.217.5   55002   179.234             (San Jose, California, US, NA)                                                                                                     

@@ -1,0 +1,15 @@
+   63.222.106.8    3491    0.0                         (Seoul, Seoul, KR, AS) 63-222-106-8.static.pccwglobal.net                                                                  
+╭─ 63.222.106.2    3491    0.683                (Yongsan-dong, Seoul, KR, AS) 63-222-106-2.static.pccwglobal.net                                                                  
+S (3491)  apcn-2 👍 || eac-c2c ✓ || flag-north-asia-loopreach-north-asia-loop 👍 || asia-pacific-gateway-apg ✓ || flag-europe-asia-fea ✓ || seamewe-3 👍
+├─ 63.218.114.122  3491    37.473              (Hong Kong, Hong Kong, HK, AS) be41.br05.hkg15.as3491.net                                                                          
+S (3491, 6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.198.254 6939    168.429             (San Jose, California, US, NA) port-channel7.core2.pao1.he.net                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 63.220.192.175  3491    175.565              (Seattle, Washington, US, NA) 63-220-192-175.static.pccwglobal.net                                                                
+S&T (3491, 6939)  
+╰─ 184.104.196.222 6939    178.891                    (Vancouver, BC, CA, NA) port-channel2.core2.yvr1.he.net                                                                     
+   65.19.133.197   6939    178.595      (Vancouver, British Columbia, CA, NA)                                                                                                     
+   192.30.89.87    394256  178.764      (Vancouver, British Columbia, CA, NA) ca-van-as394256.anchors.atlas.ripe.net                                                              

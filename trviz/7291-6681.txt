@@ -1,0 +1,19 @@
+   103.77.105.3    133800  0.0                     (Jakarta, Jakarta, ID, AS) ip-3-105-77-103.jkt-1.biznetg.io                                                                    
+   103.77.105.28   133800  0.269                   (Jakarta, Jakarta, ID, AS) ip-28-105-77-103.jkt-1.biznetg.io                                                                   
+   137.59.127.33   *       1.895                   (Jakarta, Jakarta, ID, AS) xe-0-2.cr01.jkt.biznetg.io                                                                          
+   202.169.59.21   17451   2.943                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+   172.20.3.17     *       2.1                                            ***                                                                                                     
+╭─ 112.78.190.1    17451   2.094                   (Depok, West Java, ID, AS) id-jkt-mtr-1.biznetnetworks.com                                                                     
+S&T (17451)  australia-singapore-cable-asc ✓ || matrix-cable-system ✘ || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || indonesia-global-gateway-igg-system ✓ || seamewe-3 ✓ || indigo-west ✓ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || jasuka ✓ || jakabare ✓
+├─ 112.78.190.5    17451   16.149              (Singapore, Singapore, SG, AS)                                                                                                     
+S (17451, 58511)  
+├─ 27.111.229.175  58511   14.525                    (Seogwipo, None, KR, AS) 58511.sgw.equinix.com                                                                               
+S (58511, )  
+╰─ 103.30.216.60   *       120.927       (The Rocks, New South Wales, AU, OC) hu0-0-0-1.cor101.ndcp1.au.as58511.net                                                               
+   103.30.218.217  *       120.773         (Perth, Western Australia, AU, OC) hu0-0-0-31.cor102.ndcp1.au.as58511.net                                                              
+   ***             *       -inf                                           *** *                                                                                                   
+   103.30.217.135  *       310.305 (1930.889)       (Sydney, New South Wales, AU, OC) et-0-0-6.cor102.ndcb2.au.as58511.net                                                                
+   103.30.218.136  *       391.64              (Brisbane, Queensland, AU, OC) et-0-0-5.cor102.ndcb2.au.as58511.net                                                                
+   103.30.218.119  58511   120.435                       (None, None, AU, OC) et-0-0-1.bdr101.ndcb1.au.as58511.net                                                                
+   103.17.223.162  58511   120.526             (Brisbane, Queensland, AU, OC) ce.7005398.as132808.net.au.223.17.103.in-addr.arpa                                                  
+   103.133.238.187 132808  120.781             (Brisbane, Queensland, AU, OC) iptelco.com.au                                                                                      

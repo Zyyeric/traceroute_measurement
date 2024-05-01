@@ -1,0 +1,21 @@
+   193.50.97.164   2200    0.0                   (Plouzané, Brittany, FR, EU) anchor.netlab.enstb.org                                                                             
+   193.50.97.161   2200    0.279                 (Plouzané, Brittany, FR, EU) netlab-gw.enstb.org                                                                                 
+   192.108.116.201 50897   0.328                 (Plouzané, Brittany, FR, EU) asr-vlan39.enst-bretagne.fr                                                                         
+   193.51.188.10   2200    0.32 (6.45)        (Saint-Brieuc, Brittany, FR, EU) vl807-pc1-brest1-rtr-021.noc.renater.fr                                                             
+   193.51.177.174  2200    11.87               (Paris, Île-de-France, FR, EU) et-5-2-1-ren-nr-paris1-rtr-131.noc.renater.fr                                                       
+   77.67.123.205   3257    11.788                        (Paris, IDF, FR, EU) ae7-81.cr4-par7.ip4.gtt.net                                                                         
+╭─ 89.149.182.210  3257    12.168                        (Paris, IDF, FR, EU) et-10-1-0.cr0-par2.ip4.gtt.net                                                                      
+T (3257, 3356)  
+├─ 154.14.26.206   3356    12.319                     (Darmstadt, HE, DE, EU) ip4.gtt.net                                                                                         
+T (3356, 10474)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 212.113.14.122  10474   19.422                      (London, None, GB, EU) MWEB.edge4.London1.Level3.net                                                                       
+T (10474)  
+╰─ 176.67.178.7    10474   193.506                       (None, None, ZA, AF) *                                                                                                   
+   197.80.5.88     10474   192.643            (Johannesburg, Gauteng, ZA, AF) 197-80-5-88.jhb.mweb.co.za                                                                          
+   197.80.4.217    10474   194.251            (Johannesburg, Gauteng, ZA, AF) 197-80-4-217.jhb.mweb.co.za                                                                         
+   197.80.5.61     10474   192.79                        (None, None, ZA, AF) 197-80-5-61.jhb.mweb.co.za                                                                          
+   197.80.4.225    10474   193.176                       (None, None, ZA, AF) bu-ether2.mca-pe-1.optinet.net                                                                      
+   197.80.4.36     10474   193.845                       (None, None, ZA, AF) bu-ether3.vic-pe-1.optinet.net                                                                      
+   197.80.7.77     10474   195.19                        (None, None, ZA, AF) 201.te0-0-2-3.vic-pe-13.optinet.net                                                                 
+   197.80.104.36   10474   192.777            (Johannesburg, Gauteng, ZA, AF) 197-80-104-36.jhb.mweb.co.za                                                                        

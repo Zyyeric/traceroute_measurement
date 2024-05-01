@@ -1,0 +1,28 @@
+   5.62.127.14     199610  0.0                      (London, England, GB, EU)                                                                                                     
+╭─ 5.62.127.1      199610  0.318                    (London, England, GB, EU)                                                                                                     
+T (199610)  
+├─ 46.251.228.201  199610  1.855       (Köln, North Rhine-Westphalia, DE, EU)                                                                                                     
+T (199610, 2914)  
+├─ 157.238.226.4   2914    1.984                    (London, England, GB, EU) ae-13.a02.londen12.uk.bb.gin.ntt.net                                                                
+S (2914)  
+╰─ 129.250.3.214   2914    23.072                        (None, None, US, NA) ae-0.r21.londen12.uk.bb.gin.ntt.net                                                                 
+╭─ 129.250.3.251   2914    2.242                         (None, None, US, NA) ae-1.a03.londen12.uk.bb.gin.ntt.net                                                                 
+S (2914)  
+├─ 157.238.231.173 2914    125.236         (Amsterdam, North Holland, NL, EU)                                                                                                     
+S&T (2914, 7578)  
+├─ 206.148.26.12   7578    2.631                    (Poplar, England, GB, EU) po150.lon-thn-bb1.globalsecurelayer.com                                                             
+S (7578)  
+╰─ 206.148.26.7    7578    68.334           (New York City, New York, US, NA) e52.nyc-eqxny2-bb1.globalsecurelayer.com                                                            
+   206.148.25.42   7578    84.245                 (Chicago, Illinois, US, NA) e3.chi-eqxch1-bb1.globalsecurelayer.com                                                             
+╭─ 206.148.25.0    7578    125.386          (Los Angeles, California, US, NA) e50.lax-csla2-bb1.globalsecurelayer.com                                                             
+S (7578)  
+╰─ 206.148.24.2    7578    257.905          (Sydney, New South Wales, AU, OC) e1.syd-eqxsy5-bb1.globalsecurelayer.com                                                             
+   206.148.24.58   7578    268.754              (Melbourne, Victoria, AU, OC) e21.mel-eqxme1-bb1.globalsecurelayer.com                                                            
+   206.148.24.56   7578    279.083        (Adelaide, South Australia, AU, OC) e53.adl-eqxae1-bb4.globalsecurelayer.com                                                            
+╭─ 206.148.24.164  7578    305.345         (Perth, Western Australia, AU, OC)                                                                                                     
+S (7578, 137409)  
+╰─ 160.202.164.163 137409  267.827                   (Muscat, Muscat, OM, AS)                                                                                                     
+╭─ 134.0.217.213   8529    273.698                       (Muscat, MA, OM, AS) *                                                                                                   
+S&T (8529, 42473)  
+╰─ 213.202.2.1     42473   280.351                        (Dubai, DU, AE, AS) i1.2.202.213omantel.net.om                                                                          
+   37.252.245.94   42473   278.92                      (Dubai, Dubai, AE, AS)                                                                                                     

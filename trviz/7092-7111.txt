@@ -1,0 +1,15 @@
+   124.157.73.186  24324   0.0        (Wellington, Wellington Region, NZ, OC)                                                                                                     
+   124.157.73.185  24324   82.265     (Wellington, Wellington Region, NZ, OC)                                                                                                     
+   124.157.114.133 24324   8.482                      (Auckland, AUK, NZ, OC) *                                                                                                   
+   124.157.114.134 24324   8.146                 (Auckland, Auckland, NZ, OC) int-prm.tvc.kordia.net.nz                                                                           
+   202.50.236.5    *       9.266                 (Auckland, Auckland, NZ, OC) ae9-141.tkbr11.global-gateway.net.nz                                                                
+   203.96.120.93   4648    10.292                        (None, None, NZ, OC) *                                                                                                   
+╭─ 202.50.232.110  4648    34.522                        (None, None, NZ, OC) *                                                                                                   
+S (4648, 6939)  
+╰─ 184.104.195.149 6939    39.743           (Sydney, New South Wales, AU, OC) 100ge0-79.core1.syd1.he.net                                                                         
+╭─ 184.105.65.223  6939    84.899          (Perth, Western Australia, AU, OC) 100ge0-32.core1.per1.he.net                                                                         
+S (6939, 131111)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 65.49.108.46    131111  131.053                     (Singapore, 4, SG, AS) moratel-international-pte-ltd.10gigabitethernet3-13.core1.sin1.he.net                               
+   103.116.125.2   23947   127.957             (Singapore, Singapore, SG, AS)                                                                                                     

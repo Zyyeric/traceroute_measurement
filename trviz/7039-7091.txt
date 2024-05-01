@@ -1,0 +1,11 @@
+   203.174.85.106  38001   0.0                 (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 203.174.85.105  38001   3.429               (Singapore, Singapore, SG, AS)                                                                                                     
+S (38001, )  apcn-2 ✓ || eac-c2c ✓ || asia-pacific-gateway-apg ✓
+├  10.15.62.214    *       3.103                                          ***                                                                                                     
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 203.190.230.209 *       79.596                      (Tokyo, Tokyo, JP, AS)                                                                                                     
+   84.17.33.105    57695   79.151                (Tokyo / Narita, 12, JP, AS) v3517.cr01.nrt04.jp.misaka.io                                                                       
+   199.119.64.143  969     79.02                       (Tokyo, Tokyo, JP, AS) e32-20.spine2.nrt04.jp.misaka.io                                                                    
+   103.170.232.11  142616  79.787                      (Tokyo, Tokyo, JP, AS) po-31.lag.nrt04.jp.misaka.io                                                                        
+   103.170.232.152 142616  79.446                      (Tokyo, Tokyo, JP, AS) user-103-170-232-152.nrt04.jp.misaka.io                                                             

@@ -1,0 +1,19 @@
+   196.40.111.147  37153   0.0              (Cape Town, Western Cape, ZA, AF) atlas-anchor-cpt3.cpt.net.host-h.net                                                                
+   196.40.111.145  37153   0.467 (20.085)       (Cape Town, Western Cape, ZA, AF)                                                                                                     
+   41.204.206.37   37153   0.394            (Cape Town, Western Cape, ZA, AF) core-router1.cpt2.host-h.net                                                                        
+   41.66.133.1     37179   0.42             (Cape Town, Western Cape, ZA, AF) 41-66-133-1-2.customer-xe-0-0-2-wc-ro-het-mee-1.africainx.net                                       
+   41.84.12.29     37179   0.909            (Cape Town, Western Cape, ZA, AF) core.100g-0-8-0-wc-ro-ter-pbr-1.za.africainx.net                                                    
+   105.22.72.213   37100   0.737            (Cape Town, Western Cape, ZA, AF)                                                                                                     
+╭─ 105.16.30.1     37100   141.833                    (Cape Town, WC, ZA, AF) ce-0-2-0-0.cr-01-cpt.za.seacomnet.com                                                               
+S (37100)  
+╰─ 105.16.12.98    37100   149.78    (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) ce-0-0-25.cr-01-mrs.fr.seacomnet.com                                                                
+   105.16.33.254   37100   141.292                   (Marseille, PAC, FR, EU) xe-0-0-1-0.br-01-mrs.fr.seacomnet.com                                                               
+╭─ 212.133.4.69    3356    141.742   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) et-1-0-28.edge4.marseille1.level3.net                                                               
+T (3356)  
+├─ 171.75.8.251    3356    160.726         (Amsterdam, North Holland, NL, EU) ae2.3201.ear3.ams1.neo.colt.net                                                                     
+S&T (3356, 50999)  
+├─ 213.19.197.50   50999   233.311                      (Woking, ENG, GB, EU) *                                                                                                   
+S&T (50999)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 109.171.136.4   50999   225.438             (Jeddah, Mecca Region, SA, AS)                                                                                                     

@@ -1,0 +1,16 @@
+   195.130.66.103  199399  0.0                       (Athens, Attica, GR, EU) gr-ath-as199399.anchors.atlas.ripe.net                                                              
+   195.130.66.102  199399  1.152                    (Výronas, Attica, GR, EU) gw-ripe-anchor.gr-ix.gr                                                                             
+╭─ 176.126.38.47   *       2.054                 (Áno Liósia, Attica, GR, EU) he.gr-ix.gr                                                                                         
+T (, 6939)  
+├─ 184.105.64.169  6939    13.224              (Sofia, Sofia-Capital, BG, EU) 100ge0-75.core3.sof1.he.net                                                                         
+LHL (6939)  atlantic-crossing-1-ac-1 ✓
+├─ 184.104.196.193 6939    32.239                        (Denver, CO, US, NA) 100ge2-1.core1.den1.he.net                                                                          
+S (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.193.102 6939    38.818    (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) port-channel1.core3.mrs1.he.net                                                                     
+S&T (6939)  
+╰─ 184.104.189.46  6939    136.755                     (Dubai, Dubai, AE, AS) ve1002.core2.dxb1.he.net                                                                            
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   185.34.2.114    36236   137.944                     (Dubai, Dubai, AE, AS)                                                                                                     

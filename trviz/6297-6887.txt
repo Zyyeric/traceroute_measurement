@@ -1,0 +1,23 @@
+   27.111.84.21    135132  0.0           (Cebu City, Central Visayas, PH, AS) ph-ceb-as135132.anchors.atlas.ripe.net                                                              
+   27.111.84.20    135132  1.063             (Baugo, Central Visayas, PH, AS) vlan509.core.ceb02.ds.network                                                                       
+   192.168.159.142 *       0.819 (4.747)                                     ***                                                                                                     
+   192.168.159.152 *       0.576                                          ***                                                                                                     
+   192.168.159.168 *       23.706                                         ***                                                                                                     
+   192.168.159.165 *       1.055                                          ***                                                                                                     
+╭─ 203.177.209.217 4775    2.237             (Baugo, Central Visayas, PH, AS)                                                                                                     
+S (4775, 1273)  tata-tgn-intra-asia-tgn-ia ✓ || asia-america-gateway-aag-cable-system ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 203.169.57.37   1273    52.01               (Hong Kong, Hong Kong, HK, AS) xe-0-1-0-xcr1.hkg.cw.net                                                                            
+S (1273)  
+╰─ 195.2.8.38      1273    278.736                       (None, None, GB, EU) ae0-xcr1.fix.cw.net                                                                                 
+   195.2.30.154    1273    208.052                       (None, None, GB, EU) ae1-xcr1.bud.cw.net                                                                                 
+   195.2.31.182    1273    279.638                       (None, None, GB, EU) ae43-xcr1.sof.cw.net                                                                                
+╭─ 195.2.12.58     3329    286.104                       (None, None, GB, EU) vfgr1-vf-gw.sof.cw.net                                                                              
+S&T (3329)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 62.74.30.101    3329    291.412                        (Athens, I, GR, EU) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   62.74.226.30    12361   299.834                   (Athens, Attica, GR, EU) dumy30.panafonet.gr                                                                                 
+   ***             *       -inf                                           *** *                                                                                                   
+   139.91.68.3     8522    296.191                 (Irákleion, Crete, GR, EU)                                                                                                     

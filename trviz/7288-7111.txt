@@ -1,0 +1,18 @@
+   124.157.73.186  24324   0.0        (Wellington, Wellington Region, NZ, OC)                                                                                                     
+   124.157.73.185  24324   0.732      (Wellington, Wellington Region, NZ, OC)                                                                                                     
+   124.157.114.133 24324   8.62                       (Auckland, AUK, NZ, OC) *                                                                                                   
+   124.157.114.134 24324   8.216                 (Auckland, Auckland, NZ, OC) int-prm.tvc.kordia.net.nz                                                                           
+   202.50.236.5    *       9.527                 (Auckland, Auckland, NZ, OC) ae9-141.tkbr11.global-gateway.net.nz                                                                
+   203.96.120.93   4648    10.557                        (None, None, NZ, OC) *                                                                                                   
+╭─ 202.50.232.110  4648    34.975                        (None, None, NZ, OC) *                                                                                                   
+LHL (4648, 7713)  hawaiki ✘ ↠ new-cross-pacific-ncp-cable-system ✘ || hawaiki ✘ ↠ trans-pacific-express-tpe-cable-system ✓ || southern-cross-cable-network-sccn 👍 ↠ new-cross-pacific-ncp-cable-system ✘ || southern-cross-cable-network-sccn 👍 ↠ trans-pacific-express-tpe-cable-system ✓ || southern-cross-next 👍 ↠ new-cross-pacific-ncp-cable-system ✘ || southern-cross-next 👍 ↠ trans-pacific-express-tpe-cable-system ✓
+├─ 27.111.228.77   7713    130.173                   (Seogwipo, None, KR, AS) 7713.sgw.equinix.com                                                                                
+S (7713)  
+╰─ 180.240.204.9   7713    129.588             (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 180.240.204.9   7713    129.588             (Singapore, Singapore, SG, AS)                                                                                                     
+S&T (7713)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 36.64.254.21    7713    147.191       (Gubengairlangga, East Java, ID, AS)                                                                                                     
+   36.64.254.22    7713    147.441                   (Denpasar, Bali, ID, AS)                                                                                                     
+   103.215.228.2   140443  148.492              (Surabaya, East Java, ID, AS) 2.228.215.103.in-addr.herza.id                                                                      
+   103.215.229.229 140443  147.293              (Surabaya, East Java, ID, AS) 229.229.215.103.in-addr.herza.id                                                                    

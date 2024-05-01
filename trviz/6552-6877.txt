@@ -1,0 +1,12 @@
+   45.87.76.6      208725  0.0           (Brussels, Brussels Capital, BE, EU) ansible.devrandom.be                                                                                
+   45.87.79.251    208725  0.276         (Brussels, Brussels Capital, BE, EU) router01.sw1.core.devrandom.be                                                                      
+   45.87.79.249    208725  0.188         (Brussels, Brussels Capital, BE, EU) router03.core.devrandom.be                                                                          
+╭─ 185.1.127.23    *       1.158                 (Nossegem, Flanders, BE, EU) he.belgiumix.net                                                                                    
+S&T (, 6939)  
+├─ 184.104.193.153 6939    3.876                      (Amsterdam, NH, NL, EU) 100ge0-71.core2.ams1.he.net                                                                         
+S&T (6939, 201971)  circe-north ✓ || ulysses-2 ✘ || scylla ✓ || zeus ✓ || concerto ✓ || farland-north ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.205.210 201971  11.297                       (London, ENG, GB, EU) creeperhost-ltd.10gigabitethernet1-1-24.switch1.lon3.he.net                                         
+   185.57.191.228  201971  11.151                 (Grantham, England, GB, EU) 228.191.57.185.no-ptr.as201971.net                                                                  

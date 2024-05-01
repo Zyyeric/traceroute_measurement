@@ -1,0 +1,17 @@
+   63.222.248.5    3491    0.0                         (Dubai, Dubai, AE, AS)                                                                                                     
+╭─ 63.222.248.14   3491    1.031                       (Dubai, Dubai, AE, AS)                                                                                                     
+S&T (3491, 2603)  europe-india-gateway-eig ✓ || seamewe-3 👍 || flag-europe-asia-fea ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 195.66.225.24   2603    131.48                     (London, ENG, GB, None) *                                                                                                   
+╭─ 109.105.102.98  2603    136.049                      (London, ENG, GB, EU) ndn-gw.mx1.lon.uk.geant.net                                                                         
+S&T (2603, 20965)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 62.40.98.222    20965   152.965                     (Bilbao, None, ES, EU) ae4.rt1.bil.es.geant.net                                                                            
+S&T (20965, 21320)  
+├─ 83.97.90.19     21320   159.058                  (London, England, GB, EU) rediris-ias-geant.bil.es.geant.net                                                                  
+S&T (21320, 766)  
+╰─ 130.206.245.17  766     158.22                        (None, None, ES, EU) EHU.RT2.ETHTRUNK2.telmad.rt1.mad.red.rediris.es                                                     
+   130.206.245.50  766     157.462                       (None, None, ES, EU) telmad.rt1.ae11-0.telmad.rt4.mad.red.rediris.es                                                     
+   130.206.214.98  13041   166.413                       (None, None, ES, EU) anella-router.red.rediris.es                                                                        
+   84.88.18.254    13041   166.121             (Barcelona, Catalonia, ES, EU) anchor-anella.cesca.cat                                                                             

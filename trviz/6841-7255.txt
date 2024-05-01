@@ -1,0 +1,20 @@
+   103.179.37.157  151332  0.0                  (Melbourne, Victoria, AU, OC)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   203.192.83.253  7545    1.435                (Melbourne, Victoria, AU, OC) ip-253-83-192-203.static.pipenetworks.com                                                           
+   203.220.216.69  9942    1.676                (Melbourne, Victoria, AU, OC) au-vi-1015-ipg-221-bundle-ether28.tpgi.com.au                                                       
+   27.32.160.65    7545    11.385              (North Melbourne, VIC, AU, OC) 27-32-160-65.static.tpgi.com.au                                                                     
+   203.26.22.117   7545    11.243                       (Sydney, NSW, AU, OC) 203-26-22-117.static.tpgi.com.au                                                                    
+╭─ 203.29.134.3    7545    12.719                       (Sydney, NSW, AU, OC) syd-apt-ros-int1-hu0-3-0-2.tpgi.com.au                                                              
+S (7545, 6939)  hawaiki ✘ || southern-cross-cable-network-sccn ✓ || southern-cross-next ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.105.80.194  6939    165.251                   (Farmington, CA, US, NA) 100ge13-2.core4.fmt2.he.net                                                                         
+LHL (6939)  apollo ✓ || flag-atlantic-1-fa-1 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.105.65.134  6939    324.536                        (Sofia, 23, BG, EU) 100ge10-1.core1.sof1.he.net                                                                         
+T (6939)  
+╰─ 184.105.64.170  6939    335.954                       (Athens, A1, GR, EU) 100ge0-36.core1.ath1.he.net                                                                         
+   176.126.38.123  *       336.751               (Áno Liósia, Attica, GR, EU)                                                                                                     
+   195.130.66.103  199399  336.416                   (Athens, Attica, GR, EU) gr-ath-as199399.anchors.atlas.ripe.net                                                              

@@ -1,0 +1,18 @@
+   10.252.4.170    *       0.0                                            ***                                                                                                     
+   10.252.4.169    *       0.095                                          ***                                                                                                     
+   10.252.4.153    *       0.147                                          ***                                                                                                     
+   10.252.0.37     *       14.198                                         ***                                                                                                     
+   10.252.2.138    *       16.91                                          ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 154.25.16.81    174     18.581                (Istanbul, Istanbul, TR, AS) be3821.rcr71.ist01.atlas.cogentco.com                                                               
+S (174)  
+├─ 154.54.74.226   174     27.478                         (Lyon, ARA, FR, EU) be2881.rcr21.lys01.atlas.cogentco.com                                                               
+T (174)  
+├─ 130.117.14.98   174     26.683              (Sofia, Sofia-Capital, BG, EU) lumen.sof02.atlas.cogentco.com                                                                      
+LHL (174, 3356)  
+├─ 4.69.134.42     3356    311.395                       (None, None, US, NA) *                                                                                                   
+S (3356, 199524)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 45.80.212.34    199524  310.896                     (Seoul, Seoul, KR, AS) vrrp.gcore.com                                                                                      
+   92.38.135.131   202422  310.015                     (Seoul, Seoul, KR, AS)                                                                                                     

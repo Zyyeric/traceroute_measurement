@@ -1,0 +1,12 @@
+   5.188.168.94    202422  0.0               (Bahçelievler, Istanbul, TR, AS)                                                                                                     
+   5.188.168.3     202422  0.174                 (Istanbul, Istanbul, TR, AS) vrrp.gcore.lu                                                                                       
+   10.255.20.181   *       0.19                                           ***                                                                                                     
+   10.255.20.178   *       0.286                                          ***                                                                                                     
+╭─ 67.199.141.37   3257    0.304                 (Istanbul, Istanbul, TR, AS) ae8.cr1-ist4.ip4.gtt.net                                                                            
+LHL (3257)  seamewe-5 ✓ || seamewe-3 ✓
+├─ 89.149.136.133  3257    33.524             (Frankfurt am Main, HE, DE, EU) et-10-0-2.cr8-fra2.ip4.gtt.net                                                                      
+T (3257, 25003)  
+├─ 46.33.95.118    25003   33.881                     (Rotterdam, ZH, NL, EU) ib-gw.ip4.gtt.net                                                                                   
+LHL (25003)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 94.188.255.2    25003   98.021               (Bnei Brak, Tel Aviv, IL, AS) 255.188.94-binat-smaug.in-addr.arpa                                                                 

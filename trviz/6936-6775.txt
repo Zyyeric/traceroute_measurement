@@ -1,0 +1,20 @@
+   192.30.89.87    394256  0.0          (Vancouver, British Columbia, CA, NA) ca-van-as394256.anchors.atlas.ripe.net                                                              
+   192.30.89.94    394256  0.313        (Vancouver, British Columbia, CA, NA)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   184.105.222.97  6939    26.131                      (Winnipeg, MB, CA, NA) 100ge10-2.core1.ywg1.he.net                                                                         
+╭─ 184.105.64.101  6939    48.953                  (Toronto, Ontario, CA, NA) 100ge0-71.core2.tor1.he.net                                                                         
+S&T (6939)  
+├─ 184.104.196.177 6939    88.384                      (New York, NY, US, NA) 100ge0-76.core3.nyc4.he.net                                                                         
+LHL (6939, )  exa-north-and-south ✓ || atlantic-crossing-1-ac-1 ✓ || apollo ✓ || yellow ✓ || tata-tgn-atlantic ✓ || flag-atlantic-1-fa-1 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 194.68.128.182  *       146.122                 (Kista, Stockholm, SE, EU) netnod-ix-ge-b-sth-1500.rt.ru                                                                       
+T (, 12389)  
+╰─ 188.128.126.205 12389   268.218                      (Moscow, MOW, RU, EU) *                                                                                                   
+   188.254.90.106  12389   263.825           (Khabarovsk, Khabarovsk, RU, EU)                                                                                                     
+   10.255.10.182   *       260.422                                        ***                                                                                                     
+   92.38.191.66    210756  259.482           (Khabarovsk, Khabarovsk, RU, EU) vrrp.edgecenter.ru                                                                                  
+   185.209.84.10   198412  259.993                  (Khabarovsk, KHA, RU, AS) ae1-0.c10.khv01.ru.misaka.io                                                                        
+   185.209.84.141  57578   264.846           (Khabarovsk, Khabarovsk, RU, EU) ru-khv-as57578.anchors.atlas.ripe.net                                                               

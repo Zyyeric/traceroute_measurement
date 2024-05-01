@@ -1,0 +1,26 @@
+   87.201.194.242  15802   0.0                            (Dubai, DU, AE, AS) *                                                                                                   
+   87.201.194.241  15802   2.164                          (Dubai, DU, AE, AS) *                                                                                                   
+   10.100.34.117   *       2.001                                          ***                                                                                                     
+   10.100.128.22   *       3.154                                          ***                                                                                                     
+   10.53.17.73     *       6.23                                           ***                                                                                                     
+╭─ 185.1.8.63      *       4.565                       (Dubai, Dubai, AE, AS) ipv4.uaeix-dubai.core1.dxb1.he.net                                                                  
+S (, 6939)  seamewe-5 ✘ || asia-africa-europe-1-aae-1 ✘ || imewe ✘ || seamewe-4 ✘ || seamewe-3 ✘
+╰─ 184.104.193.102 6939    125.268   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) port-channel1.core3.mrs1.he.net                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 184.105.223.254 6939    134.737                       (Paris, IDF, FR, EU) port-channel4.core2.par2.he.net                                                                     
+S&T (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.205.253 6939    117.035                  (London, England, GB, EU) mtn-globalconnect-solutions-ltd.port-channel7.core1.lon3.he.net                                     
+T (6939, 16637)  
+╰─ 41.181.189.65   16637   120.433                     (Pretoria, GP, ZA, AF) *                                                                                                   
+╭─ 41.181.190.151  16637   117.062                     (Pretoria, GP, ZA, AF) *                                                                                                   
+T (16637)  
+├─ 41.181.244.176  16637   121.206                  (London, England, GB, EU)                                                                                                     
+T (16637, 20294)  
+├─ 41.181.247.39   20294   273.247                       (None, None, ZA, AF) *                                                                                                   
+LHL (20294)  
+╰─ 212.88.110.34   20294   266.752          (Kampala, Central Region, UG, AF)                                                                                                     
+   129.205.30.76   37063   266.901                       (Kampala, C, UG, AF) *                                                                                                   
+   41.191.77.206   328998  267.106                       (Kampala, C, UG, AF) *                                                                                                   
+   196.49.15.189   328998  268.122          (Kampala, Central Region, UG, AF)                                                                                                     

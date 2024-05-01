@@ -1,0 +1,20 @@
+   103.153.176.122 131657  0.0                       (Taipei, Taiwan, TW, AS) 103-153-176-122.as131657.net                                                                        
+   103.153.176.254 131657  0.267                     (Taipei, Taiwan, TW, AS) 103-153-176-254.as131657.net                                                                        
+╭─ 103.51.91.5     *       0.615                     (Taipei, Taiwan, TW, AS) et-0-0-1.cr1.hd.tpe.as131657.net                                                                    
+S (, 6939)  faster ✘ || trans-pacific-express-tpe-cable-system ✘ || new-cross-pacific-ncp-cable-system ✘ || pacific-light-cable-network-plcn ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.198.217 6939    134.074          (Los Angeles, California, US, NA) port-channel7.core3.lax2.he.net                                                                     
+S (6939, 2200)  apollo ✓ || flag-atlantic-1-fa-1 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 37.49.236.19    2200    269.793                       (Paris, IDF, FR, EU) renater.par.franceix.net                                                                            
+   193.51.177.239  2200    271.588                 (Rennes, Brittany, FR, EU) hu0-3-0-1-ren-nr-lyon2-rtr-091.noc.renater.fr                                                       
+   193.55.204.15   2200    271.416                     (Rennes, None, FR, EU) te0-3-0-0-ren-nr-rennes-rtr-091.noc.renater.fr                                                      
+   193.51.181.93   2200    273.851                   (Grenoble, None, FR, EU) man-tigre-te1-4-grenoble-rtr-021.noc.renater.fr                                                     
+   193.54.185.10   1942    271.301            (Épinay-sur-Seine, IDF, FR, EU) r-epn.grenet.fr                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   193.49.43.151   2200    271.43    (Grenoble, Auvergne-Rhône-Alpes, FR, EU)                                                                                                     

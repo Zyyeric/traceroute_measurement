@@ -1,0 +1,17 @@
+   86.38.3.141     15419   0.0                       (Kaunas, Kaunas, LT, EU) 141.3.38.86.static.telecentras.lt                                                                   
+   86.38.3.142     15419   0.289                   (Vilnius, Vilnius, LT, EU) 142.3.38.86.static.telecentras.lt                                                                   
+   10.0.0.97       *       0.332                                          ***                                                                                                     
+   10.0.0.213      *       0.514                                          ***                                                                                                     
+   10.0.0.198      *       0.451                                          ***                                                                                                     
+   213.197.128.101 15440   0.583                   (Vilnius, Vilnius, LT, EU) sql1.data.lt                                                                                        
+   213.197.128.21  15440   0.607                   (Vilnius, Vilnius, LT, EU)                                                                                                     
+╭─ 80.77.167.184   28917   0.844                   (Vilnius, Vilnius, LT, EU) vilnius-sk-b1-ae1-vlan3607.fiord.net                                                                
+S&T (28917)  bcs-east ✘
+├─ 93.191.9.113    28917   7.431                          (Riga, RIX, LV, EU) riga-tvt-b1-ae5-vlan3601.fiord.net                                                                  
+S (28917)  sweden-latvia ✓ || latvia-sweden-1-lv-se-1 ✓
+╰─ 62.140.245.130  28917   13.594              (Stockholm, Stockholm, SE, EU) stk-tct-b1-ae5-vlan3702.fiord.net                                                                   
+   194.68.123.179  *       13.845              (Stockholm, Stockholm, SE, EU) netnod-ix-ge-a-sth-1500.31173.se                                                                    
+   185.65.135.45   39351   22.513                          (Malmo, M, SE, EU) mlm-vg4-cr2-et-0-0-3-v2017.31173.se                                                                 
+   193.138.216.74  39351   22.471                          (Malmo, M, SE, EU) mlm-sp-cr1-ae-1.31173.se                                                                            
+   193.138.216.91  39351   34.314                        (None, None, SE, EU) *                                                                                                   
+   193.138.218.50  39351   22.38                       (Malmö, Skåne, SE, EU) se-mma-as39351.anchors.atlas.ripe.net                                                               

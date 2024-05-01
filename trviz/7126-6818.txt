@@ -1,0 +1,11 @@
+   63.222.40.114   3491    0.0                       (Taipei, Taiwan, TW, AS) ncic.te0-1-0-23.br01.tap04.as3491.net                                                               
+╭─ 63.222.40.113   3491    1.173                      (Neihu, Taiwan, TW, AS) te0-1-0-23.br01.tap04.as3491.net                                                                    
+S (3491)  seamewe-3 👍 || eac-c2c ✓ || apcn-2 👍 || flag-north-asia-loopreach-north-asia-loop 👍 || asia-pacific-gateway-apg ✓
+├─ 63.218.210.74   3491    80.541                   (Hong Kong, None, HK, AS) Bundle-Ether48.br02.hkg15.pccwbtn.net                                                               
+S (3491, 45796)  
+├─ 63.216.83.30    45796   133.7                         (None, None, US, NA) 63-216-83-30.static.pccwglobal.net                                                                  
+S (45796)  
+╰─ 115.31.164.31   45796   130.196                       (None, None, TH, AS) *                                                                                                   
+   115.31.164.203  137566  131.552                       (None, None, TH, AS) *                                                                                                   
+   103.113.176.2   137566  132.877                       (None, None, TH, AS) *                                                                                                   
+   103.113.176.82  137566  137.007       (Ban Talat Bueng, Chon Buri, TH, AS)                                                                                                     

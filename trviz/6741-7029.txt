@@ -1,0 +1,24 @@
+   192.168.0.130   *       0.0                                            ***                                                                                                     
+   192.168.0.1     *       0.204                                          ***                                                                                                     
+   172.16.254.1    *       0.318                                          ***                                                                                                     
+   192.168.1.1     *       0.732                                          ***                                                                                                     
+   10.98.238.18    *       4.505                                          ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   81.212.216.12   9121    5.18                  (Ümraniye, Istanbul, TR, AS) 34-acibadem-xrs-t2-2---34-acibadem-sr12e-t3-8.statik.turktelekom.com.tr                             
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 212.156.139.60  9121    19.57                       (Istanbul, 34, TR, AS) *                                                                                                   
+S&T (9121, 1299)  kafos ✘
+├─ 62.115.37.72    1299    50.403              (Bucharest, București, RO, EU) buca-b3-link.ip.twelve99.net                                                                        
+T (1299, 174)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 130.117.14.181  174     136.386                        (Vienna, 9, AT, EU) be1300.ccr51.vie01.atlas.cogentco.com                                                               
+╭─ 130.117.14.181  174     136.386                        (Vienna, 9, AT, EU) be1300.ccr51.vie01.atlas.cogentco.com                                                               
+LHL (174)  
+├─ 130.117.0.70    174     169.298                      (Belgrade, 0, RS, EU) be3420.ccr51.beg03.atlas.cogentco.com                                                               
+LHL (174)  
+╰─ 130.117.50.73   174     167.239                   (Athens, Attica, GR, EU) be3246.rcr21.ath01.atlas.cogentco.com                                                               
+   149.11.120.67   174     168.778              (Metamórfosi, Attica, GR, EU) fastpath2.demarc.cogentco.com                                                                       
+   185.201.254.25  56457   166.344                    (Kítsi, Attica, GR, EU) be3500.ef1.ath01.fastpath.gr                                                                        
+   185.201.254.35  56457   165.168                    (Kítsi, Attica, GR, EU) te1-22.sp1.ath01.fastpath.gr                                                                        
+   176.119.210.244 56457   165.699                   (Athens, Attica, GR, EU)                                                                                                     

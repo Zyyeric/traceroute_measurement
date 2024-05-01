@@ -1,0 +1,23 @@
+   103.143.136.43  63781   0.0                         (Tokyo, Tokyo, JP, AS) koba-103-143-136-43.rev.kobayashi.ad.jp                                                             
+   103.143.136.62  63781   2.216                       (Tokyo, Tokyo, JP, AS) koba-103-143-136-62.rev.kobayashi.ad.jp                                                             
+   103.143.136.25  63781   1.007                       (Tokyo, Tokyo, JP, AS) bgprt1-ospfrt1.kobayashi.ad.jp                                                                      
+   103.41.60.164   10010   1.15                        (Tokyo, Tokyo, JP, AS) bgp3.tokyo-ix.v4.open.ad.jp                                                                         
+   150.99.184.33   2907    2.284                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+   150.99.10.187   2907    2.822                         (None, None, JP, AS) *                                                                                                   
+   202.232.6.17    2497    2.15                        (Tokyo, Tokyo, JP, AS)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   58.138.98.253   2497    4.292                       (Tokyo, Tokyo, JP, AS) tky001bb01.iij.net                                                                                  
+   58.138.100.66   2497    1.875                     (Urayasu, Tokyo, JP, AS) tky001ix54.iij.net                                                                                  
+   210.130.133.45  2497    6.982                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+   216.6.54.3      6453    109.292                     (Tokyo, Tokyo, JP, AS) if-bundle-5-2.qcore2.ovc-tokyo.as6453.net                                                           
+╭─ 180.87.180.57   6453    109.752                        (Tokyo, 13, JP, AS) if-ae-14-2.tcore1.tv2-tokyo.as6453.net                                                              
+S (6453)  
+├─ 180.87.180.33   6453    108.941                       (Piti, None, GU, OC) if-ae-3-2.thar1.pv4-piti.as6453.net                                                                 
+S (6453)  
+╰─ 180.87.9.69     6453    119.849          (Sydney, New South Wales, AU, OC) if-ae-17-2.thar1.1mh-sydney.as6453.net                                                              
+   120.29.195.18   6453    124.202                      (Sydney, NSW, AU, OC) if-ae-7-2.thar1.m3h-sydney.as6453.net                                                               
+╭─ 116.0.76.153    6453    187.164          (Sydney, New South Wales, AU, OC)                                                                                                     
+S (6453, 55002)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 107.162.217.5   55002   188.062             (San Jose, California, US, NA)                                                                                                     

@@ -1,0 +1,19 @@
+   37.143.141.141  196745  0.0                       (Poole, England, GB, EU) atlas.datacenta.net                                                                                 
+   172.22.10.219   *       0.162                                          ***                                                                                                     
+   37.143.136.253  196745  0.897               (Bournemouth, England, GB, EU)                                                                                                     
+   193.251.248.53  5511    4.904                    (London, England, GB, EU)                                                                                                     
+╭─ 5.57.80.128     6939    4.906                        (London, ENG, GB, EU) 10gigabitethernet5-1.core1.lon1.he.net                                                              
+S (6939)  exa-north-and-south ✓ || atlantic-crossing-1-ac-1 ✓ || flag-atlantic-1-fa-1 ✓ || apollo ✓ || yellow ✓ || tata-tgn-atlantic ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.105.81.150  6939    83.871                       (Ashburn, VA, US, NA) 100ge0-56.core3.ash1.he.net                                                                         
+S (6939)  faster ✓ || japan-u-s-cable-network-jus ✓ || pacific-crossing-1-pc-1 ✘ || jupiter ✓ || trans-pacific-express-tpe-cable-system ✓ || new-cross-pacific-ncp-cable-system ✓ || tata-tgn-pacific ✓ || unityeac-pacific ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.195.2   6939    235.446               (Tokyo / Narita, 12, JP, AS) 100ge5-2.core1.tyo1.he.net                                                                          
+S (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.220.67  6939    250.992             (Hong Kong, Hong Kong, HK, AS) lshiy.e0-30.switch1.hkg1.he.net                                                                     
+   103.203.243.11  955     250.832             (Hong Kong, Hong Kong, HK, AS) multi-user.port-channe17.switch1.hkg1.bb.lshiy.net                                                  
+   89.213.179.65   32167   250.915             (Hong Kong, Hong Kong, HK, AS) 89-213-179-65.ip.lshiyusercontent.com                                                               

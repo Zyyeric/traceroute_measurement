@@ -1,0 +1,15 @@
+   185.14.96.232   211186  0.0                (Lamía, Central Greece, GR, EU)                                                                                                     
+   185.14.96.225   211186  0.588              (Lamía, Central Greece, GR, EU) vlan4090.lamia.fast.net.gr                                                                          
+   212.205.28.249  6799    1.002              (Lamía, Central Greece, GR, EU) 249.28.205.212.static.otenet.gr                                                                     
+   79.128.234.128  6799    3.749                    (Maroúsi, Attica, GR, EU)                                                                                                     
+   62.75.3.17      12713   5.025             (Néa Chalkidóna, Attica, GR, EU) kolasr02-hu-0-8-0-0.ath.oteglobe.gr                                                                 
+╭─ 62.75.4.226     *       40.086                    (Athens, Attica, GR, EU)                                                                                                     
+S (, 3356)  
+├─ 213.19.198.253  3356    40.939                       (Woking, ENG, GB, EU) *                                                                                                   
+LHL (3356)  
+├─ 171.75.9.233    3356    62.812              (Sofia, Sofia-Capital, BG, EU) ae2.20.bar2.sof2.neo.colt.net                                                                       
+LHL (3356, 198589)  
+├─ 212.162.31.130  198589  90.208                        (None, None, GB, EU) *                                                                                                   
+LHL (198589, 21277)  
+╰─ 130.193.166.21  21277   119.674                     (Erbil, Arbīl, IQ, AS)                                                                                                     
+   130.193.166.22  21277   90.719                      (Erbil, Arbīl, IQ, AS)                                                                                                     

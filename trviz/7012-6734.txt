@@ -1,0 +1,18 @@
+   95.217.19.69    24940   0.0                    (Helsinki, Uusimaa, FI, EU) fi-tuu-as24940-client.anchors.atlas.ripe.net                                                        
+   172.31.1.1      *       2.792                                          ***                                                                                                     
+   95.216.132.233  24940   0.659                       (Helsinki, 18, FI, EU) 15272.your-cloud.host                                                                               
+   ***             *       -inf                                           *** *                                                                                                   
+   88.198.252.113  24940   1.411                    (Vantaa, Uusimaa, FI, EU) spine1.cloud1.hel1.hetzner.com                                                                      
+   213.239.228.45  24940   10.863                   (Vantaa, Uusimaa, FI, EU) spine16.cloud1.hel1.hetzner.com                                                                     
+╭─ 213.239.228.9   24940   0.906                    (Vantaa, Uusimaa, FI, EU) core31.hel1.hetzner.com                                                                             
+S&T (24940)  
+├─ 213.239.254.62  24940   7.118               (Stockholm, Stockholm, SE, EU) core53.sto.hetzner.com                                                                              
+T (24940)  
+╰─ 213.239.252.85  24940   27.556          (Amsterdam, North Holland, NL, EU) core50.ams.hetzner.com                                                                              
+   213.239.224.117 24940   27.868          (Amsterdam, North Holland, NL, EU) core10.ams.hetzner.com                                                                              
+╭─ 80.249.209.119  13101   28.044                     (Amsterdam, NH, NL, EU) AMS-IX.tng.de                                                                                       
+T (13101)  
+╰─ 213.178.65.148  13101   34.684                       (Hamburg, HH, DE, EU) ham8.tng.de                                                                                         
+   213.178.65.155  13101   36.066          (Kiel, Schleswig-Holstein, DE, EU) kel2.tng.de                                                                                         
+   82.97.188.1     13101   36.208                        (None, None, DE, EU) rtr1.gallifrey.tng.de                                                                               
+   213.158.113.5   13101   36.41                   (Hamburg, Hamburg, DE, EU) ripe-anchor.gallifrey.tng.de                                                                        

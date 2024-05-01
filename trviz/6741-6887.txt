@@ -1,0 +1,33 @@
+   27.111.84.21    135132  0.0           (Cebu City, Central Visayas, PH, AS) ph-ceb-as135132.anchors.atlas.ripe.net                                                              
+   27.111.84.20    135132  1.086             (Baugo, Central Visayas, PH, AS) vlan509.core.ceb02.ds.network                                                                       
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   192.168.159.165 *       3.48                                           ***                                                                                                     
+   203.177.209.217 4775    5.031             (Baugo, Central Visayas, PH, AS)                                                                                                     
+╭─ 120.28.0.81     4775    26.086         (Makati City, Metro Manila, PH, AS)                                                                                                     
+S (4775, 174)  sea-us 👍 || pacific-light-cable-network-plcn ✓ || asia-america-gateway-aag-cable-system ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 154.54.42.101   174     167.753                  (Los Angeles, CA, US, NA) be3271.ccr41.lax01.atlas.cogentco.com                                                               
+   154.54.44.85    174     180.319                      (Phoenix, AZ, US, NA) be2931.ccr31.phx01.atlas.cogentco.com                                                               
+   154.54.5.218    174     187.22                    (El Paso, Texas, US, NA) be2979.ccr21.elp02.atlas.cogentco.com                                                               
+   154.54.0.53     174     204.011                   (Houston, Texas, US, NA) be3850.ccr41.iah01.atlas.cogentco.com                                                               
+   154.54.28.69    174     321.889                      (Atlanta, GA, US, NA) be2687.ccr41.atl01.atlas.cogentco.com                                                               
+   154.54.7.157    174     320.831                   (Washington, DC, US, NA) be2112.ccr41.dca01.atlas.cogentco.com                                                               
+╭─ 154.54.40.105   174     321.419                     (New York, NY, US, NA) be2806.ccr41.jfk02.atlas.cogentco.com                                                               
+S (174)  
+├─ 66.28.4.198     174     320.501                       (Paris, IDF, FR, EU) be3627.ccr41.par01.atlas.cogentco.com                                                               
+T (174)  
+╰─ 154.54.58.233   174     323.062            (Frankfurt am Main, HE, DE, EU) be2799.ccr41.fra03.atlas.cogentco.com                                                               
+╭─ 154.54.36.54    174     328.461                       (Munich, BY, DE, EU) be2959.ccr21.muc03.atlas.cogentco.com                                                               
+T (174)  
+├─ 154.54.58.6     174     330.552                        (Vienna, 9, AT, EU) be2974.ccr51.vie01.atlas.cogentco.com                                                               
+LHL (174)  
+├─ 130.117.0.70    174     363.666                      (Belgrade, 0, RS, EU) be3420.ccr51.beg03.atlas.cogentco.com                                                               
+LHL (174)  
+╰─ 130.117.50.73   174     364.6                     (Athens, Attica, GR, EU) be3246.rcr21.ath01.atlas.cogentco.com                                                               
+   149.11.120.66   174     364.393              (Metamórfosi, Attica, GR, EU) fastpath1.demarc.cogentco.com                                                                       
+   185.201.254.27  56457   363.474              (Metamórfosi, Attica, GR, EU) be3502.ef2.ath01.fastpath.gr                                                                        
+   185.201.254.39  56457   366.204              (Metamórfosi, Attica, GR, EU) te1-24.sp1.ath01.fastpath.gr                                                                        
+   176.119.210.244 56457   364.535                   (Athens, Attica, GR, EU)                                                                                                     

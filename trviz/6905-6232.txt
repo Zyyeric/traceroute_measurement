@@ -1,0 +1,15 @@
+   212.43.17.42    42961   0.0         (Al Farwānīyah, Al Farwaniyah, KW, AS)                                                                                                     
+   212.43.17.41    42961   0.968             (Kuwait City, Al Asimah, KW, AS)                                                                                                     
+   10.32.1.110     *       1.193                                          ***                                                                                                     
+   10.32.1.105     *       1.424                                          ***                                                                                                     
+╭─ 151.248.98.136  59605   0.634             (Kuwait City, Al Asimah, KW, AS)                                                                                                     
+LHL (59605)  falcon ✓ ↠ europe-india-gateway-eig ✓ || falcon ✓ ↠ seamewe-3 ✓ || falcon ✓ ↠ flag-europe-asia-fea ✓
+╰─ 151.248.96.196  59605   89.655                   (London, England, GB, EU)                                                                                                     
+╭─ 195.66.226.99   4651    99.027                     (London, ENG, GB, None) *                                                                                                   
+S (4651)  flag-europe-asia-fea ✘ || seamewe-3 ✓
+╰─ 61.19.9.165     4651    289.081                 (Bangkok, Bangkok, TH, AS)                                                                                                     
+   61.19.7.2       4651    309.392                       (None, None, TH, AS) *                                                                                                   
+   122.155.224.74  135063  307.328                       (None, None, TH, AS) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   103.253.132.25  59238   301.137                 (Bangkok, Bangkok, TH, AS) th-bkk-as59238.anchors.atlas.ripe.net                                                               

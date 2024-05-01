@@ -1,0 +1,11 @@
+   185.121.168.251 61138   0.0                  (Newmarket, Auckland, NZ, OC) nz-akl-as61138.anchors.atlas.ripe.net                                                               
+   10.0.0.1        *       0.174                                          ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 116.251.184.174 55850   23.597                (Auckland, Auckland, NZ, OC) et-0-2-1.atc-p-3.as55850.net                                                                        
+S (55850, 35280)  southern-cross-next ✘ || tasman-global-access-tga-cable ✘ || southern-cross-cable-network-sccn ✘ || hawaiki ✘
+├─ 45.127.173.81   35280   117.295                      (Sydney, NSW, AU, OC) 35280.syd.equinix.com                                                                               
+S (35280, 55002)  hawaiki ✘ || southern-cross-cable-network-sccn ✓ || telstra-endeavour ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 107.162.217.5   55002   228.549             (San Jose, California, US, NA)                                                                                                     

@@ -1,0 +1,14 @@
+   23.174.128.243  53698   0.0               (Sacramento, California, US, NA) us-sac-as53698.anchors.atlas.ripe.net                                                               
+   23.174.128.17   53698   0.581             (Sacramento, California, US, NA) vlan3-gateway.qts.smf.nix-ops.net                                                                   
+   206.71.13.13    *       1.592             (Sacramento, California, US, NA)                                                                                                     
+   4.14.111.245    3356    4.866          (San Francisco, California, US, NA) xe-9-2-2.bar1.sanfrancisco1.level3.net                                                              
+   4.69.219.65     3356    4.647                         (None, None, US, NA) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   172.68.188.80   13335   5.25                (San Jose, California, US, NA)                                                                                                     
+   162.158.165.117 13335   4.534               (San Jose, California, US, NA)                                                                                                     
+   162.158.165.173 13335   5.331               (San Jose, California, US, NA)                                                                                                     
+╭─ 162.158.165.144 13335   4.676               (San Jose, California, US, NA)                                                                                                     
+S (13335, 133800)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 103.77.105.3    133800  202.373                 (Jakarta, Jakarta, ID, AS) ip-3-105-77-103.jkt-1.biznetg.io                                                                    

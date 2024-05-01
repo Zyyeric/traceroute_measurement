@@ -1,0 +1,30 @@
+   197.239.73.59   37577   0.0                  (Ouagadougou, Centre, BF, AF)                                                                                                     
+   197.239.73.57   37577   0.36                 (Ouagadougou, Centre, BF, AF)                                                                                                     
+   165.16.221.42   37721   2.043                         (None, None, BF, AF) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   102.67.97.145   37721   1.997                (Ouagadougou, Centre, BF, AF) ce5-255.bb1.oua1.vts.bf                                                                             
+╭─ 102.67.97.41    37721   5.459                   (Ouagadougou, KAD, BF, AF) et-0-0-1-2003.bb1.oua2.vts.bf                                                                       
+LHL (37721)  africa-coast-to-europe-ace ✓
+├─ 102.67.96.46    37721   17.936                       (Paris, None, FR, EU) xe-0-0-1-2022.bb2.prs1.vts.bf                                                                       
+S (37721)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 102.67.97.204   37721   24.677                      (Lagos, Lagos, NG, AF) ce3-2017.bb1.los2.vts.bf                                                                            
+LHL (37721)  
+├─ 102.67.97.79    37721   24.442               (Ouagadougou, Centre, BF, AF)                                                                                                     
+LHL (37721, 6939)  
+├─ 216.66.89.4     6939    27.376                      (Lagos, Lagos, NG, AF) e0-7.core1.los1.he.net                                                                              
+S&T (6939)  
+├─ 184.104.188.93  6939    89.973           (Cape Town, Western Cape, ZA, AF) 10ge0-24.core1.cpt1.he.net                                                                          
+S&T (6939)  
+├─ 184.104.188.209 6939    193.846                   (Lisbon, Lisbon, PT, EU) 100ge0-79.core1.lis1.he.net                                                                         
+S&T (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.105.80.13   6939    221.903                        (Milan, 25, IT, EU) 100ge7-2.core1.mil2.he.net                                                                          
+LHL (6939)  
+├─ 184.104.196.194 6939    243.407                       (Denver, CO, US, NA) port-channel1.core1.den3.he.net                                                                     
+LHL (6939)  apollo ✓ ↠ seamewe-5 ✓ || apollo ✓ ↠ seamewe-3 ✓ || flag-atlantic-1-fa-1 ✓ ↠ seamewe-5 ✓ || flag-atlantic-1-fa-1 ✓ ↠ seamewe-3 ✓
+╰─ 184.104.196.46  6939    251.734                     (Istanbul, 34, TR, AS) 100ge0-36.core1.ist1.he.net                                                                         
+   185.1.48.6      43391   252.621                   (Istanbul, 34, TR, None) de-cix.ist.netdirekt.com.tr                                                                         
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   77.223.128.226  43391   262.423            (İzmir, İzmir Province, TR, AS)                                                                                                     

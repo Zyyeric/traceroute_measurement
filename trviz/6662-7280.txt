@@ -1,0 +1,17 @@
+   185.14.96.232   211186  0.0                (Lamía, Central Greece, GR, EU)                                                                                                     
+   185.14.96.225   211186  0.687              (Lamía, Central Greece, GR, EU) vlan4090.lamia.fast.net.gr                                                                          
+   212.205.28.249  6799    0.717              (Lamía, Central Greece, GR, EU) 249.28.205.212.static.otenet.gr                                                                     
+   79.128.234.128  6799    3.715                    (Maroúsi, Attica, GR, EU)                                                                                                     
+   62.75.3.17      12713   3.629             (Néa Chalkidóna, Attica, GR, EU) kolasr02-hu-0-8-0-0.ath.oteglobe.gr                                                                 
+╭─ 62.75.6.30      *       37.361                    (Athens, Attica, GR, EU)                                                                                                     
+S (, 1273)  
+╰─ 217.161.88.205  1273    36.072                        (None, None, GB, EU) *                                                                                                   
+╭─ 195.2.31.37     1273    36.222                        (None, None, GB, EU) ae0-tcr1.fnt.cw.net                                                                                 
+T (1273)  
+├─ 195.2.6.66      1273    47.42           (Frankfurt am Main, Hesse, DE, EU) gtt-gw-tcr1.fnt.cw.net                                                                              
+T (1273, 3257)  
+╰─ 213.200.123.226 3257    59.111                (Istanbul, Istanbul, TR, AS) ae6.cr1-ist4.ip4.gtt.net                                                                            
+   169.254.0.38    *       51.062                                         ***                                                                                                     
+   10.255.20.182   *       50.911                                         ***                                                                                                     
+   5.188.169.210   202422  50.984                      (Istanbul, 34, TR, AS) vrrp.gcore.lu                                                                                       
+   5.188.168.94    202422  51.283            (Bahçelievler, Istanbul, TR, AS)                                                                                                     

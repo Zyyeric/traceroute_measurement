@@ -1,0 +1,13 @@
+   103.170.154.254 142594  0.0                      (London, England, GB, EU) 254.154.170.103.speedyvps.uk                                                                        
+╭─ 103.170.154.1   142594  0.13                     (London, England, GB, EU)                                                                                                     
+T (142594, 60068)  
+├─ 156.146.32.92   60068   0.277                     (Prague, Prague, CZ, EU) unn-156-146-32-92.cdn77.com                                                                         
+T (60068, 201011)  
+├─ 81.95.9.56      201011  0.363                  (Shadwell, England, GB, EU) ae22-407.lon10.core-backbone.com                                                                    
+S&T (201011)  circe-north ✘ || scylla ✘ || ulysses-2 ✘ || zeus ✘ || atlantic-crossing-1-ac-1 ✘ || concerto ✘ || farland-north ✘
+├─ 80.255.15.165   201011  0.329 (5.229)                 (Amsterdam, NH, NL, EU) ae3-2072.ams10.core-backbone.com                                                                    
+T (201011, 6762)  
+╰─ 89.221.32.37    6762    34.494                          (Rome, 62, IT, EU) orakom.roma54.rom.seabone.net                                                                       
+   77.39.128.6     199181  37.656                   (Battipaglia, 72, IT, EU) *                                                                                                   
+   5.158.64.238    199181  34.675                   (Battipaglia, 72, IT, EU) *                                                                                                   
+   5.158.64.189    199181  34.854             (Battipaglia, Campania, IT, EU)                                                                                                     

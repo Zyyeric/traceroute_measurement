@@ -1,0 +1,23 @@
+   82.98.154.62    42612   0.0                       (Madrid, Madrid, ES, EU) vls17370.dinaserver.com                                                                             
+   82.98.154.254   42612   0.714                     (Madrid, Madrid, ES, EU)                                                                                                     
+   10.1.1.77       *       1.245                                          ***                                                                                                     
+╭─ 80.231.0.90     6453    0.817                     (Madrid, Madrid, ES, EU)                                                                                                     
+S&T (6453)  seamewe-3 👍
+╰─ 80.231.159.40   6453    10.931                      (Lisbon, None, PT, EU) if-ae-31-2.tcore2.pv9-lisbon.as6453.net                                                             
+   80.231.158.5    6453    10.695                      (Lisbon, None, PT, EU) if-ae-2-2.tcore1.pv9-lisbon.as6453.net                                                              
+╭─ 80.231.158.15   6453    12.843                    (Lisbon, Lisbon, PT, EU)                                                                                                     
+S&T (6453, 1273)  europe-india-gateway-eig ✓ || seamewe-3 👍
+├─ 195.2.31.142    1273    53.407                        (None, None, GB, EU) ae45-xcr1.max.cw.net                                                                                
+S&T (1273)  
+├─ 195.2.25.114    1273    51.382                   (Turin, Piedmont, IT, EU) ae1-xcr1.mrx.cw.net                                                                                 
+S&T (1273)  
+╰─ 195.2.21.186    1273    34.502                        (None, None, GB, EU) ae51.xcr1.mlu.cw.net                                                                                
+╭─ 195.2.16.2      1273    51.325                        (None, None, GB, EU) ae23.0-xcr1.sof.cw.net                                                                              
+S&T (1273, 3329)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 62.74.30.102    3329    63.065                         (Athens, I, GR, EU) *                                                                                                   
+   62.74.30.101    3329    62.092                         (Athens, I, GR, EU) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   62.74.226.30    12361   74.443                    (Athens, Attica, GR, EU) dumy30.panafonet.gr                                                                                 
+   ***             *       -inf                                           *** *                                                                                                   
+   139.91.68.3     8522    74.688                  (Irákleion, Crete, GR, EU)                                                                                                     

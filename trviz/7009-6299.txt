@@ -1,0 +1,20 @@
+   197.239.73.59   37577   0.0                  (Ouagadougou, Centre, BF, AF)                                                                                                     
+   197.239.73.57   37577   0.343                (Ouagadougou, Centre, BF, AF)                                                                                                     
+   165.16.221.42   37721   0.42                          (None, None, BF, AF) *                                                                                                   
+   165.16.221.41   37721   0.793                         (None, None, BF, AF) *                                                                                                   
+   102.67.97.145   37721   0.59                 (Ouagadougou, Centre, BF, AF) ce5-255.bb1.oua1.vts.bf                                                                             
+   102.67.96.39    37721   0.591 (2.753)           (Ouagadougou, Centre, BF, AF)                                                                                                     
+╭─ 102.67.96.224   37721   17.309               (Ouagadougou, Centre, BF, AF) po48-2048.bb2.acc1.vts.bf                                                                           
+LHL (37721)  west-africa-cable-system-wacs ✓ || africa-coast-to-europe-ace ✓ || mainone ✘ || sat-3wasc ✓
+├─ 102.67.96.245   37721   104.897                   (Lisbon, Lisbon, PT, EU) et-0-0-1-2035.bb1.lis1.vts.bf                                                                       
+S&T (37721)  
+╰─ 102.67.97.166   37721   111.962                        (Madrid, M, ES, EU) xe-0-0-1-2013.bb1.mad1.vts.bf                                                                       
+   102.67.97.170   37721   106.689                        (Madrid, M, ES, EU) xe-0-0-2-71.br1.mad1.vts.bf                                                                         
+╭─ 87.119.99.1     3257    112.815                        (Madrid, M, ES, EU) xe-3-0-0.cr0-mad5.ip4.gtt.net                                                                       
+S&T (3257)  
+├─ 89.149.139.25   3257    134.458                      (London, ENG, GB, EU) ae22.cr11-lon1.ip4.gtt.net                                                                          
+S&T (3257, 8895)  circe-north ✓ || ulysses-2 ✘ || scylla © || zeus ✓ || atlantic-crossing-1-ac-1 ✓ || concerto ✘ || farland-north ✘
+├─ 154.14.64.198   8895    215.987                    (Amsterdam, NH, NL, EU) ip4.gtt.net                                                                                         
+LHL (8895, 208520)  falcon ✘ || tata-tgn-gulf ✓ || gulf-bridge-international-cable-system-gbicsmiddle-east-north-africa-mena-cable-system ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 45.94.14.204    208520  216.267            (Riyadh, Riyadh Region, SA, AS)                                                                                                     

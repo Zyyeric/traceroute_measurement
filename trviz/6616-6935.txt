@@ -1,0 +1,15 @@
+   102.130.49.144  328383  0.0                (Johannesburg, Gauteng, ZA, AF) za-jnb-as57695.anchors.atlas.ripe.net                                                               
+   102.130.49.21   328383  0.099              (Johannesburg, Gauteng, ZA, AF) po-21.lag.jnb01.za.misaka.io                                                                        
+   102.130.49.3    328383  0.178              (Johannesburg, Gauteng, ZA, AF) spine2.v271.jnb01.za.misaka.io                                                                      
+╭─ 102.130.51.2    *       0.342              (Johannesburg, Gauteng, ZA, AF) e54-1-10.cr1a.tdjb1.jnb1.za.917.as                                                                  
+LHL (, 60068)  africa-coast-to-europe-ace ✘
+├─ 37.19.193.190   60068   0.274                     (Prague, Prague, CZ, EU) p77-3502.cr1a.tdjb1.jnb1.za.917.as                                                                  
+LHL (60068, 5511)  
+├─ 193.251.152.55  5511    0.441              (Johannesburg, Gauteng, ZA, AF)                                                                                                     
+LHL (5511)  africa-coast-to-europe-ace 👍
+├─ 193.251.133.154 5511    174.765            (Frankfurt am Main, HE, DE, EU) ae312-0.ffttr6.frankfurt.opentransit.net                                                            
+T (5511)  
+├─ 193.251.152.100 5511    234.514             (Paris, Île-de-France, FR, EU)                                                                                                     
+S (5511, 47794)  
+╰─ 94.77.210.130   47794   234.524            (Riyadh, Riyadh Region, SA, AS) 94-77-210-130.static.go.com.sa                                                                      
+   94.77.252.90    47794   234.485            (Riyadh, Riyadh Region, SA, AS) 94-77-252-90.static.go.com.sa                                                                       

@@ -1,0 +1,12 @@
+   192.42.97.210   8473    0.0                 (Stockholm, Stockholm, SE, EU) se-sto-as8473.anchors.atlas.ripe.net                                                                
+   192.42.97.209   8473    0.572               (Stockholm, Stockholm, SE, EU)                                                                                                     
+   176.10.178.214  8473    1.126               (Stockholm, Stockholm, SE, EU) pio-dr2.sto-pio-dr1.bahnhof.net                                                                     
+   176.10.178.42   8473    1.103               (Stockholm, Stockholm, SE, EU) sto-pio-dr1.sto-cr3.bahnhof.net                                                                     
+   85.24.220.18    8473    1.034               (Stockholm, Stockholm, SE, EU) sto5-er1.se.as8473.net                                                                              
+╭─ 194.68.123.177  12578   10.926                   (Stockholm, 26, SE, None) netnod-ix-ge-a-sth-1500.lattelecom.lv                                                               
+S&T (12578)  
+├─ 87.110.223.129  12578   11.051             (Frankfurt am Main, HE, DE, EU) *                                                                                                   
+LHL (12578, 51349)  
+├─ 195.122.18.250  51349   9.897                          (Riga, RIX, LV, EU) *                                                                                                   
+LHL (51349)  latvia-sweden-1-lv-se-1 ✓ ↠ sweden-estonia-ee-s-1 ✘ || latvia-sweden-1-lv-se-1 ✓ ↠ baltic-sea-submarine-cable ✘ || sweden-latvia ✘ ↠ sweden-estonia-ee-s-1 ✘ || sweden-latvia ✘ ↠ baltic-sea-submarine-cable ✘
+╰─ 195.43.87.140   51349   9.912                  (Tallinn, Harjumaa, EE, EU) rr-s-140.internet.ee                                                                                

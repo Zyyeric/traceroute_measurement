@@ -1,0 +1,33 @@
+   195.130.66.103  199399  0.0                       (Athens, Attica, GR, EU) gr-ath-as199399.anchors.atlas.ripe.net                                                              
+   195.130.66.102  199399  1.001                    (Výronas, Attica, GR, EU) gw-ripe-anchor.gr-ix.gr                                                                             
+   62.217.98.52    5408    0.52                     (Výronas, Attica, GR, EU) grix-admin-gw.eier.access-link.grnet.gr                                                             
+╭─ 83.97.88.69     21320   0.602                    (Výronas, Attica, GR, EU) grnet-ias-geant-gw.mx2.ath.gr.geant.net                                                             
+S&T (21320, 20965)  mednautilus-submarine-system ✘ || oteglobe-kokkini-bari ✘ || italy-greece-1 ✘
+├─ 62.40.98.150    20965   46.869                   (Milan, Lombardy, IT, EU) ae7.rt1.mil2.it.geant.net                                                                           
+S&T (20965)  
+╰─ 62.40.98.232    20965   46.921    (Arthaz-Pont-Notre-Dame, Auvergne-Rhône-Alpes, FR, EU) ae2.mx1.gen.ch.geant.net                                                                            
+╭─ 62.40.98.239    20965   47.072              (Paris, Île-de-France, FR, EU) ae7.mx1.par.fr.geant.net                                                                            
+S&T (20965)  
+├─ 62.40.98.106    20965   47.04                         (Lisbon, 11, PT, EU) ae0.mx2.lis.pt.geant.net                                                                            
+S&T (20965)  
+╰─ 62.40.98.64     20965   45.653                   (London, England, GB, EU) ae2.mx1.lon.uk.geant.net                                                                            
+   195.66.225.227  31133   46.807                     (London, ENG, GB, None) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 64.125.29.129   6461    48.394                       (London, ENG, GB, EU) ae1.mcs1.lhr15.uk.eth.zayo.com                                                                      
+S (6461, 4637)  
+├─ 82.98.196.161   4637    53.456                        (None, None, HK, AS) 82.98.196.161.IPYX-284545-900-ZYO.zip.zayo.com                                                      
+S (4637)  
+╰─ 202.84.178.37   4637    53.43                    (London, England, GB, EU) i-1107.ulhc-core03.telstraglobal.net                                                                
+╭─ 202.84.178.9    4637    53.298                   (London, England, GB, EU) i-1003.ulcn-core01.telstraglobal.net                                                                
+S (4637)  
+╰─ 202.84.140.141  4637    289.89              (Singapore, Singapore, SG, AS) i-1000.sgcn-core01.telstraglobal.net                                                                
+   202.84.140.141  4637    289.89              (Singapore, Singapore, SG, AS) i-1000.sgcn-core01.telstraglobal.net                                                                
+   202.84.219.173  4637    283.404             (Singapore, Singapore, SG, AS) i-92.sggs01.telstraglobal.net                                                                       
+╭─ 210.57.30.171   4637    286.345             (Singapore, Singapore, SG, AS) unknown.telstraglobal.net                                                                           
+S&T (4637, 7552)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 27.68.237.138   7552    249.56                         (Hanoi, HN, VN, AS) localhost                                                                                           
+   210.86.233.30   24176   298.719    (Ho Chi Minh City, Ho Chi Minh, VN, AS) ci233-30.netnam.vn                                                                                  
+   210.86.232.101  24173   300.336                        (Hanoi, HN, VN, AS) ci232-101.netnam.vn                                                                                 
+   ***             *       -inf                                           *** *                                                                                                   
+   101.53.31.6     24173   301.029    (Ho Chi Minh City, Ho Chi Minh, VN, AS) ci53.31-6.netnam.vn                                                                                 

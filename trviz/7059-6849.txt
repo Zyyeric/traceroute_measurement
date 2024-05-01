@@ -1,0 +1,10 @@
+   203.119.111.139 4608    0.0                 (Brisbane, Queensland, AU, OC) anchor.apnic.net                                                                                    
+   203.119.111.131 4608    0.8                 (Brisbane, Queensland, AU, OC) vl-1705.nxcs2.hosted.au.apnic.net                                                                   
+╭─ 203.119.104.29  4608    0.593                      (Brisbane, QLD, AU, OC) te-0-1-5.nxgw2.bne.apnic.net                                                                        
+S (4608, )  seamewe-3 ✓ || indigo-west ✓ || australia-singapore-cable-asc ✓
+├─ 27.111.230.169  *       105.056             (Singapore, Singapore, SG, AS)                                                                                                     
+S&T (, 136106)  australia-singapore-cable-asc ✘ || indigo-west ✘ || indonesia-global-gateway-igg-system ✘ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || seamewe-3 ✘ || matrix-cable-system ✘ || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || jasuka ✘ || jakabare ✘
+╰─ 103.87.187.32   136106  116.274                 (Jakarta, Jakarta, ID, AS) ip187-32.fiberstar.net.id                                                                           
+   103.87.184.123  23951   123.684                       (Sleman, YO, ID, AS) ip184-123.fiberstar.net.id                                                                          
+   202.152.153.9   23951   125.566                      (Babadan, JT, ID, AS) 202-152-153-9.as23951.net                                                                           
+   202.152.129.74  23951   125.982           (Yogyakarta, Yogyakarta, ID, AS) 202-152-129-74.citra.net.id                                                                         

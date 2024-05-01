@@ -1,0 +1,15 @@
+   202.142.143.178 4764    0.0                  (Melbourne, Victoria, AU, OC) be3.bng1.vdc03.mel.aussiebb.net                                                                     
+╭─ 202.142.143.177 4764    0.674                (Melbourne, Victoria, AU, OC) gi0-0-0-8.acc3.530col.vic.aussiebb.net                                                              
+S (4764)  seamewe-3 ✓ || indigo-west ✓ || australia-singapore-cable-asc ✓
+├  10.241.6.22     *       0.936                                          ***                                                                                                     
+├  10.241.4.228    *       0.897 (2.745)                                     ***                                                                                                     
+├  10.241.4.151    *       0.858                                          ***                                                                                                     
+├─ 180.150.2.85    4764    88.521              (Singapore, Singapore, SG, AS) be3.core1.equinix-sg1.sin.aussiebb.net                                                              
+S (4764, 133840)  
+├─ 27.111.228.241  133840  89.393                    (Seogwipo, None, KR, AS) 133840.sgw.equinix.com                                                                              
+S (133840)  
+╰─ 103.66.70.108   133840  100.125                 (Jakarta, Jakarta, ID, AS)                                                                                                     
+   121.100.0.45    38158   100.014                 (Jakarta, Jakarta, ID, AS)                                                                                                     
+   43.230.152.226  *       99.895                  (Jakarta, Jakarta, ID, AS) global-in.kings.id                                                                                  
+   43.230.153.90   *       100.291                 (Jakarta, Jakarta, ID, AS)                                                                                                     
+   180.211.88.22   45725   100.341                 (Jakarta, Jakarta, ID, AS) id-jkt-as45725.anchors.atlas.ripe.net                                                               

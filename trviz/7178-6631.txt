@@ -1,0 +1,15 @@
+   92.38.178.149   202422  0.0                       (Urayasu, Tokyo, JP, AS)                                                                                                     
+   92.38.178.1     202422  0.187                     (Urayasu, Tokyo, JP, AS) gw.gcore.lu                                                                                         
+   10.255.16.181   *       0.2                                            ***                                                                                                     
+   10.255.16.184   *       0.492                                          ***                                                                                                     
+   63.222.57.173   3491    0.845                     (Urayasu, Tokyo, JP, AS) 63-222-57-173.static.pccwglobal.net                                                                 
+╭─ 63.218.250.229  3491    0.817                       (Tokyo, Tokyo, JP, AS) hundredge0-4-0-3.br02.tok02.as3491.net                                                              
+S (3491, 3257)  
+├─ 63.218.251.114  3257    0.756                         (None, None, US, NA) *                                                                                                   
+LHL (3257)  
+├─ 89.149.184.21   3257    243.509            (Frankfurt am Main, HE, DE, EU) et-10-1-5.cr8-fra2.ip4.gtt.net                                                                      
+T (3257, 25003)  
+├─ 46.33.95.118    25003   243.865                    (Rotterdam, ZH, NL, EU) ib-gw.ip4.gtt.net                                                                                   
+LHL (25003)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 94.188.255.2    25003   293.849              (Bnei Brak, Tel Aviv, IL, AS) 255.188.94-binat-smaug.in-addr.arpa                                                                 

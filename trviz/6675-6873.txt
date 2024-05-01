@@ -1,0 +1,16 @@
+   193.50.97.164   2200    0.0                   (Plouzané, Brittany, FR, EU) anchor.netlab.enstb.org                                                                             
+   193.50.97.161   2200    0.31                  (Plouzané, Brittany, FR, EU) netlab-gw.enstb.org                                                                                 
+   192.108.116.201 50897   0.368                 (Plouzané, Brittany, FR, EU) asr-vlan39.enst-bretagne.fr                                                                         
+   193.51.188.10   2200    0.358 (6.401)        (Saint-Brieuc, Brittany, FR, EU) vl807-pc1-brest1-rtr-021.noc.renater.fr                                                             
+   193.51.177.174  2200    11.856              (Paris, Île-de-France, FR, EU) et-5-2-1-ren-nr-paris1-rtr-131.noc.renater.fr                                                       
+╭─ 83.97.89.9      20965   11.972                        (Paris, IDF, FR, EU) renater-ias-geant-gw.par.fr.geant.net                                                               
+S&T (20965)  seamewe-3 ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 62.40.98.64     20965   18.43                    (London, England, GB, EU) ae2.mx1.lon.uk.geant.net                                                                            
+S&T (20965, 9002)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 87.245.233.115  9002    37.566                   (Milan, Lombardy, IT, EU) et302-10.rt.vsx.pda.it.retn.net                                                                     
+   87.245.241.129  9002    37.444                   (Milan, Lombardy, IT, EU) gw-as201333.retn.net                                                                                
+   185.78.48.22    201333  38.301                   (Milan, Lombardy, IT, EU) ens1f4-920-r02.pia1.naquadria.net                                                                   
+   185.78.48.244   201333  38.436                     (Parabiago, 25, IT, EU) lf01b5-vlan910.pia1.naquadria.net                                                                   
+   185.78.49.100   201333  38.568          (Piacenza, Emilia-Romagna, IT, EU) it-pcz-as201333.anchors.atlas.ripe.net                                                              

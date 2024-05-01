@@ -1,0 +1,24 @@
+   196.49.15.189   328998  0.0              (Kampala, Central Region, UG, AF)                                                                                                     
+   196.49.15.253   328998  0.157            (Kampala, Central Region, UG, AF)                                                                                                     
+   41.191.77.205   37063   0.515            (Kampala, Central Region, UG, AF)                                                                                                     
+   129.205.30.77   37063   0.612                         (Kampala, C, UG, AF) *                                                                                                   
+╭─ 212.88.110.33   20294   0.558 (1.79)       (Kampala, Central Region, UG, AF)                                                                                                     
+LHL (20294, 16637)  
+╰─ 41.181.247.38   16637   150.933                  (London, England, GB, EU)                                                                                                     
+╭─ 41.181.244.177  16637   150.154                  (London, England, GB, EU)                                                                                                     
+T (16637)  
+├─ 41.181.190.150  16637   151.005                     (Pretoria, GP, ZA, AF) *                                                                                                   
+T (16637)  
+├─ 41.181.190.186  16637   175.69                   (London, England, GB, EU)                                                                                                     
+S&T (16637)  
+╰─ 41.181.105.49   16637   149.954                  (Marseille, None, FR, EU) *                                                                                                   
+   81.52.186.67    5511    150.059             (Paris, Île-de-France, FR, EU)                                                                                                     
+   193.251.133.23  5511    159.075                (Saint-Denis, None, FR, EU) bundle-ether305.partr2.saint-denis.opentransit.net                                                  
+╭─ 77.67.73.1      3257    176.351                       (Paris, IDF, FR, EU) ae1.cr0-par9.ip4.gtt.net                                                                            
+S&T (3257)  
+├─ 89.149.139.25   3257    171.305                      (London, ENG, GB, EU) ae22.cr11-lon1.ip4.gtt.net                                                                          
+S&T (3257, 8895)  
+├─ 154.14.64.198   8895    258.771                    (Amsterdam, NH, NL, EU) ip4.gtt.net                                                                                         
+LHL (8895, 208520)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 45.94.14.204    208520  259.497            (Riyadh, Riyadh Region, SA, AS)                                                                                                     

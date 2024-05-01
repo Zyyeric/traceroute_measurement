@@ -1,0 +1,14 @@
+   45.87.76.6      208725  0.0           (Brussels, Brussels Capital, BE, EU) ansible.devrandom.be                                                                                
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 185.1.127.23    *       1.233                 (Nossegem, Flanders, BE, EU) he.belgiumix.net                                                                                    
+S&T (, 6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.198.118 6939    3.715           (Amsterdam, North Holland, NL, EU) port-channel1.core1.ams1.he.net                                                                     
+S&T (6939)  circe-north ✓ || ulysses-2 ✘ || scylla ✓ || zeus ✓ || concerto ✓ || farland-north ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.64.5    6939    9.613                    (London, England, GB, EU) port-channel4.core1.lon3.he.net                                                                     
+   184.104.204.238 201933  9.358                        (London, ENG, GB, EU) cxs-connected-enterprise-ltd.10gigabitethernet1-1-21.switch1.lon3.he.net                            
+   91.193.116.89   209669  13.034                     (Brighton, ENG, GB, EU) 1ge-0-0.edge.pd1.lon.gbr.primonetwork.co.uk                                                         
+   100.64.0.1      *       46.111                                         ***                                                                                                     
+   185.251.232.156 209669  40.876                   (Bexley, England, GB, EU) 156.232.251.185.arpa.primonetwork.co.uk                                                             

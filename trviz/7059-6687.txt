@@ -1,0 +1,15 @@
+   147.84.200.125  39069   0.0                       (Murcia, Murcia, ES, EU)                                                                                                     
+   147.84.200.11   39069   1.389                     (Murcia, Murcia, ES, EU)                                                                                                     
+   10.250.42.181   *       13.217                                         ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   185.1.192.47    6939    14.137                         (Madrid, M, ES, EU) ipv4.decix-madrid.core1.mad1.he.net                                                                 
+╭─ 184.105.222.166 6939    22.581                     (Barcelona, CT, ES, EU) 100ge0-54.core2.bcn1.he.net                                                                         
+S (6939, 131111)  seamewe-3 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 65.49.108.46    131111  165.777                     (Singapore, 4, SG, AS) moratel-international-pte-ltd.10gigabitethernet3-13.core1.sin1.he.net                               
+S&T (131111, )  australia-singapore-cable-asc ✘ || indigo-west ✘ || indonesia-global-gateway-igg-system ✓ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || seamewe-3 ✘ || matrix-cable-system ✘ || jasuka ✓ || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || jakabare ✘
+╰─ 103.111.193.61  *       191.227           (Yogyakarta, Yogyakarta, ID, AS)                                                                                                     
+   202.152.153.9   23951   189.195                      (Babadan, JT, ID, AS) 202-152-153-9.as23951.net                                                                           
+   202.152.129.74  23951   189.477           (Yogyakarta, Yogyakarta, ID, AS) 202-152-129-74.citra.net.id                                                                         

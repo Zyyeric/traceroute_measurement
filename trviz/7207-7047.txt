@@ -1,0 +1,22 @@
+   80.77.4.60      15412   0.0                         (Dubai, Dubai, AE, AS)                                                                                                     
+╭─ 80.77.4.57      15412   1.952                       (Dubai, Dubai, AE, AS)                                                                                                     
+S (15412)  
+├─ 62.216.130.46   15412   27.295                          (Ozora, 1, JP, AS) xe-2-0-2.0.pjr04.mmb004.flagtel.com                                                                 
+S (15412)  
+├─ 62.216.128.249  15412   80.066                      (Singapore, 4, SG, AS) ge-7-0-0.0.ejr04.sin001.flagtel.com                                                                 
+S (15412, 6453)  
+├─ 62.216.157.162  6453    80.11                         (None, None, GB, EU) *                                                                                                   
+S (6453)  
+╰─ 120.29.214.11   6453    324.11                   (Singapore, None, SG, AS) if-be-46-2.ecore2.svq-singapore.as6453.net                                                          
+   63.243.180.160  6453    328.15              (Singapore, Singapore, SG, AS) if-bundle-22-2.qcore2.esin4-singapore.as6453.net                                                    
+╭─ 63.243.180.131  6453    325.931             (Singapore, Singapore, SG, AS) if-bundle-19-2.qcore1.svw-singapore.as6453.net                                                      
+S (6453)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 195.219.174.10  6453    324.675   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) if-be-30-2.ecore1.emrs2-marseille.as6453.net                                                        
+╭─ 80.231.165.49   6453    330.585   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) if-be-33-2.ecore1.emrs2-marseille.as6453.net                                                        
+S&T (6453, 37100)  
+├─ 105.22.34.174   37100   331.775            (Johannesburg, Gauteng, ZA, AF) ce-0-1-5-91.customer-gw-rogers-capital.er-01-jnb.za.seacomnet.com                                   
+S (37100, 36868)  
+╰─ 196.46.34.108   36868   366.619                       (None, None, MU, AF) *                                                                                                   
+   196.46.49.34    36868   368.423   (Quatre Bornes, Plaines Wilhems, MU, AF)                                                                                                     
+   102.222.106.178 328699  369.544           (Port Louis, Port Louis, MU, AF)                                                                                                     

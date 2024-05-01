@@ -1,0 +1,16 @@
+   195.43.159.22   207788  0.0                           (Oslo, Oslo, NO, EU) anchors.as207788.net                                                                                
+   195.43.159.17   207788  0.308                         (Oslo, Oslo, NO, EU)                                                                                                     
+   31.169.48.100   50304   0.758                         (Oslo, Oslo, NO, EU)                                                                                                     
+╭─ 91.198.176.69   *       0.761                         (Oslo, Oslo, NO, EU) hurriceelectric-demarc.fixo.no                                                                      
+S (, 6939)  
+├─ 184.105.64.134  6939    15.921                       (Ashburn, VA, US, NA) 100ge15-1.core1.ash1.he.net                                                                         
+S (6939)  
+╰─ 184.104.197.126 6939    19.758          (Amsterdam, North Holland, NL, EU) port-channel1.core2.ams7.he.net                                                                     
+   184.104.196.94  6939    22.542                     (Amsterdam, NH, NL, EU) ve1001.core1.ams7.he.net                                                                            
+╭─ 184.104.197.186 6939    19.855                     (Amsterdam, NH, NL, EU) port-channel6.core2.ams2.he.net                                                                     
+S&T (6939)  
+╰─ 184.105.64.5    6939    19.787                   (London, England, GB, EU) port-channel4.core1.lon3.he.net                                                                     
+   184.104.204.238 201933  19.523                       (London, ENG, GB, EU) cxs-connected-enterprise-ltd.10gigabitethernet1-1-21.switch1.lon3.he.net                            
+   91.193.116.89   209669  23.343                     (Brighton, ENG, GB, EU) 1ge-0-0.edge.pd1.lon.gbr.primonetwork.co.uk                                                         
+   100.64.0.1      *       19.864                                         ***                                                                                                     
+   185.251.232.156 209669  20.206                   (Bexley, England, GB, EU) 156.232.251.185.arpa.primonetwork.co.uk                                                             

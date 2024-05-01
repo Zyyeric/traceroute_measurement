@@ -1,0 +1,13 @@
+   103.102.166.20  14907   0.0                 (Singapore, Singapore, SG, AS) ripe-atlas-eqsin.wikimedia.org                                                                      
+   103.102.166.19  14907   0.895               (Singapore, Singapore, SG, AS) ae1-530.cr2-eqsin.wikimedia.org                                                                     
+╭─ 103.102.166.135 14907   1.388               (Singapore, Singapore, SG, AS) pccw-peering.cr2-eqsin.wikimedia.org                                                                
+S (14907, 3491)  eac-c2c ✓ || asia-pacific-gateway-apg ✓ || southeast-asia-japan-cable-sjc ✓ || asia-america-gateway-aag-cable-system ✓ || apcn-2 ✓
+╰─ 63.223.17.94    3491    35.431                   (Hong Kong, None, HK, AS) HundredGE0-7-0-0.br02.hkg15.pccwbtn.net                                                             
+╭─ 63.223.17.94    3491    35.431                   (Hong Kong, None, HK, AS) HundredGE0-7-0-0.br02.hkg15.pccwbtn.net                                                             
+S (3491, 45796)  
+├─ 63.216.83.30    45796   49.901                        (None, None, US, NA) 63-216-83-30.static.pccwglobal.net                                                                  
+S (45796)  
+╰─ 115.31.164.31   45796   51.07                         (None, None, TH, AS) *                                                                                                   
+   115.31.164.203  137566  52.447                        (None, None, TH, AS) *                                                                                                   
+   103.113.176.2   137566  52.087                        (None, None, TH, AS) *                                                                                                   
+   103.113.176.82  137566  55.273        (Ban Talat Bueng, Chon Buri, TH, AS)                                                                                                     

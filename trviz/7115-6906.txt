@@ -1,0 +1,12 @@
+╭─ 185.92.128.30   60924   0.0                         (Dubai, Dubai, AE, AS)                                                                                                     
+LHL (60924)  
+├─ 185.92.128.4    60924   0.237                         (None, None, IE, EU) *                                                                                                   
+LHL (60924, 8966)  
+├─ 195.229.27.145  8966    0.237 (5.571)                    (None, None, AE, AS) *                                                                                                   
+S (8966)  
+├─ 194.170.186.13  8966    78.918                  (Hong Kong, HCW, HK, None) *                                                                                                   
+S (8966, 7642)  
+├─ 27.111.228.167  7642    120.306                   (Seogwipo, None, KR, AS) 7642.sgw.equinix.com                                                                                
+LHL (7642)  
+╰─ 202.1.205.242   7642    88.655                        (None, None, MV, AS) xe-1-0-0-1.rt.dhivehinet.net.mv                                                                     
+   123.176.1.4     7642    88.588                 (Male, Kaafu Atoll, MV, AS)                                                                                                     

@@ -1,0 +1,39 @@
+╭─ 196.49.84.188   328913  0.0                     (Douala, Littoral, CM, AF) cm-dla-as328913.anchors.atlas.ripe.net                                                              
+S (328913)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 196.49.84.34    328913  0.574                   (Abidjan, Abidjan, CI, AF) bdr2.std.douala-ix.net                                                                              
+S&T (328913, 60171)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 102.219.44.42   60171   1.261                       (Lagos, Lagos, NG, AF)                                                                                                     
+S (60171)  
+├─ 185.10.164.44   60171   236.664             (Barcelona, Catalonia, ES, EU)                                                                                                     
+S (60171)  
+├─ 102.223.52.72   60171   236.811                     (Lagos, Lagos, NG, AF)                                                                                                     
+S (60171)  
+╰─ 185.10.164.33   60171   237.256             (Barcelona, Catalonia, ES, EU)                                                                                                     
+╭─ 185.10.164.134  60171   237.097             (Barcelona, Catalonia, ES, EU)                                                                                                     
+S&T (60171, 37542)  
+├─ 185.10.164.112  37542   237.255                      (London, ENG, GB, EU) *                                                                                                   
+S&T (37542, 60171)  
+├─ 185.10.164.98   60171   237.048             (Barcelona, Catalonia, ES, EU)                                                                                                     
+S (60171, 6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.197.94  6939    309.91          (Virginia Beach, Virginia, US, NA) port-channel1.core2.orf2.he.net                                                                     
+   184.105.222.149 6939    335.389                        (Miami, FL, US, NA) 100ge0-79.core2.mia1.he.net                                                                         
+╭─ 206.41.108.51   1916    334.048                       (None, None, US, NA) *                                                                                                   
+S (1916)  
+╰─ 200.143.252.26  1916    331.982                  (Nova Iguaçu, RJ, BR, SA) mia2-mia1.bkb.rnp.br                                                                                
+   170.79.213.46   1916    429.198                       (None, None, BR, SA) *                                                                                                   
+   170.79.213.138  *       402.331   (Rio de Janeiro, Rio de Janeiro, BR, SA) cce1-cce2.bkb.rnp.br                                                                                
+   170.79.213.30   1916    414.762                       (None, None, BR, SA) *                                                                                                   
+   170.79.213.155  *       459.668                  (Salvador, Bahia, BR, SA) cmg1-cba1-100g-infobarra.bkb.rnp.br                                                                 
+   200.143.253.162 1916    580.606                  (Nova Iguaçu, RJ, BR, SA) lanmg-mg.bkb.rnp.br                                                                                 
+   200.131.0.133   1916    423.223                       (None, None, BR, SA) ptp-almeirao-couve.pop-mg.rnp.br                                                                    
+   200.131.0.143   1916    423.086                       (None, None, BR, SA) ptp-tropeiro-almeirao.pop-mg.rnp.br                                                                 
+   200.19.158.1    1916    423.548     (Belo Horizonte, Minas Gerais, BR, SA) ufmg-20g-1.pop-mg.rnp.br                                                                            
+   150.164.164.43  271354  426.153     (Belo Horizonte, Minas Gerais, BR, SA)                                                                                                     
+   150.164.164.133 271354  423.591                       (None, None, BR, SA) *                                                                                                   
+   150.164.164.2   271354  426.455                       (None, None, BR, SA) dcc-fw.rede.ufmg.br                                                                                 
+   150.164.1.130   271354  426.12                        (None, None, BR, SA) shivalegacy.dcc.ufmg.br                                                                             
+   150.164.1.222   271354  423.788     (Belo Horizonte, Minas Gerais, BR, SA) ripeatlas-anchor.dcc.ufmg.br                                                                        

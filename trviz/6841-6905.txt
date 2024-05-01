@@ -1,0 +1,18 @@
+   103.253.132.25  59238   0.0                     (Bangkok, Bangkok, TH, AS) th-bkk-as59238.anchors.atlas.ripe.net                                                               
+   103.253.132.1   59238   0.342                (Khlong San, Bangkok, TH, AS) gw-cat.idc.inox.co.th                                                                               
+   172.24.132.102  *       0.416                                          ***                                                                                                     
+   172.24.132.24   *       0.31                                           ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 122.155.224.73  4651    6.062                (Khlong San, Bangkok, TH, AS)                                                                                                     
+S&T (4651)  
+├─ 61.19.9.138     4651    35.664              (Singapore, Singapore, SG, AS)                                                                                                     
+S (4651, 6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.105.80.13   6939    173.993                        (Milan, 25, IT, EU) 100ge7-2.core1.mil2.he.net                                                                          
+LHL (6939)  
+├─ 184.104.196.194 6939    189.125                       (Denver, CO, US, NA) port-channel1.core1.den3.he.net                                                                     
+LHL (6939)  
+╰─ 184.105.64.170  6939    203.06                        (Athens, A1, GR, EU) 100ge0-36.core1.ath1.he.net                                                                         
+   176.126.38.123  *       196.799               (Áno Liósia, Attica, GR, EU)                                                                                                     
+   195.130.66.103  199399  198.014                   (Athens, Attica, GR, EU) gr-ath-as199399.anchors.atlas.ripe.net                                                              

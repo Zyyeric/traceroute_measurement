@@ -1,0 +1,14 @@
+   103.153.176.122 131657  0.0                       (Taipei, Taiwan, TW, AS) 103-153-176-122.as131657.net                                                                        
+   103.153.176.254 131657  0.273                     (Taipei, Taiwan, TW, AS) 103-153-176-254.as131657.net                                                                        
+   103.51.91.5     *       0.684                     (Taipei, Taiwan, TW, AS) et-0-0-1.cr1.hd.tpe.as131657.net                                                                    
+╭─ 103.158.187.30  *       0.772                     (Taipei, Taiwan, TW, AS) as6939.ly.stuix.io                                                                                  
+S (, 6939)  eac-c2c ✘ || seamewe-3 ✘ || apcn-2 ✘ || asia-pacific-gateway-apg ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.208.93  6939    287.456             (Singapore, Singapore, SG, AS) true-internet-corporation-co-ltd.port-channel18.core3.sin1.he.net                                   
+S&T (6939, 38082)  
+╰─ 122.144.26.19   38082   314.15                        (None, None, TH, AS) TIG-Net26-19.trueintergateway.com                                                                   
+   113.21.243.146  137566  148.698                       (None, None, TH, AS) TIG-Net243-146.trueintergateway.com                                                                 
+   103.113.176.2   137566  150.836                       (None, None, TH, AS) *                                                                                                   
+   103.113.176.82  137566  317.32        (Ban Talat Bueng, Chon Buri, TH, AS)                                                                                                     

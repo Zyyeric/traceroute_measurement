@@ -1,0 +1,18 @@
+   139.99.78.22    16276   0.0                 (Singapore, Singapore, SG, AS) sg-sin-as16276.anchors.atlas.ripe.net                                                               
+   139.99.72.1     16276   0.108               (Singapore, Singapore, SG, AS)                                                                                                     
+   192.168.143.254 *       0.115                                          ***                                                                                                     
+   10.29.210.254   *       0.185                                          ***                                                                                                     
+   10.29.192.54    *       0.205                                          ***                                                                                                     
+   10.29.135.102   *       0.474                                          ***                                                                                                     
+   10.133.65.58    *       0.552                                          ***                                                                                                     
+   10.75.0.78      *       0.569                                          ***                                                                                                     
+   10.75.248.14    *       1.005                                          ***                                                                                                     
+╭─ 103.5.15.4      16276   3.598               (Singapore, Singapore, SG, AS) sin-sg1-sbb1-nc5.sgp.asia                                                                           
+S (16276, 58453)  eac-c2c ✓ || asia-pacific-gateway-apg ✓ || southeast-asia-japan-cable-sjc ✓ || asia-america-gateway-aag-cable-system ✓ || apcn-2 ✓
+├  10.200.0.196    *       1.24                                           ***                                                                                                     
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 223.120.2.105   58453   34.44                         (None, None, HK, AS) *                                                                                                   
+   223.120.3.90    58453   36.536                        (None, None, HK, AS) *                                                                                                   
+   223.119.0.93    202196  37.111                        (None, None, HK, AS) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   37.10.40.14     202196  34.493              (Hong Kong, Hong Kong, HK, AS)                                                                                                     

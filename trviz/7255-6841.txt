@@ -1,0 +1,21 @@
+   195.130.66.103  199399  0.0                       (Athens, Attica, GR, EU) gr-ath-as199399.anchors.atlas.ripe.net                                                              
+   195.130.66.102  199399  1.048                    (Výronas, Attica, GR, EU) gw-ripe-anchor.gr-ix.gr                                                                             
+╭─ 176.126.38.47   *       2.34                  (Áno Liósia, Attica, GR, EU) he.gr-ix.gr                                                                                         
+T (, 6939)  
+├─ 184.105.64.169  6939    12.794              (Sofia, Sofia-Capital, BG, EU) 100ge0-75.core3.sof1.he.net                                                                         
+LHL (6939)  
+├─ 72.52.92.205    6939    26.325                         (Vienna, 9, AT, EU) 100ge14-2.core1.vie1.he.net                                                                         
+LHL (6939)  atlantic-crossing-1-ac-1 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.213.138 6939    116.155                      (Phoenix, AZ, US, NA) port-channel1.core1.phx2.he.net                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 184.105.81.218  6939    173.1                       (San Jose, CA, US, NA) 100ge8-1.core1.sjc2.he.net                                                                          
+S (6939, 7545)  hawaiki ✘ || southern-cross-cable-network-sccn ✓ || southern-cross-next ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 216.218.139.234 7545    331.739                      (Sydney, NSW, AU, OC) tpg-internet-pty-ltd.100gigabitethernet11-1.core1.sjc1.he.net                                       
+   203.29.134.44   7545    327.946          (Sydney, New South Wales, AU, OC) syd-apt-ros-crt4-be-100.tpgi.com.au                                                                 
+   203.26.22.122   7545    337.127                      (Sydney, NSW, AU, OC) syd-sot-ken-crs2-Te-0-6-0-9.tpgi.com.au                                                             
+   27.32.160.25    7545    337.552              (Melbourne, Victoria, AU, OC) au-vi-1015-ipg-221-bundle-ether1.tpgi.com.au                                                        
+   203.220.216.70  7545    335.212                      (Sydney, NSW, AU, OC) 203-220-216-70.tpgi.com.au                                                                          
+   203.192.83.254  7545    335.487              (Melbourne, Victoria, AU, OC) ip-254-83-192-203.static.pipenetworks.com                                                           
+   103.179.37.157  151332  336.992              (Melbourne, Victoria, AU, OC)                                                                                                     

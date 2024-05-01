@@ -1,0 +1,22 @@
+   185.14.96.232   211186  0.0                (Lamía, Central Greece, GR, EU)                                                                                                     
+   185.14.96.225   211186  0.615              (Lamía, Central Greece, GR, EU) vlan4090.lamia.fast.net.gr                                                                          
+   212.205.28.249  6799    0.725              (Lamía, Central Greece, GR, EU) 249.28.205.212.static.otenet.gr                                                                     
+   79.128.234.128  6799    3.695                    (Maroúsi, Attica, GR, EU)                                                                                                     
+   62.75.3.17      12713   3.736             (Néa Chalkidóna, Attica, GR, EU) kolasr02-hu-0-8-0-0.ath.oteglobe.gr                                                                 
+╭─ 62.75.6.30      *       37.095                    (Athens, Attica, GR, EU)                                                                                                     
+LHL (, 37100)  mednautilus-submarine-system ✘ ↠ asia-africa-europe-1-aae-1 ✘
+╰─ 80.81.193.237   37100   43.353            (Frankfurt am Main, 5, DE, None) decix.seacom.mu                                                                                     
+   105.16.9.21     37100   196.715            (Frankfurt am Main, HE, DE, EU) ae-5-0.er-01-fra.de.seacomnet.com                                                                   
+╭─ 105.16.8.253    37100   194.544         (Frankfurt am Main, Hesse, DE, EU) xe-0-0-30-0.cr-02-mrs.fr.seacomnet.com                                                              
+LHL (37100)  africa-coast-to-europe-ace ✓
+╰─ 105.25.160.165  37100   195.493          (Cape Town, Western Cape, ZA, AF) ce-0-1-9.cr-02-cpt.za.seacomnet.com                                                                 
+   105.16.31.10    37100   195.688                    (Cape Town, WC, ZA, AF) xe-1-0-0-0.er-02-cpt.za.seacomnet.com                                                               
+   105.22.72.214   37100   203.266          (Cape Town, Western Cape, ZA, AF)                                                                                                     
+   41.84.12.28     37179   202.693                 (Johannesburg, GP, ZA, AF) core.100g-0-8-0-wc-ro-ter-scp-2.za.africainx.net                                                    
+   41.84.12.169    37179   203.337                 (Johannesburg, GP, ZA, AF) core.xe-0-0-1-nl-am-eqx-dce-1.nl.africainx.net                                                      
+   41.84.12.39     37179   202.18                  (Johannesburg, GP, ZA, AF) core.xe-0-2-2-gp-rb-pkl-scp-2.za.africainx.net                                                      
+   41.84.12.137    37179   202.438                 (Johannesburg, GP, ZA, AF) core.xge-0-2-1-gp-sm-het-scp-2.za.africainx.net                                                     
+   192.168.15.5    *       202.107                                        ***                                                                                                     
+   41.66.132.246   37153   202.139                 (Johannesburg, GP, ZA, AF) 41-66-132-246-f6.hetzner-jhb-ip4-gw.africainx.net                                                   
+   197.189.193.1   37153   207.395                      (Sandton, GP, ZA, AF) core-access-switch1.jnb1.host-h.net                                                                 
+   197.189.194.147 37153   202.475            (Johannesburg, Gauteng, ZA, AF) atlas-anchor-jnb1.jnb.net.host-h.net                                                                

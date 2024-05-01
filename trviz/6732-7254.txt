@@ -1,0 +1,15 @@
+   103.170.154.254 142594  0.0                      (London, England, GB, EU) 254.154.170.103.speedyvps.uk                                                                        
+╭─ 103.170.154.1   142594  0.164                    (London, England, GB, EU)                                                                                                     
+T (142594, 60068)  
+├─ 156.146.32.92   60068   0.303                     (Prague, Prague, CZ, EU) unn-156-146-32-92.cdn77.com                                                                         
+T (60068, 201011)  
+├─ 81.95.9.56      201011  0.417                  (Shadwell, England, GB, EU) ae22-407.lon10.core-backbone.com                                                                    
+S&T (201011)  flag-europe-asia-fea ✘ || seamewe-3 ✘ || tata-tgn-western-europe ✘
+╰─ 80.255.14.2     201011  23.831                         (Madrid, M, ES, EU) ae2-2102.mad10.core-backbone.com                                                                    
+   193.149.1.26    766     24.256                      (Madrid, 29, ES, None) rediris.baja.espanix.net                                                                            
+   130.206.245.25  766     24.559                        (None, None, ES, EU) ciemat.rt2.ethtrunk1.telmad.rt1.mad.red.rediris.es                                                  
+   130.206.216.2   766     24.906                        (None, None, ES, EU) redimadrid-backup-router.red.rediris.es                                                             
+   193.145.15.50   766     25.194                        (None, None, ES, EU) uc3m-rt-ju-01-xe-0-1-0.net.redimadrid.es                                                            
+   ***             *       -inf                                           *** *                                                                                                   
+   163.117.49.4    766     25.487                        (Madrid, MD, ES, EU) b01014zr.uc3m.es                                                                                    
+   163.117.253.5   766     25.57                     (Madrid, Madrid, ES, EU)                                                                                                     

@@ -1,0 +1,32 @@
+   196.6.220.42    37578   0.0              (Nairobi, Nairobi County, KE, AF)                                                                                                     
+   196.6.220.1     37578   0.378            (Nairobi, Nairobi County, KE, AF)                                                                                                     
+   197.155.93.66   30844   0.794            (Nairobi, Nairobi County, KE, AF) 197.155.93.66.liquidtelecom.net                                                                     
+   197.155.94.50   30844   59.552                     (Nairobi, None, KE, AF) hu-0-4-0-2.lke-p2-nbi.liquidtelecom.net                                                             
+╭─ 197.155.94.189  30844   58.858                       (Nairobi, 30, KE, AF) et-1-1-10.lke-p2-msa.liquidtelecom.net                                                              
+S (30844)  
+╰─ 41.175.223.182  30844   59.634             (Johannesburg, Gauteng, ZA, AF)                                                                                                     
+   5.11.12.165     30844   58.733             (Johannesburg, Gauteng, ZA, AF) modem.ltz-vsat182-mar.liquidtelecom.com                                                             
+   77.246.58.99    30844   60.205                  (Johannesburg, GT, ZA, AF) sabmiller-francistownKBL.liquidtelecom.net                                                          
+   184.104.198.45  6939    59.795                  (Johannesburg, GT, ZA, AF) port-channel6.core2.jnb1.he.net                                                                     
+╭─ 184.105.80.105  6939    74.953                     (Cape Town, WC, ZA, AF) 100ge0-35.core1.cpt1.he.net                                                                         
+T (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.105.64.5    6939    190.765                  (London, England, GB, EU) port-channel4.core1.lon3.he.net                                                                     
+S&T (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.105.81.110  6939    200.822                    (Amsterdam, NH, NL, EU) port-channel14.core2.ams1.he.net                                                                    
+T (6939)  
+╰─ 184.104.198.74  6939    209.652                    (Stockholm, AB, SE, EU) port-channel3.core2.sto1.he.net                                                                     
+╭─ 184.104.206.217 6939    252.61              (Stockholm, Stockholm, SE, EU)                                                                                                     
+T (6939, 12389)  
+╰─ 188.128.126.213 12389   298.814                      (Moscow, MOW, RU, EU) *                                                                                                   
+╭─ 95.167.67.162   12389   331.061                     (Suvorov, TUL, RU, EU) *                                                                                                   
+LHL (12389, 29049)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 85.132.90.162   29049   311.947                     (Shiraz, Fars, IR, AS)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   

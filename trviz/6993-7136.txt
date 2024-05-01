@@ -1,0 +1,23 @@
+   193.49.43.151   2200    0.0       (Grenoble, Auvergne-Rhône-Alpes, FR, EU)                                                                                                     
+   193.49.43.99    2200    0.829     (Fontaine, Auvergne-Rhône-Alpes, FR, EU) rteie.epn-campus.eu                                                                                 
+   ***             *       -inf                                           *** *                                                                                                   
+   193.54.185.9    2200    3.677     (Fontaine, Auvergne-Rhône-Alpes, FR, EU) tigre1.grenet.fr                                                                                    
+   193.51.181.94   2200    1.613     (Fontaine, Auvergne-Rhône-Alpes, FR, EU) hu0-2-0-2-ren-nr-grenoble-rtr-091.noc.renater.fr                                                    
+   193.55.204.14   2200    2.978     (Grenoble, Auvergne-Rhône-Alpes, FR, EU) hu0-3-0-3-ren-nr-lyon2-rtr-091.noc.renater.fr                                                       
+╭─ 193.51.180.172  2200    3.431     (Grenoble, Auvergne-Rhône-Alpes, FR, EU) et-3-1-3-ren-nr-lyon1-rtr-131.noc.renater.fr                                                        
+T (2200, 20965)  
+├─ 83.97.89.13     20965   11.225                      (Geneva, None, CH, EU) renater-ias-geant-gw.gen.ch.geant.net                                                               
+T (20965)  
+├─ 62.40.98.239    20965   18.466              (Paris, Île-de-France, FR, EU) ae7.mx1.par.fr.geant.net                                                                            
+S&T (20965)  africa-coast-to-europe-ace ✘ || seamewe-3 ✘
+├─ 62.40.98.106    20965   18.701                        (Lisbon, 11, PT, EU) ae0.mx2.lis.pt.geant.net                                                                            
+S&T (20965)  
+╰─ 62.40.98.64     20965   18.297                   (London, England, GB, EU) ae2.mx1.lon.uk.geant.net                                                                            
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 5.11.13.44      30844   20.517              (Camden Town, England, GB, EU) hu-0-0-0-6.luk-p2-tho.liquidtelecom.net                                                             
+T (30844)  
+╰─ 5.11.12.210     30844   183.931          (Cape Town, Western Cape, ZA, AF) hu0-1-0-4.lza-p1-cpt.liquidtelecom.com                                                              
+   5.11.13.173     30844   181.823            (Johannesburg, Gauteng, ZA, AF) hu-0-1-0-15.lza-p4-jhb.liquidtelecom.net.liquidtelecom.com                                          
+   41.60.135.93    30844   178.878                     (Mokopane, LP, ZA, AF) be-20.lza-pe2-jhb.liquidtelecom.net                                                                 
+   41.60.134.175   12008   175.662                    (Bela-Bela, LP, ZA, AF) 41.60.134.175.liquidtelecom.net                                                                     
+   156.154.135.254 12008   176.93             (Johannesburg, Gauteng, ZA, AF)                                                                                                     

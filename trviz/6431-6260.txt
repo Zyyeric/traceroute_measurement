@@ -1,0 +1,22 @@
+   185.39.208.23   199993  0.0                       (Lisbon, Lisbon, PT, EU) atlasancora01.wan.dns.pt                                                                            
+   185.39.208.60   199993  0.815                     (Lisbon, Lisbon, PT, EU)                                                                                                     
+   194.210.4.137   1930    1.357                     (Lisbon, Lisbon, PT, EU) router63.lisboa.fccn.pt                                                                             
+   194.210.6.112   1930    7.098                     (Lisbon, Lisbon, PT, EU) router30.lisboa.fccn.pt                                                                             
+   193.136.1.9     1930    7.111                       (Porto, Porto, PT, EU) router20.porto.fccn.pt                                                                              
+   194.210.7.103   1930    7.531                          (Porto, 13, PT, EU) Router2.Porto.fccn.pt                                                                               
+╭─ 62.40.127.144   20965   9.177                     (Lisbon, Lisbon, PT, EU) fccn-bckp-gw.rt1.por.pt.geant.net                                                                   
+S&T (20965)  
+├─ 62.40.98.220    20965   41.001                      (Bilbao, None, ES, EU) ae2.rt1.bil.es.geant.net                                                                            
+S&T (20965)  
+├─ 62.40.98.223    20965   40.236                        (Paris, IDF, FR, EU) ae4.mx1.par.fr.geant.net                                                                            
+S&T (20965)  
+├─ 62.40.98.106    20965   40.638                        (Lisbon, 11, PT, EU) ae0.mx2.lis.pt.geant.net                                                                            
+S&T (20965)  
+├─ 62.40.98.64     20965   35.418                   (London, England, GB, EU) ae2.mx1.lon.uk.geant.net                                                                            
+S&T (20965)  
+╰─ 62.40.98.22     20965   40.348          (Amsterdam, North Holland, NL, EU) ae4.rt1.ams.nl.geant.net                                                                            
+╭─ 62.40.124.94    50999   114.009                    (Amsterdam, NH, NL, EU) kaust-gw.mx1.ams.nl.geant.net                                                                       
+LHL (50999)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 109.171.136.4   50999   113.413             (Jeddah, Mecca Region, SA, AS)                                                                                                     

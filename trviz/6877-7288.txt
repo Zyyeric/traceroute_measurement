@@ -1,0 +1,17 @@
+   103.215.229.229 140443  0.0                  (Surabaya, East Java, ID, AS) 229.229.215.103.in-addr.herza.id                                                                    
+   103.215.229.1   140443  0.225         (Gubengairlangga, East Java, ID, AS)                                                                                                     
+   103.215.228.1   140443  0.328         (Gubengairlangga, East Java, ID, AS) 1.228.215.103.in-addr.herza.id                                                                      
+╭─ 36.64.254.21    7713    8.76          (Gubengairlangga, East Java, ID, AS)                                                                                                     
+S&T (7713)  
+╰─ 180.240.193.93  7713    18.559              (Singapore, Singapore, SG, AS)                                                                                                     
+   180.240.193.93  7713    18.559              (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 180.240.204.8   7713    19.241              (Singapore, Singapore, SG, AS)                                                                                                     
+S (7713, 8220)  
+├─ 27.111.229.123  8220    20.006                    (Seogwipo, None, KR, AS) 8220.sgw.equinix.com                                                                                
+S (8220)  
+├─ 193.114.170.221 8220    190.034                       (None, None, GB, EU) *                                                                                                   
+S&T (8220, 39923)  
+╰─ 213.246.245.218 39923   185.458                    (Brussels, BRU, BE, EU) *                                                                                                   
+   109.68.160.65   39923   185.492       (Brussels, Brussels Capital, BE, EU) devrandom1.customer.unix-solutions.be                                                               
+   45.87.79.251    208725  241.762       (Brussels, Brussels Capital, BE, EU) router01.sw1.core.devrandom.be                                                                      
+   45.87.76.6      208725  241.753       (Brussels, Brussels Capital, BE, EU) ansible.devrandom.be                                                                                

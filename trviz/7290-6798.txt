@@ -1,0 +1,14 @@
+   185.34.2.114    36236   0.0                         (Dubai, Dubai, AE, AS)                                                                                                     
+   185.34.2.113    36236   1.043                       (Dubai, Dubai, AE, AS)                                                                                                     
+╭─ 185.34.2.12     36236   0.33                        (Dubai, Dubai, AE, AS)                                                                                                     
+S (36236, 6939)  seamewe-3 ✓ || seamewe-5 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.64.197  6939    76.883                      (Singapore, 4, SG, AS) 10ge1-12.core1.sin1.he.net                                                                          
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 65.49.108.46    131111  77.122                      (Singapore, 4, SG, AS) moratel-international-pte-ltd.10gigabitethernet3-13.core1.sin1.he.net                               
+S&T (131111, 45701)  australia-singapore-cable-asc ✘ || indigo-west ✘ || indonesia-global-gateway-igg-system ✓ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || seamewe-3 ✘ || matrix-cable-system ✘ || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || jasuka ✓ || jakabare ✘
+╰─ 103.129.217.2   45701   91.718                        (None, None, ID, AS) *                                                                                                   
+   103.129.217.2   45701   91.718                        (None, None, ID, AS) *                                                                                                   
+   202.58.202.5    *       111.806                 (Jakarta, Jakarta, ID, AS) ae-2-5-r1-dps1.globalxtreme.net                                                                     
+   103.225.148.27  45701   111.774                 (Jakarta, Jakarta, ID, AS) ip-27-148-225-103.globalxtreme.net                                                                  

@@ -1,0 +1,18 @@
+   92.38.178.149   202422  0.0                       (Urayasu, Tokyo, JP, AS)                                                                                                     
+   92.38.178.1     202422  0.228                     (Urayasu, Tokyo, JP, AS) gw.gcore.lu                                                                                         
+   10.255.16.182   *       0.217                                          ***                                                                                                     
+   10.255.16.183   *       0.476                                          ***                                                                                                     
+╭─ 61.213.146.130  2914    1.7                       (Urayasu, Tokyo, JP, AS)                                                                                                     
+S (2914)  
+╰─ 129.250.6.130   2914    1.354                         (None, None, US, NA) ae-19.r30.tokyjp05.jp.bb.gin.ntt.net                                                                
+╭─ 129.250.7.54    2914    1.365                         (None, None, US, NA) ae-0.a01.tokyjp09.jp.bb.gin.ntt.net                                                                 
+S (2914, 3356)  
+├─ 4.68.75.129     3356    2.066                          (Tokyo, 13, JP, AS) ae-13.edge2.Tokyo4.Level3.net                                                                       
+S (3356)  
+╰─ 4.69.219.138    3356    170.597                       (None, None, US, NA) *                                                                                                   
+╭─ 4.37.37.166     3356    181.49                    (Miami, Florida, US, NA) angola-cabl.edge6.miami1.level3.net                                                                 
+S (3356, 37468)  
+├─ 170.238.233.162 37468   234.914                 (Fortaleza, Ceará, BR, SA) 162.233.238.170.angolacables.ao                                                                     
+S (37468)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 185.148.112.152 37468   285.085                   (Lisbon, Lisbon, PT, EU) 152.112.148.185.angolacables.ao                                                                     

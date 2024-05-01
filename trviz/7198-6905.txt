@@ -1,0 +1,13 @@
+   103.253.132.25  59238   0.0                     (Bangkok, Bangkok, TH, AS) th-bkk-as59238.anchors.atlas.ripe.net                                                               
+   103.253.132.1   59238   0.476                (Khlong San, Bangkok, TH, AS) gw-cat.idc.inox.co.th                                                                               
+   172.24.132.102  *       0.404                                          ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 122.155.224.73  4651    1.247                (Khlong San, Bangkok, TH, AS)                                                                                                     
+S (4651)  asia-america-gateway-aag-cable-system ✓ || asia-africa-europe-1-aae-1 ✓ || flag-europe-asia-fea ✘
+╰─ 61.19.9.122     4651    42.136                   (Hong Kong, None, HK, AS) *                                                                                                   
+╭─ 63.216.142.73   3491    42.184                   (Hong Kong, None, HK, AS) te0-6-0-5.br03.hkg15.pccwbtn.net                                                                    
+S (3491)  apcn-2 👍 || southeast-asia-japan-cable-sjc ✓ || seamewe-3 👍 || eac-c2c ✓ || asia-pacific-gateway-apg ✓ || tata-tgn-intra-asia-tgn-ia ✓ || asia-submarine-cable-express-asecahaya-malaysia ✓ || asia-america-gateway-aag-cable-system ✓
+├─ 63.223.23.98    3491    153.987             (Singapore, Singapore, SG, AS) be42.br01.dub04.as3491.net                                                                          
+S (3491)  
+╰─ 63.222.248.5    3491    132.295                     (Dubai, Dubai, AE, AS)                                                                                                     

@@ -1,0 +1,21 @@
+   103.77.105.3    133800  0.0                     (Jakarta, Jakarta, ID, AS) ip-3-105-77-103.jkt-1.biznetg.io                                                                    
+   103.77.105.28   133800  0.147                   (Jakarta, Jakarta, ID, AS) ip-28-105-77-103.jkt-1.biznetg.io                                                                   
+   137.59.127.33   *       0.286                   (Jakarta, Jakarta, ID, AS) xe-0-2.cr01.jkt.biznetg.io                                                                          
+   137.59.127.58   *       0.289                   (Jakarta, Jakarta, ID, AS) ip-58-127-59-137.core.biznetg.io                                                                    
+   202.169.59.37   17451   0.661 (1.463)              (Jakarta, Jakarta, ID, AS)                                                                                                     
+╭─ 182.253.255.18  17451   1.034                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+S&T (17451)  australia-singapore-cable-asc ✓ || matrix-cable-system ✘ || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || indonesia-global-gateway-igg-system ✓ || indigo-west ✓ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || jasuka ✓ || jakabare ✓
+╰─ 182.253.255.186 17451   11.932              (Singapore, Singapore, SG, AS) gs2-2.biznetnetworks.com                                                                            
+╭─ 184.104.199.150 6939    12.895              (Singapore, Singapore, SG, AS) port-channel1.core1.sin2.he.net                                                                     
+S (6939)  seamewe-5 ✓ || peace-cable ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 37.49.236.10    6939    161.21                        (Paris, IDF, FR, EU) he.par.franceix.net                                                                                 
+╭─ 184.104.231.217 6939    171.742             (Paris, Île-de-France, FR, EU)                                                                                                     
+S&T (6939, 6762)  seamewe-5 ✓ || seamewe-4 ✓ || asia-africa-europe-1-aae-1 ✓ || imewe ✓
+╰─ 195.22.218.213  6762    205.305                    (Palermo, None, IT, EU) ae1.palermo3.pal.seabone.net                                                                        
+╭─ 195.22.197.167  8895    259.788                    (Palermo, None, IT, EU) integrated-telecom.palermo3.pal.seabone.net                                                         
+S (8895, )  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 45.94.12.1      *       259.943            (Riyadh, Riyadh Region, SA, AS)                                                                                                     
+   45.94.14.204    208520  238.583            (Riyadh, Riyadh Region, SA, AS)                                                                                                     

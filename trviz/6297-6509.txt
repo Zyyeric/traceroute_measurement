@@ -1,0 +1,24 @@
+   31.14.143.132   31034   0.0                      (Arezzo, Tuscany, IT, EU) host132-143-14-31.serverdedicati.aruba.it                                                           
+   31.14.143.130   31034   0.553                  (La Costa, Tuscany, IT, EU) host130-143-14-31.serverdedicati.aruba.it                                                           
+   62.149.185.19   31034   0.833                  (La Costa, Tuscany, IT, EU) cr1-be102.it1.aruba.it                                                                              
+   ***             *       -inf                                           *** *                                                                                                   
+   130.117.48.113  174     10.764                    (Venice, Veneto, IT, EU) be3137.rcr51.vce01.atlas.cogentco.com                                                               
+   154.54.75.101   174     10.68                    (Milan, Lombardy, IT, EU) be2276.ccr71.mil02.atlas.cogentco.com                                                               
+╭─ 154.54.59.109   174     10.53                   (Figino, Lombardy, IT, EU) be4271.rcr21.mil01.atlas.cogentco.com                                                               
+T (174)  
+├─ 154.54.63.221   174     19.007                   (Munich, Bavaria, DE, EU) be3814.ccr22.muc03.atlas.cogentco.com                                                               
+T (174)  
+├─ 154.54.59.181   174     24.191                         (Vienna, 9, AT, EU) be3462.ccr52.vie01.atlas.cogentco.com                                                               
+LHL (174)  
+├─ 130.117.50.82   174     24.928                         (Dublin, D, IE, EU) be2209.rcr11.b022738-0.dub01.atlas.cogentco.com                                                     
+LHL (174)  
+├─ 149.6.175.250   174     25.809         (Le Pre-Saint-Gervais, IDF, FR, EU) *                                                                                                   
+S (174, 20965)  
+╰─ 62.40.98.146    20965   49.708                        (Athens, A1, GR, EU) ae1.mx1.ath2.gr.geant.net                                                                           
+   83.97.88.66     5408    50.353                        (Athens, A1, GR, EU) grnet-ias-grnet-gw.mx1.ath2.gr.geant.net                                                            
+╭─ 62.217.100.63   5408    50.764                        (None, None, GR, EU) eier-kolettir-AE.backbone.grnet.gr                                                                  
+LHL (5408, 8522)  
+├─ 62.217.98.49    8522    57.834                    (Hannover, None, DE, EU) forth-her-4.eier.access-link.grnet.gr                                                               
+T (8522)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 139.91.68.3     8522    57.769                  (Irákleion, Crete, GR, EU)                                                                                                     

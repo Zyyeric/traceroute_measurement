@@ -1,0 +1,11 @@
+   103.170.154.254 142594  0.0                      (London, England, GB, EU) 254.154.170.103.speedyvps.uk                                                                        
+╭─ 103.170.154.1   142594  0.197                    (London, England, GB, EU)                                                                                                     
+T (142594, 60068)  
+├─ 156.146.32.92   60068   0.276                     (Prague, Prague, CZ, EU) unn-156-146-32-92.cdn77.com                                                                         
+T (60068, 201011)  
+╰─ 81.95.9.56      201011  0.429                  (Shadwell, England, GB, EU) ae22-407.lon10.core-backbone.com                                                                    
+╭─ 195.66.225.104  15802   1.775                      (London, ENG, GB, None) *                                                                                                   
+S&T (15802, 57187)  europe-india-gateway-eig ✓ || seamewe-3 ✓ || flag-europe-asia-fea ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 94.206.39.74    57187   125.402                        (Dubai, DU, AE, AS) j48-1.dxa.dxb.ae.datamena.net                                                                       
+   94.207.43.2     57187   121.347                     (Dubai, Dubai, AE, AS) -094-207-043-002.datamena.net                                                                       

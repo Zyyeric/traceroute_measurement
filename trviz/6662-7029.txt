@@ -1,0 +1,14 @@
+   192.168.0.130   *       0.0                                            ***                                                                                                     
+   192.168.0.1     *       0.135                                          ***                                                                                                     
+   172.16.254.1    *       0.195                                          ***                                                                                                     
+   192.168.1.1     *       0.564                                          ***                                                                                                     
+   212.156.233.254 47331   0.467 (1.829)                     (Ankara, 6, TR, AS) 212.156.233.254.static.turktelekom.com.tr                                                           
+   10.0.0.78       *       6.977                                          ***                                                                                                     
+   81.212.78.45    9121    5.507                     (Ankara, Ankara, TR, AS) 81.212.78.45.static.turktelekom.com.tr                                                              
+   81.212.216.12   9121    4.94                  (Ümraniye, Istanbul, TR, AS) 34-acibadem-xrs-t2-2---34-acibadem-sr12e-t3-8.statik.turktelekom.com.tr                             
+   81.212.209.216  9121    5.343                         (None, None, TR, AS) 34-ebgp-acibadem-sr12e-k---34-acibadem-xrs-t2-2.statik.turktelekom.com.tr                           
+   86.106.122.133  6663    6.048                 (Istanbul, Istanbul, TR, AS)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   5.188.169.211   202422  6.546                       (Istanbul, 34, TR, AS) vrrp.gcore.lu                                                                                       
+   5.188.168.94    202422  6.896             (Bahçelievler, Istanbul, TR, AS)                                                                                                     

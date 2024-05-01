@@ -1,0 +1,32 @@
+   103.170.232.152 142616  0.0                         (Tokyo, Tokyo, JP, AS) user-103-170-232-152.nrt04.jp.misaka.io                                                             
+   ***             *       -inf                                           *** *                                                                                                   
+   103.170.232.3   142616  0.289                       (Tokyo, Tokyo, JP, AS) spine2.nrt04.jp.misaka.io                                                                           
+   199.119.64.142  969     0.238                       (Tokyo, Tokyo, JP, AS) e54-20.cr2a.eqty8.nrt4.jp.917.as                                                                    
+   84.17.33.104    60068   0.305                       (Tokyo, Tokyo, JP, AS) po66-3517.cr02.nrt04.jp.misaka.io                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 154.54.83.189   174     0.864                       (Tokyo, Tokyo, JP, AS) be3929.ccr71.tyo01.atlas.cogentco.com                                                               
+S (174)  apcn-2 ✓ || eac-c2c ✘ || asia-pacific-gateway-apg ✓
+├─ 154.54.89.202   174     61.186              (Hong Kong, Hong Kong, HK, AS) be3011.ccr21.hkg02.atlas.cogentco.com                                                               
+S (174)  asia-africa-europe-1-aae-1 ✓
+├─ 154.54.6.25     174     239.374                   (Marseille, PAC, FR, EU) be2900.ccr32.mrs02.atlas.cogentco.com                                                               
+S&T (174)  
+├─ 154.54.74.178   174     251.822                        (Milan, 25, IT, EU) be2865.rcr21.mil01.atlas.cogentco.com                                                               
+T (174)  
+├─ 154.54.63.221   174     256.15                   (Munich, Bavaria, DE, EU) be3814.ccr22.muc03.atlas.cogentco.com                                                               
+T (174)  
+├─ 154.54.59.181   174     261.984                        (Vienna, 9, AT, EU) be3462.ccr52.vie01.atlas.cogentco.com                                                               
+T (174)  
+├─ 154.54.59.186   174     288.261                   (Bratislava, BL, SK, EU) be3463.ccr22.bts01.atlas.cogentco.com                                                               
+T (174)  
+├─ 154.54.59.178   174     288.316                     (Budapest, PE, HU, EU) be3263.ccr31.bud01.atlas.cogentco.com                                                               
+T (174)  
+├─ 154.54.38.246   174     288.153                     (Bucharest, B, RO, EU) be3262.ccr31.buh01.atlas.cogentco.com                                                               
+S&T (174)  
+├─ 154.54.77.237   174     288.065               (Istanbul, Istanbul, TR, AS) be3572.rcr71.ist01.atlas.cogentco.com                                                               
+S (174)  
+├─ 154.54.74.206   174     291.95                         (Lyon, ARA, FR, EU) be2880.rcr21.lys01.atlas.cogentco.com                                                               
+S (174, 43391)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 77.223.128.226  43391   297.122            (İzmir, İzmir Province, TR, AS)                                                                                                     

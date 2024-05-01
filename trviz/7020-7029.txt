@@ -1,0 +1,19 @@
+   192.168.0.130   *       0.0                                            ***                                                                                                     
+   192.168.0.1     *       0.158                                          ***                                                                                                     
+   172.16.254.1    *       0.27                                           ***                                                                                                     
+   192.168.1.1     *       0.666                                          ***                                                                                                     
+   10.98.238.18    *       0.558 (4.611)                                     ***                                                                                                     
+   10.0.0.170      *       8.628                                          ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 81.212.216.50   9121    5.411              (Sultanbeyli, Istanbul, TR, AS) 34-acibadem-xrs-t2-1---34-acibadem-sr12e-t3-8.statik.turktelekom.com.tr                             
+LHL (9121)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 212.156.101.230 9121    37.245         (Mörfelden-Walldorf, Hesse, DE, EU) 301-fra-col-2---34-ebgp-acibadem-sr12e-k.statik.turktelekom.com.tr                                  
+T (9121, 3356)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 171.75.9.233    3356    62.463              (Sofia, Sofia-Capital, BG, EU) ae2.20.bar2.sof2.neo.colt.net                                                                       
+LHL (3356, 198589)  
+├─ 212.162.31.130  198589  71.886                        (None, None, GB, EU) *                                                                                                   
+LHL (198589, 21277)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 130.193.166.22  21277   72.278                      (Erbil, Arbīl, IQ, AS)                                                                                                     

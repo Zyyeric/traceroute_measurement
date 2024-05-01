@@ -1,0 +1,20 @@
+   102.130.66.11   37468   0.0                       (Luanda, Luanda, AO, AF)                                                                                                     
+   102.130.66.1    37468   0.422                     (Luanda, Luanda, AO, AF)                                                                                                     
+   102.130.68.105  37468   0.789                         (None, None, AO, AF) *                                                                                                   
+   102.130.68.111  37468   0.728 (2.425)                (Luanda, Luanda, AO, AF)                                                                                                     
+╭─ 102.130.68.138  37468   36.558                        (None, None, AO, AF) *                                                                                                   
+S (37468)  west-africa-cable-system-wacs 👍 || sat-3wasc ✓
+╰─ 102.130.68.69   37468   136.009                   (Lisbon, Lisbon, PT, EU)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 154.54.61.214   174     153.269                        (Porto, 13, PT, EU) be2444.rcr21.opo01.atlas.cogentco.com                                                               
+S&T (174)  seamewe-3 ✓ || sat-3wasc ✓
+├─ 154.54.61.105   174     165.826                       (Bilbao, PV, ES, EU) be2314.ccr32.bio02.atlas.cogentco.com                                                               
+S&T (174)  
+╰─ 154.54.61.118   174     185.871                       (Paris, IDF, FR, EU) be2318.ccr42.par01.atlas.cogentco.com                                                               
+╭─ 130.117.1.46    174     186.365                       (Paris, IDF, FR, EU) be3626.rcr21.par05.atlas.cogentco.com                                                               
+S&T (174, 43646)  
+├─ 149.14.120.162  43646   185.971                       (Madrid, MD, ES, EU) tdf.demarc.cogentco.com                                                                             
+S&T (43646, 52039)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 95.81.129.209   52039   197.721                       (None, None, FR, EU) *                                                                                                   
+   185.150.253.30  52039   197.581                 (Rennes, Brittany, FR, EU)                                                                                                     

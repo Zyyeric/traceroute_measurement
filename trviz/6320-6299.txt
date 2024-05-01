@@ -1,0 +1,17 @@
+   197.239.73.59   37577   0.0                  (Ouagadougou, Centre, BF, AF)                                                                                                     
+   197.239.73.57   37577   0.342                (Ouagadougou, Centre, BF, AF)                                                                                                     
+   165.16.221.42   37721   0.405                         (None, None, BF, AF) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 102.67.96.39    37721   4.87                 (Ouagadougou, Centre, BF, AF)                                                                                                     
+LHL (37721)  west-africa-cable-system-wacs ✓ || africa-coast-to-europe-ace ✓ || mainone ✘ || sat-3wasc ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 102.67.96.247   37721   95.989                    (Lisbon, Lisbon, PT, EU) ce1-2036.bb2.lis1.vts.bf                                                                            
+S&T (37721)  tata-tgn-western-europe ✓ || europe-india-gateway-eig ✓ || seamewe-3 ✓
+├─ 102.67.96.26    37721   125.814                  (London, England, GB, EU) xe-0-0-1-2034.bb1.lon1.vts.bf                                                                       
+S&T (37721)  seamewe-3 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 102.67.97.149   37721   140.444                      (Paris, None, FR, EU) xe-0-0-0-61.bb1.prs1.vts.bf                                                                         
+   46.231.240.1    211882  133.364             (Paris, Île-de-France, FR, EU) ftth-0-gateway.aquilenet.fr                                                                         
+   46.231.241.239  211882  150.184             (Paris, Île-de-France, FR, EU) charon1.aquilenet.fr                                                                                
+   185.233.100.99  198985  144.088     (Bordeaux, Nouvelle-Aquitaine, FR, EU) ripe-atlas.aquilenet.fr                                                                             

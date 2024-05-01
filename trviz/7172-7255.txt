@@ -1,0 +1,14 @@
+   103.179.37.157  151332  0.0                  (Melbourne, Victoria, AU, OC)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   203.192.83.253  7545    1.57                 (Melbourne, Victoria, AU, OC) ip-253-83-192-203.static.pipenetworks.com                                                           
+   203.220.216.73  7545    1.98                         (Sydney, NSW, AU, OC) 203-220-216-73.tpgi.com.au                                                                          
+   27.32.160.130   7545    13.078                       (Sydney, NSW, AU, OC) 27-32-160-130.static.tpgi.com.au                                                                    
+   202.7.173.17    7545    12.868                       (Sydney, NSW, AU, OC) syd-gls-har-crt2-be-10.tpgi.com.au                                                                  
+╭─ 203.221.3.4     7545    12.507                       (Sydney, NSW, AU, OC) syd-gls-har-int2-be100.tpgi.com.au                                                                  
+S (7545, 6453)  australia-japan-cable-ajc ✓
+╰─ 180.87.181.192  6453    138.252                        (Tokyo, 13, JP, AS) ix-xe-1-1-2-0.tcore1.tv2-tokyo.as6453.net                                                           
+   180.87.181.205  6453    132.405                     (Tokyo, Tokyo, JP, AS) if-be-33-2.ecore1.tv2-tokyo.as6453.net                                                              
+╭─ 63.218.251.13   3491    184.011                     (Tokyo, Tokyo, JP, AS)                                                                                                     
+S (3491)  korea-japan-cable-network-kjcn ✓ || asia-pacific-gateway-apg ✓ || flag-north-asia-loopreach-north-asia-loop 👍 || apcn-2 👍 || eac-c2c ✓ || new-cross-pacific-ncp-cable-system ✓ || flag-europe-asia-fea ✓ || trans-pacific-express-tpe-cable-system ✓
+╰─ 63.218.148.102  3491    212.105                      (Seoul, None, KR, AS) Bundle-Ether43.br04.seo01.pccwbtn.net                                                               
+   63.222.106.8    3491    215.751                     (Seoul, Seoul, KR, AS) 63-222-106-8.static.pccwglobal.net                                                                  

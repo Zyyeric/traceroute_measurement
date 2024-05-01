@@ -1,0 +1,15 @@
+╭─ 185.92.128.30   60924   0.0                         (Dubai, Dubai, AE, AS)                                                                                                     
+LHL (60924)  
+├─ 185.92.128.4    60924   0.345                         (None, None, IE, EU) *                                                                                                   
+LHL (60924, 8966)  
+├─ 195.229.27.145  8966    6.197                         (None, None, AE, AS) *                                                                                                   
+S (8966)  
+╰─ 195.229.0.181   8966    5.426                        (Cascais, 11, PT, EU) *                                                                                                   
+╭─ 195.229.0.181   8966    5.426                        (Cascais, 11, PT, EU) *                                                                                                   
+S&T (8966, 6762)  
+├─ 93.186.142.226  6762    118.057                       (None, None, IT, EU) *                                                                                                   
+S&T (6762)  
+╰─ 213.144.170.113 6762    115.631   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) ae8.marsiglia3.mar.seabone.net                                                                      
+   213.144.170.65  6762    115.637   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) eho-link.marsiglia3.mar.seabone.net                                                                 
+   ***             *       -inf                                           *** *                                                                                                   
+   185.233.32.213  211997  116.589   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) 185-233-32-213.eho.link                                                                             

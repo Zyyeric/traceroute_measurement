@@ -1,0 +1,22 @@
+   37.10.126.72    199610  0.0              (Los Angeles, California, US, NA)                                                                                                     
+╭─ 37.10.126.65    199610  0.928            (Los Angeles, California, US, NA)                                                                                                     
+LHL (199610)  apollo ✘ || flag-atlantic-1-fa-1 ✘
+├─ 46.251.228.221  199610  1.028                         (None, None, DE, EU) *                                                                                                   
+LHL (199610, 2914)  
+╰─ 157.238.226.2   2914    1.263            (Los Angeles, California, US, NA) ce-3-4-1-1001.a03.lsanca07.us.bb.gin.ntt.net                                                        
+   129.250.3.143   2914    3.128            (Los Angeles, California, US, NA) ae-13.r25.lsanca07.us.bb.gin.ntt.net                                                                
+   129.250.3.192   2914    111.858                       (None, None, US, NA) ae-12.r31.tokyjp05.jp.bb.gin.ntt.net                                                                
+╭─ 129.250.5.94    2914    105.716                       (None, None, US, NA) ae-1.sayonara-dorian.a01.chcgil09.us.bb.gin.ntt.net                                                 
+S (2914, 20940)  apollo ✓ ↠ seamewe-3 ✓ || apollo ✓ ↠ flag-europe-asia-fea © || flag-atlantic-1-fa-1 © ↠ seamewe-3 ✓ || flag-atlantic-1-fa-1 © ↠ flag-europe-asia-fea ©
+╰─ 61.120.145.130  20940   104.5                 (Tokyo / Narita, 12, JP, AS) ae-2.akamai.tokyjp05.jp.bb.gin.ntt.net                                                              
+   23.56.142.34    20940   105.674               (Tokyo / Narita, 12, JP, AS) ae1.r01.tyo03.icn.netarch.akamai.com                                                                
+╭─ 23.215.54.192   20940   105.349               (Tokyo / Narita, 12, JP, AS) ae10.r02.tyo01.icn.netarch.akamai.com                                                               
+S (20940)  asia-submarine-cable-express-asecahaya-malaysia ✓ || seamewe-3 ✓ || eac-c2c ✓ || asia-pacific-gateway-apg ✓ || southeast-asia-japan-cable-sjc ✓ || apcn-2 ✓
+╰─ 23.215.54.32    20940   171.324             (Singapore, Singapore, SG, AS) ae10.r02.sin01.icn.netarch.akamai.com                                                               
+   23.215.54.164   20940   172.886                     (Singapore, 4, SG, AS) ae0.r01.sin01.icn.netarch.akamai.com                                                                
+   23.56.138.35    20940   172.976                     (Singapore, 4, SG, AS) ae6.r01.sin01.ien.netarch.akamai.com                                                                
+   23.56.138.53    20940   177.829             (Singapore, Singapore, SG, AS) a23-56-138-53.deploy.static.akamaitechnologies.com                                                  
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   139.162.3.33    63949   174.343             (Singapore, Singapore, SG, AS) li845-33.members.linode.com                                                                         

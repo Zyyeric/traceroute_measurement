@@ -1,0 +1,14 @@
+   208.73.138.12   32425   0.0                    (Ashland, Virginia, US, NA)                                                                                                     
+   208.73.138.1    32425   0.589               (Glen Allen, Virginia, US, NA)                                                                                                     
+   208.73.136.42   32425   0.588               (Glen Allen, Virginia, US, NA) sw-pxf-mmr-n3k2.v986.xe.pxfactorydc.net                                                             
+   208.73.136.134  32425   0.325                        (Ashland, VA, US, NA) r-pxf-ce1.v971.xe.qts.pxfactorydc.net                                                               
+   208.73.136.140  32425   0.349               (Glen Allen, Virginia, US, NA) edge1.v971.ae35.qts.pxfactorydc.net                                                                 
+╭─ 209.51.171.153  6939    0.994               (Glen Allen, Virginia, US, NA) port-channel5.switch1.ric1.he.net                                                                   
+S (6939)  marea ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.197.93  6939    69.014            (Bilbao, Basque Country, ES, EU) port-channel4.core1.bio1.he.net                                                                     
+   184.104.196.161 6939    73.076                         (Madrid, M, ES, EU) 100ge0-30.core1.mad1.he.net                                                                         
+   193.149.1.133   202422  73.132                      (Madrid, 29, ES, None) g-core.baja.espanix.net                                                                             
+   10.255.37.171   *       74.596                                         ***                                                                                                     
+   10.255.32.228   *       74.718                                         ***                                                                                                     
+   92.38.171.55    202422  74.718    (San Sebastián de los Reyes, Madrid, ES, EU)                                                                                                     

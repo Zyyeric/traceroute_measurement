@@ -1,0 +1,38 @@
+   185.39.208.23   199993  0.0                       (Lisbon, Lisbon, PT, EU) atlasancora01.wan.dns.pt                                                                            
+   185.39.208.60   199993  0.367                     (Lisbon, Lisbon, PT, EU)                                                                                                     
+   194.210.4.137   1930    0.81                      (Lisbon, Lisbon, PT, EU) router63.lisboa.fccn.pt                                                                             
+   194.210.6.112   1930    0.847                     (Lisbon, Lisbon, PT, EU) router30.lisboa.fccn.pt                                                                             
+   194.210.6.103   1930    1.081                     (Lisbon, Lisbon, PT, EU) router3.lisboa.fccn.pt                                                                              
+   194.210.6.102   1930    8.926                         (Lisbon, 11, PT, EU) Router30.Lisboa.fccn.pt                                                                             
+   193.136.1.9     1930    6.644                       (Porto, Porto, PT, EU) router20.porto.fccn.pt                                                                              
+   194.210.7.103   1930    6.882                          (Porto, 13, PT, EU) Router2.Porto.fccn.pt                                                                               
+╭─ 83.97.88.44     21320   6.543                     (Lisbon, Lisbon, PT, EU) fccn-ias-geant-gw.rt1.por.pt.geant.net                                                              
+S&T (21320, 20965)  west-africa-cable-system-wacs ✓ || africa-coast-to-europe-ace ✓ || tata-tgn-western-europe ✘ || sat-3wasc ✓ || seamewe-3 ✓
+├─ 62.40.98.220    20965   45.196                      (Bilbao, None, ES, EU) ae2.rt1.bil.es.geant.net                                                                            
+S&T (20965)  
+├─ 62.40.98.223    20965   45.243                        (Paris, IDF, FR, EU) ae4.mx1.par.fr.geant.net                                                                            
+T (20965)  
+╰─ 62.40.98.238    20965   47.246                    (Genève, Geneva, CH, EU) ae7.mx1.gen.ch.geant.net                                                                            
+╭─ 62.40.98.182    20965   46.982                      (Geneva, None, CH, EU) ae5.mx1.gen.ch.geant.net                                                                            
+T (20965, 3356)  
+╰─ 62.67.72.69     3356    46.911          (Frankfurt am Main, Hesse, DE, EU) lag-117.ear4.frankfurt1.level3.net                                                                  
+╭─ 171.75.10.151   3356    46.159          (Frankfurt am Main, Hesse, DE, EU) ae2.3221.edge8.frf1.neo.colt.net                                                                    
+LHL (3356, 2914)  
+├─ 129.250.9.5     2914    46.944                        (None, None, US, NA) ae-37.r01.frnkge07.de.bb.gin.ntt.net                                                                
+LHL (2914)  
+├─ 129.250.7.43    2914    45.445          (Frankfurt am Main, Hesse, DE, EU) ae-7.r21.frnkge13.de.bb.gin.ntt.net                                                                 
+LHL (2914)  
+╰─ 129.250.5.27    2914    55.03                         (None, None, US, NA) ae-12.r21.parsfr04.fr.bb.gin.ntt.net                                                                
+   129.250.6.6     2914    133.133                       (None, None, US, NA) ae-13.sayonara-dorian.r24.asbnva02.us.bb.gin.ntt.net                                                
+   ***             *       -inf                                           *** *                                                                                                   
+   129.250.3.147   2914    197.111                       (None, None, US, NA) ae-0.sayonara-dorian.r25.snjsca04.us.bb.gin.ntt.net                                                 
+   129.250.5.77    2914    282.97                        (None, None, US, NA) ae-21.r30.tokyjp05.jp.bb.gin.ntt.net                                                                
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 129.250.5.29    2914    287.933                       (None, None, US, NA) ae-0.r27.tkokhk01.hk.bb.gin.ntt.net                                                                 
+S (2914)  
+╰─ 129.250.5.135   2914    286.48              (Hong Kong, Hong Kong, HK, AS) ae-1.a00.newthk04.hk.bb.gin.ntt.net                                                                 
+   203.131.242.154 60068   342.534                       (None, None, HK, AS) *                                                                                                   
+   45.11.107.234   969     265.585             (Hong Kong, Hong Kong, HK, AS) p77-6.cr1a.eqhk2.hkg12.hk.917.as                                                                    
+   199.119.64.151  969     265.399             (Hong Kong, Hong Kong, HK, AS) po103-10.spine3.hkg12.hk.misaka.io                                                                  
+   45.11.104.9     57695   265.263             (Hong Kong, Hong Kong, HK, AS) po30.0103.hkg12.hk.misaka.io                                                                        
+   45.11.104.146   57695   264.938             (Hong Kong, Hong Kong, HK, AS) hk-hkg-as57695.anchors.atlas.ripe.net                                                               

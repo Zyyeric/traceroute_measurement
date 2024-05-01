@@ -1,0 +1,13 @@
+   103.160.63.222  140443  0.0                     (Jakarta, Jakarta, ID, AS) 222.63.160.103.in-addr.herza.id                                                                     
+╭─ 103.160.63.129  140443  0.33                    (Jakarta, Jakarta, ID, AS) 129.63.160.103.in-addr.herza.id                                                                     
+S&T (140443, 174)  australia-singapore-cable-asc ✓ || matrix-cable-system ✘ || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || indonesia-global-gateway-igg-system ✓ || seamewe-3 ✓ || indigo-west ✘ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || jasuka ✓ || jakabare ✘
+├  10.111.220.46   *       0.539                                          ***                                                                                                     
+├  10.111.220.6    *       12.246                                         ***                                                                                                     
+├  10.111.222.209  *       12.333                                         ***                                                                                                     
+╰─ 154.18.19.209   174     12.944              (Singapore, Singapore, SG, AS) te0-8-0-2-7.201.ccr31.sin01.atlas.cogentco.com                                                      
+╭─ 154.18.35.178   174     12.599              (Singapore, Singapore, SG, AS)                                                                                                     
+S (174, 9268)  australia-singapore-cable-asc ✘ || indigo-west © || seamewe-3 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  10.254.248.126  *       12.746                                         ***                                                                                                     
+├  10.254.251.52   *       104.815                                        ***                                                                                                     
+╰─ 119.17.170.244  9268    104.52           (Sydney, New South Wales, AU, OC) gen-119-17-170-244.ptr4.otw.net.au                                                                  

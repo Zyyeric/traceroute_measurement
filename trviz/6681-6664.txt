@@ -1,0 +1,13 @@
+   146.185.219.73  202422  0.0        (Petaẖ Tiqva, Central District, IL, AS)                                                                                                     
+   146.185.219.3   202422  0.327                 (Tel Aviv, Tel Aviv, IL, AS) vrrp.gcore.lu                                                                                       
+   10.255.29.242   *       0.291                                          ***                                                                                                     
+   192.115.73.153  12400   8.95                        (Tel Aviv, TA, IL, AS) *                                                                                                   
+   82.102.131.170  12400   1.196                       (Tel Aviv, TA, IL, AS) *                                                                                                   
+   82.102.131.171  13335   1.758                       (Tel Aviv, TA, IL, AS) *                                                                                                   
+   172.70.200.76   13335   1.096                       (Tel Aviv, TA, IL, AS) *                                                                                                   
+   172.70.200.75   13335   1.281                       (Tel Aviv, TA, IL, AS) *                                                                                                   
+╭─ 172.70.200.75   13335   1.281                       (Tel Aviv, TA, IL, AS) *                                                                                                   
+LHL (13335, 133800)  mednautilus-submarine-system ✓ ↠ seamewe-3 ✓ || jonah ✓ ↠ seamewe-3 ✓ || lev-submarine-system ✘ ↠ seamewe-3 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 137.59.127.34   133800  228.82                        (None, None, ID, AS) ip-34-127-59-137.core.biznetg.io                                                                    
+   103.77.105.3    133800  227.571                 (Jakarta, Jakarta, ID, AS) ip-3-105-77-103.jkt-1.biznetg.io                                                                    

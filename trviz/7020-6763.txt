@@ -1,0 +1,16 @@
+   109.168.125.243 5602    0.0                      (Milan, Lombardy, IT, EU) 243.125.168.109.host.static.ip.kpnqwest.it                                                          
+   109.168.125.194 5602    1.044                   (Figino, Lombardy, IT, EU) 194.125.168.109.host.static.ip.kpnqwest.it                                                          
+   94.141.0.137    5602    0.22                    (Figino, Lombardy, IT, EU) er2-xe-1-3-0-0-cal4.mil.kpnqwest.it                                                                 
+   94.141.0.201    5602    0.344                   (Figino, Lombardy, IT, EU) er1-xe-0-0-3-0-cal4.mil.kpnqwest.it                                                                 
+   109.168.0.22    5602    0.831                           (Lodi, 25, IT, EU) cr2-hunge0-0-1-1-cal1.mil.kpnqwest.it                                                               
+   109.168.0.166   5602    0.263                          (Milan, 25, IT, EU) br1-xe-0-1-0-0-cal1.mil.kpnqwest.it                                                                 
+   62.196.8.245    3302    0.362                   (Figino, Lombardy, IT, EU)                                                                                                     
+   37.32.107.1     *       0.939                   (Figino, Lombardy, IT, EU)                                                                                                     
+╭─ 213.249.124.173 3356    0.438                   (Figino, Lombardy, IT, EU) et-4-0-22.edge1.milan1.level3.net                                                                   
+T (3356)  
+├─ 171.75.9.233    3356    25.065              (Sofia, Sofia-Capital, BG, EU) ae2.20.bar2.sof2.neo.colt.net                                                                       
+LHL (3356, 198589)  
+├─ 212.162.31.130  198589  80.75                         (None, None, GB, EU) *                                                                                                   
+LHL (198589, 21277)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 130.193.166.22  21277   81.167                      (Erbil, Arbīl, IQ, AS)                                                                                                     

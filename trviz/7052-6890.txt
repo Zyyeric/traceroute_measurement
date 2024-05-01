@@ -1,0 +1,19 @@
+   192.102.254.220 395152  0.0          (Vancouver, British Columbia, CA, NA)                                                                                                     
+   192.102.254.3   395152  0.459        (Vancouver, British Columbia, CA, NA)                                                                                                     
+   216.251.158.70  14007   1.441        (Vancouver, British Columbia, CA, NA)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 65.49.79.249    6939    1.793        (Vancouver, British Columbia, CA, NA) e0-12.switch3.yvr2.he.net                                                                           
+LHL (6939)  
+├─ 184.104.195.13  6939    1.31               (Frankfurt am Main, HE, DE, EU) 100ge4-2.core1.fra1.he.net                                                                          
+LHL (6939)  
+╰─ 184.104.196.221 6939    5.802                        (Seattle, WA, US, NA) port-channel3.core2.sea1.he.net                                                                     
+   184.105.64.138  6939    7.477                       (Portland, OR, US, NA) 100ge15-1.core1.pdx1.he.net                                                                         
+   ***             *       -inf                                           *** *                                                                                                   
+   198.32.176.33   2152    23.962                       (Oakland, CA, US, NA) calren-cenic.paix.net                                                                               
+   137.164.11.22   2152    23.035              (Berkeley, California, US, NA) emvl1-agg-01--oak-agg8--400g--01.cenic.net                                                          
+   137.164.11.89   3292    24.692                      (Tri-City, OR, US, NA) dc-tri-agg2--oak-agg8-300g.cenic.net                                                                
+   137.164.46.7    2152    29.337                      (Tri-City, OR, US, NA) cor-agg8--tri-agg2--100ge.cenic.net                                                                 
+   137.164.50.243  2152    31.302                        (Corona, CA, US, NA) sha-coe-1--cor-agg8-10g.cenic.net                                                                   
+   137.164.34.84   2152    30.314                       (Shafter, CA, US, NA) sha-coe-2---to--sha-coe-1--10ge.cenic.net                                                           
+   137.164.13.11   23483   30.75                        (Shafter, CA, US, NA) shacoe-gw2--sha-coe-2-10g.cenic.net                                                                 
+   66.244.16.33    23483   30.382               (Redding, California, US, NA) us-rdd-as23483.anchors.atlas.ripe.net                                                               

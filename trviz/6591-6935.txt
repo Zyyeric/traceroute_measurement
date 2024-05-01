@@ -1,0 +1,20 @@
+   102.130.49.144  328383  0.0                (Johannesburg, Gauteng, ZA, AF) za-jnb-as57695.anchors.atlas.ripe.net                                                               
+   102.130.49.21   328383  0.139              (Johannesburg, Gauteng, ZA, AF) po-21.lag.jnb01.za.misaka.io                                                                        
+   102.130.49.3    328383  0.149              (Johannesburg, Gauteng, ZA, AF) spine2.v271.jnb01.za.misaka.io                                                                      
+╭─ 102.130.51.6    *       0.153              (Johannesburg, Gauteng, ZA, AF) e54-1-20.cr2a.tdjb1.jnb1.za.917.as                                                                  
+LHL (, 969)  africa-coast-to-europe-ace ✘ ↠ apollo ✘ || africa-coast-to-europe-ace ✘ ↠ flag-atlantic-1-fa-1 ✘
+├─ 199.119.64.250  969     0.136                    (Dover, Delaware, US, NA) po100.cr1a.tdjb1.jnb1.za.917.as                                                                     
+LHL (969, 60068)  apollo ✘ || flag-atlantic-1-fa-1 ✘
+├─ 37.19.193.190   60068   0.12                      (Prague, Prague, CZ, EU) p77-3502.cr1a.tdjb1.jnb1.za.917.as                                                                  
+LHL (60068, 5511)  
+├─ 193.251.152.55  5511    0.128 (0.55)         (Johannesburg, Gauteng, ZA, AF)                                                                                                     
+LHL (5511)  africa-coast-to-europe-ace 👍 ↠ apollo ✓ ↠ apollo ✓ || africa-coast-to-europe-ace 👍 ↠ apollo ✓ ↠ flag-atlantic-1-fa-1 © || africa-coast-to-europe-ace 👍 ↠ flag-atlantic-1-fa-1 © ↠ apollo ✓ || africa-coast-to-europe-ace 👍 ↠ flag-atlantic-1-fa-1 © ↠ flag-atlantic-1-fa-1 ©
+├─ 193.251.133.154 5511    169.898            (Frankfurt am Main, HE, DE, EU) ae312-0.ffttr6.frankfurt.opentransit.net                                                            
+T (5511, 6453)  
+╰─ 193.251.252.152 6453    235.078                       (None, None, FR, EU) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   

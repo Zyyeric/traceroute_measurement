@@ -1,0 +1,15 @@
+   130.193.166.22  21277   0.0                         (Erbil, Arbīl, IQ, AS)                                                                                                     
+╭─ 130.193.166.21  21277   0.379                       (Erbil, Arbīl, IQ, AS)                                                                                                     
+LHL (21277, 13335)  seamewe-3 ✓
+├─ 5.23.0.73       13335   0.852                      (Algeciras, AN, ES, EU) *                                                                                                   
+S (13335, 21277)  
+├─ 5.23.0.72       21277   27.741                      (Istanbul, 34, TR, AS) ix-ae-13-0.tcore1.it5-istanbul.as6453.net                                                           
+LHL (21277, 6453)  
+├─ 5.23.0.56       6453    68.713          (Frankfurt am Main, Hesse, DE, EU) if-bundle-2-3.qcore1.fr0-frankfurt.as6453.net                                                       
+T (6453, 25003)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 212.113.14.250  25003   81.261                      (London, None, GB, EU) IB.edge5.London1.Level3.net                                                                         
+T (25003)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 94.188.255.2    25003   125.358              (Bnei Brak, Tel Aviv, IL, AS) 255.188.94-binat-smaug.in-addr.arpa                                                                 

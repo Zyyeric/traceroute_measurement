@@ -1,0 +1,16 @@
+   185.206.184.74  42207   0.0                 (Ljubljana, Ljubljana, SI, EU)                                                                                                     
+   185.206.184.65  42207   0.375               (Ljubljana, Ljubljana, SI, EU)                                                                                                     
+╭─ 91.220.194.139  *       1.344               (Ljubljana, Ljubljana, SI, EU) six.he.net                                                                                          
+T (, 6939)  
+├─ 184.104.196.21  6939    5.473                     (Vienna, Vienna, AT, EU) 100ge0-57.core2.vie1.he.net                                                                         
+LHL (6939)  atlantic-crossing-1-ac-1 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 72.52.92.69     6939    31.832                    (Pleasanton, CA, US, NA) 10ge4-5.core1.pao1.he.net                                                                           
+LHL (6939, 3356)  apollo ✓ || flag-atlantic-1-fa-1 ✓
+╰─ 184.104.198.25  3356    19.749             (Frankfurt am Main, HE, DE, EU) port-channel12.core2.fra1.he.net                                                                    
+╭─ 184.104.191.182 6939    32.765          (Frankfurt am Main, Hesse, DE, EU) telmekom-srl.ve104.core3.fra1.he.net                                                                
+T (6939, 49088)  
+╰─ 185.144.72.136  49088   32.769                       (Schenna, 32, IT, EU) 185-144-72-136.ip4.tkom.io                                                                          
+   185.144.72.166  49088   32.936                       (Schenna, 32, IT, EU) 185-144-72-166.ip4.tkom.io                                                                          
+   185.144.72.8    49088   32.928                    (Mirano, Veneto, IT, EU) voicetunnel.tkom.io                                                                                 

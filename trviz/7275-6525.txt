@@ -1,0 +1,17 @@
+   171.67.70.16    32      0.0                 (Stanford, California, US, NA) us-pao-as32.anchors.atlas.ripe.net                                                                  
+   171.67.70.1     32      0.485               (Stanford, California, US, NA) sw-tor-01.esrg.stanford.edu                                                                         
+   10.214.4.252    *       0.788                                          ***                                                                                                     
+   171.66.0.209    32      1.262               (Stanford, California, US, NA)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 184.105.81.81   6939    2.352               (San Jose, California, US, NA) port-channel12.core4.sjc2.he.net                                                                    
+S (6939)  faster ✓ || japan-u-s-cable-network-jus ✓ || pacific-crossing-1-pc-1 ✘ || jupiter ✓ || trans-pacific-express-tpe-cable-system ✓ || new-cross-pacific-ncp-cable-system ✓ || tata-tgn-pacific ✓ || unityeac-pacific ✓
+├─ 184.104.194.38  6939    109.199               (Tokyo / Narita, 12, JP, AS) 100ge8-1.core1.tyo1.he.net                                                                          
+S (6939)  eac-c2c ✓ || asia-pacific-gateway-apg ✓ || asia-submarine-cable-express-asecahaya-malaysia ✓ || southeast-asia-japan-cable-sjc ✓ || apcn-2 ✓ || seamewe-3 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 74.82.49.214    6939    175.203             (Singapore, Singapore, SG, AS) pt-jala-lintas-media.e0-3.switch5.sin1.he.net                                                       
+S&T (6939, 133840)  australia-singapore-cable-asc © || indigo-west ✓ || indonesia-global-gateway-igg-system ✓ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || seamewe-3 ✓ || matrix-cable-system ✓ || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || jasuka ✓ || jakabare ✓
+╰─ 103.66.70.104   133840  186.529                 (Jakarta, Jakarta, ID, AS)                                                                                                     
+   121.100.0.45    38158   195.815                 (Jakarta, Jakarta, ID, AS)                                                                                                     
+   43.230.152.226  *       191.252                 (Jakarta, Jakarta, ID, AS) global-in.kings.id                                                                                  
+   43.230.153.90   *       186.948                 (Jakarta, Jakarta, ID, AS)                                                                                                     
+   180.211.88.22   45725   187.149                 (Jakarta, Jakarta, ID, AS) id-jkt-as45725.anchors.atlas.ripe.net                                                               

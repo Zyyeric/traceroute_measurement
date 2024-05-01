@@ -1,0 +1,12 @@
+   74.119.118.17   19750   0.0                        (Dallas, Texas, US, NA)                                                                                                     
+   74.119.118.16   19750   0.264                      (Dallas, Texas, US, NA)                                                                                                     
+   100.66.0.44     *       0.486                                          ***                                                                                                     
+   100.66.0.43     *       0.489                                          ***                                                                                                     
+   184.105.60.189  6939    0.47 (2.505)                    (Dallas, TX, US, NA) e0-2.core3.dal1.he.net                                                                              
+   184.105.222.13  6939    40.321              (San Jose, California, US, NA) port-channel7.core1.fmt2.he.net                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 64.71.184.46    4826    41.616                      (San Jose, CA, US, NA) vocus.gigabitethernet2-13.core1.sjc1.he.net                                                         
+S (4826)  hawaiki ✘ || southern-cross-cable-network-sccn ✓ || southern-cross-next ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 114.31.192.105  4826    189.715          (Sydney, New South Wales, AU, OC) be2.bdr02.syd11.nsw.vocus.network                                                                   
+   114.31.201.91   4826    188.973          (Sydney, New South Wales, AU, OC) 91.201.31.114.core.vocus.network                                                                    

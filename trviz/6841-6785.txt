@@ -1,0 +1,15 @@
+   103.15.246.16   58717   0.0                         (Dhaka, Dhaka, BD, AS)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   172.16.203.70   *       0.951                                          ***                                                                                                     
+   157.119.185.30  58717   1.532                           (Dhaka, C, BD, AS) *                                                                                                   
+╭─ 103.199.87.233  58717   6.392                         (None, None, BD, AS) *                                                                                                   
+S (58717)  seamewe-5 ✓ || seamewe-4 ✓
+╰─ 103.199.87.6    58717   51.046              (Singapore, Singapore, SG, AS) 103.199.87.6.summitiig.net                                                                          
+╭─ 184.105.80.45   6939    262.154             (Singapore, Singapore, SG, AS) port-channel21.core2.sin1.he.net                                                                    
+S (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.64.170  6939    218.875                       (Athens, A1, GR, EU) 100ge0-36.core1.ath1.he.net                                                                         
+   ***             *       -inf                                           *** *                                                                                                   
+   195.130.66.103  199399  209.34                    (Athens, Attica, GR, EU) gr-ath-as199399.anchors.atlas.ripe.net                                                              

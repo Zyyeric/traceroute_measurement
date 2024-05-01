@@ -1,0 +1,16 @@
+   46.227.202.97   41495   0.0                  (Manchester, England, GB, EU) uk-mnc-as41495.anchors.atlas.ripe.net                                                               
+   46.227.207.255  41495   0.718                    (London, England, GB, EU) anycast.gateway.faelix.net                                                                          
+   46.227.206.41   41495   0.512                (Manchester, England, GB, EU) host-46-227-206-41.rev.as41495.net                                                                  
+   46.227.206.84   41495   2.228                (Manchester, England, GB, EU) v0100.bond0.fossey.a.faelix.net                                                                     
+   46.227.200.125  41495   3.144                (Manchester, England, GB, EU) v102.eth5.bly.w.faelix.net                                                                          
+   46.227.200.123  41495   1.769                (Manchester, England, GB, EU) v2313.eth5.aebi.m.faelix.net                                                                        
+   31.217.131.65   4455    1.725                     (Liverpool, ENG, GB, EU) *                                                                                                   
+╭─ 91.196.184.101  4455    8.712                        (London, ENG, GB, EU) ae0-3113.bb.thn.lon.as43531.net                                                                     
+S&T (4455, 13101)  circe-north ✓ || ulysses-2 ✘ || scylla © || zeus ✓ || concerto ✓ || farland-north ©
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 80.249.209.119  13101   13.828                     (Amsterdam, NH, NL, EU) AMS-IX.tng.de                                                                                       
+T (13101)  
+╰─ 213.178.65.148  13101   22.774                       (Hamburg, HH, DE, EU) ham8.tng.de                                                                                         
+   213.178.65.155  13101   24.521          (Kiel, Schleswig-Holstein, DE, EU) kel2.tng.de                                                                                         
+   82.97.188.1     13101   25.21                         (None, None, DE, EU) rtr1.gallifrey.tng.de                                                                               
+   213.158.113.5   13101   25.097                  (Hamburg, Hamburg, DE, EU) ripe-anchor.gallifrey.tng.de                                                                        

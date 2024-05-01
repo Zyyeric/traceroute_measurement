@@ -1,0 +1,19 @@
+   103.253.132.25  59238   0.0                     (Bangkok, Bangkok, TH, AS) th-bkk-as59238.anchors.atlas.ripe.net                                                               
+   103.253.132.1   59238   0.304                (Khlong San, Bangkok, TH, AS) gw-cat.idc.inox.co.th                                                                               
+   172.24.132.23   *       0.702                                          ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 122.155.224.73  4651    1.442                (Khlong San, Bangkok, TH, AS)                                                                                                     
+S (4651)  asia-america-gateway-aag-cable-system ✓ || asia-africa-europe-1-aae-1 ✓ || flag-europe-asia-fea ✘
+├─ 61.19.9.122     4651    42.191                   (Hong Kong, None, HK, AS) *                                                                                                   
+S (4651, 4766)  
+╰─ 121.189.2.93    4766    41.813                        (None, None, KR, AS) *                                                                                                   
+   112.174.89.149  4766    195.055                       (None, None, KR, AS) *                                                                                                   
+╭─ 112.174.80.225  4766    195.191                       (None, None, KR, AS) *                                                                                                   
+S (4766, 14061)  
+╰─ 198.32.176.147  14061   196.335                       (None, None, US, NA) eqix-sv9.digitalocean.com                                                                           
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   128.199.5.28    14061   205.096          (Santa Clara, California, US, NA) us-sjc-as14061.anchors.atlas.ripe.net                                                               

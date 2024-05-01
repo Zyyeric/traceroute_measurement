@@ -1,0 +1,17 @@
+   103.153.176.122 131657  0.0                       (Taipei, Taiwan, TW, AS) 103-153-176-122.as131657.net                                                                        
+   103.153.176.254 131657  0.238                     (Taipei, Taiwan, TW, AS) 103-153-176-254.as131657.net                                                                        
+╭─ 103.51.91.5     *       0.482                     (Taipei, Taiwan, TW, AS) et-0-0-1.cr1.hd.tpe.as131657.net                                                                    
+S (, 174)  seamewe-3 ✘ || apcn-2 ✘ || trans-pacific-express-tpe-cable-system ✘ || eac-c2c ✘ || faster ✘ || asia-pacific-gateway-apg ✘ || flag-north-asia-loopreach-north-asia-loop ✘ || new-cross-pacific-ncp-cable-system ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 66.28.4.233     174     30.83                       (Tokyo, Tokyo, JP, AS) be2012.ccr71.tyo01.atlas.cogentco.com                                                               
+╭─ 154.54.91.126   174     158.773                     (Tokyo, Tokyo, JP, AS) be2915.ccr71.gum01.atlas.cogentco.com                                                               
+S (174)  
+╰─ 154.54.5.174    174     158.553                      (El Paso, TX, US, NA) be2301.ccr21.elp01.atlas.cogentco.com                                                               
+   154.54.40.146   174     158.79                      (San Jose, CA, US, NA) be3177.ccr22.sjc01.atlas.cogentco.com                                                               
+   154.54.5.102    174     158.566                     (San Jose, CA, US, NA) be3144.ccr41.sjc03.atlas.cogentco.com                                                               
+   154.54.88.190   174     159.272                     (San Jose, CA, US, NA) be2431.ccr31.sjc04.atlas.cogentco.com                                                               
+╭─ 154.54.10.222   6762    159.046                     (San Jose, CA, US, NA) tisparkle.sjc04.atlas.cogentco.com                                                                  
+LHL (6762)  
+╰─ 195.22.218.197  6762    362.123                    (Palermo, None, IT, EU) ae0.palermo4.pal.seabone.net                                                                        
+   213.144.186.82  42473   362.186                      (Palermo, 82, IT, EU) dcr01.anx35.pmo.it.anexia-it.net                                                                    
+   37.252.253.18   42473   363.336                  (Palermo, Sicily, IT, EU)                                                                                                     

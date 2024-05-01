@@ -1,0 +1,14 @@
+   152.195.112.52  15133   0.0                         (Tokyo, Tokyo, JP, AS)                                                                                                     
+   152.195.112.49  15133   2.124                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+╭─ 152.195.112.203 15133   0.693                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+S (15133, 6453)  tata-tgn-pacific ✓ || australia-japan-cable-ajc ✓ || guam-okinawa-kyushu-incheon-goki ✘
+├─ 180.87.180.33   6453    100.849                       (Piti, None, GU, OC) if-ae-3-2.thar1.pv4-piti.as6453.net                                                                 
+S (6453)  
+╰─ 120.29.219.81   6453    101.119                      (Sydney, NSW, AU, OC) if-ae-5-2.tcore1.0pp-sydney.as6453.net                                                              
+   120.29.195.97   6453    102.726                      (Sydney, NSW, AU, OC) if-ae-2-2.thar1.1mh-sydney.as6453.net                                                               
+   120.29.195.18   6453    102.763                      (Sydney, NSW, AU, OC) if-ae-7-2.thar1.m3h-sydney.as6453.net                                                               
+╭─ 116.0.76.153    6453    179.33           (Sydney, New South Wales, AU, OC)                                                                                                     
+S (6453, 55002)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 107.162.217.5   55002   180.069             (San Jose, California, US, NA)                                                                                                     

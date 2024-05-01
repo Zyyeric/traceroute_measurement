@@ -1,0 +1,17 @@
+   146.185.219.73  202422  0.0        (Petaẖ Tiqva, Central District, IL, AS)                                                                                                     
+   146.185.219.3   202422  0.318                 (Tel Aviv, Tel Aviv, IL, AS) vrrp.gcore.lu                                                                                       
+   10.255.29.242   *       0.39                                           ***                                                                                                     
+   82.81.82.241    8551    0.452                 (Tel Aviv, Tel Aviv, IL, AS) bzq-82-81-82-241.red.bezeqint.net                                                                   
+╭─ 212.179.124.185 8551    0.734                       (Tel Aviv, TA, IL, AS) bzq-179-124-185.cust.bezeqint.net                                                                   
+LHL (8551, 174)  mednautilus-submarine-system ✓ ↠ seamewe-4 ✓ || mednautilus-submarine-system ✓ ↠ asia-africa-europe-1-aae-1 ✓ || mednautilus-submarine-system ✓ ↠ seamewe-5 ✓ || mednautilus-submarine-system ✓ ↠ imewe ✓ || mednautilus-submarine-system ✓ ↠ seamewe-3 ✓ || jonah 👍 ↠ seamewe-4 ✓ || jonah 👍 ↠ asia-africa-europe-1-aae-1 ✓ || jonah 👍 ↠ seamewe-5 ✓ || jonah 👍 ↠ imewe ✓ || jonah 👍 ↠ seamewe-3 ✓ || lev-submarine-system ✘ ↠ seamewe-4 ✓ || lev-submarine-system ✘ ↠ asia-africa-europe-1-aae-1 ✓ || lev-submarine-system ✘ ↠ seamewe-5 ✓ || lev-submarine-system ✘ ↠ imewe ✓ || lev-submarine-system ✘ ↠ seamewe-3 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 154.54.72.109   174     50.614                        (Paris, IDF, FR, EU) be2779.ccr41.par01.atlas.cogentco.com                                                               
+T (174)  
+╰─ 130.117.2.141   174     58.791                     (Amsterdam, NH, NL, EU) be12265.ccr41.ams03.atlas.cogentco.com                                                              
+   154.54.56.166   174     59.301                     (Amsterdam, NH, NL, EU) be2020.rcr21.b021535-1.ams03.atlas.cogentco.com                                                     
+╭─ 149.11.201.226  174     58.77           (Amsterdam, North Holland, NL, EU) blade.demarc.cogentco.com                                                                           
+LHL (174, 13238)  seamewe-4 ✓ || seamewe-3 ✓ || seamewe-5 ✓
+╰─ 93.158.160.15   13238   212.259             (Singapore, Singapore, SG, AS) sin-b1-fti0.yndx.net                                                                                
+   ***             *       -inf                                           *** *                                                                                                   
+   45.87.135.252   208398  211.186             (Singapore, Singapore, SG, AS)                                                                                                     

@@ -1,0 +1,20 @@
+   172.17.48.40    *       0.0                                            ***                                                                                                     
+   172.17.48.254   *       0.477                                          ***                                                                                                     
+   172.22.8.12     *       0.688                                          ***                                                                                                     
+   172.22.6.7      *       1.251                                          ***                                                                                                     
+   172.25.0.197    *       1.301                                          ***                                                                                                     
+   172.16.86.37    *       4.435                                          ***                                                                                                     
+   172.16.5.233    *       4.871                                          ***                                                                                                     
+   172.16.2.138    *       5.07                                           ***                                                                                                     
+   213.144.184.56  6762    79.441          (Frankfurt am Main, Hesse, DE, EU)                                                                                                     
+   89.221.34.251   6762    80.637             (Frankfurt am Main, HE, DE, EU) ae15.francoforte34.fra.seabone.net                                                                  
+╭─ 195.22.214.229  6762    79.798          (Frankfurt am Main, Hesse, DE, EU)                                                                                                     
+T (6762, 3491)  
+├─ 63.223.18.62    3491    92.837                      (London, None, GB, EU) Bundle-Ether41.br02.ldn12.pccwbtn.net                                                               
+S (3491)  exa-north-and-south ✘ || atlantic-crossing-1-ac-1 ✓ || flag-atlantic-1-fa-1 ✓ || apollo ✓ || yellow ✓ || tata-tgn-atlantic ✓
+├─ 63.218.34.26    3491    215.629                       (None, None, US, NA) 63-218-34-26.static.pccwglobal.net                                                                  
+LHL (3491, 328303)  apollo ✓ ↠ africa-coast-to-europe-ace ✓ || flag-atlantic-1-fa-1 ✓ ↠ africa-coast-to-europe-ace ✓
+╰─ 154.65.16.89    328303  214.814                        (Accra, AA, GH, AF) *                                                                                                   
+   154.65.16.114   37727   214.567             (Accra, Greater Accra, GH, AF)                                                                                                     
+   196.201.2.126   30997   287.571                       (Accra, 1, GH, None) *                                                                                                   
+   196.49.14.25    30997   288.829             (Accra, Greater Accra, GH, AF)                                                                                                     

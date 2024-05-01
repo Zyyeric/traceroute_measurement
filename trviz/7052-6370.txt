@@ -1,0 +1,20 @@
+   103.202.216.76  59105   0.0                         (Chōfu, Tokyo, JP, AS)                                                                                                     
+   103.202.216.73  59105   0.753                       (Tokyo, Tokyo, JP, AS) ge-2-1-0.pop03er03.bb.homenoc.ad.jp                                                                 
+   103.48.31.180   59105   2.143                         (None, None, JP, AS) gi0-2-0.pop03cr01.bb.homenoc.ad.jp                                                                  
+   103.48.31.87    59105   1.911 (6.062)                    (None, None, JP, AS) v100.ge-0-0-3.noc01er01.bb.homenoc.ad.jp                                                            
+   133.208.55.17   2518    11.799                      (Tokyo, Tokyo, JP, AS)                                                                                                     
+   133.208.191.22  2518    11.389                      (Tokyo, Tokyo, JP, AS)                                                                                                     
+   125.29.26.13    2516    12.221                      (Tokyo, Tokyo, JP, AS)                                                                                                     
+   27.86.32.1      2516    14.227                      (Tokyo, Tokyo, JP, AS)                                                                                                     
+   27.86.46.102    2516    13.088                        (Meieki, 23, JP, AS) *                                                                                                   
+   106.187.13.14   2516    118.607                       (None, None, JP, AS) sjeGCS001.int-gw.kddi.ne.jp.13.187.106.in-addr.arpa                                                 
+╭─ 111.87.3.122    2516    110.975                       (None, None, JP, AS) ix-pa10.int-gw.kddi.ne.jp                                                                           
+S (2516, 2152)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 137.164.11.95   2152    117.793                      (Oakland, CA, US, NA) dc-oak-agg8--svl-agg10-300g.cenic.net                                                               
+   137.164.11.89   3292    114.23                      (Tri-City, OR, US, NA) dc-tri-agg2--oak-agg8-300g.cenic.net                                                                
+   137.164.46.7    2152    118.854                     (Tri-City, OR, US, NA) cor-agg8--tri-agg2--100ge.cenic.net                                                                 
+   137.164.50.243  2152    120.69                        (Corona, CA, US, NA) sha-coe-1--cor-agg8-10g.cenic.net                                                                   
+   137.164.34.84   2152    125.128                      (Shafter, CA, US, NA) sha-coe-2---to--sha-coe-1--10ge.cenic.net                                                           
+   137.164.13.11   23483   119.7                        (Shafter, CA, US, NA) shacoe-gw2--sha-coe-2-10g.cenic.net                                                                 
+   66.244.16.33    23483   120.245              (Redding, California, US, NA) us-rdd-as23483.anchors.atlas.ripe.net                                                               

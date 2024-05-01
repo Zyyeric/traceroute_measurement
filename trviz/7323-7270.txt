@@ -1,0 +1,15 @@
+   154.18.86.7     151420  0.0                         (Tokyo, Tokyo, JP, AS)                                                                                                     
+╭─ 154.18.86.1     151420  0.097               (Motoyoyogichō, Tokyo, JP, AS)                                                                                                     
+S (151420, 6939)  apcn-2 ✓ || eac-c2c ✘ || asia-pacific-gateway-apg ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.105.64.129  6939    53.285                   (Hong Kong, None, HK, AS) 100ge10-2.core1.hkg1.he.net                                                                         
+S (6939)  
+╰─ 184.105.64.253  6939    75.21                       (Singapore, 4, SG, AS) 100ge11-1.core1.sin1.he.net                                                                         
+╭─ 27.50.33.202    4826    75.101                      (Singapore, 4, SG, AS) vocus.gigabitethernet2-15.core1.sin1.he.net                                                         
+S (4826)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 103.1.76.146    4826    166.751                       (None, None, AU, OC) be803.lsr01.dody.nsw.vocus.network                                                                  
+   ***             *       -inf                                           *** *                                                                                                   
+   114.31.192.71   4826    177.502          (Sydney, New South Wales, AU, OC) be1.bdr02.syd11.nsw.vocus.network                                                                   
+   114.31.201.91   4826    166.675          (Sydney, New South Wales, AU, OC) 91.201.31.114.core.vocus.network                                                                    

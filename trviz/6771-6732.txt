@@ -1,0 +1,17 @@
+   163.117.253.5   766     0.0                       (Madrid, Madrid, ES, EU)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   172.17.0.53     *       0.927                                          ***                                                                                                     
+   193.145.15.49   766     1.535                    (Leganés, Madrid, ES, EU) csic-rt-ju-02-xe-4-0-6.net.redimadrid.es                                                            
+   130.206.216.1   766     3.108                     (Madrid, Madrid, ES, EU) redimadrid-backup.ethtrunk8-103.telmad.rt1.mad.red.rediris.es                                       
+╭─ 130.206.245.126 766     11.421                        (None, None, ES, EU) telmad.rt1.ethtrunk2.cica.rt2.and.red.rediris.es                                                    
+S&T (766, 13335)  seamewe-3 ✘
+╰─ 193.136.250.200 13335   25.495                      (Lisbon, 14, PT, None) Cloudflare.AS13335.gigapix.pt                                                                       
+   172.68.101.75   13335   20.132                        (Lisbon, 11, PT, EU) *                                                                                                   
+   172.68.101.72   13335   19.926                        (Lisbon, 11, PT, EU) *                                                                                                   
+╭─ 172.68.101.17   13335   19.88                     (Lisbon, Lisbon, PT, EU)                                                                                                     
+S (13335, 208800)  seamewe-3 ✓ || europe-india-gateway-eig ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 91.201.7.243    208800  137.695             (Abu Dhabi, Abu Dhabi, AE, AS)                                                                                                     

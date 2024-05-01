@@ -1,0 +1,29 @@
+   94.207.43.2     57187   0.0                         (Dubai, Dubai, AE, AS) -094-207-043-002.datamena.net                                                                       
+   94.207.43.1     57187   0.567                       (Dubai, Dubai, AE, AS) j48-1.dxa.dxb.ae.datamena.net                                                                       
+   94.207.42.46    57187   0.344                         (None, None, AE, AS) j48-3.dx1.dxb.ae.datamena.net                                                                       
+╭─ 94.205.255.34   15802   1.659                       (Dubai, Dubai, AE, AS) du-01.alb.dxb.ae.datamena.net                                                                       
+S (15802, 6762)  asia-africa-europe-1-aae-1 ✓ || imewe ✓ || seamewe-5 ✓ || flag-europe-asia-fea ✓ || seamewe-4 ✓ || seamewe-3 ✓
+├  10.65.8.226     *       3.155                                          ***                                                                                                     
+├  ***             *       -inf                                           *** *                                                                                                   
+├  10.53.17.81     *       4.389                                          ***                                                                                                     
+╰─ 195.22.197.54   6762    91.332                   (Palermo, Sicily, IT, EU) ae9.palermo3.pal.seabone.net                                                                        
+   195.22.213.218  6762    132.463                        (Milan, 25, IT, EU) vlan.milano50.mil.seabone.net                                                                       
+╭─ 195.22.213.218  6762    132.463                        (Milan, 25, IT, EU) vlan.milano50.mil.seabone.net                                                                       
+LHL (6762, 2603)  seamewe-4 👍 || asia-africa-europe-1-aae-1 ✓ || seamewe-5 👍 || imewe 👍 || seamewe-3 👍
+├─ 80.249.209.203  2603    128.323                    (Amsterdam, NH, NL, EU) nl-ams.nordu.net                                                                                    
+S&T (2603)  ulysses-2 ✘ || zeus ✓ || circe-north ✓ || scylla ✓ || concerto ✘ || farland-north ✘
+╰─ 109.105.102.97  2603    131.955                     (Hexton, None, GB, EU) uk-hex.nordu.net                                                                                    
+╭─ 109.105.102.98  2603    188.907                      (London, ENG, GB, EU) ndn-gw.mx1.lon.uk.geant.net                                                                         
+S&T (2603, 20965)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 62.40.98.222    20965   208.747                     (Bilbao, None, ES, EU) ae4.rt1.bil.es.geant.net                                                                            
+S&T (20965, 21320)  
+├─ 83.97.90.19     21320   141.328                  (London, England, GB, EU) rediris-ias-geant.bil.es.geant.net                                                                  
+S&T (21320, 766)  
+╰─ 130.206.245.17  766     141.257                       (None, None, ES, EU) EHU.RT2.ETHTRUNK2.telmad.rt1.mad.red.rediris.es                                                     
+   130.206.216.2   766     141.497                       (None, None, ES, EU) redimadrid-backup-router.red.rediris.es                                                             
+   193.145.15.50   766     141.728                       (None, None, ES, EU) uc3m-rt-ju-01-xe-0-1-0.net.redimadrid.es                                                            
+   ***             *       -inf                                           *** *                                                                                                   
+   163.117.49.4    766     142.409                       (Madrid, MD, ES, EU) b01014zr.uc3m.es                                                                                    
+   163.117.253.5   766     142.547                   (Madrid, Madrid, ES, EU)                                                                                                     

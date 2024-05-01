@@ -1,0 +1,15 @@
+   45.79.110.82    63949   0.0                  (Fremont, California, US, NA) li1209-82.members.linode.com                                                                        
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   10.203.32.4     *       0.56                                           ***                                                                                                     
+   173.230.159.133 63949   0.655                (Fremont, California, US, NA) lo0-0.gw3.scz1.us.linode.com                                                                        
+   206.197.187.12  *       1.375                (Fremont, California, US, NA) as6939.sfmix.org                                                                                    
+   72.52.92.29     6939    1.892                (Fremont, California, US, NA) 100ge0-35.core6.fmt2.he.net                                                                         
+╭─ 206.223.116.37  6939    1.953                       (San Jose, CA, US, NA) as6939.100gigabitethernet2-3.core1.sjc2.he.net                                                      
+S (6939, 23944)  asia-america-gateway-aag-cable-system ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.212.74  23944   197.268                  (Hong Kong, None, HK, AS) sky-cable-corporation.port-channel4.switch1.hkg1.he.net                                             
+S (23944)  
+├  172.31.31.7     *       197.589                                        ***                                                                                                     
+╰─ 182.18.209.9    23944   188.478             (Manila, Metro Manila, PH, AS)                                                                                                     

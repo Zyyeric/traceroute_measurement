@@ -1,0 +1,21 @@
+   203.119.111.139 4608    0.0                 (Brisbane, Queensland, AU, OC) anchor.apnic.net                                                                                    
+   203.119.111.131 4608    0.696               (Brisbane, Queensland, AU, OC) vl-1705.nxcs2.hosted.au.apnic.net                                                                   
+   203.119.104.29  4608    0.537                      (Brisbane, QLD, AU, OC) te-0-1-5.nxgw2.bne.apnic.net                                                                        
+   138.44.129.153  7575    0.686               (Brisbane, Queensland, AU, OC) ae2-223-pe1.fvly.qld.aarnet.net.au                                                                  
+   113.197.15.6    7575    12.283           (Sydney, New South Wales, AU, OC) et-0-3-0.pe1.mcqp.nsw.aarnet.net.au                                                                 
+   113.197.15.5    7575    12.442              (New South Wales, NSW, AU, OC) et-5-1-0.pe1.brwy.nsw.aarnet.net.au                                                                 
+╭─ 113.197.15.153  7575    12.722              (New South Wales, NSW, AU, OC) et-0-3-0.pe1.alxd.nsw.aarnet.net.au                                                                 
+S (7575)  hawaiki ✘ || southern-cross-cable-network-sccn ✓ || telstra-endeavour ✓ || southern-cross-next ✓
+╰─ 113.197.15.137  7575    145.311          (Los Angeles, California, US, NA) et-0-0-0.bdr1.laxa.us.aarnet.net.au                                                                 
+   64.124.200.233  6461    148.785                  (Los Angeles, CA, US, NA) 10.xe-3-2-1.er4.lax112.us.above.net                                                                 
+   64.125.28.236   6461    148.699                  (Los Angeles, CA, US, NA) ae1.cs2.lax112.us.eth.zayo.com                                                                      
+   64.125.25.125   6461    148.673                  (Los Angeles, CA, US, NA) ae20.ter1.lax12.us.zip.zayo.com                                                                     
+   64.125.15.123   1299    153.255                  (Los Angeles, CA, US, NA) zayo.telia.ter1.lax12.us.zip.zayo.com                                                               
+   ***             *       -inf                                           *** *                                                                                                   
+   62.115.123.237  1299    197.976                    (Dallas, Texas, US, NA) mny-b1-link.ip.twelve99.net                                                                         
+╭─ 62.115.123.235  1299    195.865                   (McAllen, Texas, US, NA) mny-b2-link.ip.twelve99.net                                                                         
+S&T (1299)  
+╰─ 62.115.123.239  1299    206.888            (Monterrey, Nuevo León, MX, NA) qro-b2-link.ip.twelve99.net                                                                         
+   62.115.124.48   1299    206.836   (Santiago de Querétaro, Querétaro, MX, NA) qro-b3-link.ip.twelve99.net                                                                         
+   62.115.166.226  42473   204.417               (Benito Juarez, CMX, MX, NA) *                                                                                                   
+   131.100.0.158   42473   206.937   (Santiago de Querétaro, Querétaro, MX, NA)                                                                                                     

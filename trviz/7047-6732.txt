@@ -1,0 +1,23 @@
+   163.117.253.5   766     0.0                       (Madrid, Madrid, ES, EU)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   172.17.0.53     *       1.145                                          ***                                                                                                     
+   193.145.15.49   766     1.518                    (Leganés, Madrid, ES, EU) csic-rt-ju-02-xe-4-0-6.net.redimadrid.es                                                            
+   130.206.216.1   766     2.088                     (Madrid, Madrid, ES, EU) redimadrid-backup.ethtrunk8-103.telmad.rt1.mad.red.rediris.es                                       
+   130.206.245.50  766     2.162                         (None, None, ES, EU) telmad.rt1.ae11-0.telmad.rt4.mad.red.rediris.es                                                     
+╭─ 83.97.90.20     21320   2.23                      (Madrid, Madrid, ES, EU) rediris-ias-geant-gw.mad.es.geant.net                                                               
+S&T (21320, 20965)  africa-coast-to-europe-ace ✓ || seamewe-3 ✓
+├─ 62.40.98.227    20965   35.284    (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) ae2.rt1.mar.fr.geant.net                                                                            
+T (20965)  
+╰─ 62.40.98.236    20965   37.698                    (Genève, Geneva, CH, EU) ae4.mx1.gen.ch.geant.net                                                                            
+╭─ 62.40.98.182    20965   34.999                      (Geneva, None, CH, EU) ae5.mx1.gen.ch.geant.net                                                                            
+T (20965, 6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.223.253 6939    45.721                       (London, ENG, GB, EU) port-channel7.core3.lon2.he.net                                                                     
+   184.104.197.217 6939    43.527                       (London, ENG, GB, EU) ve958.core2.lon2.he.net                                                                             
+╭─ 216.66.88.58    15412   35.228                       (London, ENG, GB, EU) flag-as-as15412.10gigabitethernet2-2.core1.lon2.he.net                                              
+S&T (15412)  
+╰─ 85.95.26.146    15412   61.139                    (Marseille, PAC, FR, EU) ae4.0.cjr01.mrs002.flagtel.com                                                                      
+╭─ 85.95.25.93     15412   162.409                   (Marseille, PAC, FR, EU) xe-4-0-1.0.cjr01.mrs002.flagtel.com                                                                 
+S&T (15412)  
+╰─ 80.77.4.60      15412   167.696                     (Dubai, Dubai, AE, AS)                                                                                                     

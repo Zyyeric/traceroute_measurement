@@ -1,0 +1,19 @@
+   27.111.84.21    135132  0.0           (Cebu City, Central Visayas, PH, AS) ph-ceb-as135132.anchors.atlas.ripe.net                                                              
+   27.111.84.20    135132  1.213             (Baugo, Central Visayas, PH, AS) vlan509.core.ceb02.ds.network                                                                       
+   192.168.159.142 *       20.445                                         ***                                                                                                     
+   192.168.159.152 *       0.857                                          ***                                                                                                     
+   192.168.159.168 *       23.392                                         ***                                                                                                     
+   192.168.159.165 *       2.447                                          ***                                                                                                     
+╭─ 203.177.209.217 4775    3.448             (Baugo, Central Visayas, PH, AS)                                                                                                     
+S (4775, 1299)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 213.248.68.148  1299    26.267              (Hong Kong, Hong Kong, HK, AS) hnk-b4-link.ip.twelve99.net                                                                         
+S (1299)  
+╰─ 62.115.137.210  1299    173.697                     (Tokyo, Tokyo, JP, AS) tky-b3-link.ip.twelve99.net                                                                         
+╭─ 62.115.126.134  1299    67.509                      (Tokyo, Tokyo, JP, AS) tky-b2-link.ip.twelve99.net                                                                         
+S (1299)  
+╰─ 62.115.123.140  1299    174.296             (San Jose, California, US, NA) sjo-b23-link.ip.twelve99.net                                                                        
+   62.115.115.216  1299    173.279          (Santa Clara, California, US, NA) palo-b24-link.ip.twelve99.net                                                                       
+   62.115.46.191   1299    173.723             (San Jose, California, US, NA) isc-ic-380208.ip.twelve99-cust.net                                                                  
+   192.158.252.10  1280    172.936        (Mountain View, California, US, NA) us-pao-as1280.anchors.atlas.ripe.net                                                                

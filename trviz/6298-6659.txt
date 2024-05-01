@@ -1,0 +1,11 @@
+   5.188.238.222   202422  0.0                 (São Paulo, São Paulo, BR, SA)                                                                                                     
+   5.188.238.3     202422  0.132               (São Paulo, São Paulo, BR, SA) vrrp.gcore.lu                                                                                       
+   10.255.22.181   *       0.163                                          ***                                                                                                     
+   10.255.22.188   *       0.374                                          ***                                                                                                     
+╭─ 8.242.21.113    3356    0.319 (0.741)          (São Paulo, São Paulo, BR, SA)                                                                                                     
+S (3356)  south-america-1-sam-1 ✓ || monet © || seabras-1 ✓ || america-movil-submarine-cable-system-1-amx-1 © || brusa ✓ || globenet ©
+╰─ 4.69.150.206    3356    110.431                     (New York, NY, US, NA) ae2.3601.ear3.NewYork1.level3.net                                                                   
+╭─ 4.15.212.246    852     110.467                       (Queens, NY, US, NA) *                                                                                                   
+S&T (852)  exa-north-and-south ✘ || ketchcan1-submarine-fiber-cable-system ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 206.162.189.131 852     127.506                 (Montréal, Quebec, CA, NA) pcisrv.consultik.qc.ca                                                                              

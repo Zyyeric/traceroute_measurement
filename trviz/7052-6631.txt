@@ -1,0 +1,20 @@
+   92.38.178.149   202422  0.0                       (Urayasu, Tokyo, JP, AS)                                                                                                     
+   92.38.178.1     202422  0.268                     (Urayasu, Tokyo, JP, AS) gw.gcore.lu                                                                                         
+   10.255.16.182   *       0.253                                          ***                                                                                                     
+   10.255.16.183   *       0.464                                          ***                                                                                                     
+╭─ 61.213.146.130  2914    1.458                     (Urayasu, Tokyo, JP, AS)                                                                                                     
+S (2914)  
+╰─ 129.250.6.130   2914    1.745                         (None, None, US, NA) ae-19.r30.tokyjp05.jp.bb.gin.ntt.net                                                                
+╭─ 129.250.7.54    2914    1.394                         (None, None, US, NA) ae-0.a01.tokyjp09.jp.bb.gin.ntt.net                                                                 
+S (2914, 3356)  
+├─ 4.68.75.129     3356    2.03                           (Tokyo, 13, JP, AS) ae-13.edge2.Tokyo4.Level3.net                                                                       
+S (3356, 2152)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 4.15.122.46     2152    108.334                     (San Jose, CA, US, NA) CENIC.ear1.SanJose1.Level3.net                                                                      
+   137.164.11.95   2152    110.782                      (Oakland, CA, US, NA) dc-oak-agg8--svl-agg10-300g.cenic.net                                                               
+   137.164.11.89   3292    110.792                     (Tri-City, OR, US, NA) dc-tri-agg2--oak-agg8-300g.cenic.net                                                                
+   137.164.46.7    2152    115.199                     (Tri-City, OR, US, NA) cor-agg8--tri-agg2--100ge.cenic.net                                                                 
+   137.164.50.243  2152    116.873                       (Corona, CA, US, NA) sha-coe-1--cor-agg8-10g.cenic.net                                                                   
+   137.164.34.84   2152    116.397                      (Shafter, CA, US, NA) sha-coe-2---to--sha-coe-1--10ge.cenic.net                                                           
+   137.164.13.11   23483   116.575                      (Shafter, CA, US, NA) shacoe-gw2--sha-coe-2-10g.cenic.net                                                                 
+   66.244.16.33    23483   116.575              (Redding, California, US, NA) us-rdd-as23483.anchors.atlas.ripe.net                                                               

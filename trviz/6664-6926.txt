@@ -1,0 +1,15 @@
+╭─ 194.156.155.241 48386   0.0                       (Madrid, Madrid, ES, EU) es-mad-as48386-client.anchors.atlas.ripe.net                                                        
+S (48386, 50069)  
+├─ 45.11.107.144   50069   0.311                         (None, None, US, NA) interxion-mad2.edge.mad01.es.misaka.io                                                              
+S (50069, 60068)  
+├─ 84.17.33.96     60068   0.32                      (Madrid, Madrid, ES, EU) gw-cdn77-1.mad02.es.misaka.io                                                                       
+T (60068)  
+╰─ 185.229.188.12  60068   25.535             (Frankfurt am Main, HE, DE, EU) vl1101.fra-itx7-core-2.cdn77.com                                                                    
+╭─ 37.19.192.85    60068   28.071          (Frankfurt am Main, Hesse, DE, EU) bezeq-fra.cdn77.com                                                                                 
+T (60068, 8551)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 62.219.189.1    8551    84.263                (Rishon LeZiyyon, M, IL, AS) bzq-219-189-1.dsl.bezeqint.net                                                                      
+   62.219.189.186  8551    84.535                (Rishon LeZiyyon, M, IL, AS) bzq-219-189-186.cablep.bezeqint.net                                                                 
+   31.168.224.126  8551    81.877                      (Tel Aviv, TA, IL, AS) bzq-224-168-31-126.red.bezeqint.net                                                                 
+   ***             *       -inf                                           *** *                                                                                                   
+   146.185.219.73  202422  87.377     (Petaẖ Tiqva, Central District, IL, AS)                                                                                                     

@@ -1,0 +1,24 @@
+   192.168.0.130   *       0.0                                            ***                                                                                                     
+   192.168.0.1     *       0.221                                          ***                                                                                                     
+   172.16.254.1    *       0.328                                          ***                                                                                                     
+   192.168.1.1     *       0.712                                          ***                                                                                                     
+   10.98.238.18    *       0.607 (4.145)                                     ***                                                                                                     
+   10.0.0.170      *       8.021                                          ***                                                                                                     
+   81.212.78.45    9121    5.349                     (Ankara, Ankara, TR, AS) 81.212.78.45.static.turktelekom.com.tr                                                              
+   81.212.216.12   9121    5.433                 (Ümraniye, Istanbul, TR, AS) 34-acibadem-xrs-t2-2---34-acibadem-sr12e-t3-8.statik.turktelekom.com.tr                             
+   81.212.209.216  9121    5.285                         (None, None, TR, AS) 34-ebgp-acibadem-sr12e-k---34-acibadem-xrs-t2-2.statik.turktelekom.com.tr                           
+╭─ 212.156.139.60  9121    18.941                      (Istanbul, 34, TR, AS) *                                                                                                   
+S (9121, 2914)  
+├─ 83.217.231.61   2914    19.152                        (None, None, GB, EU) *                                                                                                   
+LHL (2914, 12252)  
+├─ 46.33.78.153    12252   18.541                      (Bucharest, B, RO, EU) ae3.cr0-buc1.ip4.gtt.net                                                                            
+LHL (12252, 3257)  
+╰─ 213.200.119.214 3257    58.433                        (Paris, IDF, FR, EU) et-3-3-0.cr2-par7.ip4.gtt.net                                                                       
+   77.67.123.206   2200    58.54                         (Paris, IDF, FR, EU) renater-gw-ix1.gtt.net                                                                              
+   193.55.204.193  2200    144.14                       (Paris, None, FR, EU) et-2-0-0-ren-nr-paris2-rtr-131.noc.renater.fr                                                       
+   193.51.177.239  2200    146.791                 (Rennes, Brittany, FR, EU) hu0-3-0-1-ren-nr-lyon2-rtr-091.noc.renater.fr                                                       
+   193.55.204.15   2200    143.874                     (Rennes, None, FR, EU) te0-3-0-0-ren-nr-rennes-rtr-091.noc.renater.fr                                                      
+   ***             *       -inf                                           *** *                                                                                                   
+   193.54.185.10   1942    146.79             (Épinay-sur-Seine, IDF, FR, EU) r-epn.grenet.fr                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   193.49.43.151   2200    143.932   (Grenoble, Auvergne-Rhône-Alpes, FR, EU)                                                                                                     

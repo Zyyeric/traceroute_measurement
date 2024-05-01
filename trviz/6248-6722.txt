@@ -1,0 +1,16 @@
+   195.43.87.140   51349   0.0                    (Tallinn, Harjumaa, EE, EU) rr-s-140.internet.ee                                                                                
+   195.43.87.139   51349   0.307                  (Tallinn, Harjumaa, EE, EU) rr-s-139.internet.ee                                                                                
+╭─ 212.107.37.94   1257    0.799                  (Tallinn, Harjumaa, EE, EU) static-212-107-37-94.cust.tele2.ee                                                                  
+T (1257)  
+╰─ 91.129.14.219   1257    6.985                         (Riga, Riga, LV, EU) tvt-peer-1.ae2-unit0.tele2.net                                                                      
+╭─ 130.244.200.135 1257    5.788                     (Mārupe, Mārupe, LV, EU) peer-as1299.tvt.tele2.net                                                                           
+S (1257, 1299)  sweden-latvia ✘ || latvia-sweden-1-lv-se-1 👍
+├─ 62.115.139.202  1299    16.583              (Stockholm, Stockholm, SE, EU) s-bb2-link.ip.twelve99.net                                                                          
+S&T (1299)  baltica 👍
+╰─ 62.115.127.22   1299    29.98                   (Hamburg, Hamburg, DE, EU) hbg-bb2-link.ip.twelve99.net                                                                        
+   62.115.132.109  1299    29.623                  (Hamburg, Hamburg, DE, EU) hbg-b2-link.ip.twelve99.net                                                                         
+╭─ 80.239.132.173  1299    31.195                  (Hamburg, Hamburg, DE, EU) elisa-ic-372279.ip.twelve99-cust.net                                                                
+S (1299, 6667)  
+╰─ 213.192.184.103 6667    31.577                        (None, None, FI, EU) *                                                                                                   
+   213.192.184.176 6667    31.599                        (None, None, FI, EU) *                                                                                                   
+   213.192.184.42  6667    31.668                 (Helsinki, Uusimaa, FI, EU) ae1-0.bbr1.sto2.se.eunetip.net                                                                      

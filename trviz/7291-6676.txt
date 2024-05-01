@@ -1,0 +1,14 @@
+   203.175.175.206 24482   0.0                 (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 203.175.175.252 24482   0.401                         (None, None, SG, AS) edge-1.v10.sg3.sg.gs                                                                                
+S (24482)  
+╰─ 27.111.228.159  24482   0.763                     (Seogwipo, None, KR, AS) 24482.sgw.equinix.com                                                                               
+╭─ 27.111.229.175  58511   38.098                    (Seogwipo, None, KR, AS) 58511.sgw.equinix.com                                                                               
+S (58511, )  
+╰─ 103.30.216.60   *       141.313       (The Rocks, New South Wales, AU, OC) hu0-0-0-1.cor101.ndcp1.au.as58511.net                                                               
+   103.30.218.217  *       104.172         (Perth, Western Australia, AU, OC) hu0-0-0-31.cor102.ndcp1.au.as58511.net                                                              
+   103.30.216.42   *       766.47 (1617.963)      (Perth, Western Australia, AU, OC) et-0-0-16.cor102.eqsy3.au.as58511.net                                                               
+   103.30.217.135  *       1069.578         (Sydney, New South Wales, AU, OC) et-0-0-6.cor102.ndcb2.au.as58511.net                                                                
+   103.30.218.136  *       189.557             (Brisbane, Queensland, AU, OC) et-0-0-5.cor102.ndcb2.au.as58511.net                                                                
+   103.30.218.119  58511   140.734                       (None, None, AU, OC) et-0-0-1.bdr101.ndcb1.au.as58511.net                                                                
+   103.17.223.162  58511   140.679             (Brisbane, Queensland, AU, OC) ce.7005398.as132808.net.au.223.17.103.in-addr.arpa                                                  
+   103.133.238.187 132808  140.755             (Brisbane, Queensland, AU, OC) iptelco.com.au                                                                                      

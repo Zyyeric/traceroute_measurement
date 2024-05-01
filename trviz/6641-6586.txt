@@ -1,0 +1,15 @@
+   37.10.41.14     202196  0.0                 (Singapore, Singapore, SG, AS)                                                                                                     
+   37.10.41.9      202196  0.511               (Singapore, Singapore, SG, AS)                                                                                                     
+   210.57.30.93    4637    1.625               (Singapore, Singapore, SG, AS) unknown.telstraglobal.net                                                                           
+   202.84.219.174  4637    2.798               (Singapore, Singapore, SG, AS) i-92.sgcn-core01.telstraglobal.net                                                                  
+   202.84.219.174  4637    2.798               (Singapore, Singapore, SG, AS) i-92.sgcn-core01.telstraglobal.net                                                                  
+╭─ 202.84.224.197  4637    2.491               (Singapore, Singapore, SG, AS) i-91.istt04.telstraglobal.net                                                                       
+S (4637, 55821)  
+├─ 210.57.53.61    55821   1.879                         (None, None, HK, AS) unknown.telstraglobal.net                                                                           
+S (55821, 3356)  
+├─ 4.69.134.42     3356    103.067                       (None, None, US, NA) *                                                                                                   
+S (3356, 199524)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 45.80.212.35    199524  102.587                     (Seoul, Seoul, KR, AS) vrrp.gcore.com                                                                                      
+   92.38.135.131   202422  102.912                     (Seoul, Seoul, KR, AS)                                                                                                     

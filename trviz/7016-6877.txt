@@ -1,0 +1,20 @@
+   45.87.76.6      208725  0.0           (Brussels, Brussels Capital, BE, EU) ansible.devrandom.be                                                                                
+   ***             *       -inf                                           *** *                                                                                                   
+   45.87.79.249    208725  0.178         (Brussels, Brussels Capital, BE, EU) router03.core.devrandom.be                                                                          
+   109.233.104.96  48408   0.708      (Sint-Stevens-Woluwe, Flanders, BE, EU)                                                                                                     
+╭─ 62.115.151.140  1299    1.055         (Brussels, Brussels Capital, BE, EU) brx-b4-link.ip.twelve99.net                                                                         
+S&T (1299)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 62.115.138.171  1299    4.032           (Amsterdam, North Holland, NL, EU) adm-b3-link.ip.twelve99.net                                                                         
+   46.33.78.217    3257    3.987                      (Amsterdam, NH, NL, EU) ae9.cr6-ams2.ip4.gtt.net                                                                            
+╭─ 213.200.117.178 3257    4.784                      (Amsterdam, NH, NL, EU) ae11.cr6-ams1.ip4.gtt.net                                                                           
+LHL (3257, 396998)  seamewe-4 ✓ || seamewe-3 ✓ || seamewe-5 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 23.183.246.250  396998  171.459             (Singapore, Singapore, SG, AS)                                                                                                     
+S&T (396998, 140443)  
+├  10.111.222.205  *       164.64                                         ***                                                                                                     
+├  10.111.220.5    *       176.439                                        ***                                                                                                     
+├  10.111.220.45   *       176.486                                        ***                                                                                                     
+╰─ 103.160.63.222  140443  169.203                 (Jakarta, Jakarta, ID, AS) 222.63.160.103.in-addr.herza.id                                                                     

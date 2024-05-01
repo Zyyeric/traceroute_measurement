@@ -1,0 +1,20 @@
+   212.43.17.42    42961   0.0         (Al Farwānīyah, Al Farwaniyah, KW, AS)                                                                                                     
+   212.43.17.41    42961   0.695             (Kuwait City, Al Asimah, KW, AS)                                                                                                     
+   10.32.1.10      *       0.737                                          ***                                                                                                     
+   10.32.1.5       *       1.45                                           ***                                                                                                     
+╭─ 151.248.98.136  59605   0.595             (Kuwait City, Al Asimah, KW, AS)                                                                                                     
+LHL (59605)  falcon ✓ ↠ europe-india-gateway-eig ✓ || falcon ✓ ↠ seamewe-3 ✓ || falcon ✓ ↠ flag-europe-asia-fea ✓
+╰─ 151.248.96.196  59605   89.412                   (London, England, GB, EU)                                                                                                     
+   195.66.225.24   2603    88.933                     (London, ENG, GB, None) *                                                                                                   
+╭─ 109.105.102.98  2603    235.042                      (London, ENG, GB, EU) ndn-gw.mx1.lon.uk.geant.net                                                                         
+S&T (2603, 20965)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 62.40.98.222    20965   253.27                      (Bilbao, None, ES, EU) ae4.rt1.bil.es.geant.net                                                                            
+S&T (20965, 21320)  
+├─ 83.97.90.19     21320   251.099                  (London, England, GB, EU) rediris-ias-geant.bil.es.geant.net                                                                  
+S&T (21320, 766)  
+╰─ 130.206.245.22  766     270.889                       (None, None, ES, EU) ehu.rt2.ethtrunk3.unizar.rt2.ara.red.rediris.es                                                     
+   130.206.245.94  766     264.933                       (None, None, ES, EU) unizar.rt2.ae6-323.telmad.rt4.mad.red.rediris.es                                                    
+   130.206.214.98  13041   273.937                       (None, None, ES, EU) anella-router.red.rediris.es                                                                        
+   84.88.18.254    13041   274.015             (Barcelona, Catalonia, ES, EU) anchor-anella.cesca.cat                                                                             

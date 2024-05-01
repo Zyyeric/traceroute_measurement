@@ -1,0 +1,18 @@
+   107.162.217.5   55002   0.0                 (San Jose, California, US, NA)                                                                                                     
+   107.162.217.1   55002   0.335            (Santa Clara, California, US, NA)                                                                                                     
+   100.100.1.16    *       0.461                                          ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   198.32.118.59   *       74.333           (New York City, New York, US, NA) ny.gslnetworks.com                                                                                  
+   206.148.25.42   7578    90.061                 (Chicago, Illinois, US, NA) e3.chi-eqxch1-bb1.globalsecurelayer.com                                                             
+╭─ 206.148.25.79   7578    128.423          (Los Angeles, California, US, NA) e52.lax-csla2-cr2.globalsecurelayer.com                                                             
+S (7578)  
+╰─ 206.148.24.2    7578    203.971          (Sydney, New South Wales, AU, OC) e1.syd-eqxsy5-bb1.globalsecurelayer.com                                                             
+╭─ 206.148.24.104  7578    228.391          (Sydney, New South Wales, AU, OC)                                                                                                     
+S (7578)  
+├─ 206.148.24.109  7578    229.702               (Auckland, Auckland, NZ, OC)                                                                                                     
+S (7578, 61138)  
+├─ 103.137.13.153  61138   228.375                    (Brisbane, QLD, AU, OC) 61138.cust.gslnetworks.com                                                                          
+S (61138)  
+╰─ 185.121.168.251 61138   228.888              (Newmarket, Auckland, NZ, OC) nz-akl-as61138.anchors.atlas.ripe.net                                                               

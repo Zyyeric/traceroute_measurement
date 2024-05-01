@@ -1,0 +1,17 @@
+   180.211.88.22   45725   0.0                     (Jakarta, Jakarta, ID, AS) id-jkt-as45725.anchors.atlas.ripe.net                                                               
+   180.211.88.21   45725   0.386                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+╭─ 43.230.153.89   *       0.483                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+S&T (, 6939)  australia-singapore-cable-asc ✘ || matrix-cable-system ✘ || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || indonesia-global-gateway-igg-system ✘ || seamewe-3 ✘ || indigo-west ✘ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || jasuka ✘ || jakabare ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├  10.110.4.6      *       12.466                                         ***                                                                                                     
+├─ 103.16.102.141  6939    12.558                    (Singapore, 1, SG, None) bsccl.sgix.sg                                                                                       
+S (6939, 132602)  
+├─ 103.16.153.30   132602  53.095                        (None, None, BD, AS) 103-16-153-30-noc.bsccl.com                                                                         
+S (132602)  
+├─ 103.16.152.73   132602  52.86                       (Singapore, 4, SG, AS) 103-16-152-73-noc.bsccl.com                                                                         
+S (132602)  
+├─ 103.16.152.81   132602  62.341                        (None, None, BD, AS) 103-16-152-81-noc.bsccl.com                                                                         
+S (132602, 9829)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 117.250.113.140 9829    86.101                   (Guwahati, Assam, IN, AS) static.ill.117.250.113.140.bsnl.co.in                                                               

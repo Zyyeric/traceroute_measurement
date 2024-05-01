@@ -1,0 +1,29 @@
+   10.252.4.170    *       0.0                                            ***                                                                                                     
+   10.252.4.169    *       0.09                                           ***                                                                                                     
+   10.252.4.153    *       0.208                                          ***                                                                                                     
+   10.252.0.37     *       9.561                                          ***                                                                                                     
+╭─ 184.104.196.46  6939    47.914                      (Istanbul, 34, TR, AS) 100ge0-36.core1.ist1.he.net                                                                         
+S&T (6939)  kafos ✘
+├─ 184.105.65.49   6939    63.372                         (Sofia, 23, BG, EU) 100ge14-1.core1.sof1.he.net                                                                         
+T (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.105.223.110 6939    49.138                        (Munich, BY, DE, EU) 100ge0-33.core2.muc1.he.net                                                                         
+LHL (6939)  
+├─ 72.52.92.70     6939    51.54                       (San Jose, CA, US, NA) 10ge7-5.core1.sjc2.he.net                                                                           
+LHL (6939)  
+├─ 184.104.198.26  6939    103.601            (Frankfurt am Main, HE, DE, EU) port-channel1.core3.fra1.he.net                                                                     
+T (6939, 1299)  
+╰─ 80.239.161.222  1299    59.17           (Amsterdam, North Holland, NL, EU) hurricane-ic-370722.ip.twelve99-cust.net                                                            
+   216.66.83.127   6939    73.223          (Amsterdam, North Holland, NL, EU) mtn-globalconnect-solutions-ltd.e0-30.switch1.ams6.he.net                                           
+╭─ 41.181.105.195  16637   71.944          (Amsterdam, North Holland, NL, EU)                                                                                                     
+LHL (16637)  
+├─ 41.181.190.198  16637   77.419                      (Pretoria, GP, ZA, AF) *                                                                                                   
+T (16637)  
+├─ 41.181.244.176  16637   73.961                   (London, England, GB, EU)                                                                                                     
+T (16637, 20294)  
+├─ 41.181.247.39   20294   226.347                       (None, None, ZA, AF) *                                                                                                   
+LHL (20294)  
+╰─ 212.88.110.34   20294   222.02           (Kampala, Central Region, UG, AF)                                                                                                     
+   129.205.30.76   37063   225.105                       (Kampala, C, UG, AF) *                                                                                                   
+   41.191.77.206   328998  221.123                       (Kampala, C, UG, AF) *                                                                                                   
+   196.49.15.189   328998  224.575          (Kampala, Central Region, UG, AF)                                                                                                     

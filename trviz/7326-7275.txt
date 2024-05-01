@@ -1,0 +1,26 @@
+   180.211.88.22   45725   0.0                     (Jakarta, Jakarta, ID, AS) id-jkt-as45725.anchors.atlas.ripe.net                                                               
+   180.211.88.21   45725   0.27                    (Jakarta, Jakarta, ID, AS)                                                                                                     
+   43.230.153.89   *       0.354                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+╭─ 111.92.161.4    55655   0.751                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+S (55655, 6939)  sjjk ✘ ↠ jasuka ✘ ↠ seamewe-5 ✘
+├  10.110.1.0      *       12.296                                         ***                                                                                                     
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.194.200 6939    150.253   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) port-channel15.core4.mrs1.he.net                                                                    
+T (6939)  
+├─ 184.105.80.134  6939    163.087            (Frankfurt am Main, HE, DE, EU) 100ge6-2.core1.fra2.he.net                                                                          
+LHL (6939)  apollo ✓ || flag-atlantic-1-fa-1 ✓
+├─ 72.52.92.69     6939    162.641                   (Pleasanton, CA, US, NA) 10ge4-5.core1.pao1.he.net                                                                           
+LHL (6939, 4637)  
+├─ 80.81.193.79    4637    172.386           (Frankfurt am Main, 5, DE, None) ULCO01.telstraglobal.net                                                                            
+T (4637)  
+├─ 202.84.178.37   4637    172.322                  (London, England, GB, EU) i-1107.ulhc-core03.telstraglobal.net                                                                
+S (4637)  
+├─ 202.84.249.1    4637    251.861          (Los Angeles, California, US, NA)                                                                                                     
+S (4637)  
+╰─ 202.84.137.21   4637    436.909          (Sydney, New South Wales, AU, OC) i-10305.sydo-core03.telstraglobal.net                                                               
+   203.50.13.97    1221    434.876                      (Sydney, NSW, AU, OC) bundle-ether3.oxf-gw11.sydney.telstra.net                                                           
+   203.50.6.117    1221    427.406          (Sydney, New South Wales, AU, OC) bundle-ether5.stl-core30.sydney.telstra.net                                                         
+   203.50.11.177   1221    425.671                      (Sydney, NSW, AU, OC) bundle-ether1.chw-edge903.sydney.telstra.net                                                        
+   203.48.8.166    1221    425.53           (Sydney, New South Wales, AU, OC) tel4239945.lnk.telstra.net                                                                          
+   ***             *       -inf                                           *** *                                                                                                   
+   203.41.0.43     1221    425.442          (Sydney, New South Wales, AU, OC)                                                                                                     

@@ -1,0 +1,12 @@
+   103.242.68.78   133075  0.0                   (Auckland, Auckland, NZ, OC) 103-242-68-78.broadband.telesmart.co.nz                                                             
+   103.242.68.65   133075  0.517                    (Wellington, WGN, NZ, OC) *                                                                                                   
+   131.203.72.165  9790    0.703                 (Auckland, Auckland, NZ, OC) default-rdns.vocus.co.nz                                                                            
+╭─ 131.203.72.166  9790    1.4                   (Auckland, Auckland, NZ, OC) default-rdns.vocus.co.nz                                                                            
+S (9790)  tasman-global-access-tga-cable © || southern-cross-cable-network-sccn ©
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 218.100.52.94   9790    24.058                       (Sydney, 2, AU, None) as9790.nsw.ix.asn.au                                                                                
+╭─ 218.100.52.127  35280   24.151                       (Sydney, 2, AU, None) as35280.nsw.ix.asn.au                                                                               
+S (35280, 55002)  hawaiki ✘ || southern-cross-cable-network-sccn ✓ || southern-cross-next ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 107.162.217.5   55002   157.776             (San Jose, California, US, NA)                                                                                                     

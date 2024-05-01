@@ -1,0 +1,13 @@
+   89.213.179.65   32167   0.0                 (Hong Kong, Hong Kong, HK, AS) 89-213-179-65.ip.lshiyusercontent.com                                                               
+   89.213.179.64   32167   0.198             (Kadoorie, Kowloon City, HK, AS) 89-213-179-64.ip.lshiyusercontent.com                                                               
+╭─ 103.203.243.10  955     0.347             (Kadoorie, Kowloon City, HK, AS) port-channe17.switch1.hkg1.bb.lshiy.net                                                             
+S (955, 6939)  asia-africa-europe-1-aae-1 ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.194.200 6939    170.117   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) port-channel15.core4.mrs1.he.net                                                                    
+S&T (6939)  seamewe-3 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.193.138 6939    187.482                    (Brussels, BRU, BE, EU) 100ge0-33.core2.bru1.he.net                                                                         
+   185.1.127.26    *       185.927        (Ixelles, Brussels Capital, BE, EU) devrandom.belgiumix.net                                                                             
+   45.87.79.251    208725  187.489       (Brussels, Brussels Capital, BE, EU) router01.sw1.core.devrandom.be                                                                      
+   45.87.76.6      208725  184.386       (Brussels, Brussels Capital, BE, EU) ansible.devrandom.be                                                                                

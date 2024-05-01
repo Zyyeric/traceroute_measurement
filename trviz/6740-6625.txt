@@ -1,0 +1,14 @@
+   96.126.70.90    21659   0.0               (Moncton, New Brunswick, CA, NA) 96-126-70-90.apbx.ca                                                                                
+   ***             *       -inf                                           *** *                                                                                                   
+   98.143.249.17   3367    1.495             (Moncton, New Brunswick, CA, NA) enova-98-143-249-17.e-novations.ca                                                                  
+╭─ 209.51.184.133  6939    1.551             (Moncton, New Brunswick, CA, NA) port-channel2.core2.yqm1.he.net                                                                     
+S&T (6939)  exa-north-and-south ✓
+╰─ 72.52.92.9      6939    11.961             (Boston, Massachusetts, US, NA) 100ge0-78.core2.bos1.he.net                                                                         
+╭─ 184.104.194.86  6939    17.501           (New York City, New York, US, NA) 100ge0-17.core2.nyc4.he.net                                                                         
+S (6939, 6677)  exa-north-and-south ✓ || atlantic-crossing-1-ac-1 ✓ || yellow ✓ || apollo ✓ || tata-tgn-atlantic ✓ || flag-atlantic-1-fa-1 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 195.66.225.26   6677    93.089                     (London, ENG, GB, None) siminn-linx-gw-1.isholf.is                                                                          
+S (6677, 1850)  shefa-2 ✘ ↠ northern-lights ✘ ↠ farice-1 ✘
+╰─ 157.157.20.10   1850    124.32                   (Mosfellsbaer, 1, IS, EU) IPnet-gw.157.157.20.10.simnet.is                                                                    
+   193.4.59.201    1850    125.117    (Hafnarfjörður, Capital Region, IS, EU) eth14-ht-int-gw01.isnic.is                                                                          
+   185.93.159.17   1850    125.275        (Reykjavík, Capital Region, IS, EU) ripe-atlas-anchor.isnic.is                                                                          

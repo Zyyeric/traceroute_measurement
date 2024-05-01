@@ -1,0 +1,22 @@
+   196.49.14.25    30997   0.0                 (Accra, Greater Accra, GH, AF)                                                                                                     
+   196.49.14.1     30997   0.399               (Accra, Greater Accra, GH, AF)                                                                                                     
+╭─ 197.221.70.89   *       1.016               (Accra, Greater Accra, GH, AF)                                                                                                     
+S&T (, 3741)  
+╰─ 196.14.240.4    3741    0.911                         (None, None, ZA, AF) *                                                                                                   
+╭─ 168.209.160.109 3741    255.827                       (None, None, ZA, AF) *                                                                                                   
+T (3741)  
+├─ 168.209.160.108 3741    255.873                  (London, England, GB, EU)                                                                                                     
+T (3741)  
+├─ 168.209.246.1   3741    257.298                       (None, None, ZA, AF) core1b-dock-be-1.ip.ddii.network                                                                    
+T (3741, 2603)  
+╰─ 195.66.225.24   2603    255.318                    (London, ENG, GB, None) *                                                                                                   
+╭─ 109.105.102.98  2603    185.639                      (London, ENG, GB, EU) ndn-gw.mx1.lon.uk.geant.net                                                                         
+S&T (2603, 20965)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 62.40.98.151    20965   220.772                       (Athens, A1, GR, EU) ae3.mx2.ath.gr.geant.net                                                                            
+   83.97.88.70     5408    222.888                       (Athens, A1, GR, EU) grnet-ias-grnet-gw.mx2.ath.gr.geant.net                                                             
+   62.217.98.53    199399  226.038                       (None, None, GR, EU) grix-ADMIN.eier.access-link.grnet.gr                                                                
+   195.130.66.103  199399  225.548                   (Athens, Attica, GR, EU) gr-ath-as199399.anchors.atlas.ripe.net                                                              

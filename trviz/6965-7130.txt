@@ -1,0 +1,22 @@
+   194.68.41.27    210422  0.0                     (Grillby, Uppsala, SE, EU)                                                                                                     
+   194.68.41.2     210422  0.167                   (Grillby, Uppsala, SE, EU)                                                                                                     
+   10.11.3.3       *       1.514                                          ***                                                                                                     
+╭─ 146.247.170.200 12552   1.743               (Stockholm, Stockholm, SE, EU)                                                                                                     
+T (12552)  
+├─ 146.247.201.152 12552   1.779                         (None, None, NO, EU) *                                                                                                   
+T (12552, 2603)  
+├─ 194.68.123.24   2603    2.143                       (Tullinge, AB, SE, EU) se-tug.nordu.net                                                                                    
+S&T (2603)  
+╰─ 109.105.97.10   2603    11.651                    (Ballerup, None, DK, EU) dk-bal2.nordu.net                                                                                   
+╭─ 109.105.97.3    2603    23.654                        (None, None, DK, EU) dk-esbj.nordu.net                                                                                   
+S&T (2603)  
+├─ 109.105.97.75   2603    23.585                     (Amsterdam, NH, NL, EU) nl-ams.nordu.net                                                                                    
+S&T (2603)  
+╰─ 109.105.102.97  2603    33.311                      (Hexton, None, GB, EU) uk-hex.nordu.net                                                                                    
+╭─ 109.105.102.98  2603    34.511                       (London, ENG, GB, EU) ndn-gw.mx1.lon.uk.geant.net                                                                         
+S&T (2603, 20965)  
+╰─ 62.40.98.26     20965   43.602                  (Dublin, Leinster, IE, EU) ae6.mx1.dub.ie.geant.net                                                                            
+   83.97.88.74     1213    38.43                          (Dublin, D, IE, EU) heanet-ias-heanet-gw.dub.ie.geant.net                                                               
+   87.44.53.58     1213    36.826                  (Dublin, Leinster, IE, EU) ae4-0.core1-pw.nn.hea.net                                                                           
+   87.44.56.178    1213    36.824                           (Cork, M, IE, EU) po2.pw-spine1.nn.hea.net                                                                            
+   193.1.201.140   1213    38.486                (Tallaght, Leinster, IE, EU) atlas-anchor.heanet.ie                                                                              

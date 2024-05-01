@@ -1,0 +1,24 @@
+   176.114.16.104  58067   0.0       (Chita, Zabaykalskiy (Transbaikal) Kray, RU, EU)                                                                                                     
+   176.114.16.1    58067   0.273     (Chita, Zabaykalskiy (Transbaikal) Kray, RU, EU)                                                                                                     
+   172.16.173.86   *       1.106                                          ***                                                                                                     
+╭─ 195.208.210.27  58067   8.092                       (Moscow, 48, RU, None) ms-ix.uude.chte.ru                                                                                  
+LHL (58067, 6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.105.64.230  6939    116.586                       (Oslo, Oslo, NO, EU) 100ge0-59.core2.osl1.he.net                                                                         
+S (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.188.253 6939    204.78                (Newark, New Jersey, US, NA) port-channel2.core2.ewr5.he.net                                                                     
+╭─ 184.104.188.100 6939    205.088          (New York City, New York, US, NA) port-channel22.core3.nyc4.he.net                                                                    
+S&T (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.195.14  6939    259.68       (Vancouver, British Columbia, CA, NA) port-channel1.core1.yvr2.he.net                                                                     
+S&T (6939, 14007)  
+├─ 65.49.79.250    14007   260.928                       (None, None, US, NA) *                                                                                                   
+S&T (14007)  
+╰─ 216.251.132.66  14007   258.278                        (Delta, BC, CA, NA) tranAvan2.skywaywest.net                                                                            
+   216.251.158.65  395152  260.039              (North Vancouver, BC, CA, NA) *                                                                                                   
+   192.102.254.220 395152  260.168      (Vancouver, British Columbia, CA, NA)                                                                                                     

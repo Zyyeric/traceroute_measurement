@@ -1,0 +1,16 @@
+   185.221.36.2    48854   0.0           (Tranbjerg, Central Jutland, DK, EU) dk-skg-as48854.anchors.atlas.ripe.net                                                               
+   185.221.36.253  48854   0.416          (Stilling, Central Jutland, DK, EU)                                                                                                     
+   212.237.248.18  48854   0.426          (Stilling, Central Jutland, DK, EU)                                                                                                     
+   80.70.0.250     48854   0.366          (Stilling, Central Jutland, DK, EU)                                                                                                     
+   212.237.251.47  3342    0.496          (Stilling, Central Jutland, DK, EU)                                                                                                     
+╭─ 212.237.251.46  3342    1.642          (Stilling, Central Jutland, DK, EU)                                                                                                     
+T (3342, 3356)  globalconnect-3-gc3 ✘
+├─ 212.133.12.129  3356    5.03                    (Hamburg, Hamburg, DE, EU) ae52.edge4.hamburg1.level3.net                                                                      
+T (3356)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 217.163.129.170 3356    26.625                   (London, England, GB, EU) london-data.ear2.london1.level3.net                                                                 
+   176.74.23.251   41000   26.464                 (Shadwell, England, GB, EU) 2.vlan.lon1-csw1.uk.as41000.net                                                                     
+   176.74.23.211   41000   26.847                   (London, England, GB, EU) 0.xe-0-0-23.lon2-csw1.uk.as41000.net                                                                
+   176.74.23.214   41000   33.012               (Manchester, England, GB, EU) 0.xe-0-0-23.man1-csw1.uk.as41000.net                                                                
+   176.74.23.223   41000   33.46                (Manchester, England, GB, EU) 0.ae1.man1-esw1.uk.as41000.net                                                                      
+   176.74.17.75    41000   33.156               (Manchester, England, GB, EU) uk-mnc-as41000.anchors.atlas.ripe.net                                                               

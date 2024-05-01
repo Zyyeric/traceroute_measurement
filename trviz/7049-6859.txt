@@ -1,0 +1,16 @@
+   209.195.0.34    6597    0.0                     (Atlanta, Georgia, US, NA)                                                                                                     
+   208.73.219.169  6597    0.551                   (Atlanta, Georgia, US, NA)                                                                                                     
+   208.73.216.194  6597    0.309                   (Atlanta, Georgia, US, NA) 100ge0-1-0-20.cr2.ag2.atl1.coloblox.net                                                             
+   216.66.23.17    6939    1.593                   (Atlanta, Georgia, US, NA) e0-2.switch1.atl8.he.net                                                                            
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 206.126.237.231 31898   30.762                        (None, None, US, NA) ashburn.internexa.com                                                                               
+S (31898, 262589)  pacific-caribbean-cable-system-pccs ✓ || arcos ✘ || colombia-florida-subsea-fiber-cfx-1 ✘ || america-movil-submarine-cable-system-1-amx-1 ✓
+├  10.20.32.70     *       65.957                                         ***                                                                                                     
+├─ 179.1.115.6     262589  102.053              (Bogotá, Bogota D.C., CO, SA)                                                                                                     
+S&T (262589, 263703)  arcos ✓
+├  172.23.0.138    *       111.602                                        ***                                                                                                     
+╰─ 190.97.246.90   263703  112.223                 (El Vigía, Mérida, VE, SA)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   172.26.0.94     *       112.382                                        ***                                                                                                     
+   170.254.172.12  265641  111.414                 (Maturín, Monagas, VE, SA) rev170-254-172-12.cixve.net                                                                         

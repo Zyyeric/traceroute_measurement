@@ -1,0 +1,14 @@
+   92.38.135.131   202422  0.0                         (Seoul, Seoul, KR, AS)                                                                                                     
+   92.38.135.3     202422  0.249                       (Seoul, Seoul, KR, AS) vrrp.gcore.lu                                                                                       
+   10.255.17.210   *       0.282                                          ***                                                                                                     
+   10.255.17.213   *       0.288                                          ***                                                                                                     
+   10.255.17.147   *       0.377                                          ***                                                                                                     
+╭─ 8.244.74.25     3356    0.449                       (Seoul, Seoul, KR, AS)                                                                                                     
+S (3356)  apcn-2 ✓ || korea-japan-cable-network-kjcn ✓ || eac-c2c © || asia-pacific-gateway-apg ✓
+╰─ 4.69.217.14     3356    31.028                         (Tokyo, 13, JP, AS) ae1.3505.edge2.Tokyo4.level3.net                                                                    
+   4.68.75.130     2914    31.12                          (Tokyo, 13, JP, AS) NTT-level3-Tokyo4.Level3.net                                                                        
+   61.200.82.186   60068   30.605                        (None, None, JP, AS) *                                                                                                   
+   84.17.33.107    57695   30.735                (Tokyo / Narita, 12, JP, AS) v3518.cr02.nrt04.jp.misaka.io                                                                       
+   199.119.64.141  969     30.929                      (Tokyo, Tokyo, JP, AS) e32-20.spine1.nrt04.jp.misaka.io                                                                    
+   103.170.232.11  142616  30.739                      (Tokyo, Tokyo, JP, AS) po-31.lag.nrt04.jp.misaka.io                                                                        
+   103.170.232.152 142616  30.732                      (Tokyo, Tokyo, JP, AS) user-103-170-232-152.nrt04.jp.misaka.io                                                             

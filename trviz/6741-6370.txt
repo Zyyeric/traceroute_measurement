@@ -1,0 +1,35 @@
+   103.202.216.76  59105   0.0                         (Chōfu, Tokyo, JP, AS)                                                                                                     
+   103.202.216.73  59105   0.772                       (Tokyo, Tokyo, JP, AS) ge-2-1-0.pop03er03.bb.homenoc.ad.jp                                                                 
+   210.188.225.233 9370    0.865                       (Tokyo, Tokyo, JP, AS) tkwrt301x-as59105.bb.sakura.ad.jp                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   210.138.107.33  2497    2.654                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+╭─ 58.138.100.17   2497    1.73                        (Tokyo, Tokyo, JP, AS) tky001bb00.iij.net                                                                                  
+S (2497)  japan-u-s-cable-network-jus ✓ || tata-tgn-pacific ✓ || pacific-crossing-1-pc-1 ✓ || faster ✓ || jupiter ✓
+╰─ 58.138.88.130   2497    150.213              (Seattle, Washington, US, NA) sea001bb00.iij.net                                                                                  
+   ***             *       -inf                                           *** *                                                                                                   
+   154.54.95.177   174     123.343              (Seattle, Washington, US, NA)                                                                                                     
+   154.54.44.74    174     148.72                (Salt Lake City, UT, US, NA) be3284.ccr21.slc01.atlas.cogentco.com                                                               
+   154.54.41.146   174     164.376                       (Denver, CO, US, NA) be3037.ccr21.den01.atlas.cogentco.com                                                               
+   154.54.5.90     174     177.576                  (Kansas City, MO, US, NA) be3035.ccr21.mci01.atlas.cogentco.com                                                               
+   154.54.42.166   174     182.725                      (Chicago, IL, US, NA) be2831.ccr41.ord01.atlas.cogentco.com                                                               
+   154.54.6.222    174     272.826                    (Cleveland, OH, US, NA) be2717.ccr21.cle04.atlas.cogentco.com                                                               
+   154.54.26.130   174     273.712                       (Albany, NY, US, NA) be2878.ccr21.alb02.atlas.cogentco.com                                                               
+   66.28.4.238     174     273.588                       (Boston, MA, US, NA) be3599.ccr31.bos01.atlas.cogentco.com                                                               
+╭─ 154.54.47.142   174     271.472                 (White Plains, NY, US, NA) be2119.rcr21.hpn04.atlas.cogentco.com                                                               
+S (174)  
+├─ 154.54.60.5     174     280.901                      (London, ENG, GB, EU) be3487.ccr41.lon13.atlas.cogentco.com                                                               
+S&T (174)  
+├─ 154.54.56.94    174     273.566                    (Amsterdam, NH, NL, EU) be12194.ccr41.ams03.atlas.cogentco.com                                                              
+T (174)  
+╰─ 130.117.0.122   174     283.65             (Frankfurt am Main, HE, DE, EU) be2813.ccr41.fra03.atlas.cogentco.com                                                               
+╭─ 154.54.36.54    174     291.042                       (Munich, BY, DE, EU) be2959.ccr21.muc03.atlas.cogentco.com                                                               
+T (174)  
+├─ 154.54.58.6     174     299.923                        (Vienna, 9, AT, EU) be2974.ccr51.vie01.atlas.cogentco.com                                                               
+LHL (174)  
+├─ 130.117.0.70    174     325.467                      (Belgrade, 0, RS, EU) be3420.ccr51.beg03.atlas.cogentco.com                                                               
+LHL (174)  
+╰─ 130.117.50.73   174     332.565                   (Athens, Attica, GR, EU) be3246.rcr21.ath01.atlas.cogentco.com                                                               
+   149.11.120.67   174     325.033              (Metamórfosi, Attica, GR, EU) fastpath2.demarc.cogentco.com                                                                       
+   185.201.254.27  56457   342.117              (Metamórfosi, Attica, GR, EU) be3502.ef2.ath01.fastpath.gr                                                                        
+   185.201.254.39  56457   323.797              (Metamórfosi, Attica, GR, EU) te1-24.sp1.ath01.fastpath.gr                                                                        
+   176.119.210.244 56457   322.325                   (Athens, Attica, GR, EU)                                                                                                     

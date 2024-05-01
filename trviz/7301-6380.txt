@@ -1,0 +1,24 @@
+   196.49.14.25    30997   0.0                 (Accra, Greater Accra, GH, AF)                                                                                                     
+   196.49.14.1     30997   0.389               (Accra, Greater Accra, GH, AF)                                                                                                     
+╭─ 197.221.70.89   *       1.217               (Accra, Greater Accra, GH, AF)                                                                                                     
+S&T (, 3741)  
+╰─ 196.14.240.4    3741    0.877                         (None, None, ZA, AF) *                                                                                                   
+╭─ 168.209.160.109 3741    255.768                       (None, None, ZA, AF) *                                                                                                   
+T (3741)  
+├─ 168.209.160.108 3741    258.047                  (London, England, GB, EU)                                                                                                     
+T (3741)  
+├─ 168.209.246.65  3741    256.892                       (None, None, ZA, AF) core1b-dock-be-2.ip.ddii.network                                                                    
+T (3741, 174)  
+╰─ 149.6.148.129   174     255.432                      (London, ENG, GB, EU) te0-1-0-2-8.ccr21.lon02.atlas.cogentco.com                                                          
+╭─ 154.54.61.253   174     255.809                      (London, ENG, GB, EU) be2572.ccr41.lon13.atlas.cogentco.com                                                               
+S (174)  
+╰─ 154.54.30.185   174     322.094                     (New York, NY, US, NA) be2317.ccr41.jfk02.atlas.cogentco.com                                                               
+   154.54.40.106   174     327.285                   (Washington, DC, US, NA) be2806.ccr41.dca01.atlas.cogentco.com                                                               
+   154.54.7.158    174     343.789                      (Atlanta, GA, US, NA) be2112.ccr41.atl01.atlas.cogentco.com                                                               
+   154.54.24.146   174     356.528                        (Miami, FL, US, NA) be3482.ccr21.mia01.atlas.cogentco.com                                                               
+╭─ 154.54.88.226   174     356.568                   (Miami, Florida, US, NA) be3081.ccr41.mia03.atlas.cogentco.com                                                               
+S (174, 266413)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 190.15.96.130   266413  361.33                        (Olinda, PE, BR, SA) *                                                                                                   
+   170.81.100.114  266413  361.199                  (Camaçari, Bahia, BR, SA) 170.81.100.114.vivatecnologia.com.br                                                                

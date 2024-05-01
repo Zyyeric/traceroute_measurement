@@ -1,0 +1,16 @@
+   27.111.84.21    135132  0.0           (Cebu City, Central Visayas, PH, AS) ph-ceb-as135132.anchors.atlas.ripe.net                                                              
+   27.111.84.20    135132  2.685             (Baugo, Central Visayas, PH, AS) vlan509.core.ceb02.ds.network                                                                       
+   192.168.159.142 *       10.689                                         ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   192.168.159.168 *       19.602                                         ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   43.224.189.33   137074  3.68              (Baugo, Central Visayas, PH, AS) 43-224-189-33.static.rise.as                                                                        
+   10.255.64.100   *       14.284                                         ***                                                                                                     
+   103.104.19.8    *       14.99               (Manila, Metro Manila, PH, AS) cloudflare-as13335-lan1-ipv4.getafix.ph                                                             
+   172.69.14.70    13335   16.845              (Manila, Metro Manila, PH, AS)                                                                                                     
+   172.69.14.69    13335   13.144              (Manila, Metro Manila, PH, AS)                                                                                                     
+╭─ 172.69.14.70    13335   16.845              (Manila, Metro Manila, PH, AS)                                                                                                     
+S (13335, 133800)  national-digital-transmission-network-ndtn ✘ ↠ seamewe-3 ✓ || palapa-ring-middle ✓ || sea-us ✓
+├  172.16.18.101   *       55.926                                         ***                                                                                                     
+╰─ 137.59.127.34   133800  53.546                        (None, None, ID, AS) ip-34-127-59-137.core.biznetg.io                                                                    
+   103.77.105.3    133800  55.691                  (Jakarta, Jakarta, ID, AS) ip-3-105-77-103.jkt-1.biznetg.io                                                                    

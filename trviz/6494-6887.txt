@@ -1,0 +1,15 @@
+   27.111.84.21    135132  0.0           (Cebu City, Central Visayas, PH, AS) ph-ceb-as135132.anchors.atlas.ripe.net                                                              
+   27.111.84.20    135132  1.217             (Baugo, Central Visayas, PH, AS) vlan509.core.ceb02.ds.network                                                                       
+   192.168.159.142 *       15.486                                         ***                                                                                                     
+   192.168.159.152 *       1.106                                          ***                                                                                                     
+   192.168.159.168 *       1.638 (22.402)                                     ***                                                                                                     
+   192.168.159.165 *       1.514                                          ***                                                                                                     
+   43.224.189.33   137074  2.255             (Baugo, Central Visayas, PH, AS) 43-224-189-33.static.rise.as                                                                        
+╭─ 103.44.232.39   63927   41.695                      (Cebu City, 7, PH, AS) 103-44-232-39.static.rise.as                                                                        
+LHL (63927, 34019)  national-digital-transmission-network-ndtn ✘ ↠ seamewe-3 ✓
+├─ 80.249.210.134  34019   207.457                     (Schiphol, NH, NL, EU) *                                                                                                   
+T (34019, )  
+╰─ 193.201.149.156 *       257.726       (Saint-Denis, Île-de-France, FR, EU) as204092.fnc-ix.net                                                                                 
+   89.234.186.43   204092  253.855                       (None, None, FR, EU) eth1.33.asbr02.cogent-rns.grifon.fr                                                                 
+   89.234.186.42   204092  272.564                 (Rennes, Brittany, FR, EU) hv03.cogent-rns.bb.grifon.fr                                                                        
+   80.67.190.218   204092  256.037                 (Rennes, Brittany, FR, EU) ripe-anchor.grifon.fr                                                                               

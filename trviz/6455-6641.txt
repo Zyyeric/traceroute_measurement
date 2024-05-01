@@ -1,0 +1,15 @@
+   92.38.135.131   202422  0.0                         (Seoul, Seoul, KR, AS)                                                                                                     
+   92.38.135.3     202422  0.323                       (Seoul, Seoul, KR, AS) vrrp.gcore.lu                                                                                       
+   10.255.17.209   *       0.288                                          ***                                                                                                     
+   10.255.17.213   *       0.385                                          ***                                                                                                     
+   10.255.17.147   *       0.357                                          ***                                                                                                     
+╭─ 8.244.74.25     3356    0.809                       (Seoul, Seoul, KR, AS)                                                                                                     
+S (3356)  apcn-2 ✓ || korea-japan-cable-network-kjcn ✓ || eac-c2c © || asia-pacific-gateway-apg ✓
+╰─ 4.69.217.14     3356    31.592                         (Tokyo, 13, JP, AS) ae1.3505.edge2.Tokyo4.level3.net                                                                    
+   4.68.70.86      3491    31.147                         (Tokyo, 13, JP, AS) PCCW-level3-Tokyo4.Level3.net                                                                       
+   63.218.250.145  3491    31.265                         (Tokyo, 13, JP, AS) TenGE0-3-0-5.br02.tok02.pccwbtn.net                                                                 
+   63.216.242.46   20473   31.109                         (Tokyo, 13, JP, AS) ssi-labo.gi0-0-0-3.843.br04.tok01.pccwbtn.net                                                       
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   104.238.161.230 20473   30.974                       (Ōi, Saitama, JP, AS) 104.238.161.230.vultrusercontent.com                                                                

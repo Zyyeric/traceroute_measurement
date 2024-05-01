@@ -1,0 +1,22 @@
+   130.193.166.22  21277   0.0                         (Erbil, Arbīl, IQ, AS)                                                                                                     
+╭─ 130.193.166.21  21277   0.302                       (Erbil, Arbīl, IQ, AS)                                                                                                     
+LHL (21277, 13335)  seamewe-3 ✓
+├─ 5.23.0.73       13335   0.758                      (Algeciras, AN, ES, EU) *                                                                                                   
+T (13335, 6453)  
+╰─ 80.231.203.16   6453    21.475          (Amsterdam, North Holland, NL, EU) if-et-5-3-0-0.tcore1.etky1-ankara.as6453.net                                                        
+   80.231.203.1    6453    69.601          (Amsterdam, North Holland, NL, EU) if-ae-40-2.tcore1.av2-amsterdam.as6453.net                                                          
+╭─ 80.231.85.131   6453    73.494          (Amsterdam, North Holland, NL, EU)                                                                                                     
+S&T (6453, 1273)  ulysses-2 ✘ || zeus ✓ || circe-north ✓ || scylla ✘ || concerto ✘ || farland-north ✘
+├─ 195.2.30.117    1273    76.338                        (None, None, GB, EU) ae2-tcr1.fis.cw.net                                                                                 
+S&T (1273)  
+├─ 195.2.29.254    1273    79.746                   (Milan, Lombardy, IT, EU) ae17-xcr1.mld.cw.net                                                                                
+S&T (1273)  
+├─ 195.2.16.186    1273    76.24                         (None, None, GB, EU) ae41-xcr1.sof.cw.net                                                                                
+S&T (1273, 3329)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 62.74.30.101    3329    87.032                         (Athens, I, GR, EU) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   62.74.226.30    12361   95.893                    (Athens, Attica, GR, EU) dumy30.panafonet.gr                                                                                 
+   ***             *       -inf                                           *** *                                                                                                   
+   139.91.68.3     8522    109.127                 (Irákleion, Crete, GR, EU)                                                                                                     

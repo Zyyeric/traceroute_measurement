@@ -1,0 +1,16 @@
+   10.252.4.170    *       0.0                                            ***                                                                                                     
+   10.252.4.169    *       0.089                                          ***                                                                                                     
+   10.252.4.153    *       0.216                                          ***                                                                                                     
+   10.252.0.37     *       12.48                                          ***                                                                                                     
+   10.252.1.202    *       15.108                                         ***                                                                                                     
+╭─ 185.1.48.7      *       88.529                (Istanbul, Istanbul, TR, AS) de-cix.ist.ip-max.net                                                                               
+LHL (, 25091)  seamewe-5 ✘ || seamewe-3 ✘
+├─ 46.20.254.198   25091   102.267                    (Amsterdam, NH, NL, EU) te0-0-1-1.er01.ams01.ip-max.net                                                                     
+T (25091)  
+╰─ 46.20.254.21    25091   102.327               (Lille/Lesquin, HDF, FR, EU) te0-1-0-2.er01.lil02.ip-max.net                                                                     
+   46.20.254.248   25091   102.113             (Paris, Île-de-France, FR, EU) te0-0-0-15.er02.par02.fr.ip-max.net                                                                 
+   46.20.240.187   25091   101.693             (Paris, Île-de-France, FR, EU)                                                                                                     
+   193.200.43.85   34019   101.917             (Paris, Île-de-France, FR, EU) gw-grifon-th2.bb.hivane.net                                                                         
+   89.234.186.144  204092  117.742             (Paris, Île-de-France, FR, EU) enp1s0.201.asbr03.grifon.fr                                                                         
+   89.234.186.42   204092  109.836                 (Rennes, Brittany, FR, EU) hv03.cogent-rns.bb.grifon.fr                                                                        
+   80.67.190.218   204092  113.218                 (Rennes, Brittany, FR, EU) ripe-anchor.grifon.fr                                                                               

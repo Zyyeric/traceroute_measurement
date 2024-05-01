@@ -1,0 +1,14 @@
+   103.225.148.27  45701   0.0                     (Jakarta, Jakarta, ID, AS) ip-27-148-225-103.globalxtreme.net                                                                  
+   103.225.148.17  45701   0.352                   (Jakarta, Jakarta, ID, AS) ip-17-148-225-103.globalxtreme.net                                                                  
+   202.58.202.0    *       19.798                  (Jakarta, Jakarta, ID, AS) ae-0-3-r1-jkt1.globalxtreme.net                                                                     
+╭─ 202.58.202.242  *       31.66                   (Jakarta, Jakarta, ID, AS) ae-1-0-r2-sg1.globalxtreme.net                                                                      
+S (, 15802)  
+├─ 27.111.228.17   15802   30.445                    (Seogwipo, None, KR, AS) 15802.sgw.equinix.com                                                                               
+S (15802, 17557)  
+├  10.229.0.136    *       117.634                                        ***                                                                                                     
+├─ 195.229.29.54   17557   118.12                        (None, None, AE, AS) *                                                                                                   
+S (17557, 7590)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 202.125.149.58  7590    137.753                   (Rawalpindi, PB, PK, AS) Touchstone-4.rwp44d1.pie.net.pk                                                                     
+   210.56.8.180    7590    133.615                    (Islamabad, IS, PK, AS) *                                                                                                   
+   210.56.11.202   7590    136.696             (Islamabad, Islamabad, PK, AS)                                                                                                     

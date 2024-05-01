@@ -1,0 +1,13 @@
+   154.18.86.7     151420  0.0                         (Tokyo, Tokyo, JP, AS)                                                                                                     
+╭─ 154.18.86.1     151420  0.098               (Motoyoyogichō, Tokyo, JP, AS)                                                                                                     
+S (151420, 6939)  apcn-2 ✓ || eac-c2c ✘ || asia-pacific-gateway-apg ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.64.129  6939    87.519                   (Hong Kong, None, HK, AS) 100ge10-2.core1.hkg1.he.net                                                                         
+╭─ 65.49.108.78    4651    53.254                   (Hong Kong, None, HK, AS) cat-telecom-public-company-ltd.10gigabitethernet7-2.core1.hkg1.he.net                               
+S (4651)  
+╰─ 61.19.9.121     4651    92.527                        (None, None, TH, AS) *                                                                                                   
+   61.19.7.22      4651    93.552                        (None, None, TH, AS) *                                                                                                   
+   122.155.224.74  135063  94.202                        (None, None, TH, AS) *                                                                                                   
+   172.21.21.4     *       93.833                                         ***                                                                                                     
+   172.24.132.101  *       93.804                                         ***                                                                                                     
+   103.253.132.25  59238   94.473                  (Bangkok, Bangkok, TH, AS) th-bkk-as59238.anchors.atlas.ripe.net                                                               

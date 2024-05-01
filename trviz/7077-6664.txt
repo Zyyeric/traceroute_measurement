@@ -1,0 +1,26 @@
+   146.185.219.73  202422  0.0        (Petaẖ Tiqva, Central District, IL, AS)                                                                                                     
+   146.185.219.3   202422  0.359                 (Tel Aviv, Tel Aviv, IL, AS) vrrp.gcore.lu                                                                                       
+   10.255.29.241   *       0.405                                          ***                                                                                                     
+   31.168.224.93   8551    0.454                 (Tel Aviv, Tel Aviv, IL, AS) bzq-224-168-31-93.red.bezeqint.net                                                                  
+╭─ 212.179.124.185 8551    0.769                       (Tel Aviv, TA, IL, AS) bzq-179-124-185.cust.bezeqint.net                                                                   
+LHL (8551, 174)  mednautilus-submarine-system ✓ ↠ seamewe-4 ✓ || mednautilus-submarine-system ✓ ↠ asia-africa-europe-1-aae-1 ✓ || mednautilus-submarine-system ✓ ↠ seamewe-5 ✓ || mednautilus-submarine-system ✓ ↠ imewe ✓ || mednautilus-submarine-system ✓ ↠ seamewe-3 ✓ || jonah 👍 ↠ seamewe-4 ✓ || jonah 👍 ↠ asia-africa-europe-1-aae-1 ✓ || jonah 👍 ↠ seamewe-5 ✓ || jonah 👍 ↠ imewe ✓ || jonah 👍 ↠ seamewe-3 ✓ || lev-submarine-system ✘ ↠ seamewe-4 ✓ || lev-submarine-system ✘ ↠ asia-africa-europe-1-aae-1 ✓ || lev-submarine-system ✘ ↠ seamewe-5 ✓ || lev-submarine-system ✘ ↠ imewe ✓ || lev-submarine-system ✘ ↠ seamewe-3 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 154.54.72.109   174     51.013                        (Paris, IDF, FR, EU) be2779.ccr41.par01.atlas.cogentco.com                                                               
+   154.54.61.18    174     51.311                        (Paris, IDF, FR, EU) be2102.ccr32.par04.atlas.cogentco.com                                                               
+   154.54.61.34    174     51.266                        (Paris, IDF, FR, EU) be2151.agr21.par04.atlas.cogentco.com                                                               
+   130.117.15.70   6453    54.701                        (Paris, IDF, FR, EU) tata.par04.atlas.cogentco.com                                                                       
+   ***             *       -inf                                           *** *                                                                                                   
+   80.231.154.25   6453    71.588              (Paris, Île-de-France, FR, EU) if-bundle-13-2.qcore1.pye-paris.as6453.net                                                          
+╭─ 80.231.154.27   6453    72.606              (Paris, Île-de-France, FR, EU) if-bundle-2-2.qcore2.pye-paris.as6453.net                                                           
+S&T (6453)  
+╰─ 80.231.196.37   6453    62.163                   (London, England, GB, EU) if-bundle-13-2.qcore1.ldn-london.as6453.net                                                         
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 80.231.131.1    6453    63.298                      (London, None, GB, EU) if-ae-2-2.tcore2.l78-london.as6453.net                                                              
+S (6453)  
+╰─ 80.231.131.66   6453    175.299                       (Mumbai, MH, IN, AS) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   115.114.12.186  4755    198.811                     (Delhi, Delhi, IN, AS) 115.114.12.186.static-delhi.vsnl.net.in                                                             
+   180.179.197.218 17439   198.102                       (None, None, IN, AS) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   216.48.178.84   132420  195.962             (Noida, Uttar Pradesh, IN, AS) e2e-95-84.ssdcloudindia.net                                                                         

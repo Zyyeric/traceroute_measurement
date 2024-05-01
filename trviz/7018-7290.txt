@@ -1,0 +1,16 @@
+   103.225.148.27  45701   0.0                     (Jakarta, Jakarta, ID, AS) ip-27-148-225-103.globalxtreme.net                                                                  
+   103.225.148.17  45701   0.451                   (Jakarta, Jakarta, ID, AS) ip-17-148-225-103.globalxtreme.net                                                                  
+   202.58.202.4    *       19.76                   (Jakarta, Jakarta, ID, AS) ae-1-0-r1-jkt1.globalxtreme.net                                                                     
+╭─ 202.58.202.250  *       31.791                  (Jakarta, Jakarta, ID, AS) ae-2-3-r2-sg1.globalxtreme.net                                                                      
+S (, 4826)  
+├─ 27.111.228.74   4826    31.289                    (Seogwipo, None, KR, AS) 4826.sgw.equinix.com                                                                                
+S (4826)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 114.31.192.49   4826    122.832                      (Sydney, NSW, AU, OC) be101.bdr01.syd01.nsw.vocus.network                                                                 
+╭─ 123.103.197.26  4826    149.686          (Sydney, New South Wales, AU, OC) ip-26.197.103.123.vocus.net.au                                                                      
+S (4826, 45345)  
+╰─ 202.87.128.198  45345   145.602                        (Noumea, S, NC, OC) *                                                                                                   
+   103.2.186.195   45345   145.243           (Nouméa, South Province, NC, OC) nc-nou-as45345.anchors.atlas.ripe.net                                                               

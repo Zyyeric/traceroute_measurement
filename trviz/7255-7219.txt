@@ -1,0 +1,12 @@
+   102.219.127.20  37468   0.0                 (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 102.219.127.17  37468   0.355               (Singapore, Singapore, SG, AS)                                                                                                     
+S (37468, 20473)  
+├─ 27.111.229.119  20473   1.876                     (Seogwipo, None, KR, AS) 20473.sgw.equinix.com                                                                               
+S (20473)  
+├  10.79.1.161     *       1.994                                          ***                                                                                                     
+├  10.79.2.66      *       1.36                                           ***                                                                                                     
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 45.77.39.153    20473   1.64                (Singapore, Singapore, SG, AS) router01-vul-sin.as151332.net                                                                       
+S (20473, 7545)  
+╰─ 203.192.83.254  7545    267.648              (Melbourne, Victoria, AU, OC) ip-254-83-192-203.static.pipenetworks.com                                                           
+   103.179.37.157  151332  269.894              (Melbourne, Victoria, AU, OC)                                                                                                     

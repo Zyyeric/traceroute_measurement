@@ -1,0 +1,17 @@
+   212.43.17.42    42961   0.0         (Al Farwānīyah, Al Farwaniyah, KW, AS)                                                                                                     
+   212.43.17.41    42961   1.078             (Kuwait City, Al Asimah, KW, AS)                                                                                                     
+   10.32.1.10      *       1.05                                           ***                                                                                                     
+   10.32.1.5       *       1.67                                           ***                                                                                                     
+╭─ 151.248.98.136  59605   0.906             (Kuwait City, Al Asimah, KW, AS)                                                                                                     
+LHL (59605)  falcon ✓ ↠ seamewe-4 ✓ || falcon ✓ ↠ seamewe-3 ✓ || falcon ✓ ↠ seamewe-5 ✓ || falcon ✓ ↠ peace-cable ✘
+├─ 151.248.96.33   59605   128.153             (Singapore, Singapore, SG, AS)                                                                                                     
+S (59605, 132602)  
+├─ 27.111.229.146  132602  196.888                   (Seogwipo, None, KR, AS) 132602.sgw.equinix.com                                                                              
+S (132602)  
+├─ 103.16.153.22   132602  234.721                     (Singapore, 4, SG, AS) 103-16-153-22-noc.bsccl.com                                                                         
+S (132602)  
+├─ 103.16.152.81   132602  241.442                       (None, None, BD, AS) 103-16-152-81-noc.bsccl.com                                                                         
+S (132602, 9829)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 117.250.113.140 9829    246.666                  (Guwahati, Assam, IN, AS) static.ill.117.250.113.140.bsnl.co.in                                                               

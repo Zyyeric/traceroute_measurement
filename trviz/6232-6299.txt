@@ -1,0 +1,20 @@
+   197.239.73.59   37577   0.0                  (Ouagadougou, Centre, BF, AF)                                                                                                     
+   197.239.73.57   37577   0.611                (Ouagadougou, Centre, BF, AF)                                                                                                     
+   165.16.221.42   37721   0.758                         (None, None, BF, AF) *                                                                                                   
+   165.16.221.41   37721   1.101                         (None, None, BF, AF) *                                                                                                   
+   102.67.97.181   37721   1.148                (Ouagadougou, Centre, BF, AF) ce5-355.bb2.oua2.vts.bf                                                                             
+   102.67.97.41    37721   1.075 (3.413)              (Ouagadougou, KAD, BF, AF) et-0-0-1-2003.bb1.oua2.vts.bf                                                                       
+╭─ 102.67.96.224   37721   16.762               (Ouagadougou, Centre, BF, AF) po48-2048.bb2.acc1.vts.bf                                                                           
+LHL (37721)  west-africa-cable-system-wacs ✓ || africa-coast-to-europe-ace ✓ || mainone ✘ || sat-3wasc ✓
+├─ 102.67.96.245   37721   104.385                   (Lisbon, Lisbon, PT, EU) et-0-0-1-2035.bb1.lis1.vts.bf                                                                       
+S&T (37721)  europe-india-gateway-eig ✓ || seamewe-3 ✓
+╰─ 102.67.96.26    37721   125.626                  (London, England, GB, EU) xe-0-0-1-2034.bb1.lon1.vts.bf                                                                       
+   102.67.96.10    37721   125.361                      (London, ENG, GB, EU) xe-0-0-2-41.br2.lon1.vts.bf                                                                         
+╭─ 195.66.226.33   59605   139.135                    (London, ENG, GB, None) *                                                                                                   
+LHL (59605)  europe-india-gateway-eig ✓ ↠ falcon ✓ || seamewe-3 ✓ ↠ falcon ✓ || flag-europe-asia-fea ✓ ↠ falcon ✓
+╰─ 151.248.96.57   59605   217.416                       (None, None, BH, AS) *                                                                                                   
+╭─ 151.248.98.137  42961   220.74                        (None, None, BH, AS) *                                                                                                   
+S (42961)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 212.43.17.42    42961   212.387     (Al Farwānīyah, Al Farwaniyah, KW, AS)                                                                                                     

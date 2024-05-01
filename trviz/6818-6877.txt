@@ -1,0 +1,13 @@
+   45.87.76.6      208725  0.0           (Brussels, Brussels Capital, BE, EU) ansible.devrandom.be                                                                                
+   45.87.79.251    208725  0.262         (Brussels, Brussels Capital, BE, EU) router01.sw1.core.devrandom.be                                                                      
+   ***             *       -inf                                           *** *                                                                                                   
+   109.233.104.96  48408   0.598      (Sint-Stevens-Woluwe, Flanders, BE, EU)                                                                                                     
+   62.115.151.140  1299    1.137         (Brussels, Brussels Capital, BE, EU) brx-b4-link.ip.twelve99.net                                                                         
+╭─ 62.115.117.56   1299    1.299         (Brussels, Brussels Capital, BE, EU) brx-b3-link.ip.twelve99.net                                                                         
+S&T (1299)  
+╰─ 62.115.116.238  1299    4.835               (Paris, Île-de-France, FR, EU) prs-bb1-link.ip.twelve99.net                                                                        
+╭─ 62.115.118.59   1299    4.916               (Paris, Île-de-France, FR, EU) prs-b3-link.ip.twelve99.net                                                                         
+S (1299, 3491)  seamewe-3 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 63.223.9.90     3491    280.942                     (Taipei, None, TW, AS) Bundle-Ether44.br01.tap04.pccwbtn.net                                                               
+   63.222.40.114   3491    276.449                   (Taipei, Taiwan, TW, AS) ncic.te0-1-0-23.br01.tap04.as3491.net                                                               

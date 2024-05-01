@@ -1,0 +1,14 @@
+   5.20.2.255      21412   0.0                     (Vilnius, Vilnius, LT, EU) dmz-2-255.cgates.lt                                                                                 
+╭─ 5.20.2.254      21412   0.325                   (Vilnius, Vilnius, LT, EU) dmz-2-254.cgates.lt                                                                                 
+S&T (21412, 1299)  bcs-east ✓
+├─ 62.115.42.224   1299    0.325 (5.199)                    (Riga, Riga, LV, EU) riga-b4-link.ip.twelve99.net                                                                        
+S (1299)  sweden-latvia © || latvia-sweden-1-lv-se-1 👍
+├─ 62.115.139.200  1299    16.531              (Stockholm, Stockholm, SE, EU) s-bb1-link.ip.twelve99.net                                                                          
+S&T (1299)  energinet-laeso-varberg ✘ || globalconnect-2-gc2 © || kattegat-2 © || ip-only-denmark-sweden © || danica-north 👍 || scandinavian-ring-south 👍 || denmark-sweden-16 © || rnne-rdvig ©
+╰─ 62.115.134.78   1299    24.916        (Copenhagen, Capital Region, DK, EU) kbn-bb5-link.ip.twelve99.net                                                                        
+   62.115.134.81   1299    28.418        (Copenhagen, Capital Region, DK, EU) kbn-b4-link.ip.twelve99.net                                                                         
+   213.248.89.119  1299    28.593        (Copenhagen, Capital Region, DK, EU) m247europesrl-ic-325899.ip.twelve99-cust.net                                                        
+   ***             *       -inf                                           *** *                                                                                                   
+   83.97.21.167    9009    28.007                    (Copenhagen, 84, DK, EU) vlan2915.as04.cph1.dk.m247.com                                                                      
+   37.120.131.34   59795   27.735                    (Copenhagen, 84, DK, EU) *                                                                                                   
+   213.184.86.101  59795   27.961        (Copenhagen, Capital Region, DK, EU) dk-cph-as59795.anchors.atlas.ripe.net                                                               

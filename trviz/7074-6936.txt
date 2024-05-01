@@ -1,0 +1,29 @@
+   185.209.84.141  57578   0.0               (Khabarovsk, Khabarovsk, RU, EU) ru-khv-as57578.anchors.atlas.ripe.net                                                               
+   ***             *       -inf                                           *** *                                                                                                   
+   92.38.191.67    210756  0.341             (Khabarovsk, Khabarovsk, RU, EU) vrrp.edgecenter.ru                                                                                  
+   92.223.110.3    210756  0.406             (Khabarovsk, Khabarovsk, RU, EU)                                                                                                     
+   10.255.10.187   *       0.492                                          ***                                                                                                     
+   212.188.31.38   8359    0.573             (Khabarovsk, Khabarovsk, RU, EU) push-cr01-ae26.0.khb.mts-internet.net                                                               
+   212.188.56.139  8359    0.755             (Khabarovsk, Khabarovsk, RU, EU) push-cr03-be2.27.khb.mts-internet.net                                                               
+╭─ 212.188.56.140  8359    19.917            (Khabarovsk, Khabarovsk, RU, EU) pstyn-cr01-ae8.27.tnd.mts-internet.net                                                              
+T (8359)  
+├─ 212.188.1.201   8359    38.756                         (Bra, None, IT, EU) bgs-cr01-ae4.28.bra.mts-internet.net                                                                
+LHL (8359)  
+╰─ 212.188.55.113  8359    121.818              (Krasnoural'sk, None, RU, AS) pskras-cr01-ae3.38.krsk.mts-internet.net                                                            
+   212.188.42.177  8359    121.871                (Novosibirsk, None, RU, AS) stn-cr01-be9.54.nsk.mts-internet.net                                                                
+   212.188.42.149  8359    122.078               (Ekaterinburg, None, RU, AS) zoo-cr03-be8.66.ekt.mts-internet.net                                                                
+   212.188.29.85   8359    121.995                       (None, None, RU, EU) vish-cr01-be7.66.kaz.mts-internet.net                                                               
+   ***             *       -inf                                           *** *                                                                                                   
+   212.188.28.102  8359    121.718                 (Michurinsk, None, RU, AS) a433-cr02-be15.77.msk.mts-internet.net                                                              
+╭─ 212.188.2.53    8359    122.311           (Saint Petersburg, None, RU, AS) mmon-cr01-be1.78.spb.mts-internet.net                                                               
+LHL (8359)  
+├─ 212.188.29.109  8359    122.637                        (Hel, None, PL, EU) radio-cr01-ae3.78.hel.mts-internet.net                                                              
+S&T (8359, 41095)  
+├─ 80.81.192.47    41095   143.631            (Frankfurt am Main, HE, DE, EU) de-cix.iptp.net                                                                                     
+LHL (41095)  
+╰─ 103.23.168.233  41095   363.558                        (Tokyo, 13, JP, AS) be2.r0.bc05.bbt.ty.jp.iptp.net                                                                      
+   103.23.168.233  41095   363.558                        (Tokyo, 13, JP, AS) be2.r0.bc05.bbt.ty.jp.iptp.net                                                                      
+   103.23.168.198  59103   184.373                        (Tokyo, 13, JP, AS) as59103.r0.214.ty2.eq.jp.iptp.net                                                                   
+   103.41.60.171   59103   184.13                        (None, None, JP, AS) koba-bgprt1.tokyo-ix.v4.open.ad.jp                                                                  
+   103.143.136.26  63781   190.298                       (None, None, JP, AS) ospfrt1-bgprt1.kobayashi.ad.jp                                                                      
+   103.143.136.43  63781   184.663                     (Tokyo, Tokyo, JP, AS) koba-103-143-136-43.rev.kobayashi.ad.jp                                                             

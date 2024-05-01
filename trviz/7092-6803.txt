@@ -1,0 +1,11 @@
+   103.121.34.150  138398  0.0                   (Auckland, Auckland, NZ, OC) 103-121-34-150.netbydesign.nz                                                                       
+   103.121.34.131  138398  0.3                   (Auckland, Auckland, NZ, OC) eth2.vrt2.akl.netbydesign.nz                                                                        
+   103.130.69.89   138398  0.318                 (Auckland, Auckland, NZ, OC) 103-130-69-89.netbydesign.nz                                                                        
+╭─ 43.243.21.17    6939    1.028                      (Auckland, AUK, NZ, OC) as6939.akl.ix.nz                                                                                    
+S (6939, )  tasman-global-access-tga-cable ✓ || southern-cross-cable-network-sccn ✓ || hawaiki ✘
+╰─ 218.100.52.249  *       30.329           (Sydney, New South Wales, AU, OC) as6939.nsw.ix.asn.au                                                                                
+╭─ 184.105.65.223  6939    76.86           (Perth, Western Australia, AU, OC) 100ge0-32.core1.per1.he.net                                                                         
+S (6939, 23947)  seamewe-3 ✓ || indigo-west ✓ || australia-singapore-cable-asc ©
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 103.116.125.2   23947   122.719             (Singapore, Singapore, SG, AS)                                                                                                     

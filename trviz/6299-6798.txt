@@ -1,0 +1,29 @@
+   185.34.2.114    36236   0.0                         (Dubai, Dubai, AE, AS)                                                                                                     
+   185.34.2.113    36236   0.849                       (Dubai, Dubai, AE, AS)                                                                                                     
+╭─ 185.34.2.12     36236   0.265                       (Dubai, Dubai, AE, AS)                                                                                                     
+S (36236, 6939)  seamewe-5 ✓ || asia-africa-europe-1-aae-1 ✓ || imewe ✓ || seamewe-4 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.189.45  6939    99.54     (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) ve1002.core3.mrs1.he.net                                                                            
+S&T (6939)  africa-coast-to-europe-ace ✓ || seamewe-3 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.189.31  6939    121.73                    (Lisbon, Lisbon, PT, EU) port-channel8.core1.lis1.he.net                                                                     
+S&T (6939)  west-africa-cable-system-wacs ✓
+├─ 184.104.188.210 6939    233.57           (Cape Town, Western Cape, ZA, AF) 100ge0-33.core1.cpt1.he.net                                                                         
+S&T (6939)  west-africa-cable-system-wacs ✓ || sat-3wasc ✓ || africa-coast-to-europe-ace ✓
+╰─ 184.104.188.94  6939    289.243                     (Lagos, Lagos, NG, AF) 10ge0-20.core1.los1.he.net                                                                          
+╭─ 216.66.89.5     6939    288.413                     (Lagos, Lagos, NG, AF) virtual-technologies-and-solutions.e0-7.core1.los1.he.net                                           
+S&T (6939, 37721)  
+├─ 102.67.97.86    37721   288.419                        (Accra, AA, GH, AF) et-0-0-0-2009.bb2.acc1.vts.bf                                                                       
+S&T (37721)  
+├─ 102.67.97.222   37721   289.09                      (Lagos, Lagos, NG, AF) po29-2029.bb2.los1.vts.bf                                                                           
+LHL (37721)  
+╰─ 102.67.97.224   37721   297.258              (Ouagadougou, Centre, BF, AF) ce1-2030.bb2.acc1.vts.bf                                                                            
+   102.67.96.45    37721   310.23                  (Ouagadougou, KAD, BF, AF) et-0-0-1-2022.bb2.oua1.vts.bf                                                                       
+╭─ 102.67.96.30    37721   310.267              (Ouagadougou, Centre, BF, AF)                                                                                                     
+T (37721)  
+├─ 102.67.97.146   37721   312.197             (Accra, Greater Accra, GH, AF) ce0-255.pe3.oua1.vts.bf                                                                             
+T (37721)  
+╰─ 165.16.221.42   37721   313.076                       (None, None, BF, AF) *                                                                                                   
+   197.239.73.57   37577   311.298              (Ouagadougou, Centre, BF, AF)                                                                                                     
+   197.239.73.59   37577   311.988              (Ouagadougou, Centre, BF, AF)                                                                                                     

@@ -1,0 +1,15 @@
+   37.143.141.141  196745  0.0                       (Poole, England, GB, EU) atlas.datacenta.net                                                                                 
+   172.22.10.219   *       0.174                                          ***                                                                                                     
+   37.143.136.253  196745  0.713               (Bournemouth, England, GB, EU)                                                                                                     
+   193.251.248.53  5511    4.949                    (London, England, GB, EU)                                                                                                     
+╭─ 193.251.129.79  5511    5.188                       (London, None, GB, EU) *                                                                                                   
+S&T (5511, 13335)  seamewe-3 👍 || high-capacity-undersea-guernsey-optical-fibre-hugo ✓ || uk-channel-islands-8 ✘ || channel-islands-9-liberty-submarine-cable ✘ || uk-channel-islands-7 ✘
+├─ 193.251.150.108 13335   21.535                        (None, None, FR, EU) cloudflare-13.gw.opentransit.net                                                                    
+S&T (13335)  
+╰─ 172.69.143.2    13335   5.045                  (Shadwell, England, GB, EU)                                                                                                     
+   172.69.43.42    13335   5.04                     (London, England, GB, EU)                                                                                                     
+   172.69.193.83   13335   5.001                    (London, England, GB, EU)                                                                                                     
+╭─ 172.69.43.53    13335   5.126                    (London, England, GB, EU)                                                                                                     
+S (13335, 141235)  seamewe-3 ✓ ↠ seamewe-5 ✓ || high-capacity-undersea-guernsey-optical-fibre-hugo ✓ ↠ seamewe-5 ✓ || uk-channel-islands-8 ✘ ↠ seamewe-5 ✓ || channel-islands-9-liberty-submarine-cable ✘ ↠ seamewe-5 ✓ || uk-channel-islands-7 ✘ ↠ seamewe-5 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 103.156.251.7   141235  159.202             (Singapore, Singapore, SG, AS)                                                                                                     

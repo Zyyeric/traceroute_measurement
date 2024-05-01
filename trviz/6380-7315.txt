@@ -1,0 +1,19 @@
+   45.6.36.173     266152  0.0              (Campina Grande, Paraíba, BR, SA) 45.6.36.173.pjmfibra.com.br                                                                         
+   45.6.36.61      266152  1.305            (Campina Grande, Paraíba, BR, SA) 45.6.36.61.pjmfibra.com.br                                                                          
+╭─ 45.184.144.214  *       13.664                  (Fortaleza, Ceará, BR, SA) as6939.fortaleza.ce.ix.br                                                                           
+S (, 6939)  brazilian-festoon ✘ ↠ america-movil-submarine-cable-system-1-amx-1 ✘ || brazilian-festoon ✘ ↠ south-america-1-sam-1 ✘ || brazilian-festoon ✘ ↠ brusa ✘ || brazilian-festoon ✘ ↠ globenet ✘ || brazilian-festoon ✘ ↠ monet ✘ || brazilian-festoon ✘ ↠ americas-ii ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.105.222.150 6939    106.449                      (Norfolk, VA, US, NA) 100ge0-28.core1.orf2.he.net                                                                         
+LHL (6939)  apollo ✓ ↠ africa-coast-to-europe-ace ✓ || apollo ✓ ↠ seamewe-3 ✓ || flag-atlantic-1-fa-1 ✓ ↠ africa-coast-to-europe-ace ✓ || flag-atlantic-1-fa-1 ✓ ↠ seamewe-3 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.222.68  6939    181.873                   (Lisbon, Lisbon, PT, EU) port-channel9.core1.lis1.he.net                                                                     
+╭─ 184.104.224.178 37613   182.047                       (Lisbon, 11, PT, EU) etg-is-nigeria.e0-21.switch1.lis1.he.net                                                            
+S&T (37613)  africa-coast-to-europe-ace 👍 || mainone ✘ || west-africa-cable-system-wacs ✓ || sat-3wasc ✓
+╰─ 169.239.188.18  37613   257.292                     (Lagos, Lagos, NG, AF)                                                                                                     
+╭─ 196.216.148.158 *       270.146                     (Lagos, Lagos, NG, AF)                                                                                                     
+S&T (, 37727)  
+╰─ 154.65.16.37    37727   270.238             (Accra, Greater Accra, GH, AF)                                                                                                     
+   154.65.18.77    37727   282.539             (Accra, Greater Accra, GH, AF)                                                                                                     
+   154.65.16.114   37727   269.613             (Accra, Greater Accra, GH, AF)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   196.49.14.25    30997   339.599             (Accra, Greater Accra, GH, AF)                                                                                                     

@@ -1,0 +1,21 @@
+   103.2.186.195   45345   0.0               (Nouméa, South Province, NC, OC) nc-nou-as45345.anchors.atlas.ripe.net                                                               
+   103.2.186.221   45345   0.312 (6.267)        (Nouméa, South Province, NC, OC) gw-ipv4-hosting-1010-mx204-f10.as45345.net                                                          
+   202.87.128.198  45345   0.625                          (Noumea, S, NC, OC) *                                                                                                   
+╭─ 202.87.128.197  18200   1.191             (Nouméa, South Province, NC, OC)                                                                                                     
+S (18200, 4826)  gondwana-1 👍
+╰─ 123.103.197.21  4826    22.954           (Sydney, New South Wales, AU, OC) ip-21.197.103.123.vocus.net.au                                                                      
+╭─ 123.103.197.21  4826    22.954           (Sydney, New South Wales, AU, OC) ip-21.197.103.123.vocus.net.au                                                                      
+S (4826)  hawaiki ✘ || southern-cross-cable-network-sccn ✓ || southern-cross-next ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 114.31.199.43   4826    178.491                     (San Jose, CA, US, NA) be202.bdr03.sjc01.ca.us.vocus.network                                                               
+   114.31.199.35   4826    178.67                      (San Jose, CA, US, NA) be101.bdr03.lax01.ca.us.vocus.network                                                               
+╭─ 206.72.210.171  32098   178.26                 (Los Angeles, CA, US, None) transtelco.as32098.any2ix.coresite.com                                                              
+S&T (32098)  arcos ✘ || gignet-1 ✘ || pan-american-crossing-pac ✘ || america-movil-submarine-cable-system-1-amx-1 ✓ || maya-1 ✓
+╰─ 201.174.4.53    32098   214.222                (Nuevo Laredo, TAM, MX, NA) 201-174-4-53.transtelco.net                                                                         
+   201.174.255.153 32098   211.746              (Piedras Negras, COA, MX, NA) 201-174-255-153.transtelco.net                                                                      
+   201.174.251.59  32098   228.46               (Piedras Negras, COA, MX, NA) 201-174-251-59.transtelco.net                                                                       
+   201.174.55.21   32098   226.139       (Ciudad Apodaca, Nuevo León, MX, NA) 201-174-55-21.transtelco.net                                                                        
+   189.201.160.214 28438   236.148   (El Ranchito Número Uno, Nuevo León, MX, NA) ptr.reditmx.com                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   201.175.40.74   42473   231.679               (Benito Juarez, CMX, MX, NA) 201-175-40-74.kionetworks.com                                                                       
+   131.100.0.158   42473   231.958   (Santiago de Querétaro, Querétaro, MX, NA)                                                                                                     

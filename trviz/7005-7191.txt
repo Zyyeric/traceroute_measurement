@@ -1,0 +1,21 @@
+   117.20.118.21   45498   0.0               (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     
+   117.20.118.17   45498   2.843             (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     
+   27.109.113.25   45498   1.266             (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     
+   27.109.113.4    45498   1.029             (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     
+   172.16.100.137  *       1.884                                          ***                                                                                                     
+   172.16.16.2     *       1.667                                          ***                                                                                                     
+╭─ 184.105.81.38   6939    39.019                     (Phnom Penh, 8, KH, AS) 100ge0-36.core1.pnh1.he.net                                                                         
+S (6939)  
+├─ 184.104.198.86  6939    36.814                       (Bangkok, 10, TH, AS) port-channel3.core1.bkk1.he.net                                                                     
+S&T (6939)  
+├─ 184.104.197.102 6939    36.63                   (Kuala Lumpur, 14, MY, AS) ve955.core1.kul1.he.net                                                                             
+S (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.105.81.29   6939    229.332                       (Paris, IDF, FR, EU) port-channel8.core2.par2.he.net                                                                     
+S&T (6939)  
+╰─ 184.104.193.138 6939    192.08                     (Brussels, BRU, BE, EU) 100ge0-33.core2.bru1.he.net                                                                         
+   80.67.181.2     204059  189.789                    (Brussels, BRU, BE, EU) edge-02.louise.neutri.net                                                                           
+   80.67.181.18    204059  189.922       (Brussels, Brussels Capital, BE, EU) core-01.louise.neutri.net                                                                           
+   80.67.181.29    204059  190.07        (Brussels, Brussels Capital, BE, EU) be-bru-as204059.anchors.atlas.ripe.net                                                              

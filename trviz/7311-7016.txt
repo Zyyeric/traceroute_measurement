@@ -1,0 +1,13 @@
+   103.160.63.222  140443  0.0                     (Jakarta, Jakarta, ID, AS) 222.63.160.103.in-addr.herza.id                                                                     
+╭─ 103.160.63.129  140443  0.245                   (Jakarta, Jakarta, ID, AS) 129.63.160.103.in-addr.herza.id                                                                     
+S (140443, 6939)  indonesia-global-gateway-igg-system ✓ ↠ sea-us ✓
+├  10.111.220.46   *       0.393                                          ***                                                                                                     
+├  10.111.220.6    *       12.407                                         ***                                                                                                     
+├  10.111.222.206  *       12.208                                         ***                                                                                                     
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.194.37  6939    187.229                     (San Jose, CA, US, NA) 100ge12-2.core1.sjc2.he.net                                                                         
+   184.105.65.113  6939    192.823                     (San Jose, CA, US, NA) 100ge13-2.core1.sjc1.he.net                                                                         
+   64.71.166.231   6939    186.828             (San Jose, California, US, NA) macarne-llc.e0-1.switch1.snt3.he.net                                                                
+   ***             *       -inf                                           *** *                                                                                                   
+   23.155.72.145   64289   186.828          (Santa Clara, California, US, NA)                                                                                                     

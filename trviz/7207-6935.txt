@@ -1,0 +1,17 @@
+   102.130.49.144  328383  0.0                (Johannesburg, Gauteng, ZA, AF) za-jnb-as57695.anchors.atlas.ripe.net                                                               
+   102.130.49.21   328383  0.167              (Johannesburg, Gauteng, ZA, AF) po-21.lag.jnb01.za.misaka.io                                                                        
+   102.130.49.3    328383  0.211              (Johannesburg, Gauteng, ZA, AF) spine2.v271.jnb01.za.misaka.io                                                                      
+╭─ 102.130.51.6    *       0.219              (Johannesburg, Gauteng, ZA, AF) e54-1-20.cr2a.tdjb1.jnb1.za.917.as                                                                  
+LHL (, 969)  
+├─ 199.119.64.250  969     0.319                    (Dover, Delaware, US, NA) po100.cr1a.tdjb1.jnb1.za.917.as                                                                     
+LHL (969, 60068)  
+├─ 37.19.193.190   60068   0.26                      (Prague, Prague, CZ, EU) p77-3502.cr1a.tdjb1.jnb1.za.917.as                                                                  
+LHL (60068, 37468)  
+╰─ 102.130.70.57   37468   0.34               (Johannesburg, Gauteng, ZA, AF)                                                                                                     
+   196.60.8.188    37100   0.589                  (Johannesburg, 6, ZA, None) seacom.ixp.joburg                                                                                   
+   105.16.29.9     37100   0.596                   (Johannesburg, GT, ZA, AF) ce-4-0-2.er-01-jnb.za.seacomnet.com                                                                 
+╭─ 105.22.34.174   37100   0.59               (Johannesburg, Gauteng, ZA, AF) ce-0-1-5-91.customer-gw-rogers-capital.er-01-jnb.za.seacomnet.com                                   
+S (37100, 36868)  
+╰─ 196.46.34.108   36868   43.837                        (None, None, MU, AF) *                                                                                                   
+   196.46.49.34    36868   43.804    (Quatre Bornes, Plaines Wilhems, MU, AF)                                                                                                     
+   102.222.106.178 328699  44.054            (Port Louis, Port Louis, MU, AF)                                                                                                     

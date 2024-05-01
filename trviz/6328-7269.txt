@@ -1,0 +1,22 @@
+   116.206.155.229 45117   0.0                   (Ahmedabad, Gujarat, IN, AS)                                                                                                     
+   116.206.155.225 45117   0.994                 (Ahmedabad, Gujarat, IN, AS)                                                                                                     
+   121.241.90.57   4755    0.532                 (Ahmedabad, Gujarat, IN, AS) 121.241.90.57.static-ahmedabad.vsnl.net.in                                                          
+   172.28.176.253  *       8.95                                           ***                                                                                                     
+╭─ 180.87.38.5     6453    9.068                         (Mumbai, MH, IN, AS) ix-ae-0-100.tcore1.mlv-mumbai.as6453.net                                                            
+S (6453)  seamewe-3 👍
+╰─ 195.219.174.16  6453    142.535   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) if-be-6-2.ecore1.emrs2-marseille.as6453.net                                                         
+╭─ 80.231.165.25   6453    145.839   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) if-bundle-2-2.qcore2.emrs2-marseille.as6453.net                                                     
+LHL (6453, 33932)  seamewe-3 👍 ↠ exa-north-and-south ✘ || seamewe-3 👍 ↠ exa-express ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 80.231.91.33    33932   148.414                       (None, None, CA, NA) *                                                                                                   
+LHL (33932, 6453)  exa-north-and-south ✘ ↠ flag-europe-asia-fea ✘ || exa-north-and-south ✘ ↠ seamewe-3 ✘ || exa-north-and-south ✘ ↠ tata-tgn-western-europe ✘ || exa-express ✘ ↠ flag-europe-asia-fea ✘ || exa-express ✘ ↠ seamewe-3 ✘ || exa-express ✘ ↠ tata-tgn-western-europe ✘
+├─ 80.231.0.35     6453    148.519                        (Madrid, M, ES, EU) *                                                                                                   
+S&T (6453)  
+╰─ 80.231.159.40   6453    146.926                     (Lisbon, None, PT, EU) if-ae-31-2.tcore2.pv9-lisbon.as6453.net                                                             
+   80.231.158.5    6453    142.797                     (Lisbon, None, PT, EU) if-ae-2-2.tcore1.pv9-lisbon.as6453.net                                                              
+   80.231.158.18   8426    148.884                     (Lisbon, 14, PT, None) *                                                                                                   
+   195.22.9.5      8426    149.105                    (Carnaxide, 11, PT, EU) tlx-ar1-0-0-0-22.router.pt.clara.net                                                                
+   77.91.207.126   8426    147.648                       (None, None, PT, EU) not-assigned                                                                                        
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   185.32.189.249  62416   152.346                 (Odivelas, Lisbon, PT, EU) pt-lis-as62416.anchors.atlas.ripe.net                                                               

@@ -1,0 +1,13 @@
+   206.162.189.131 852     0.0                     (Montréal, Quebec, CA, NA) pcisrv.consultik.qc.ca                                                                              
+   206.162.189.130 852     0.697                   (Montréal, Quebec, CA, NA) bureautique.consultik.com                                                                           
+╭─ 75.154.223.222  *       18.06                   (Toronto, Ontario, CA, NA)                                                                                                     
+S&T (, 3356)  
+├─ 4.15.212.245    3356    18.162                      (New York, NY, US, NA) lag-113.ear3.NewYork1.Level3.net                                                                    
+S (3356, 41000)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 176.74.23.251   41000   420.545                (Shadwell, England, GB, EU) 2.vlan.lon1-csw1.uk.as41000.net                                                                     
+   176.74.23.211   41000   295.102                  (London, England, GB, EU) 0.xe-0-0-23.lon2-csw1.uk.as41000.net                                                                
+   176.74.23.214   41000   114.155              (Manchester, England, GB, EU) 0.xe-0-0-23.man1-csw1.uk.as41000.net                                                                
+   176.74.23.223   41000   110.269              (Manchester, England, GB, EU) 0.ae1.man1-esw1.uk.as41000.net                                                                      
+   176.74.17.75    41000   103.455              (Manchester, England, GB, EU) uk-mnc-as41000.anchors.atlas.ripe.net                                                               

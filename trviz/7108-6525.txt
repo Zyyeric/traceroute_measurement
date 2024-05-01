@@ -1,0 +1,22 @@
+   171.67.70.16    32      0.0                 (Stanford, California, US, NA) us-pao-as32.anchors.atlas.ripe.net                                                                  
+   171.67.70.1     32      0.89                (Stanford, California, US, NA) sw-tor-01.esrg.stanford.edu                                                                         
+   10.214.4.252    *       1.094                                          ***                                                                                                     
+   171.66.0.214    32      1.285               (Stanford, California, US, NA)                                                                                                     
+   137.164.27.60   2153    1.22 (5.133)          (San Jose, California, US, NA) hpr-svl-hpr3--stan-100ge.cenic.net                                                                  
+   207.231.245.24  22388   28.082                        (None, None, US, NA) *                                                                                                   
+╭─ 192.203.115.130 7660    126.492                       (None, None, US, NA) *                                                                                                   
+S (7660)  
+╰─ 203.181.249.99  7660    126.566                       (None, None, JP, AS) tyo-mx2010-et-3-1-0-v6.jp.apan.net                                                                  
+   203.181.194.179 7660    178.536                       (None, None, JP, AS) *                                                                                                   
+╭─ 203.181.194.173 7660    212.836                       (None, None, JP, AS) sg-mx480-1j-et-0-1-0-v2335.jp.apan.net                                                              
+S (7660, 23855)  
+╰─ 203.30.38.80    23855   202.82                      (Singapore, 4, SG, AS) et-6-1-3080-soeus-soe1.singaren.net.sg                                                              
+╭─ 203.30.38.111   134148  199.784                       (None, None, SG, AS) 980-soe2-soe1.singaren.net.sg                                                                       
+S (134148, 141682)  
+╰─ 103.161.244.242 141682  215.798                     (Tokyo, Tokyo, JP, AS)                                                                                                     
+   103.161.244.43  141682  278.553                     (Tokyo, Tokyo, JP, AS)                                                                                                     
+╭─ 103.161.244.202 141682  271.406                     (Tokyo, Tokyo, JP, AS)                                                                                                     
+S (141682, )  
+╰─ 103.78.235.0    *       279.579                 (Jakarta, Jakarta, ID, AS)                                                                                                     
+   103.81.101.1    58475   295.877                       (None, None, ID, AS) *                                                                                                   
+   103.23.232.7    58475   297.783    (Banjarmasin, South Kalimantan, ID, AS)                                                                                                     

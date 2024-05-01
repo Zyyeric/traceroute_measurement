@@ -1,0 +1,28 @@
+   196.49.15.189   328998  0.0              (Kampala, Central Region, UG, AF)                                                                                                     
+   196.49.15.253   328998  0.275            (Kampala, Central Region, UG, AF)                                                                                                     
+   41.191.77.205   37063   0.609            (Kampala, Central Region, UG, AF)                                                                                                     
+   129.205.30.77   37063   0.905                         (Kampala, C, UG, AF) *                                                                                                   
+╭─ 129.205.30.230  37063   8.658            (Kampala, Central Region, UG, AF)                                                                                                     
+T (37063, 6939)  
+├─ 196.223.21.74   6939    160.768                     (Nairobi, 5, KE, None) *                                                                                                   
+S&T (6939)  
+├─ 184.104.189.42  6939    161.325               (Djibouti, Djibouti, DJ, AF) ve1004.core2.jib1.he.net                                                                            
+S (6939)  
+├─ 184.104.193.102 6939    161.372   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) port-channel1.core3.mrs1.he.net                                                                     
+S&T (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.196.78  6939    173.911                       (Bilbao, PV, ES, EU) ve952.core1.bio1.he.net                                                                             
+S (6939)  
+╰─ 184.105.64.122  6939    229.799                      (Norfolk, VA, US, NA) 100ge0-30.core1.orf2.he.net                                                                         
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 184.104.198.254 6939    313.013             (San Jose, California, US, NA) port-channel7.core2.pao1.he.net                                                                     
+S (6939, 7545)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 216.218.139.234 7545    485.329                      (Sydney, NSW, AU, OC) tpg-internet-pty-ltd.100gigabitethernet11-1.core1.sjc1.he.net                                       
+   203.29.134.111  7545    455.26           (Sydney, New South Wales, AU, OC) syd-apt-ros-crt4-be-200.tpgi.com.au                                                                 
+   203.26.22.122   7545    464.75                       (Sydney, NSW, AU, OC) syd-sot-ken-crs2-Te-0-6-0-9.tpgi.com.au                                                             
+   27.32.160.89    7545    467.166              (Melbourne, Victoria, AU, OC) au-vi-1015-ipg-221-bundle-ether2.tpgi.com.au                                                        
+   203.220.216.70  7545    467.391                      (Sydney, NSW, AU, OC) 203-220-216-70.tpgi.com.au                                                                          
+   203.192.83.254  7545    470.342              (Melbourne, Victoria, AU, OC) ip-254-83-192-203.static.pipenetworks.com                                                           
+   103.179.37.157  151332  482.491              (Melbourne, Victoria, AU, OC)                                                                                                     

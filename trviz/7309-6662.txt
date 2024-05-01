@@ -1,0 +1,18 @@
+   5.188.168.94    202422  0.0               (Bahçelievler, Istanbul, TR, AS)                                                                                                     
+   5.188.168.3     202422  0.233                 (Istanbul, Istanbul, TR, AS) vrrp.gcore.lu                                                                                       
+   10.255.20.181   *       0.2                                            ***                                                                                                     
+   10.255.20.178   *       0.38                                           ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 154.25.1.1      174     1.316                 (Istanbul, Istanbul, TR, AS) be3962.rcr21.ist02.atlas.cogentco.com                                                               
+LHL (174)  seamewe-3 ✓ || seamewe-5 ✓
+├─ 130.117.51.54   174     0.659                         (Zurich, ZH, CH, EU) be3786.rcr11.b021036-0.zrh02.atlas.cogentco.com                                                     
+LHL (174)  
+├─ 154.54.74.205   174     1.013                 (Istanbul, Istanbul, TR, AS) be3510.rcr71.ist01.atlas.cogentco.com                                                               
+S (174)  seamewe-3 ✓ || seamewe-5 ✓
+├─ 154.54.74.226   174     9.27                           (Lyon, ARA, FR, EU) be2881.rcr21.lys01.atlas.cogentco.com                                                               
+T (174, 6762)  
+├─ 130.117.15.54   6762    8.58                           (Sofia, 23, BG, EU) telecomitalia.sof02.atlas.cogentco.com                                                              
+T (6762)  
+╰─ 195.22.218.199  6762    47.942                     (Palermo, None, IT, EU) ae1.palermo4.pal.seabone.net                                                                        
+   213.144.186.82  42473   47.946                       (Palermo, 82, IT, EU) dcr01.anx35.pmo.it.anexia-it.net                                                                    
+   37.252.253.18   42473   50.556                   (Palermo, Sicily, IT, EU)                                                                                                     

@@ -1,0 +1,15 @@
+   152.195.112.52  15133   0.0                         (Tokyo, Tokyo, JP, AS)                                                                                                     
+╭─ 152.195.112.49  15133   1.203                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+S (15133, 174)  apcn-2 ✓ || korea-japan-cable-network-kjcn ✓ || eac-c2c ✓ || asia-pacific-gateway-apg ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 154.54.89.198   174     61.464                      (Seoul, Seoul, KR, AS) be3010.ccr71.sel01.atlas.cogentco.com                                                               
+╭─ 154.54.93.182   174     61.664                      (Seoul, Seoul, KR, AS) be4409.ccr72.sel01.atlas.cogentco.com                                                               
+S (174)  
+├─ 154.54.30.206   174     61.692                   (Hong Kong, None, HK, AS) be2223.ccr21.hkg02.atlas.cogentco.com                                                               
+S (174)  
+╰─ 154.54.6.25     174     243.672                   (Marseille, PAC, FR, EU) be2900.ccr32.mrs02.atlas.cogentco.com                                                               
+   154.54.72.225   174     269.251                       (Paris, IDF, FR, EU) be2780.ccr42.par01.atlas.cogentco.com                                                               
+   130.117.3.54    174     277.551           (Bordeaux/Merignac, NAQ, FR, EU) be3051.rcr71.bod01.atlas.cogentco.com                                                               
+   154.25.0.70     174     277.684           (Bordeaux/Merignac, NAQ, FR, EU) te0-0-2-0.nr11.b015544-0.bod01.atlas.cogentco.com                                                   
+   149.6.44.19     174     276.981     (Bordeaux, Nouvelle-Aquitaine, FR, EU)                                                                                                     
+   185.233.100.99  198985  277.861     (Bordeaux, Nouvelle-Aquitaine, FR, EU) ripe-atlas.aquilenet.fr                                                                             

@@ -1,0 +1,34 @@
+   92.38.135.131   202422  0.0                         (Seoul, Seoul, KR, AS)                                                                                                     
+   92.38.135.3     202422  0.538                       (Seoul, Seoul, KR, AS) vrrp.gcore.lu                                                                                       
+   10.255.17.210   *       0.847                                          ***                                                                                                     
+   10.255.17.213   *       0.709                                          ***                                                                                                     
+   10.255.17.146   *       0.788                                          ***                                                                                                     
+╭─ 8.244.72.213    3356    1.254                       (Seoul, Seoul, KR, AS)                                                                                                     
+S (3356)  new-cross-pacific-ncp-cable-system ✓ || trans-pacific-express-tpe-cable-system ✓
+╰─ 4.69.219.210    3356    123.165                       (None, None, US, NA) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   154.54.44.74    174     151.448               (Salt Lake City, UT, US, NA) be3284.ccr21.slc01.atlas.cogentco.com                                                               
+   154.54.41.146   174     151.488                       (Denver, CO, US, NA) be3037.ccr21.den01.atlas.cogentco.com                                                               
+   154.54.5.90     174     169.083                  (Kansas City, MO, US, NA) be3035.ccr21.mci01.atlas.cogentco.com                                                               
+   154.54.42.166   174     175.363                      (Chicago, IL, US, NA) be2831.ccr41.ord01.atlas.cogentco.com                                                               
+   154.54.6.222    174     260.332                    (Cleveland, OH, US, NA) be2717.ccr21.cle04.atlas.cogentco.com                                                               
+   154.54.26.130   174     260.278                       (Albany, NY, US, NA) be2878.ccr21.alb02.atlas.cogentco.com                                                               
+   66.28.4.238     174     260.393                       (Boston, MA, US, NA) be3599.ccr31.bos01.atlas.cogentco.com                                                               
+╭─ 154.54.47.142   174     260.353                 (White Plains, NY, US, NA) be2119.rcr21.hpn04.atlas.cogentco.com                                                               
+S (174)  
+├─ 154.54.60.5     174     260.536                      (London, ENG, GB, EU) be3487.ccr41.lon13.atlas.cogentco.com                                                               
+S&T (174)  
+├─ 154.54.56.94    174     260.542                    (Amsterdam, NH, NL, EU) be12194.ccr41.ams03.atlas.cogentco.com                                                              
+T (174)  
+╰─ 130.117.0.122   174     263.759            (Frankfurt am Main, HE, DE, EU) be2813.ccr41.fra03.atlas.cogentco.com                                                               
+╭─ 154.54.36.54    174     269.166                       (Munich, BY, DE, EU) be2959.ccr21.muc03.atlas.cogentco.com                                                               
+T (174)  
+├─ 154.54.58.6     174     280.986                        (Vienna, 9, AT, EU) be2974.ccr51.vie01.atlas.cogentco.com                                                               
+LHL (174)  
+├─ 130.117.0.70    174     296.976                      (Belgrade, 0, RS, EU) be3420.ccr51.beg03.atlas.cogentco.com                                                               
+LHL (174)  
+╰─ 130.117.50.73   174     297.001                   (Athens, Attica, GR, EU) be3246.rcr21.ath01.atlas.cogentco.com                                                               
+   149.11.120.66   174     296.371              (Metamórfosi, Attica, GR, EU) fastpath1.demarc.cogentco.com                                                                       
+   185.201.254.29  56457   296.796               (Áno Liósia, Attica, GR, EU) be3501.ef1.ath01.fastpath.gr                                                                        
+   185.201.254.33  56457   296.885               (Áno Liósia, Attica, GR, EU) te1-22.sp0.ath01.fastpath.gr                                                                        
+   176.119.210.244 56457   297.143                   (Athens, Attica, GR, EU)                                                                                                     

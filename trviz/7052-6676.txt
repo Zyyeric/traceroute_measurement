@@ -1,0 +1,19 @@
+   203.175.175.206 24482   0.0                 (Singapore, Singapore, SG, AS)                                                                                                     
+   203.175.175.252 24482   0.507                         (None, None, SG, AS) edge-1.v10.sg3.sg.gs                                                                                
+   116.51.23.66    24482   0.747                    (Singapore, None, SG, AS) ntt-sg.sg.gs                                                                                        
+╭─ 116.51.23.65    2914    1.503               (Singapore, Singapore, SG, AS) ce-6-4-1.a02.sngpsi07.sg.bb.gin.ntt.net                                                             
+S (2914)  
+├─ 129.250.5.65    2914    1.362                         (None, None, US, NA) ae-5.r23.sngpsi07.sg.bb.gin.ntt.net                                                                 
+S (2914)  
+╰─ 129.250.5.242   2914    1.321               (Singapore, Singapore, SG, AS) ae-1.a03.sngpsi07.sg.bb.gin.ntt.net                                                                 
+╭─ 4.68.62.129     3356    1.404                    (Singapore, None, SG, AS) ae-11.edge3.Singapore3.Level3.net                                                                   
+S (3356, 2152)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 4.35.156.66     2152    164.426                  (Los Angeles, CA, US, NA) CENIC.ear1.LosAngeles1.Level3.net                                                                   
+   137.164.11.87   2152    169.481                    (Riverside, CA, US, NA) dc-riv-agg8--lax-agg10-300g.cenic.net                                                               
+   137.164.11.91   3292    175.809                     (Tri-City, OR, US, NA) dc-tri-agg2--riv-agg8-300g.cenic.net                                                                
+   137.164.46.7    2152    179.993                     (Tri-City, OR, US, NA) cor-agg8--tri-agg2--100ge.cenic.net                                                                 
+   137.164.50.243  2152    181.748                       (Corona, CA, US, NA) sha-coe-1--cor-agg8-10g.cenic.net                                                                   
+   137.164.34.84   2152    181.25                       (Shafter, CA, US, NA) sha-coe-2---to--sha-coe-1--10ge.cenic.net                                                           
+   137.164.13.11   23483   181.357                      (Shafter, CA, US, NA) shacoe-gw2--sha-coe-2-10g.cenic.net                                                                 
+   66.244.16.33    23483   181.62               (Redding, California, US, NA) us-rdd-as23483.anchors.atlas.ripe.net                                                               

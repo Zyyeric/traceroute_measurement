@@ -1,0 +1,22 @@
+   102.222.106.178 328699  0.0               (Port Louis, Port Louis, MU, AF)                                                                                                     
+   102.222.106.1   328699  0.163             (Ebene, Plaines Wilhems, MU, AF)                                                                                                     
+╭─ 196.46.49.33    36868   0.31              (Ebene, Plaines Wilhems, MU, AF)                                                                                                     
+S (36868, 6939)  meltingpot-indianoceanic-submarine-system-metiss ✘ || safe ✓
+╰─ 196.46.34.109   6939    43.898                  (Johannesburg, GT, ZA, AF) *                                                                                                   
+   105.22.34.173   37100   44.028             (Johannesburg, Gauteng, ZA, AF) ce-0-1-5-91.er-01-jnb.za.seacomnet.com                                                              
+╭─ 105.16.29.1     37100   193.22                  (Johannesburg, GT, ZA, AF) ce-0-3-0-0.cr-01-jnb.za.seacomnet.com                                                               
+T (37100)  
+├─ 105.16.11.78    37100   201.972                      (London, ENG, GB, EU) xe-0-0-66-1.cr-01-lhr.uk.seacomnet.com                                                              
+T (37100)  
+├─ 105.16.9.202    37100   194.473                    (Empangeni, NL, ZA, AF) xe-0-0-30-0.cr-02-emg.za.seacomnet.com                                                              
+S (37100)  
+├─ 105.16.33.8     37100   194.448                   (Marseille, PAC, FR, EU) xe-0-0-1-0.pp-01-mrs.fr.seacomnet.com                                                               
+S (37100, 58453)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 223.118.18.146  58453   224.032                       (None, None, HK, AS) *                                                                                                   
+   223.120.10.181  58453   215.401                       (None, None, HK, AS) *                                                                                                   
+   223.120.15.246  58453   454.977             (Hong Kong, Hong Kong, HK, AS)                                                                                                     
+╭─ 223.120.2.42    58453   459.509                       (None, None, HK, AS) *                                                                                                   
+S (58453, 202196)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 37.10.41.14     202196  484.248             (Singapore, Singapore, SG, AS)                                                                                                     

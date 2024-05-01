@@ -1,0 +1,13 @@
+   123.176.1.4     7642    0.0                    (Male, Kaafu Atoll, MV, AS)                                                                                                     
+   123.176.1.2     7642    0.823                  (Male, Kaafu Atoll, MV, AS)                                                                                                     
+╭─ 202.1.205.246   7642    0.835                  (Male, Kaafu Atoll, MV, AS) xe-1-1-1-1.rt.dhivehinet.net.mv                                                                     
+LHL (7642, 59605)  peace-cable ✘ ↠ europe-india-gateway-eig ✓ || peace-cable ✘ ↠ seamewe-3 ✓ || peace-cable ✘ ↠ flag-europe-asia-fea ✘
+├─ 195.66.226.33   59605   190.94                     (London, ENG, GB, None) *                                                                                                   
+LHL (59605)  europe-india-gateway-eig ✓ ↠ falcon ✓ || seamewe-3 ✓ ↠ falcon ✓ || flag-europe-asia-fea ✓ ↠ falcon ✓
+╰─ 151.248.96.98   59605   230.221                       (None, None, BH, AS) *                                                                                                   
+   151.248.96.98   59605   230.221                       (None, None, BH, AS) *                                                                                                   
+╭─ 151.248.98.137  42961   228.704                       (None, None, BH, AS) *                                                                                                   
+S (42961)  
+├  10.32.1.6       *       233.355                                        ***                                                                                                     
+├  10.32.1.9       *       231.45                                         ***                                                                                                     
+╰─ 212.43.17.42    42961   230.904     (Al Farwānīyah, Al Farwaniyah, KW, AS)                                                                                                     

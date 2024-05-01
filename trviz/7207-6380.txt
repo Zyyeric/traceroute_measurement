@@ -1,0 +1,28 @@
+   196.49.14.25    30997   0.0                 (Accra, Greater Accra, GH, AF)                                                                                                     
+   196.49.14.1     30997   0.611               (Accra, Greater Accra, GH, AF)                                                                                                     
+╭─ 197.221.70.89   *       1.228               (Accra, Greater Accra, GH, AF)                                                                                                     
+S&T (, 3741)  
+╰─ 196.14.240.4    3741    1.093                         (None, None, ZA, AF) *                                                                                                   
+╭─ 168.209.160.109 3741    255.98                        (None, None, ZA, AF) *                                                                                                   
+T (3741)  
+├─ 168.209.160.108 3741    256.22                   (London, England, GB, EU)                                                                                                     
+T (3741)  
+├─ 168.209.246.1   3741    257.235                       (None, None, ZA, AF) core1b-dock-be-1.ip.ddii.network                                                                    
+T (3741, 3356)  
+├─ 195.50.122.229  3356    255.406                  (Colchester, ENG, GB, EU) *                                                                                                   
+S&T (3356)  
+├─ 171.75.8.243    3356    273.155   (Septèmes-les-Vallons, Provence-Alpes-Côte d'Azur, FR, EU) ae1.3505.edge4.mrs1.neo.colt.net                                                                    
+S (3356, 35819)  
+├─ 212.133.4.70    35819   211.356                       (None, None, SA, AS) *                                                                                                   
+S (35819, 37100)  
+├─ 105.16.33.1     37100   426.44                    (Marseille, PAC, FR, EU) ae-2.cr-01-mrs.fr.seacomnet.com                                                                     
+S (37100)  
+├─ 105.16.9.201    37100   424.877                     (Mombasa, 300, KE, AF) xe-0-0-0-1.cr-02-mba.ke.seacomnet.com                                                               
+S (37100)  
+╰─ 105.25.160.174  37100   424.608            (Johannesburg, Gauteng, ZA, AF) ce-0-1-9.cr-01-jnb.za.seacomnet.com                                                                 
+   105.16.28.9     37100   425.175                 (Johannesburg, GT, ZA, AF) ce-0-0-2.er-01-jnb.za.seacomnet.com                                                                 
+╭─ 105.22.34.174   37100   320.83             (Johannesburg, Gauteng, ZA, AF) ce-0-1-5-91.customer-gw-rogers-capital.er-01-jnb.za.seacomnet.com                                   
+S (37100, 36868)  
+╰─ 196.46.34.108   36868   364.104                       (None, None, MU, AF) *                                                                                                   
+   196.46.49.34    36868   364.16    (Quatre Bornes, Plaines Wilhems, MU, AF)                                                                                                     
+   102.222.106.178 328699  364.301           (Port Louis, Port Louis, MU, AF)                                                                                                     

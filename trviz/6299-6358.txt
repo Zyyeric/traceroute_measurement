@@ -1,0 +1,28 @@
+   196.49.15.189   328998  0.0              (Kampala, Central Region, UG, AF)                                                                                                     
+   196.49.15.253   328998  0.138            (Kampala, Central Region, UG, AF)                                                                                                     
+   41.191.77.205   37063   0.771            (Kampala, Central Region, UG, AF)                                                                                                     
+   129.205.30.77   37063   0.72                          (Kampala, C, UG, AF) *                                                                                                   
+╭─ 129.205.30.230  37063   8.56             (Kampala, Central Region, UG, AF)                                                                                                     
+T (37063, 6939)  
+╰─ 196.223.21.74   6939    160.53                      (Nairobi, 5, KE, None) *                                                                                                   
+╭─ 184.105.64.13   6939    161.259                     (Mombasa, 300, KE, AF) port-channel2.core1.mba1.he.net                                                                     
+S (6939)  
+╰─ 184.105.80.106  6939    185.431                       (Durban, NL, ZA, AF) 100ge0-33.core1.dur1.he.net                                                                         
+╭─ 184.104.188.210 6939    185.14           (Cape Town, Western Cape, ZA, AF) 100ge0-33.core1.cpt1.he.net                                                                         
+S&T (6939)  
+╰─ 184.104.188.94  6939    239.71                      (Lagos, Lagos, NG, AF) 10ge0-20.core1.los1.he.net                                                                          
+╭─ 216.66.89.5     6939    239.009                     (Lagos, Lagos, NG, AF) virtual-technologies-and-solutions.e0-7.core1.los1.he.net                                           
+LHL (6939, 37721)  
+├─ 102.67.97.223   37721   240.467              (Ouagadougou, Centre, BF, AF) po29-2029.bb2.los2.vts.bf                                                                           
+LHL (37721)  
+├─ 102.67.97.241   37721   240.503                     (Lagos, Lagos, NG, AF) ce4-724.bb2.los1.vts.bf                                                                             
+LHL (37721)  
+╰─ 102.67.97.224   37721   250.505              (Ouagadougou, Centre, BF, AF) ce1-2030.bb2.acc1.vts.bf                                                                            
+╭─ 102.67.96.225   37721   261.665              (Ouagadougou, Centre, BF, AF) po48-2048.bb2.dak1.vts.bf                                                                           
+LHL (37721)  
+├─ 102.67.97.40    37721   263.194                     (Lagos, Lagos, NG, AF) ce4-2003.bb2.oua2.vts.bf                                                                            
+LHL (37721)  
+╰─ 102.67.97.182   37721   263.521              (Ouagadougou, Centre, BF, AF) ce0-355.pe3.oua1.vts.bf                                                                             
+   165.16.221.42   37721   264.039                       (None, None, BF, AF) *                                                                                                   
+   197.239.73.57   37577   268.19               (Ouagadougou, Centre, BF, AF)                                                                                                     
+   197.239.73.59   37577   266.607              (Ouagadougou, Centre, BF, AF)                                                                                                     

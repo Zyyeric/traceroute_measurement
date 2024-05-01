@@ -1,0 +1,14 @@
+   103.143.136.43  63781   0.0                         (Tokyo, Tokyo, JP, AS) koba-103-143-136-43.rev.kobayashi.ad.jp                                                             
+   103.143.136.62  63781   2.318                       (Tokyo, Tokyo, JP, AS) koba-103-143-136-62.rev.kobayashi.ad.jp                                                             
+   103.143.136.25  63781   0.291                       (Tokyo, Tokyo, JP, AS) bgprt1-ospfrt1.kobayashi.ad.jp                                                                      
+   103.41.60.164   10010   0.411                       (Tokyo, Tokyo, JP, AS) bgp3.tokyo-ix.v4.open.ad.jp                                                                         
+   150.99.184.33   2907    1.792                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+   150.99.10.187   2907    1.577                         (None, None, JP, AS) *                                                                                                   
+   210.171.224.134 13335   10.346                       (Tokyo, 40, JP, None) as13335.ix.jpix.ad.jp                                                                               
+   103.22.201.25   13335   6.628                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+   172.68.117.68   13335   6.491                          (Tokyo, 13, JP, AS) *                                                                                                   
+   172.68.117.79   13335   6.347                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+╭─ 172.68.117.71   13335   6.405                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+S (13335, 141235)  apcn-2 ✓ || eac-c2c ✓ || asia-pacific-gateway-apg ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 103.156.251.7   141235  83.418              (Singapore, Singapore, SG, AS)                                                                                                     

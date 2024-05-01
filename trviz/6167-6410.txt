@@ -1,0 +1,18 @@
+   200.160.6.19    22548   0.0                 (São Paulo, São Paulo, BR, SA) br-sao-as22548.anchors.atlas.ripe.net                                                               
+   200.160.6.61    22548   0.475         (Taboão da Serra, São Paulo, BR, SA) ae1-89.ar3.jd.registro.br                                                                           
+   200.160.0.253   22548   0.594                         (None, None, BR, SA) ae0-0.core1.nu.registro.br                                                                          
+╭─ 200.160.0.161   22548   2.149                         (None, None, BR, SA) xe-5-0-0-0.gw1.nu.registro.br                                                                       
+S (22548, 6939)  south-america-1-sam-1 ✓ || monet ✓ || america-movil-submarine-cable-system-1-amx-1 ✘ || globenet ✓ || americas-ii ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.188.252 6939    111.16           (Jersey City, New Jersey, US, NA) port-channel24.core3.nyc4.he.net                                                                    
+   4.68.39.165     3356    121.721                         (None, CO, US, NA) *                                                                                                   
+╭─ 4.69.206.21     3356    122.318          (New York City, New York, US, NA)                                                                                                     
+S&T (3356, 3549)  maya-1 ✓
+├─ 200.186.40.10   3549    151.03                    (Panamá, Panamá, PA, NA) ae5.asr1.esc1.sjo.ciriontechnologies.net                                                            
+S (3549)  maya-1 ✓ || arcos ✓ || pan-american-crossing-pac ✘
+╰─ 8.242.196.10    3549    174.653             (San Rafael, San José, CR, NA)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   190.106.72.82   28022   171.524               (San José, San José, CR, NA)                                                                                                     
+   200.107.82.196  263779  174.015               (San José, San José, CR, NA)                                                                                                     

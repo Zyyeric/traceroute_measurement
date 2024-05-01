@@ -1,0 +1,23 @@
+   103.170.25.13   142360  0.0               (Semarang, Central Java, ID, AS) ipv4-13-25-170-103.nexa.net.id                                                                      
+   103.170.25.9    142360  0.176             (Semarang, Central Java, ID, AS) ipv4-9-25-170-103.nexa.net.id                                                                       
+   103.170.24.253  142360  0.199             (Semarang, Central Java, ID, AS) ipv4-253-24-170-103.nexa.net.id                                                                     
+╭─ 103.87.186.178  136106  9.001              (Mega, Southwest Papua, ID, AS) ip186-178.fiberstar.net.id                                                                          
+S&T (136106)  matrix-cable-system ✘ || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || indonesia-global-gateway-igg-system ✓ || indigo-west ✓ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || jasuka ✓
+╰─ 103.87.186.29   136106  20.439              (Singapore, Singapore, SG, AS) ip186-29.fiberstar.net.id                                                                           
+╭─ 184.104.210.181 6939    19.641              (Singapore, Singapore, SG, AS) port-channel6.switch2.sin2.he.net                                                                   
+S (6939, 1273)  eac-c2c ✓ || asia-pacific-gateway-apg ✓ || southeast-asia-japan-cable-sjc ✓ || asia-america-gateway-aag-cable-system ✓ || seamewe-3 ✓ || asia-submarine-cable-express-asecahaya-malaysia ✓ || apcn-2 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 123.255.91.22   1273    55.219                  (Hong Kong, HCW, HK, None) cwcom1-lacp-10g.hkix.net                                                                            
+S (1273)  
+╰─ 195.2.8.38      1273    213.745                       (None, None, GB, EU) ae0-xcr1.fix.cw.net                                                                                 
+   195.2.30.154    1273    211.317                       (None, None, GB, EU) ae1-xcr1.bud.cw.net                                                                                 
+   195.2.31.182    1273    213.729                       (None, None, GB, EU) ae43-xcr1.sof.cw.net                                                                                
+╭─ 195.2.12.58     3329    217.576                       (None, None, GB, EU) vfgr1-vf-gw.sof.cw.net                                                                              
+S&T (3329)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 62.74.30.101    3329    224.177                        (Athens, I, GR, EU) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   62.74.226.30    12361   235.569                   (Athens, Attica, GR, EU) dumy30.panafonet.gr                                                                                 
+   ***             *       -inf                                           *** *                                                                                                   
+   139.91.68.3     8522    228.166                 (Irákleion, Crete, GR, EU)                                                                                                     

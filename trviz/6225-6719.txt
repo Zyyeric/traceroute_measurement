@@ -1,0 +1,26 @@
+   54.39.185.31    16276   0.0                  (Châteauguay, Quebec, CA, NA) ca-bha-as16276.anchors.atlas.ripe.net                                                               
+   54.39.176.1     16276   0.17                 (Beauharnois, Quebec, CA, NA)                                                                                                     
+   192.168.143.254 *       0.142                                          ***                                                                                                     
+   149.56.60.190   16276   0.293                (Beauharnois, Quebec, CA, NA)                                                                                                     
+   10.98.243.101   *       0.356                                          ***                                                                                                     
+   10.34.49.66     *       0.521                                          ***                                                                                                     
+   10.74.8.126     *       0.323                                          ***                                                                                                     
+   10.95.81.10     *       0.663                                          ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 192.99.146.132  16276   75.595                        (None, None, CA, NA) be104.lon-drch-sbb1-nc5.uk.eu                                                                       
+LHL (16276)  exa-north-and-south ✘ ↠ seamewe-3 ✓ || exa-express ✘ ↠ seamewe-3 ✓
+╰─ 213.251.130.102 16276   81.321                        (None, None, FR, EU) be101.rbx-g2-nc5.fr.eu                                                                              
+╭─ 94.23.122.243   16276   86.599                        (None, None, FR, EU) be100-1050.ams-5-a9.nl.eu                                                                           
+T (16276, 2119)  
+├  10.200.4.143    *       88.604                                         ***                                                                                                     
+├─ 148.122.10.249  2119    85.139          (Amsterdam, North Holland, NL, EU) ti9000b400-ae13-0.ti.telenor.net                                                                    
+S&T (2119)  
+╰─ 146.172.105.10  2119    100.189                       (None, None, NO, EU) ti3004c400-ae2-0.ti.telenor.net                                                                     
+╭─ 146.172.99.177  2119    100.392                       (None, None, NO, EU) ti3006c400-ae1-0.ti.telenor.net                                                                     
+T (2119)  
+├─ 146.172.105.109 2119    100.6                      (Båstad, Skåne, SE, EU) ti3006b400-ae1-0.ti.telenor.net                                                                     
+T (2119)  
+├─ 148.122.10.198  2119    110.815                       (Oslo, Oslo, NO, EU)                                                                                                     
+S&T (2119, 9158)  
+╰─ 77.214.52.101   9158    105.745                        (Farum, 84, DK, EU) *                                                                                                   
+   77.214.52.102   9158    106.553           (Aalborg, North Denmark, DK, EU)                                                                                                     

@@ -1,0 +1,14 @@
+   27.111.84.21    135132  0.0           (Cebu City, Central Visayas, PH, AS) ph-ceb-as135132.anchors.atlas.ripe.net                                                              
+   27.111.84.20    135132  1.357             (Baugo, Central Visayas, PH, AS) vlan509.core.ceb02.ds.network                                                                       
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   192.168.159.165 *       1.445                                          ***                                                                                                     
+╭─ 203.177.209.217 4775    2.432             (Baugo, Central Visayas, PH, AS)                                                                                                     
+S (4775, 198385)  national-digital-transmission-network-ndtn ✘ ↠ seamewe-3 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 195.66.227.128  198385  200.485                    (London, ENG, GB, None) *                                                                                                   
+S&T (198385, 41327)  
+╰─ 185.157.228.37  41327   232.28                       (Rome, Lazio, IT, EU) 37-228-157-185.fibertelecom.it                                                                      
+   185.157.231.49  41327   230.913                  (Palermo, Sicily, IT, EU) 49-231-157-185.fibertelecom.it                                                                      

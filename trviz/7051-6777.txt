@@ -1,0 +1,20 @@
+   41.221.208.94   3491    0.0                (Johannesburg, Gauteng, ZA, AF) 41-221-208-94.static.pccwglobal.net                                                                 
+   41.221.208.93   3491    1.11               (Johannesburg, Gauteng, ZA, AF) 41-221-208-93.static.pccwglobal.net                                                                 
+   196.60.8.42     6939    16.77                  (Johannesburg, 6, ZA, None) he.ixp.joburg                                                                                       
+╭─ 196.60.70.165   6939    34.046                   (Cape Town, 11, ZA, None) 196-10-140-165.ixp.capetown                                                                         
+S&T (6939)  west-africa-cable-system-wacs ✓ || africa-coast-to-europe-ace ✓ || sat-3wasc ✓
+├─ 184.104.195.98  6939    167.424                       (Lisbon, 11, PT, EU) 100ge0-35.core2.lis1.he.net                                                                         
+LHL (6939)  africa-coast-to-europe-ace ✓ || seamewe-3 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.192.122 6939    169.392         (Amsterdam, North Holland, NL, EU) port-channel10.core1.ams2.he.net                                                                    
+   184.104.198.2   6939    170.021                    (Amsterdam, NH, NL, EU) port-channel5.core1.ams7.he.net                                                                     
+╭─ 184.104.197.126 6939    169.641         (Amsterdam, North Holland, NL, EU) port-channel1.core2.ams7.he.net                                                                     
+S (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.105.81.141  6939    186.866                      (Ashburn, VA, US, NA) port-channel10.core3.ash1.he.net                                                                    
+S (6939, 56655)  
+╰─ 185.125.170.251 56655   188.296                       (Oslo, Oslo, NO, EU)                                                                                                     
+   185.125.170.252 56655   188.27                        (Oslo, Oslo, NO, EU)                                                                                                     
+   185.125.170.45  56655   187.338                       (Oslo, Oslo, NO, EU)                                                                                                     
+   185.14.97.165   56655   346.431                       (Oslo, Oslo, NO, EU)                                                                                                     
+   185.14.97.165   56655   346.431                       (Oslo, Oslo, NO, EU)                                                                                                     

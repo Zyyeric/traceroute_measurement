@@ -1,0 +1,18 @@
+   196.40.111.147  37153   0.0              (Cape Town, Western Cape, ZA, AF) atlas-anchor-cpt3.cpt.net.host-h.net                                                                
+   196.40.111.145  37153   0.414 (22.718)       (Cape Town, Western Cape, ZA, AF)                                                                                                     
+   196.40.108.2    37153   0.302            (Cape Town, Western Cape, ZA, AF)                                                                                                     
+   41.66.132.177   37179   0.555            (Cape Town, Western Cape, ZA, AF) 41-66-132-177.customer-xe-0-0-2-wc-ro-dce-4.africainx.net                                           
+   41.84.12.27     37179   0.881            (Cape Town, Western Cape, ZA, AF) core.100g-0-7-0-wc-ro-ter-pbr-1.za.africainx.net                                                    
+   105.22.72.213   37100   0.632            (Cape Town, Western Cape, ZA, AF)                                                                                                     
+╭─ 105.16.31.2     37100   134.03                     (Cape Town, WC, ZA, AF) ce-0-3-0-0.cr-02-cpt.za.seacomnet.com                                                               
+S (37100)  
+╰─ 105.25.160.166  37100   134.227   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) ce-0-0-13.cr-02-mrs.fr.seacomnet.com                                                                
+   105.16.33.253   37100   133.889                   (Marseille, PAC, FR, EU) xe-0-0-1-0.br-02-mrs.fr.seacomnet.com                                                               
+╭─ 212.222.126.65  3257    134.142   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) et-2-0-7.cr5-mrs1.ip4.gtt.net                                                                       
+S&T (3257)  seamewe-3 ✓
+├─ 89.149.139.25   3257    150.162                      (London, ENG, GB, EU) ae22.cr11-lon1.ip4.gtt.net                                                                          
+S&T (3257, 8895)  circe-north ✓ || ulysses-2 ✘ || scylla © || zeus ✓ || atlantic-crossing-1-ac-1 ✓ || concerto ✘ || farland-north ✘
+├─ 154.14.64.198   8895    229.249                    (Amsterdam, NH, NL, EU) ip4.gtt.net                                                                                         
+LHL (8895, 208520)  falcon ✘ || tata-tgn-gulf ✓ || gulf-bridge-international-cable-system-gbicsmiddle-east-north-africa-mena-cable-system ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 45.94.14.204    208520  221.854            (Riyadh, Riyadh Region, SA, AS)                                                                                                     

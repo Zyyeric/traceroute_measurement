@@ -1,0 +1,22 @@
+   103.202.216.76  59105   0.0                         (Chōfu, Tokyo, JP, AS)                                                                                                     
+   103.202.216.73  59105   0.366                       (Tokyo, Tokyo, JP, AS) ge-2-1-0.pop03er03.bb.homenoc.ad.jp                                                                 
+   210.188.225.233 9370    0.678                       (Tokyo, Tokyo, JP, AS) tkwrt301x-as59105.bb.sakura.ad.jp                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   210.138.107.33  2497    1.383                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+   58.138.100.21   2497    1.343                       (Tokyo, Tokyo, JP, AS) tky001bb01.iij.net                                                                                  
+   58.138.102.206  2497    1.421                       (Tokyo, Tokyo, JP, AS) tky001ix11.iij.net                                                                                  
+╭─ 210.130.133.26  2497    7.359                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+S (2497, 4637)  apcn-2 ✓ || eac-c2c ✓ || asia-pacific-gateway-apg ✓
+╰─ 202.47.216.253  4637    181.394                       (None, None, HK, AS) i-97.jtha-core02.telstraglobal.net                                                                  
+╭─ 202.47.216.253  4637    181.394                       (None, None, HK, AS) i-97.jtha-core02.telstraglobal.net                                                                  
+S (4637)  
+╰─ 202.84.140.222  4637    176.851          (Sydney, New South Wales, AU, OC) i-10242.sydp-core04.telstraglobal.net                                                               
+   203.50.13.89    1221    177.033                      (Sydney, NSW, AU, OC) bundle-ether3.pad-gw11.sydney.telstra.net                                                           
+   203.50.6.121    1221    178.228          (Sydney, New South Wales, AU, OC) bundle-ether6.par-core30.sydney.telstra.net                                                         
+   203.50.13.135   1221    197.743              (Melbourne, Victoria, AU, OC) bundle-ether3.exi-core30.melbourne.telstra.net                                                      
+   203.50.6.230    1221    212.155                     (Adelaide, SA, AU, OC) bundle-ether2.way-core10.adelaide.telstra.net                                                       
+   203.50.6.235    1221    238.572                        (Perth, WA, AU, OC) bundle-ether3.pie-core10.perth.telstra.net                                                          
+   203.50.6.177    1221    238.153                        (Perth, WA, AU, OC) bundle-ether1.pie-edge903.perth.telstra.net                                                         
+   138.217.126.78  1221    237.574         (Perth, Western Australia, AU, OC) tel4198820.lnk.telstra.net                                                                          
+   ***             *       -inf                                           *** *                                                                                                   
+   203.41.0.254    1221    237.54          (Perth, Western Australia, AU, OC) atlas-per.telstra.net                                                                               

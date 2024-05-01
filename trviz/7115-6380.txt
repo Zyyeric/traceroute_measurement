@@ -1,0 +1,21 @@
+   196.49.14.25    30997   0.0                 (Accra, Greater Accra, GH, AF)                                                                                                     
+   196.49.14.1     30997   0.449               (Accra, Greater Accra, GH, AF)                                                                                                     
+╭─ 197.221.70.89   *       0.799               (Accra, Greater Accra, GH, AF)                                                                                                     
+S&T (, 3741)  
+╰─ 196.14.240.4    3741    0.947                         (None, None, ZA, AF) *                                                                                                   
+╭─ 168.209.160.109 3741    255.938                       (None, None, ZA, AF) *                                                                                                   
+T (3741)  
+╰─ 168.209.160.108 3741    256.139                  (London, England, GB, EU)                                                                                                     
+╭─ 168.209.246.66  3741    256.986                     (London, None, GB, EU) core2b-dock-be-2.ip.ddii.network                                                                    
+T (3741)  
+├─ 168.209.246.65  3741    256.809                       (None, None, ZA, AF) core1b-dock-be-2.ip.ddii.network                                                                    
+S (3741, 6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.189.30  6939    192.835   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) port-channel18.core4.mrs1.he.net                                                                    
+S (6939, 7642)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 74.82.51.50     7642    375.492                     (Singapore, 4, SG, AS) dhivehi-raajjeyge-gulhan-plc.10gigabitethernet1-1-28.switch2.sin1.he.net                            
+S (7642)  
+╰─ 202.1.205.242   7642    423.425                       (None, None, MV, AS) xe-1-0-0-1.rt.dhivehinet.net.mv                                                                     
+   123.176.1.4     7642    423.794                (Male, Kaafu Atoll, MV, AS)                                                                                                     

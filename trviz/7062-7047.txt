@@ -1,0 +1,22 @@
+   80.77.4.60      15412   0.0                         (Dubai, Dubai, AE, AS)                                                                                                     
+╭─ 80.77.4.57      15412   1.944                       (Dubai, Dubai, AE, AS)                                                                                                     
+S (15412)  
+├─ 62.216.130.46   15412   27.121                          (Ozora, 1, JP, AS) xe-2-0-2.0.pjr04.mmb004.flagtel.com                                                                 
+S (15412)  
+├─ 62.216.128.249  15412   79.866                      (Singapore, 4, SG, AS) ge-7-0-0.0.ejr04.sin001.flagtel.com                                                                 
+S (15412, 6453)  
+├─ 62.216.157.162  6453    79.929                        (None, None, GB, EU) *                                                                                                   
+S (6453)  
+╰─ 120.29.214.11   6453    323.959                  (Singapore, None, SG, AS) if-be-46-2.ecore2.svq-singapore.as6453.net                                                          
+   63.243.180.160  6453    327.952             (Singapore, Singapore, SG, AS) if-bundle-22-2.qcore2.esin4-singapore.as6453.net                                                    
+   63.243.180.131  6453    326.152             (Singapore, Singapore, SG, AS) if-bundle-19-2.qcore1.svw-singapore.as6453.net                                                      
+╭─ 209.58.82.130   6453    330.573             (Singapore, Singapore, SG, AS) if-ae-33-2.tcore1.svw-singapore.as6453.net                                                          
+S (6453)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 80.231.165.49   6453    332.208   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) if-be-33-2.ecore1.emrs2-marseille.as6453.net                                                        
+S&T (6453, 37179)  
+╰─ 41.84.12.28     37179   313.59                  (Johannesburg, GP, ZA, AF) core.100g-0-8-0-wc-ro-ter-scp-2.za.africainx.net                                                    
+   41.84.13.37     37179   312.348                 (Johannesburg, GP, ZA, AF) core.xe-0-0-0-wc-ro-het-mee-1.za.africainx.net                                                      
+   41.66.133.2     37399   314.403                 (Johannesburg, GP, ZA, AF) 41-66-133-2.hetzner-cpt-ip4-gw.africainx.net                                                        
+   196.40.102.70   37153   316.855                       (None, None, ZA, AF) core-access-switch1-vlan1001.cpt.host-h.net                                                         
+   196.40.111.147  37153   309.381          (Cape Town, Western Cape, ZA, AF) atlas-anchor-cpt3.cpt.net.host-h.net                                                                

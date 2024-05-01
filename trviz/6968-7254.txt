@@ -1,0 +1,16 @@
+   103.170.154.254 142594  0.0                      (London, England, GB, EU) 254.154.170.103.speedyvps.uk                                                                        
+╭─ 103.170.154.1   142594  0.134                    (London, England, GB, EU)                                                                                                     
+T (142594, 60068)  
+├─ 156.146.32.92   60068   0.241                     (Prague, Prague, CZ, EU) unn-156-146-32-92.cdn77.com                                                                         
+T (60068, 201011)  
+╰─ 81.95.9.56      201011  0.471                  (Shadwell, England, GB, EU) ae22-407.lon10.core-backbone.com                                                                    
+╭─ 81.95.9.21      201011  0.562                  (Brockley, England, GB, EU)                                                                                                     
+S (201011, 9498)  europe-india-gateway-eig ✘ || seamewe-3 ✘ || flag-europe-asia-fea ✘
+╰─ 116.119.50.24   9498    146.246                       (None, None, IN, AS) *                                                                                                   
+   61.246.97.190   9498    138.982             (Bengaluru, Karnataka, IN, AS) dsl-tn-190.97.246.61.airtelbroadband.in                                                             
+   143.244.225.131 *       147.385             (Bengaluru, Karnataka, IN, AS)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   159.65.150.114  14061   147.447        (Doddaballapura, Karnataka, IN, AS) in-blr-as14061.anchors.atlas.ripe.net                                                               

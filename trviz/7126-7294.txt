@@ -1,0 +1,18 @@
+   10.252.4.170    *       0.0                                            ***                                                                                                     
+   10.252.4.169    *       0.167                                          ***                                                                                                     
+   10.252.4.153    *       0.288                                          ***                                                                                                     
+   10.252.0.37     *       11.403                                         ***                                                                                                     
+╭─ 184.104.196.46  6939    49.734                      (Istanbul, 34, TR, AS) 100ge0-36.core1.ist1.he.net                                                                         
+S&T (6939)  
+├─ 184.105.65.49   6939    44.904                         (Sofia, 23, BG, EU) 100ge14-1.core1.sof1.he.net                                                                         
+T (6939, 1299)  
+├─ 213.248.104.154 1299    51.29                    (Milan, Lombardy, IT, EU) hurricane-ic-379075.ip.twelve99-cust.net                                                            
+S (1299, 6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.208.93  6939    202.254             (Singapore, Singapore, SG, AS) true-internet-corporation-co-ltd.port-channel18.core3.sin1.he.net                                   
+S&T (6939, 38082)  
+╰─ 122.144.26.19   38082   226.231                       (None, None, TH, AS) TIG-Net26-19.trueintergateway.com                                                                   
+   113.21.243.146  137566  223.965                       (None, None, TH, AS) TIG-Net243-146.trueintergateway.com                                                                 
+   103.113.176.2   137566  229.414                       (None, None, TH, AS) *                                                                                                   
+   103.113.176.82  137566  226.329       (Ban Talat Bueng, Chon Buri, TH, AS)                                                                                                     

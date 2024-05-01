@@ -1,0 +1,16 @@
+   147.84.200.125  39069   0.0                       (Murcia, Murcia, ES, EU)                                                                                                     
+   147.84.200.11   39069   0.839                     (Murcia, Murcia, ES, EU)                                                                                                     
+   10.250.42.181   *       12.561                                         ***                                                                                                     
+   195.10.44.2     12430   12.523                         (Madrid, M, ES, EU) vodafone-es-gw-mat.cw.net                                                                           
+╭─ 195.10.44.1     1273    12.532                    (Madrid, Madrid, ES, EU) ae7-100-xcr1.mat.cw.net                                                                             
+S&T (1273)  
+├─ 195.2.30.89     1273    12.829                        (None, None, GB, EU) ae2-xcr1.max.cw.net                                                                                 
+T (1273, 3257)  
+├─ 154.14.148.5    3257    13.616                        (None, None, CH, EU) ip4.gtt.net                                                                                         
+T (3257)  
+├─ 89.149.139.25   3257    35.14                        (London, ENG, GB, EU) ae22.cr11-lon1.ip4.gtt.net                                                                          
+S&T (3257, 8895)  
+├─ 154.14.64.198   8895    110.885                    (Amsterdam, NH, NL, EU) ip4.gtt.net                                                                                         
+LHL (8895, 208520)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 45.94.14.204    208520  110.813            (Riyadh, Riyadh Region, SA, AS)                                                                                                     

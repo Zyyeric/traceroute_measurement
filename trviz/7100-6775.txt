@@ -1,0 +1,20 @@
+   192.30.89.87    394256  0.0          (Vancouver, British Columbia, CA, NA) ca-van-as394256.anchors.atlas.ripe.net                                                              
+   192.30.89.94    394256  0.738        (Vancouver, British Columbia, CA, NA)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   184.105.222.97  6939    26.752                      (Winnipeg, MB, CA, NA) 100ge10-2.core1.ywg1.he.net                                                                         
+╭─ 184.105.64.101  6939    48.541                  (Toronto, Ontario, CA, NA) 100ge0-71.core2.tor1.he.net                                                                         
+S&T (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.188.253 6939    59.207                (Newark, New Jersey, US, NA) port-channel2.core2.ewr5.he.net                                                                     
+LHL (6939)  havfrueaec-2 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.192.106 6939    150.598                     (Helsinki, 18, FI, EU) 100ge4-1.core1.hel1.he.net                                                                          
+   193.110.224.14  1741    150.825                    (Helsinki, 1, FI, None) csc.ficix2.ficix.fi                                                                                 
+   86.50.255.242   1741    153.266                        (Espoo, 18, FI, EU) espoo2.ip.funet.fi                                                                                  
+   86.50.255.222   1741    149.978                (Hameenlinna, None, FI, EU) hameenlinna1.ip.funet.fi                                                                            
+   86.50.255.225   1741    153.901                (Hameenlinna, None, FI, EU) hameenlinna2.ip.funet.fi                                                                            
+   86.50.255.221   1741    150.819                      (Tampere, 11, FI, EU) tampere1.ip.funet.fi                                                                                
+   193.167.244.181 39484   150.87                        (None, None, FI, EU) poas-a.funet.fi                                                                                     
+   185.239.193.37  39484   150.222               (Tampere, Pirkanmaa, FI, EU) fi-tmp-as39484.anchors.atlas.ripe.net                                                               

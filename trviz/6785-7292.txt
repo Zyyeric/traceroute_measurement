@@ -1,0 +1,18 @@
+   89.213.179.65   32167   0.0                 (Hong Kong, Hong Kong, HK, AS) 89-213-179-65.ip.lshiyusercontent.com                                                               
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 103.203.243.10  955     0.33              (Kadoorie, Kowloon City, HK, AS) port-channe17.switch1.hkg1.bb.lshiy.net                                                             
+S (955, 1299)  asia-america-gateway-aag-cable-system ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 62.115.181.193  1299    138.775          (Los Angeles, California, US, NA) lax-b22-link.ip.twelve99.net                                                                        
+╭─ 80.239.128.215  1299    138.662          (Los Angeles, California, US, NA) tata-ic-333371.ip.twelve99-cust.net                                                                 
+S (1299, 6453)  sea-us © ↠ apollo © || sea-us © ↠ flag-atlantic-1-fa-1 ©
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 80.231.154.33   6453    420.662   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) if-bundle-15-2.qcore1.emrs2-marseille.as6453.net                                                    
+S (6453, 58717)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 103.15.246.16   58717   252.128                     (Dhaka, Dhaka, BD, AS)                                                                                                     

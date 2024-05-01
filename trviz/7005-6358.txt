@@ -1,0 +1,19 @@
+   196.49.15.189   328998  0.0              (Kampala, Central Region, UG, AF)                                                                                                     
+   196.49.15.253   328998  0.669            (Kampala, Central Region, UG, AF)                                                                                                     
+   41.191.77.205   37063   0.847            (Kampala, Central Region, UG, AF)                                                                                                     
+   129.205.30.77   37063   0.917                         (Kampala, C, UG, AF) *                                                                                                   
+╭─ 212.88.110.33   20294   2.154            (Kampala, Central Region, UG, AF)                                                                                                     
+LHL (20294, 16637)  
+╰─ 41.181.247.38   16637   151.475                  (London, England, GB, EU)                                                                                                     
+   41.181.244.177  16637   150.989                  (London, England, GB, EU)                                                                                                     
+╭─ 41.181.105.104  16637   152.744                  (London, England, GB, EU)                                                                                                     
+T (16637)  
+├─ 41.181.189.64   16637   152.214                     (Pretoria, GP, ZA, AF) *                                                                                                   
+T (16637, 6939)  
+├─ 184.104.205.252 6939    151.895                  (London, England, GB, EU) e0-45.core1.lon3.he.net                                                                             
+S&T (6939)  
+├─ 184.104.197.186 6939    157.992                    (Amsterdam, NH, NL, EU) port-channel6.core2.ams2.he.net                                                                     
+S&T (6939, 204059)  
+╰─ 80.67.181.2     204059  161.698                    (Brussels, BRU, BE, EU) edge-02.louise.neutri.net                                                                           
+   80.67.181.18    204059  161.821       (Brussels, Brussels Capital, BE, EU) core-01.louise.neutri.net                                                                           
+   80.67.181.29    204059  161.29        (Brussels, Brussels Capital, BE, EU) be-bru-as204059.anchors.atlas.ripe.net                                                              

@@ -1,0 +1,23 @@
+   37.252.245.94   42473   0.0                         (Dubai, Dubai, AE, AS)                                                                                                     
+   37.252.245.93   42473   0.968                       (Dubai, Dubai, AE, AS)                                                                                                     
+╭─ 184.105.64.198  6939    112.052                        (Dubai, DU, AE, AS) 10ge4-11.core1.dxb1.he.net                                                                          
+S (6939)  
+╰─ 184.104.193.102 6939    193.639   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) port-channel1.core3.mrs1.he.net                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 184.105.81.29   6939    737.641                       (Paris, IDF, FR, EU) port-channel8.core2.par2.he.net                                                                     
+S&T (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.64.5    6939    261.739                  (London, England, GB, EU) port-channel4.core1.lon3.he.net                                                                     
+╭─ 184.104.205.253 6939    249.537                  (London, England, GB, EU) mtn-globalconnect-solutions-ltd.port-channel7.core1.lon3.he.net                                     
+T (6939, 16637)  
+├─ 41.181.189.65   16637   266.26                      (Pretoria, GP, ZA, AF) *                                                                                                   
+T (16637)  
+╰─ 41.181.105.105  16637   263.017                  (London, England, GB, EU)                                                                                                     
+╭─ 41.181.244.176  16637   267.664                  (London, England, GB, EU)                                                                                                     
+T (16637, 20294)  
+├─ 41.181.247.39   20294   410.826                       (None, None, ZA, AF) *                                                                                                   
+LHL (20294)  
+╰─ 212.88.110.34   20294   416.247          (Kampala, Central Region, UG, AF)                                                                                                     
+   129.205.30.76   37063   416.086                       (Kampala, C, UG, AF) *                                                                                                   
+   41.191.77.206   328998  415.156                       (Kampala, C, UG, AF) *                                                                                                   
+   196.49.15.189   328998  415.998          (Kampala, Central Region, UG, AF)                                                                                                     

@@ -1,0 +1,18 @@
+   197.239.73.59   37577   0.0                  (Ouagadougou, Centre, BF, AF)                                                                                                     
+   197.239.73.57   37577   0.343                (Ouagadougou, Centre, BF, AF)                                                                                                     
+   165.16.221.42   37721   0.56                          (None, None, BF, AF) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   102.67.97.181   37721   1.458                (Ouagadougou, Centre, BF, AF) ce5-355.bb2.oua2.vts.bf                                                                             
+   102.67.96.144   37721   8.409                (Ouagadougou, Centre, BF, AF) po100-2044.bb1.boy1.vts.bf                                                                          
+╭─ 102.67.97.36    37721   20.203               (Ouagadougou, Centre, BF, AF)                                                                                                     
+LHL (37721)  west-africa-cable-system-wacs ✓ || africa-coast-to-europe-ace ✓ || mainone ✘ || sat-3wasc ✓
+├─ 102.67.96.247   37721   89.608                    (Lisbon, Lisbon, PT, EU) ce1-2036.bb2.lis1.vts.bf                                                                            
+S&T (37721)  tata-tgn-western-europe ✓ || europe-india-gateway-eig ✓ || seamewe-3 ✓
+╰─ 102.67.96.26    37721   120.507                  (London, England, GB, EU) xe-0-0-1-2034.bb1.lon1.vts.bf                                                                       
+   102.67.96.10    37721   120.278                      (London, ENG, GB, EU) xe-0-0-2-41.br2.lon1.vts.bf                                                                         
+╭─ 195.66.236.146  15412   166.52                      (London, None, GB, EU) peer2.ldn1.flagtel.com                                                                              
+S&T (15412)  seamewe-3 ✓ || high-capacity-undersea-guernsey-optical-fibre-hugo ✓ || uk-channel-islands-8 ✘ || channel-islands-9-liberty-submarine-cable ✘ || uk-channel-islands-7 ✓
+╰─ 85.95.26.146    15412   177.062                   (Marseille, PAC, FR, EU) ae4.0.cjr01.mrs002.flagtel.com                                                                      
+╭─ 85.95.25.93     15412   280.382                   (Marseille, PAC, FR, EU) xe-4-0-1.0.cjr01.mrs002.flagtel.com                                                                 
+S&T (15412)  
+╰─ 80.77.4.60      15412   283.044                     (Dubai, Dubai, AE, AS)                                                                                                     

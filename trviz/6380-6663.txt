@@ -1,0 +1,18 @@
+   92.223.93.208   202422  0.0                      (Milan, Lombardy, IT, EU)                                                                                                     
+   92.223.93.195   202422  0.37                     (Milan, Lombardy, IT, EU) vrrp.gcore.lu                                                                                       
+   10.255.169.181  *       0.339                                          ***                                                                                                     
+   10.255.169.178  *       0.376                                          ***                                                                                                     
+╭─ 195.22.212.112  6762    0.99                     (Milan, Lombardy, IT, EU) ae10.milano59.mil.seabone.net                                                                       
+T (6762)  
+╰─ 195.22.196.7    6762    24.499             (Frankfurt am Main, HE, DE, EU) ae5.francoforte34.fra.seabone.net                                                                   
+   195.22.196.7    6762    24.499             (Frankfurt am Main, HE, DE, EU) ae5.francoforte34.fra.seabone.net                                                                   
+╭─ 195.22.214.229  6762    13.046          (Frankfurt am Main, Hesse, DE, EU)                                                                                                     
+T (6762, 3491)  
+├─ 63.223.14.98    3491    28.398                      (London, None, GB, EU) Bundle-Ether44.br02.ldn12.pccwbtn.net                                                               
+S (3491)  
+├─ 63.218.34.26    3491    150.695                       (None, None, US, NA) 63-218-34-26.static.pccwglobal.net                                                                  
+LHL (3491, 328303)  
+╰─ 154.65.16.89    328303  150.148                        (Accra, AA, GH, AF) *                                                                                                   
+   154.65.16.114   37727   136.255             (Accra, Greater Accra, GH, AF)                                                                                                     
+   196.201.2.126   30997   218.896                       (Accra, 1, GH, None) *                                                                                                   
+   196.49.14.25    30997   218.736             (Accra, Greater Accra, GH, AF)                                                                                                     

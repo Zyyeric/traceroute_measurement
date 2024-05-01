@@ -1,0 +1,17 @@
+   197.239.73.59   37577   0.0                  (Ouagadougou, Centre, BF, AF)                                                                                                     
+   197.239.73.57   37577   1.093                (Ouagadougou, Centre, BF, AF)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   102.67.97.181   37721   2.372                (Ouagadougou, Centre, BF, AF) ce5-355.bb2.oua2.vts.bf                                                                             
+╭─ 102.67.97.41    37721   4.637                   (Ouagadougou, KAD, BF, AF) et-0-0-1-2003.bb1.oua2.vts.bf                                                                       
+LHL (37721)  africa-coast-to-europe-ace ✓
+├─ 102.67.96.46    37721   18.958                       (Paris, None, FR, EU) xe-0-0-1-2022.bb2.prs1.vts.bf                                                                       
+LHL (37721)  
+╰─ 102.67.97.97    37721   26.158               (Ouagadougou, Centre, BF, AF) po51-2055.bb1.los1.vts.bf                                                                           
+╭─ 102.67.97.233   37721   26.599               (Ouagadougou, Centre, BF, AF) xe-0-0-5-722.br2.los1.vts.bf                                                                        
+LHL (37721, 37468)  africa-coast-to-europe-ace ✓ ↠ africa-coast-to-europe-ace ✓
+├─ 196.216.148.71  37468   102.082                       (None, None, NG, AF) *                                                                                                   
+S&T (37468)  west-africa-cable-system-wacs 👍 || sat-3wasc ✓ || africa-coast-to-europe-ace ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 102.130.68.113  37468   163.97                  (Johannesburg, GT, ZA, AF) *                                                                                                   
+   102.130.68.151  37468   169.571            (Johannesburg, Gauteng, ZA, AF)                                                                                                     

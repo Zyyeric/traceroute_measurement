@@ -1,0 +1,8 @@
+   203.174.85.106  38001   0.0                 (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 203.174.85.105  38001   2.629               (Singapore, Singapore, SG, AS)                                                                                                     
+S (38001, 4764)  
+├  10.15.62.210    *       2.863                                          ***                                                                                                     
+├─ 27.111.229.181  4764    3.427                     (Seogwipo, None, KR, AS) 4764.sgw.equinix.com                                                                                
+S (4764)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 202.142.143.178 4764    91.05                (Melbourne, Victoria, AU, OC) be3.bng1.vdc03.mel.aussiebb.net                                                                     

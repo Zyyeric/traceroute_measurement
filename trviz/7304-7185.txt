@@ -1,0 +1,9 @@
+   185.32.187.165  13238   0.0                    (Helsinki, Uusimaa, FI, EU)                                                                                                     
+╭─ 185.32.187.166  13238   1.415                  (Helsinki, Uusimaa, FI, EU)                                                                                                     
+LHL (13238)  circe-north ✘ || scylla ✘ || ulysses-2 ✘ || zeus ✘ || atlantic-crossing-1-ac-1 ✘ || concerto ✘ || farland-north ✘
+├  10.1.1.100      *       0.675                                          ***                                                                                                     
+╰─ 80.249.211.200  13238   53.736                      (Schiphol, NH, NL, EU) ams-ix-am1.yandex.net                                                                               
+╭─ 80.249.214.241  *       64.779          (Amsterdam, North Holland, NL, EU) xe-0-1-0-3234.rt-edge-lbc-nls-01.net.glasfaser.swhl.de                                              
+T (, 29505)  
+╰─ 85.233.1.0      29505   65.991                  (Hamburg, Hamburg, DE, EU) eth49-1.rt-core-lbc-nls-01.net.glasfaser.swhl.de                                                    
+   85.233.1.54     29505   64.574        (Lübeck, Schleswig-Holstein, DE, EU) de-lbc-as29505.anchors.atlas.ripe.net                                                               

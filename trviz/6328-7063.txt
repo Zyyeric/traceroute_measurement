@@ -1,0 +1,21 @@
+   197.189.194.147 37153   0.0                (Johannesburg, Gauteng, ZA, AF) atlas-anchor-jnb1.jnb.net.host-h.net                                                                
+   197.189.194.145 37153   6.429              (Johannesburg, Gauteng, ZA, AF)                                                                                                     
+   197.189.193.3   37153   0.31               (Johannesburg, Gauteng, ZA, AF) core-router2.jnb1.host-h.net                                                                        
+   41.66.132.245   37179   0.298              (Johannesburg, Gauteng, ZA, AF) 41-66-132-245-f5.customer.xe-0-0-2-gp-sm-dce-2.africainx.net                                        
+   41.84.13.65     37225   1.585                   (Johannesburg, GP, ZA, AF) core.ge-0-1-1-gp-id-pbr-1.za.africainx.net                                                          
+   105.25.146.5    37100   1.325              (Johannesburg, Gauteng, ZA, AF)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 105.25.160.150  37100   168.846          (Cape Town, Western Cape, ZA, AF) ce-0-2-9.cr-01-cpt.za.seacomnet.com                                                                 
+T (37100)  
+├─ 105.16.15.90    37100   170.232                  (London, England, GB, EU) ce-0-0-23.cr-01-lhr.uk.seacomnet.com                                                                
+S&T (37100)  
+╰─ 105.16.13.125   37100   168.929                    (Amsterdam, NH, NL, EU) ce-3-0-5.er-01-ams.nl.seacomnet.com                                                                 
+   105.16.9.14     37100   168.916                    (Amsterdam, NH, NL, EU) ae-0-0.pp-01-ams.nl.seacomnet.com                                                                   
+╭─ 193.239.119.37  *       170.722         (Amsterdam, North Holland, NL, EU) edgoo.nikhef.nl-ix.net                                                                              
+T (, 47787)  
+├─ 193.109.190.74  47787   194.543                   (Madrid, Madrid, ES, EU) er1.mad1.edgoo.net                                                                                  
+S&T (47787)  
+╰─ 193.163.151.209 47787   202.962                       (Lisbon, 11, PT, EU) cr1.lis1.edgoo.net                                                                                  
+   193.109.188.7   47787   204.894                   (Lisbon, Lisbon, PT, EU)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   185.32.189.249  62416   205.103                 (Odivelas, Lisbon, PT, EU) pt-lis-as62416.anchors.atlas.ripe.net                                                               

@@ -1,0 +1,16 @@
+   103.215.229.229 140443  0.0                  (Surabaya, East Java, ID, AS) 229.229.215.103.in-addr.herza.id                                                                    
+   103.215.229.1   140443  0.142         (Gubengairlangga, East Java, ID, AS)                                                                                                     
+   103.215.228.1   140443  0.206         (Gubengairlangga, East Java, ID, AS) 1.228.215.103.in-addr.herza.id                                                                      
+╭─ 36.64.254.21    7713    0.195 (6.219)    (Gubengairlangga, East Java, ID, AS)                                                                                                     
+S&T (7713)  australia-singapore-cable-asc ✓ || matrix-cable-system ✘ || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || indonesia-global-gateway-igg-system 👍 || seamewe-3 ✓ || jasuka 👍 || indigo-west ✓ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || jakabare ✓
+├─ 180.240.192.33  7713    24.728              (Singapore, Singapore, SG, AS)                                                                                                     
+S (7713)  eac-c2c ✓ || asia-pacific-gateway-apg ✓ || southeast-asia-japan-cable-sjc 👍 || asia-america-gateway-aag-cable-system 👍 || seamewe-3 ✓ || asia-submarine-cable-express-asecahaya-malaysia ✓ || apcn-2 ✓ || tata-tgn-intra-asia-tgn-ia ✓
+├─ 180.240.197.113 7713    74.497              (Hong Kong, Hong Kong, HK, AS)                                                                                                     
+S (7713, 6939)  asia-america-gateway-aag-cable-system 👍
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.195.113 6939    215.035                     (San Jose, CA, US, NA) 100ge14-2.core1.sjc1.he.net                                                                         
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   23.155.72.145   64289   214.475          (Santa Clara, California, US, NA)                                                                                                     

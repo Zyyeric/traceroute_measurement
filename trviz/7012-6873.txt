@@ -1,0 +1,21 @@
+   193.50.97.164   2200    0.0                   (Plouzané, Brittany, FR, EU) anchor.netlab.enstb.org                                                                             
+   193.50.97.161   2200    0.744                 (Plouzané, Brittany, FR, EU) netlab-gw.enstb.org                                                                                 
+   192.108.116.201 50897   0.916                 (Plouzané, Brittany, FR, EU) asr-vlan39.enst-bretagne.fr                                                                         
+   193.51.188.10   2200    6.799             (Saint-Brieuc, Brittany, FR, EU) vl807-pc1-brest1-rtr-021.noc.renater.fr                                                             
+   193.51.177.174  2200    12.55               (Paris, Île-de-France, FR, EU) et-5-2-1-ren-nr-paris1-rtr-131.noc.renater.fr                                                       
+╭─ 83.97.89.9      20965   12.633                        (Paris, IDF, FR, EU) renater-ias-geant-gw.par.fr.geant.net                                                               
+T (20965)  
+╰─ 62.40.98.238    20965   35.91                     (Genève, Geneva, CH, EU) ae7.mx1.gen.ch.geant.net                                                                            
+╭─ 62.40.98.182    20965   35.428                      (Geneva, None, CH, EU) ae5.mx1.gen.ch.geant.net                                                                            
+LHL (20965)  
+├─ 62.40.98.159    20965   35.525                    (Prague, Prague, CZ, EU) ae6.rt1.pra.cz.geant.net                                                                            
+T (20965, 201011)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 81.95.15.162    201011  181.757            (Frankfurt am Main, HE, DE, EU) ae1-2001.fra10.core-backbone.com                                                                    
+   80.255.15.22    13101   187.457            (Frankfurt am Main, HE, DE, EU) core-backbone.tng.de                                                                                
+   213.178.75.196  13101   113.616            (Frankfurt am Main, HE, DE, EU) fra1.tng.de                                                                                         
+   213.178.80.64   13101   136.912                      (Hamburg, HH, DE, EU) ham1.tng.de                                                                                         
+   213.178.80.32   13101   73.896                          (Kiel, SH, DE, EU) kel1.tng.de                                                                                         
+   213.178.75.135  13101   72.072          (Kiel, Schleswig-Holstein, DE, EU) kel3.tng.de                                                                                         
+   82.97.188.1     13101   58.449                        (None, None, DE, EU) rtr1.gallifrey.tng.de                                                                               
+   213.158.113.5   13101   68.673                  (Hamburg, Hamburg, DE, EU) ripe-anchor.gallifrey.tng.de                                                                        

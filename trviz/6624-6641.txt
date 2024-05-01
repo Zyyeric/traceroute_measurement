@@ -1,0 +1,17 @@
+   92.38.135.131   202422  0.0                         (Seoul, Seoul, KR, AS)                                                                                                     
+   92.38.135.2     202422  0.208                       (Seoul, Seoul, KR, AS) vrrp.gcore.lu                                                                                       
+   10.255.17.210   *       0.179                                          ***                                                                                                     
+   10.255.17.213   *       0.222                                          ***                                                                                                     
+   10.255.17.146   *       0.322                                          ***                                                                                                     
+╭─ 8.244.74.29     3356    0.564                       (Seoul, Seoul, KR, AS)                                                                                                     
+S (3356)  korea-japan-cable-network-kjcn ✓ || seamewe-3 ✓
+╰─ 4.69.217.14     3356    31.838                         (Tokyo, 13, JP, AS) ae1.3505.edge2.Tokyo4.level3.net                                                                    
+╭─ 4.68.70.86      3491    30.979                         (Tokyo, 13, JP, AS) PCCW-level3-Tokyo4.Level3.net                                                                       
+LHL (3491)  seamewe-3 👍
+╰─ 63.218.230.74   3491    281.474         (Frankfurt am Main, Hesse, DE, EU) hu-0-0-0-8.br03.frf06.as3491.net                                                                    
+╭─ 63.218.233.6    20485   266.392            (Frankfurt am Main, HE, DE, EU) 63-218-233-6.static.pccwglobal.net                                                                  
+T (20485)  
+╰─ 217.150.48.14   20485   394.471                        (Perm, PER, RU, EU) cta06.cta22.transtelecom.net                                                                        
+   217.150.48.13   58067   394.047                        (Perm, PER, RU, EU) ChitaEnergo-gw.transtelecom.net                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   176.114.16.104  58067   393.294   (Chita, Zabaykalskiy (Transbaikal) Kray, RU, EU)                                                                                                     

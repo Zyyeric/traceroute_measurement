@@ -1,0 +1,24 @@
+   195.130.66.103  199399  0.0                       (Athens, Attica, GR, EU) gr-ath-as199399.anchors.atlas.ripe.net                                                              
+   195.130.66.102  199399  1.187                    (Výronas, Attica, GR, EU) gw-ripe-anchor.gr-ix.gr                                                                             
+   62.217.98.52    5408    1.164                    (Výronas, Attica, GR, EU) grix-admin-gw.eier.access-link.grnet.gr                                                             
+   83.97.88.69     21320   0.683                    (Výronas, Attica, GR, EU) grnet-ias-geant-gw.mx2.ath.gr.geant.net                                                             
+╭─ 62.40.98.141    20965   26.147                        (Athens, A1, GR, EU) ae0.mx1.ath2.gr.geant.net                                                                           
+T (20965)  
+╰─ 62.40.98.147    20965   26.15                     (Vienna, Vienna, AT, EU) ae0.mx1.vie.at.geant.net                                                                            
+╭─ 212.133.7.165   3356    26.768                    (Vienna, Vienna, AT, EU) ae68.edge4.vienna1.level3.net                                                                       
+LHL (3356)  
+├─ 171.75.8.225    3356    52.364    (Septèmes-les-Vallons, Provence-Alpes-Côte d'Azur, FR, EU) ae2.3605.edge4.mrs1.neo.colt.net                                                                    
+S (3356, 35819)  
+├─ 212.133.4.70    35819   52.149                        (None, None, SA, AS) *                                                                                                   
+S (35819, 37100)  
+├─ 105.16.32.1     37100   187.984                   (Marseille, PAC, FR, EU) ae-1.cr-01-mrs.fr.seacomnet.com                                                                     
+S (37100)  
+├─ 105.16.9.201    37100   185.847                     (Mombasa, 300, KE, AF) xe-0-0-0-1.cr-02-mba.ke.seacomnet.com                                                               
+S (37100)  
+╰─ 105.16.31.10    37100   185.165                    (Cape Town, WC, ZA, AF) xe-1-0-0-0.er-02-cpt.za.seacomnet.com                                                               
+   105.22.72.214   37100   189.45           (Cape Town, Western Cape, ZA, AF)                                                                                                     
+   41.84.12.28     37179   188.563                 (Johannesburg, GP, ZA, AF) core.100g-0-8-0-wc-ro-ter-scp-2.za.africainx.net                                                    
+   41.84.13.37     37179   187.914                 (Johannesburg, GP, ZA, AF) core.xe-0-0-0-wc-ro-het-mee-1.za.africainx.net                                                      
+   41.66.133.2     37399   188.658                 (Johannesburg, GP, ZA, AF) 41-66-133-2.hetzner-cpt-ip4-gw.africainx.net                                                        
+   196.40.102.70   37153   200.99                        (None, None, ZA, AF) core-access-switch1-vlan1001.cpt.host-h.net                                                         
+   196.40.111.147  37153   188.55           (Cape Town, Western Cape, ZA, AF) atlas-anchor-cpt3.cpt.net.host-h.net                                                                

@@ -1,0 +1,16 @@
+   152.195.112.52  15133   0.0                         (Tokyo, Tokyo, JP, AS)                                                                                                     
+   152.195.112.49  15133   1.273                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+╭─ 152.195.112.203 15133   0.453                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+S (15133, 6453)  asia-pacific-gateway-apg ✓ || eac-c2c ✓
+╰─ 120.29.217.118  6453    66.581                   (Singapore, None, SG, AS) if-ae-36-3.tcore1.svw-singapore.as6453.net                                                          
+   63.243.180.130  6453    66.351              (Singapore, Singapore, SG, AS) if-bundle-19-2.qcore2.esin4-singapore.as6453.net                                                    
+   63.243.180.161  6453    66.594              (Singapore, Singapore, SG, AS) if-be-22-2.ecore2.svq-singapore.as6453.net                                                          
+   120.29.214.10   6453    66.74                    (Singapore, None, SG, AS) if-ae-46-2.thar1.svq-singapore.as6453.net                                                           
+╭─ 180.87.96.149   4651    67.598                   (Singapore, None, SG, AS) *                                                                                                   
+S&T (4651)  asia-america-gateway-aag-cable-system ✓ || seamewe-4 ✓ || seamewe-3 ✓
+╰─ 61.19.9.133     4651    91.536                        (None, None, TH, AS) *                                                                                                   
+   61.19.7.78      4651    92.0                          (None, None, TH, AS) *                                                                                                   
+   122.155.224.74  135063  92.59                         (None, None, TH, AS) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   103.253.132.25  59238   91.661                  (Bangkok, Bangkok, TH, AS) th-bkk-as59238.anchors.atlas.ripe.net                                                               

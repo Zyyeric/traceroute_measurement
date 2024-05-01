@@ -1,0 +1,26 @@
+╭─ 196.49.84.188   328913  0.0                     (Douala, Littoral, CM, AF) cm-dla-as328913.anchors.atlas.ripe.net                                                              
+S (328913)  
+╰─ 196.49.84.177   328913  0.416                   (Abidjan, Abidjan, CI, AF)                                                                                                     
+╭─ 196.49.84.34    328913  0.692                   (Abidjan, Abidjan, CI, AF) bdr2.std.douala-ix.net                                                                              
+S&T (328913, )  
+├─ 196.60.84.61    *       0.757                   (Douala, Littoral, CM, AF) as328840.member.std.douala-ix.net                                                                   
+S (, 60171)  
+├─ 102.219.44.42   60171   0.982                       (Lagos, Lagos, NG, AF)                                                                                                     
+S (60171)  
+├─ 185.10.164.44   60171   268.485             (Barcelona, Catalonia, ES, EU)                                                                                                     
+S (60171)  
+├─ 102.223.52.72   60171   268.822                     (Lagos, Lagos, NG, AF)                                                                                                     
+S (60171)  
+╰─ 185.10.164.33   60171   268.702             (Barcelona, Catalonia, ES, EU)                                                                                                     
+╭─ 185.10.164.134  60171   268.753             (Barcelona, Catalonia, ES, EU)                                                                                                     
+S&T (60171, 37542)  
+├─ 185.10.164.112  37542   268.88                       (London, ENG, GB, EU) *                                                                                                   
+S&T (37542, 60171)  
+╰─ 185.10.164.98   60171   268.896             (Barcelona, Catalonia, ES, EU)                                                                                                     
+╭─ 185.35.142.61   60171   268.455                       (None, None, ES, EU) *                                                                                                   
+S&T (60171, 12779)  
+├─ 37.49.236.177   12779   266.078                       (Paris, IDF, FR, EU) itgate.par.franceix.net                                                                             
+S&T (12779)  
+╰─ 213.254.30.222  12779   278.196                       (Torino, 21, IT, EU) be20.Scooby-Monster.core.TRN.itgate.net                                                             
+   213.254.30.223  12779   889.675                       (Torino, 21, IT, EU) po1.nx01.colo.trn1.itgate.net                                                                       
+   213.212.129.68  12779   277.788                  (Turin, Piedmont, IT, EU) it-trn-as12779.anchors.atlas.ripe.net                                                               

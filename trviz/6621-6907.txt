@@ -1,0 +1,16 @@
+   103.153.176.122 131657  0.0                       (Taipei, Taiwan, TW, AS) 103-153-176-122.as131657.net                                                                        
+   103.153.176.254 131657  0.228                     (Taipei, Taiwan, TW, AS) 103-153-176-254.as131657.net                                                                        
+╭─ 103.51.91.5     *       0.574                     (Taipei, Taiwan, TW, AS) et-0-0-1.cr1.hd.tpe.as131657.net                                                                    
+S (, 174)  seamewe-3 ✘ || apcn-2 ✘ || trans-pacific-express-tpe-cable-system ✘ || eac-c2c ✘ || faster ✘ || asia-pacific-gateway-apg ✘ || flag-north-asia-loopreach-north-asia-loop ✘ || new-cross-pacific-ncp-cable-system ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 66.28.4.233     174     30.752                      (Tokyo, Tokyo, JP, AS) be2012.ccr71.tyo01.atlas.cogentco.com                                                               
+S (174, 36249)  
+├─ 154.54.83.190   36249   30.869             (Dallas-Fort Worth, TX, US, NA) be2709.rcr01.b027338-0.dfw01.atlas.cogentco.com                                                     
+S (36249, 15133)  
+├─ 154.54.140.6    15133   30.743                      (Singapore, 4, SG, AS) edgecast.sin01.atlas.cogentco.com                                                                   
+S (15133, 3257)  
+╰─ 213.254.230.178 3257    281.305                        (Milan, 25, IT, EU) et-0-0-13.cr5-mil3.ip4.gtt.net                                                                      
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   185.25.205.152  60798   281.903                  (Milan, Lombardy, IT, EU) 152.205.25.185.servereasy.it                                                                        

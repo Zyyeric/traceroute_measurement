@@ -1,0 +1,23 @@
+   117.20.118.21   45498   0.0               (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     
+   117.20.118.17   45498   2.247             (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     
+   27.109.113.25   45498   1.186             (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     
+   27.109.113.4    45498   0.963             (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     
+   172.16.100.137  *       1.403                                          ***                                                                                                     
+   172.16.16.6     *       1.582                                          ***                                                                                                     
+╭─ 184.105.81.38   6939    38.869                     (Phnom Penh, 8, KH, AS) 100ge0-36.core1.pnh1.he.net                                                                         
+S (6939)  
+├─ 184.104.198.86  6939    36.71                        (Bangkok, 10, TH, AS) port-channel3.core1.bkk1.he.net                                                                     
+S&T (6939)  
+├─ 184.104.197.102 6939    38.599                  (Kuala Lumpur, 14, MY, AS) ve955.core1.kul1.he.net                                                                             
+S&T (6939)  
+├─ 184.105.223.133 6939    58.294              (Singapore, Singapore, SG, AS) port-channel22.core2.sin1.he.net                                                                    
+S (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.81.29   6939    186.179                       (Paris, IDF, FR, EU) port-channel8.core2.par2.he.net                                                                     
+   37.49.236.19    2200    193.458                       (Paris, IDF, FR, EU) renater.par.franceix.net                                                                            
+   193.51.177.239  2200    189.277                 (Rennes, Brittany, FR, EU) hu0-3-0-1-ren-nr-lyon2-rtr-091.noc.renater.fr                                                       
+   193.55.204.15   2200    189.295                     (Rennes, None, FR, EU) te0-3-0-0-ren-nr-rennes-rtr-091.noc.renater.fr                                                      
+   ***             *       -inf                                           *** *                                                                                                   
+   193.54.185.10   1942    188.927            (Épinay-sur-Seine, IDF, FR, EU) r-epn.grenet.fr                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   193.49.43.151   2200    189.034   (Grenoble, Auvergne-Rhône-Alpes, FR, EU)                                                                                                     

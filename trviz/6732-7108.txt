@@ -1,0 +1,39 @@
+   103.23.232.7    58475   0.0        (Banjarmasin, South Kalimantan, ID, AS)                                                                                                     
+   103.23.232.1    58475   0.288      (Banjarmasin, South Kalimantan, ID, AS)                                                                                                     
+   103.81.101.2    *       17.528     (Banjarmasin, South Kalimantan, ID, AS)                                                                                                     
+╭─ 103.78.235.1    132678  28.515                        (None, None, ID, AS) *                                                                                                   
+S (132678, 141682)  
+╰─ 103.161.244.201 141682  28.59                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+╭─ 103.161.244.41  141682  81.616                      (Tokyo, Tokyo, JP, AS)                                                                                                     
+S (141682, 35889)  
+├─ 103.161.244.33  35889   110.319                       (None, None, AU, OC) *                                                                                                   
+S (35889, 7660)  
+╰─ 203.181.249.110 7660    170.926                     (Tokyo, Tokyo, JP, AS)                                                                                                     
+╭─ 203.181.249.101 7660    171.605                       (None, None, JP, AS) tyo-mx10k-irb6.jp.apan.net                                                                          
+S (7660, 22388)  
+╰─ 192.203.115.129 22388   269.588                       (None, None, US, NA) ve-1451.rtr.seat.transpac.org                                                                       
+   207.231.240.8   11164   271.882                       (None, None, US, NA) abilene-1-lo-jmb-706.sttlwa.pacificwave.net                                                         
+   163.253.2.54    11164   344.803                       (None, None, US, NA) fourhundredge-0-0-0-16.4079.core1.seat.net.internet2.edu                                            
+   163.253.1.156   11164   343.605                       (None, None, US, NA) fourhundredge-0-0-0-0.4079.core1.salt.net.internet2.edu                                             
+   163.253.1.170   11164   344.823                       (None, None, US, NA) fourhundredge-0-0-0-0.4079.core1.denv.net.internet2.edu                                             
+   163.253.1.243   11164   345.124                       (None, None, US, NA) fourhundredge-0-0-0-0.4079.core1.kans.net.internet2.edu                                             
+   163.253.1.244   11164   345.001                       (None, None, US, NA) fourhundredge-0-0-0-3.4079.core2.chic.net.internet2.edu                                             
+   163.253.2.19    11164   344.897                       (None, None, US, NA) fourhundredge-0-0-0-3.4079.core2.eqch.net.internet2.edu                                             
+   163.253.2.16    11164   343.14                        (None, None, US, NA) fourhundredge-0-0-0-0.4079.core2.clev.net.internet2.edu                                             
+   163.253.1.138   11164   343.792                       (None, None, US, NA) fourhundredge-0-0-0-3.4079.core2.ashb.net.internet2.edu                                             
+╭─ 163.253.1.121   11164   344.764                   (Washington, DC, US, NA) fourhundredge-0-0-0-1.4079.core1.wash.net.internet2.edu                                             
+S (11164, 20965)  
+╰─ 62.40.124.44    20965   332.473                      (London, ENG, GB, EU) internet2-gw.mx1.lon.uk.geant.net                                                                   
+╭─ 62.40.98.65     20965   349.798                  (London, England, GB, EU) ae2.mx1.lon2.uk.geant.net                                                                           
+S&T (20965)  
+╰─ 62.40.98.107    20965   339.159                        (Madrid, M, ES, EU) ae0.mx1.mad.es.geant.net                                                                            
+╭─ 62.40.98.222    20965   350.42                      (Bilbao, None, ES, EU) ae4.rt1.bil.es.geant.net                                                                            
+S&T (20965)  
+├─ 62.40.127.183   20965   350.775               (Cambridge, England, GB, EU) rediris-ap2.bil.es.geant.net                                                                        
+S&T (20965, 766)  
+╰─ 130.206.245.17  766     362.24                        (None, None, ES, EU) EHU.RT2.ETHTRUNK2.telmad.rt1.mad.red.rediris.es                                                     
+   130.206.216.2   766     362.843                       (None, None, ES, EU) redimadrid-backup-router.red.rediris.es                                                             
+   193.145.15.50   766     363.289                       (None, None, ES, EU) uc3m-rt-ju-01-xe-0-1-0.net.redimadrid.es                                                            
+   ***             *       -inf                                           *** *                                                                                                   
+   163.117.49.4    766     364.191                       (Madrid, MD, ES, EU) b01014zr.uc3m.es                                                                                    
+   163.117.253.5   766     363.544                   (Madrid, Madrid, ES, EU)                                                                                                     

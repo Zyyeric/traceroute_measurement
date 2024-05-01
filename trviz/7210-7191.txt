@@ -1,0 +1,24 @@
+   117.20.118.21   45498   0.0               (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     
+   117.20.118.17   45498   2.145             (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     
+   27.109.113.25   45498   1.127             (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     
+   27.109.113.4    45498   1.086             (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     
+   172.16.100.137  *       1.377                                          ***                                                                                                     
+   172.16.16.6     *       1.377                                          ***                                                                                                     
+╭─ 184.105.81.38   6939    38.653                     (Phnom Penh, 8, KH, AS) 100ge0-36.core1.pnh1.he.net                                                                         
+S (6939)  
+├─ 184.104.198.86  6939    36.675                       (Bangkok, 10, TH, AS) port-channel3.core1.bkk1.he.net                                                                     
+S&T (6939)  
+├─ 184.104.197.102 6939    36.428                  (Kuala Lumpur, 14, MY, AS) ve955.core1.kul1.he.net                                                                             
+S&T (6939)  
+├─ 184.105.223.133 6939    37.238              (Singapore, Singapore, SG, AS) port-channel22.core2.sin1.he.net                                                                    
+S (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.223.253 6939    192.604                      (London, ENG, GB, EU) port-channel7.core3.lon2.he.net                                                                     
+╭─ 72.52.92.202    6939    197.694                  (Manchester, ENG, GB, EU) 100ge8-2.core1.man1.he.net                                                                          
+S&T (6939)  
+╰─ 72.52.92.198    6939    202.299                        (Dublin, D, IE, EU) 100ge0-33.core2.dub1.he.net                                                                         
+   185.6.36.106    47720   204.908                      (Dublin, L, IE, None) inex-dub1.as47720.net                                                                               
+   91.103.0.196    47720   205.492                          (Cork, M, IE, EU) *                                                                                                   
+   91.103.0.99     42953   206.55                           (Cork, M, IE, EU) *                                                                                                   
+   185.6.39.132    42953   204.792                    (Cork, Munster, IE, EU)                                                                                                     

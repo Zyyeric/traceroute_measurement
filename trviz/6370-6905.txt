@@ -1,0 +1,15 @@
+   103.253.132.25  59238   0.0                     (Bangkok, Bangkok, TH, AS) th-bkk-as59238.anchors.atlas.ripe.net                                                               
+   103.253.132.1   59238   0.661                (Khlong San, Bangkok, TH, AS) gw-cat.idc.inox.co.th                                                                               
+   172.24.132.101  *       0.285                                          ***                                                                                                     
+   61.19.60.166    *       0.881                (Khlong San, Bangkok, TH, AS)                                                                                                     
+╭─ 203.159.68.159  *       0.763 (2.556)              (Bangkok, Bangkok, TH, AS) as4134-chinatelecom-xe-1-2-ar0.bnbk.bknix.co.th                                                     
+S ()  asia-africa-europe-1-aae-1 ✘ || flag-europe-asia-fea ✘
+├─ 69.194.166.210  *       30.304              (Hong Kong, Hong Kong, HK, AS)                                                                                                     
+S (, 24173)  
+├─ 27.111.228.52   24173   29.917                    (Seogwipo, None, KR, AS) 24173.sgw.equinix.com                                                                               
+S (24173, 24176)  
+╰─ 210.86.233.17   24176   62.877     (Ho Chi Minh City, Ho Chi Minh, VN, AS) ci233-17.netnam.vn                                                                                  
+   210.86.233.30   24176   62.762     (Ho Chi Minh City, Ho Chi Minh, VN, AS) ci233-30.netnam.vn                                                                                  
+   210.86.232.101  24173   62.256                         (Hanoi, HN, VN, AS) ci232-101.netnam.vn                                                                                 
+   ***             *       -inf                                           *** *                                                                                                   
+   101.53.31.6     24173   63.758     (Ho Chi Minh City, Ho Chi Minh, VN, AS) ci53.31-6.netnam.vn                                                                                 

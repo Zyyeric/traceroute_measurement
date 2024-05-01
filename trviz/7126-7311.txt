@@ -1,0 +1,12 @@
+   23.155.72.145   64289   0.0              (Santa Clara, California, US, NA)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   10.10.10.0      *       0.244                                          ***                                                                                                     
+   206.197.187.12  *       1.115                (Fremont, California, US, NA) as6939.sfmix.org                                                                                    
+   72.52.92.245    6939    1.457                     (Farmington, CA, US, NA) 100ge4-2.core3.fmt2.he.net                                                                          
+╭─ 184.105.65.114  6939    1.573                       (San Jose, CA, US, NA) 100ge1-1.core1.sjc2.he.net                                                                          
+S (6939)  asia-america-gateway-aag-cable-system ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.208.93  6939    175.967             (Singapore, Singapore, SG, AS) true-internet-corporation-co-ltd.port-channel18.core3.sin1.he.net                                   
+S&T (6939, 137566)  asia-america-gateway-aag-cable-system ✓ || seamewe-4 ✓ || seamewe-3 ✓
+╰─ 103.113.176.82  137566  202.914       (Ban Talat Bueng, Chon Buri, TH, AS)                                                                                                     

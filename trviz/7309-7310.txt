@@ -1,0 +1,13 @@
+   38.47.189.189   140443  0.0           (Kuala Lumpur, Kuala Lumpur, MY, AS)                                                                                                     
+   38.47.189.1     140443  0.182         (Kuala Lumpur, Kuala Lumpur, MY, AS)                                                                                                     
+╭─ 38.47.188.2     140443  0.196         (Kuala Lumpur, Kuala Lumpur, MY, AS)                                                                                                     
+S&T (140443, 174)  indonesia-global-gateway-igg-system ✓ || palapa-ring-west ✓ || batam-dumai-melaka-bdm-cable-system ✘ || jasuka ✓ || seamewe-4 ✘ || seamewe-5 ✓ || seax-1 ✘ || asia-submarine-cable-express-asecahaya-malaysia ✓ || asia-america-gateway-aag-cable-system ✓ || batam-rengit-cable-system-brcs ✘ || apcn-2 ✓
+├  10.111.220.141  *       0.194 (6.468)                                     ***                                                                                                     
+├─ 154.18.19.209   174     6.727               (Singapore, Singapore, SG, AS) te0-8-0-2-7.201.ccr31.sin01.atlas.cogentco.com                                                      
+LHL (174)  seamewe-5 ✓ || seamewe-4 ✓ || peace-cable ✘ || seamewe-3 ✓
+╰─ 66.28.4.41      174     164.233            (Frankfurt am Main, HE, DE, EU) be2742.ccr41.fra03.atlas.cogentco.com                                                               
+╭─ 130.117.15.66   6762    161.89             (Frankfurt am Main, HE, DE, EU) telecomitalia.fra03.atlas.cogentco.com                                                              
+T (6762)  
+╰─ 195.22.218.199  6762    197.53                     (Palermo, None, IT, EU) ae1.palermo4.pal.seabone.net                                                                        
+   213.144.186.82  42473   195.546                      (Palermo, 82, IT, EU) dcr01.anx35.pmo.it.anexia-it.net                                                                    
+   37.252.253.18   42473   204.741                  (Palermo, Sicily, IT, EU)                                                                                                     

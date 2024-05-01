@@ -1,0 +1,15 @@
+   27.111.84.21    135132  0.0           (Cebu City, Central Visayas, PH, AS) ph-ceb-as135132.anchors.atlas.ripe.net                                                              
+   27.111.84.20    135132  1.17              (Baugo, Central Visayas, PH, AS) vlan509.core.ceb02.ds.network                                                                       
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 43.224.189.33   137074  2.1               (Baugo, Central Visayas, PH, AS) 43-224-189-33.static.rise.as                                                                        
+S (137074)  sea-us ✘ || pacific-light-cable-network-plcn ✘ || asia-america-gateway-aag-cable-system ✘
+╰─ 204.144.189.34  137074  142.994          (Los Angeles, California, US, NA)                                                                                                     
+╭─ 206.72.211.239  4764    143.6                  (Los Angeles, CA, US, None) 206.72.211.239.any2ix.coresite.com                                                                  
+S (4764, 9268)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  10.254.251.122  *       147.222                                        ***                                                                                                     
+├  10.254.251.52   *       209.029                                        ***                                                                                                     
+╰─ 119.17.170.244  9268    219.745          (Sydney, New South Wales, AU, OC) gen-119-17-170-244.ptr4.otw.net.au                                                                  

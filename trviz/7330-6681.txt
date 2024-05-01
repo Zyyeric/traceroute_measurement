@@ -1,0 +1,15 @@
+   103.77.105.3    133800  0.0                     (Jakarta, Jakarta, ID, AS) ip-3-105-77-103.jkt-1.biznetg.io                                                                    
+   ***             *       -inf                                           *** *                                                                                                   
+   137.59.127.33   *       0.439                   (Jakarta, Jakarta, ID, AS) xe-0-2.cr01.jkt.biznetg.io                                                                          
+   202.169.59.21   17451   2.525                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+╭─ 182.253.255.18  17451   1.15                    (Jakarta, Jakarta, ID, AS)                                                                                                     
+S&T (17451)  b2js-jakarta-bangka-batam-singapore-cable-system ✘ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || jasuka ✓
+╰─ 182.253.100.186 17451   12.735              (Singapore, Singapore, SG, AS) gs2-6.biznetnetworks.com                                                                            
+   184.104.199.150 6939    13.571              (Singapore, Singapore, SG, AS) port-channel1.core1.sin2.he.net                                                                     
+╭─ 103.16.102.81   6939    15.06                     (Singapore, 1, SG, None) hurricane-electric.sgix.sg                                                                          
+S (6939)  asia-america-gateway-aag-cable-system ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.223.226 6939    193.892                      (Phoenix, AZ, US, NA) ve960.core2.phx2.he.net                                                                             
+   206.72.211.56   *       189.141          (Los Angeles, California, US, NA) macarne.as64289.any2ix.coresite.com                                                                 
+   ***             *       -inf                                           *** *                                                                                                   
+   192.189.157.25  64289   185.391          (Los Angeles, California, US, NA)                                                                                                     

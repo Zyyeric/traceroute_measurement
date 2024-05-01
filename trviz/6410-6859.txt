@@ -1,0 +1,15 @@
+   209.195.0.34    6597    0.0                     (Atlanta, Georgia, US, NA)                                                                                                     
+   208.73.219.169  6597    0.602                   (Atlanta, Georgia, US, NA)                                                                                                     
+   208.73.216.130  6597    0.613                   (Atlanta, Georgia, US, NA) 100ge0-0-0-10.cr2.ag1.atl1.coloblox.net                                                             
+╭─ 216.66.23.17    6939    1.782                   (Atlanta, Georgia, US, NA) e0-2.switch1.atl8.he.net                                                                            
+S (6939)  
+├─ 184.104.197.53  6939    7.378                        (London, ENG, GB, EU) 100ge0-54.core3.lon2.he.net                                                                         
+S (6939)  
+├─ 184.104.198.70  6939    14.766                  (Jacksonville, FL, US, NA) port-channel1.core2.jax1.he.net                                                                     
+S (6939)  brusa ✓ || america-movil-submarine-cable-system-1-amx-1 ✓ || south-america-1-sam-1 ✓ || monet ✓ || globenet © || americas-ii ✓ || seabras-1 ✓
+╰─ 184.104.189.37  6939    117.349   (Rio de Janeiro, Rio de Janeiro, BR, SA) 100ge0-35.core1.rio1.he.net                                                                         
+   ***             *       -inf                                           *** *                                                                                                   
+   209.51.184.198  22548   123.943                       (None, None, BR, SA) ae0-0.gw1.nu.registro.br                                                                            
+   200.160.0.160   22548   125.983                       (None, None, BR, SA) xe-0-1-2-0.core1.nu.registro.br                                                                     
+   200.160.0.249   22548   125.768                       (None, None, BR, SA) ae0-0.ar3.nu.registro.br                                                                            
+   200.160.6.19    22548   124.359             (São Paulo, São Paulo, BR, SA) br-sao-as22548.anchors.atlas.ripe.net                                                               

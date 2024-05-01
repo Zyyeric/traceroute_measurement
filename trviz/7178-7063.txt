@@ -1,0 +1,18 @@
+   197.189.194.147 37153   0.0                (Johannesburg, Gauteng, ZA, AF) atlas-anchor-jnb1.jnb.net.host-h.net                                                                
+   197.189.194.145 37153   0.171 (6.062)         (Johannesburg, Gauteng, ZA, AF)                                                                                                     
+   197.189.193.2   37153   0.341              (Johannesburg, Gauteng, ZA, AF) core-router1.jnb1.host-h.net                                                                        
+   41.66.132.241   37179   0.404              (Johannesburg, Gauteng, ZA, AF) 41-66-132-241-f1.customer.xe-0-0-2-gp-sm-het-mee-1.africainx.net                                    
+   41.84.12.109    37179   1.789              (Johannesburg, Gauteng, ZA, AF) core.ge-0-1-0-gp-id-pbr-1.za.africainx.net                                                          
+   105.25.146.5    37100   1.342              (Johannesburg, Gauteng, ZA, AF)                                                                                                     
+╭─ 105.16.29.2     37100   150.408                 (Johannesburg, GT, ZA, AF) ce-0-3-0-0.cr-02-jnb.za.seacomnet.com                                                               
+S (37100)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 105.25.160.166  37100   152.214   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) ce-0-0-13.cr-02-mrs.fr.seacomnet.com                                                                
+   105.16.33.254   37100   152.34                    (Marseille, PAC, FR, EU) xe-0-0-1-0.br-01-mrs.fr.seacomnet.com                                                               
+╭─ 212.133.4.69    3356    154.31    (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) et-1-0-28.edge4.marseille1.level3.net                                                               
+S&T (3356)  
+╰─ 171.75.8.197    3356    177.052                  (London, England, GB, EU) ae1.3117.ear4.lon1.neo.colt.net                                                                     
+╭─ 212.113.14.250  25003   170.048                     (London, None, GB, EU) IB.edge5.London1.Level3.net                                                                         
+T (25003)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 94.188.255.2    25003   225.811              (Bnei Brak, Tel Aviv, IL, AS) 255.188.94-binat-smaug.in-addr.arpa                                                                 

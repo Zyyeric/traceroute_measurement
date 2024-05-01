@@ -1,0 +1,11 @@
+   212.7.0.250     8728    0.0                    (Tallinn, Harjumaa, EE, EU) ee-tll-as8728.anchors.atlas.ripe.net                                                                
+   212.7.0.253     8728    0.277                  (Tallinn, Harjumaa, EE, EU)                                                                                                     
+   212.7.30.42     8728    0.591                  (Tallinn, Harjumaa, EE, EU) c-30-42.infonet.ee                                                                                  
+╭─ 212.7.29.137    8728    1.1                         (Tallinn, 1, EE, None) *                                                                                                   
+S&T (8728, 12552)  sweden-estonia-ee-s-1 ✘ || baltic-sea-submarine-cable ✘
+├─ 194.68.123.92   12552   6.69                     (Stockholm, 26, SE, None) netnod-ix-ge-a-sth-1500.ip-only.net                                                                 
+S&T (12552, 16302)  eastern-light ✘ || bcs-north---phase-1 ✓ || sweden-finland-4-sfs-4 ✓ || baltic-sea-submarine-cable ✘ || botnia ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 62.209.167.74   16302   14.071                      (Helsinki, 18, FI, EU) *                                                                                                   
+   77.246.204.230  203296  14.182                      (Helsinki, 18, FI, EU) gw-l1.dei.fi                                                                                        
+   185.139.168.19  203296  14.563                 (Helsinki, Uusimaa, FI, EU) fi-hel-as203296.anchors.atlas.ripe.net                                                              

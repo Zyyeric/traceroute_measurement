@@ -1,0 +1,13 @@
+   80.67.181.29    204059  0.0           (Brussels, Brussels Capital, BE, EU) be-bru-as204059.anchors.atlas.ripe.net                                                              
+   ***             *       -inf                                           *** *                                                                                                   
+   80.67.181.2     204059  1.365                      (Brussels, BRU, BE, EU) edge-02.louise.neutri.net                                                                           
+╭─ 185.1.127.23    *       2.325                 (Nossegem, Flanders, BE, EU) he.belgiumix.net                                                                                    
+S&T (, 6939)  seamewe-3 ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.105.81.30   6939    19.669                    (Marseille, PAC, FR, EU) port-channel4.core2.mrs1.he.net                                                                     
+S (6939, 7642)  seamewe-5 ✓ || peace-cable ✘ || seamewe-4 ✓ || seamewe-3 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 74.82.51.50     7642    201.546                     (Singapore, 4, SG, AS) dhivehi-raajjeyge-gulhan-plc.10gigabitethernet1-1-28.switch2.sin1.he.net                            
+S (7642)  
+╰─ 202.1.205.242   7642    198.335                       (None, None, MV, AS) xe-1-0-0-1.rt.dhivehinet.net.mv                                                                     
+   123.176.1.4     7642    201.868                (Male, Kaafu Atoll, MV, AS)                                                                                                     

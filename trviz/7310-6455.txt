@@ -1,0 +1,14 @@
+   104.238.161.230 20473   0.0                          (Ōi, Saitama, JP, AS) 104.238.161.230.vultrusercontent.com                                                                
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   10.71.1.9       *       1.293                                          ***                                                                                                     
+   10.71.3.25      *       7.925                                          ***                                                                                                     
+   10.71.4.37      *       1.167                                          ***                                                                                                     
+╭─ 210.173.176.139 9002    1.492                        (Tokyo, 40, JP, None) *                                                                                                   
+S (9002)  apcn-2 ✓ || eac-c2c ✓ || asia-pacific-gateway-apg ✓
+╰─ 87.245.234.154  9002    81.33                       (Singapore, 4, SG, AS) ae5-8.RT1.EQX.SIN.SG.retn.net                                                                       
+╭─ 87.245.231.201  9002    73.026              (Singapore, Singapore, SG, AS) gw-as140443.retn.net                                                                                
+S&T (9002, 140443)  
+├  10.111.220.142  *       80.565                                         ***                                                                                                     
+╰─ 38.47.188.1     140443  80.601        (Kuala Lumpur, Kuala Lumpur, MY, AS)                                                                                                     
+   38.47.189.189   140443  81.098        (Kuala Lumpur, Kuala Lumpur, MY, AS)                                                                                                     

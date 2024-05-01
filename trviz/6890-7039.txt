@@ -1,0 +1,21 @@
+   103.170.232.152 142616  0.0                         (Tokyo, Tokyo, JP, AS) user-103-170-232-152.nrt04.jp.misaka.io                                                             
+   103.170.232.11  142616  0.187                       (Tokyo, Tokyo, JP, AS) po-31.lag.nrt04.jp.misaka.io                                                                        
+   103.170.232.3   142616  0.225                       (Tokyo, Tokyo, JP, AS) spine2.nrt04.jp.misaka.io                                                                           
+   199.119.64.138  969     0.207                       (Tokyo, Tokyo, JP, AS) e54-10.cr1a.eqty8.nrt4.jp.917.as                                                                    
+   160.202.164.140 137409  0.256                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+   206.148.24.36   7578    0.215                       (Tokyo, Tokyo, JP, AS) po50-3.ty-eqxty8-cr3.globalsecurelayer.com                                                          
+   206.148.24.48   7578    0.293                       (Tokyo, Tokyo, JP, AS) po3.ty-eqxty8-bb5.globalsecurelayer.com                                                             
+╭─ 206.148.24.50   7578    0.28                        (Tokyo, Tokyo, JP, AS) e52.ty-eqxty8-bb5.globalsecurelayer.com                                                             
+S (7578)  japan-u-s-cable-network-jus ✘ || tata-tgn-pacific ✘ || pacific-crossing-1-pc-1 ✘ || faster ✘ || jupiter ✘
+╰─ 206.148.25.85   7578    97.743           (Los Angeles, California, US, NA) e50.lax-csla2-bb1.globalsecurelayer.com                                                             
+   206.148.25.90   7578    97.815           (Los Angeles, California, US, NA) e19.lax-csla2-bb5.globalsecurelayer.com                                                             
+   206.148.25.7    7578    126.976              (Seattle, Washington, US, NA) e50.sea-drtsea10-bb1.globalsecurelayer.com                                                          
+   206.148.25.16   7578    126.83               (Seattle, Washington, US, NA) po10.sea-drtsea10-cr1.globalsecurelayer.com                                                         
+   206.81.83.146   *       126.854              (Seattle, Washington, US, NA) v4-mtu9k-six.globalsecurelayer.com                                                                  
+╭─ 206.81.81.177   852     116.786                    (Seattle, WA, US, None) six2.bb.telus.com                                                                                   
+S&T (852)  
+╰─ 96.1.214.149    852     120.059                       (None, None, CA, NA) *                                                                                                   
+   209.121.102.129 14007   129.522                       (Surrey, BC, CA, NA) *                                                                                                   
+   216.251.132.66  14007   129.573                        (Delta, BC, CA, NA) tranAvan2.skywaywest.net                                                                            
+   216.251.158.65  395152  129.699              (North Vancouver, BC, CA, NA) *                                                                                                   
+   192.102.254.220 395152  129.972      (Vancouver, British Columbia, CA, NA)                                                                                                     

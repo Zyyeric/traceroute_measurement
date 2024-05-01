@@ -1,0 +1,20 @@
+   196.49.15.189   328998  0.0              (Kampala, Central Region, UG, AF)                                                                                                     
+   196.49.15.253   328998  0.237            (Kampala, Central Region, UG, AF)                                                                                                     
+   41.191.77.205   37063   0.534            (Kampala, Central Region, UG, AF)                                                                                                     
+   129.205.30.77   37063   0.702                         (Kampala, C, UG, AF) *                                                                                                   
+╭─ 212.88.110.33   20294   0.635 (1.852)       (Kampala, Central Region, UG, AF)                                                                                                     
+LHL (20294, 16637)  
+╰─ 41.181.247.38   16637   151.558                  (London, England, GB, EU)                                                                                                     
+╭─ 41.181.244.177  16637   151.543                  (London, England, GB, EU)                                                                                                     
+T (16637)  
+╰─ 41.181.190.150  16637   152.126                     (Pretoria, GP, ZA, AF) *                                                                                                   
+╭─ 41.181.189.64   16637   152.186                     (Pretoria, GP, ZA, AF) *                                                                                                   
+T (16637, 6939)  
+├─ 184.104.205.252 6939    152.842                  (London, England, GB, EU) e0-45.core1.lon3.he.net                                                                             
+S&T (6939, )  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 193.201.149.156 *       161.515       (Saint-Denis, Île-de-France, FR, EU) as204092.fnc-ix.net                                                                                 
+   89.234.186.43   204092  171.969                       (None, None, FR, EU) eth1.33.asbr02.cogent-rns.grifon.fr                                                                 
+   89.234.186.42   204092  172.936                 (Rennes, Brittany, FR, EU) hv03.cogent-rns.bb.grifon.fr                                                                        
+   80.67.190.218   204092  173.778                 (Rennes, Brittany, FR, EU) ripe-anchor.grifon.fr                                                                               

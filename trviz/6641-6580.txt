@@ -1,0 +1,16 @@
+   103.40.209.7    63834   0.0                         (Tokyo, Tokyo, JP, AS)                                                                                                     
+   103.40.209.3    63834   0.145                     (Urayasu, Tokyo, JP, AS)                                                                                                     
+   10.255.194.66   *       0.195                                          ***                                                                                                     
+╭─ 61.213.169.9    2914    4.024                       (Tokyo, Tokyo, JP, AS) ge-103-0-0-27.r02.tokyjp05.jp.bb.gin.ntt.net                                                        
+S (2914)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 129.250.7.54    2914    3.199                         (None, None, US, NA) ae-0.a01.tokyjp09.jp.bb.gin.ntt.net                                                                 
+S (2914, 3356)  
+├─ 4.68.75.129     3356    3.146                          (Tokyo, 13, JP, AS) ae-13.edge2.Tokyo4.Level3.net                                                                       
+S (3356)  
+├─ 4.69.134.42     3356    33.488                        (None, None, US, NA) *                                                                                                   
+S (3356, 199524)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 45.80.212.34    199524  36.694                      (Seoul, Seoul, KR, AS) vrrp.gcore.com                                                                                      
+   92.38.135.131   202422  36.718                      (Seoul, Seoul, KR, AS)                                                                                                     

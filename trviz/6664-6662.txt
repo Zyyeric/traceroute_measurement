@@ -1,0 +1,31 @@
+   5.188.168.94    202422  0.0               (Bahçelievler, Istanbul, TR, AS)                                                                                                     
+   5.188.168.3     202422  0.331                 (Istanbul, Istanbul, TR, AS) vrrp.gcore.lu                                                                                       
+   10.255.20.182   *       0.487                                          ***                                                                                                     
+   10.255.20.177   *       0.419                                          ***                                                                                                     
+   149.14.44.65    174     0.784                 (Istanbul, Istanbul, TR, AS) be5099.agr21.ist01.atlas.cogentco.com                                                               
+╭─ 154.54.74.205   174     0.879                 (Istanbul, Istanbul, TR, AS) be3510.rcr71.ist01.atlas.cogentco.com                                                               
+S (174)  
+├─ 154.54.74.226   174     9.664                          (Lyon, ARA, FR, EU) be2881.rcr21.lys01.atlas.cogentco.com                                                               
+LHL (174)  
+├─ 130.117.0.94    174     14.642                       (Belgrade, 0, RS, EU) be3421.ccr51.beg03.atlas.cogentco.com                                                               
+T (174)  
+├─ 130.117.0.125   174     20.04                       (Budapest, PE, HU, EU) be3422.ccr31.bud01.atlas.cogentco.com                                                               
+T (174)  
+├─ 154.54.59.177   174     22.281                    (Bratislava, BL, SK, EU) be3263.ccr22.bts01.atlas.cogentco.com                                                               
+T (174)  
+├─ 154.54.59.185   174     27.395                         (Vienna, 9, AT, EU) be3463.ccr52.vie01.atlas.cogentco.com                                                               
+T (174)  
+├─ 154.54.59.182   174     31.544                        (Munich, BY, DE, EU) be3462.ccr22.muc03.atlas.cogentco.com                                                               
+T (174)  
+├─ 154.54.63.222   174     41.542                   (Milan, Lombardy, IT, EU) be3814.rcr21.mil01.atlas.cogentco.com                                                               
+S&T (174)  
+├─ 154.54.74.165   174     49.564                    (Marseille, PAC, FR, EU) be2864.ccr31.mrs02.atlas.cogentco.com                                                               
+S&T (174, 3356)  
+├─ 149.14.125.202  3356    49.581                        (Madrid, MD, ES, EU) *                                                                                                   
+LHL (3356, 8551)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 62.219.189.186  8551    88.28                 (Rishon LeZiyyon, M, IL, AS) bzq-219-189-186.cablep.bezeqint.net                                                                 
+   82.81.82.2      8551    85.198                (Tel Aviv, Tel Aviv, IL, AS) bzq-82-81-82-2.red.bezeqint.net                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   146.185.219.73  202422  85.952     (Petaẖ Tiqva, Central District, IL, AS)                                                                                                     

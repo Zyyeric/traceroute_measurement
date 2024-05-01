@@ -1,0 +1,18 @@
+   202.70.133.25   140443  0.0                 (Singapore, Singapore, SG, AS) 25.133.70.202.in-addr.herza.id                                                                      
+   202.70.133.1    140443  0.156               (Singapore, Singapore, SG, AS) 1.133.70.202.in-addr.herza.id                                                                       
+╭─ 202.70.132.1    140443  0.321               (Singapore, Singapore, SG, AS) 1.132.70.202.in-addr.herza.id                                                                       
+S (140443, 137409)  
+├  10.111.222.206  *       0.33                                           ***                                                                                                     
+├─ 27.111.229.213  137409  0.785                     (Seogwipo, None, KR, AS) 137409.sgw.equinix.com                                                                              
+S (137409, 7578)  
+╰─ 31.217.251.74   7578    0.846               (Singapore, Singapore, SG, AS) unknown.globalsecurelayer.com                                                                       
+╭─ 160.202.164.165 137409  1.057               (Singapore, Singapore, SG, AS)                                                                                                     
+S (137409, 8529)  
+╰─ 213.202.6.228   8529    71.921                    (Muscat, Muscat, OM, AS)                                                                                                     
+╭─ 213.202.1.189   8529    117.642                   (Muscat, Muscat, OM, AS)                                                                                                     
+S&T (8529, 42961)  
+├─ 151.248.98.137  42961   117.889                       (None, None, BH, AS) *                                                                                                   
+S (42961)  
+├  10.32.1.106     *       120.826                                        ***                                                                                                     
+├  10.32.1.109     *       120.776                                        ***                                                                                                     
+╰─ 212.43.17.42    42961   120.443     (Al Farwānīyah, Al Farwaniyah, KW, AS)                                                                                                     

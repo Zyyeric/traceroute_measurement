@@ -1,0 +1,24 @@
+   45.87.76.6      208725  0.0           (Brussels, Brussels Capital, BE, EU) ansible.devrandom.be                                                                                
+   45.87.79.251    208725  0.226         (Brussels, Brussels Capital, BE, EU) router01.sw1.core.devrandom.be                                                                      
+   45.87.79.249    208725  0.173         (Brussels, Brussels Capital, BE, EU) router03.core.devrandom.be                                                                          
+   109.68.160.66   39923   0.274         (Brussels, Brussels Capital, BE, EU) xe-10-2-1.br20.zav.as39923.net                                                                      
+╭─ 213.246.245.217 8220    1.376                 (Nossegem, Flanders, BE, EU) pw-ether94.3030-lo0-sr2.bru.router.colt.net                                                         
+S&T (8220, 1273)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 80.249.209.144  1273    4.531                       (Schiphol, NH, NL, EU) amsix.xcr1.att.cw.net                                                                               
+S&T (1273)  circe-north ✓ || ulysses-2 ✘ || scylla ✘ || zeus ✓ || atlantic-crossing-1-ac-1 ✓ || concerto ✘ || farland-north ✘
+├─ 195.2.20.73     1273    37.231                        (None, None, GB, EU) ae0-pcr1.aet.cw.net                                                                                 
+T (1273)  
+├─ 195.2.27.253    1273    37.106          (Frankfurt am Main, Hesse, DE, EU) ae14-tcr1.fis.cw.net                                                                                
+T (1273)  
+├─ 195.2.10.54     1273    20.007                   (Milan, Lombardy, IT, EU) ae13-xcr1.mlu.cw.net                                                                                
+S&T (1273)  
+├─ 195.2.16.2      1273    36.998                        (None, None, GB, EU) ae23.0-xcr1.sof.cw.net                                                                              
+S&T (1273, 3329)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 62.74.30.101    3329    47.827                         (Athens, I, GR, EU) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   62.74.226.30    12361   58.182                    (Athens, Attica, GR, EU) dumy30.panafonet.gr                                                                                 
+   ***             *       -inf                                           *** *                                                                                                   
+   139.91.68.3     8522    53.229                  (Irákleion, Crete, GR, EU)                                                                                                     

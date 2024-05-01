@@ -1,0 +1,25 @@
+   143.129.80.132  2611    0.0                  (Antwerpen, Flanders, BE, EU)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   143.129.67.252  2611    0.935                  (Berchem, Flanders, BE, EU)                                                                                                     
+   192.168.141.40  *       2.105                                          ***                                                                                                     
+   192.168.148.101 *       2.283                                          ***                                                                                                     
+   193.191.18.9    2611    2.302                  (Berchem, Flanders, BE, EU) r1.antwil.belnet.net                                                                                
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 194.53.172.33   6939    4.173                    (Brussels, BRU, BE, None) he.bnix.net                                                                                         
+T (6939)  
+├─ 188.93.170.43   6939    8.176                   (Luxembourg, LU, LU, None) as6939.members.lu-cix.lu                                                                            
+T (6939)  
+├─ 184.104.194.105 6939    11.634          (Frankfurt am Main, Hesse, DE, EU) 100ge0-38.core3.fra1.he.net                                                                         
+LHL (6939)  apollo ✓ || flag-atlantic-1-fa-1 ✓
+├─ 72.52.92.70     6939    11.854                      (San Jose, CA, US, NA) 10ge7-5.core1.sjc2.he.net                                                                           
+LHL (6939)  
+├─ 184.105.223.110 6939    16.632                        (Munich, BY, DE, EU) 100ge0-33.core2.muc1.he.net                                                                         
+T (6939)  apollo ✓ ↠ apollo ✓ || apollo ✓ ↠ flag-atlantic-1-fa-1 ✓ || flag-atlantic-1-fa-1 ✓ ↠ apollo ✓ || flag-atlantic-1-fa-1 ✓ ↠ flag-atlantic-1-fa-1 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.105.65.134  6939    35.09                          (Sofia, 23, BG, EU) 100ge10-1.core1.sof1.he.net                                                                         
+T (6939)  
+╰─ 184.105.64.170  6939    46.225                        (Athens, A1, GR, EU) 100ge0-36.core1.ath1.he.net                                                                         
+   184.104.191.234 6939    46.595                    (Koropí, Attica, GR, EU) fast-telecom-p-c.e0-7.core1.ath1.he.net                                                             
+   ***             *       -inf                                           *** *                                                                                                   
+   185.14.96.225   211186  52.217             (Lamía, Central Greece, GR, EU) vlan4090.lamia.fast.net.gr                                                                          
+   185.14.96.232   211186  61.573             (Lamía, Central Greece, GR, EU)                                                                                                     

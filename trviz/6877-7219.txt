@@ -1,0 +1,11 @@
+   102.219.127.20  37468   0.0                 (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 102.219.127.17  37468   0.385               (Singapore, Singapore, SG, AS)                                                                                                     
+S (37468, 8220)  
+├─ 27.111.229.123  8220    0.597                     (Seogwipo, None, KR, AS) 8220.sgw.equinix.com                                                                                
+S (8220)  
+├─ 193.114.170.221 8220    238.528                       (None, None, GB, EU) *                                                                                                   
+S&T (8220, 39923)  
+╰─ 213.246.245.218 39923   238.186                    (Brussels, BRU, BE, EU) *                                                                                                   
+   109.68.160.65   39923   238.387       (Brussels, Brussels Capital, BE, EU) devrandom1.customer.unix-solutions.be                                                               
+   45.87.79.251    208725  236.812       (Brussels, Brussels Capital, BE, EU) router01.sw1.core.devrandom.be                                                                      
+   45.87.76.6      208725  236.824       (Brussels, Brussels Capital, BE, EU) ansible.devrandom.be                                                                                

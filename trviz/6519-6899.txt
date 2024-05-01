@@ -1,0 +1,19 @@
+   204.8.154.50    10961   0.0                (Boston, Massachusetts, US, NA) cs-atlas.bu.edu                                                                                     
+   128.197.255.155 111     0.878              (Boston, Massachusetts, US, NA)                                                                                                     
+   128.197.255.152 111     0.76               (Boston, Massachusetts, US, NA)                                                                                                     
+   128.197.254.118 111     2.764              (Boston, Massachusetts, US, NA) comm595-bdr-gw01-gi1-1-cumm111-core-aca01-gi2-7.bu.edu                                              
+   ***             *       -inf                                           *** *                                                                                                   
+   184.104.199.78  6939    6.979              (Boston, Massachusetts, US, NA) port-channel1.core1.bos2.he.net                                                                     
+   184.104.194.87  6939    6.446              (Boston, Massachusetts, US, NA) 100ge0-40.core2.bos1.he.net                                                                         
+╭─ 184.104.199.222 6939    6.344            (New York City, New York, US, NA) port-channel1.core2.nyc4.he.net                                                                     
+S (6939)  exa-north-and-south ✓ || atlantic-crossing-1-ac-1 ✓ || yellow ✓ || apollo ✓ || tata-tgn-atlantic ✓ || flag-atlantic-1-fa-1 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.192.134 6939    74.271                       (London, ENG, GB, EU) 100ge0-35.core3.lon1.he.net                                                                         
+   216.66.84.218   4455    73.805                       (London, ENG, GB, EU) ixreach-ltd.10gigabitethernet8-1.core1.lon1.he.net                                                  
+   91.196.184.176  4455    73.955                       (London, ENG, GB, EU) ae0-3132.bb.thn.lon.as43531.net                                                                     
+   31.217.131.65   4455    80.756                    (Liverpool, ENG, GB, EU) *                                                                                                   
+   31.217.131.66   41495   86.09                     (Liverpool, ENG, GB, EU) *                                                                                                   
+   46.227.206.85   41495   86.012               (Manchester, England, GB, EU) core0100.bond160.gagarin.a.faelix.net                                                               
+   46.227.206.42   41495   86.372                 (Didsbury, England, GB, EU) legacy.a.faelix.net                                                                                 
+   46.227.202.97   41495   86.6                 (Manchester, England, GB, EU) uk-mnc-as41495.anchors.atlas.ripe.net                                                               

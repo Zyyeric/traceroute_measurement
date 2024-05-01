@@ -1,0 +1,22 @@
+   182.161.74.241  55569   0.0                         (Tokyo, Tokyo, JP, AS)                                                                                                     
+   182.161.74.240  55569   0.105                     (Urayasu, Tokyo, JP, AS)                                                                                                     
+   100.66.0.44     *       0.215                                          ***                                                                                                     
+   100.66.0.43     *       0.27                                           ***                                                                                                     
+╭─ 210.57.79.10    4637    1.989                 (Kawasaki, Kanagawa, JP, AS) unknown.telstraglobal.net                                                                           
+S (4637)  apcn-2 👍 || eac-c2c 👍 || asia-pacific-gateway-apg ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 202.84.140.189  4637    59.929              (Hong Kong, Hong Kong, HK, AS) i-45257.hkth-core03.telstraglobal.net                                                               
+   202.84.153.26   4637    56.12     (Hong Kong, Central and Western, HK, AS)                                                                                                     
+╭─ 210.57.53.25    6453    55.561                        (None, None, HK, AS) unknown.telstraglobal.net                                                                           
+S (6453)  apcn-2 👍 || southeast-asia-japan-cable-sjc ✓ || seamewe-3 👍 || eac-c2c ✓ || asia-pacific-gateway-apg ✓ || tata-tgn-intra-asia-tgn-ia 👍 || asia-submarine-cable-express-asecahaya-malaysia ✓ || asia-america-gateway-aag-cable-system ✓
+├─ 116.0.93.144    6453    111.174                       (None, None, SG, AS) *                                                                                                   
+S&T (6453)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 180.87.36.82    6453    110.717                      (Chennai, TN, IN, AS) if-ae-13-2.tcore1.cxr-chennai.as6453.net                                                            
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   115.114.12.186  4755    144.74                      (Delhi, Delhi, IN, AS) 115.114.12.186.static-delhi.vsnl.net.in                                                             
+   180.179.197.214 17439   147.027                       (None, None, IN, AS) *                                                                                                   
+   180.179.210.68  132420  149.016                       (None, None, IN, AS) 180-179-210-68.static.e2enetworks.in                                                                
+   216.48.178.84   132420  149.337             (Noida, Uttar Pradesh, IN, AS) e2e-95-84.ssdcloudindia.net                                                                         

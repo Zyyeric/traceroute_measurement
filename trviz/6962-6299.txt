@@ -1,0 +1,16 @@
+   197.239.73.59   37577   0.0                  (Ouagadougou, Centre, BF, AF)                                                                                                     
+   197.239.73.57   37577   0.514                (Ouagadougou, Centre, BF, AF)                                                                                                     
+   165.16.221.42   37721   0.871                         (None, None, BF, AF) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   102.67.97.181   37721   1.482                (Ouagadougou, Centre, BF, AF) ce5-355.bb2.oua2.vts.bf                                                                             
+   102.67.96.144   37721   8.46                 (Ouagadougou, Centre, BF, AF) po100-2044.bb1.boy1.vts.bf                                                                          
+╭─ 102.67.97.36    37721   19.938               (Ouagadougou, Centre, BF, AF)                                                                                                     
+LHL (37721)  west-africa-cable-system-wacs ✓ || africa-coast-to-europe-ace ✓ || mainone ✘ || sat-3wasc ✓
+├─ 102.67.96.245   37721   110.038                   (Lisbon, Lisbon, PT, EU) et-0-0-1-2035.bb1.lis1.vts.bf                                                                       
+S&T (37721)  europe-india-gateway-eig ✓ || seamewe-3 ✓
+╰─ 102.67.96.26    37721   131.288                  (London, England, GB, EU) xe-0-0-1-2034.bb1.lon1.vts.bf                                                                       
+   102.67.96.10    37721   131.96                       (London, ENG, GB, EU) xe-0-0-2-41.br2.lon1.vts.bf                                                                         
+╭─ 195.66.237.104  15802   133.369                    (London, ENG, GB, None) *                                                                                                   
+S&T (15802)  europe-india-gateway-eig ✓ || seamewe-3 ✓ || flag-europe-asia-fea ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 94.203.76.219   15802   283.112                     (Dubai, Dubai, AE, AS)                                                                                                     

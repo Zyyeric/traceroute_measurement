@@ -1,0 +1,20 @@
+   103.102.166.20  14907   0.0                 (Singapore, Singapore, SG, AS) ripe-atlas-eqsin.wikimedia.org                                                                      
+╭─ 103.102.166.19  14907   0.278               (Singapore, Singapore, SG, AS) ae1-530.cr2-eqsin.wikimedia.org                                                                     
+S (14907)  
+├─ 103.102.166.140 14907   0.325                         (None, None, US, NA) ae0.cr3-eqsin.wikimedia.org                                                                         
+S (14907)  
+╰─ 103.102.166.145 14907   0.431               (Singapore, Singapore, SG, AS) singtel-peering.cr3-eqsin.wikimedia.org                                                             
+   203.208.151.49  7473    0.718               (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 203.208.151.38  7473    0.754               (Singapore, Singapore, SG, AS)                                                                                                     
+S&T (7473, 4761)  
+├─ 203.208.169.242 4761    1.885                         (None, None, IN, AS) *                                                                                                   
+S&T (4761, 1299)  
+╰─ 213.248.100.178 1299    0.973               (Singapore, Singapore, SG, AS) snge-b4-link.ip.twelve99.net                                                                        
+   62.115.166.145  1299    1.925               (Singapore, Singapore, SG, AS) telekomunikasi-ic-340287.ip.twelve99-cust.net                                                       
+   180.240.204.137 7713    3.038               (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 180.240.204.137 7713    3.038               (Singapore, Singapore, SG, AS)                                                                                                     
+S&T (7713)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 36.93.255.177   7713    21.379                       (Batam, Riau, ID, AS)                                                                                                     
+   36.93.255.178   58475   20.061                        (None, None, ID, AS) *                                                                                                   
+   103.23.232.7    58475   20.494     (Banjarmasin, South Kalimantan, ID, AS)                                                                                                     

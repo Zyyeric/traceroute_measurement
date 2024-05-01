@@ -1,0 +1,19 @@
+   182.18.209.9    23944   0.0                 (Manila, Metro Manila, PH, AS)                                                                                                     
+   182.18.209.1    23944   1.163          (Quezon City, Metro Manila, PH, AS) 209-182.gw.skybroadband.com.ph                                                                      
+   172.31.31.4     *       0.444                                          ***                                                                                                     
+╭─ 184.104.188.51  6939    16.729         (Quezon City, Metro Manila, PH, AS) 10ge0-8.core1.mnl1.he.net                                                                           
+S (6939)  
+├─ 184.104.212.73  6939    16.359              (Hong Kong, Hong Kong, HK, AS) e0-20.switch1.hkg1.he.net                                                                           
+S (6939, 4826)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 27.50.33.202    4826    38.871                      (Singapore, 4, SG, AS) vocus.gigabitethernet2-15.core1.sin1.he.net                                                         
+S (4826)  
+╰─ 114.31.206.50   4826    141.173                       (None, None, AU, OC) be100.cor01.per04.wa.vocus.network                                                                  
+   103.1.77.96     4826    146.488                       (None, None, AU, OC) be200.lsr01.stpk.wa.vocus.network                                                                   
+   103.1.76.144    4826    146.674                       (None, None, AU, OC) be803.lsr01.brdg.nsw.vocus.network                                                                  
+   103.1.76.136    4826    146.497                       (None, None, AU, OC) be801.lsr01.bris.qld.vocus.network                                                                  
+   103.1.77.189    4826    143.705                    (Brisbane, QLD, AU, OC) be203.bdr01.bne11.qld.vocus.network                                                                 
+   114.31.194.39   4826    145.803                    (Brisbane, QLD, AU, OC) be104.bdr02.bne05.qld.vocus.network                                                                 
+   123.103.192.110 4608    155.327                    (Brisbane, QLD, AU, OC) ip-110.192.103.123.VOCUS.net.au                                                                     
+   203.119.104.61  4608    156.276             (Brisbane, Queensland, AU, OC)                                                                                                     
+   203.119.111.139 4608    155.026             (Brisbane, Queensland, AU, OC) anchor.apnic.net                                                                                    

@@ -1,0 +1,18 @@
+   192.168.0.130   *       0.0                                            ***                                                                                                     
+   192.168.0.1     *       0.184                                          ***                                                                                                     
+   172.16.254.1    *       0.308                                          ***                                                                                                     
+   192.168.1.1     *       0.675                                          ***                                                                                                     
+   10.98.238.18    *       0.573 (4.586)                                     ***                                                                                                     
+   10.0.0.170      *       7.471                                          ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   81.212.216.50   9121    5.34               (Sultanbeyli, Istanbul, TR, AS) 34-acibadem-xrs-t2-1---34-acibadem-sr12e-t3-8.statik.turktelekom.com.tr                             
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 212.156.141.26  9121    47.493                    (Ankara, Ankara, TR, AS) 306-mil-col-1---34-ebgp-acibadem-sr12e-k.statik.turktelekom.com.tr                                  
+S&T (9121, 3356)  
+├─ 213.249.105.169 3356    46.137                   (Milan, Lombardy, IT, EU) ae51.edge1.milan1.level3.net                                                                        
+S&T (3356, 25003)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 212.113.14.250  25003   70.645                      (London, None, GB, EU) IB.edge5.London1.Level3.net                                                                         
+T (25003)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 94.188.255.2    25003   126.141              (Bnei Brak, Tel Aviv, IL, AS) 255.188.94-binat-smaug.in-addr.arpa                                                                 

@@ -1,0 +1,19 @@
+   27.111.84.21    135132  0.0           (Cebu City, Central Visayas, PH, AS) ph-ceb-as135132.anchors.atlas.ripe.net                                                              
+   27.111.84.20    135132  2.4               (Baugo, Central Visayas, PH, AS) vlan509.core.ceb02.ds.network                                                                       
+   192.168.159.142 *       6.384                                          ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   192.168.159.168 *       19.418                                         ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 43.224.189.33   137074  2.236             (Baugo, Central Visayas, PH, AS) 43-224-189-33.static.rise.as                                                                        
+S (137074, 4637)  tata-tgn-intra-asia-tgn-ia ✘ || asia-america-gateway-aag-cable-system ✘
+├  10.255.64.28    *       28.374                                         ***                                                                                                     
+╰─ 210.57.80.17    4637    27.901              (Hong Kong, Hong Kong, HK, AS) unknown.telstraglobal.net                                                                           
+╭─ 202.84.153.25   4637    33.16     (Hong Kong, Central and Western, HK, AS)                                                                                                     
+S (4637)  seamewe-3 👍
+╰─ 202.84.138.42   4637    147.834          (Sydney, New South Wales, AU, OC)                                                                                                     
+   203.50.13.97    1221    141.688                      (Sydney, NSW, AU, OC) bundle-ether3.oxf-gw11.sydney.telstra.net                                                           
+   203.50.13.130   1221    150.78           (Sydney, New South Wales, AU, OC) bundle-ether3.stl-core30.sydney.telstra.net                                                         
+   203.50.11.177   1221    151.204                      (Sydney, NSW, AU, OC) bundle-ether1.chw-edge903.sydney.telstra.net                                                        
+   203.48.8.166    1221    138.337          (Sydney, New South Wales, AU, OC) tel4239945.lnk.telstra.net                                                                          
+   ***             *       -inf                                           *** *                                                                                                   
+   203.41.0.43     1221    141.046          (Sydney, New South Wales, AU, OC)                                                                                                     

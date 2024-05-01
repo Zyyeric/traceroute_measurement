@@ -1,0 +1,26 @@
+   139.162.3.33    63949   0.0                 (Singapore, Singapore, SG, AS) li845-33.members.linode.com                                                                         
+   10.209.1.183    *       0.304                                          ***                                                                                                     
+   10.209.35.10    *       0.735                                          ***                                                                                                     
+   10.209.32.1     *       0.419                                          ***                                                                                                     
+   139.162.0.101   63949   0.439               (Singapore, Singapore, SG, AS) lo0-0.gw1.sin1.sg.linode.com                                                                        
+   23.56.139.28    20940   0.528               (Singapore, Singapore, SG, AS) ae30.r01.sin02.ien.netarch.akamai.com                                                               
+╭─ 23.56.139.33    20940   0.892                       (Singapore, 4, SG, AS) ae0.r02.sin02.ien.netarch.akamai.com                                                                
+S (20940, 4637)  
+├─ 210.57.53.32    4637    1.351                         (None, None, HK, AS) unknown.telstraglobal.net                                                                           
+S (4637)  
+╰─ 202.84.219.174  4637    47.93               (Singapore, Singapore, SG, AS) i-92.sgcn-core01.telstraglobal.net                                                                  
+╭─ 202.84.219.174  4637    47.93               (Singapore, Singapore, SG, AS) i-92.sgcn-core01.telstraglobal.net                                                                  
+S (4637)  
+├─ 202.84.141.238  4637    48.616    (Hong Kong, Central and Western, HK, AS) i-25451.pthw-core02.telstraglobal.net                                                               
+S (4637)  
+╰─ 202.84.140.29   4637    117.044          (Sydney, New South Wales, AU, OC) i-10154.sydp-core03.telstraglobal.net                                                               
+╭─ 202.84.140.29   4637    117.044          (Sydney, New South Wales, AU, OC) i-10154.sydp-core03.telstraglobal.net                                                               
+S (4637)  
+├─ 202.84.138.253  4637    116.533               (Auckland, Auckland, NZ, OC)                                                                                                     
+S (4637)  
+├─ 202.84.142.89   4637    114.898   (Santa Teresa, Northern Territory, AU, OC) i-90.hptw05.telstraglobal.net                                                                       
+S (4637, 45177)  
+╰─ 210.176.42.82   45177   122.461                    (Auckland, AUK, NZ, OC) unknown.telstraglobal.net                                                                           
+   14.1.54.101     45177   117.173                    (Auckland, AUK, NZ, OC) lt-6-2-0-22.mdr-cr2.as45177.net.nz                                                                  
+   ***             *       -inf                                           *** *                                                                                                   
+   202.46.184.4    38064   117.744               (Auckland, Auckland, NZ, OC)                                                                                                     

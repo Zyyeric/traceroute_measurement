@@ -1,0 +1,13 @@
+   5.188.238.222   202422  0.0                 (São Paulo, São Paulo, BR, SA)                                                                                                     
+   5.188.238.3     202422  0.144               (São Paulo, São Paulo, BR, SA) vrrp.gcore.lu                                                                                       
+   10.255.22.182   *       0.135                                          ***                                                                                                     
+   10.255.22.188   *       0.382                                          ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 184.105.80.54   6939    7.907     (Rio de Janeiro, Rio de Janeiro, BR, SA) 100ge0-28.core1.rio1.he.net                                                                         
+S (6939)  south-america-1-sam-1 ✓ || monet ✓ || seabras-1 ✓ || brusa ✓ || america-movil-submarine-cable-system-1-amx-1 ✓ || globenet ©
+╰─ 72.52.92.50     6939    112.288                 (Jacksonville, FL, US, NA) 100ge0-35.core2.jax1.he.net                                                                         
+   4.68.38.234     6939    163.229                      (Atlanta, GA, US, NA) HurricaneElectric-level3-Atlanta2.Level3.net                                                        
+   184.104.197.54  6939    122.29                      (New York, NY, US, NA) 100ge0-79.core3.nyc4.he.net                                                                         
+   216.66.23.18    6597    122.765                      (Atlanta, GA, US, NA) coloblox-llc.10gigabitethernet7-4.core1.atl1.he.net                                                 
+   208.73.216.179  6597    121.972                      (Atlanta, GA, US, NA) 1-49.er20.ag1.atl1.coloblox.net                                                                     
+   209.195.0.34    6597    121.948                 (Atlanta, Georgia, US, NA)                                                                                                     

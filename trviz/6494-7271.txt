@@ -1,0 +1,16 @@
+   103.170.25.13   142360  0.0               (Semarang, Central Java, ID, AS) ipv4-13-25-170-103.nexa.net.id                                                                      
+   103.170.25.9    142360  0.336             (Semarang, Central Java, ID, AS) ipv4-9-25-170-103.nexa.net.id                                                                       
+   103.170.24.253  142360  0.448             (Semarang, Central Java, ID, AS) ipv4-253-24-170-103.nexa.net.id                                                                     
+   103.247.123.130 55666   0.452             (Semarang, Central Java, ID, AS) ipv4-130-123-247.as55666.net                                                                        
+   49.128.183.197  55666   8.074                   (Jakarta, Jakarta, ID, AS) br2-xe-931.as55666.net                                                                              
+╭─ 49.128.183.45   55666   8.329                   (Jakarta, Jakarta, ID, AS) ipv4-45-183-128.as55666.net                                                                         
+S&T (55666, 58552)  australia-singapore-cable-asc ✘ || matrix-cable-system ✘ || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || indonesia-global-gateway-igg-system ✓ || seamewe-3 ✓ || indigo-west ✓ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || jakabare ✓
+├─ 202.72.207.0    58552   20.277              (Singapore, Singapore, SG, AS)                                                                                                     
+S (58552, 6939)  seamewe-5 ✓ || peace-cable ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.81.29   6939    173.85                        (Paris, IDF, FR, EU) port-channel8.core2.par2.he.net                                                                     
+   193.201.149.156 *       167.43        (Saint-Denis, Île-de-France, FR, EU) as204092.fnc-ix.net                                                                                 
+   89.234.186.43   204092  183.173                       (None, None, FR, EU) eth1.33.asbr02.cogent-rns.grifon.fr                                                                 
+   89.234.186.42   204092  183.17                  (Rennes, Brittany, FR, EU) hv03.cogent-rns.bb.grifon.fr                                                                        
+   80.67.190.218   204092  183.491                 (Rennes, Brittany, FR, EU) ripe-anchor.grifon.fr                                                                               

@@ -1,0 +1,14 @@
+   182.18.209.9    23944   0.0                 (Manila, Metro Manila, PH, AS)                                                                                                     
+   182.18.209.1    23944   0.949          (Quezon City, Metro Manila, PH, AS) 209-182.gw.skybroadband.com.ph                                                                      
+   130.105.0.48    23944   0.356                     (Quezon City, 0, PH, AS) *                                                                                                   
+╭─ 184.104.188.51  6939    16.673         (Quezon City, Metro Manila, PH, AS) 10ge0-8.core1.mnl1.he.net                                                                           
+S (6939)  
+├─ 184.104.212.73  6939    16.096              (Hong Kong, Hong Kong, HK, AS) e0-20.switch1.hkg1.he.net                                                                           
+S (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.81.82   6939    167.791             (San Jose, California, US, NA) port-channel10.core2.pao1.he.net                                                                    
+   184.105.177.238 46749   172.073                   (Pleasanton, CA, US, NA) stanford-university.100gigabitethernet5-1.core1.pao1.he.net                                         
+   171.66.0.238    32      167.808                     (Stanford, CA, US, NA) csee-west-rtr-vl12.SUNet                                                                            
+   ***             *       -inf                                           *** *                                                                                                   
+   171.67.70.16    32      168.436             (Stanford, California, US, NA) us-pao-as32.anchors.atlas.ripe.net                                                                  

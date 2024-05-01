@@ -1,0 +1,34 @@
+   196.49.14.25    30997   0.0                 (Accra, Greater Accra, GH, AF)                                                                                                     
+   196.49.14.1     30997   0.58                (Accra, Greater Accra, GH, AF)                                                                                                     
+╭─ 197.221.70.89   *       1.183               (Accra, Greater Accra, GH, AF)                                                                                                     
+S&T (, 3741)  
+╰─ 196.14.240.4    3741    1.121                         (None, None, ZA, AF) *                                                                                                   
+╭─ 168.209.160.109 3741    256.185                       (None, None, ZA, AF) *                                                                                                   
+T (3741)  
+├─ 168.209.160.108 3741    256.444                  (London, England, GB, EU)                                                                                                     
+T (3741)  
+├─ 168.209.246.65  3741    256.033                       (None, None, ZA, AF) core1b-dock-be-2.ip.ddii.network                                                                    
+T (3741, 6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.195.97  6939    186.064                      (London, ENG, GB, EU) 100ge0-35.core2.lon3.he.net                                                                         
+S&T (6939)  
+╰─ 184.104.224.177 6939    186.424                   (Lisbon, Lisbon, PT, EU) port-channel5.switch1.lis1.he.net                                                                   
+╭─ 184.104.224.113 6939    255.989                   (Lisbon, Lisbon, PT, EU) afrix-telecom-s-l.e0-19.switch1.lis1.he.net                                                         
+S&T (6939, 60171)  
+├─ 185.10.164.99   60171   274.244             (Barcelona, Catalonia, ES, EU)                                                                                                     
+S&T (60171)  
+╰─ 185.10.164.113  60171   274.737                      (London, ENG, GB, EU) *                                                                                                   
+╭─ 185.10.164.135  60171   274.018                      (London, ENG, GB, EU) *                                                                                                   
+S&T (60171)  
+├─ 185.10.164.32   60171   274.096             (Paris, Île-de-France, FR, EU)                                                                                                     
+S (60171)  
+├─ 102.223.52.73   60171   273.754                     (Lagos, Lagos, NG, AF)                                                                                                     
+S&T (60171)  
+├─ 185.10.164.45   60171   273.885                      (London, ENG, GB, EU) *                                                                                                   
+S&T (60171)  
+├─ 102.219.44.43   60171   273.779                     (Lagos, Lagos, NG, AF)                                                                                                     
+S&T (60171, 328913)  
+╰─ 196.49.84.51    328913  274.42                  (Abidjan, Abidjan, CI, AF) bdr3.std.douala-ix.net                                                                              
+╭─ 196.49.84.36    328913  274.42                  (Abidjan, Abidjan, CI, AF) gw1.std.douala-ix.net                                                                               
+S&T (328913)  
+╰─ 196.49.84.188   328913  275.458                 (Douala, Littoral, CM, AF) cm-dla-as328913.anchors.atlas.ripe.net                                                              

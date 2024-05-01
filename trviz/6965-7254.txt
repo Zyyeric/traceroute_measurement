@@ -1,0 +1,13 @@
+   103.170.154.254 142594  0.0                      (London, England, GB, EU) 254.154.170.103.speedyvps.uk                                                                        
+╭─ 103.170.154.1   142594  0.133                    (London, England, GB, EU)                                                                                                     
+T (142594, 60068)  
+├─ 156.146.32.92   60068   0.254                     (Prague, Prague, CZ, EU) unn-156-146-32-92.cdn77.com                                                                         
+T (60068, 201011)  
+╰─ 81.95.9.56      201011  0.31                   (Shadwell, England, GB, EU) ae22-407.lon10.core-backbone.com                                                                    
+╭─ 195.66.226.161  21320   0.286 (0.783)                 (London, ENG, GB, None) linx.ix.geant.net                                                                                   
+S&T (21320, 20965)  geo-eirgrid ✘ || exa-north-and-south ✘ || havhingstenceltixconnect-2-cc-2 ✓ || esat-2 ✓ || rockabill ✘ || sirius-south ✘ || pan-european-crossing-uk-ireland ✓ || esat-1 ✓ || exa-express ✘ || solas ✘
+╰─ 62.40.98.26     20965   10.133                  (Dublin, Leinster, IE, EU) ae6.mx1.dub.ie.geant.net                                                                            
+   83.97.88.74     1213    12.72                          (Dublin, D, IE, EU) heanet-ias-heanet-gw.dub.ie.geant.net                                                               
+   87.44.53.58     1213    12.802                  (Dublin, Leinster, IE, EU) ae4-0.core1-pw.nn.hea.net                                                                           
+   87.44.56.178    1213    12.659                           (Cork, M, IE, EU) po2.pw-spine1.nn.hea.net                                                                            
+   193.1.201.140   1213    12.697                (Tallaght, Leinster, IE, EU) atlas-anchor.heanet.ie                                                                              

@@ -1,0 +1,28 @@
+   152.195.112.52  15133   0.0                         (Tokyo, Tokyo, JP, AS)                                                                                                     
+╭─ 152.195.112.49  15133   0.989                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+S (15133, 36249)  japan-u-s-cable-network-jus ✓ || tata-tgn-pacific ✓ || pacific-crossing-1-pc-1 ✓ || faster ✓ || jupiter ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 154.54.83.190   36249   267.2              (Dallas-Fort Worth, TX, US, NA) be2709.rcr01.b027338-0.dfw01.atlas.cogentco.com                                                     
+   154.54.1.21     174     268.887                  (Los Angeles, CA, US, NA) be2894.ccr41.lax04.atlas.cogentco.com                                                               
+   154.54.25.149   174     269.14                   (Los Angeles, CA, US, NA) be3360.ccr42.lax01.atlas.cogentco.com                                                               
+╭─ 154.54.45.161   174     268.765                      (Phoenix, AZ, US, NA) be2932.ccr32.phx01.atlas.cogentco.com                                                               
+S&T (174)  
+├─ 154.54.26.54    174     269.098                       (Ottawa, ON, CA, NA) be3349.rcr11.yow01.atlas.cogentco.com                                                               
+S&T (174)  
+╰─ 154.54.2.5      174     270.494                   (Houston, Texas, US, NA) be3851.ccr42.iah01.atlas.cogentco.com                                                               
+   154.54.28.129   174     268.775                      (Atlanta, GA, US, NA) be2690.ccr42.atl01.atlas.cogentco.com                                                               
+   154.54.24.221   174     268.951                   (Washington, DC, US, NA) be2113.ccr42.dca01.atlas.cogentco.com                                                               
+   154.54.40.109   174     268.881                     (New York, NY, US, NA) be2807.ccr42.jfk02.atlas.cogentco.com                                                               
+╭─ 154.54.84.214   174     270.664                     (New York, NY, US, NA) be2897.rcr24.jfk01.atlas.cogentco.com                                                               
+S (174)  
+╰─ 154.54.93.22    174     268.835                  (London, England, GB, EU) be4327.ccr52.lhr01.atlas.cogentco.com                                                               
+╭─ 154.54.60.13    174     270.683                      (London, ENG, GB, EU) be3488.ccr42.lon13.atlas.cogentco.com                                                               
+S&T (174)  
+╰─ 130.117.51.42   174     270.936                    (Amsterdam, NH, NL, EU) be12488.ccr42.ams03.atlas.cogentco.com                                                              
+╭─ 154.54.61.42    174     269.488                    (Amsterdam, NH, NL, EU) be2175.rcr21.b021535-1.ams03.atlas.cogentco.com                                                     
+S (174, 3216)  
+├─ 149.11.202.58   3216    309.866                       (None, None, US, NA) *                                                                                                   
+LHL (3216, 29114)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 195.209.139.36  29114   215.707          (Ivanovo, Ivanovo Oblast, RU, EU) anchor1.atlas.ruitb.ru                                                                              

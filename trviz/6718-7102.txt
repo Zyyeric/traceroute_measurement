@@ -1,0 +1,12 @@
+   182.161.73.41   55569   0.0                 (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 182.161.73.40   55569   0.075               (Singapore, Singapore, SG, AS)                                                                                                     
+S (55569, 24173)  
+├  100.66.0.44     *       0.74                                           ***                                                                                                     
+├  100.66.0.43     *       0.704                                          ***                                                                                                     
+├─ 27.111.228.52   24173   0.789                     (Seogwipo, None, KR, AS) 24173.sgw.equinix.com                                                                               
+S (24173, 24176)  
+╰─ 210.86.233.17   24176   19.96      (Ho Chi Minh City, Ho Chi Minh, VN, AS) ci233-17.netnam.vn                                                                                  
+   210.86.233.30   24176   20.401     (Ho Chi Minh City, Ho Chi Minh, VN, AS) ci233-30.netnam.vn                                                                                  
+   210.86.232.101  24173   19.879                         (Hanoi, HN, VN, AS) ci232-101.netnam.vn                                                                                 
+   ***             *       -inf                                           *** *                                                                                                   
+   101.53.31.6     24173   21.335     (Ho Chi Minh City, Ho Chi Minh, VN, AS) ci53.31-6.netnam.vn                                                                                 

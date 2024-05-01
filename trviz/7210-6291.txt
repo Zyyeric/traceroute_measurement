@@ -1,0 +1,16 @@
+   87.238.48.84    39029   0.0                           (Oslo, Oslo, NO, EU) no-osl-as39029.anchors.atlas.ripe.net                                                               
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 213.248.104.100 1299    3.599                         (Oslo, Oslo, NO, EU) oso-b1-link.ip.twelve99.net                                                                         
+LHL (1299)  tampnet-offshore-foc-network ✘
+╰─ 62.115.112.84   1299    14.137                  (Hamburg, Hamburg, DE, EU) hbg-bb3-link.ip.twelve99.net                                                                        
+   62.115.123.76   1299    20.319          (Frankfurt am Main, Hesse, DE, EU) ffm-bb1-link.ip.twelve99.net                                                                        
+   62.115.114.89   1299    20.425          (Frankfurt am Main, Hesse, DE, EU) ffm-b5-link.ip.twelve99.net                                                                         
+╭─ 213.248.93.129  1299    20.223          (Frankfurt am Main, Hesse, DE, EU) colt-ic-355540.ip.twelve99-cust.net                                                                 
+T (1299, 8220)  
+├─ 212.74.71.111   8220    38.474                   (Dunstable, None, GB, EU) xe11-2-0-sar5.DUB.router.colt.net                                                                   
+S&T (8220, 47720)  geo-eirgrid ✘ || exa-north-and-south ✘ || havhingstenceltixconnect-2-cc-2 ✓ || sirius-south ✘ || esat-2 ✓ || rockabill ✓ || esat-1 ✓ || pan-european-crossing-uk-ireland ✓ || exa-express ✘ || solas ✓
+╰─ 62.23.108.46    47720   44.101                       (Dublin, L, IE, None) host.46.108.23.62.rev.coltfrance.com                                                                
+   91.103.0.196    47720   44.169                           (Cork, M, IE, EU) *                                                                                                   
+   91.103.0.99     42953   123.047                          (Cork, M, IE, EU) *                                                                                                   
+   185.6.39.132    42953   44.684                     (Cork, Munster, IE, EU)                                                                                                     

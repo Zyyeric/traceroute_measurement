@@ -1,0 +1,14 @@
+   103.253.132.25  59238   0.0                     (Bangkok, Bangkok, TH, AS) th-bkk-as59238.anchors.atlas.ripe.net                                                               
+   103.253.132.1   59238   0.306                (Khlong San, Bangkok, TH, AS) gw-cat.idc.inox.co.th                                                                               
+   172.24.132.102  *       0.33                                           ***                                                                                                     
+   172.24.132.24   *       0.287                                          ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 122.155.224.73  4651    1.891                (Khlong San, Bangkok, TH, AS)                                                                                                     
+S&T (4651)  asia-america-gateway-aag-cable-system ✓ || seamewe-4 ✓ || seamewe-3 ✓
+╰─ 61.19.9.138     4651    28.575              (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 27.111.230.188  *       26.137              (Singapore, Singapore, SG, AS) 140443.sgw.equinix.com                                                                              
+S&T (, 140443)  australia-singapore-cable-asc ✘ || indigo-west ✘ || indonesia-global-gateway-igg-system ✘ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || seamewe-3 ✘ || matrix-cable-system ✘ || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || jasuka ✘ || jakabare ✘
+├  10.111.222.205  *       28.51                                          ***                                                                                                     
+├  10.111.220.5    *       40.598                                         ***                                                                                                     
+├  10.111.220.45   *       40.464                                         ***                                                                                                     
+╰─ 103.160.63.222  140443  40.625                  (Jakarta, Jakarta, ID, AS) 222.63.160.103.in-addr.herza.id                                                                     

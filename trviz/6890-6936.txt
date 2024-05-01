@@ -1,0 +1,25 @@
+   185.209.84.141  57578   0.0               (Khabarovsk, Khabarovsk, RU, EU) ru-khv-as57578.anchors.atlas.ripe.net                                                               
+   185.209.84.10   198412  0.208                    (Khabarovsk, KHA, RU, AS) ae1-0.c10.khv01.ru.misaka.io                                                                        
+   92.38.191.67    210756  0.28              (Khabarovsk, Khabarovsk, RU, EU) vrrp.edgecenter.ru                                                                                  
+   92.223.110.3    210756  0.227             (Khabarovsk, Khabarovsk, RU, EU)                                                                                                     
+   10.255.10.186   *       0.236                                          ***                                                                                                     
+   188.254.90.105  12389   0.465             (Khabarovsk, Khabarovsk, RU, EU)                                                                                                     
+╭─ 188.128.126.45  12389   117.384   (Kaliningrad, Kaliningrad Oblast, RU, EU)                                                                                                     
+LHL (12389, 6939)  
+├─ 194.68.123.187  6939    122.766                    (Stockholm, AB, SE, EU) 10gigabitethernet1-2.core1.sto1.he.net                                                              
+LHL (6939)  atlantic-crossing-1-ac-1 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.189.25  6939    201.821               (Newark, New Jersey, US, NA) port-channel4.core2.ewr5.he.net                                                                     
+╭─ 184.104.188.252 6939    202.001          (Jersey City, New Jersey, US, NA) port-channel24.core3.nyc4.he.net                                                                    
+S&T (6939)  
+╰─ 184.104.196.178 6939    212.361                      (Toronto, ON, CA, NA) 100ge0-78.core2.tor1.he.net                                                                         
+   184.105.64.102  6939    234.125                     (Winnipeg, MB, CA, NA) 100ge6-1.core1.ywg1.he.net                                                                          
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 184.104.195.14  6939    258.947      (Vancouver, British Columbia, CA, NA) port-channel1.core1.yvr2.he.net                                                                     
+S&T (6939, 14007)  
+├─ 65.49.79.250    14007   256.54                        (None, None, US, NA) *                                                                                                   
+S&T (14007)  
+╰─ 216.251.132.66  14007   258.074                        (Delta, BC, CA, NA) tranAvan2.skywaywest.net                                                                            
+   216.251.158.65  395152  262.412              (North Vancouver, BC, CA, NA) *                                                                                                   
+   192.102.254.220 395152  257.859      (Vancouver, British Columbia, CA, NA)                                                                                                     

@@ -1,0 +1,15 @@
+   45.94.14.204    208520  0.0                (Riyadh, Riyadh Region, SA, AS)                                                                                                     
+   45.94.14.193    208520  1.006              (Riyadh, Riyadh Region, SA, AS)                                                                                                     
+╭─ 212.138.250.7   8895    0.673              (Riyadh, Riyadh Region, SA, AS)                                                                                                     
+S (8895, 3257)  europe-india-gateway-eig ✓ || seamewe-3 ✓ || flag-europe-asia-fea ✘
+╰─ 154.14.64.197   3257    92.648                   (London, England, GB, EU) et-0-0-8-2.cr11-lon1.ip4.gtt.net                                                                    
+   ***             *       -inf                                           *** *                                                                                                   
+   80.231.60.144   6453    224.172                     (London, None, GB, EU) if-ae-66-2.tcore1.ldn-london.as6453.net                                                             
+╭─ 80.231.130.129  6453    223.992                     (London, None, GB, EU) if-ae-17-2.tcore1.l78-london.as6453.net                                                             
+LHL (6453, 58717)  europe-india-gateway-eig ✓ ↠ seamewe-5 ✓ || europe-india-gateway-eig ✓ ↠ seamewe-4 👍 || seamewe-3 👍 ↠ seamewe-5 ✓ || seamewe-3 👍 ↠ seamewe-4 👍 || flag-europe-asia-fea ✓ ↠ seamewe-5 ✓ || flag-europe-asia-fea ✓ ↠ seamewe-4 👍
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 103.26.244.2    58717   275.788                       (None, None, BD, AS) *                                                                                                   
+   157.119.185.36  58717   287.675           (Paltan, Dhaka Division, BD, AS) 157.119.185.36.summitiig.net                                                                        
+   ***             *       -inf                                           *** *                                                                                                   
+   103.15.246.16   58717   284.425                     (Dhaka, Dhaka, BD, AS)                                                                                                     

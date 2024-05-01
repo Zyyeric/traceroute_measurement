@@ -1,0 +1,35 @@
+   77.223.128.226  43391   0.0                (İzmir, İzmir Province, TR, AS)                                                                                                     
+   10.200.0.1      *       0.303                                          ***                                                                                                     
+   10.20.0.250     *       0.812                                          ***                                                                                                     
+   10.34.35.9      *       14.877                                         ***                                                                                                     
+   149.14.44.1     174     14.469                (Istanbul, Istanbul, TR, AS) te0-6-0-6.agr21.ist01.atlas.cogentco.com                                                            
+╭─ 154.54.74.205   174     14.715                (Istanbul, Istanbul, TR, AS) be3510.rcr71.ist01.atlas.cogentco.com                                                               
+S (174)  
+├─ 154.54.74.226   174     23.379                         (Lyon, ARA, FR, EU) be2881.rcr21.lys01.atlas.cogentco.com                                                               
+LHL (174)  
+├─ 130.117.0.94    174     28.455                       (Belgrade, 0, RS, EU) be3421.ccr51.beg03.atlas.cogentco.com                                                               
+T (174)  
+├─ 130.117.0.125   174     33.823                      (Budapest, PE, HU, EU) be3422.ccr31.bud01.atlas.cogentco.com                                                               
+T (174)  
+├─ 130.117.3.137   174     35.897                    (Bratislava, BL, SK, EU) be3261.ccr21.bts01.atlas.cogentco.com                                                               
+T (174)  
+├─ 154.54.59.86    174     41.102                         (Vienna, 9, AT, EU) be2988.ccr51.vie01.atlas.cogentco.com                                                               
+T (174)  
+╰─ 154.54.58.5     174     45.392                        (Munich, BY, DE, EU) be2974.ccr21.muc03.atlas.cogentco.com                                                               
+╭─ 154.54.36.53    174     52.143             (Frankfurt am Main, HE, DE, EU) be2959.ccr41.fra03.atlas.cogentco.com                                                               
+T (174)  
+╰─ 130.117.0.121   174     57.557                     (Amsterdam, NH, NL, EU) be2813.ccr41.ams03.atlas.cogentco.com                                                               
+   154.54.56.166   174     57.922                     (Amsterdam, NH, NL, EU) be2020.rcr21.b021535-1.ams03.atlas.cogentco.com                                                     
+   149.29.1.218    174     58.624                     (Amsterdam, NH, NL, EU) *                                                                                                   
+╭─ 105.16.9.89     37100   208.743                    (Amsterdam, NH, NL, EU) ae-4-0.er-01-ams.nl.seacomnet.com                                                                   
+S&T (37100)  
+├─ 105.16.13.130   37100   205.138                      (London, ENG, GB, EU) ce-0-0-11.cr-02-lhr.uk.seacomnet.com                                                                
+T (37100)  
+╰─ 105.16.15.97    37100   211.771          (Cape Town, Western Cape, ZA, AF) ce-0-2-3.cr-02-cpt.za.seacomnet.com                                                                 
+   105.16.30.10    37100   211.535                    (Cape Town, WC, ZA, AF) xe-0-0-0-0.er-02-cpt.za.seacomnet.com                                                               
+   105.22.72.214   37100   208.935          (Cape Town, Western Cape, ZA, AF)                                                                                                     
+   41.84.12.28     37179   210.427                 (Johannesburg, GP, ZA, AF) core.100g-0-8-0-wc-ro-ter-scp-2.za.africainx.net                                                    
+   41.84.13.37     37179   210.434                 (Johannesburg, GP, ZA, AF) core.xe-0-0-0-wc-ro-het-mee-1.za.africainx.net                                                      
+   41.66.133.2     37399   211.902                 (Johannesburg, GP, ZA, AF) 41-66-133-2.hetzner-cpt-ip4-gw.africainx.net                                                        
+   196.40.102.70   37153   216.784                       (None, None, ZA, AF) core-access-switch1-vlan1001.cpt.host-h.net                                                         
+   196.40.111.147  37153   208.873          (Cape Town, Western Cape, ZA, AF) atlas-anchor-cpt3.cpt.net.host-h.net                                                                

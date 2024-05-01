@@ -1,0 +1,22 @@
+   45.94.14.204    208520  0.0                (Riyadh, Riyadh Region, SA, AS)                                                                                                     
+   45.94.14.193    208520  0.249              (Riyadh, Riyadh Region, SA, AS)                                                                                                     
+╭─ 212.138.250.7   8895    0.606              (Riyadh, Riyadh Region, SA, AS)                                                                                                     
+S (8895, 3356)  
+├─ 213.242.126.197 3356    68.707    (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) et-7-0-17-3.edge4.marseille1.level3.net                                                             
+S (3356, 35819)  
+├─ 212.133.4.70    35819   66.599                        (None, None, SA, AS) *                                                                                                   
+S (35819, 37100)  
+├─ 105.16.33.1     37100   221.737                   (Marseille, PAC, FR, EU) ae-2.cr-01-mrs.fr.seacomnet.com                                                                     
+S&T (37100)  
+╰─ 105.16.12.97    37100   236.445          (Cape Town, Western Cape, ZA, AF) ce-0-2-5.cr-01-cpt.za.seacomnet.com                                                                 
+   105.16.31.10    37100   229.33                     (Cape Town, WC, ZA, AF) xe-1-0-0-0.er-02-cpt.za.seacomnet.com                                                               
+   105.22.72.214   37100   229.335          (Cape Town, Western Cape, ZA, AF)                                                                                                     
+   41.84.12.26     37179   245.813                 (Johannesburg, GP, ZA, AF) core.100g-0-8-0-wc-ro-ter-scp-1.za.africainx.net                                                    
+   41.84.12.155    37179   256.023   (Bloemfontein, Orange Free State, ZA, AF) core.ae0-fs-bl-is-nec-1.za.africainx.net                                                            
+   41.84.12.46     37179   249.016          (Cape Town, Western Cape, ZA, AF) core.xe-0-2-0-gp-rb-pkl-scp-1.za.africainx.net                                                      
+   41.84.12.191    37179   249.009                 (Johannesburg, GP, ZA, AF) core.xe-0-0-1-gp-cn-r21-mec-1.za.africainx.net                                                      
+   41.84.12.159    37179   247.695                 (Johannesburg, GP, ZA, AF) core-xge-0-2-0-gp-sm-het-scp-1.za.africainx.net                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   41.66.132.246   37153   247.845                 (Johannesburg, GP, ZA, AF) 41-66-132-246-f6.hetzner-jhb-ip4-gw.africainx.net                                                   
+   197.189.193.1   37153   252.99                       (Sandton, GP, ZA, AF) core-access-switch1.jnb1.host-h.net                                                                 
+   197.189.194.147 37153   254.702            (Johannesburg, Gauteng, ZA, AF) atlas-anchor-jnb1.jnb.net.host-h.net                                                                

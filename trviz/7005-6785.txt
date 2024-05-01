@@ -1,0 +1,16 @@
+   103.15.246.16   58717   0.0                         (Dhaka, Dhaka, BD, AS)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   172.16.203.70   *       1.036                                          ***                                                                                                     
+   157.119.185.30  58717   1.439                           (Dhaka, C, BD, AS) *                                                                                                   
+╭─ 103.199.87.233  58717   6.233                         (None, None, BD, AS) *                                                                                                   
+S (58717)  seamewe-5 ✓ || seamewe-4 ✓
+├─ 157.119.185.242 58717   51.564                      (Singapore, 4, SG, AS) *                                                                                                   
+S (58717, 6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.193.154 6939    184.202                    (Brussels, BRU, BE, EU) 100ge0-35.core2.bru1.he.net                                                                         
+   80.67.181.2     204059  183.311                    (Brussels, BRU, BE, EU) edge-02.louise.neutri.net                                                                           
+   80.67.181.18    204059  182.239       (Brussels, Brussels Capital, BE, EU) core-01.louise.neutri.net                                                                           
+   80.67.181.29    204059  183.566       (Brussels, Brussels Capital, BE, EU) be-bru-as204059.anchors.atlas.ripe.net                                                              

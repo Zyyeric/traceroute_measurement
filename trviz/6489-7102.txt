@@ -1,0 +1,12 @@
+   182.161.73.41   55569   0.0                 (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 182.161.73.40   55569   0.237               (Singapore, Singapore, SG, AS)                                                                                                     
+S (55569, 15802)  asia-pacific-gateway-apg ✓ || eac-c2c ✓ || apcn-2 ✓ || seamewe-3 ✓
+├  100.66.0.44     *       0.822                                          ***                                                                                                     
+├  100.66.0.43     *       0.675                                          ***                                                                                                     
+├─ 27.111.228.108  15802   77.625                    (Seogwipo, None, KR, AS) 15802.sgw.equinix.com                                                                               
+S (15802)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 87.201.194.242  15802   80.24                          (Dubai, DU, AE, AS) *                                                                                                   

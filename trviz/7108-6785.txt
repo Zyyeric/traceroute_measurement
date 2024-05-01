@@ -1,0 +1,16 @@
+   103.15.246.16   58717   0.0                         (Dhaka, Dhaka, BD, AS)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   172.16.203.70   *       1.42                                           ***                                                                                                     
+   157.119.185.197 58717   1.511                           (Dhaka, C, BD, AS) *                                                                                                   
+╭─ 103.199.87.12   58717   1.684                         (None, None, BD, AS) *                                                                                                   
+LHL (58717, 7713)  seamewe-5 ✓ ↠ seamewe-3 ✓ || seamewe-5 ✓ ↠ flag-europe-asia-fea ✘ || seamewe-4 ✓ ↠ seamewe-3 ✓ || seamewe-4 ✓ ↠ flag-europe-asia-fea ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 27.111.228.77   7713    46.355                    (Seogwipo, None, KR, AS) 7713.sgw.equinix.com                                                                                
+S (7713)  
+╰─ 180.240.204.9   7713    46.754              (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 180.240.204.9   7713    46.754              (Singapore, Singapore, SG, AS)                                                                                                     
+S&T (7713)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 36.93.255.177   7713    65.387                       (Batam, Riau, ID, AS)                                                                                                     
+   36.93.255.178   58475   64.268                        (None, None, ID, AS) *                                                                                                   
+   103.23.232.7    58475   64.608     (Banjarmasin, South Kalimantan, ID, AS)                                                                                                     

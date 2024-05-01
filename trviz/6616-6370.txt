@@ -1,0 +1,31 @@
+   103.202.216.76  59105   0.0                         (Chōfu, Tokyo, JP, AS)                                                                                                     
+   103.202.216.73  59105   0.484                       (Tokyo, Tokyo, JP, AS) ge-2-1-0.pop03er03.bb.homenoc.ad.jp                                                                 
+   210.188.225.233 9370    0.615                       (Tokyo, Tokyo, JP, AS) tkwrt301x-as59105.bb.sakura.ad.jp                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   210.138.107.33  2497    1.233                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+╭─ 58.138.102.101  2497    1.156                       (Tokyo, Tokyo, JP, AS) tky001bb00.iij.net                                                                                  
+S (2497)  japan-u-s-cable-network-jus ✓ || tata-tgn-pacific ✓ || pacific-crossing-1-pc-1 ✓ || faster ✓ || jupiter ✓
+╰─ 58.138.88.130   2497    149.472              (Seattle, Washington, US, NA) sea001bb00.iij.net                                                                                  
+   ***             *       -inf                                           *** *                                                                                                   
+   154.54.95.173   174     150.22               (Seattle, Washington, US, NA)                                                                                                     
+   154.54.89.102   174     148.138               (Salt Lake City, UT, US, NA) be2042.ccr32.slc01.atlas.cogentco.com                                                               
+   154.54.42.98    174     166.073                       (Denver, CO, US, NA) be3038.ccr22.den01.atlas.cogentco.com                                                               
+   154.54.31.90    174     177.376                  (Kansas City, MO, US, NA) be3036.ccr22.mci01.atlas.cogentco.com                                                               
+   154.54.44.170   174     181.165                      (Chicago, IL, US, NA) be2832.ccr42.ord01.atlas.cogentco.com                                                               
+   154.54.7.130    174     277.885                    (Cleveland, OH, US, NA) be2718.ccr22.cle04.atlas.cogentco.com                                                               
+   154.54.29.174   174     272.717                       (Albany, NY, US, NA) be2879.ccr22.alb02.atlas.cogentco.com                                                               
+   154.54.0.222    174     272.265                       (Boston, MA, US, NA) be3600.ccr32.bos01.atlas.cogentco.com                                                               
+╭─ 154.54.47.146   174     280.564                 (White Plains, NY, US, NA) be2120.rcr21.hpn04.atlas.cogentco.com                                                               
+S (174)  
+├─ 154.54.60.13    174     272.386                      (London, ENG, GB, EU) be3488.ccr42.lon13.atlas.cogentco.com                                                               
+S&T (174)  
+├─ 130.117.51.42   174     272.549                    (Amsterdam, NH, NL, EU) be12488.ccr42.ams03.atlas.cogentco.com                                                              
+T (174)  
+╰─ 130.117.0.142   174     286.637            (Frankfurt am Main, HE, DE, EU) be2814.ccr42.fra03.atlas.cogentco.com                                                               
+   130.117.1.117   174     286.803            (Frankfurt am Main, HE, DE, EU) be3187.agr41.fra03.atlas.cogentco.com                                                               
+╭─ 154.25.15.94    174     277.659         (Frankfurt am Main, Hesse, DE, EU) be2632.nr61.b015753-1.fra03.atlas.cogentco.com                                                      
+T (174, 47794)  
+├─ 149.11.182.90   47794   384.739                  (Forest Row, ENG, GB, EU) *                                                                                                   
+S&T (47794)  
+╰─ 94.77.210.130   47794   367.879            (Riyadh, Riyadh Region, SA, AS) 94-77-210-130.static.go.com.sa                                                                      
+   94.77.252.90    47794   344.309            (Riyadh, Riyadh Region, SA, AS) 94-77-252-90.static.go.com.sa                                                                       

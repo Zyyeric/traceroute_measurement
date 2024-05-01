@@ -1,0 +1,12 @@
+   203.119.111.139 4608    0.0                 (Brisbane, Queensland, AU, OC) anchor.apnic.net                                                                                    
+   203.119.111.131 4608    0.678               (Brisbane, Queensland, AU, OC) vl-1705.nxcs2.hosted.au.apnic.net                                                                   
+   203.119.104.21  4608    0.565                      (Brisbane, QLD, AU, OC) te-0-1-5.nxgw1.bne.apnic.net                                                                        
+   203.119.104.82  4608    0.588               (Brisbane, Queensland, AU, OC) po-12-921.nxgw2.bne.apnic.net                                                                       
+   ***             *       -inf                                           *** *                                                                                                   
+   172.68.84.75    13335   0.731               (Brisbane, Queensland, AU, OC)                                                                                                     
+   172.68.84.94    13335   0.813               (Brisbane, Queensland, AU, OC)                                                                                                     
+╭─ 172.68.84.104   13335   1.083               (Brisbane, Queensland, AU, OC)                                                                                                     
+S (13335, 133800)  indigo-west ✓ || seamewe-3 ✓ || australia-singapore-cable-asc ✓ || oman-australia-cable-oac ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 103.77.105.3    133800  121.326                 (Jakarta, Jakarta, ID, AS) ip-3-105-77-103.jkt-1.biznetg.io                                                                    

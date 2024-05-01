@@ -1,0 +1,19 @@
+   103.179.37.157  151332  0.0                  (Melbourne, Victoria, AU, OC)                                                                                                     
+   103.179.37.156  151332  0.599                (Melbourne, Victoria, AU, OC)                                                                                                     
+   203.192.83.253  7545    1.399                (Melbourne, Victoria, AU, OC) ip-253-83-192-203.static.pipenetworks.com                                                           
+   203.220.216.69  9942    1.764                (Melbourne, Victoria, AU, OC) au-vi-1015-ipg-221-bundle-ether28.tpgi.com.au                                                       
+   27.32.160.66    7545    11.377                       (Sydney, NSW, AU, OC) 27-32-160-66.static.tpgi.com.au                                                                     
+   203.26.22.121   7545    11.162                       (Sydney, NSW, AU, OC) 203-26-22-121.static.tpgi.com.au                                                                    
+╭─ 203.29.134.3    7545    14.076                       (Sydney, NSW, AU, OC) syd-apt-ros-int1-hu0-3-0-2.tpgi.com.au                                                              
+S (7545, 6939)  hawaiki ✘ || southern-cross-cable-network-sccn ✓ || southern-cross-next ✓
+╰─ 216.218.139.233 6939    165.108                     (San Jose, CA, US, NA) 100gigabitethernet13-1.core1.sjc1.he.net                                                            
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 184.105.64.142  6939    225.452          (New York City, New York, US, NA) port-channel2.core2.nyc5.he.net                                                                     
+S (6939)  exa-north-and-south ✓ || aec-1 ✘ || havfrueaec-2 ✓
+╰─ 184.105.65.246  6939    285.828                        (Dublin, D, IE, EU) 100ge0-32.core2.dub1.he.net                                                                         
+   185.6.36.106    47720   283.246                      (Dublin, L, IE, None) inex-dub1.as47720.net                                                                               
+   91.103.0.196    47720   283.293                          (Cork, M, IE, EU) *                                                                                                   
+   91.103.0.99     42953   284.186                          (Cork, M, IE, EU) *                                                                                                   
+   185.6.39.132    42953   283.698                    (Cork, Munster, IE, EU)                                                                                                     

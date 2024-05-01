@@ -1,0 +1,17 @@
+   103.156.251.7   141235  0.0                 (Singapore, Singapore, SG, AS)                                                                                                     
+   103.156.251.3   141235  0.502               (Singapore, Singapore, SG, AS)                                                                                                     
+   103.156.250.127 141235  0.565               (Singapore, Singapore, SG, AS)                                                                                                     
+   116.51.30.80    2914    1.805               (Singapore, Singapore, SG, AS) ge-100-0-0-18.r00.sngpsi07.sg.bb.gin.ntt.net                                                        
+   ***             *       -inf                                           *** *                                                                                                   
+   129.250.5.242   2914    1.117               (Singapore, Singapore, SG, AS) ae-1.a03.sngpsi07.sg.bb.gin.ntt.net                                                                 
+╭─ 116.51.17.238   58453   2.321                    (Singapore, None, SG, AS) ce-0-11-0-1.r01.sngpsi07.sg.ce.gin.ntt.net                                                          
+S (58453, 133334)  eac-c2c ✓ || asia-pacific-gateway-apg ✓ || southeast-asia-japan-cable-sjc ✓ || asia-america-gateway-aag-cable-system ✓ || seamewe-3 ✓ || asia-submarine-cable-express-asecahaya-malaysia ✓ || apcn-2 ✓ || tata-tgn-intra-asia-tgn-ia ✘
+├─ 223.119.21.98   133334  231.865                  (Hong Kong, None, HK, AS) *                                                                                                   
+S (133334, 8529)  
+╰─ 134.0.220.169   8529    257.073                   (Muscat, Muscat, OM, AS)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   213.202.6.198   8529    245.075                   (Muscat, Muscat, OM, AS)                                                                                                     
+╭─ 134.0.217.213   8529    86.614                        (Muscat, MA, OM, AS) *                                                                                                   
+S&T (8529, 42473)  
+╰─ 213.202.2.1     42473   248.857                        (Dubai, DU, AE, AS) i1.2.202.213omantel.net.om                                                                          
+   37.252.245.94   42473   253.775                     (Dubai, Dubai, AE, AS)                                                                                                     

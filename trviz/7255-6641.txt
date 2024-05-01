@@ -1,0 +1,25 @@
+   92.38.135.131   202422  0.0                         (Seoul, Seoul, KR, AS)                                                                                                     
+   92.38.135.2     202422  0.386                       (Seoul, Seoul, KR, AS) vrrp.gcore.lu                                                                                       
+   10.255.17.210   *       0.253                                          ***                                                                                                     
+   10.255.17.213   *       0.388                                          ***                                                                                                     
+   10.255.17.147   *       0.487                                          ***                                                                                                     
+╭─ 8.244.74.25     3356    0.444 (1.14)                  (Seoul, Seoul, KR, AS)                                                                                                     
+S (3356)  apcn-2 ✓ || asia-pacific-gateway-apg ✓ || flag-north-asia-loopreach-north-asia-loop ✓ || eac-c2c © || new-cross-pacific-ncp-cable-system ✓ || korea-japan-cable-network-kjcn ✓ || seamewe-3 ✓ || flag-europe-asia-fea © || trans-pacific-express-tpe-cable-system ✓
+╰─ 4.69.226.254    3356    31.176                      (Tokyo, Tokyo, JP, AS) ae1.3508.edge4.tokyo4.level3.net                                                                    
+   8.244.132.6     3356    30.833                      (Tokyo, Tokyo, JP, AS)                                                                                                     
+   206.148.24.47   7578    31.012                      (Tokyo, Tokyo, JP, AS) po2.ty-eqxty8-bb5.globalsecurelayer.com                                                             
+╭─ 206.148.24.50   7578    30.917                      (Tokyo, Tokyo, JP, AS) e52.ty-eqxty8-bb5.globalsecurelayer.com                                                             
+S (7578)  japan-u-s-cable-network-jus ✘ || tata-tgn-pacific ✘ || pacific-crossing-1-pc-1 ✘ || faster ✘ || jupiter ✘ || new-cross-pacific-ncp-cable-system ✘ || trans-pacific-express-tpe-cable-system ✘ || unityeac-pacific ✘
+╰─ 206.148.25.85   7578    139.533          (Los Angeles, California, US, NA) e50.lax-csla2-bb1.globalsecurelayer.com                                                             
+   206.148.25.90   7578    138.411          (Los Angeles, California, US, NA) e19.lax-csla2-bb5.globalsecurelayer.com                                                             
+   206.148.25.7    7578    140.394              (Seattle, Washington, US, NA) e50.sea-drtsea10-bb1.globalsecurelayer.com                                                          
+   206.148.25.16   7578    140.365              (Seattle, Washington, US, NA) po10.sea-drtsea10-cr1.globalsecurelayer.com                                                         
+   206.148.25.83   7578    140.158              (Seattle, Washington, US, NA)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 131.153.165.66  46385   156.704              (Seattle, Washington, US, NA)                                                                                                     
+S (46385, 63949)  
+╰─ 170.187.241.61  63949   225.761          (Sydney, New South Wales, AU, OC) router01-akm-syd.as151332.net                                                                       
+   203.192.83.254  7545    229.404              (Melbourne, Victoria, AU, OC) ip-254-83-192-203.static.pipenetworks.com                                                           
+   103.179.37.157  151332  231.6                (Melbourne, Victoria, AU, OC)                                                                                                     

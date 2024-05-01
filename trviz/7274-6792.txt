@@ -1,0 +1,32 @@
+   141.164.39.1    20473   0.0                      (Paripark, Seoul, KR, AS) 141.164.39.1.vultrusercontent.com                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   10.84.0.25      *       0.624                                          ***                                                                                                     
+   10.84.2.53      *       1.056                                          ***                                                                                                     
+   10.84.2.37      *       1.208                                          ***                                                                                                     
+╭─ 63.218.237.133  3491    2.069                       (Seoul, Seoul, KR, AS) te-0-0-0-24.br03.seo03.as3491.net                                                                   
+S (3491)  apcn-2 👍 || eac-c2c ✓ || flag-north-asia-loopreach-north-asia-loop 👍 || asia-pacific-gateway-apg ✓ || flag-europe-asia-fea ✓ || seamewe-3 👍
+╰─ 63.218.174.134  3491    38.819              (Hong Kong, Hong Kong, HK, AS) be42.br04.hkg12.as3491.net                                                                          
+   154.54.140.65   174     38.757                   (Hong Kong, None, HK, AS) be3492.rcr51.hkg01.atlas.cogentco.com                                                               
+╭─ 154.54.88.49    174     39.489                   (Hong Kong, None, HK, AS) be2414.ccr21.hkg02.atlas.cogentco.com                                                               
+S (174)  asia-africa-europe-1-aae-1 ✓ || seamewe-3 ✓
+├─ 154.54.6.25     174     260.238                   (Marseille, PAC, FR, EU) be2900.ccr32.mrs02.atlas.cogentco.com                                                               
+S&T (174)  
+├─ 154.54.74.178   174     263.932                        (Milan, 25, IT, EU) be2865.rcr21.mil01.atlas.cogentco.com                                                               
+T (174)  
+├─ 154.54.63.221   174     264.425                  (Munich, Bavaria, DE, EU) be3814.ccr22.muc03.atlas.cogentco.com                                                               
+T (174)  
+├─ 154.54.59.181   174     270.236                        (Vienna, 9, AT, EU) be3462.ccr52.vie01.atlas.cogentco.com                                                               
+LHL (174)  
+├─ 154.54.59.190   174     309.932                      (Belgrade, 0, RS, EU) be3464.ccr51.beg03.atlas.cogentco.com                                                               
+T (174)  
+├─ 130.117.0.93    174     310.196                        (Sofia, 23, BG, EU) be3421.ccr31.sof02.atlas.cogentco.com                                                               
+S&T (174)  
+├─ 154.54.74.225   174     309.977               (Istanbul, Istanbul, TR, AS) be3571.rcr71.ist01.atlas.cogentco.com                                                               
+S (174)  
+├─ 154.54.74.206   174     310.058                        (Lyon, ARA, FR, EU) be2880.rcr21.lys01.atlas.cogentco.com                                                               
+S (174, 43391)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 77.223.128.226  43391   306.741            (İzmir, İzmir Province, TR, AS)                                                                                                     

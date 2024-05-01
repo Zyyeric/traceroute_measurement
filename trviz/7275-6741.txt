@@ -1,0 +1,18 @@
+   176.119.210.244 56457   0.0                       (Athens, Attica, GR, EU)                                                                                                     
+   176.119.210.253 56457   0.581                 (Áno Liósia, Attica, GR, EU)                                                                                                     
+   185.201.254.36  56457   0.208                 (Áno Liósia, Attica, GR, EU) te0-3.ef2.ath01.fastpath.gr                                                                         
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 176.126.38.47   *       1.98                  (Áno Liósia, Attica, GR, EU) he.gr-ix.gr                                                                                         
+LHL (, 6939)  mednautilus-submarine-system ✘ ↠ asia-africa-europe-1-aae-1 ✘ ↠ apollo ✘ || mednautilus-submarine-system ✘ ↠ asia-africa-europe-1-aae-1 ✘ ↠ flag-atlantic-1-fa-1 ✘ || mednautilus-submarine-system ✘ ↠ seamewe-3 ✘ ↠ apollo ✘ || mednautilus-submarine-system ✘ ↠ seamewe-3 ✘ ↠ flag-atlantic-1-fa-1 ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.196.193 6939    32.205                        (Denver, CO, US, NA) 100ge2-1.core1.den1.he.net                                                                          
+S (6939)  asia-america-gateway-aag-cable-system ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.194.201 6939    213.997             (Singapore, Singapore, SG, AS) port-channel14.core3.sin1.he.net                                                                    
+╭─ 74.82.49.214    6939    278.153             (Singapore, Singapore, SG, AS) pt-jala-lintas-media.e0-3.switch5.sin1.he.net                                                       
+S&T (6939, 133840)  
+╰─ 103.66.70.104   133840  278.078                 (Jakarta, Jakarta, ID, AS)                                                                                                     
+   121.100.0.45    38158   284.402                 (Jakarta, Jakarta, ID, AS)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   43.230.153.90   *       186.829                 (Jakarta, Jakarta, ID, AS)                                                                                                     
+   180.211.88.22   45725   186.759                 (Jakarta, Jakarta, ID, AS) id-jkt-as45725.anchors.atlas.ripe.net                                                               

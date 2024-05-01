@@ -1,0 +1,16 @@
+   103.40.209.7    63834   0.0                         (Tokyo, Tokyo, JP, AS)                                                                                                     
+   103.40.209.3    63834   0.234                     (Urayasu, Tokyo, JP, AS)                                                                                                     
+   10.255.194.66   *       0.193                                          ***                                                                                                     
+╭─ 61.213.169.9    2914    1.71 (3.719)                  (Tokyo, Tokyo, JP, AS) ge-103-0-0-27.r02.tokyjp05.jp.bb.gin.ntt.net                                                        
+S (2914)  
+├─ 129.250.5.56    2914    3.227                         (None, None, US, NA) ae-0.sayonara-dorian.a01.atlnga05.us.bb.gin.ntt.net                                                 
+S (2914)  
+╰─ 129.250.5.91    2914    25.964                      (Tokyo, Tokyo, JP, AS) ae-10.a01.tokyjp09.jp.bb.gin.ntt.net                                                                
+╭─ 4.68.75.129     3356    3.35                           (Tokyo, 13, JP, AS) ae-13.edge2.Tokyo4.Level3.net                                                                       
+S (3356)  
+╰─ 4.69.160.73     3356    113.226                      (Seattle, WA, US, NA) ae2.3613.edge1.Seattle3.level3.net                                                                  
+   4.59.232.138    54527   96.748                       (Seattle, WA, US, NA) *                                                                                                   
+╭─ 135.84.184.226  54527   118.463                      (Seattle, WA, US, NA) *                                                                                                   
+S&T (54527, 54632)  
+╰─ 135.84.178.229  54632   116.22                     (Vancouver, BC, CA, NA) xe-0-1-0-1245-border2-van1.etinw.net                                                                
+   23.170.33.3     54632   99.934       (Vancouver, British Columbia, CA, NA) ca-van-as397131.anchors.atlas.ripe.net                                                              

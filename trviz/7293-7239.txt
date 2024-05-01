@@ -1,0 +1,17 @@
+   102.130.66.11   37468   0.0                       (Luanda, Luanda, AO, AF)                                                                                                     
+╭─ 102.130.66.1    37468   0.264                     (Luanda, Luanda, AO, AF)                                                                                                     
+S (37468)  south-atlantic-cable-system-sacs 👍
+├  100.64.192.118  *       0.264 (2.082)                                     ***                                                                                                     
+├─ 170.238.232.149 37468   62.744                        (None, None, BR, SA) *                                                                                                   
+S (37468, 174)  ellalink ✘
+├  100.64.192.138  *       136.315                                        ***                                                                                                     
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 154.54.61.214   174     141.324                        (Porto, 13, PT, EU) be2444.rcr21.opo01.atlas.cogentco.com                                                               
+S&T (174)  seamewe-3 ✓ || sat-3wasc ✓
+├─ 154.54.61.101   174     153.86                        (Bilbao, PV, ES, EU) be2313.ccr31.bio02.atlas.cogentco.com                                                               
+S&T (174)  seamewe-3 ✓
+╰─ 154.54.39.226   174     178.946                   (Marseille, PAC, FR, EU) be3077.ccr31.mrs02.atlas.cogentco.com                                                               
+   130.117.48.165  174     179.313   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) be3927.rcr61.b062108-0.mrs02.atlas.cogentco.com                                                     
+   149.14.127.98   174     178.656   (Septèmes-les-Vallons, Provence-Alpes-Côte d'Azur, FR, EU)                                                                                                     
+   172.16.1.212    *       179.017                                        ***                                                                                                     
+   185.233.32.213  211997  179.462   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) 185-233-32-213.eho.link                                                                             

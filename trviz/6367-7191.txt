@@ -1,0 +1,13 @@
+   117.20.118.21   45498   0.0               (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     
+   117.20.118.17   45498   3.778             (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     
+   27.109.113.25   45498   1.691             (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     
+   27.109.113.4    45498   1.156             (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     
+   172.16.100.137  *       1.327                                          ***                                                                                                     
+   172.16.16.6     *       1.535                                          ***                                                                                                     
+╭─ 184.105.81.38   6939    38.876                     (Phnom Penh, 8, KH, AS) 100ge0-36.core1.pnh1.he.net                                                                         
+S (6939)  
+├─ 184.104.199.181 6939    50.459              (Hong Kong, Hong Kong, HK, AS) port-channel9.core2.hkg1.he.net                                                                     
+S (6939, 15133)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 203.190.230.32  15133   96.303                (Tokyo / Narita, 12, JP, AS) 15133.tyo.equinix.com                                                                               
+   152.195.112.52  15133   102.578                     (Tokyo, Tokyo, JP, AS)                                                                                                     

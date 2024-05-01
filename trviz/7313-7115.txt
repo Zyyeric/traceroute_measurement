@@ -1,0 +1,16 @@
+   123.176.1.4     7642    0.0                    (Male, Kaafu Atoll, MV, AS)                                                                                                     
+╭─ 123.176.1.2     7642    1.295                  (Male, Kaafu Atoll, MV, AS)                                                                                                     
+S (7642)  
+╰─ 202.1.205.241   7642    1.356                       (Singapore, 4, SG, AS) xe-1-0-0-0.rt.dhivehinet.net.mv                                                                     
+╭─ 74.82.51.49     6939    47.415              (Singapore, Singapore, SG, AS) e0-19.switch7.sin1.he.net                                                                           
+S (6939)  
+├─ 184.105.65.238  6939    129.523                (Djibouti City, DJ, DJ, AF) 10ge14-10.core1.jib1.he.net                                                                         
+S&T (6939)  
+├─ 184.105.64.13   6939    208.526                     (Mombasa, 300, KE, AF) port-channel2.core1.mba1.he.net                                                                     
+S (6939)  
+╰─ 184.104.198.49  6939    250.877                       (Durban, NL, ZA, AF) port-channel3.core1.dur1.he.net                                                                     
+   184.105.80.105  6939    270.603                    (Cape Town, WC, ZA, AF) 100ge0-35.core1.cpt1.he.net                                                                         
+   102.220.177.106 328829  273.218               (Diepsloot, Gauteng, ZA, AF) rnd-br1-sfp11-834.vumatel.co.za                                                                     
+   102.220.178.121 328829  275.286          (Cape Town, Western Cape, ZA, AF) rnd-br2-sfp28-1-862.vumatel.co.za                                                                   
+   102.220.179.118 328829  276.827          (Cape Town, Western Cape, ZA, AF) unknown.vumatel.co.za                                                                               
+   102.220.178.25  328829  277.222          (Cape Town, Western Cape, ZA, AF) unknown.vumatel.co.za                                                                               

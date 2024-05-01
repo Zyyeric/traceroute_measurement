@@ -1,0 +1,20 @@
+   5.62.127.14     199610  0.0                      (London, England, GB, EU)                                                                                                     
+╭─ 5.62.127.1      199610  0.375                    (London, England, GB, EU)                                                                                                     
+T (199610)  
+├─ 46.251.228.201  199610  1.661       (Köln, North Rhine-Westphalia, DE, EU)                                                                                                     
+T (199610, 2914)  
+├─ 157.238.226.4   2914    11.373                   (London, England, GB, EU) ae-13.a02.londen12.uk.bb.gin.ntt.net                                                                
+S (2914)  
+╰─ 129.250.3.212   2914    2.272                         (None, None, US, NA) ae-0.r20.londen12.uk.bb.gin.ntt.net                                                                 
+╭─ 129.250.3.249   2914    1.83                          (None, None, US, NA) ae-13.a03.londen12.uk.bb.gin.ntt.net                                                                
+S (2914, 6453)  
+╰─ 195.219.23.72   6453    7.355                       (London, None, GB, EU) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 80.231.131.117  6453    6.99                        (London, None, GB, EU) if-ae-15-2.tcore2.l78-london.as6453.net                                                             
+S (6453)  
+╰─ 80.231.131.66   6453    134.825                       (Mumbai, MH, IN, AS) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   115.114.12.186  4755    151.729                     (Delhi, Delhi, IN, AS) 115.114.12.186.static-delhi.vsnl.net.in                                                             
+   180.179.197.198 17439   158.01                        (None, None, IN, AS) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   216.48.178.84   132420  157.901             (Noida, Uttar Pradesh, IN, AS) e2e-95-84.ssdcloudindia.net                                                                         

@@ -1,0 +1,18 @@
+   196.49.14.25    30997   0.0                 (Accra, Greater Accra, GH, AF)                                                                                                     
+   196.49.14.1     30997   0.364               (Accra, Greater Accra, GH, AF)                                                                                                     
+╭─ 197.221.70.89   *       1.007               (Accra, Greater Accra, GH, AF)                                                                                                     
+S&T (, 3741)  
+╰─ 196.14.240.4    3741    0.885                         (None, None, ZA, AF) *                                                                                                   
+╭─ 168.209.160.109 3741    255.82                        (None, None, ZA, AF) *                                                                                                   
+T (3741)  
+├─ 168.209.160.108 3741    257.019                  (London, England, GB, EU)                                                                                                     
+T (3741)  
+├─ 168.209.246.1   3741    257.456                       (None, None, ZA, AF) core1b-dock-be-1.ip.ddii.network                                                                    
+T (3741, 15412)  
+╰─ 195.66.224.146  15412   255.613                     (London, None, GB, EU) peer1.ldn1.flagtel.com                                                                              
+╭─ 62.216.128.113  15412   385.555                     (London, None, GB, EU) xe-2-2-0.0.pjr03.ldn001.flagtel.com                                                                 
+S&T (15412)  
+╰─ 85.95.26.146    15412   281.381                   (Marseille, PAC, FR, EU) ae4.0.cjr01.mrs002.flagtel.com                                                                      
+╭─ 85.95.25.93     15412   382.077                   (Marseille, PAC, FR, EU) xe-4-0-1.0.cjr01.mrs002.flagtel.com                                                                 
+S&T (15412)  
+╰─ 80.77.4.60      15412   387.526                     (Dubai, Dubai, AE, AS)                                                                                                     

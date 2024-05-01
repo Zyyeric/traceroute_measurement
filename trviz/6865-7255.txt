@@ -1,0 +1,20 @@
+   103.179.37.157  151332  0.0                  (Melbourne, Victoria, AU, OC)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   203.192.83.253  7545    1.714                (Melbourne, Victoria, AU, OC) ip-253-83-192-203.static.pipenetworks.com                                                           
+   203.220.216.73  7545    2.002                        (Sydney, NSW, AU, OC) 203-220-216-73.tpgi.com.au                                                                          
+   27.32.160.193   7545    15.352              (North Melbourne, VIC, AU, OC) 27-32-160-193.static.tpgi.com.au                                                                    
+   202.7.171.173   7545    14.013           (Sydney, New South Wales, AU, OC) syd-gls-har-crt1-be-10.tpgi.com.au                                                                  
+╭─ 203.221.3.68    7545    13.23                        (Sydney, NSW, AU, OC) syd-gls-har-int2-be200.tpgi.com.au                                                                  
+S (7545, 6939)  
+╰─ 184.105.81.102  6939    168.335                  (Los Angeles, CA, US, NA) 100ge5-2.core1.lax2.he.net                                                                          
+╭─ 184.104.195.49  6939    201.409          (Los Angeles, California, US, NA) port-channel18.core2.lax1.he.net                                                                    
+S (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 72.52.92.214    6939    295.159                    (Amsterdam, NH, NL, EU) port-channel12.core2.ams1.he.net                                                                    
+S&T (6939)  
+╰─ 184.104.193.138 6939    299.724                    (Brussels, BRU, BE, EU) 100ge0-33.core2.bru1.he.net                                                                         
+   184.104.206.254 212882  287.647                    (Brussels, BRU, BE, EU) dnx-network-sarl.10gigabitethernet11-4.core1.bru1.he.net                                            
+   91.237.218.10   212882  287.543               (Zaventem, Flanders, BE, EU) atlas.dnx.lu                                                                                        

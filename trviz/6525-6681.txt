@@ -1,0 +1,16 @@
+   103.77.105.3    133800  0.0                     (Jakarta, Jakarta, ID, AS) ip-3-105-77-103.jkt-1.biznetg.io                                                                    
+   ***             *       -inf                                           *** *                                                                                                   
+   137.59.127.33   *       0.333                   (Jakarta, Jakarta, ID, AS) xe-0-2.cr01.jkt.biznetg.io                                                                          
+   202.169.59.21   17451   1.869                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+╭─ 182.253.100.233 17451   1.321                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+S&T (17451)  b2js-jakarta-bangka-batam-singapore-cable-system ✘ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || jasuka ✓
+├─ 182.253.255.190 17451   12.175              (Singapore, Singapore, SG, AS) gs2-4.biznetnetworks.com                                                                            
+S (17451, 6939)  asia-america-gateway-aag-cable-system ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 206.223.116.37  6939    191.393                     (San Jose, CA, US, NA) as6939.100gigabitethernet2-3.core1.sjc2.he.net                                                      
+   ***             *       -inf                                           *** *                                                                                                   
+   184.105.177.238 46749   191.861                   (Pleasanton, CA, US, NA) stanford-university.100gigabitethernet5-1.core1.pao1.he.net                                         
+   171.66.0.238    32      192.682                     (Stanford, CA, US, NA) csee-west-rtr-vl12.SUNet                                                                            
+   ***             *       -inf                                           *** *                                                                                                   
+   171.67.70.16    32      193.046             (Stanford, California, US, NA) us-pao-as32.anchors.atlas.ripe.net                                                                  

@@ -1,0 +1,21 @@
+   216.48.178.84   132420  0.0                 (Noida, Uttar Pradesh, IN, AS) e2e-95-84.ssdcloudindia.net                                                                         
+   216.48.176.1    132420  2.854                       (Delhi, Delhi, IN, AS) e2e-93-1.ssdcloudindia.net                                                                          
+   180.179.210.65  17439   0.607                   (Pitampura, Delhi, IN, AS) 180-179-210-65.static.e2enetworks.in                                                                
+   180.179.197.217 17439   0.905                   (Pitampura, Delhi, IN, AS)                                                                                                     
+   115.114.12.185  4755    1.517                       (Delhi, Delhi, IN, AS) 115.114.12.185.static-delhi.vsnl.net.in                                                             
+   ***             *       -inf                                           *** *                                                                                                   
+   180.87.38.5     6453    43.237                        (Mumbai, MH, IN, AS) ix-ae-0-100.tcore1.mlv-mumbai.as6453.net                                                            
+╭─ 180.87.38.2     6453    152.574                       (Mumbai, MH, IN, AS) if-ae-2-2.tcore2.mlv-mumbai.as6453.net                                                              
+S (6453)  
+├─ 180.87.39.21    6453    142.205                  (London, England, GB, EU) if-ae-12-2.tcore1.l78-london.as6453.net                                                             
+S (6453, 2914)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 129.250.3.13    2914    156.678                       (None, None, US, NA) ae-16.r20.frnkge13.de.bb.gin.ntt.net                                                                
+   129.250.6.2     2914    153.428                       (None, None, US, NA) ae-0.r21.frnkge13.de.bb.gin.ntt.net                                                                 
+╭─ 129.250.3.182   2914    170.952                       (None, None, US, NA) ae-3.r21.mlanit02.it.bb.gin.ntt.net                                                                 
+LHL (2914)  
+╰─ 129.250.5.151   2914    165.15                   (Milan, Lombardy, IT, EU) ae-1.a01.mlanit02.it.bb.gin.ntt.net                                                                 
+   81.25.202.226   12779   167.103                        (Milan, 25, IT, EU) *                                                                                                   
+   213.254.30.220  12779   169.289                       (Torino, 21, IT, EU) be20.Scrappy-Monster.core.TRN.itgate.net                                                            
+   213.254.30.221  12779   173.123                       (Torino, 21, IT, EU) po2.nx01.colo.trn1.itgate.net                                                                       
+   213.212.129.68  12779   171.641                  (Turin, Piedmont, IT, EU) it-trn-as12779.anchors.atlas.ripe.net                                                               

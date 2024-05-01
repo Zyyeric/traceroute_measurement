@@ -1,0 +1,17 @@
+   188.143.128.12  44050   0.0       (Saint Petersburg, St.-Petersburg, RU, EU)                                                                                                     
+   188.143.128.1   44050   1.044     (Kudrovo, Leningradskaya Oblast', RU, EU) sgw.pinspb.ru                                                                                       
+   10.74.1.111     *       1.669                                          ***                                                                                                     
+╭─ 185.1.152.59    6939    6.844                         (None, None, RU, EU) spb.piter-ix.he.net                                                                                 
+T (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.192.94  6939    15.198                         (Riga, RIX, LV, EU) 100ge5-1.core1.rix1.he.net                                                                          
+LHL (6939)  latvia-sweden-1-lv-se-1 ✓ ↠ baltica ✓ || latvia-sweden-1-lv-se-1 ✓ ↠ denmark-poland-2 ✓ || sweden-latvia ✓ ↠ baltica ✓ || sweden-latvia ✓ ↠ denmark-poland-2 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.192.77  6939    27.111                        (Warsaw, MZ, PL, EU) 100ge11-2.core1.waw1.he.net                                                                         
+   216.66.94.46    6939    27.098                   (Warsaw, Mazovia, PL, EU) orange.port-channel8.core2.waw1.he.net                                                              
+   195.149.239.1   29535   27.238                        (None, None, PL, EU) *                                                                                                   
+   80.54.111.102   50599   35.312                        (Chodecz, 4, PL, EU) z-orange.dataspace.pl                                                                               
+   91.236.54.1     50599   34.563         (Toruń, Kujawsko-Pomorskie, PL, EU) ae1.6.tor-cloud-r2.dspace.pl                                                                        
+   91.204.162.3    50599   34.418         (Toruń, Kujawsko-Pomorskie, PL, EU) lag-wan.dss.dspace.pl                                                                               
+   91.204.160.249  50599   35.245         (Toruń, Kujawsko-Pomorskie, PL, EU) cloud-public1.dss.dspace.pl                                                                         
+   91.236.55.69    50599   35.364         (Toruń, Kujawsko-Pomorskie, PL, EU) host-91-236-55-69.dataspace.pl                                                                      

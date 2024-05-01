@@ -1,0 +1,13 @@
+   102.212.60.247  329276  0.0              (Cape Town, Western Cape, ZA, AF) za-cpt-as329276.anchors.atlas.ripe.net                                                              
+   102.212.60.2    329276  0.176             (Rosebank, Western Cape, ZA, AF) net.lnx-solutions.com                                                                               
+   196.250.236.121 37662   0.336             (Rosebank, Western Cape, ZA, AF)                                                                                                     
+╭─ 154.66.247.234  37662   0.309 (2.175)                 (Trichardt, MP, ZA, AF) *                                                                                                   
+S&T (37662)  eastern-africa-submarine-system-eassy 👍 || seacomtata-tgn-eurasia ✓
+├─ 154.66.247.99   37662   114.695                       (None, None, KE, AF) *                                                                                                   
+LHL (37662, 6939)  peace-cable ✘ ↠ seamewe-3 ✓ || peace-cable ✘ ↠ europe-india-gateway-eig ✓ || seacomtata-tgn-eurasia ✓ ↠ seamewe-3 ✓ || seacomtata-tgn-eurasia ✓ ↠ europe-india-gateway-eig ✓
+├─ 184.104.204.93  6939    114.268                   (Lisbon, Lisbon, PT, EU) e0-18.core1.lis1.he.net                                                                             
+S&T (6939)  seamewe-3 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.80.13   6939    144.34                         (Milan, 25, IT, EU) 100ge7-2.core1.mil2.he.net                                                                          
+   ***             *       -inf                                           *** *                                                                                                   
+   194.116.77.35   41364   145.941                  (Turin, Piedmont, IT, EU)                                                                                                     

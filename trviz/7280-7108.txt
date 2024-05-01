@@ -1,0 +1,19 @@
+   103.23.232.7    58475   0.0        (Banjarmasin, South Kalimantan, ID, AS)                                                                                                     
+   103.23.232.1    58475   0.25       (Banjarmasin, South Kalimantan, ID, AS)                                                                                                     
+╭─ 36.93.255.177   7713    0.25 (2.344)                   (Batam, Riau, ID, AS)                                                                                                     
+S&T (7713)  s-u-b-cable-system 👍 ↠ australia-singapore-cable-asc ✓ || jaka2ladema 👍 ↠ jakabare ✓ || jaka2ladema 👍 ↠ jasuka 👍 || s-u-b-cable-system 👍 ↠ matrix-cable-system ✘ || s-u-b-cable-system 👍 ↠ b2js-jakarta-bangka-batam-singapore-cable-system ✘ || s-u-b-cable-system 👍 ↠ indonesia-global-gateway-igg-system 👍 || s-u-b-cable-system 👍 ↠ seamewe-3 ✓ || s-u-b-cable-system 👍 ↠ jasuka 👍 || s-u-b-cable-system 👍 ↠ indigo-west ✓ || s-u-b-cable-system 👍 ↠ jakarta-bangka-bintan-batam-singapore-b3js ✘ || s-u-b-cable-system 👍 ↠ jakabare ✓
+├─ 180.240.192.33  7713    21.613              (Singapore, Singapore, SG, AS)                                                                                                     
+S (7713)  eac-c2c ✓ || asia-pacific-gateway-apg ✓ || southeast-asia-japan-cable-sjc 👍 || asia-america-gateway-aag-cable-system 👍 || seamewe-3 ✓ || asia-submarine-cable-express-asecahaya-malaysia ✓ || apcn-2 ✓ || tata-tgn-intra-asia-tgn-ia ✓
+├─ 180.240.197.113 7713    72.53               (Hong Kong, Hong Kong, HK, AS)                                                                                                     
+S (7713, 6939)  asia-africa-europe-1-aae-1 ✓ || flag-europe-asia-fea ✘ || seamewe-3 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.105.65.34   6939    233.513                        (Milan, 25, IT, EU) 100ge7-1.core1.mil2.he.net                                                                          
+S&T (6939)  oteglobe-kokkini-bari ✓ || mednautilus-submarine-system ✓ || italy-greece-1 ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.64.170  6939    261.848                       (Athens, A1, GR, EU) 100ge0-36.core1.ath1.he.net                                                                         
+   184.104.191.234 6939    261.726                   (Koropí, Attica, GR, EU) fast-telecom-p-c.e0-7.core1.ath1.he.net                                                             
+   ***             *       -inf                                           *** *                                                                                                   
+   185.14.96.225   211186  268.126            (Lamía, Central Greece, GR, EU) vlan4090.lamia.fast.net.gr                                                                          
+   185.14.96.232   211186  267.411            (Lamía, Central Greece, GR, EU)                                                                                                     

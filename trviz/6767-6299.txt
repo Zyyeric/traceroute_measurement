@@ -1,0 +1,15 @@
+   197.239.73.59   37577   0.0                  (Ouagadougou, Centre, BF, AF)                                                                                                     
+   197.239.73.57   37577   0.364                (Ouagadougou, Centre, BF, AF)                                                                                                     
+   165.16.221.42   37721   0.45                          (None, None, BF, AF) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   102.67.97.145   37721   1.978                (Ouagadougou, Centre, BF, AF) ce5-255.bb1.oua1.vts.bf                                                                             
+   102.67.96.39    37721   3.995                (Ouagadougou, Centre, BF, AF)                                                                                                     
+╭─ 102.67.96.224   37721   22.314               (Ouagadougou, Centre, BF, AF) po48-2048.bb2.acc1.vts.bf                                                                           
+LHL (37721)  west-africa-cable-system-wacs ✓ || africa-coast-to-europe-ace ✓ || mainone ✘ || sat-3wasc ✓
+├─ 102.67.96.245   37721   106.708                   (Lisbon, Lisbon, PT, EU) et-0-0-1-2035.bb1.lis1.vts.bf                                                                       
+S&T (37721)  europe-india-gateway-eig ✓ || seamewe-3 ✓
+╰─ 102.67.96.26    37721   128.293                  (London, England, GB, EU) xe-0-0-1-2034.bb1.lon1.vts.bf                                                                       
+   102.67.96.10    37721   129.414                      (London, ENG, GB, EU) xe-0-0-2-41.br2.lon1.vts.bf                                                                         
+╭─ 195.66.227.176  41364   187.528                    (London, ENG, GB, None) *                                                                                                   
+S&T (41364)  
+╰─ 194.116.77.35   41364   190.02                   (Turin, Piedmont, IT, EU)                                                                                                     

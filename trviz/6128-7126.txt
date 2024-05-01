@@ -1,0 +1,21 @@
+   103.113.176.82  137566  0.0           (Ban Talat Bueng, Chon Buri, TH, AS)                                                                                                     
+   103.113.176.67  137566  0.579         (Ban Talat Bueng, Chon Buri, TH, AS)                                                                                                     
+   103.113.176.13  137566  0.783         (Ban Talat Bueng, Chon Buri, TH, AS)                                                                                                     
+   113.21.243.145  38082   0.749 (4.325)              (Bangkok, Bangkok, TH, AS) tig-net243-145.trueintergateway.com                                                                 
+╭─ 122.144.26.18   38082   30.784                        (None, None, TH, AS) TIG-Net26-18.trueintergateway.com                                                                   
+S (38082, 137409)  
+├─ 27.111.229.213  137409  27.335                    (Seogwipo, None, KR, AS) 137409.sgw.equinix.com                                                                              
+S (137409, 7578)  
+╰─ 31.217.251.74   7578    30.345              (Singapore, Singapore, SG, AS) unknown.globalsecurelayer.com                                                                       
+╭─ 160.202.164.165 137409  28.704              (Singapore, Singapore, SG, AS)                                                                                                     
+S (137409, 8529)  
+╰─ 213.202.6.228   8529    100.412                   (Muscat, Muscat, OM, AS)                                                                                                     
+╭─ 134.0.220.179   17557   119.944                       (Muscat, MA, OM, AS) *                                                                                                   
+S (17557, 7590)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 202.125.149.58  7590    134.104                   (Rawalpindi, PB, PK, AS) Touchstone-4.rwp44d1.pie.net.pk                                                                     
+   210.56.8.180    7590    135.015                    (Islamabad, IS, PK, AS) *                                                                                                   
+   210.56.11.202   7590    141.831             (Islamabad, Islamabad, PK, AS)                                                                                                     

@@ -1,0 +1,30 @@
+   103.23.232.7    58475   0.0        (Banjarmasin, South Kalimantan, ID, AS)                                                                                                     
+   103.23.232.1    58475   0.276      (Banjarmasin, South Kalimantan, ID, AS)                                                                                                     
+╭─ 36.93.255.177   7713    1.902                        (Batam, Riau, ID, AS)                                                                                                     
+S&T (7713)  s-u-b-cable-system 👍 ↠ australia-singapore-cable-asc ✓ || jaka2ladema 👍 ↠ jakabare ✓ || jaka2ladema 👍 ↠ jasuka 👍 || s-u-b-cable-system 👍 ↠ matrix-cable-system ✘ || s-u-b-cable-system 👍 ↠ b2js-jakarta-bangka-batam-singapore-cable-system ✘ || s-u-b-cable-system 👍 ↠ indonesia-global-gateway-igg-system 👍 || s-u-b-cable-system 👍 ↠ seamewe-3 ✓ || s-u-b-cable-system 👍 ↠ jasuka 👍 || s-u-b-cable-system 👍 ↠ indigo-west ✓ || s-u-b-cable-system 👍 ↠ jakarta-bangka-bintan-batam-singapore-b3js ✘ || s-u-b-cable-system 👍 ↠ jakabare ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 180.240.204.18  7713    19.56                     (Singapore, 1, SG, None) *                                                                                                   
+╭─ 180.240.204.18  7713    19.56                     (Singapore, 1, SG, None) *                                                                                                   
+LHL (7713)  seamewe-5 👍 || seamewe-4 ✓ || peace-cable ✘ || seamewe-3 ✓
+├─ 180.240.190.214 7713    197.257         (Frankfurt am Main, Hesse, DE, EU)                                                                                                     
+LHL (7713, 174)  
+├─ 154.54.89.205   174     20.727                      (Singapore, 4, SG, AS) be2270.ccr31.sin01.atlas.cogentco.com                                                               
+S (174)  seamewe-5 ✓ || seamewe-4 ✓ || peace-cable ✘ || seamewe-3 ✓
+├─ 154.54.87.214   174     157.76                    (Marseille, PAC, FR, EU) be2919.ccr32.mrs02.atlas.cogentco.com                                                               
+S&T (174)  
+╰─ 154.54.57.18    174     249.971                   (Lisbon, Lisbon, PT, EU) be2139.rcr71.lis01.atlas.cogentco.com                                                               
+╭─ 149.14.104.209  174     249.818                   (Lisbon, Lisbon, PT, EU) gi100-0-0-6.rcr21.lis01.atlas.cogentco.com                                                          
+S&T (174, 36937)  
+├─ 41.173.241.169  36937   444.463                     (Lagos, Lagos, NG, AF)                                                                                                     
+S&T (36937)  
+╰─ 41.173.241.196  36937   374.767          (Cape Town, Western Cape, ZA, AF)                                                                                                     
+   46.17.232.122   30844   393.031            (Johannesburg, Gauteng, ZA, AF) 46.17.232.122.liquidtelecom.net                                                                     
+╭─ 5.11.12.164     30844   447.293            (Johannesburg, Gauteng, ZA, AF) network.ltz-vsat182-mar.liquidtelecom.com                                                           
+S&T (30844)  
+╰─ 41.175.223.183  30844   448.281            (Nairobi, Nairobi Area, KE, AF)                                                                                                     
+   197.155.94.15   30844   448.419                      (Nairobi, 30, KE, AF) et-0-1-11.lke-p2-msa.liquidtelecom.net                                                              
+   197.155.94.74   30844   447.175                      (Nairobi, 30, KE, AF) hu-0-4-0-3.lke-p1-msa.liquidtelecom.net                                                             
+   197.155.94.51   30844   446.973                    (Nairobi, None, KE, AF) xe-0-1-0-1.lke-pe3-nbi.liquidtelecom.net                                                            
+   197.155.93.65   37578   447.033                      (Nairobi, 30, KE, AF) 197.155.93.65.liquidtelecom.net                                                                     
+   196.6.220.42    37578   447.54           (Nairobi, Nairobi County, KE, AF)                                                                                                     

@@ -1,0 +1,15 @@
+   89.213.179.65   32167   0.0                 (Hong Kong, Hong Kong, HK, AS) 89-213-179-65.ip.lshiyusercontent.com                                                               
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 103.203.243.10  955     0.336             (Kadoorie, Kowloon City, HK, AS) port-channe17.switch1.hkg1.bb.lshiy.net                                                             
+S (955, 6939)  apcn-2 ✘ || southeast-asia-japan-cable-sjc ✓ || seamewe-3 ✓ || eac-c2c ✘ || asia-pacific-gateway-apg ✘ || tata-tgn-intra-asia-tgn-ia ✘ || asia-submarine-cable-express-asecahaya-malaysia ✘ || asia-america-gateway-aag-cable-system ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.105.223.133 6939    38.554              (Singapore, Singapore, SG, AS) port-channel22.core2.sin1.he.net                                                                    
+S (6939, 15802)  
+├─ 27.111.228.108  15802   33.997                    (Seogwipo, None, KR, AS) 15802.sgw.equinix.com                                                                               
+S (15802)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  10.100.128.21   *       112.834                                        ***                                                                                                     
+├  10.100.34.118   *       112.696                                        ***                                                                                                     
+╰─ 87.201.194.242  15802   112.566                        (Dubai, DU, AE, AS) *                                                                                                   

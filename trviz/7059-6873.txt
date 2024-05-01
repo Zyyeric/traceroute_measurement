@@ -1,0 +1,32 @@
+   193.50.97.164   2200    0.0                   (Plouzané, Brittany, FR, EU) anchor.netlab.enstb.org                                                                             
+   193.50.97.161   2200    0.842                 (Plouzané, Brittany, FR, EU) netlab-gw.enstb.org                                                                                 
+   192.108.116.201 50897   0.889                 (Plouzané, Brittany, FR, EU) asr-vlan39.enst-bretagne.fr                                                                         
+   193.51.188.10   2200    7.101             (Saint-Brieuc, Brittany, FR, EU) vl807-pc1-brest1-rtr-021.noc.renater.fr                                                             
+   193.51.177.174  2200    12.751              (Paris, Île-de-France, FR, EU) et-5-2-1-ren-nr-paris1-rtr-131.noc.renater.fr                                                       
+╭─ 83.97.89.9      20965   12.356                        (Paris, IDF, FR, EU) renater-ias-geant-gw.par.fr.geant.net                                                               
+S&T (20965)  
+├─ 62.40.98.106    20965   20.654                        (Lisbon, 11, PT, EU) ae0.mx2.lis.pt.geant.net                                                                            
+S&T (20965)  
+╰─ 62.40.98.64     20965   19.389                   (London, England, GB, EU) ae2.mx1.lon.uk.geant.net                                                                            
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 64.125.22.64    6461    154.641                (Britwell, England, GB, EU) ae17.cs3.lhr11.uk.eth.zayo.com                                                                      
+S (6461)  
+╰─ 64.125.29.126   6461    156.183                     (New York, NY, US, NA) ae5.cs1.lga5.us.eth.zayo.com                                                                        
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   64.125.29.53    6461    157.533                  (Los Angeles, CA, US, NA) ae3.cs1.lax112.us.eth.zayo.com                                                                      
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 64.125.35.202   7473    156.887                         (Lehi, UT, US, NA) 64.125.35.202.IPYX-145641-004-ZYO.zip.zayo.com                                                      
+S (7473)  
+╰─ 203.208.171.117 7473    157.04                        (None, None, SG, AS) *                                                                                                   
+   203.208.154.69  7473    324.952             (Singapore, Singapore, SG, AS)                                                                                                     
+   203.208.158.10  7473    322.113             (Singapore, Singapore, SG, AS)                                                                                                     
+   203.208.183.82  7473    335.95              (Singapore, Singapore, SG, AS)                                                                                                     
+   203.208.154.57  7473    333.443             (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 203.208.168.2   136106  246.473                     (Singapore, 4, SG, AS) *                                                                                                   
+S&T (136106)  
+╰─ 123.176.124.19  136106  259.202                 (Jakarta, Jakarta, ID, AS)                                                                                                     
+   103.87.184.123  23951   265.637                       (Sleman, YO, ID, AS) ip184-123.fiberstar.net.id                                                                          
+   202.152.153.9   23951   354.842                      (Babadan, JT, ID, AS) 202-152-153-9.as23951.net                                                                           
+   202.152.129.74  23951   341.644           (Yogyakarta, Yogyakarta, ID, AS) 202-152-129-74.citra.net.id                                                                         

@@ -1,0 +1,15 @@
+   103.153.176.122 131657  0.0                       (Taipei, Taiwan, TW, AS) 103-153-176-122.as131657.net                                                                        
+   103.153.176.254 131657  0.239                     (Taipei, Taiwan, TW, AS) 103-153-176-254.as131657.net                                                                        
+   103.51.91.5     *       0.548                     (Taipei, Taiwan, TW, AS) et-0-0-1.cr1.hd.tpe.as131657.net                                                                    
+╭─ 103.158.187.30  *       1.008                     (Taipei, Taiwan, TW, AS) as6939.ly.stuix.io                                                                                  
+S (, 6939)  eac-c2c ✘ || seamewe-3 ✘ || apcn-2 ✘ || asia-pacific-gateway-apg ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.64.253  6939    112.079                     (Singapore, 4, SG, AS) 100ge11-1.core1.sin1.he.net                                                                         
+   184.105.65.178  6939    107.546             (Singapore, Singapore, SG, AS) port-channel5.core1.sin2.he.net                                                                     
+╭─ 184.104.210.182 136106  107.807                     (Singapore, 4, SG, AS) pt-mega-akses-persada.e0-2.switch2.sin2.he.net                                                      
+S&T (136106)  jasuka ✓ || jakabare ✘ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || b2js-jakarta-bangka-batam-singapore-cable-system ✘
+╰─ 103.87.186.28   136106  119.277                       (None, None, ID, AS) ip186-28.fiberstar.net.id                                                                           
+   103.87.186.179  136106  126.145                 (Jakarta, Jakarta, ID, AS) ip186-179.fiberstar.net.id                                                                          
+   103.170.24.254  142360  126.261                       (None, None, ID, AS) ipv4-254-24.170.103.as142360.net                                                                    
+   103.170.25.13   142360  126.408           (Semarang, Central Java, ID, AS) ipv4-13-25-170-103.nexa.net.id                                                                      

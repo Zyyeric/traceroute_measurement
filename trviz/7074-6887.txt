@@ -1,0 +1,16 @@
+   27.111.84.21    135132  0.0           (Cebu City, Central Visayas, PH, AS) ph-ceb-as135132.anchors.atlas.ripe.net                                                              
+   27.111.84.20    135132  1.966             (Baugo, Central Visayas, PH, AS) vlan509.core.ceb02.ds.network                                                                       
+   ***             *       -inf                                           *** *                                                                                                   
+   192.168.159.152 *       0.726                                          ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 203.177.209.217 4775    3.819             (Baugo, Central Visayas, PH, AS)                                                                                                     
+S (4775, 59105)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 210.171.225.165 59105   66.021                       (Tokyo, 40, JP, None) as59105.ix.jpix.ad.jp                                                                               
+   103.48.31.46    59105   64.967                      (Tokyo, Tokyo, JP, AS) v103.gi0-0-2.noc01cr01.bb.homenoc.ad.jp                                                             
+   103.48.31.123   59105   67.801                        (None, None, JP, AS) v1100.ge-0-0-8.pop03er03.bb.homenoc.ad.jp                                                           
+   103.41.60.172   10010   67.314                      (Tokyo, Tokyo, JP, AS) koba-bgprt2.tokyo-ix.v4.open.ad.jp                                                                  
+   103.143.136.30  63781   70.376              (Motoyoyogichō, Tokyo, JP, AS) ospfrt1-bgprt2.kobayashi.ad.jp                                                                      
+   103.143.136.43  63781   68.807                      (Tokyo, Tokyo, JP, AS) koba-103-143-136-43.rev.kobayashi.ad.jp                                                             

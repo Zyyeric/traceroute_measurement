@@ -1,0 +1,13 @@
+   128.0.113.132   199610  0.0                 (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 128.0.113.129   199610  1.136               (Singapore, Singapore, SG, AS)                                                                                                     
+S (199610, 58396)  
+├─ 27.111.230.2    58396   1.926                     (Seogwipo, None, KR, AS) 58396.sgw.equinix.com                                                                               
+S (58396, 13335)  
+╰─ 162.158.104.5   13335   2.102               (Singapore, Singapore, SG, AS)                                                                                                     
+   162.158.105.171 13335   1.458               (Singapore, Singapore, SG, AS)                                                                                                     
+   162.158.105.50  13335   1.692               (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 162.158.105.94  13335   1.729               (Singapore, Singapore, SG, AS)                                                                                                     
+S&T (13335, 133800)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 137.59.127.34   133800  13.561                        (None, None, ID, AS) ip-34-127-59-137.core.biznetg.io                                                                    
+   103.77.105.3    133800  13.68                   (Jakarta, Jakarta, ID, AS) ip-3-105-77-103.jkt-1.biznetg.io                                                                    

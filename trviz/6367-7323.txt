@@ -1,0 +1,18 @@
+   114.31.201.91   4826    0.0              (Sydney, New South Wales, AU, OC) 91.201.31.114.core.vocus.network                                                                    
+   114.31.201.90   4826    0.762            (Sydney, New South Wales, AU, OC) 90.201.31.114.core.vocus.network                                                                    
+   114.31.192.70   4826    92.507                       (Sydney, NSW, AU, OC) *                                                                                                   
+   103.1.77.14     *       92.986           (Sydney, New South Wales, AU, OC) be202.lsr01.dody.nsw.vocus.network                                                                  
+   103.1.76.147    4826    92.33                         (None, None, AU, OC) be803.lsr01.prth.wa.vocus.network                                                                   
+╭─ 103.1.77.121    4826    91.842                        (None, None, AU, OC) be201.cor03.per02.wa.vocus.network                                                                  
+S (4826)  
+╰─ 114.31.206.51   4826    91.866                      (Singapore, 4, SG, AS) be201.bdr01.sin01.sin.vocus.network                                                                 
+   80.81.65.217    15412   91.751                      (Singapore, 4, SG, AS) *                                                                                                   
+╭─ 62.216.137.165  15412   179.481                     (Singapore, 4, SG, AS) ae18.0.cjr01.sin001.flagtel.com                                                                     
+S (15412)  
+├─ 85.95.25.41     15412   179.692                  (Hong Kong, None, HK, AS) xe-0-0-14.0.pjr04.hkg005.flagtel.com                                                                
+S (15412)  
+├─ 62.216.128.110  15412   177.102                       (None, None, GB, EU) ae10.0.pjr03.wad001.flagtel.com                                                                     
+S (15412)  
+╰─ 85.95.26.114    15412   178.54                         (Tokyo, 13, JP, AS) ae2.0.eji01.tok007.flagtel.com                                                                      
+   ***             *       -inf                                           *** *                                                                                                   
+   152.195.112.52  15133   178.079                     (Tokyo, Tokyo, JP, AS)                                                                                                     

@@ -1,0 +1,20 @@
+   92.38.178.149   202422  0.0                       (Urayasu, Tokyo, JP, AS)                                                                                                     
+╭─ 92.38.178.1     202422  0.179                     (Urayasu, Tokyo, JP, AS) gw.gcore.lu                                                                                         
+S (202422, 6939)  japan-u-s-cable-network-jus ✘ || tata-tgn-pacific ✘ || pacific-crossing-1-pc-1 ✘ || faster ✘ || jupiter ✘
+├  10.255.16.181   *       0.203                                          ***                                                                                                     
+├  10.255.16.183   *       0.493                                          ***                                                                                                     
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.81.82   6939    108.372             (San Jose, California, US, NA) port-channel10.core2.pao1.he.net                                                                    
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 184.104.199.69  6939    126.43               (Seattle, Washington, US, NA) port-channel15.core2.sea1.he.net                                                                    
+S&T (6939)  
+╰─ 184.104.196.222 6939    129.912                    (Vancouver, BC, CA, NA) port-channel2.core2.yvr1.he.net                                                                     
+╭─ 184.104.195.14  6939    130.31       (Vancouver, British Columbia, CA, NA) port-channel1.core1.yvr2.he.net                                                                     
+S&T (6939, 14007)  
+├─ 65.49.79.250    14007   129.167                       (None, None, US, NA) *                                                                                                   
+S&T (14007)  
+╰─ 216.251.132.66  14007   129.32                         (Delta, BC, CA, NA) tranAvan2.skywaywest.net                                                                            
+   216.251.158.65  395152  129.524              (North Vancouver, BC, CA, NA) *                                                                                                   
+   192.102.254.220 395152  129.6        (Vancouver, British Columbia, CA, NA)                                                                                                     

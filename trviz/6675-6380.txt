@@ -1,0 +1,18 @@
+   196.49.14.25    30997   0.0                 (Accra, Greater Accra, GH, AF)                                                                                                     
+   196.49.14.1     30997   0.323               (Accra, Greater Accra, GH, AF)                                                                                                     
+╭─ 197.221.70.89   *       0.838               (Accra, Greater Accra, GH, AF)                                                                                                     
+S&T (, 3741)  
+╰─ 196.14.240.4    3741    0.934                         (None, None, ZA, AF) *                                                                                                   
+╭─ 168.209.160.109 3741    255.977                       (None, None, ZA, AF) *                                                                                                   
+T (3741)  
+├─ 168.209.160.108 3741    255.883                  (London, England, GB, EU)                                                                                                     
+T (3741)  
+├─ 168.209.246.1   3741    255.947                       (None, None, ZA, AF) core1b-dock-be-1.ip.ddii.network                                                                    
+T (3741, 9002)  
+├─ 195.66.224.193  9002    255.39                     (London, ENG, GB, None) linx-224.retn.net                                                                                   
+S&T (9002)  
+╰─ 87.245.233.115  9002    278.12                   (Milan, Lombardy, IT, EU) et302-10.rt.vsx.pda.it.retn.net                                                                     
+   87.245.241.129  9002    281.223                  (Milan, Lombardy, IT, EU) gw-as201333.retn.net                                                                                
+   185.78.48.22    201333  218.186                  (Milan, Lombardy, IT, EU) ens1f4-920-r02.pia1.naquadria.net                                                                   
+   185.78.48.244   201333  216.204                    (Parabiago, 25, IT, EU) lf01b5-vlan910.pia1.naquadria.net                                                                   
+   185.78.49.100   201333  216.209         (Piacenza, Emilia-Romagna, IT, EU) it-pcz-as201333.anchors.atlas.ripe.net                                                              

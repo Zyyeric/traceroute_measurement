@@ -1,0 +1,28 @@
+   92.38.135.131   202422  0.0                         (Seoul, Seoul, KR, AS)                                                                                                     
+   92.38.135.3     202422  0.722                       (Seoul, Seoul, KR, AS) vrrp.gcore.lu                                                                                       
+   10.255.17.209   *       0.551                                          ***                                                                                                     
+   10.255.17.213   *       0.602                                          ***                                                                                                     
+   10.255.17.147   *       0.535                                          ***                                                                                                     
+╭─ 113.29.52.41    3549    1.718                       (Seoul, Seoul, KR, AS)                                                                                                     
+S (3549, 3356)  apcn-2 ✘ || asia-pacific-gateway-apg ✘ || flag-north-asia-loopreach-north-asia-loop ✘ || eac-c2c ✘ || new-cross-pacific-ncp-cable-system ✘ || korea-japan-cable-network-kjcn ✘ || seamewe-3 ✘ || flag-europe-asia-fea ✘ || trans-pacific-express-tpe-cable-system ✘
+╰─ 4.69.217.14     3356    32.262                         (Tokyo, 13, JP, AS) ae1.3505.edge2.Tokyo4.level3.net                                                                    
+╭─ 4.68.75.130     2914    31.312                         (Tokyo, 13, JP, AS) NTT-level3-Tokyo4.Level3.net                                                                        
+S (2914)  
+╰─ 129.250.7.55    2914    32.416                        (None, None, US, NA) ae-1.r30.tokyjp05.jp.bb.gin.ntt.net                                                                 
+   ***             *       -inf                                           *** *                                                                                                   
+   129.250.3.146   2914    140.294                       (None, None, US, NA) ae-5.sayonara-dorian.r24.snjsca04.us.bb.gin.ntt.net                                                 
+   129.250.6.238   2914    189.438                       (None, None, US, NA) ae-2.sayonara-dorian.r24.asbnva02.us.bb.gin.ntt.net                                                 
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 129.250.3.47    2914    260.984                       (None, None, US, NA) ae-0.r20.parsfr04.fr.bb.gin.ntt.net                                                                 
+S (2914)  
+├─ 129.250.3.39    2914    260.434                       (None, None, GB, EU) ae-17.r00.mrslfr01.fr.bb.gin.ntt.net                                                                
+S&T (2914, 30844)  
+╰─ 81.25.197.190   30844   376.586                  (Marseille, None, FR, EU) xe-0-1-0-3-3.r00.mrslfr01.fr.ce.gin.ntt.net                                                         
+╭─ 5.11.13.115     30844   369.979   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) te0-0-0-23.lfr-p1-mrs.liquidtelecom.com                                                             
+S&T (30844)  
+├─ 217.15.112.225  30844   383.248                      (London, ENG, GB, EU) xe-0-1-1-1.ltz-p1-sea.liquidtelecom.net                                                             
+LHL (30844)  
+╰─ 197.155.94.74   30844   384.52                       (Nairobi, 30, KE, AF) hu-0-4-0-3.lke-p1-msa.liquidtelecom.net                                                             
+   197.155.94.51   30844   382.268                    (Nairobi, None, KE, AF) xe-0-1-0-1.lke-pe3-nbi.liquidtelecom.net                                                            
+   197.155.93.65   37578   329.587                      (Nairobi, 30, KE, AF) 197.155.93.65.liquidtelecom.net                                                                     
+   196.6.220.42    37578   331.805          (Nairobi, Nairobi County, KE, AF)                                                                                                     

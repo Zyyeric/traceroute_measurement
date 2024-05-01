@@ -1,0 +1,17 @@
+   192.30.89.87    394256  0.0          (Vancouver, British Columbia, CA, NA) ca-van-as394256.anchors.atlas.ripe.net                                                              
+   192.30.89.94    394256  0.341        (Vancouver, British Columbia, CA, NA)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   184.105.222.97  6939    26.898                      (Winnipeg, MB, CA, NA) 100ge10-2.core1.ywg1.he.net                                                                         
+╭─ 184.105.64.101  6939    48.56                   (Toronto, Ontario, CA, NA) 100ge0-71.core2.tor1.he.net                                                                         
+S&T (6939)  
+├─ 184.104.196.177 6939    56.892                      (New York, NY, US, NA) 100ge0-76.core3.nyc4.he.net                                                                         
+LHL (6939, 9049)  exa-north-and-south ✓ || atlantic-crossing-1-ac-1 ✓ || apollo ✓ || yellow ✓ || tata-tgn-atlantic ✓ || flag-atlantic-1-fa-1 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 195.208.209.132 9049    165.31                      (Moscow, 48, RU, None) msk-ix.ertelecom.ru                                                                                 
+   31.131.196.10   9049    213.674              (Tomsk, Tomsk Oblast, RU, EU) 31x131x196x10.static.ertelecom.ru                                                                   
+   31.131.196.11   9049    213.867              (Tomsk, Tomsk Oblast, RU, EU) 31x131x196x11.static.ertelecom.ru                                                                   
+   193.42.115.222  51724   214.294              (Tomsk, Tomsk Oblast, RU, EU) p7234-probes-atlas-ripe.flynet.pro                                                                  

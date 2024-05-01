@@ -1,0 +1,24 @@
+   141.164.39.1    20473   0.0                      (Paripark, Seoul, KR, AS) 141.164.39.1.vultrusercontent.com                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   100.100.200.1   *       0.709                                          ***                                                                                                     
+   10.84.0.25      *       1.01                                           ***                                                                                                     
+   10.84.2.45      *       1.013                                          ***                                                                                                     
+   10.84.2.38      *       1.16                                           ***                                                                                                     
+   210.176.150.116 4637    1.484                       (Seoul, Seoul, KR, AS) unknown.telstraglobal.net                                                                           
+╭─ 202.84.149.101  4637    3.75                        (Seoul, Seoul, KR, AS)                                                                                                     
+S (4637)  apcn-2 👍 || asia-pacific-gateway-apg ✓ || flag-north-asia-loopreach-north-asia-loop 👍 || eac-c2c 👍 || new-cross-pacific-ncp-cable-system ✓ || korea-japan-cable-network-kjcn ✓ || seamewe-3 👍 || flag-europe-asia-fea ✓ || trans-pacific-express-tpe-cable-system ✓
+├─ 202.84.138.37   4637    32.605                      (Tokyo, Tokyo, JP, AS)                                                                                                     
+S (4637)  japan-u-s-cable-network-jus 👍 || tata-tgn-pacific ✓ || pacific-crossing-1-pc-1 ✓ || faster ✓ || jupiter ✓ || new-cross-pacific-ncp-cable-system ✓ || trans-pacific-express-tpe-cable-system ✓ || unityeac-pacific 👍
+╰─ 202.84.141.1    4637    139.724             (San Jose, California, US, NA) i-10857.eqnx-core02.telstraglobal.net                                                               
+   202.84.247.17   4637    137.48              (San Jose, California, US, NA) i-92.eqnx03.telstraglobal.net                                                                       
+╭─ 4.68.68.125     3356    138.287       (East Palo Alto, California, US, NA)                                                                                                     
+S (3356, 3216)  atlantic-crossing-1-ac-1 👍
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 213.19.197.34   3216    329.401                    (Amsterdam, NH, NL, EU) EDN-SOVINTE.ear4.Amsterdam1.Level3.net                                                              
+T (3216)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 212.119.196.106 3216    414.104           (Khabarovsk, Khabarovsk, RU, EU)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   92.38.191.67    210756  414.77            (Khabarovsk, Khabarovsk, RU, EU) vrrp.edgecenter.ru                                                                                  
+   185.209.84.10   198412  414.097                  (Khabarovsk, KHA, RU, AS) ae1-0.c10.khv01.ru.misaka.io                                                                        
+   185.209.84.141  57578   414.317           (Khabarovsk, Khabarovsk, RU, EU) ru-khv-as57578.anchors.atlas.ripe.net                                                               

@@ -1,0 +1,13 @@
+   103.253.132.25  59238   0.0                     (Bangkok, Bangkok, TH, AS) th-bkk-as59238.anchors.atlas.ripe.net                                                               
+   103.253.132.1   59238   0.32                 (Khlong San, Bangkok, TH, AS) gw-cat.idc.inox.co.th                                                                               
+   172.24.132.102  *       0.425                                          ***                                                                                                     
+   172.24.132.23   *       0.637                                          ***                                                                                                     
+   172.21.21.2     *       0.806                                          ***                                                                                                     
+╭─ 122.155.224.73  4651    0.718 (1.617)           (Khlong San, Bangkok, TH, AS)                                                                                                     
+S&T (4651)  asia-america-gateway-aag-cable-system ✓ || seamewe-4 ✓ || seamewe-3 ✓
+├─ 61.19.9.134     4651    25.084                   (Singapore, None, SG, AS) *                                                                                                   
+S (4651, 7642)  
+├─ 27.111.228.167  7642    70.921                    (Seogwipo, None, KR, AS) 7642.sgw.equinix.com                                                                                
+LHL (7642)  
+╰─ 202.1.205.242   7642    73.734                        (None, None, MV, AS) xe-1-0-0-1.rt.dhivehinet.net.mv                                                                     
+   123.176.1.4     7642    71.137                 (Male, Kaafu Atoll, MV, AS)                                                                                                     

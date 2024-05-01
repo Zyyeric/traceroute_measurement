@@ -1,0 +1,13 @@
+   92.38.178.149   202422  0.0                       (Urayasu, Tokyo, JP, AS)                                                                                                     
+╭─ 92.38.178.1     202422  0.319                     (Urayasu, Tokyo, JP, AS) gw.gcore.lu                                                                                         
+S (202422, 6939)  japan-u-s-cable-network-jus ✘ || tata-tgn-pacific ✘ || pacific-crossing-1-pc-1 ✘ || faster ✘ || jupiter ✘
+├  10.255.16.182   *       0.241                                          ***                                                                                                     
+├  10.255.16.183   *       0.493                                          ***                                                                                                     
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.194.37  6939    108.16                      (San Jose, CA, US, NA) 100ge12-2.core1.sjc2.he.net                                                                         
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   184.104.199.69  6939    126.833              (Seattle, Washington, US, NA) port-channel15.core2.sea1.he.net                                                                    
+   206.81.81.130   395823  126.641                    (Seattle, WA, US, None) six2.doof.net                                                                                       
+   205.201.63.22   395823  126.958              (Seattle, Washington, US, NA) us-sea-as395823.anchors.atlas.ripe.net                                                              

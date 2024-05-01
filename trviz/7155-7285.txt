@@ -1,0 +1,12 @@
+   31.133.40.23    52091   0.0                     (Taganrog, Rostov, RU, EU)                                                                                                     
+   31.133.40.22    52091   1.052                   (Taganrog, Rostov, RU, EU)                                                                                                     
+╭─ 31.133.40.239   52091   17.73                     (Moscow, Moscow, RU, EU)                                                                                                     
+LHL (52091, 6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.190.62  6939    36.807              (Stockholm, Stockholm, SE, EU) rascom-as-as20764.e0-57.core3.sto1.he.net                                                           
+S&T (6939, 20764)  eastern-light ✘ || bcs-north---phase-1 ✓ || sweden-finland-4-sfs-4 ✓ || baltic-sea-submarine-cable ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 81.27.251.65    20764   61.941                 (Helsinki, Uusimaa, FI, EU) tbs-cl9-cr1.lt-0-0-0-0.rascom.as20764.net                                                           
+LHL (20764, 198150)  georgia-russia ✓
+╰─ 46.8.37.5       198150  97.671                  (Tbilisi, Tbilisi, GE, AS) ordunet-tbilisi.sia-com.com                                                                         
+   185.143.176.6   203136  96.653    (Zugdidi, Samegrelo and Zemo Svaneti, GE, AS)                                                                                                     

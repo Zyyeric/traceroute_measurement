@@ -1,0 +1,11 @@
+   194.116.77.35   41364   0.0                      (Turin, Piedmont, IT, EU)                                                                                                     
+╭─ 194.116.76.253  41364   1.135                  (Gerbido, Piedmont, IT, EU)                                                                                                     
+LHL (41364, 6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.196.194 6939    23.803                        (Denver, CO, US, NA) port-channel1.core1.den3.he.net                                                                     
+LHL (6939)  
+╰─ 184.105.64.170  6939    34.59                         (Athens, A1, GR, EU) 100ge0-36.core1.ath1.he.net                                                                         
+   184.104.191.234 6939    34.554                    (Koropí, Attica, GR, EU) fast-telecom-p-c.e0-7.core1.ath1.he.net                                                             
+   ***             *       -inf                                           *** *                                                                                                   
+   185.14.96.225   211186  47.428             (Lamía, Central Greece, GR, EU) vlan4090.lamia.fast.net.gr                                                                          
+   185.14.96.232   211186  46.38              (Lamía, Central Greece, GR, EU)                                                                                                     

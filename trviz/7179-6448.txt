@@ -1,0 +1,20 @@
+   185.221.36.2    48854   0.0           (Tranbjerg, Central Jutland, DK, EU) dk-skg-as48854.anchors.atlas.ripe.net                                                               
+   185.221.36.253  48854   0.419          (Stilling, Central Jutland, DK, EU)                                                                                                     
+   212.237.248.14  48854   0.424          (Stilling, Central Jutland, DK, EU)                                                                                                     
+   80.70.0.248     48854   0.341          (Stilling, Central Jutland, DK, EU)                                                                                                     
+   212.237.251.47  3342    0.37           (Stilling, Central Jutland, DK, EU)                                                                                                     
+╭─ 212.237.251.46  3342    1.572          (Stilling, Central Jutland, DK, EU)                                                                                                     
+T (3342, 3356)  
+├─ 212.133.12.129  3356    1.174 (4.793)              (Hamburg, Hamburg, DE, EU) ae52.edge4.hamburg1.level3.net                                                                      
+T (3356)  
+├─ 171.75.9.210    3356    9.479           (Amsterdam, North Holland, NL, EU) ae2.3204.edge7.ams1.neo.colt.net                                                                    
+S&T (3356, 174)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 154.54.58.69    174     23.549                    (Liverpool, ENG, GB, EU) be2183.ccr22.lpl01.atlas.cogentco.com                                                               
+S (174)  
+╰─ 154.54.44.166   174     90.52                       (Montreal, QC, CA, NA) be3043.ccr22.ymq01.atlas.cogentco.com                                                               
+   154.54.91.102   174     93.077                   (Ottawa, Ontario, CA, NA) be3526.rcr61.yow01.atlas.cogentco.com                                                               
+   154.24.83.130   174     96.01                    (Ottawa, Ontario, CA, NA) be3532.nr61.b069001-1.yow01.atlas.cogentco.com                                                      
+   23.130.139.252  52210   95.83                    (Ottawa, Ontario, CA, NA) yow-cr2.accuris.ca                                                                                  
+   23.130.139.253  52210   95.83                    (Kanata, Ontario, CA, NA) yow-sw2.accuris.ca                                                                                  
+   23.130.139.89   52210   95.905                   (Kanata, Ontario, CA, NA) 89-139-130-23.static.accuris.ca                                                                     

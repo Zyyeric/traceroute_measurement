@@ -1,0 +1,24 @@
+   45.11.104.146   57695   0.0                 (Hong Kong, Hong Kong, HK, AS) hk-hkg-as57695.anchors.atlas.ripe.net                                                               
+   45.11.104.9     57695   0.134               (Hong Kong, Hong Kong, HK, AS) po30.0103.hkg12.hk.misaka.io                                                                        
+   45.11.104.7     57695   0.204                    (Hong Kong, None, HK, AS) po-07.lag.hkg12.hk.misaka.io                                                                        
+╭─ 199.119.64.150  969     0.235               (Hong Kong, Hong Kong, HK, AS) po103-10.cr1a.eqhk2.hkg12.hk.917.as                                                                 
+S (969, 9009)  
+├─ 45.11.107.130   9009    0.31                          (None, None, US, NA) m247.edge.otp03.ro.misaka.io                                                                        
+S (9009, )  
+├─ 193.41.248.53   *       0.482               (Hong Kong, Hong Kong, HK, AS) as9002.hkg.dmit.com                                                                                 
+S (, 9002)  
+╰─ 87.245.232.252  9002    154.335                       (Paris, IDF, FR, EU) ae10-11.RT.THV.PAR.FR.retn.net                                                                      
+   208.184.12.152  6461    177.717             (Paris, Île-de-France, FR, EU) zayo.ae17.mcs1.cdg11.fr.zip.zayo.com                                                                
+   64.125.29.94    6461    185.748                       (Paris, IDF, FR, EU) ae1.cs1.cdg11.fr.eth.zayo.com                                                                       
+╭─ 64.125.29.84    6461    182.927                       (Paris, IDF, FR, EU) ae0.cs1.cdg12.fr.eth.zayo.com                                                                       
+T (6461)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 64.125.31.105   6461    188.827                    (Amsterdam, NH, NL, EU) ae11.er1.ams1.nl.zip.zayo.com                                                                       
+╭─ 193.28.62.102   6461    154.245         (Amsterdam, North Holland, NL, EU) 193.28.62.102.idia-386943-006-zyo.zip.zayo.com                                                      
+T (6461, 47787)  
+├─ 193.109.190.74  47787   180.281                   (Madrid, Madrid, ES, EU) er1.mad1.edgoo.net                                                                                  
+S&T (47787)  
+╰─ 193.163.151.209 47787   187.818                       (Lisbon, 11, PT, EU) cr1.lis1.edgoo.net                                                                                  
+   193.109.188.7   47787   268.356                   (Lisbon, Lisbon, PT, EU)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   185.32.189.249  62416   273.739                 (Odivelas, Lisbon, PT, EU) pt-lis-as62416.anchors.atlas.ripe.net                                                               

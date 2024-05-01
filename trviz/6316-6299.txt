@@ -1,0 +1,17 @@
+   197.239.73.59   37577   0.0                  (Ouagadougou, Centre, BF, AF)                                                                                                     
+   197.239.73.57   37577   0.325                (Ouagadougou, Centre, BF, AF)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   165.16.221.41   37721   0.838                         (None, None, BF, AF) *                                                                                                   
+   102.67.97.181   37721   0.723                (Ouagadougou, Centre, BF, AF) ce5-355.bb2.oua2.vts.bf                                                                             
+   102.67.96.39    37721   3.125                (Ouagadougou, Centre, BF, AF)                                                                                                     
+╭─ 102.67.96.224   37721   16.976               (Ouagadougou, Centre, BF, AF) po48-2048.bb2.acc1.vts.bf                                                                           
+LHL (37721)  west-africa-cable-system-wacs ✓ || africa-coast-to-europe-ace ✓ || mainone ✘ || sat-3wasc ✓
+├─ 102.67.96.245   37721   104.583                   (Lisbon, Lisbon, PT, EU) et-0-0-1-2035.bb1.lis1.vts.bf                                                                       
+S&T (37721)  europe-india-gateway-eig ✓ || seamewe-3 ✓
+╰─ 102.67.96.26    37721   125.797                  (London, England, GB, EU) xe-0-0-1-2034.bb1.lon1.vts.bf                                                                       
+   102.67.96.10    37721   125.573                      (London, ENG, GB, EU) xe-0-0-2-41.br2.lon1.vts.bf                                                                         
+╭─ 195.66.226.31   12779   133.108                    (London, ENG, GB, None) linx.itgate.net                                                                                     
+S&T (12779)  
+╰─ 213.254.30.220  12779   152.115                       (Torino, 21, IT, EU) be20.Scrappy-Monster.core.TRN.itgate.net                                                            
+   213.254.30.221  12779   145.368                       (Torino, 21, IT, EU) po2.nx01.colo.trn1.itgate.net                                                                       
+   213.212.129.68  12779   136.28                   (Turin, Piedmont, IT, EU) it-trn-as12779.anchors.atlas.ripe.net                                                               

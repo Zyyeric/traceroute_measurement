@@ -1,0 +1,18 @@
+   87.201.194.242  15802   0.0                            (Dubai, DU, AE, AS) *                                                                                                   
+   87.201.194.241  15802   1.748                          (Dubai, DU, AE, AS) *                                                                                                   
+   10.100.34.117   *       1.729                                          ***                                                                                                     
+   10.100.128.22   *       2.401                                          ***                                                                                                     
+   10.53.17.77     *       5.458                                          ***                                                                                                     
+╭─ 185.1.8.63      *       3.96                        (Dubai, Dubai, AE, AS) ipv4.uaeix-dubai.core1.dxb1.he.net                                                                  
+S (, 6939)  seamewe-3 ✘
+╰─ 184.104.193.102 6939    124.656   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) port-channel1.core3.mrs1.he.net                                                                     
+╭─ 184.105.80.133  6939    128.222                   (Marseille, PAC, FR, EU) 100ge15-2.core1.mrs1.he.net                                                                         
+S (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.105.81.141  6939    137.217                      (Ashburn, VA, US, NA) port-channel10.core3.ash1.he.net                                                                    
+S (6939, 56655)  
+╰─ 185.125.170.252 56655   136.029                       (Oslo, Oslo, NO, EU)                                                                                                     
+   185.125.170.47  56655   138.47                        (Oslo, Oslo, NO, EU)                                                                                                     
+   185.14.97.165   56655   1422.162                      (Oslo, Oslo, NO, EU)                                                                                                     
+   185.14.97.165   56655   1422.162                      (Oslo, Oslo, NO, EU)                                                                                                     

@@ -1,0 +1,19 @@
+   46.227.202.97   41495   0.0                  (Manchester, England, GB, EU) uk-mnc-as41495.anchors.atlas.ripe.net                                                               
+   46.227.207.255  41495   0.636                    (London, England, GB, EU) anycast.gateway.faelix.net                                                                          
+   46.227.206.41   41495   0.894                (Manchester, England, GB, EU) host-46-227-206-41.rev.as41495.net                                                                  
+   46.227.206.84   41495   1.278                (Manchester, England, GB, EU) v0100.bond0.fossey.a.faelix.net                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   46.227.200.123  41495   1.252                (Manchester, England, GB, EU) v2313.eth5.aebi.m.faelix.net                                                                        
+   31.217.131.65   4455    1.147                     (Liverpool, ENG, GB, EU) *                                                                                                   
+   91.196.184.101  4455    8.43                         (London, ENG, GB, EU) ae0-3113.bb.thn.lon.as43531.net                                                                     
+   216.66.84.218   4455    8.226                        (London, ENG, GB, EU) ixreach-ltd.10gigabitethernet8-1.core1.lon1.he.net                                                  
+╭─ 216.66.84.217   6939    8.561                    (London, England, GB, EU) port-channel4.core3.lon1.he.net                                                                     
+S (6939)  exa-north-and-south ✓ || atlantic-crossing-1-ac-1 ✓ || flag-atlantic-1-fa-1 ✓ || apollo ✓ || yellow ✓ || tata-tgn-atlantic ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.188.100 6939    79.021           (New York City, New York, US, NA) port-channel22.core3.nyc4.he.net                                                                    
+S&T (6939, 1403)  exa-north-and-south ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 96.127.249.105  1403    86.82                       (Montreal, QC, CA, NA) 0.ae6.er2.mtl3.yul.ebox.ca                                                                          
+   96.127.249.162  1403    86.472                      (Montreal, QC, CA, NA) 0.ae0.er1.1225stco.yhu.ebox.ca                                                                      
+   172.93.18.42    1403    86.552                 (Longueuil, Quebec, CA, NA) ca-lon-as1403.anchors.atlas.ripe.net                                                                

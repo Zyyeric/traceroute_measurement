@@ -1,0 +1,18 @@
+   103.143.136.43  63781   0.0                         (Tokyo, Tokyo, JP, AS) koba-103-143-136-43.rev.kobayashi.ad.jp                                                             
+   103.143.136.62  63781   2.403                       (Tokyo, Tokyo, JP, AS) koba-103-143-136-62.rev.kobayashi.ad.jp                                                             
+   103.143.136.29  63781   0.305                       (Tokyo, Tokyo, JP, AS) bgprt2-ospfrt1.kobayashi.ad.jp                                                                      
+   103.143.136.17  63781   0.385                       (Tokyo, Tokyo, JP, AS) koba-103-143-136-17.rev.kobayashi.ad.jp                                                             
+   103.41.60.164   10010   0.485                       (Tokyo, Tokyo, JP, AS) bgp3.tokyo-ix.v4.open.ad.jp                                                                         
+   150.99.184.33   2907    1.705                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+   150.99.10.187   2907    1.478                         (None, None, JP, AS) *                                                                                                   
+   202.232.6.17    2497    2.009                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+   58.138.99.130   2497    3.912                       (Tokyo, Tokyo, JP, AS) tky009bb10.iij.net                                                                                  
+╭─ 58.138.114.134  2497    2.237                       (Tokyo, Tokyo, JP, AS) tky009ix55.iij.net                                                                                  
+S (2497, 3491)  apcn-2 ✓ || eac-c2c ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 63.218.236.114  3491    32.641                       (Seoul, None, KR, AS) Bundle-Ether41.br03.seo03.pccwbtn.net                                                               
+   63.218.237.134  20473   32.98                        (Seoul, None, KR, AS) Vultr-Holdings.TE-0-0-0-24.br03.seo03.pccwbtn.net                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   141.164.39.1    20473   32.761                   (Paripark, Seoul, KR, AS) 141.164.39.1.vultrusercontent.com                                                                   

@@ -1,0 +1,20 @@
+   27.111.84.21    135132  0.0           (Cebu City, Central Visayas, PH, AS) ph-ceb-as135132.anchors.atlas.ripe.net                                                              
+   27.111.84.20    135132  1.024             (Baugo, Central Visayas, PH, AS) vlan509.core.ceb02.ds.network                                                                       
+   192.168.159.142 *       19.392                                         ***                                                                                                     
+   192.168.159.152 *       3.494                                          ***                                                                                                     
+   192.168.159.168 *       30.035                                         ***                                                                                                     
+   192.168.159.165 *       2.21                                           ***                                                                                                     
+╭─ 203.177.209.217 4775    4.938             (Baugo, Central Visayas, PH, AS)                                                                                                     
+S (4775, 6453)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 180.87.112.102  6453    29.666              (Hong Kong, Hong Kong, HK, AS) ix-xe-0-1-0-0.tcore1.hk2-hongkong.as6453.net                                                        
+S (6453)  
+╰─ 116.0.93.146    6453    66.184                        (None, None, SG, AS) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   180.87.12.1     6453    66.518                   (Singapore, None, SG, AS) if-ae-2-2.tcore1.svw-singapore.as6453.net                                                           
+╭─ 180.87.12.34    6453    124.444                       (None, None, SG, AS) *                                                                                                   
+S&T (6453, 45117)  
+├  172.31.213.25   *       137.755                                        ***                                                                                                     
+╰─ 121.241.90.58   45117   132.272                    (Ahmedabad, GJ, IN, AS) 121.241.90.58.static-ahmedabad.vsnl.net.in                                                          
+   116.206.155.229 45117   131.036               (Ahmedabad, Gujarat, IN, AS)                                                                                                     

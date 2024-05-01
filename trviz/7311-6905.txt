@@ -1,0 +1,18 @@
+   103.253.132.25  59238   0.0                     (Bangkok, Bangkok, TH, AS) th-bkk-as59238.anchors.atlas.ripe.net                                                               
+   103.253.132.1   59238   0.3                  (Khlong San, Bangkok, TH, AS) gw-cat.idc.inox.co.th                                                                               
+   172.24.132.102  *       0.233                                          ***                                                                                                     
+   172.24.132.24   *       0.211                                          ***                                                                                                     
+   172.21.21.2     *       0.521                                          ***                                                                                                     
+╭─ 122.155.224.73  4651    7.058                (Khlong San, Bangkok, TH, AS)                                                                                                     
+S&T (4651)  
+├─ 61.19.9.138     4651    28.546              (Singapore, Singapore, SG, AS)                                                                                                     
+S (4651, 6939)  asia-submarine-cable-express-asecahaya-malaysia ✓ || seamewe-3 ✓ || eac-c2c ✓ || apcn-2 ✓ || southeast-asia-japan-cable-sjc ✓ || asia-pacific-gateway-apg ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.105.64.130  6939    94.694                (Tokyo / Narita, 12, JP, AS) 100ge10-1.core1.tyo1.he.net                                                                         
+S (6939)  tata-tgn-pacific ✓ || faster ✓ || japan-u-s-cable-network-jus ✓ || new-cross-pacific-ncp-cable-system ✓ || jupiter ✓ || trans-pacific-express-tpe-cable-system ✓ || unityeac-pacific ✓ || pacific-crossing-1-pc-1 ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.65.113  6939    201.805                     (San Jose, CA, US, NA) 100ge13-2.core1.sjc1.he.net                                                                         
+   64.71.166.231   6939    204.094             (San Jose, California, US, NA) macarne-llc.e0-1.switch1.snt3.he.net                                                                
+   10.10.10.1      *       197.772                                        ***                                                                                                     
+   23.155.72.145   64289   197.964          (Santa Clara, California, US, NA)                                                                                                     

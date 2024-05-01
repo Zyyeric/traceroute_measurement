@@ -1,0 +1,11 @@
+   103.116.125.2   23947   0.0                 (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 103.116.125.1   23947   1.018               (Singapore, Singapore, SG, AS)                                                                                                     
+S (23947, 4826)  
+├─ 27.111.228.74   4826    0.735                     (Seogwipo, None, KR, AS) 4826.sgw.equinix.com                                                                                
+S (4826)  
+╰─ 114.31.206.74   4826    91.522                         (Perth, WA, AU, OC) be203.cor03.per02.wa.vocus.network                                                                  
+   103.1.77.0      4826    92.077                        (None, None, AU, OC) be200.lsr01.brdg.nsw.vocus.network                                                                  
+   103.1.76.144    4826    92.029                        (None, None, AU, OC) be803.lsr01.brdg.nsw.vocus.network                                                                  
+   ***             *       -inf                                           *** *                                                                                                   
+   114.31.192.105  4826    92.884           (Sydney, New South Wales, AU, OC) be2.bdr02.syd11.nsw.vocus.network                                                                   
+   114.31.201.91   4826    91.737           (Sydney, New South Wales, AU, OC) 91.201.31.114.core.vocus.network                                                                    

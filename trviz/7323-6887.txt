@@ -1,0 +1,18 @@
+   27.111.84.21    135132  0.0           (Cebu City, Central Visayas, PH, AS) ph-ceb-as135132.anchors.atlas.ripe.net                                                              
+   27.111.84.20    135132  2.106             (Baugo, Central Visayas, PH, AS) vlan509.core.ceb02.ds.network                                                                       
+   192.168.159.142 *       15.61                                          ***                                                                                                     
+   192.168.159.152 *       2.474                                          ***                                                                                                     
+   192.168.159.168 *       22.303                                         ***                                                                                                     
+   192.168.159.165 *       3.583                                          ***                                                                                                     
+╭─ 203.177.209.217 4775    2.918             (Baugo, Central Visayas, PH, AS)                                                                                                     
+S (4775, 4826)  national-digital-transmission-network-ndtn ✘ ↠ eac-c2c © || national-digital-transmission-network-ndtn ✘ ↠ seamewe-3 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 27.111.228.74   4826    65.823                    (Seogwipo, None, KR, AS) 4826.sgw.equinix.com                                                                                
+S (4826)  
+╰─ 114.31.206.74   4826    155.07                         (Perth, WA, AU, OC) be203.cor03.per02.wa.vocus.network                                                                  
+   103.1.77.0      4826    155.624                       (None, None, AU, OC) be200.lsr01.brdg.nsw.vocus.network                                                                  
+   103.1.76.144    4826    151.484                       (None, None, AU, OC) be803.lsr01.brdg.nsw.vocus.network                                                                  
+   103.1.77.39     *       155.136          (Sydney, New South Wales, AU, OC) be200.cor03.syd14.nsw.vocus.network                                                                 
+   114.31.192.105  4826    145.82           (Sydney, New South Wales, AU, OC) be2.bdr02.syd11.nsw.vocus.network                                                                   
+   114.31.201.91   4826    143.553          (Sydney, New South Wales, AU, OC) 91.201.31.114.core.vocus.network                                                                    

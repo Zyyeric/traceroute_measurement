@@ -1,0 +1,20 @@
+   143.129.80.132  2611    0.0                  (Antwerpen, Flanders, BE, EU)                                                                                                     
+   143.129.80.130  2611    0.382                  (Berchem, Flanders, BE, EU)                                                                                                     
+   143.129.67.252  2611    0.928                  (Berchem, Flanders, BE, EU)                                                                                                     
+   192.168.141.40  *       1.46                                           ***                                                                                                     
+   192.168.148.101 *       1.827                                          ***                                                                                                     
+   193.191.18.9    2611    2.364                  (Berchem, Flanders, BE, EU) r1.antwil.belnet.net                                                                                
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 194.53.172.33   6939    3.924                    (Brussels, BRU, BE, None) he.bnix.net                                                                                         
+LHL (6939)  seamewe-3 ✓ ↠ apollo ✓ || seamewe-3 ✓ ↠ flag-atlantic-1-fa-1 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.81.150  6939    88.561                       (Ashburn, VA, US, NA) 100ge0-56.core3.ash1.he.net                                                                         
+   184.104.198.225 6939    140.291          (Los Angeles, California, US, NA) port-channel17.core2.lax1.he.net                                                                    
+╭─ 72.52.92.122    6939    140.425                  (Los Angeles, CA, US, NA) 100ge14-1.core1.lax2.he.net                                                                         
+S (6939)  new-cross-pacific-ncp-cable-system ✓ || trans-pacific-express-tpe-cable-system ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.81.70   6939    252.443                        (Seoul, 28, KR, AS) 10ge0-1.core2.sel1.he.net                                                                           
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   45.80.212.35    199524  266.893                     (Seoul, Seoul, KR, AS) vrrp.gcore.com                                                                                      
+   92.38.135.131   202422  266.828                     (Seoul, Seoul, KR, AS)                                                                                                     

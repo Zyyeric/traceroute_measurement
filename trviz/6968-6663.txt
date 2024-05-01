@@ -1,0 +1,19 @@
+   92.223.93.208   202422  0.0                      (Milan, Lombardy, IT, EU)                                                                                                     
+   92.223.93.195   202422  0.31                     (Milan, Lombardy, IT, EU) vrrp.gcore.lu                                                                                       
+   10.255.169.181  *       0.309                                          ***                                                                                                     
+   10.255.169.178  *       0.435                                          ***                                                                                                     
+   149.14.135.249  174     0.61                     (Milan, Lombardy, IT, EU) hu0-1-0-0.nr51.b026361-0.mil01.atlas.cogentco.com                                                   
+╭─ 154.25.12.145   174     0.539 (2.35)               (Milan, Lombardy, IT, EU) be2218.rcr21.mil01.atlas.cogentco.com                                                               
+S&T (174)  
+├─ 154.54.74.177   174     11.395                    (Marseille, PAC, FR, EU) be2865.ccr32.mrs02.atlas.cogentco.com                                                               
+S (174, 9498)  
+├─ 149.6.154.98    9498    9.885                         (None, None, US, NA) bharti.demarc.cogentco.com                                                                          
+LHL (9498)  
+╰─ 116.119.106.198 9498    125.164                       (None, None, IN, AS) *                                                                                                   
+   61.246.97.190   9498    125.135             (Bengaluru, Karnataka, IN, AS) dsl-tn-190.97.246.61.airtelbroadband.in                                                             
+   143.244.225.133 *       124.793             (Bengaluru, Karnataka, IN, AS)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   159.65.150.114  14061   124.893        (Doddaballapura, Karnataka, IN, AS) in-blr-as14061.anchors.atlas.ripe.net                                                               

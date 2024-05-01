@@ -1,0 +1,19 @@
+   196.49.14.25    30997   0.0                 (Accra, Greater Accra, GH, AF)                                                                                                     
+   196.49.14.1     30997   0.587               (Accra, Greater Accra, GH, AF)                                                                                                     
+╭─ 197.221.70.89   *       1.105               (Accra, Greater Accra, GH, AF)                                                                                                     
+S&T (, 3741)  
+╰─ 196.14.240.4    3741    1.124                         (None, None, ZA, AF) *                                                                                                   
+╭─ 168.209.160.109 3741    256.049                       (None, None, ZA, AF) *                                                                                                   
+T (3741)  
+├─ 168.209.160.108 3741    256.207                  (London, England, GB, EU)                                                                                                     
+T (3741)  
+├─ 168.209.246.1   3741    257.094                       (None, None, ZA, AF) core1b-dock-be-1.ip.ddii.network                                                                    
+T (3741, 174)  
+╰─ 149.6.148.129   174     255.655                      (London, ENG, GB, EU) te0-1-0-2-8.ccr21.lon02.atlas.cogentco.com                                                          
+╭─ 154.54.61.253   174     255.985                      (London, ENG, GB, EU) be2572.ccr41.lon13.atlas.cogentco.com                                                               
+S&T (174)  
+╰─ 154.54.56.130   174     263.115                       (Paris, IDF, FR, EU) be12497.ccr41.par01.atlas.cogentco.com                                                              
+   130.117.3.2     174     270.913           (Bordeaux/Merignac, NAQ, FR, EU) be3039.rcr71.bod01.atlas.cogentco.com                                                               
+   154.25.0.74     174     271.268           (Bordeaux/Merignac, NAQ, FR, EU) te0-0-2-2.nr11.b015544-0.bod01.atlas.cogentco.com                                                   
+   149.6.44.19     174     270.166     (Bordeaux, Nouvelle-Aquitaine, FR, EU)                                                                                                     
+   185.233.100.99  198985  270.986     (Bordeaux, Nouvelle-Aquitaine, FR, EU) ripe-atlas.aquilenet.fr                                                                             

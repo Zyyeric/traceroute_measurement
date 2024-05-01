@@ -1,0 +1,24 @@
+   103.202.216.76  59105   0.0                         (Chōfu, Tokyo, JP, AS)                                                                                                     
+   103.202.216.73  59105   0.341                       (Tokyo, Tokyo, JP, AS) ge-2-1-0.pop03er03.bb.homenoc.ad.jp                                                                 
+   210.188.225.233 9370    0.602                       (Tokyo, Tokyo, JP, AS) tkwrt301x-as59105.bb.sakura.ad.jp                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   210.138.107.33  2497    1.049                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+╭─ 58.138.102.109  2497    1.217                       (Tokyo, Tokyo, JP, AS) tky001bb01.iij.net                                                                                  
+S (2497)  japan-u-s-cable-network-jus ✓ || tata-tgn-pacific ✓ || pacific-crossing-1-pc-1 ✓ || faster ✓ || jupiter ✓
+╰─ 58.138.88.134   2497    94.282               (Seattle, Washington, US, NA) sea001bb00.iij.net                                                                                  
+   ***             *       -inf                                           *** *                                                                                                   
+   154.54.95.177   174     95.027               (Seattle, Washington, US, NA)                                                                                                     
+   154.54.44.74    174     120.365               (Salt Lake City, UT, US, NA) be3284.ccr21.slc01.atlas.cogentco.com                                                               
+   154.54.41.146   174     136.261                       (Denver, CO, US, NA) be3037.ccr21.den01.atlas.cogentco.com                                                               
+   154.54.5.90     174     149.73                   (Kansas City, MO, US, NA) be3035.ccr21.mci01.atlas.cogentco.com                                                               
+   154.54.42.166   174     153.578                      (Chicago, IL, US, NA) be2831.ccr41.ord01.atlas.cogentco.com                                                               
+   154.54.6.222    174     160.418                    (Cleveland, OH, US, NA) be2717.ccr21.cle04.atlas.cogentco.com                                                               
+╭─ 154.54.82.250   174     175.641                   (Washington, DC, US, NA) be2891.ccr41.dca01.atlas.cogentco.com                                                               
+S (174)  marea ✓
+├─ 154.54.85.242   174     249.841                       (Bilbao, PV, ES, EU) be2331.ccr31.bio02.atlas.cogentco.com                                                               
+S&T (174)  sat-3wasc ✓ || seamewe-3 ✓
+╰─ 154.54.61.102   174     263.672                        (Porto, 13, PT, EU) be2313.rcr21.opo01.atlas.cogentco.com                                                               
+   154.54.61.213   174     269.207                       (Lisbon, 11, PT, EU) be2444.rcr21.lis01.atlas.cogentco.com                                                               
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   185.32.189.249  62416   280.935                 (Odivelas, Lisbon, PT, EU) pt-lis-as62416.anchors.atlas.ripe.net                                                               

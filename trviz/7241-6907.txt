@@ -1,0 +1,12 @@
+   103.153.176.122 131657  0.0                       (Taipei, Taiwan, TW, AS) 103-153-176-122.as131657.net                                                                        
+   103.153.176.254 131657  0.293                     (Taipei, Taiwan, TW, AS) 103-153-176-254.as131657.net                                                                        
+   103.51.91.5     *       0.53                      (Taipei, Taiwan, TW, AS) et-0-0-1.cr1.hd.tpe.as131657.net                                                                    
+╭─ 203.163.222.55  15412   0.601                        (Taipei, 4, TW, None) 55-222-163-203-static.tpix.net.tw                                                                   
+S (15412)  seamewe-3 ✓ || eac-c2c ✓ || flag-north-asia-loopreach-north-asia-loop 👍 || asia-pacific-gateway-apg ✓
+├─ 62.216.128.34   15412   29.248                   (Hong Kong, None, HK, AS) xe-3-1-0.0.cji01.hkg003.flagtel.com                                                                 
+S (15412)  
+╰─ 85.95.25.201    15412   29.364                        (None, None, GB, EU) *                                                                                                   
+╭─ 80.81.75.154    23944   66.212                        (None, None, GB, EU) *                                                                                                   
+S (23944)  
+├  172.31.31.11    *       67.003                                         ***                                                                                                     
+╰─ 182.18.209.9    23944   70.695              (Manila, Metro Manila, PH, AS)                                                                                                     

@@ -1,0 +1,16 @@
+   149.28.210.233  20473   0.0              (Santa Clara, California, US, NA) 149.28.210.233.vultrusercontent.com                                                                 
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 45.63.81.1      20473   11.746              (San Jose, California, US, NA) vl199-ds1-j2-yd39.sjc1.constant.com                                                                 
+S (20473, 6939)  asia-america-gateway-aag-cable-system ✓
+├  10.65.1.69      *       1.069                                          ***                                                                                                     
+├  10.65.5.2       *       1.17                                           ***                                                                                                     
+├  10.65.1.229     *       0.73                                           ***                                                                                                     
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.208.93  6939    185.835             (Singapore, Singapore, SG, AS) true-internet-corporation-co-ltd.port-channel18.core3.sin1.he.net                                   
+S&T (6939, 38082)  asia-america-gateway-aag-cable-system ✓ || seamewe-4 ✓ || seamewe-3 ✓
+╰─ 113.21.241.209  38082   210.315                       (None, None, TH, AS) TH-ICR-MTT1-241-209.trueintergateway.com                                                            
+   113.21.243.146  137566  210.941                       (None, None, TH, AS) TIG-Net243-146.trueintergateway.com                                                                 
+   103.113.176.2   137566  216.039                       (None, None, TH, AS) *                                                                                                   
+   103.113.176.82  137566  215.428       (Ban Talat Bueng, Chon Buri, TH, AS)                                                                                                     

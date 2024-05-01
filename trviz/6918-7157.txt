@@ -1,0 +1,22 @@
+   23.174.128.243  53698   0.0               (Sacramento, California, US, NA) us-sac-as53698.anchors.atlas.ripe.net                                                               
+   23.174.128.17   53698   0.417             (Sacramento, California, US, NA) vlan3-gateway.qts.smf.nix-ops.net                                                                   
+   206.71.13.13    *       1.35              (Sacramento, California, US, NA)                                                                                                     
+   4.14.111.245    3356    4.907          (San Francisco, California, US, NA) xe-9-2-2.bar1.sanfrancisco1.level3.net                                                              
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 4.7.17.18       2516    4.841                         (Gilroy, CA, US, NA) *                                                                                                   
+S (2516)  
+╰─ 111.87.3.233    2516    4.933                         (None, None, JP, AS) *                                                                                                   
+   106.187.13.13   2516    105.242                       (None, None, JP, AS) oteACS001.int-gw.kddi.ne.jp.13.187.106.in-addr.arpa                                                 
+   27.86.121.137   2516    112.973                       (None, None, JP, AS) *                                                                                                   
+   27.86.32.2      2516    112.152                       (Meieki, 23, JP, AS) oteJIN301.int-gw.kddi.ne.jp                                                                         
+   175.131.164.38  2516    114.379                     (Tokyo, Tokyo, JP, AS)                                                                                                     
+╭─ 23.56.131.36    20940   112.375               (Tokyo / Narita, 12, JP, AS) ae2.r02.tyo01.icn.netarch.akamai.com                                                                
+S (20940)  
+╰─ 23.215.54.32    20940   182.304             (Singapore, Singapore, SG, AS) ae10.r02.sin01.icn.netarch.akamai.com                                                               
+   23.215.54.164   20940   182.07                      (Singapore, 4, SG, AS) ae0.r01.sin01.icn.netarch.akamai.com                                                                
+   23.56.138.37    20940   178.427                     (Singapore, 4, SG, AS) ae1.r02.sin01.ien.netarch.akamai.com                                                                
+   23.56.138.25    20940   179.716             (Singapore, Singapore, SG, AS) a23-56-138-25.deploy.static.akamaitechnologies.com                                                  
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   139.162.3.33    63949   179.714             (Singapore, Singapore, SG, AS) li845-33.members.linode.com                                                                         

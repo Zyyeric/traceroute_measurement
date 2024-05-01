@@ -1,0 +1,20 @@
+   116.206.155.229 45117   0.0                   (Ahmedabad, Gujarat, IN, AS)                                                                                                     
+   116.206.155.225 45117   0.911                 (Ahmedabad, Gujarat, IN, AS)                                                                                                     
+   121.241.90.57   4755    1.336                 (Ahmedabad, Gujarat, IN, AS) 121.241.90.57.static-ahmedabad.vsnl.net.in                                                          
+   172.28.176.253  *       9.256                                          ***                                                                                                     
+╭─ 180.87.38.5     6453    9.138                         (Mumbai, MH, IN, AS) ix-ae-0-100.tcore1.mlv-mumbai.as6453.net                                                            
+S (6453)  europe-india-gateway-eig ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 180.87.39.21    6453    134.406                  (London, England, GB, EU) if-ae-12-2.tcore1.l78-london.as6453.net                                                             
+   80.231.131.1    6453    137.245                     (London, None, GB, EU) if-ae-2-2.tcore2.l78-london.as6453.net                                                              
+╭─ 80.231.131.118  6453    138.113                     (London, None, GB, EU) if-ae-15-2.tcore2.ldn-london.as6453.net                                                             
+T (6453, 3320)  
+╰─ 80.150.171.217  3320    138.152                    (Hochstadt, BY, DE, EU) *                                                                                                   
+   217.5.119.74    3320    146.643                       (None, None, DE, EU) *                                                                                                   
+   62.159.61.125   24961   147.805             (Eisenhüttenstadt, BB, DE, EU) *                                                                                                   
+   62.141.47.20    24961   150.662                   (Düsseldorf, NW, DE, EU) po6.core3-dus1.bb.as24961.net                                                                       
+   62.141.47.189   24961   163.035                   (Düsseldorf, NW, DE, EU) po10.agr1-dus3.bb.as24961.net                                                                       
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 62.141.35.93    24961   150.487   (Düsseldorf, North Rhine-Westphalia, DE, EU)                                                                                                     
+T (24961, 41047)  
+╰─ 87.237.165.29   41047   151.728         (Amsterdam, North Holland, NL, EU)                                                                                                     

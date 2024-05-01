@@ -1,0 +1,22 @@
+   103.143.136.43  63781   0.0                         (Tokyo, Tokyo, JP, AS) koba-103-143-136-43.rev.kobayashi.ad.jp                                                             
+   103.143.136.62  63781   2.945                       (Tokyo, Tokyo, JP, AS) koba-103-143-136-62.rev.kobayashi.ad.jp                                                             
+   103.143.136.25  63781   0.778                       (Tokyo, Tokyo, JP, AS) bgprt1-ospfrt1.kobayashi.ad.jp                                                                      
+   103.41.60.164   10010   0.703                       (Tokyo, Tokyo, JP, AS) bgp3.tokyo-ix.v4.open.ad.jp                                                                         
+   150.99.184.33   2907    1.865                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+   150.99.10.187   2907    2.004                         (None, None, JP, AS) *                                                                                                   
+   202.232.6.17    2497    2.476                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+╭─ 58.138.114.221  2497    2.165 (5.675)                  (Tokyo, Tokyo, JP, AS) tky009bb01.iij.net                                                                                  
+S (2497)  japan-u-s-cable-network-jus ✓ || tata-tgn-pacific ✓ || pacific-crossing-1-pc-1 ✓ || faster ✓ || jupiter ✓
+╰─ 58.138.88.238   2497    101.635             (San Jose, California, US, NA) sjc002bb00.iij.net                                                                                  
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 62.115.137.170  1299    178.706          (Jersey City, New Jersey, US, NA) nyk-bb2-link.ip.twelve99.net                                                                        
+LHL (1299)  exa-north-and-south ✘ || atlantic-crossing-1-ac-1 ✓ || apollo © || yellow ✓ || tata-tgn-atlantic ✓ || flag-atlantic-1-fa-1 ©
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 62.115.139.172  1299    264.362             (Stockholm, Stockholm, SE, EU) s-bb2-link.ip.twelve99.net                                                                          
+S&T (1299)  
+╰─ 62.115.123.203  1299    288.524                (Helsinki, Uusimaa, FI, EU) hls-b4-link.ip.twelve99.net                                                                         
+   62.115.162.99   1299    244.883                (Helsinki, Uusimaa, FI, EU) fne-ic-332648.ip.twelve99-cust.net                                                                  
+   87.236.158.145  47605   245.078                       (None, None, FI, EU) *                                                                                                   
+   87.236.158.63   199087  255.788                       (None, None, FI, EU) *                                                                                                   
+   89.190.2.245    199087  255.792   (Lestijärvi, Central Ostrobothnia, FI, EU) dynamic-245-2.kasenet.fi                                                                            
+   89.190.1.74     199087  256.661   (Lestijärvi, Central Ostrobothnia, FI, EU) dynamic-74-1.kasenet.fi                                                                             

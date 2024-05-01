@@ -1,0 +1,18 @@
+   117.20.118.21   45498   0.0               (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     
+   117.20.118.17   45498   2.133             (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     
+   27.109.113.25   45498   1.226             (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     
+   27.109.113.4    45498   1.057             (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     
+   172.16.100.137  *       1.254                                          ***                                                                                                     
+   172.16.16.2     *       1.554                                          ***                                                                                                     
+╭─ 184.105.81.38   6939    38.815                     (Phnom Penh, 8, KH, AS) 100ge0-36.core1.pnh1.he.net                                                                         
+S (6939)  
+├─ 184.104.198.86  6939    36.635                       (Bangkok, 10, TH, AS) port-channel3.core1.bkk1.he.net                                                                     
+S&T (6939)  
+├─ 184.104.197.102 6939    38.724                  (Kuala Lumpur, 14, MY, AS) ve955.core1.kul1.he.net                                                                             
+S&T (6939)  
+╰─ 184.105.223.133 6939    37.981              (Singapore, Singapore, SG, AS) port-channel22.core2.sin1.he.net                                                                    
+╭─ 184.104.209.233 6939    38.245                      (Singapore, 4, SG, AS) 10gigabitethernet1-16.core1.sin1.he.net                                                             
+S (6939)  
+╰─ 184.105.64.198  6939    113.789                        (Dubai, DU, AE, AS) 10ge4-11.core1.dxb1.he.net                                                                          
+   185.1.8.17      57187   113.564                       (Dubai, 3, AE, None) j48-1.dxa.dxb.ae.datamena.net                                                                       
+   94.207.43.2     57187   113.732                     (Dubai, Dubai, AE, AS) -094-207-043-002.datamena.net                                                                       

@@ -1,0 +1,14 @@
+   102.130.66.11   37468   0.0                       (Luanda, Luanda, AO, AF)                                                                                                     
+   102.130.66.1    37468   0.31                      (Luanda, Luanda, AO, AF)                                                                                                     
+   102.130.69.247  37468   0.893                     (Luanda, Luanda, AO, AF)                                                                                                     
+   102.130.68.111  37468   0.796 (2.075)                (Luanda, Luanda, AO, AF)                                                                                                     
+╭─ 102.130.68.138  37468   36.666                        (None, None, AO, AF) *                                                                                                   
+LHL (37468, 3257)  west-africa-cable-system-wacs 👍 ↠ tata-tgn-western-europe ✓ || west-africa-cable-system-wacs 👍 ↠ europe-india-gateway-eig ✓ || west-africa-cable-system-wacs 👍 ↠ seamewe-3 ✓ || sat-3wasc ✓ ↠ tata-tgn-western-europe ✓ || sat-3wasc ✓ ↠ europe-india-gateway-eig ✓ || sat-3wasc ✓ ↠ seamewe-3 ✓
+├  100.64.192.13   *       185.752                                        ***                                                                                                     
+╰─ 212.222.183.193 3257    186.3                    (London, England, GB, EU) ae19-623.cr10-lon1.ip4.gtt.net                                                                      
+╭─ 89.149.139.25   3257    186.152                      (London, ENG, GB, EU) ae22.cr11-lon1.ip4.gtt.net                                                                          
+S&T (3257, 8895)  circe-north ✓ || ulysses-2 ✘ || scylla © || zeus ✓ || atlantic-crossing-1-ac-1 ✓ || concerto ✘ || farland-north ✘
+├─ 154.14.64.198   8895    277.81                     (Amsterdam, NH, NL, EU) ip4.gtt.net                                                                                         
+LHL (8895, 208520)  falcon ✘ || tata-tgn-gulf ✓ || seamewe-5 ✓ || gulf-bridge-international-cable-system-gbicsmiddle-east-north-africa-mena-cable-system ✘ || seamewe-4 ✓ || seamewe-3 ✓ || asia-africa-europe-1-aae-1 ✓ || flag-europe-asia-fea ✘ || europe-india-gateway-eig ✓ || imewe ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 45.94.14.204    208520  291.494            (Riyadh, Riyadh Region, SA, AS)                                                                                                     

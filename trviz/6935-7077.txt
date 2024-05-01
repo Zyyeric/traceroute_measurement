@@ -1,0 +1,26 @@
+   216.48.178.84   132420  0.0                 (Noida, Uttar Pradesh, IN, AS) e2e-95-84.ssdcloudindia.net                                                                         
+   ***             *       -inf                                           *** *                                                                                                   
+   180.179.210.65  17439   1.109                   (Pitampura, Delhi, IN, AS) 180-179-210-65.static.e2enetworks.in                                                                
+   180.179.197.217 17439   1.023                   (Pitampura, Delhi, IN, AS)                                                                                                     
+   115.114.12.185  4755    1.174                       (Delhi, Delhi, IN, AS) 115.114.12.185.static-delhi.vsnl.net.in                                                             
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 180.87.38.5     6453    22.404                        (Mumbai, MH, IN, AS) ix-ae-0-100.tcore1.mlv-mumbai.as6453.net                                                            
+S (6453)  seamewe-3 👍
+╰─ 195.219.174.16  6453    158.793   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) if-be-6-2.ecore1.emrs2-marseille.as6453.net                                                         
+╭─ 80.231.165.25   6453    155.63    (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) if-bundle-2-2.qcore2.emrs2-marseille.as6453.net                                                     
+LHL (6453, 33932)  seamewe-3 👍 ↠ exa-north-and-south ✘ || seamewe-3 👍 ↠ exa-express ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 80.231.91.33    33932   160.039                       (None, None, CA, NA) *                                                                                                   
+LHL (33932, 6453)  exa-north-and-south ✘ ↠ flag-europe-asia-fea ✘ || exa-north-and-south ✘ ↠ seamewe-3 ✘ || exa-north-and-south ✘ ↠ tata-tgn-western-europe ✘ || exa-express ✘ ↠ flag-europe-asia-fea ✘ || exa-express ✘ ↠ seamewe-3 ✘ || exa-express ✘ ↠ tata-tgn-western-europe ✘
+├─ 80.231.0.35     6453    159.949                        (Madrid, M, ES, EU) *                                                                                                   
+S&T (6453)  
+╰─ 80.231.159.40   6453    159.899                     (Lisbon, None, PT, EU) if-ae-31-2.tcore2.pv9-lisbon.as6453.net                                                             
+╭─ 80.231.159.26   37468   161.731                       (Lisbon, 11, PT, EU) *                                                                                                   
+S&T (37468)  
+╰─ 102.130.68.68   37468   278.916          (Cape Town, Western Cape, ZA, AF)                                                                                                     
+   102.130.68.113  37468   292.278                 (Johannesburg, GT, ZA, AF) *                                                                                                   
+   102.130.70.58   37468   292.654            (Johannesburg, Gauteng, ZA, AF)                                                                                                     
+   37.19.193.193   60068   293.096                (Edenvale, Gauteng, ZA, AF) p77-3503.cr1a.tdjb1.jnb1.za.917.as                                                                  
+   ***             *       -inf                                           *** *                                                                                                   
+   102.130.49.21   328383  294.007            (Johannesburg, Gauteng, ZA, AF) po-21.lag.jnb01.za.misaka.io                                                                        
+   102.130.49.144  328383  291.88             (Johannesburg, Gauteng, ZA, AF) za-jnb-as57695.anchors.atlas.ripe.net                                                               

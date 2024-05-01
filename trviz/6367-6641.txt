@@ -1,0 +1,12 @@
+   92.38.135.131   202422  0.0                         (Seoul, Seoul, KR, AS)                                                                                                     
+   92.38.135.2     202422  0.427                       (Seoul, Seoul, KR, AS) vrrp.gcore.lu                                                                                       
+   10.255.17.210   *       0.577                                          ***                                                                                                     
+   10.255.17.213   *       0.603                                          ***                                                                                                     
+   10.255.17.147   *       0.696                                          ***                                                                                                     
+╭─ 8.244.74.25     3356    0.657 (1.803)                  (Seoul, Seoul, KR, AS)                                                                                                     
+S (3356)  apcn-2 ✓ || korea-japan-cable-network-kjcn ✓ || eac-c2c © || asia-pacific-gateway-apg ✓
+╰─ 4.69.217.14     3356    31.337                         (Tokyo, 13, JP, AS) ae1.3505.edge2.Tokyo4.level3.net                                                                    
+   4.68.70.86      3491    31.813                         (Tokyo, 13, JP, AS) PCCW-level3-Tokyo4.Level3.net                                                                       
+   63.218.250.145  3491    31.239                         (Tokyo, 13, JP, AS) TenGE0-3-0-5.br02.tok02.pccwbtn.net                                                                 
+   63.218.251.18   15133   31.904                (Tokyo / Narita, 12, JP, AS) *                                                                                                   
+   152.195.112.52  15133   31.182                      (Tokyo, Tokyo, JP, AS)                                                                                                     

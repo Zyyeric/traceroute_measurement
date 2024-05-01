@@ -1,0 +1,17 @@
+   5.62.127.14     199610  0.0                      (London, England, GB, EU)                                                                                                     
+╭─ 5.62.127.1      199610  0.431                    (London, England, GB, EU)                                                                                                     
+T (199610)  
+├─ 46.251.228.201  199610  1.871       (Köln, North Rhine-Westphalia, DE, EU)                                                                                                     
+T (199610, 2914)  
+├─ 157.238.226.4   2914    1.952                    (London, England, GB, EU) ae-13.a02.londen12.uk.bb.gin.ntt.net                                                                
+S (2914)  
+╰─ 129.250.3.214   2914    3.47                          (None, None, US, NA) ae-0.r21.londen12.uk.bb.gin.ntt.net                                                                 
+   129.250.4.25    2914    9.134                         (None, None, US, NA) ae-12.r20.parsfr04.fr.bb.gin.ntt.net                                                                
+   129.250.3.46    2914    9.843                         (None, None, US, NA) ae-2.r21.parsfr04.fr.bb.gin.ntt.net                                                                 
+╭─ 129.250.4.189   2914    23.039                        (None, None, US, NA) ae-6.r20.mlanit02.it.bb.gin.ntt.net                                                                 
+LHL (2914)  
+├─ 129.250.5.143   2914    23.878                   (Milan, Lombardy, IT, EU) ae-0.a01.mlanit02.it.bb.gin.ntt.net                                                                 
+T (2914, 35574)  
+├─ 81.25.202.250   35574   23.369            (Frankfurt am Main, 5, DE, None) *                                                                                                   
+T (35574)  
+╰─ 194.187.174.6   35574   22.72                    (Milan, Lombardy, IT, EU)                                                                                                     

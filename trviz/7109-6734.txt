@@ -1,0 +1,17 @@
+   95.217.19.69    24940   0.0                    (Helsinki, Uusimaa, FI, EU) fi-tuu-as24940-client.anchors.atlas.ripe.net                                                        
+   172.31.1.1      *       2.267                                          ***                                                                                                     
+   95.216.132.233  24940   0.262                       (Helsinki, 18, FI, EU) 15272.your-cloud.host                                                                               
+   ***             *       -inf                                           *** *                                                                                                   
+   88.198.252.113  24940   1.095                    (Vantaa, Uusimaa, FI, EU) spine1.cloud1.hel1.hetzner.com                                                                      
+   213.239.228.45  24940   0.443                    (Vantaa, Uusimaa, FI, EU) spine16.cloud1.hel1.hetzner.com                                                                     
+╭─ 213.239.228.13  24940   0.482                    (Vantaa, Uusimaa, FI, EU) core32.hel1.hetzner.com                                                                             
+S&T (24940)  
+├─ 213.239.224.25  24940   0.625                         (None, None, DE, EU) juniper4.dc1.hel1.hetzner.com                                                                       
+S&T (24940, 8473)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 85.24.220.2     8473    9.304               (Stockholm, Stockholm, SE, EU) sto2-p1.se.as8473.net                                                                               
+   46.59.112.87    8473    8.145               (Stockholm, Stockholm, SE, EU) sto2-p1.sto-cr2.as8473.net                                                                          
+   46.59.112.95    8473    8.049                      (Stockholm, AB, SE, EU) sto-cr2.sto-cr1.bahnhof.net                                                                         
+   176.10.178.41   8473    8.691                      (Stockholm, AB, SE, EU) sto-cr1.sto-pio-dr2.bahnhof.net                                                                     
+   176.10.178.207  8473    7.827                      (Stockholm, AB, SE, EU) sto-pio-dr2.pio-dr2.bahnhof.net                                                                     
+   192.42.97.210   8473    7.64                (Stockholm, Stockholm, SE, EU) se-sto-as8473.anchors.atlas.ripe.net                                                                

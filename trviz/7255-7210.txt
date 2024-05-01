@@ -1,0 +1,19 @@
+   185.6.39.132    42953   0.0                        (Cork, Munster, IE, EU)                                                                                                     
+   185.6.39.130    42953   0.887                      (Cork, Munster, IE, EU)                                                                                                     
+   91.103.0.98     47720   0.589                      (Cork, Munster, IE, EU)                                                                                                     
+╭─ 91.103.0.197    47720   0.6                        (Cork, Munster, IE, EU)                                                                                                     
+S (47720)  
+├─ 91.103.0.194    47720   0.903                         (None, None, US, NA) *                                                                                                   
+S (47720, 20473)  
+╰─ 195.66.226.176  20473   12.734                       (London, ENG, GB, EU) vl32-br1-cer.lon3.choopa.net                                                                        
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 78.141.239.220  20473   12.96                    (London, England, GB, EU) router01-vul-lon.as151332.net                                                                       
+S&T (20473)  
+├─ 217.69.15.96    20473   19.528              (Paris, Île-de-France, FR, EU) router01-vul-par.as151332.net                                                                       
+S (20473)  
+├─ 45.77.39.153    20473   181.386             (Singapore, Singapore, SG, AS) router01-vul-sin.as151332.net                                                                       
+S (20473, 7545)  
+╰─ 203.192.83.254  7545    281.917              (Melbourne, Victoria, AU, OC) ip-254-83-192-203.static.pipenetworks.com                                                           
+   103.179.37.157  151332  283.68               (Melbourne, Victoria, AU, OC)                                                                                                     

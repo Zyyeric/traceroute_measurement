@@ -1,0 +1,13 @@
+   27.111.84.21    135132  0.0           (Cebu City, Central Visayas, PH, AS) ph-ceb-as135132.anchors.atlas.ripe.net                                                              
+   27.111.84.20    135132  1.624             (Baugo, Central Visayas, PH, AS) vlan509.core.ceb02.ds.network                                                                       
+   192.168.159.142 *       3.359                                          ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   192.168.159.168 *       18.922                                         ***                                                                                                     
+   192.168.159.165 *       1.775                                          ***                                                                                                     
+╭─ 43.224.189.33   137074  2.428             (Baugo, Central Visayas, PH, AS) 43-224-189-33.static.rise.as                                                                        
+S (137074, 35280)  national-digital-transmission-network-ndtn ✘ ↠ eac-c2c ✘ || national-digital-transmission-network-ndtn ✘ ↠ seamewe-3 ✘
+├  10.255.64.24    *       42.909                                         ***                                                                                                     
+├─ 27.111.229.245  35280   54.766                    (Seogwipo, None, KR, AS) 35280.sgw.equinix.com                                                                               
+S (35280, 55002)  
+├  100.100.1.33    *       39.5                                           ***                                                                                                     
+╰─ 107.162.219.5   55002   52.977              (Singapore, Singapore, SG, AS)                                                                                                     

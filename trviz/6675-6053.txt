@@ -1,0 +1,22 @@
+   197.80.104.36   10474   0.0                (Johannesburg, Gauteng, ZA, AF) 197-80-104-36.jhb.mweb.co.za                                                                        
+   197.80.75.3     10474   1.615                  (Randburg, Gauteng, ZA, AF) 20.bu-ether1.vic-pe-12.optinet.net                                                                  
+   197.80.7.15     10474   174.708                       (None, None, ZA, AF) 197-80-7-15.jhb.mweb.co.za                                                                          
+   197.80.4.9      10474   174.934                       (None, None, ZA, AF) bu-ether1.tis-pe-2.optinet.net                                                                      
+   197.80.4.252    10474   177.08                        (None, None, ZA, AF) bu-ether2.tis-pe-1.optinet.net                                                                      
+╭─ 197.80.4.216    10474   176.039                       (None, None, ZA, AF) 197-80-4-216.jhb.mweb.co.za                                                                         
+T (10474)  
+╰─ 197.80.5.89     10474   178.511                  (London, England, GB, EU) 197-80-5-89.jhb.mweb.co.za                                                                          
+   176.67.178.6    10474   177.395                     (London, None, GB, EU) *                                                                                                   
+╭─ 83.231.233.141  2914    175.951                  (London, England, GB, EU)                                                                                                     
+S (2914)  
+╰─ 129.250.3.214   2914    175.865                       (None, None, US, NA) ae-0.r21.londen12.uk.bb.gin.ntt.net                                                                 
+╭─ 129.250.3.251   2914    176.688                       (None, None, US, NA) ae-1.a03.londen12.uk.bb.gin.ntt.net                                                                 
+S (2914)  
+├─ 129.250.9.2     2914    180.31                   (Poplar, England, GB, EU) ae-0.telecom-italia.londen12.uk.bb.gin.ntt.net                                                      
+S&T (2914, 6762)  
+╰─ 195.22.192.111  6762    206.797                        (Milan, 25, IT, EU) ae1.milano81.mil.seabone.net                                                                        
+   195.22.192.111  6762    206.797                        (Milan, 25, IT, EU) ae1.milano81.mil.seabone.net                                                                        
+   195.22.196.121  201333  199.604                        (Milan, 25, IT, EU) naquadria.milano81.mil.seabone.net                                                                  
+   185.78.48.22    201333  196.778                  (Milan, Lombardy, IT, EU) ens1f4-920-r02.pia1.naquadria.net                                                                   
+   185.78.48.244   201333  195.48                     (Parabiago, 25, IT, EU) lf01b5-vlan910.pia1.naquadria.net                                                                   
+   185.78.49.100   201333  195.203         (Piacenza, Emilia-Romagna, IT, EU) it-pcz-as201333.anchors.atlas.ripe.net                                                              

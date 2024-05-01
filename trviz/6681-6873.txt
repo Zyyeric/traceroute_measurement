@@ -1,0 +1,19 @@
+   193.50.97.164   2200    0.0                   (Plouzané, Brittany, FR, EU) anchor.netlab.enstb.org                                                                             
+   193.50.97.161   2200    0.349                 (Plouzané, Brittany, FR, EU) netlab-gw.enstb.org                                                                                 
+   192.108.116.201 50897   0.454                 (Plouzané, Brittany, FR, EU) asr-vlan39.enst-bretagne.fr                                                                         
+   193.51.188.10   2200    0.436 (6.448)        (Saint-Brieuc, Brittany, FR, EU) vl807-pc1-brest1-rtr-021.noc.renater.fr                                                             
+   193.51.177.174  2200    12.024              (Paris, Île-de-France, FR, EU) et-5-2-1-ren-nr-paris1-rtr-131.noc.renater.fr                                                       
+╭─ 83.97.89.9      20965   11.982                        (Paris, IDF, FR, EU) renater-ias-geant-gw.par.fr.geant.net                                                               
+S&T (20965)  
+├─ 62.40.98.106    20965   18.548                        (Lisbon, 11, PT, EU) ae0.mx2.lis.pt.geant.net                                                                            
+S&T (20965)  
+╰─ 62.40.98.64     20965   18.6                     (London, England, GB, EU) ae2.mx1.lon.uk.geant.net                                                                            
+   ***             *       -inf                                           *** *                                                                                                   
+   141.101.71.2    13335   29.251                       (London, ENG, GB, EU) *                                                                                                   
+   141.101.70.75   13335   18.851                       (London, ENG, GB, EU) *                                                                                                   
+   141.101.70.221  13335   18.936                   (London, England, GB, EU)                                                                                                     
+╭─ 141.101.70.142  13335   18.945                   (London, England, GB, EU)                                                                                                     
+S (13335, 133800)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 103.77.105.3    133800  179.71                  (Jakarta, Jakarta, ID, AS) ip-3-105-77-103.jkt-1.biznetg.io                                                                    

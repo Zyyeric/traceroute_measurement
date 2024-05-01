@@ -1,0 +1,23 @@
+   103.170.232.152 142616  0.0                         (Tokyo, Tokyo, JP, AS) user-103-170-232-152.nrt04.jp.misaka.io                                                             
+   ***             *       -inf                                           *** *                                                                                                   
+   103.170.232.3   142616  0.281                       (Tokyo, Tokyo, JP, AS) spine2.nrt04.jp.misaka.io                                                                           
+   199.119.64.138  969     0.23                        (Tokyo, Tokyo, JP, AS) e54-10.cr1a.eqty8.nrt4.jp.917.as                                                                    
+   160.202.164.140 137409  0.219                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+   206.148.24.36   7578    0.233                       (Tokyo, Tokyo, JP, AS) po50-3.ty-eqxty8-cr3.globalsecurelayer.com                                                          
+╭─ 206.148.24.48   7578    0.407                       (Tokyo, Tokyo, JP, AS) po3.ty-eqxty8-bb5.globalsecurelayer.com                                                             
+S (7578)  
+├─ 206.148.24.66   7578    67.124           (Sydney, New South Wales, AU, OC) e51.sg-eqxsg3-bb1.globalsecurelayer.com                                                             
+S (7578)  
+╰─ 206.148.24.70   7578    67.319              (Singapore, Singapore, SG, AS) e53.sg-eqxsg3-cr3.globalsecurelayer.com                                                             
+╭─ 206.148.24.75   7578    67.376              (Singapore, Singapore, SG, AS)                                                                                                     
+S (7578, 9498)  
+├─ 27.111.228.40   9498    82.312                    (Seogwipo, None, KR, AS) 9498.sgw.equinix.com                                                                                
+S (9498)  
+╰─ 116.119.106.32  9498    203.449                       (None, None, IN, AS) *                                                                                                   
+   61.246.97.190   9498    200.135             (Bengaluru, Karnataka, IN, AS) dsl-tn-190.97.246.61.airtelbroadband.in                                                             
+   143.244.225.133 *       200.154             (Bengaluru, Karnataka, IN, AS)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   159.65.150.114  14061   204.78         (Doddaballapura, Karnataka, IN, AS) in-blr-as14061.anchors.atlas.ripe.net                                                               

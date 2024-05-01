@@ -1,0 +1,11 @@
+   130.193.166.22  21277   0.0                         (Erbil, Arbīl, IQ, AS)                                                                                                     
+╭─ 130.193.166.21  21277   0.307                       (Erbil, Arbīl, IQ, AS)                                                                                                     
+T (21277)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 5.23.0.72       21277   27.803                      (Istanbul, 34, TR, AS) ix-ae-13-0.tcore1.it5-istanbul.as6453.net                                                           
+LHL (21277, 6453)  seamewe-5 ✘ || seamewe-3 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 195.219.50.74   6453    63.639          (Frankfurt am Main, Hesse, DE, EU) if-ae-35-2.tcore1.fr0-frankfurt.as6453.net                                                          
+LHL (6453, 3491)  seamewe-3 👍 || flag-europe-asia-fea ✓ || bay-of-bengal-gateway-bbg ✓ || asia-africa-europe-1-aae-1 ✓ || seamewe-4 👍 || seamewe-5 ✓
+╰─ 63.218.166.226  3491    222.801               (Kuala Lumpur, None, MY, AS) TenGE0-2-0-3.br02.klp01.pccwbtn.net                                                                 
+   63.222.188.9    3491    221.057       (Kuala Lumpur, Kuala Lumpur, MY, AS)                                                                                                     

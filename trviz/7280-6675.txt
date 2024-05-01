@@ -1,0 +1,21 @@
+   185.78.49.100   201333  0.0             (Piacenza, Emilia-Romagna, IT, EU) it-pcz-as201333.anchors.atlas.ripe.net                                                              
+   185.78.49.5     201333  0.562            (Gerbido, Emilia-Romagna, IT, EU) lf01b5-vlan902.pia1.naquadria.net                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   185.78.48.20    201333  1.511                    (Milan, Lombardy, IT, EU) ens2f4-r01.mil1d.naquadria.net                                                                      
+╭─ 195.22.196.120  6762    2.423            (Gerbido, Emilia-Romagna, IT, EU) et0-0-2-0.milano81.mil.seabone.net                                                                  
+T (6762)  
+╰─ 195.22.196.137  6762    13.698             (Frankfurt am Main, HE, DE, EU) ae6.francoforte34.fra.seabone.net                                                                   
+   184.104.198.25  3356    12.409             (Frankfurt am Main, HE, DE, EU) port-channel12.core2.fra1.he.net                                                                    
+╭─ 184.105.65.30   6939    11.892             (Frankfurt am Main, HE, DE, EU) 100ge0-66.core3.fra1.he.net                                                                         
+LHL (6939)  
+├─ 72.52.92.70     6939    12.018                      (San Jose, CA, US, NA) 10ge7-5.core1.sjc2.he.net                                                                           
+S (6939)  
+├─ 184.105.222.101 6939    19.974                   (Hong Kong, None, HK, AS) 100ge14-2.core1.hkg1.he.net                                                                         
+S (6939)  
+├─ 184.104.196.194 6939    29.685                        (Denver, CO, US, NA) port-channel1.core1.den3.he.net                                                                     
+LHL (6939)  
+╰─ 184.105.64.170  6939    41.409                        (Athens, A1, GR, EU) 100ge0-36.core1.ath1.he.net                                                                         
+   184.104.191.234 6939    40.991                    (Koropí, Attica, GR, EU) fast-telecom-p-c.e0-7.core1.ath1.he.net                                                             
+   ***             *       -inf                                           *** *                                                                                                   
+   185.14.96.225   211186  57.349             (Lamía, Central Greece, GR, EU) vlan4090.lamia.fast.net.gr                                                                          
+   185.14.96.232   211186  57.478             (Lamía, Central Greece, GR, EU)                                                                                                     

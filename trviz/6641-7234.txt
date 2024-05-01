@@ -1,0 +1,22 @@
+   193.42.115.222  51724   0.0                  (Tomsk, Tomsk Oblast, RU, EU) p7234-probes-atlas-ripe.flynet.pro                                                                  
+   193.42.115.137  51724   0.315                (Tomsk, Tomsk Oblast, RU, EU) border2vlan13.flynet.pro                                                                            
+   31.131.196.10   9049    1.321                (Tomsk, Tomsk Oblast, RU, EU) 31x131x196x10.static.ertelecom.ru                                                                   
+╭─ 195.208.209.132 9049    49.255                      (Moscow, 48, RU, None) msk-ix.ertelecom.ru                                                                                 
+LHL (9049, 6939)  tampnet-offshore-foc-network ✘ || no-uk ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.105.64.230  6939    68.94                         (Oslo, Oslo, NO, EU) 100ge0-59.core2.osl1.he.net                                                                         
+S&T (6939)  cantat-3 ✘ || havfrueaec-2 ✓ || havsil ✘ || skagerrak-4 ✘ || skagenfiber-west ✘
+├─ 184.104.194.222 6939    80.368                    (Copenhagen, 84, DK, EU) 100ge0-35.core2.cph1.he.net                                                                         
+S (6939)  atlantic-crossing-1-ac-1 ✓ || havfrueaec-2 ✓
+├─ 184.104.189.25  6939    155.385               (Newark, New Jersey, US, NA) port-channel4.core2.ewr5.he.net                                                                     
+S (6939)  new-cross-pacific-ncp-cable-system ✓ || trans-pacific-express-tpe-cable-system ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.81.70   6939    331.663                        (Seoul, 28, KR, AS) 10ge0-1.core2.sel1.he.net                                                                           
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   45.80.212.34    199524  347.41                      (Seoul, Seoul, KR, AS) vrrp.gcore.com                                                                                      
+   92.38.135.131   202422  347.934                     (Seoul, Seoul, KR, AS)                                                                                                     

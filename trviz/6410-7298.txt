@@ -1,0 +1,20 @@
+   45.71.11.105    64112   0.0       (Santiago de Querétaro, Querétaro, MX, NA)                                                                                                     
+   45.71.11.110    64112   0.346               (La Piedad, Querétaro, MX, NA)                                                                                                     
+   172.18.20.1     *       0.54                                           ***                                                                                                     
+   201.175.40.233  22908   0.905     (Santiago de Querétaro, Querétaro, MX, NA) 201-175-40-233.kionetworks.com                                                                      
+   201.174.172.1   32098   1.219     (Santiago de Querétaro, Querétaro, MX, NA) 201-174-172-1.transtelco.net                                                                        
+   201.174.254.191 32098   1.311               (La Piedad, Querétaro, MX, NA) 201-174-254-191.transtelco.net                                                                      
+╭─ 201.174.254.82  32098   9.374     (Santiago de Querétaro, Querétaro, MX, NA) uscal-elc-she.transtelco.net                                                                        
+S&T (32098)  
+╰─ 201.174.251.68  32098   25.044                     (Dallas, Texas, US, NA) 201-174-251-68.transtelco.net                                                                       
+   187.251.0.41    32098   25.165                     (Dallas, Texas, US, NA)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 184.104.198.70  6939    54.778                  (Jacksonville, FL, US, NA) port-channel1.core2.jax1.he.net                                                                     
+S (6939)  brusa ✓ || america-movil-submarine-cable-system-1-amx-1 ✓ || monet ✓ || south-america-1-sam-1 ✓ || globenet © || americas-ii ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.80.53   6939    271.1               (São Paulo, São Paulo, BR, SA) 100ge0-31.core3.sao1.he.net                                                                         
+   209.51.184.198  22548   161.398                       (None, None, BR, SA) ae0-0.gw1.nu.registro.br                                                                            
+   200.160.0.160   22548   168.576                       (None, None, BR, SA) xe-0-1-2-0.core1.nu.registro.br                                                                     
+   200.160.0.250   22548   167.744                       (None, None, BR, SA) ae0-0.ar3.jd.registro.br                                                                            
+   200.160.6.19    22548   162.388             (São Paulo, São Paulo, BR, SA) br-sao-as22548.anchors.atlas.ripe.net                                                               

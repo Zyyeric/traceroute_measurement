@@ -1,0 +1,17 @@
+   80.247.237.225  15826   0.0       (Ramonville-Saint-Agne, Occitanie, FR, EU) ancre-atlas.nfrance.com                                                                             
+╭─ 80.247.237.238  15826   0.786                (Toulouse, Occitanie, FR, EU)                                                                                                     
+T (15826, 6939)  
+├  192.168.1.240   *       1.099                                          ***                                                                                                     
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.81.110  6939    19.882                     (Amsterdam, NH, NL, EU) port-channel14.core2.ams1.he.net                                                                    
+   184.104.196.94  6939    20.618                     (Amsterdam, NH, NL, EU) ve1001.core1.ams7.he.net                                                                            
+╭─ 184.104.197.126 6939    19.983          (Amsterdam, North Holland, NL, EU) port-channel1.core2.ams7.he.net                                                                     
+S&T (6939)  atlantic-crossing-1-ac-1 ✓ || hronn ✘ || cantat-3 ✘ || cobracable ✘
+├─ 184.105.213.198 6939    29.774                    (Copenhagen, 84, DK, EU) 100ge0-29.core2.cph1.he.net                                                                         
+S (6939)  
+├─ 184.105.81.141  6939    38.506                       (Ashburn, VA, US, NA) port-channel10.core3.ash1.he.net                                                                    
+S (6939, 56655)  
+╰─ 185.125.170.252 56655   39.927                        (Oslo, Oslo, NO, EU)                                                                                                     
+   185.125.170.47  56655   39.173                        (Oslo, Oslo, NO, EU)                                                                                                     
+   185.14.97.165   56655   907.153                       (Oslo, Oslo, NO, EU)                                                                                                     
+   185.14.97.165   56655   907.153                       (Oslo, Oslo, NO, EU)                                                                                                     

@@ -1,0 +1,19 @@
+   102.130.49.144  328383  0.0                (Johannesburg, Gauteng, ZA, AF) za-jnb-as57695.anchors.atlas.ripe.net                                                               
+   ***             *       -inf                                           *** *                                                                                                   
+   102.130.49.3    328383  0.28               (Johannesburg, Gauteng, ZA, AF) spine2.v271.jnb01.za.misaka.io                                                                      
+╭─ 102.130.51.2    *       0.24               (Johannesburg, Gauteng, ZA, AF) e54-1-10.cr1a.tdjb1.jnb1.za.917.as                                                                  
+LHL (, 60068)  africa-coast-to-europe-ace ✘
+├─ 37.19.193.190   60068   0.177                     (Prague, Prague, CZ, EU) p77-3502.cr1a.tdjb1.jnb1.za.917.as                                                                  
+LHL (60068, 37468)  
+├─ 102.130.70.57   37468   0.424              (Johannesburg, Gauteng, ZA, AF)                                                                                                     
+LHL (37468)  africa-coast-to-europe-ace ✓ ↠ seamewe-3 ✓
+├─ 102.219.127.6   37468   144.57              (Singapore, Singapore, SG, AS)                                                                                                     
+S (37468, 8529)  
+├─ 27.111.229.38   8529    144.598                   (Seogwipo, None, KR, AS) 8529.sgw.equinix.com                                                                                
+S (8529)  
+╰─ 134.0.220.254   8529    226.467                   (Muscat, Muscat, OM, AS)                                                                                                     
+   213.202.6.202   8529    227.598                   (Muscat, Muscat, OM, AS)                                                                                                     
+╭─ 134.0.217.213   8529    226.847                       (Muscat, MA, OM, AS) *                                                                                                   
+S&T (8529, 42473)  
+╰─ 213.202.2.1     42473   224.29                         (Dubai, DU, AE, AS) i1.2.202.213omantel.net.om                                                                          
+   37.252.245.94   42473   223.494                     (Dubai, Dubai, AE, AS)                                                                                                     

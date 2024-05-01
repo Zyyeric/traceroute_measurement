@@ -1,0 +1,13 @@
+   23.174.128.243  53698   0.0               (Sacramento, California, US, NA) us-sac-as53698.anchors.atlas.ripe.net                                                               
+   23.174.128.17   53698   0.499             (Sacramento, California, US, NA) vlan3-gateway.qts.smf.nix-ops.net                                                                   
+   65.74.145.156   17018   0.586             (Sacramento, California, US, NA)                                                                                                     
+   173.225.174.8   17018   1.326             (Sacramento, California, US, NA)                                                                                                     
+   62.115.189.206  1299    0.926             (Sacramento, California, US, NA) sac-b1-link.ip.twelve99.net                                                                         
+   62.115.114.106  1299    0.931 (3.994)       (Santa Clara, California, US, NA) palo-b24-link.ip.twelve99.net                                                                       
+╭─ 62.115.119.91   1299    15.744           (Los Angeles, California, US, NA) lax-b22-link.ip.twelve99.net                                                                        
+LHL (1299, 140627)  
+├─ 62.115.184.233  140627  15.302                        (None, None, SE, EU) oneqode-svc078172-ic367785.c.telia.net                                                              
+LHL (140627)  
+├─ 103.151.64.28   140627  124.179                       (None, None, AU, OC) cor1.GNC.piti.guam.as140627.net                                                                     
+S (140627)  
+╰─ 103.151.64.31   140627  124.187                 (Hagåtña, Hagatna, GU, OC) atlas.guam.as140627.net                                                                             

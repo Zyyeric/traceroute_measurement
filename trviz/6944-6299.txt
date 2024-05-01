@@ -1,0 +1,32 @@
+   197.239.73.59   37577   0.0                  (Ouagadougou, Centre, BF, AF)                                                                                                     
+   197.239.73.57   37577   0.452                (Ouagadougou, Centre, BF, AF)                                                                                                     
+   165.16.221.42   37721   0.638                         (None, None, BF, AF) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 102.67.96.39    37721   3.917                (Ouagadougou, Centre, BF, AF)                                                                                                     
+LHL (37721)  africa-coast-to-europe-ace ✓
+├─ 102.67.96.46    37721   17.031                       (Paris, None, FR, EU) xe-0-0-1-2022.bb2.prs1.vts.bf                                                                       
+LHL (37721)  
+├─ 102.67.97.97    37721   23.014               (Ouagadougou, Centre, BF, AF) po51-2055.bb1.los1.vts.bf                                                                           
+LHL (37721)  
+├─ 102.67.97.204   37721   23.778                      (Lagos, Lagos, NG, AF) ce3-2017.bb1.los2.vts.bf                                                                            
+LHL (37721)  
+├─ 102.67.97.79    37721   23.49                (Ouagadougou, Centre, BF, AF)                                                                                                     
+LHL (37721, 6939)  
+├─ 216.66.89.4     6939    26.234                      (Lagos, Lagos, NG, AF) e0-7.core1.los1.he.net                                                                              
+S&T (6939)  
+├─ 184.104.188.93  6939    79.794           (Cape Town, Western Cape, ZA, AF) 10ge0-24.core1.cpt1.he.net                                                                          
+T (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.195.97  6939    218.017                      (London, ENG, GB, EU) 100ge0-35.core2.lon3.he.net                                                                         
+   184.105.65.2    6939    218.62                       (London, ENG, GB, EU) 100ge0-36.core3.lon1.he.net                                                                         
+   216.66.89.122   4637    172.585                      (London, ENG, GB, EU) asn-telstra-global-as4637.10gigabitethernet3-1.core1.lon1.he.net                                    
+╭─ 202.84.178.13   4637    172.885             (Camden Town, England, GB, EU) i-1008.ulcn-core01.telstraglobal.net                                                                
+S (4637)  
+╰─ 202.84.140.141  4637    385.959             (Singapore, Singapore, SG, AS) i-1000.sgcn-core01.telstraglobal.net                                                                
+   202.84.140.141  4637    385.959             (Singapore, Singapore, SG, AS) i-1000.sgcn-core01.telstraglobal.net                                                                
+╭─ 202.84.207.190  4637    385.734             (Singapore, Singapore, SG, AS) unknown.telstraglobal.net                                                                           
+S (4637)  
+╰─ 202.84.204.45   4637    387.233                     (Dubai, Dubai, AE, AS) i-102.uddm01.telstraglobal.net                                                                      
+   217.151.46.27   4637    387.054                     (Dubai, Dubai, AE, AS) unknown.telstraglobal.net                                                                           
+   156.154.53.254  12008   387.14                      (Dubai, Dubai, AE, AS)                                                                                                     

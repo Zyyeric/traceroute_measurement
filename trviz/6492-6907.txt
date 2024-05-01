@@ -1,0 +1,17 @@
+   103.153.176.122 131657  0.0                       (Taipei, Taiwan, TW, AS) 103-153-176-122.as131657.net                                                                        
+   103.153.176.254 131657  0.294                     (Taipei, Taiwan, TW, AS) 103-153-176-254.as131657.net                                                                        
+╭─ 103.51.91.5     *       0.841                     (Taipei, Taiwan, TW, AS) et-0-0-1.cr1.hd.tpe.as131657.net                                                                    
+S (, 174)  seamewe-3 ✘ || apcn-2 ✘ || trans-pacific-express-tpe-cable-system ✘ || eac-c2c ✘ || faster ✘ || asia-pacific-gateway-apg ✘ || flag-north-asia-loopreach-north-asia-loop ✘ || new-cross-pacific-ncp-cable-system ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 66.28.4.233     174     30.785                      (Tokyo, Tokyo, JP, AS) be2012.ccr71.tyo01.atlas.cogentco.com                                                               
+S (174, 36249)  
+╰─ 154.54.83.190   36249   30.816             (Dallas-Fort Worth, TX, US, NA) be2709.rcr01.b027338-0.dfw01.atlas.cogentco.com                                                     
+   154.54.1.21     174     132.854                  (Los Angeles, CA, US, NA) be2894.ccr41.lax04.atlas.cogentco.com                                                               
+   154.54.42.101   174     132.841                  (Los Angeles, CA, US, NA) be3271.ccr41.lax01.atlas.cogentco.com                                                               
+   154.54.29.246   174     132.674                  (Los Angeles, CA, US, NA) be2586.agr22.lax01.atlas.cogentco.com                                                               
+   154.24.10.2     174     133.813                  (Los Angeles, CA, US, NA) te0-0-0-10.nr01.b019175-0.lax01.atlas.cogentco.com                                                  
+   38.140.154.66   35908   134.482                  (Los Angeles, CA, US, NA) 2te-cogent.lax10.vpls.net                                                                           
+   10.0.248.3      *       130.306                                        ***                                                                                                     
+   66.180.193.34   4213    133.687          (Los Angeles, California, US, NA)                                                                                                     
+   149.20.160.25   21699   150.0                         (None, None, US, NA) *                                                                                                   
+   149.20.162.6    21699   133.602          (Los Angeles, California, US, NA)                                                                                                     

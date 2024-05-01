@@ -1,0 +1,19 @@
+   185.32.189.249  62416   0.0                     (Odivelas, Lisbon, PT, EU) pt-lis-as62416.anchors.atlas.ripe.net                                                               
+   185.32.188.254  62416   1.101 (16.761)           (Prior Velho, Lisbon, PT, EU) powered.by.ptservidor.pt                                                                            
+   185.222.11.3    62416   0.85                 (Prior Velho, Lisbon, PT, EU) core.br01.lis1.ptservidor.net                                                                       
+╭─ 185.1.116.23    6939    2.356                       (Lisbon, 14, PT, None) *                                                                                                   
+S&T (6939)  tata-tgn-western-europe ✓ || europe-india-gateway-eig ✓ || seamewe-3 ✓
+╰─ 184.105.64.5    6939    36.823                   (London, England, GB, EU) port-channel4.core1.lon3.he.net                                                                     
+╭─ 184.104.205.253 6939    29.65                    (London, England, GB, EU) mtn-globalconnect-solutions-ltd.port-channel7.core1.lon3.he.net                                     
+T (6939, 16637)  
+╰─ 41.181.189.65   16637   30.101                      (Pretoria, GP, ZA, AF) *                                                                                                   
+╭─ 41.181.190.151  16637   28.96                       (Pretoria, GP, ZA, AF) *                                                                                                   
+T (16637)  
+├─ 41.181.244.176  16637   31.018                   (London, England, GB, EU)                                                                                                     
+T (16637, 20294)  
+├─ 41.181.247.39   20294   182.428                       (None, None, ZA, AF) *                                                                                                   
+LHL (20294)  
+╰─ 212.88.110.34   20294   179.218          (Kampala, Central Region, UG, AF)                                                                                                     
+   129.205.30.76   37063   181.859                       (Kampala, C, UG, AF) *                                                                                                   
+   41.191.77.206   328998  181.992                       (Kampala, C, UG, AF) *                                                                                                   
+   196.49.15.189   328998  180.397          (Kampala, Central Region, UG, AF)                                                                                                     

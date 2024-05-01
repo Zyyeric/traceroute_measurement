@@ -1,0 +1,13 @@
+   10.0.18.30      *       0.0                                            ***                                                                                                     
+   10.0.18.1       *       0.385                                          ***                                                                                                     
+   138.204.228.1   61506   0.656             (Valparaíso, Valparaíso, CL, SA)                                                                                                     
+   138.204.229.99  61506   3.201     (Santiago, Santiago Metropolitan, CL, SA)                                                                                                     
+╭─ 45.68.16.244    *       2.542 (4.251)(Santiago, Santiago Metropolitan, CL, SA) hurricaneelectric-6939.scl.pitchile.cl                                                              
+T (, 6939)  
+├─ 184.104.188.168 6939    24.501    (Buenos Aires, Buenos Aires F.D., AR, SA) 100ge0-35.core1.bue1.he.net                                                                         
+S&T (6939, 22548)  south-american-crossing-sac ✓ || tannat ✓ || south-america-1-sam-1 ✓ || malbec ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 209.51.184.198  22548   52.469                        (None, None, BR, SA) ae0-0.gw1.nu.registro.br                                                                            
+   200.160.0.160   22548   52.624                        (None, None, BR, SA) xe-0-1-2-0.core1.nu.registro.br                                                                     
+   200.160.0.250   22548   52.589                        (None, None, BR, SA) ae0-0.ar3.jd.registro.br                                                                            
+   200.160.6.19    22548   53.059              (São Paulo, São Paulo, BR, SA) br-sao-as22548.anchors.atlas.ripe.net                                                               

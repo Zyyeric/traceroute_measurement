@@ -1,0 +1,11 @@
+   213.158.113.5   13101   0.0                     (Hamburg, Hamburg, DE, EU) ripe-anchor.gallifrey.tng.de                                                                        
+   213.158.113.28  13101   0.33            (Kiel, Schleswig-Holstein, DE, EU)                                                                                                     
+   82.97.188.3     13101   0.394           (Kiel, Schleswig-Holstein, DE, EU) kel1.tng.de                                                                                         
+   213.178.75.134  13101   0.7             (Kiel, Schleswig-Holstein, DE, EU) kel1.tng.de                                                                                         
+   213.178.80.33   13101   0.618 (2.556)              (Hamburg, Hamburg, DE, EU) ham1.tng.de                                                                                         
+   80.81.203.68    *       33.323      (Köln, North Rhine-Westphalia, DE, EU)                                                                                                     
+╭─ 195.122.0.125   12578   33.548             (Frankfurt am Main, HE, DE, EU) *                                                                                                   
+LHL (12578, 51349)  baltica ✓ ↠ latvia-sweden-1-lv-se-1 👍 || baltica ✓ ↠ sweden-latvia ©
+├─ 195.122.18.250  51349   37.367                         (Riga, RIX, LV, EU) *                                                                                                   
+LHL (51349)  latvia-sweden-1-lv-se-1 ✓ ↠ sweden-estonia-ee-s-1 ✘ || latvia-sweden-1-lv-se-1 ✓ ↠ baltic-sea-submarine-cable ✘ || sweden-latvia ✘ ↠ sweden-estonia-ee-s-1 ✘ || sweden-latvia ✘ ↠ baltic-sea-submarine-cable ✘
+╰─ 195.43.87.140   51349   37.213                 (Tallinn, Harjumaa, EE, EU) rr-s-140.internet.ee                                                                                

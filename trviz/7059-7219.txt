@@ -1,0 +1,9 @@
+   102.219.127.20  37468   0.0                 (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 102.219.127.17  37468   0.572               (Singapore, Singapore, SG, AS)                                                                                                     
+S (37468, 58500)  asia-pacific-gateway-apg ✓ || eac-c2c ✓ || apcn-2 ✓ || seamewe-3 ✓
+├─ 27.111.229.143  58500   159.518                   (Seogwipo, None, KR, AS) 58500.sgw.equinix.com                                                                               
+S (58500, 23951)  
+╰─ 202.152.131.232 23951   23.456 (184.67)        (Yogyakarta, Yogyakarta, ID, AS) 202-152-131-232.citra.net.id                                                                        
+   202.152.153.32  23951   23.266                        (Sleman, YO, ID, AS) 202-152-153-32.as23951.net                                                                          
+   202.152.153.9   23951   23.982                       (Babadan, JT, ID, AS) 202-152-153-9.as23951.net                                                                           
+   202.152.129.74  23951   24.109            (Yogyakarta, Yogyakarta, ID, AS) 202-152-129-74.citra.net.id                                                                         

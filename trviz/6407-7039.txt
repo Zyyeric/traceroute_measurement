@@ -1,0 +1,20 @@
+   103.170.232.152 142616  0.0                         (Tokyo, Tokyo, JP, AS) user-103-170-232-152.nrt04.jp.misaka.io                                                             
+   103.170.232.11  142616  0.227                       (Tokyo, Tokyo, JP, AS) po-31.lag.nrt04.jp.misaka.io                                                                        
+   103.170.232.3   142616  0.211                       (Tokyo, Tokyo, JP, AS) spine2.nrt04.jp.misaka.io                                                                           
+   199.119.64.138  969     0.277                       (Tokyo, Tokyo, JP, AS) e54-10.cr1a.eqty8.nrt4.jp.917.as                                                                    
+   199.119.64.95   969     0.306                       (Tokyo, Tokyo, JP, AS) po100.cr2a.eqty8.nrt4.jp.917.as                                                                     
+   84.17.33.106    60068   0.267                       (Tokyo, Tokyo, JP, AS) po66-3518.cr01.nrt04.jp.misaka.io                                                                   
+╭─ 138.199.0.216   60068   0.277                 (Tokyo / Narita, 12, JP, AS) vl250.tyo-eq8-core-1.cdn77.com                                                                      
+S (60068, 6939)  japan-u-s-cable-network-jus ✓ || tata-tgn-pacific ✓ || pacific-crossing-1-pc-1 ✓ || faster ✓ || jupiter ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.25.121  6939    138.403                    (Dallas, Texas, US, NA) e0-39.core3.dal1.he.net                                                                             
+   184.104.198.106 6939    149.454                    (Nashville, TN, US, NA) 100ge0-32.core2.bna1.he.net                                                                         
+   184.104.198.54  6939    169.596                 (Indianapolis, IN, US, NA) 100ge0-78.core2.ind1.he.net                                                                         
+   184.104.192.201 6939    175.522                      (Detroit, MI, US, NA) 100ge0-35.core2.det1.he.net                                                                         
+   184.105.48.202  12129   156.776                      (Chicago, IL, US, NA) 123-net-inc.10gigabitethernet12-2.core1.det1.he.net                                                 
+   67.214.125.193  12129   155.9                     (Eastpointe, MI, US, NA) *                                                                                                   
+   66.103.227.178  267     154.816           (Saint Clair Shores, MI, US, NA) 66-103-227-178.static.123.net                                                                       
+   23.138.112.22   267     152.992             (Southfield, Michigan, US, NA) us-sfj-as267.anchors.atlas.ripe.net                                                                 

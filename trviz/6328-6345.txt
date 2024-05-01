@@ -1,0 +1,20 @@
+   103.102.166.20  14907   0.0                 (Singapore, Singapore, SG, AS) ripe-atlas-eqsin.wikimedia.org                                                                      
+╭─ 103.102.166.19  14907   0.328               (Singapore, Singapore, SG, AS) ae1-530.cr2-eqsin.wikimedia.org                                                                     
+S (14907)  
+├─ 103.102.166.140 14907   0.388                         (None, None, US, NA) ae0.cr3-eqsin.wikimedia.org                                                                         
+S (14907, 1299)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 62.115.134.228  1299    147.236   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) mei-b5-link.ip.twelve99.net                                                                         
+╭─ 62.115.124.56   1299    157.366             (Paris, Île-de-France, FR, EU) prs-bb2-link.ip.twelve99.net                                                                        
+T (1299)  
+╰─ 62.115.137.4    1299    158.671         (Amsterdam, North Holland, NL, EU) adm-bb2-link.ip.twelve99.net                                                                        
+   62.115.138.171  1299    178.53          (Amsterdam, North Holland, NL, EU) adm-b3-link.ip.twelve99.net                                                                         
+╭─ 213.248.96.111  1299    169.503         (Amsterdam, North Holland, NL, EU) edgoonetworks-ic-383209.ip.twelve99-cust.net                                                        
+T (1299, 47787)  
+├─ 193.109.190.74  47787   180.37                    (Madrid, Madrid, ES, EU) er1.mad1.edgoo.net                                                                                  
+S&T (47787)  
+╰─ 193.163.151.209 47787   175.407                       (Lisbon, 11, PT, EU) cr1.lis1.edgoo.net                                                                                  
+   193.109.188.7   47787   188.973                   (Lisbon, Lisbon, PT, EU)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   185.32.189.249  62416   176.868                 (Odivelas, Lisbon, PT, EU) pt-lis-as62416.anchors.atlas.ripe.net                                                               

@@ -1,0 +1,18 @@
+   202.214.97.16   2497    0.0                      (Hatsudai, Tokyo, JP, AS)                                                                                                     
+   202.214.97.2    2497    2.286                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+   210.138.93.41   2497    0.488                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+   58.138.114.233  2497    1.007                       (Tokyo, Tokyo, JP, AS) tky009ipgw00.iij.net                                                                                
+   58.138.114.141  2497    0.994                       (Tokyo, Tokyo, JP, AS) tky009bb01.iij.net                                                                                  
+   58.138.112.54   2497    1.718                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 184.104.199.10  6939    1.986                       (Tokyo, Tokyo, JP, AS) port-channel1.core3.tyo1.he.net                                                                     
+S (6939, 2497)  japan-u-s-cable-network-jus ✓ || tata-tgn-pacific ✓ || pacific-crossing-1-pc-1 ✘ || faster ✓ || jupiter ✓
+╰─ 216.98.106.130  2497    104.341             (San Jose, California, US, NA) 130.106.98.216.sta.iij-america.net                                                                  
+   ***             *       -inf                                           *** *                                                                                                   
+   184.105.64.138  6939    111.419                     (Portland, OR, US, NA) 100ge15-1.core1.pdx1.he.net                                                                         
+╭─ 206.81.80.40    6939    122.493                      (Seattle, WA, US, NA) 100ge14-2.core1.sea1.he.net                                                                         
+S&T (6939)  
+╰─ 184.104.196.222 6939    125.815                    (Vancouver, BC, CA, NA) port-channel2.core2.yvr1.he.net                                                                     
+   65.19.133.197   6939    114.423      (Vancouver, British Columbia, CA, NA)                                                                                                     
+   192.30.89.87    394256  114.6        (Vancouver, British Columbia, CA, NA) ca-van-as394256.anchors.atlas.ripe.net                                                              

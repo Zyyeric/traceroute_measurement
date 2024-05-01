@@ -1,0 +1,17 @@
+   188.172.217.86  42473   0.0                (Johannesburg, Gauteng, ZA, AF)                                                                                                     
+   188.172.217.85  42473   5.057                  (Edenvale, Gauteng, ZA, AF)                                                                                                     
+   196.60.8.42     6939    3.489                  (Johannesburg, 6, ZA, None) he.ixp.joburg                                                                                       
+╭─ 196.223.22.108  6939    25.138                   (Cape Town, 11, ZA, None) he.cinx.net.za                                                                                      
+S&T (6939)  west-africa-cable-system-wacs ✓ || africa-coast-to-europe-ace ✓ || sat-3wasc ✓
+├─ 184.104.189.31  6939    154.592                   (Lisbon, Lisbon, PT, EU) port-channel8.core1.lis1.he.net                                                                     
+S&T (6939)  
+├─ 37.49.232.13    6939    156.703                  (Marseille, 93, FR, None) hurricane.mrs.franceix.net                                                                          
+S&T (6939)  
+├─ 184.105.80.13   6939    171.712                        (Milan, 25, IT, EU) 100ge7-2.core1.mil2.he.net                                                                          
+S&T (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.64.170  6939    218.108                       (Athens, A1, GR, EU) 100ge0-36.core1.ath1.he.net                                                                         
+   184.104.191.234 6939    211.313                   (Koropí, Attica, GR, EU) fast-telecom-p-c.e0-7.core1.ath1.he.net                                                             
+   ***             *       -inf                                           *** *                                                                                                   
+   185.14.96.225   211186  202.662            (Lamía, Central Greece, GR, EU) vlan4090.lamia.fast.net.gr                                                                          
+   185.14.96.232   211186  203.994            (Lamía, Central Greece, GR, EU)                                                                                                     

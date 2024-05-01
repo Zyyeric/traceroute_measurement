@@ -1,0 +1,23 @@
+   141.164.39.1    20473   0.0                      (Paripark, Seoul, KR, AS) 141.164.39.1.vultrusercontent.com                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   100.100.200.1   *       0.297                                          ***                                                                                                     
+   10.84.0.25      *       0.4                                            ***                                                                                                     
+   10.84.2.45      *       1.015                                          ***                                                                                                     
+   10.84.2.38      *       1.103                                          ***                                                                                                     
+   210.176.150.116 4637    1.225                       (Seoul, Seoul, KR, AS) unknown.telstraglobal.net                                                                           
+╭─ 202.84.149.97   4637    1.642                       (Seoul, Seoul, KR, AS)                                                                                                     
+S (4637)  apcn-2 👍 || asia-pacific-gateway-apg ✓ || flag-north-asia-loopreach-north-asia-loop 👍 || eac-c2c 👍 || new-cross-pacific-ncp-cable-system ✓ || korea-japan-cable-network-kjcn ✓ || seamewe-3 👍 || flag-europe-asia-fea ✓ || trans-pacific-express-tpe-cable-system ✓
+╰─ 202.84.137.26   4637    32.644                      (Tokyo, Tokyo, JP, AS) i-14232.jtha-core02.telstraglobal.net                                                               
+   202.84.137.26   4637    32.644                      (Tokyo, Tokyo, JP, AS) i-14232.jtha-core02.telstraglobal.net                                                               
+╭─ 202.47.216.254  4637    32.017                (Tokyo / Narita, 12, JP, AS) i-96.siko11.telstraglobal.net                                                                       
+S (4637, 3257)  
+├─ 210.57.53.43    3257    31.529                        (None, None, HK, AS) unknown.telstraglobal.net                                                                           
+S (3257)  
+├─ 141.136.106.9   3257    282.425                      (Atlanta, GA, US, NA) ae11.lr2-atl1.ip4.gtt.net                                                                           
+S (3257)  
+╰─ 212.222.90.22   3257    282.97               (Manchester, England, GB, EU) ip4.gtt.net                                                                                         
+   80.82.243.153   28792   282.42                       (Witney, ENG, GB, EU) te0-3-0.lon-core-02.ip.pblin.net                                                                    
+   80.82.243.141   28792   282.631                      (Witney, ENG, GB, EU) gi-2-1-0.lon-core-01.ip.pblin.net                                                                   
+   80.82.243.120   28792   285.511                      (Witney, ENG, GB, EU) oxf-core-02.ip.pblin.net                                                                            
+   80.82.243.127   28792   285.62                       (Witney, ENG, GB, EU) oxf-access-10.ip.pblin.net                                                                          
+   80.82.241.134   28792   285.655                  (London, England, GB, EU) 134-241-82-80.in-addr.pblin.net                                                                     

@@ -1,0 +1,16 @@
+   196.49.14.25    30997   0.0                 (Accra, Greater Accra, GH, AF)                                                                                                     
+   196.49.14.1     30997   0.596               (Accra, Greater Accra, GH, AF)                                                                                                     
+╭─ 197.221.70.89   *       1.157               (Accra, Greater Accra, GH, AF)                                                                                                     
+S&T (, 3741)  
+╰─ 196.14.240.4    3741    1.211                         (None, None, ZA, AF) *                                                                                                   
+╭─ 168.209.160.109 3741    256.139                       (None, None, ZA, AF) *                                                                                                   
+T (3741)  
+├─ 168.209.160.108 3741    256.458                  (London, England, GB, EU)                                                                                                     
+T (3741)  
+├─ 168.209.246.65  3741    256.022                       (None, None, ZA, AF) core1b-dock-be-2.ip.ddii.network                                                                    
+T (3741, 28329)  
+├─ 195.66.226.48   28329   268.504                    (London, ENG, GB, None) *                                                                                                   
+T (28329, )  
+├─ 185.1.226.28    *       201.137     (Köln, North Rhine-Westphalia, DE, EU) as41047.226.28.netix.net                                                                            
+T (, 41047)  
+╰─ 87.237.165.29   41047   201.68          (Amsterdam, North Holland, NL, EU)                                                                                                     

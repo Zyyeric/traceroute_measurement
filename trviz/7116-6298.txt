@@ -1,0 +1,9 @@
+   152.195.206.35  15133   0.0                 (São Paulo, São Paulo, BR, SA)                                                                                                     
+╭─ 152.195.206.33  15133   1.268                  (Osasco, São Paulo, BR, SA)                                                                                                     
+S (15133, 6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.198.242 6939    44.137          (Virginia Beach, Virginia, US, NA) port-channel1.core1.for1.he.net                                                                     
+   184.104.199.177 6939    117.44                    (Miami, Florida, US, NA) 100ge0-53.core2.mia1.he.net                                                                         
+   184.104.197.58  6939    115.574                        (Miami, FL, US, NA) port-channel1.core3.mia1.he.net                                                                     
+   216.66.54.162   6939    119.197                   (Miami, Florida, US, NA)                                                                                                     
+   177.124.130.57  52863   119.121                   (Miami, Florida, US, NA) security.upx.com                                                                                    

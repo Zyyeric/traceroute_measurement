@@ -1,0 +1,25 @@
+   193.65.45.86    719     0.0              (Hämeenlinna, Kanta-Häme, FI, EU)                                                                                                     
+   193.65.45.85    719     0.309                     (Espoo, Uusimaa, FI, EU)                                                                                                     
+   193.229.29.196  719     2.862                  (Helsinki, Uusimaa, FI, EU)                                                                                                     
+   213.192.184.76  6667    2.701                  (Helsinki, Uusimaa, FI, EU)                                                                                                     
+   213.192.184.176 6667    3.066                         (None, None, FI, EU) *                                                                                                   
+╭─ 193.110.224.33  *       3.345                  (Helsinki, Uusimaa, FI, EU) he.ficix2.ficix.fi                                                                                  
+LHL (, 6939)  tampnet-offshore-foc-network ✘ || no-uk ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.105.64.230  6939    15.506                        (Oslo, Oslo, NO, EU) 100ge0-59.core2.osl1.he.net                                                                         
+S (6939)  havfrueaec-2 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.188.253 6939    104.108               (Newark, New Jersey, US, NA) port-channel2.core2.ewr5.he.net                                                                     
+╭─ 184.104.198.153 6939    106.23           (New York City, New York, US, NA) port-channel14.core3.nyc4.he.net                                                                    
+S&T (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.64.102  6939    134.449                     (Winnipeg, MB, CA, NA) 100ge6-1.core1.ywg1.he.net                                                                          
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 184.104.195.14  6939    159.789      (Vancouver, British Columbia, CA, NA) port-channel1.core1.yvr2.he.net                                                                     
+S&T (6939, 14007)  
+├─ 65.49.79.250    14007   160.164                       (None, None, US, NA) *                                                                                                   
+S&T (14007)  
+╰─ 216.251.132.66  14007   159.193                        (Delta, BC, CA, NA) tranAvan2.skywaywest.net                                                                            
+   216.251.158.65  395152  159.338              (North Vancouver, BC, CA, NA) *                                                                                                   
+   192.102.254.220 395152  160.691      (Vancouver, British Columbia, CA, NA)                                                                                                     

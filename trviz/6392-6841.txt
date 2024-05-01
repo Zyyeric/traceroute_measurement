@@ -1,0 +1,34 @@
+   195.130.66.103  199399  0.0                       (Athens, Attica, GR, EU) gr-ath-as199399.anchors.atlas.ripe.net                                                              
+   195.130.66.102  199399  1.602                    (Výronas, Attica, GR, EU) gw-ripe-anchor.gr-ix.gr                                                                             
+   62.217.98.52    5408    0.618                    (Výronas, Attica, GR, EU) grix-admin-gw.eier.access-link.grnet.gr                                                             
+   83.97.88.69     21320   0.849                    (Výronas, Attica, GR, EU) grnet-ias-geant-gw.mx2.ath.gr.geant.net                                                             
+╭─ 62.40.98.141    20965   44.031                        (Athens, A1, GR, EU) ae0.mx1.ath2.gr.geant.net                                                                           
+T (20965)  
+├─ 62.40.98.147    20965   44.163                    (Vienna, Vienna, AT, EU) ae0.mx1.vie.at.geant.net                                                                            
+T (20965)  
+├─ 62.40.98.242    20965   44.997                    (Prague, Prague, CZ, EU) ae5.rt1.pra.cz.geant.net                                                                            
+T (20965)  
+├─ 62.40.98.158    20965   44.278          (Frankfurt am Main, Hesse, DE, EU) ae6.rt1.fra.de.geant.net                                                                            
+T (20965)  
+╰─ 62.40.98.20     20965   44.151          (Amsterdam, North Holland, NL, EU) ae8.rt1.ams.nl.geant.net                                                                            
+   80.249.213.240  6461    44.135                      (Schiphol, NH, NL, EU) *                                                                                                   
+   94.31.34.23     6461    43.883          (Amsterdam, North Holland, NL, EU) 94.31.34.23.ipyx-288174-007-zyo.zip.zayo.com                                                        
+╭─ 206.148.26.80   7578    44.13           (Amsterdam, North Holland, NL, EU)                                                                                                     
+S&T (7578)  
+╰─ 206.148.26.23   7578    48.217                   (London, England, GB, EU) e49.lon-eqxld8-bb6.globalsecurelayer.com                                                            
+╭─ 206.148.26.14   7578    47.023                   (London, England, GB, EU) e59.lon-thn-bb1.globalsecurelayer.com                                                               
+S (7578)  
+╰─ 206.148.26.7    7578    128.027          (New York City, New York, US, NA) e52.nyc-eqxny2-bb1.globalsecurelayer.com                                                            
+   206.148.25.42   7578    133.491                (Chicago, Illinois, US, NA) e3.chi-eqxch1-bb1.globalsecurelayer.com                                                             
+╭─ 206.148.25.79   7578    175.425          (Los Angeles, California, US, NA) e52.lax-csla2-cr2.globalsecurelayer.com                                                             
+S (7578)  
+╰─ 206.148.24.2    7578    291.558          (Sydney, New South Wales, AU, OC) e1.syd-eqxsy5-bb1.globalsecurelayer.com                                                             
+   206.148.24.58   7578    303.047              (Melbourne, Victoria, AU, OC) e21.mel-eqxme1-bb1.globalsecurelayer.com                                                            
+   206.148.24.56   7578    313.015        (Adelaide, South Australia, AU, OC) e53.adl-eqxae1-bb4.globalsecurelayer.com                                                            
+╭─ 206.148.24.164  7578    339.328         (Perth, Western Australia, AU, OC)                                                                                                     
+S (7578, 8529)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 134.0.220.73    8529    315.014                       (Muscat, MA, OM, AS) *                                                                                                   
+S&T (8529, 42473)  
+╰─ 213.202.2.1     42473   303.347                        (Dubai, DU, AE, AS) i1.2.202.213omantel.net.om                                                                          
+   37.252.245.94   42473   299.265                     (Dubai, Dubai, AE, AS)                                                                                                     

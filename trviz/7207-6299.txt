@@ -1,0 +1,27 @@
+   197.239.73.59   37577   0.0                  (Ouagadougou, Centre, BF, AF)                                                                                                     
+   197.239.73.57   37577   2.827                (Ouagadougou, Centre, BF, AF)                                                                                                     
+   165.16.221.42   37721   6.213                         (None, None, BF, AF) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   102.67.96.39    37721   3.787                (Ouagadougou, Centre, BF, AF)                                                                                                     
+╭─ 102.67.96.224   37721   19.633               (Ouagadougou, Centre, BF, AF) po48-2048.bb2.acc1.vts.bf                                                                           
+LHL (37721)  west-africa-cable-system-wacs ✓ || africa-coast-to-europe-ace ✓ || mainone ✘ || sat-3wasc ✓
+├─ 102.67.96.245   37721   106.639                   (Lisbon, Lisbon, PT, EU) et-0-0-1-2035.bb1.lis1.vts.bf                                                                       
+S&T (37721)  
+├─ 102.67.97.166   37721   113.519                        (Madrid, M, ES, EU) xe-0-0-1-2013.bb1.mad1.vts.bf                                                                       
+S&T (37721)  
+├─ 102.67.96.154   37721   123.737   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) et-0-0-1-2068.bb1.mrs1.vts.bf                                                                       
+LHL (37721)  
+├─ 102.67.96.157   37721   129.301              (Ouagadougou, Centre, BF, AF) et-0-0-0-65.br2.mrs1.vts.bf                                                                         
+LHL (37721, 37100)  west-africa-cable-system-wacs ✓ || africa-coast-to-europe-ace ✓ || mainone ✘ || sat-3wasc ✓
+╰─ 37.49.232.10    37100   131.683                  (Marseille, 93, FR, None) seacom.mrs.franceix.net                                                                             
+╭─ 105.16.32.2     37100   283.79                    (Marseille, PAC, FR, EU) ae-2.cr-02-mrs.fr.seacomnet.com                                                                     
+S&T (37100)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 105.25.160.178  37100   290.034            (Johannesburg, Gauteng, ZA, AF) ce-0-0-9.cr-02-jnb.za.seacomnet.com                                                                 
+   105.16.28.9     37100   281.289                 (Johannesburg, GT, ZA, AF) ce-0-0-2.er-01-jnb.za.seacomnet.com                                                                 
+╭─ 105.22.34.174   37100   186.151            (Johannesburg, Gauteng, ZA, AF) ce-0-1-5-91.customer-gw-rogers-capital.er-01-jnb.za.seacomnet.com                                   
+S (37100, 36868)  
+╰─ 196.46.34.108   36868   229.054                       (None, None, MU, AF) *                                                                                                   
+   196.46.49.34    36868   229.952   (Quatre Bornes, Plaines Wilhems, MU, AF)                                                                                                     
+   102.222.106.178 328699  231.248           (Port Louis, Port Louis, MU, AF)                                                                                                     

@@ -1,0 +1,16 @@
+   193.50.97.164   2200    0.0                   (Plouzané, Brittany, FR, EU) anchor.netlab.enstb.org                                                                             
+   193.50.97.161   2200    0.707                 (Plouzané, Brittany, FR, EU) netlab-gw.enstb.org                                                                                 
+   192.108.116.201 50897   0.942                 (Plouzané, Brittany, FR, EU) asr-vlan39.enst-bretagne.fr                                                                         
+   193.51.188.10   2200    7.025             (Saint-Brieuc, Brittany, FR, EU) vl807-pc1-brest1-rtr-021.noc.renater.fr                                                             
+   193.51.177.174  2200    12.396              (Paris, Île-de-France, FR, EU) et-5-2-1-ren-nr-paris1-rtr-131.noc.renater.fr                                                       
+╭─ 62.40.124.69    20965   12.512                        (Paris, IDF, FR, EU) renater-lb1.mx1.par.fr.geant.net                                                                    
+S&T (20965)  africa-coast-to-europe-ace ✘ || seamewe-3 ✘
+├─ 62.40.98.106    20965   29.459                        (Lisbon, 11, PT, EU) ae0.mx2.lis.pt.geant.net                                                                            
+S&T (20965)  
+├─ 62.40.98.64     20965   20.288                   (London, England, GB, EU) ae2.mx1.lon.uk.geant.net                                                                            
+S&T (20965)  
+╰─ 62.40.98.26     20965   30.127                  (Dublin, Leinster, IE, EU) ae6.mx1.dub.ie.geant.net                                                                            
+   62.40.125.126   1213    28.992                         (Dublin, D, IE, EU) heanet.mx1.dub.ie.geant.net                                                                         
+   87.44.53.58     1213    28.945                  (Dublin, Leinster, IE, EU) ae4-0.core1-pw.nn.hea.net                                                                           
+   87.44.56.178    1213    28.516                           (Cork, M, IE, EU) po2.pw-spine1.nn.hea.net                                                                            
+   193.1.201.140   1213    28.434                (Tallaght, Leinster, IE, EU) atlas-anchor.heanet.ie                                                                              

@@ -1,0 +1,17 @@
+   152.195.112.52  15133   0.0                         (Tokyo, Tokyo, JP, AS)                                                                                                     
+╭─ 152.195.112.49  15133   0.804                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+S (15133, 174)  apcn-2 ✓ || eac-c2c ✓ || asia-pacific-gateway-apg ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 154.54.89.202   174     61.088              (Hong Kong, Hong Kong, HK, AS) be3011.ccr21.hkg02.atlas.cogentco.com                                                               
+S (174)  asia-africa-europe-1-aae-1 ✓ || seamewe-3 ✓
+╰─ 154.54.6.25     174     274.184                   (Marseille, PAC, FR, EU) be2900.ccr32.mrs02.atlas.cogentco.com                                                               
+╭─ 154.54.72.225   174     274.124                       (Paris, IDF, FR, EU) be2780.ccr42.par01.atlas.cogentco.com                                                               
+T (174)  
+╰─ 154.54.58.237   174     274.132            (Frankfurt am Main, HE, DE, EU) be2800.ccr42.fra03.atlas.cogentco.com                                                               
+╭─ 154.54.37.30    174     274.572            (Frankfurt am Main, HE, DE, EU) be2846.rcr22.fra06.atlas.cogentco.com                                                               
+S (174, 6667)  
+╰─ 149.14.69.178   6667    254.403                       (None, None, FI, EU) elisa.demarc.cogentco.com                                                                           
+   213.192.184.103 6667    271.668                       (None, None, FI, EU) *                                                                                                   
+   213.192.184.77  6667    277.95                 (Helsinki, Uusimaa, FI, EU)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   193.65.45.86    719     274.001          (Hämeenlinna, Kanta-Häme, FI, EU)                                                                                                     

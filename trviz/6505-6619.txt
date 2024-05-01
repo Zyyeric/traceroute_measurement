@@ -1,0 +1,25 @@
+   185.28.108.163  12773   0.0                     (Donetsk, Donetsk, UA, EU) ip-108-163.as12773.net                                                                              
+   185.28.108.161  12773   0.428                   (Donetsk, Donetsk, UA, EU) colo.as12773.net                                                                                    
+   185.28.108.250  12773   0.459                   (Donetsk, Donetsk, UA, EU) ip-108-250.as12773.net                                                                              
+╭─ 185.28.108.213  12773   0.662                   (Donetsk, Donetsk, UA, EU) ip-108-213.as12773.net                                                                              
+T (12773, 31133)  
+╰─ 178.178.114.60  31133   4.027          (Belgorod, Belgorod Oblast, RU, EU)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   10.222.61.158   *       42.783                                         ***                                                                                                     
+╭─ 83.169.204.74   31133   42.629                     (Abdulino, ORE, RU, EU) *                                                                                                   
+LHL (31133, 3356)  
+├─ 212.133.55.9    3356    69.493                      (Warsaw, None, PL, EU) et-0-0-59.edge3.Warsaw1.Level3.net                                                                  
+T (3356, 1273)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 4.68.111.70     1273    64.061                      (Budapest, BU, HU, EU) Vodafone-level3-Budapest1.Level3.net                                                                
+T (1273)  
+╰─ 195.2.31.182    1273    91.434                        (None, None, GB, EU) ae43-xcr1.sof.cw.net                                                                                
+   195.2.18.209    1273    95.385                        (None, None, GB, EU) ae1-xcr1.ise.cw.net                                                                                 
+   195.2.18.214    1273    96.977                        (None, None, GB, EU) ae1-ucr1.tuz.cw.net                                                                                 
+╭─ 195.2.23.130    15924   92.594                        (None, None, GB, EU) vfturkey-gw3.cw.net                                                                                 
+S (15924, 44327)  
+├─ 84.44.20.158    44327   117.41                      (Istanbul, 34, TR, AS) *                                                                                                   
+T (44327, 16010)  
+╰─ 213.157.194.6   16010   122.001                 (Tbilisi, Tbilisi, GE, AS) host-213-157-194-6.customer.magticom.ge                                                             
+   213.157.192.14  16010   123.216                      (Tbilisi, TB, GE, AS) host-213-157-192-14.customer.magticom.ge                                                            
+   213.157.192.2   16010   122.354                 (Tbilisi, Tbilisi, GE, AS) host-213-157-192-2.customer.magticom.ge                                                             

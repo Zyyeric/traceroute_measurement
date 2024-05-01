@@ -1,0 +1,18 @@
+   102.222.106.178 328699  0.0               (Port Louis, Port Louis, MU, AF)                                                                                                     
+   102.222.106.1   328699  0.173             (Ebene, Plaines Wilhems, MU, AF)                                                                                                     
+╭─ 196.46.49.33    36868   0.276             (Ebene, Plaines Wilhems, MU, AF)                                                                                                     
+S (36868, 6939)  meltingpot-indianoceanic-submarine-system-metiss ✘ || safe ✓
+╰─ 196.46.34.109   6939    43.897                  (Johannesburg, GT, ZA, AF) *                                                                                                   
+   105.22.34.173   37100   44.01              (Johannesburg, Gauteng, ZA, AF) ce-0-1-5-91.er-01-jnb.za.seacomnet.com                                                              
+   105.16.29.2     37100   192.831                 (Johannesburg, GT, ZA, AF) ce-0-3-0-0.cr-02-jnb.za.seacomnet.com                                                               
+╭─ 105.16.11.170   37100   194.879          (Cape Town, Western Cape, ZA, AF) ce-0-2-11.cr-02-cpt.za.seacomnet.com                                                                
+S (37100)  
+╰─ 105.25.160.166  37100   194.678   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) ce-0-0-13.cr-02-mrs.fr.seacomnet.com                                                                
+   105.16.33.254   37100   194.696                   (Marseille, PAC, FR, EU) xe-0-0-1-0.br-01-mrs.fr.seacomnet.com                                                               
+╭─ 212.133.4.69    3356    201.976   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) et-1-0-28.edge4.marseille1.level3.net                                                               
+S&T (3356, 25003)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 212.113.14.250  25003   212.479                     (London, None, GB, EU) IB.edge5.London1.Level3.net                                                                         
+T (25003)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 94.188.255.2    25003   265.4                (Bnei Brak, Tel Aviv, IL, AS) 255.188.94-binat-smaug.in-addr.arpa                                                                 

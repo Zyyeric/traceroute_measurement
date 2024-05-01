@@ -1,0 +1,17 @@
+   103.179.37.157  151332  0.0                  (Melbourne, Victoria, AU, OC)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   203.192.83.253  7545    1.525                (Melbourne, Victoria, AU, OC) ip-253-83-192-203.static.pipenetworks.com                                                           
+   203.220.216.73  7545    1.957                        (Sydney, NSW, AU, OC) 203-220-216-73.tpgi.com.au                                                                          
+   27.32.160.193   7545    85.75               (North Melbourne, VIC, AU, OC) 27-32-160-193.static.tpgi.com.au                                                                    
+╭─ 203.219.57.14   7545    85.124          (Perth, Western Australia, AU, OC) per-apt-stg-crt1-be20.tpgi.com.au                                                                   
+S (7545)  
+├─ 203.219.107.114 7545    85.704              (Singapore, Singapore, SG, AS) sin-eqx-aye-int1-hu-0-0-0-20.tpg.com.au                                                             
+S (7545, 58717)  
+├─ 27.111.228.8    58717   86.547                    (Seogwipo, None, KR, AS) 58717.sgw.equinix.com                                                                               
+S (58717)  
+├─ 157.119.185.77  58717   129.573             (Singapore, Singapore, SG, AS) 157.119.185.77.summitiig.net                                                                        
+S (58717)  
+╰─ 103.199.87.13   58717   130.035                       (None, None, BD, AS) *                                                                                                   
+   157.119.185.31  58717   129.854                         (Dhaka, C, BD, AS) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   103.15.246.16   58717   130.076                     (Dhaka, Dhaka, BD, AS)                                                                                                     

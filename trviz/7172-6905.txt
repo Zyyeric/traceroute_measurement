@@ -1,0 +1,11 @@
+   103.253.132.25  59238   0.0                     (Bangkok, Bangkok, TH, AS) th-bkk-as59238.anchors.atlas.ripe.net                                                               
+   103.253.132.1   59238   0.362                (Khlong San, Bangkok, TH, AS) gw-cat.idc.inox.co.th                                                                               
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 122.155.224.73  4651    3.34                 (Khlong San, Bangkok, TH, AS)                                                                                                     
+S (4651)  asia-america-gateway-aag-cable-system ✓
+╰─ 61.19.9.122     4651    42.426                   (Hong Kong, None, HK, AS) *                                                                                                   
+╭─ 63.216.142.73   3491    42.619                   (Hong Kong, None, HK, AS) te0-6-0-5.br03.hkg15.pccwbtn.net                                                                    
+S (3491)  apcn-2 👍 || eac-c2c ✓ || asia-pacific-gateway-apg ✓ || flag-north-asia-loopreach-north-asia-loop 👍 || flag-europe-asia-fea ✓ || seamewe-3 👍
+╰─ 63.218.148.181  3491    80.146                       (Seoul, None, KR, AS) TenGE0-1-0-1.br04.seo01.pccwbtn.net                                                                 
+   63.222.106.8    3491    79.495                      (Seoul, Seoul, KR, AS) 63-222-106-8.static.pccwglobal.net                                                                  

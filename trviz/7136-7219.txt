@@ -1,0 +1,19 @@
+   102.219.127.20  37468   0.0                 (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 102.219.127.17  37468   0.52                (Singapore, Singapore, SG, AS)                                                                                                     
+LHL (37468)  seamewe-4 ✓ ↠ seacomtata-tgn-eurasia ✓ || seamewe-3 ✓ ↠ seacomtata-tgn-eurasia ✓ || seamewe-5 ✓ ↠ seacomtata-tgn-eurasia ✓ || peace-cable ✘ ↠ seacomtata-tgn-eurasia ✓
+├─ 102.219.127.7   37468   145.078            (Johannesburg, Gauteng, ZA, AF)                                                                                                     
+S&T (37468)  
+├─ 102.130.68.112  37468   160.261                       (None, None, AO, AF) *                                                                                                   
+LHL (37468, 3257)  
+├  100.64.192.13   *       309.583                                        ***                                                                                                     
+├─ 212.222.183.193 3257    310.609                  (London, England, GB, EU) ae19-623.cr10-lon1.ip4.gtt.net                                                                      
+S&T (3257)  
+╰─ 213.200.119.214 3257    315.55                        (Paris, IDF, FR, EU) et-3-3-0.cr2-par7.ip4.gtt.net                                                                       
+   77.67.123.206   2200    405.085                       (Paris, IDF, FR, EU) renater-gw-ix1.gtt.net                                                                              
+   193.55.204.195  2200    415.785                      (Paris, None, FR, EU) et-3-1-2-ren-nr-paris2-rtr-131.noc.renater.fr                                                       
+   193.51.177.239  2200    413.781                 (Rennes, Brittany, FR, EU) hu0-3-0-1-ren-nr-lyon2-rtr-091.noc.renater.fr                                                       
+   193.55.204.15   2200    417.008                     (Rennes, None, FR, EU) te0-3-0-0-ren-nr-rennes-rtr-091.noc.renater.fr                                                      
+   193.51.181.93   2200    2043.793                  (Grenoble, None, FR, EU) man-tigre-te1-4-grenoble-rtr-021.noc.renater.fr                                                     
+   193.54.185.10   1942    413.576            (Épinay-sur-Seine, IDF, FR, EU) r-epn.grenet.fr                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   193.49.43.151   2200    417.461   (Grenoble, Auvergne-Rhône-Alpes, FR, EU)                                                                                                     

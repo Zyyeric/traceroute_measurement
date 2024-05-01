@@ -1,0 +1,23 @@
+   170.81.100.114  266413  0.0                      (Camaçari, Bahia, BR, SA) 170.81.100.114.vivatecnologia.com.br                                                                
+╭─ 170.81.100.97   266413  1.19                     (Camaçari, Bahia, BR, SA) rt001-are-ba.vivatecnologia.com.br                                                                  
+S (266413, 6939)  
+├  10.200.0.2      *       1.368                                          ***                                                                                                     
+╰─ 184.104.198.242 6939    51.277          (Virginia Beach, Virginia, US, NA) port-channel1.core1.for1.he.net                                                                     
+   184.104.199.177 6939    122.411                   (Miami, Florida, US, NA) 100ge0-53.core2.mia1.he.net                                                                         
+╭─ 184.104.195.165 6939    131.941                     (New York, NY, US, NA) 100ge2-2.core1.nyc5.he.net                                                                          
+S (6939)  
+╰─ 184.104.188.101 6939    199.004                  (London, England, GB, EU) port-channel20.core3.lon2.he.net                                                                    
+   184.105.64.5    6939    199.072                  (London, England, GB, EU) port-channel4.core1.lon3.he.net                                                                     
+╭─ 184.104.205.253 6939    188.232                  (London, England, GB, EU) mtn-globalconnect-solutions-ltd.port-channel7.core1.lon3.he.net                                     
+T (6939, 16637)  
+├─ 41.181.189.65   16637   190.165                     (Pretoria, GP, ZA, AF) *                                                                                                   
+T (16637)  
+╰─ 41.181.105.105  16637   189.263                  (London, England, GB, EU)                                                                                                     
+╭─ 41.181.244.176  16637   191.431                  (London, England, GB, EU)                                                                                                     
+T (16637, 20294)  
+├─ 41.181.247.39   20294   337.944                       (None, None, ZA, AF) *                                                                                                   
+LHL (20294)  
+╰─ 212.88.110.34   20294   336.264          (Kampala, Central Region, UG, AF)                                                                                                     
+   129.205.30.76   37063   337.634                       (Kampala, C, UG, AF) *                                                                                                   
+   41.191.77.206   328998  338.127                       (Kampala, C, UG, AF) *                                                                                                   
+   196.49.15.189   328998  339.549          (Kampala, Central Region, UG, AF)                                                                                                     

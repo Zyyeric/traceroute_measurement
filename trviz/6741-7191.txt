@@ -1,0 +1,25 @@
+   117.20.118.21   45498   0.0               (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     
+   117.20.118.17   45498   0.638 (3.993)        (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     
+   27.109.113.25   45498   1.277             (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     
+   27.109.113.4    45498   1.167             (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     
+   172.16.100.137  *       1.139                                          ***                                                                                                     
+   172.16.16.2     *       1.603                                          ***                                                                                                     
+╭─ 184.105.81.38   6939    38.807                     (Phnom Penh, 8, KH, AS) 100ge0-36.core1.pnh1.he.net                                                                         
+S (6939)  
+├─ 184.104.198.86  6939    36.547                       (Bangkok, 10, TH, AS) port-channel3.core1.bkk1.he.net                                                                     
+S&T (6939)  
+├─ 184.104.197.102 6939    36.484                  (Kuala Lumpur, 14, MY, AS) ve955.core1.kul1.he.net                                                                             
+S&T (6939)  
+├─ 184.105.223.133 6939    84.921              (Singapore, Singapore, SG, AS) port-channel22.core2.sin1.he.net                                                                    
+S (6939)  
+├─ 184.104.194.200 6939    173.082   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) port-channel15.core4.mrs1.he.net                                                                    
+S&T (6939)  
+├─ 184.105.80.13   6939    179.591                        (Milan, 25, IT, EU) 100ge7-2.core1.mil2.he.net                                                                          
+LHL (6939)  
+├─ 184.104.196.194 6939    198.814                       (Denver, CO, US, NA) port-channel1.core1.den3.he.net                                                                     
+LHL (6939)  
+╰─ 184.105.64.170  6939    210.118                       (Athens, A1, GR, EU) 100ge0-36.core1.ath1.he.net                                                                         
+   176.126.38.48   *       210.082              (Metamórfosi, Attica, GR, EU) fastpath.gr-ix.gr                                                                                   
+   185.201.254.25  56457   209.883                    (Kítsi, Attica, GR, EU) be3500.ef1.ath01.fastpath.gr                                                                        
+   185.201.254.35  56457   210.132                    (Kítsi, Attica, GR, EU) te1-22.sp1.ath01.fastpath.gr                                                                        
+   176.119.210.244 56457   210.277                   (Athens, Attica, GR, EU)                                                                                                     

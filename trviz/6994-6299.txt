@@ -1,0 +1,21 @@
+   197.239.73.59   37577   0.0                  (Ouagadougou, Centre, BF, AF)                                                                                                     
+   197.239.73.57   37577   0.333                (Ouagadougou, Centre, BF, AF)                                                                                                     
+   165.16.221.42   37721   0.493                         (None, None, BF, AF) *                                                                                                   
+   165.16.221.41   37721   1.049                         (None, None, BF, AF) *                                                                                                   
+   102.67.97.145   37721   0.962                (Ouagadougou, Centre, BF, AF) ce5-255.bb1.oua1.vts.bf                                                                             
+   102.67.97.41    37721   0.897 (2.978)              (Ouagadougou, KAD, BF, AF) et-0-0-1-2003.bb1.oua2.vts.bf                                                                       
+╭─ 102.67.96.224   37721   16.934               (Ouagadougou, Centre, BF, AF) po48-2048.bb2.acc1.vts.bf                                                                           
+LHL (37721)  west-africa-cable-system-wacs ✓ || africa-coast-to-europe-ace ✓ || mainone ✘ || sat-3wasc ✓
+├─ 102.67.96.245   37721   104.477                   (Lisbon, Lisbon, PT, EU) et-0-0-1-2035.bb1.lis1.vts.bf                                                                       
+S&T (37721)  europe-india-gateway-eig ✓ || seamewe-3 ✓
+├─ 102.67.96.26    37721   125.691                  (London, England, GB, EU) xe-0-0-1-2034.bb1.lon1.vts.bf                                                                       
+S&T (37721)  
+├─ 102.67.97.214   37721   126.364                      (Paris, None, FR, EU) xe-0-0-1-2019.bb2.prs1.vts.bf                                                                       
+T (37721)  
+╰─ 102.67.96.252   37721   136.57          (Amsterdam, North Holland, NL, EU) ce1-2027.bb1.ams1.vts.bf                                                                            
+   102.67.96.113   37721   134.317         (Amsterdam, North Holland, NL, EU) et-0-0-1-55.br2.ams1.vts.bf                                                                         
+╭─ 80.249.210.125  3356    140.162                     (Schiphol, NH, NL, EU) AMS-EQNX-POP-CRS-1.du.ae                                                                            
+T (3356, 57187)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 94.206.39.74    57187   289.35                         (Dubai, DU, AE, AS) j48-1.dxa.dxb.ae.datamena.net                                                                       
+   94.207.43.2     57187   287.683                     (Dubai, Dubai, AE, AS) -094-207-043-002.datamena.net                                                                       

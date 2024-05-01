@@ -1,0 +1,18 @@
+   196.6.220.42    37578   0.0              (Nairobi, Nairobi County, KE, AF)                                                                                                     
+   196.6.220.1     37578   0.335            (Nairobi, Nairobi County, KE, AF)                                                                                                     
+   197.155.93.66   30844   0.899            (Nairobi, Nairobi County, KE, AF) 197.155.93.66.liquidtelecom.net                                                                     
+   41.60.199.154   30844   112.784          (Nairobi, Nairobi County, KE, AF)                                                                                                     
+   197.155.94.9    30844   131.946                      (Nairobi, 30, KE, AF) et-1-1-8.lke-p2-msa.liquidtelecom.net                                                               
+╭─ 197.155.94.14   30844   113.067                      (Nairobi, 30, KE, AF) et-1-1-11.lke-p2-msa.liquidtelecom.net                                                              
+S (30844)  
+╰─ 197.155.90.200  30844   131.404   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) xe-0-0-2-2.lfr-pe2-mrs.liquidtelecom.net                                                            
+╭─ 5.11.10.88      30844   131.41                   (Marseille, None, FR, EU) te-0-0-0-6.lfr-pe1-mrs.liquidtelecom.net                                                            
+T (30844, )  
+╰─ 185.1.47.15     *       145.184         (Frankfurt am Main, Hesse, DE, EU) mrs.de-cix.gw.hetzner.com                                                                           
+   213.239.224.178 24940   143.216                       (None, None, DE, EU) core9.fra.hetzner.com                                                                               
+   213.239.224.169 24940   151.774                       (None, None, DE, EU) core32.hel1.hetzner.com                                                                             
+╭─ 213.239.224.25  24940   203.511                       (None, None, DE, EU) juniper4.dc1.hel1.hetzner.com                                                                       
+S (24940, 16302)  
+╰─ 213.239.239.114 16302   203.699                        (Espoo, 18, FI, EU) suomicom-gw.hetzner.com                                                                             
+   77.246.204.230  203296  170.947                     (Helsinki, 18, FI, EU) gw-l1.dei.fi                                                                                        
+   185.139.168.19  203296  171.579                (Helsinki, Uusimaa, FI, EU) fi-hel-as203296.anchors.atlas.ripe.net                                                              

@@ -1,0 +1,21 @@
+   185.92.0.41     202536  0.0                       (İzmit, Kocaeli, TR, AS) tr-kfz-as202536.anchors.atlas.ripe.net                                                              
+   82.138.124.17   206119  1.416                    (Körfez, Kocaeli, TR, AS)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   46.221.30.29    202536  0.942                         (None, None, TR, AS) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   10.190.30.121   *       3.269                                          ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   10.188.149.113  *       3.861                                          ***                                                                                                     
+   10.135.55.65    *       4.047                                          ***                                                                                                     
+╭─ 195.2.23.129    1273    6.054                 (Istanbul, Istanbul, TR, AS) ae4-17-ucr1.tuz.cw.net                                                                              
+S (1273)  
+├─ 195.2.18.213    1273    5.893                         (None, None, GB, EU) ae2-xcr1.ise.cw.net                                                                                 
+LHL (1273)  
+╰─ 195.2.18.210    1273    19.679              (Sofia, Sofia-Capital, BG, EU) ae29-xcr1.sof.cw.net                                                                                
+╭─ 4.68.70.13      3356    19.017              (Sofia, Sofia-Capital, BG, EU) ae-7.bar2.sofia2.level3.net                                                                         
+LHL (3356, 25003)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 212.113.14.250  25003   54.764                      (London, None, GB, EU) IB.edge5.London1.Level3.net                                                                         
+T (25003)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 94.188.255.2    25003   94.179               (Bnei Brak, Tel Aviv, IL, AS) 255.188.94-binat-smaug.in-addr.arpa                                                                 

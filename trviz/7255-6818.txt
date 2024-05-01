@@ -1,0 +1,13 @@
+   63.222.40.114   3491    0.0                       (Taipei, Taiwan, TW, AS) ncic.te0-1-0-23.br01.tap04.as3491.net                                                               
+╭─ 63.222.40.113   3491    0.974                      (Neihu, Taiwan, TW, AS) te0-1-0-23.br01.tap04.as3491.net                                                                    
+S (3491)  trans-pacific-express-tpe-cable-system ✓ || new-cross-pacific-ncp-cable-system ✓ || pacific-light-cable-network-plcn ✓
+╰─ 63.223.43.198   3491    140.173                  (Los Angeles, CA, US, NA) Bundle-Ether4.br05.lax05.pccwbtn.net                                                                
+   63.217.104.122  20473   135.557                       (None, None, US, NA) 63-217-104-122.static.pccwglobal.net                                                                
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 149.28.94.127   20473   142.861          (Los Angeles, California, US, NA) router01-vul-lax.as151332.net                                                                       
+S (20473, 8888)  
+╰─ 103.136.146.152 8888    277.021          (Sydney, New South Wales, AU, OC) s22562.vps.hosting                                                                                  
+   203.192.83.254  7545    215.13               (Melbourne, Victoria, AU, OC) ip-254-83-192-203.static.pipenetworks.com                                                           
+   103.179.37.157  151332  245.487              (Melbourne, Victoria, AU, OC)                                                                                                     

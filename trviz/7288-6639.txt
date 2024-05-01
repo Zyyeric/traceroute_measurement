@@ -1,0 +1,18 @@
+   37.10.40.14     202196  0.0                 (Hong Kong, Hong Kong, HK, AS)                                                                                                     
+   37.10.40.9      202196  0.333            (Tai Yuen Estate, Tai Po, HK, AS)                                                                                                     
+   10.127.0.54     *       0.498                                          ***                                                                                                     
+   223.119.0.94    58453   2.452               (Hong Kong, Hong Kong, HK, AS)                                                                                                     
+╭─ 223.120.3.89    58453   1.965                         (None, None, HK, AS) *                                                                                                   
+S (58453)  apcn-2 ✓ || southeast-asia-japan-cable-sjc ✓ || eac-c2c ✓ || asia-pacific-gateway-apg ✓ || asia-america-gateway-aag-cable-system ✓
+├─ 223.118.5.202   58453   33.022              (Singapore, Singapore, SG, AS)                                                                                                     
+S (58453, 7713)  
+├─ 27.111.228.77   7713    35.549                    (Seogwipo, None, KR, AS) 7713.sgw.equinix.com                                                                                
+S (7713)  
+╰─ 180.240.204.9   7713    34.393              (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 180.240.204.9   7713    34.393              (Singapore, Singapore, SG, AS)                                                                                                     
+S&T (7713)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 36.64.254.21    7713    54.009        (Gubengairlangga, East Java, ID, AS)                                                                                                     
+   36.64.254.22    7713    54.041                    (Denpasar, Bali, ID, AS)                                                                                                     
+   103.215.228.2   140443  51.914               (Surabaya, East Java, ID, AS) 2.228.215.103.in-addr.herza.id                                                                      
+   103.215.229.229 140443  52.191               (Surabaya, East Java, ID, AS) 229.229.215.103.in-addr.herza.id                                                                    

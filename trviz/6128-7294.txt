@@ -1,0 +1,18 @@
+   10.252.4.170    *       0.0                                            ***                                                                                                     
+   10.252.4.169    *       0.123                                          ***                                                                                                     
+   10.252.4.153    *       0.151                                          ***                                                                                                     
+   10.252.0.37     *       12.487                                         ***                                                                                                     
+╭─ 184.104.196.46  6939    50.627                      (Istanbul, 34, TR, AS) 100ge0-36.core1.ist1.he.net                                                                         
+S&T (6939)  
+├─ 184.105.65.49   6939    46.082                         (Sofia, 23, BG, EU) 100ge14-1.core1.sof1.he.net                                                                         
+T (6939, 1299)  
+├─ 213.248.104.154 1299    52.427                   (Milan, Lombardy, IT, EU) hurricane-ic-379075.ip.twelve99-cust.net                                                            
+S (1299, 6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.64.253  6939    297.481                     (Singapore, 4, SG, AS) 100ge11-1.core1.sin1.he.net                                                                         
+╭─ 65.49.109.214   6939    225.286             (Singapore, Singapore, SG, AS) pakistan-telecommunication-co-ltd.e0-26.switch1.sin1.he.net                                         
+S (6939, 7590)  
+├  10.253.13.45    *       244.357                                        ***                                                                                                     
+╰─ 202.125.149.58  7590    246.685                   (Rawalpindi, PB, PK, AS) Touchstone-4.rwp44d1.pie.net.pk                                                                     
+   210.56.8.180    7590    248.378                    (Islamabad, IS, PK, AS) *                                                                                                   
+   210.56.11.202   7590    247.211             (Islamabad, Islamabad, PK, AS)                                                                                                     

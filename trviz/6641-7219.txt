@@ -1,0 +1,21 @@
+   102.219.127.20  37468   0.0                 (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 102.219.127.17  37468   0.4                 (Singapore, Singapore, SG, AS)                                                                                                     
+LHL (37468)  seamewe-4 ✓ ↠ seacomtata-tgn-eurasia ✓ || seamewe-3 ✓ ↠ seacomtata-tgn-eurasia ✓ || seamewe-5 ✓ ↠ seacomtata-tgn-eurasia ✓ || peace-cable ✘ ↠ seacomtata-tgn-eurasia ✓
+├─ 102.219.127.7   37468   144.874            (Johannesburg, Gauteng, ZA, AF)                                                                                                     
+S&T (37468)  
+├─ 102.130.68.112  37468   160.3                         (None, None, AO, AF) *                                                                                                   
+S (37468)  
+├─ 102.130.68.69   37468   271.987                   (Lisbon, Lisbon, PT, EU)                                                                                                     
+S&T (37468, 174)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 154.54.61.101   174     325.953                       (Bilbao, PV, ES, EU) be2313.ccr31.bio02.atlas.cogentco.com                                                               
+   154.54.61.130   174     330.973                        (Madrid, M, ES, EU) be2324.ccr31.mad05.atlas.cogentco.com                                                               
+╭─ 130.117.14.46   3356    316.721                        (Madrid, M, ES, EU) centurylink.mad05.atlas.cogentco.com                                                                
+S (3356)  
+├─ 4.69.134.42     3356    449.05                        (None, None, US, NA) *                                                                                                   
+S (3356, 199524)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 45.80.212.34    199524  448.872                     (Seoul, Seoul, KR, AS) vrrp.gcore.com                                                                                      
+   92.38.135.131   202422  453.977                     (Seoul, Seoul, KR, AS)                                                                                                     

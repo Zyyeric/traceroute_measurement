@@ -1,0 +1,13 @@
+   103.170.154.254 142594  0.0                      (London, England, GB, EU) 254.154.170.103.speedyvps.uk                                                                        
+╭─ 103.170.154.1   142594  0.206                    (London, England, GB, EU)                                                                                                     
+T (142594, 60068)  
+├─ 156.146.32.92   60068   0.255                     (Prague, Prague, CZ, EU) unn-156-146-32-92.cdn77.com                                                                         
+T (60068, 201011)  
+├─ 81.95.9.56      201011  0.418                  (Shadwell, England, GB, EU) ae22-407.lon10.core-backbone.com                                                                    
+T (201011)  
+├─ 5.56.21.73      201011  15.835                        (Zurich, ZH, CH, EU) ae12-2024.zur10.core-backbone.com                                                                   
+T (201011, 201333)  
+╰─ 185.78.48.20    201333  19.353                   (Milan, Lombardy, IT, EU) ens2f4-r01.mil1d.naquadria.net                                                                      
+   185.78.48.22    201333  20.464                   (Milan, Lombardy, IT, EU) ens1f4-920-r02.pia1.naquadria.net                                                                   
+   185.78.48.244   201333  20.528                     (Parabiago, 25, IT, EU) lf01b5-vlan910.pia1.naquadria.net                                                                   
+   185.78.49.100   201333  20.61           (Piacenza, Emilia-Romagna, IT, EU) it-pcz-as201333.anchors.atlas.ripe.net                                                              

@@ -1,0 +1,30 @@
+   197.239.73.59   37577   0.0                  (Ouagadougou, Centre, BF, AF)                                                                                                     
+   197.239.73.57   37577   0.314                (Ouagadougou, Centre, BF, AF)                                                                                                     
+   165.16.221.42   37721   0.435                         (None, None, BF, AF) *                                                                                                   
+   165.16.221.41   37721   0.786                         (None, None, BF, AF) *                                                                                                   
+   102.67.97.145   37721   0.655                (Ouagadougou, Centre, BF, AF) ce5-255.bb1.oua1.vts.bf                                                                             
+╭─ 102.67.96.39    37721   0.636 (2.745)           (Ouagadougou, Centre, BF, AF)                                                                                                     
+LHL (37721)  africa-coast-to-europe-ace ✓
+├─ 102.67.96.46    37721   15.843                       (Paris, None, FR, EU) xe-0-0-1-2022.bb2.prs1.vts.bf                                                                       
+LHL (37721)  
+╰─ 102.67.97.97    37721   23.808               (Ouagadougou, Centre, BF, AF) po51-2055.bb1.los1.vts.bf                                                                           
+╭─ 102.67.97.233   37721   24.142               (Ouagadougou, Centre, BF, AF) xe-0-0-5-722.br2.los1.vts.bf                                                                        
+LHL (37721, 6939)  
+├─ 216.66.89.4     6939    27.074                      (Lagos, Lagos, NG, AF) e0-7.core1.los1.he.net                                                                              
+S&T (6939)  
+├─ 184.104.188.93  6939    80.924           (Cape Town, Western Cape, ZA, AF) 10ge0-24.core1.cpt1.he.net                                                                          
+LHL (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.193.194 6939    230.937                    (Amsterdam, NH, NL, EU) 100ge0-33.core2.ams2.he.net                                                                         
+   184.104.198.2   6939    224.341                    (Amsterdam, NH, NL, EU) port-channel5.core1.ams7.he.net                                                                     
+╭─ 184.104.197.126 6939    226.166         (Amsterdam, North Holland, NL, EU) port-channel1.core2.ams7.he.net                                                                     
+S (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.105.81.141  6939    245.761                      (Ashburn, VA, US, NA) port-channel10.core3.ash1.he.net                                                                    
+S (6939, 56655)  
+╰─ 185.125.170.251 56655   249.178                       (Oslo, Oslo, NO, EU)                                                                                                     
+   185.125.170.252 56655   199.749                       (Oslo, Oslo, NO, EU)                                                                                                     
+   185.125.170.45  56655   249.456                       (Oslo, Oslo, NO, EU)                                                                                                     
+   185.14.97.165   56655   3189.258                      (Oslo, Oslo, NO, EU)                                                                                                     
+   185.14.97.165   56655   3189.258                      (Oslo, Oslo, NO, EU)                                                                                                     

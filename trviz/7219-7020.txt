@@ -1,0 +1,29 @@
+   130.193.166.22  21277   0.0                         (Erbil, Arbīl, IQ, AS)                                                                                                     
+╭─ 130.193.166.21  21277   0.213                       (Erbil, Arbīl, IQ, AS)                                                                                                     
+T (21277)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 5.23.0.72       21277   28.007                      (Istanbul, 34, TR, AS) ix-ae-13-0.tcore1.it5-istanbul.as6453.net                                                           
+LHL (21277)  seamewe-5 ✘ || seamewe-3 ✓
+├─ 195.219.156.21  21277   101.71             (Frankfurt am Main, HE, DE, EU) if-ae-8-2.tcore1.fnm-frankfurt.as6453.net                                                           
+T (21277, 6453)  
+╰─ 195.219.194.149 6453    102.03                     (Amsterdam, NH, NL, EU) if-ae-6-2.tcore1.av2-amsterdam.as6453.net                                                           
+╭─ 195.219.194.6   6453    100.144                    (Amsterdam, NH, NL, EU) if-ae-2-2.tcore2.av2-amsterdam.as6453.net                                                           
+S&T (6453)  
+╰─ 80.231.131.160  6453    103.089                     (London, None, GB, EU) if-ae-14-2.tcore2.l78-london.as6453.net                                                             
+╭─ 80.231.138.21   6453    103.331                 (Highbridge, None, GB, EU) if-ae-19-2.tcore1.sv8-highbridge.as6453.net                                                         
+S&T (6453)  
+╰─ 80.231.158.29   6453    103.224                     (Lisbon, None, PT, EU) if-ae-1-3.tcore1.pv9-lisbon.as6453.net                                                              
+   80.231.158.6    6453    102.712                     (Lisbon, None, PT, EU) if-ae-2-2.tcore2.pv9-lisbon.as6453.net                                                              
+╭─ 80.231.159.26   37468   101.839                       (Lisbon, 11, PT, EU) *                                                                                                   
+S&T (37468)  
+├─ 102.130.68.68   37468   278.593          (Cape Town, Western Cape, ZA, AF)                                                                                                     
+S&T (37468)  
+├─ 102.130.68.139  37468   279.51                        (None, None, AO, AF) *                                                                                                   
+S&T (37468)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 102.130.68.143  37468   329.473                 (Johannesburg, GT, ZA, AF) *                                                                                                   
+LHL (37468)  
+╰─ 102.219.127.6   37468   425.6               (Singapore, Singapore, SG, AS)                                                                                                     
+   102.219.127.20  37468   425.687             (Singapore, Singapore, SG, AS)                                                                                                     

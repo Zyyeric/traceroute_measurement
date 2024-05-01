@@ -1,0 +1,32 @@
+╭─ 196.49.84.188   328913  0.0                     (Douala, Littoral, CM, AF) cm-dla-as328913.anchors.atlas.ripe.net                                                              
+S (328913)  
+╰─ 196.49.84.177   328913  0.424                   (Abidjan, Abidjan, CI, AF)                                                                                                     
+╭─ 196.49.84.34    328913  0.731                   (Abidjan, Abidjan, CI, AF) bdr2.std.douala-ix.net                                                                              
+S&T (328913, )  
+├─ 196.60.84.61    *       1.351                   (Douala, Littoral, CM, AF) as328840.member.std.douala-ix.net                                                                   
+S (, 60171)  
+├─ 102.219.44.42   60171   1.054                       (Lagos, Lagos, NG, AF)                                                                                                     
+S (60171)  
+├─ 185.10.164.44   60171   277.053             (Barcelona, Catalonia, ES, EU)                                                                                                     
+S (60171)  
+├─ 102.223.52.72   60171   359.922                     (Lagos, Lagos, NG, AF)                                                                                                     
+S (60171)  
+╰─ 185.10.164.33   60171   277.476             (Barcelona, Catalonia, ES, EU)                                                                                                     
+╭─ 185.10.164.134  60171   360.128             (Barcelona, Catalonia, ES, EU)                                                                                                     
+S&T (60171, 37542)  
+├─ 185.10.164.112  37542   360.408                      (London, ENG, GB, EU) *                                                                                                   
+S&T (37542, 60171)  
+╰─ 185.10.164.98   60171   359.838             (Barcelona, Catalonia, ES, EU)                                                                                                     
+╭─ 185.35.142.61   60171   277.285                       (None, None, ES, EU) *                                                                                                   
+S&T (60171)  
+├─ 185.10.164.131  60171   357.741                  (London, England, GB, EU)                                                                                                     
+T (60171, 30844)  
+├─ 80.81.193.228   30844   367.0             (Frankfurt am Main, 5, DE, None) decix-frankfurt.liquidtelecom.net                                                                   
+LHL (30844)  
+╰─ 41.175.212.3    30844   477.836                       (None, None, MU, AF) *                                                                                                   
+╭─ 197.155.94.1    30844   479.282                       (None, None, MU, AF) xe-0-0-3-LTZ-P1-DAR.liquidtelecom.net                                                               
+LHL (30844)  
+├─ 197.155.94.195  30844   476.532                      (Nairobi, 30, KE, AF) xe-0-0-4.ltz-pe1-rah.liquidtelecom.net                                                              
+S&T (30844)  
+╰─ 41.175.46.58    30844   477.571                       (None, None, TZ, AF) *                                                                                                   
+   196.49.5.98     327844  478.073   (Dar es Salaam, Dar es Salaam Region, TZ, AF)                                                                                                     

@@ -1,0 +1,18 @@
+   193.49.43.151   2200    0.0       (Grenoble, Auvergne-Rhône-Alpes, FR, EU)                                                                                                     
+   193.49.43.99    2200    5.01      (Fontaine, Auvergne-Rhône-Alpes, FR, EU) rteie.epn-campus.eu                                                                                 
+   ***             *       -inf                                           *** *                                                                                                   
+   193.54.185.9    2200    4.283     (Fontaine, Auvergne-Rhône-Alpes, FR, EU) tigre1.grenet.fr                                                                                    
+   193.51.181.94   2200    1.088     (Fontaine, Auvergne-Rhône-Alpes, FR, EU) hu0-2-0-2-ren-nr-grenoble-rtr-091.noc.renater.fr                                                    
+   193.55.204.14   2200    8.573     (Grenoble, Auvergne-Rhône-Alpes, FR, EU) hu0-3-0-3-ren-nr-lyon2-rtr-091.noc.renater.fr                                                       
+   193.51.177.238  2200    8.55                (Paris, Île-de-France, FR, EU) et-5-3-1-ren-nr-paris2-rtr-131.noc.renater.fr                                                       
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 184.105.81.30   6939    28.366                    (Marseille, PAC, FR, EU) port-channel4.core2.mrs1.he.net                                                                     
+S (6939)  seamewe-5 ✓ || peace-cable ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.208.93  6939    173.276             (Singapore, Singapore, SG, AS) true-internet-corporation-co-ltd.port-channel18.core3.sin1.he.net                                   
+S&T (6939, 38082)  asia-america-gateway-aag-cable-system ✓ || seamewe-4 ✓ || seamewe-3 ✓
+╰─ 113.21.241.209  38082   237.392                       (None, None, TH, AS) TH-ICR-MTT1-241-209.trueintergateway.com                                                            
+   113.21.243.146  137566  243.297                       (None, None, TH, AS) TIG-Net243-146.trueintergateway.com                                                                 
+   103.113.176.2   137566  300.054                       (None, None, TH, AS) *                                                                                                   
+   103.113.176.82  137566  474.1         (Ban Talat Bueng, Chon Buri, TH, AS)                                                                                                     

@@ -1,0 +1,14 @@
+   23.155.72.145   64289   0.0              (Santa Clara, California, US, NA)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   10.10.10.0      *       0.245                                          ***                                                                                                     
+   206.197.187.12  *       1.133                (Fremont, California, US, NA) as6939.sfmix.org                                                                                    
+╭─ 72.52.92.245    6939    2.126                     (Farmington, CA, US, NA) 100ge4-2.core3.fmt2.he.net                                                                          
+S (6939)  faster ✓ || japan-u-s-cable-network-jus ✓ || pacific-crossing-1-pc-1 ✘ || jupiter ✓ || trans-pacific-express-tpe-cable-system ✓ || new-cross-pacific-ncp-cable-system ✓ || tata-tgn-pacific ✓ || unityeac-pacific ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.194.38  6939    114.804               (Tokyo / Narita, 12, JP, AS) 100ge8-1.core1.tyo1.he.net                                                                          
+S (6939, 23944)  asia-submarine-cable-express-asecahaya-malaysia ✓ || flag-north-asia-loopreach-north-asia-loop ✓ || southeast-asia-japan-cable-sjc ✓ || flag-europe-asia-fea ✓ || eac-c2c ✓ || apcn-2 ✓ || asia-pacific-gateway-apg ✓ || seamewe-3 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.212.74  23944   176.768                  (Hong Kong, None, HK, AS) sky-cable-corporation.port-channel4.switch1.hkg1.he.net                                             
+S (23944)  
+├  172.31.31.7     *       172.657                                        ***                                                                                                     
+╰─ 182.18.209.9    23944   176.631             (Manila, Metro Manila, PH, AS)                                                                                                     

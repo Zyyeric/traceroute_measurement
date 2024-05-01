@@ -1,0 +1,13 @@
+   185.32.187.165  13238   0.0                    (Helsinki, Uusimaa, FI, EU)                                                                                                     
+╭─ 185.32.187.166  13238   0.282 (4.041)             (Helsinki, Uusimaa, FI, EU)                                                                                                     
+LHL (13238)  circe-north ✘ || scylla ✘ || ulysses-2 ✘ || zeus ✘ || atlantic-crossing-1-ac-1 ✘ || concerto ✘ || farland-north ✘
+├  10.1.1.100      *       0.565                                          ***                                                                                                     
+╰─ 80.249.211.200  13238   55.326                      (Schiphol, NH, NL, EU) ams-ix-am1.yandex.net                                                                               
+╭─ 80.249.209.192  2119    55.259                      (Schiphol, NH, NL, EU) ti9000b400.ti.telenor.net                                                                           
+S&T (2119)  
+╰─ 146.172.105.10  2119    56.066                        (None, None, NO, EU) ti3004c400-ae2-0.ti.telenor.net                                                                     
+╭─ 146.172.14.121  2119    56.295                        (None, None, NO, EU) ti3001c360-ae6-0.ti.telenor.net                                                                     
+T (2119, 197564)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 62.119.32.90    197564  57.283                     (Stockholm, AB, SE, EU) *                                                                                                   
+   213.108.25.10   197564  56.14                    (Täby, Stockholm, SE, EU) ripe-atlas2.iis.se                                                                                  

@@ -1,0 +1,16 @@
+   80.67.190.218   204092  0.0                     (Rennes, Brittany, FR, EU) ripe-anchor.grifon.fr                                                                               
+   80.67.190.193   204092  0.394                   (Rennes, Brittany, FR, EU) xn--beurresal-j4a.grifon.fr                                                                         
+╭─ 89.234.186.34   204092  0.562                         (None, None, FR, EU) asbr02.cogent-rns.bb.grifon.fr                                                                      
+T (204092, 6939)  
+╰─ 193.239.116.14  6939    17.573                    (Amsterdam, 7, NL, None) hurricane-electric.telecity2.nl-ix.net                                                              
+   184.104.198.2   6939    18.334                     (Amsterdam, NH, NL, EU) port-channel5.core1.ams7.he.net                                                                     
+╭─ 184.104.197.126 6939    18.04           (Amsterdam, North Holland, NL, EU) port-channel1.core2.ams7.he.net                                                                     
+S (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.105.81.141  6939    36.202                       (Ashburn, VA, US, NA) port-channel10.core3.ash1.he.net                                                                    
+S (6939, 56655)  
+╰─ 185.125.170.251 56655   36.966                        (Oslo, Oslo, NO, EU)                                                                                                     
+   185.125.170.252 56655   36.816                        (Oslo, Oslo, NO, EU)                                                                                                     
+   185.125.170.47  56655   36.931                        (Oslo, Oslo, NO, EU)                                                                                                     
+   185.14.97.165   56655   2797.986                      (Oslo, Oslo, NO, EU)                                                                                                     
+   185.14.97.165   56655   2797.986                      (Oslo, Oslo, NO, EU)                                                                                                     

@@ -1,0 +1,14 @@
+   45.94.14.204    208520  0.0                (Riyadh, Riyadh Region, SA, AS)                                                                                                     
+   45.94.14.193    208520  0.679              (Riyadh, Riyadh Region, SA, AS)                                                                                                     
+╭─ 212.138.250.7   8895    1.066              (Riyadh, Riyadh Region, SA, AS)                                                                                                     
+S (8895, 3257)  europe-india-gateway-eig ✓ || seamewe-3 ✓ || flag-europe-asia-fea ✘
+╰─ 154.14.64.197   3257    92.759                   (London, England, GB, EU) et-0-0-8-2.cr11-lon1.ip4.gtt.net                                                                    
+   89.149.128.214  3257    92.955                       (London, ENG, GB, EU) ae10.cr10-lon2.ip4.gtt.net                                                                          
+╭─ 77.67.94.154    3491    93.049                      (London, None, GB, EU) as3491.ip4.gtt.net                                                                                  
+S (3491)  seamewe-3 👍
+╰─ 63.223.58.78    3491    326.116                     (Singapore, 4, SG, AS) HundredGE0-3-0-0.br03.sin03.pccwbtn.net                                                             
+╭─ 63.218.249.190  7632    326.978                     (Singapore, 4, SG, AS) linknet.be12.br03.sin03.pccwbtn.net                                                                 
+S&T (7632, 136106)  australia-singapore-cable-asc ✓ || indigo-west ✓ || indonesia-global-gateway-igg-system ✓ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || seamewe-3 ✓ || matrix-cable-system ✘ || jasuka ✓ || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || jakabare ✓
+╰─ 103.87.186.179  136106  343.522                 (Jakarta, Jakarta, ID, AS) ip186-179.fiberstar.net.id                                                                          
+   103.170.24.254  142360  343.922                       (None, None, ID, AS) ipv4-254-24.170.103.as142360.net                                                                    
+   103.170.25.13   142360  343.958           (Semarang, Central Java, ID, AS) ipv4-13-25-170-103.nexa.net.id                                                                      

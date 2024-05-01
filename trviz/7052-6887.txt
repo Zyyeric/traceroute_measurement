@@ -1,0 +1,23 @@
+   27.111.84.21    135132  0.0           (Cebu City, Central Visayas, PH, AS) ph-ceb-as135132.anchors.atlas.ripe.net                                                              
+   27.111.84.20    135132  1.538             (Baugo, Central Visayas, PH, AS) vlan509.core.ceb02.ds.network                                                                       
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 203.177.209.217 4775    3.166             (Baugo, Central Visayas, PH, AS)                                                                                                     
+S (4775)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 120.28.0.82     4775    165.536          (Los Angeles, California, US, NA)                                                                                                     
+   199.36.28.33    40633   170.359                  (Los Angeles, CA, US, NA) *                                                                                                   
+   206.72.210.125  29838   168.3                    (Los Angeles, CA, US, NA) any2-la.cr1.lax0.amcbb.net                                                                          
+   173.205.176.41  29838   168.057                  (Los Angeles, CA, US, NA) ae3-4.cr2.lax2.atlanticmetro.net                                                                    
+   208.78.31.36    29838   167.985                  (Los Angeles, CA, US, NA) e2-2.cr1.lax0.atlanticmetro.net                                                                     
+   208.78.31.234   29838   168.283                  (Los Angeles, CA, US, NA) ve17.ar1.lax0.atlanticmetro.net                                                                     
+   198.32.146.32   2152    170.234                (Los Angeles, CA, US, None) cenic.laap.net                                                                                      
+   137.164.11.87   2152    173.745                    (Riverside, CA, US, NA) dc-riv-agg8--lax-agg10-300g.cenic.net                                                               
+   137.164.11.91   3292    185.689                     (Tri-City, OR, US, NA) dc-tri-agg2--riv-agg8-300g.cenic.net                                                                
+   137.164.46.7    2152    190.342                     (Tri-City, OR, US, NA) cor-agg8--tri-agg2--100ge.cenic.net                                                                 
+   137.164.50.243  2152    195.094                       (Corona, CA, US, NA) sha-coe-1--cor-agg8-10g.cenic.net                                                                   
+   137.164.34.84   2152    196.06                       (Shafter, CA, US, NA) sha-coe-2---to--sha-coe-1--10ge.cenic.net                                                           
+   137.164.13.11   23483   193.903                      (Shafter, CA, US, NA) shacoe-gw2--sha-coe-2-10g.cenic.net                                                                 
+   66.244.16.33    23483   189.683              (Redding, California, US, NA) us-rdd-as23483.anchors.atlas.ripe.net                                                               

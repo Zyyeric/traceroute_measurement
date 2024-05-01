@@ -1,0 +1,9 @@
+   91.232.156.247  57692   0.0                    (Helsinki, Uusimaa, FI, EU) fi-hel-as57692.anchors.atlas.ripe.net                                                               
+   91.232.154.2    57692   0.192                  (Helsinki, Uusimaa, FI, EU) kapsi-gw1-vl1338.ip.kapsi.fi                                                                        
+   87.236.154.128  47605   0.435                  (Helsinki, Uusimaa, FI, EU)                                                                                                     
+╭─ 87.236.154.212  47605   0.658                  (Helsinki, Uusimaa, FI, EU)                                                                                                     
+T (47605, 51349)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 195.122.18.250  51349   19.473                         (Riga, RIX, LV, EU) *                                                                                                   
+LHL (51349)  latvia-sweden-1-lv-se-1 ✓ ↠ sweden-estonia-ee-s-1 ✘ || latvia-sweden-1-lv-se-1 ✓ ↠ baltic-sea-submarine-cable ✘ || sweden-latvia ✘ ↠ sweden-estonia-ee-s-1 ✘ || sweden-latvia ✘ ↠ baltic-sea-submarine-cable ✘
+╰─ 195.43.87.140   51349   19.601                 (Tallinn, Harjumaa, EE, EU) rr-s-140.internet.ee                                                                                

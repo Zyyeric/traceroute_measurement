@@ -1,0 +1,14 @@
+   149.20.162.6    21699   0.0              (Los Angeles, California, US, NA)                                                                                                     
+   149.20.162.5    21699   0.108 (5.629)       (Los Angeles, California, US, NA)                                                                                                     
+   149.20.160.24   21699   0.216            (Los Angeles, California, US, NA)                                                                                                     
+   66.180.193.33   4213    2.372            (Los Angeles, California, US, NA)                                                                                                     
+   10.0.248.4      *       1.0                                            ***                                                                                                     
+   206.72.210.136  4826    0.652                  (Los Angeles, CA, US, None) vocus-connect-pty.as4826.any2ix.coresite.com                                                        
+   114.31.199.34   4826    160.701                     (San Jose, CA, US, NA) be101.bdr03.sjc01.ca.us.vocus.network                                                               
+╭─ 114.31.199.35   4826    160.706                     (San Jose, CA, US, NA) be101.bdr03.lax01.ca.us.vocus.network                                                               
+S (4826)  
+├─ 114.31.199.75   4826    160.862                    (Auckland, AUK, NZ, OC) be200.bdr01.akl05.akl.nz.vocus.network                                                              
+S (4826)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 114.31.192.71   4826    160.837          (Sydney, New South Wales, AU, OC) be1.bdr02.syd11.nsw.vocus.network                                                                   
+   114.31.201.91   4826    160.529          (Sydney, New South Wales, AU, OC) 91.201.31.114.core.vocus.network                                                                    

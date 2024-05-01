@@ -1,0 +1,20 @@
+   141.164.39.1    20473   0.0                      (Paripark, Seoul, KR, AS) 141.164.39.1.vultrusercontent.com                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   10.84.0.29      *       0.902                                          ***                                                                                                     
+   10.84.2.41      *       1.402                                          ***                                                                                                     
+   10.84.2.38      *       1.424                                          ***                                                                                                     
+╭─ 192.145.251.32  14828   2.805                       (Seoul, Seoul, KR, AS)                                                                                                     
+S (14828, 6939)  apcn-2 ✘ || eac-c2c ✘ || flag-north-asia-loopreach-north-asia-loop ✘ || asia-pacific-gateway-apg ✘ || flag-europe-asia-fea ✘ || seamewe-3 ✘
+├─ 184.105.81.69   6939    41.411              (Hong Kong, Hong Kong, HK, AS) 10ge0-131.core2.hkg1.he.net                                                                         
+LHL (6939)  asia-africa-europe-1-aae-1 ✓ || seamewe-3 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.105.65.134  6939    266.471                        (Sofia, 23, BG, EU) 100ge10-1.core1.sof1.he.net                                                                         
+T (6939)  
+╰─ 184.105.64.170  6939    277.715                       (Athens, A1, GR, EU) 100ge0-36.core1.ath1.he.net                                                                         
+   184.104.191.234 6939    277.018                   (Koropí, Attica, GR, EU) fast-telecom-p-c.e0-7.core1.ath1.he.net                                                             
+   ***             *       -inf                                           *** *                                                                                                   
+   185.14.96.225   211186  296.871            (Lamía, Central Greece, GR, EU) vlan4090.lamia.fast.net.gr                                                                          
+   185.14.96.232   211186  295.61             (Lamía, Central Greece, GR, EU)                                                                                                     

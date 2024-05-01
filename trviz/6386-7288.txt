@@ -1,0 +1,13 @@
+   103.215.229.229 140443  0.0                  (Surabaya, East Java, ID, AS) 229.229.215.103.in-addr.herza.id                                                                    
+   103.215.229.1   140443  0.146         (Gubengairlangga, East Java, ID, AS)                                                                                                     
+   103.215.228.1   140443  0.196         (Gubengairlangga, East Java, ID, AS) 1.228.215.103.in-addr.herza.id                                                                      
+╭─ 36.64.254.21    7713    0.188 (1.277)    (Gubengairlangga, East Java, ID, AS)                                                                                                     
+S&T (7713)  australia-singapore-cable-asc ✓ || matrix-cable-system ✘ || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || indonesia-global-gateway-igg-system 👍 || seamewe-3 ✓ || jasuka 👍 || indigo-west ✓ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || jakabare ✓
+╰─ 180.240.193.93  7713    18.9                (Singapore, Singapore, SG, AS)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 180.240.204.8   7713    19.461              (Singapore, Singapore, SG, AS)                                                                                                     
+S (7713, 4764)  
+├─ 27.111.229.181  4764    20.462                    (Seogwipo, None, KR, AS) 4764.sgw.equinix.com                                                                                
+S (4764)  
+├  10.241.6.23     *       108.326                                        ***                                                                                                     
+╰─ 202.142.143.178 4764    107.827              (Melbourne, Victoria, AU, OC) be3.bng1.vdc03.mel.aussiebb.net                                                                     

@@ -1,0 +1,17 @@
+   84.88.18.254    13041   0.0                 (Barcelona, Catalonia, ES, EU) anchor-anella.cesca.cat                                                                             
+   84.88.18.253    13041   0.96                (Barcelona, Catalonia, ES, EU) anella-anchor.cesca.cat                                                                             
+   130.206.214.97  766     9.59                      (Madrid, Madrid, ES, EU) anella-ppal-as13041.ethtrunk11-81.telmad.rt3.mad.red.rediris.es                                     
+╭─ 83.97.90.20     21320   9.272                     (Madrid, Madrid, ES, EU) rediris-ias-geant-gw.mad.es.geant.net                                                               
+S&T (21320, 20965)  
+╰─ 62.40.98.227    20965   23.533    (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) ae2.rt1.mar.fr.geant.net                                                                            
+   185.1.47.38     30844   23.944                   (Marseille, None, FR, EU) de-cix.mrs.liquidtelecom.net                                                                        
+╭─ 5.11.13.113     30844   24.154    (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) te0-0-0-22.lfr-p1-mrs.liquidtelecom.com                                                             
+S&T (30844)  seamewe-3 ✓
+╰─ 5.11.12.31      30844   154.142                  (London, England, GB, EU) et-0-0-0.0.lfr-pe2-mrs.liquidtelecom.net                                                            
+╭─ 5.11.9.125      30844   154.196                       (None, None, GB, EU) 5.11.9.125.liquidtelecom.net                                                                        
+LHL (30844)  europe-india-gateway-eig ✓ ↠ peace-cable ✘ || seamewe-3 ✓ ↠ peace-cable ✘ || flag-europe-asia-fea ✓ ↠ peace-cable ✘ || seamewe-3 ✓ ↠ seacomtata-tgn-eurasia ✓ || flag-europe-asia-fea ✓ ↠ seacomtata-tgn-eurasia ✓ || europe-india-gateway-eig ✓ ↠ seacomtata-tgn-eurasia ✓
+╰─ 197.155.94.15   30844   154.943                      (Nairobi, 30, KE, AF) et-0-1-11.lke-p2-msa.liquidtelecom.net                                                              
+   197.155.94.8    30844   171.819                    (Nairobi, None, KE, AF) hu-0-2-0-2.lke-p1-nbi.liquidtelecom.net                                                             
+   197.155.94.47   30844   154.07                     (Nairobi, None, KE, AF) xe-0-1-0-0.lke-pe3-nbi.liquidtelecom.net                                                            
+   197.155.93.65   37578   154.331                      (Nairobi, 30, KE, AF) 197.155.93.65.liquidtelecom.net                                                                     
+   196.6.220.42    37578   154.442          (Nairobi, Nairobi County, KE, AF)                                                                                                     

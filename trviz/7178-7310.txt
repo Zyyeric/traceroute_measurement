@@ -1,0 +1,15 @@
+   38.47.189.189   140443  0.0           (Kuala Lumpur, Kuala Lumpur, MY, AS)                                                                                                     
+   38.47.189.1     140443  0.633         (Kuala Lumpur, Kuala Lumpur, MY, AS)                                                                                                     
+╭─ 38.47.188.2     140443  0.514         (Kuala Lumpur, Kuala Lumpur, MY, AS)                                                                                                     
+S&T (140443, 3491)  indonesia-global-gateway-igg-system ✓ || palapa-ring-west ✓ || batam-dumai-melaka-bdm-cable-system ✘ || jasuka ✓ || seamewe-4 ✘ || seamewe-5 ✓ || seax-1 ✘ || asia-submarine-cable-express-asecahaya-malaysia ✓ || asia-america-gateway-aag-cable-system ✓ || batam-rengit-cable-system-brcs ✘ || apcn-2 ✓
+├  10.111.220.141  *       6.655                                          ***                                                                                                     
+╰─ 63.220.192.80   3491    6.907               (Singapore, Singapore, SG, AS) 63-220-192-80.static.pccwglobal.net                                                                 
+   63.223.34.54    3491    7.069                       (Singapore, 4, SG, AS) Hu0-0-0-16.br05.sin02.pccwbtn.net                                                                   
+╭─ 63.216.144.42   3491    177.445             (Singapore, Singapore, SG, AS) 63-216-144-42.static.pccwglobal.net                                                                 
+LHL (3491, 3257)  seamewe-5 ✓ || seamewe-4 ✓ || peace-cable ✘ || seamewe-3 👍
+├─ 89.149.136.133  3257    238.696            (Frankfurt am Main, HE, DE, EU) et-10-0-2.cr8-fra2.ip4.gtt.net                                                                      
+T (3257, 25003)  
+├─ 46.33.95.118    25003   239.251                    (Rotterdam, ZH, NL, EU) ib-gw.ip4.gtt.net                                                                                   
+LHL (25003)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 94.188.255.2    25003   287.735              (Bnei Brak, Tel Aviv, IL, AS) 255.188.94-binat-smaug.in-addr.arpa                                                                 

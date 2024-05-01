@@ -1,0 +1,24 @@
+╭─ 196.49.84.188   328913  0.0                     (Douala, Littoral, CM, AF) cm-dla-as328913.anchors.atlas.ripe.net                                                              
+S (328913, 60171)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 102.219.44.42   60171   1.232                       (Lagos, Lagos, NG, AF)                                                                                                     
+S (60171)  
+├─ 185.10.164.44   60171   237.189             (Barcelona, Catalonia, ES, EU)                                                                                                     
+S (60171)  
+├─ 102.223.52.72   60171   237.592                     (Lagos, Lagos, NG, AF)                                                                                                     
+S (60171)  
+╰─ 185.10.164.33   60171   237.678             (Barcelona, Catalonia, ES, EU)                                                                                                     
+╭─ 185.10.164.134  60171   237.494             (Barcelona, Catalonia, ES, EU)                                                                                                     
+S&T (60171, 37542)  
+├─ 185.10.164.112  37542   237.96                       (London, ENG, GB, EU) *                                                                                                   
+S&T (37542, 60171)  
+├─ 185.10.164.98   60171   237.49              (Barcelona, Catalonia, ES, EU)                                                                                                     
+S&T (60171, 6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.189.30  6939    260.1     (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) port-channel18.core4.mrs1.he.net                                                                    
+S&T (6939)  
+╰─ 184.105.80.13   6939    263.666                        (Milan, 25, IT, EU) 100ge7-2.core1.mil2.he.net                                                                          
+   194.116.96.9    41364   266.266                        (Turin, 21, IT, EU) topix41364.topix.it                                                                                 
+   194.116.77.35   41364   266.338                  (Turin, Piedmont, IT, EU)                                                                                                     

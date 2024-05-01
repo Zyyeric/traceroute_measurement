@@ -1,0 +1,15 @@
+   180.211.88.22   45725   0.0                     (Jakarta, Jakarta, ID, AS) id-jkt-as45725.anchors.atlas.ripe.net                                                               
+   180.211.88.21   45725   0.497                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+╭─ 43.230.153.89   *       0.537                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+S&T (, 9002)  australia-singapore-cable-asc ✘ || matrix-cable-system ✘ || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || indonesia-global-gateway-igg-system ✘ || seamewe-3 ✘ || indigo-west ✘ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || jasuka ✘ || jakabare ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├  10.110.1.0      *       12.418                                         ***                                                                                                     
+├─ 87.245.238.250  9002    12.461                      (Singapore, 4, SG, AS) ae0-302.RT1.EQX.SIN.SG.retn.net                                                                     
+S (9002)  seamewe-5 ✓
+╰─ 87.245.232.112  9002    150.505                   (Marseille, PAC, FR, EU) ae2-5.RT.IRX.MRS.FR.retn.net                                                                        
+╭─ 193.251.250.191 5511    167.635                       (None, None, FR, EU) *                                                                                                   
+S&T (5511)  
+╰─ 193.251.241.157 5511    167.946                     (London, None, GB, EU) bundle-ether304.lontr5.london.opentransit.net                                                       
+   193.251.248.52  5511    171.198                  (London, England, GB, EU)                                                                                                     
+   37.143.136.249  196745  170.389                 (Bournemouth, ENG, GB, EU) *                                                                                                   
+   37.143.141.141  196745  171.853                   (Poole, England, GB, EU) atlas.datacenta.net                                                                                 

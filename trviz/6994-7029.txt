@@ -1,0 +1,26 @@
+   192.168.0.130   *       0.0                                            ***                                                                                                     
+   192.168.0.1     *       0.155                                          ***                                                                                                     
+   172.16.254.1    *       0.225                                          ***                                                                                                     
+   192.168.1.1     *       0.612                                          ***                                                                                                     
+   10.98.238.18    *       4.174                                          ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   81.212.78.45    9121    5.239                     (Ankara, Ankara, TR, AS) 81.212.78.45.static.turktelekom.com.tr                                                              
+   81.212.216.50   9121    5.066              (Sultanbeyli, Istanbul, TR, AS) 34-acibadem-xrs-t2-1---34-acibadem-sr12e-t3-8.statik.turktelekom.com.tr                             
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 212.156.141.26  9121    46.986                    (Ankara, Ankara, TR, AS) 306-mil-col-1---34-ebgp-acibadem-sr12e-k.statik.turktelekom.com.tr                                  
+S&T (9121, 2914)  
+╰─ 81.25.202.149   2914    46.675                   (Milan, Lombardy, IT, EU)                                                                                                     
+╭─ 129.250.5.142   2914    46.492                  (Figino, Lombardy, IT, EU) ae-1.r20.mlanit02.it.bb.gin.ntt.net                                                                 
+LHL (2914)  
+╰─ 129.250.3.157   2914    46.972                        (None, None, US, NA) ae-0.r21.mlanit02.it.bb.gin.ntt.net                                                                 
+   129.250.7.24    2914    47.543                        (None, None, US, NA) ae-6.r20.vienat02.at.bb.gin.ntt.net                                                                 
+╭─ 129.250.7.13    2914    47.76                         (None, None, US, NA) ae-0.r21.vienat02.at.bb.gin.ntt.net                                                                 
+S (2914)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 129.250.5.238   2914    209.128             (Singapore, Singapore, SG, AS) ae-0.a03.sngpsi07.sg.bb.gin.ntt.net                                                                 
+╭─ 116.51.26.82    2914    209.745                  (Singapore, None, SG, AS) ae-0.emirates-du.sngpsi07.sg.bb.gin.ntt.net                                                         
+S (2914, 57187)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 94.206.39.74    57187   287.889                        (Dubai, DU, AE, AS) j48-1.dxa.dxb.ae.datamena.net                                                                       
+   94.207.43.2     57187   275.283                     (Dubai, Dubai, AE, AS) -094-207-043-002.datamena.net                                                                       

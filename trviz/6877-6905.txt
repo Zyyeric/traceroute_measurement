@@ -1,0 +1,17 @@
+   103.253.132.25  59238   0.0                     (Bangkok, Bangkok, TH, AS) th-bkk-as59238.anchors.atlas.ripe.net                                                               
+   103.253.132.1   59238   0.533                (Khlong San, Bangkok, TH, AS) gw-cat.idc.inox.co.th                                                                               
+   172.24.132.102  *       0.366                                          ***                                                                                                     
+   172.24.132.24   *       0.878                                          ***                                                                                                     
+   172.21.21.2     *       0.472                                          ***                                                                                                     
+╭─ 122.155.224.73  4651    0.525 (6.149)           (Khlong San, Bangkok, TH, AS)                                                                                                     
+S&T (4651)  asia-america-gateway-aag-cable-system ✓ || seamewe-4 ✓ || seamewe-3 ✓
+├─ 61.19.9.134     4651    25.16                    (Singapore, None, SG, AS) *                                                                                                   
+S (4651, 8220)  
+├─ 27.111.229.123  8220    24.648                    (Seogwipo, None, KR, AS) 8220.sgw.equinix.com                                                                                
+S (8220)  
+├─ 193.114.170.221 8220    184.748                       (None, None, GB, EU) *                                                                                                   
+S&T (8220, 39923)  
+╰─ 213.246.245.218 39923   181.769                    (Brussels, BRU, BE, EU) *                                                                                                   
+   109.68.160.65   39923   182.304       (Brussels, Brussels Capital, BE, EU) devrandom1.customer.unix-solutions.be                                                               
+   45.87.79.251    208725  179.739       (Brussels, Brussels Capital, BE, EU) router01.sw1.core.devrandom.be                                                                      
+   45.87.76.6      208725  179.125       (Brussels, Brussels Capital, BE, EU) ansible.devrandom.be                                                                                

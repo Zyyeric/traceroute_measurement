@@ -1,0 +1,10 @@
+   185.70.144.118  200567  0.0                     (Hamburg, Hamburg, DE, EU)                                                                                                     
+   185.70.144.114  200567  0.198      (Tangstedt, Schleswig-Holstein, DE, EU)                                                                                                     
+   62.214.137.217  8881    2.767                         (Berlin, BE, DE, EU) *                                                                                                   
+   185.1.210.35    *       2.339 (5.431)              (Hamburg, Hamburg, DE, EU) hhb002isp006.versatel.de                                                                            
+   80.81.203.68    *       32.109      (Köln, North Rhine-Westphalia, DE, EU)                                                                                                     
+╭─ 195.122.0.125   12578   37.366             (Frankfurt am Main, HE, DE, EU) *                                                                                                   
+LHL (12578, 51349)  baltica ✓ ↠ latvia-sweden-1-lv-se-1 👍 || baltica ✓ ↠ sweden-latvia ©
+├─ 195.122.18.250  51349   35.311                         (Riga, RIX, LV, EU) *                                                                                                   
+LHL (51349)  latvia-sweden-1-lv-se-1 ✓ ↠ sweden-estonia-ee-s-1 ✘ || latvia-sweden-1-lv-se-1 ✓ ↠ baltic-sea-submarine-cable ✘ || sweden-latvia ✘ ↠ sweden-estonia-ee-s-1 ✘ || sweden-latvia ✘ ↠ baltic-sea-submarine-cable ✘
+╰─ 195.43.87.140   51349   35.163                 (Tallinn, Harjumaa, EE, EU) rr-s-140.internet.ee                                                                                

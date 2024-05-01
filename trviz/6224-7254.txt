@@ -1,0 +1,21 @@
+   103.170.154.254 142594  0.0                      (London, England, GB, EU) 254.154.170.103.speedyvps.uk                                                                        
+╭─ 103.170.154.1   142594  0.174                    (London, England, GB, EU)                                                                                                     
+T (142594, 60068)  
+├─ 156.146.32.92   60068   0.317                     (Prague, Prague, CZ, EU) unn-156-146-32-92.cdn77.com                                                                         
+LHL (60068)  
+├─ 185.229.188.204 60068   17.223    (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) vl1102.mrs-itx2-core-2.cdn77.com                                                                    
+T (60068)  
+├─ 45.134.215.97   60068   18.386                    (Prague, Prague, CZ, EU) seacom-mrs.cdn77.com                                                                                
+LHL (60068, 37100)  
+├─ 105.16.32.2     37100   130.548                   (Marseille, PAC, FR, EU) ae-2.cr-02-mrs.fr.seacomnet.com                                                                     
+S (37100)  
+├─ 105.25.160.185  37100   130.0            (Mombasa, Mombasa County, KE, AF) ce-0-0-5.cr-02-mba.ke.seacomnet.com                                                                 
+S&T (37100)  
+╰─ 105.16.12.138   37100   129.818                 (Dar es Salaam, 2, TZ, AF) xe-0-1-0-5.cr-02-dar.tz.seacomnet.com                                                               
+   105.16.22.9     37100   129.724                 (Dar es Salaam, 2, TZ, AF) xe-0-0-0-0.er-01-dar.tz.seacomnet.com                                                               
+   105.21.160.90   37084   130.765                 (Dar es Salaam, 2, TZ, AF) *                                                                                                   
+   41.188.172.70   37084   130.534   (Dar es Salaam, Dar es Salaam Region, TZ, AF)                                                                                                     
+   155.12.0.242    37084   130.883                       (None, None, TZ, AF) *                                                                                                   
+   155.12.0.202    37084   130.572                       (None, None, TZ, AF) *                                                                                                   
+   196.223.5.5     *       128.158   (Dar es Salaam, Dar es Salaam Region, TZ, AF)                                                                                                     
+   196.49.5.98     327844  128.146   (Dar es Salaam, Dar es Salaam Region, TZ, AF)                                                                                                     

@@ -1,0 +1,18 @@
+   80.77.4.60      15412   0.0                         (Dubai, Dubai, AE, AS)                                                                                                     
+   80.77.4.57      15412   1.685                       (Dubai, Dubai, AE, AS)                                                                                                     
+╭─ 85.95.25.94     15412   99.588                         (Dubai, DU, AE, AS) xe-0-0-1.0.pjr04.dxb001.flagtel.com                                                                 
+S (15412)  
+╰─ 62.216.128.209  15412   108.516                      (Paris, None, FR, EU) ae3.0.cjr04.prs001.flagtel.com                                                                      
+╭─ 195.42.144.13   6939    108.709                       (Paris, IDF, FR, EU) equinix-paris.mpr1.cdg12.fr.above.net                                                               
+T (6939, 6461)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 64.125.31.105   6461    117.939                    (Amsterdam, NH, NL, EU) ae11.er1.ams1.nl.zip.zayo.com                                                                       
+╭─ 193.28.62.102   6461    125.264         (Amsterdam, North Holland, NL, EU) 193.28.62.102.idia-386943-006-zyo.zip.zayo.com                                                      
+T (6461, 47787)  
+├─ 193.109.190.74  47787   131.821                   (Madrid, Madrid, ES, EU) er1.mad1.edgoo.net                                                                                  
+S&T (47787)  
+╰─ 193.163.151.209 47787   139.937                       (Lisbon, 11, PT, EU) cr1.lis1.edgoo.net                                                                                  
+   193.109.188.7   47787   140.121                   (Lisbon, Lisbon, PT, EU)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   185.32.189.249  62416   140.11                  (Odivelas, Lisbon, PT, EU) pt-lis-as62416.anchors.atlas.ripe.net                                                               

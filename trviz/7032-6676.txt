@@ -1,0 +1,12 @@
+   203.175.175.206 24482   0.0                 (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 103.14.247.241  24482   0.667               (Singapore, Singapore, SG, AS)                                                                                                     
+S&T (24482, 6453)  
+├─ 180.87.106.10   6453    0.731                         (None, None, IN, AS) *                                                                                                   
+S&T (6453)  
+╰─ 180.87.106.9    6453    1.004                    (Singapore, None, SG, AS) ix-hge-0-0-0-20.ecore1.svw-singapore.as6453.net                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   63.243.180.65   6453    1.202               (Singapore, Singapore, SG, AS) if-bundle-19-2.qcore1.esin4-singapore.as6453.net                                                    
+╭─ 63.217.24.61    3491    1.521                       (Singapore, 4, SG, AS) *                                                                                                   
+S (3491)  
+╰─ 63.218.122.178  3491    46.92                          (Manila, 0, PH, AS) TenGE0-0-2-1.br02.mnl01.pccwbtn.net                                                                 
+   63.222.187.5    3491    46.585              (Manila, Metro Manila, PH, AS)                                                                                                     

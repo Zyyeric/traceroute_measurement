@@ -1,0 +1,18 @@
+   45.94.14.204    208520  0.0                (Riyadh, Riyadh Region, SA, AS)                                                                                                     
+   45.94.14.193    208520  0.282              (Riyadh, Riyadh Region, SA, AS)                                                                                                     
+╭─ 212.138.250.7   8895    0.546              (Riyadh, Riyadh Region, SA, AS)                                                                                                     
+S (8895, 3257)  europe-india-gateway-eig ✓ || seamewe-3 ✓ || flag-europe-asia-fea ✘
+╰─ 154.14.64.197   3257    92.106                   (London, England, GB, EU) et-0-0-8-2.cr11-lon1.ip4.gtt.net                                                                    
+   89.149.139.5    3257    92.918                       (London, ENG, GB, EU) ae21.cr10-lon1.ip4.gtt.net                                                                          
+   154.14.131.137  3257    92.3                     (London, England, GB, EU) ip4.gtt.net                                                                                         
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 78.141.239.220  20473   92.943                   (London, England, GB, EU) router01-vul-lon.as151332.net                                                                       
+S&T (20473)  seamewe-3 ✓ || high-capacity-undersea-guernsey-optical-fibre-hugo ✘ || uk-channel-islands-8 ✘ || channel-islands-9-liberty-submarine-cable ✘ || uk-channel-islands-7 ✘
+├─ 217.69.15.96    20473   99.293              (Paris, Île-de-France, FR, EU) router01-vul-par.as151332.net                                                                       
+S (20473)  seamewe-5 ✓ || peace-cable ✘ || seamewe-4 ✓ || seamewe-3 ✓
+├─ 45.77.39.153    20473   330.642             (Singapore, Singapore, SG, AS) router01-vul-sin.as151332.net                                                                       
+S (20473, 7545)  
+╰─ 203.192.83.254  7545    368.887              (Melbourne, Victoria, AU, OC) ip-254-83-192-203.static.pipenetworks.com                                                           
+   103.179.37.157  151332  370.153              (Melbourne, Victoria, AU, OC)                                                                                                     

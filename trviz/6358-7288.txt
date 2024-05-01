@@ -1,0 +1,29 @@
+   103.215.229.229 140443  0.0                  (Surabaya, East Java, ID, AS) 229.229.215.103.in-addr.herza.id                                                                    
+   103.215.229.1   140443  0.145         (Gubengairlangga, East Java, ID, AS)                                                                                                     
+   103.215.228.1   140443  0.153         (Gubengairlangga, East Java, ID, AS) 1.228.215.103.in-addr.herza.id                                                                      
+╭─ 36.64.254.21    7713    8.221         (Gubengairlangga, East Java, ID, AS)                                                                                                     
+S&T (7713)  matrix-cable-system ✘ || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || indonesia-global-gateway-igg-system 👍 || seamewe-3 ✓ || jasuka 👍 || indigo-west ✓ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || jakabare ✓
+├─ 180.240.192.33  7713    24.382              (Singapore, Singapore, SG, AS)                                                                                                     
+S (7713)  
+├─ 180.240.197.113 7713    74.15               (Hong Kong, Hong Kong, HK, AS)                                                                                                     
+S (7713, 6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 103.16.102.81   6939    72.837                    (Singapore, 1, SG, None) hurricane-electric.sgix.sg                                                                          
+S (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.193.193 6939    239.491                      (London, ENG, GB, EU) 100ge0-31.core2.lon3.he.net                                                                         
+╭─ 184.104.205.253 6939    290.678                  (London, England, GB, EU) mtn-globalconnect-solutions-ltd.port-channel7.core1.lon3.he.net                                     
+T (6939, 16637)  
+╰─ 41.181.189.65   16637   232.192                     (Pretoria, GP, ZA, AF) *                                                                                                   
+╭─ 41.181.190.151  16637   232.027                     (Pretoria, GP, ZA, AF) *                                                                                                   
+T (16637)  
+├─ 41.181.244.176  16637   232.604                  (London, England, GB, EU)                                                                                                     
+T (16637, 20294)  
+├─ 41.181.247.39   20294   381.767                       (None, None, ZA, AF) *                                                                                                   
+LHL (20294)  
+╰─ 212.88.110.34   20294   381.449          (Kampala, Central Region, UG, AF)                                                                                                     
+   129.205.30.76   37063   381.647                       (Kampala, C, UG, AF) *                                                                                                   
+   41.191.77.206   328998  381.53                        (Kampala, C, UG, AF) *                                                                                                   
+   196.49.15.189   328998  380.925          (Kampala, Central Region, UG, AF)                                                                                                     

@@ -1,0 +1,21 @@
+   139.99.78.22    16276   0.0                 (Singapore, Singapore, SG, AS) sg-sin-as16276.anchors.atlas.ripe.net                                                               
+╭─ 139.99.72.1     16276   0.133               (Singapore, Singapore, SG, AS)                                                                                                     
+S (16276, 137409)  
+├  192.168.143.254 *       0.177                                          ***                                                                                                     
+├  10.29.210.254   *       0.274                                          ***                                                                                                     
+├  10.29.192.52    *       0.23                                           ***                                                                                                     
+├  10.29.135.96    *       0.455                                          ***                                                                                                     
+├  10.133.65.54    *       0.507                                          ***                                                                                                     
+├  10.75.0.80      *       0.487                                          ***                                                                                                     
+├  10.75.248.16    *       0.935                                          ***                                                                                                     
+├  ***             *       -inf                                           *** *                                                                                                   
+├  10.200.0.196    *       1.358                                          ***                                                                                                     
+├─ 27.111.229.213  137409  1.076                     (Seogwipo, None, KR, AS) 137409.sgw.equinix.com                                                                              
+S (137409, 7578)  
+╰─ 206.148.24.79   7578    1.255               (Singapore, Singapore, SG, AS) po4.sg-eqxsg3-cr2.globalsecurelayer.com                                                             
+╭─ 206.148.24.90   7578    30.997              (Singapore, Singapore, SG, AS) e51.hk-eqxhk1-bb3.globalsecurelayer.com                                                             
+S (7578, 969)  
+╰─ 45.11.107.70    969     34.402              (Hong Kong, Hong Kong, HK, AS) e26-1-gsl.cr1a.eqhk2.hkg12.hk.917.as                                                                
+   199.119.64.151  969     31.315              (Hong Kong, Hong Kong, HK, AS) po103-10.spine3.hkg12.hk.misaka.io                                                                  
+   45.11.104.9     57695   33.988              (Hong Kong, Hong Kong, HK, AS) po30.0103.hkg12.hk.misaka.io                                                                        
+   45.11.104.146   57695   31.392              (Hong Kong, Hong Kong, HK, AS) hk-hkg-as57695.anchors.atlas.ripe.net                                                               

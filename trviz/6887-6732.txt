@@ -1,0 +1,25 @@
+   163.117.253.5   766     0.0                       (Madrid, Madrid, ES, EU)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   172.17.0.53     *       1.4                                            ***                                                                                                     
+   193.145.15.49   766     2.192                    (Leganés, Madrid, ES, EU) csic-rt-ju-02-xe-4-0-6.net.redimadrid.es                                                            
+   130.206.216.1   766     2.133                     (Madrid, Madrid, ES, EU) redimadrid-backup.ethtrunk8-103.telmad.rt1.mad.red.rediris.es                                       
+   130.206.245.26  766     2.405                         (None, None, ES, EU) telmad.rt1.ethtrunk13.ciemat.rt2.mad.red.rediris.es                                                 
+   185.79.175.244  6939    3.518                       (Madrid, 29, ES, None) hurricane.alta.espanix.net                                                                          
+   193.149.1.113   6939    3.168                       (Madrid, 29, ES, None) hurricane.baja.espanix.net                                                                          
+╭─ 184.104.196.162 6939    8.167                         (Bilbao, PV, ES, EU) 100ge0-34.core1.bio1.he.net                                                                         
+S (6939)  marea ✓
+╰─ 184.104.197.94  6939    73.122          (Virginia Beach, Virginia, US, NA) port-channel1.core2.orf2.he.net                                                                     
+   184.105.64.121  6939    121.377                      (Ashburn, VA, US, NA) 100ge0-40.core3.ash1.he.net                                                                         
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 65.19.167.83    6939    166.006          (Los Angeles, California, US, NA)                                                                                                     
+S (6939, 4775)  sea-us ✓ || asia-america-gateway-aag-cable-system ✓ || pacific-light-cable-network-plcn ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 203.177.209.217 4775    331.093           (Baugo, Central Visayas, PH, AS)                                                                                                     
+   203.177.209.218 135132  305.316              (Lapu-Lapu City, CEB, PH, AS) vlan5.vsrx.ceb02.ds.network                                                                         
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   27.111.84.21    135132  312.169       (Cebu City, Central Visayas, PH, AS) ph-ceb-as135132.anchors.atlas.ripe.net                                                              

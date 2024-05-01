@@ -1,0 +1,11 @@
+   203.175.175.206 24482   0.0                 (Singapore, Singapore, SG, AS)                                                                                                     
+   203.175.175.252 24482   0.385                         (None, None, SG, AS) edge-1.v10.sg3.sg.gs                                                                                
+   103.16.102.30   24482   0.652                     (Singapore, 1, SG, None) sggs.sgix.sg                                                                                        
+   103.16.102.146  6939    1.434                     (Singapore, 1, SG, None) argon.sgix.sg                                                                                       
+   10.79.3.50      *       2.159                                          ***                                                                                                     
+   10.79.2.170     *       1.575                                          ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 45.77.39.153    20473   1.624               (Singapore, Singapore, SG, AS) router01-vul-sin.as151332.net                                                                       
+S (20473, 7545)  australia-singapore-cable-asc ✓ || indigo-west ✓ || seamewe-3 ✓
+╰─ 203.192.83.254  7545    85.642               (Melbourne, Victoria, AU, OC) ip-254-83-192-203.static.pipenetworks.com                                                           
+   103.179.37.157  151332  85.852               (Melbourne, Victoria, AU, OC)                                                                                                     

@@ -1,0 +1,16 @@
+   182.161.73.41   55569   0.0                 (Singapore, Singapore, SG, AS)                                                                                                     
+   182.161.73.40   55569   0.224               (Singapore, Singapore, SG, AS)                                                                                                     
+   100.66.0.44     *       0.841                                          ***                                                                                                     
+   100.66.0.43     *       0.755                                          ***                                                                                                     
+   202.127.73.190  4637    1.363               (Singapore, Singapore, SG, AS) unknown.telstraglobal.net                                                                           
+   202.84.224.198  4637    167.294             (Singapore, Singapore, SG, AS) i-91.sgcn-core01.telstraglobal.net                                                                  
+╭─ 202.84.224.198  4637    167.294             (Singapore, Singapore, SG, AS) i-91.sgcn-core01.telstraglobal.net                                                                  
+S (4637)  
+╰─ 202.84.140.142  4637    165.187                  (London, England, GB, EU) i-1000.ulcn-core01.telstraglobal.net                                                                
+╭─ 202.84.178.14   4637    167.302                  (London, England, GB, EU) i-1008.ulco01.telstraglobal.net                                                                     
+S&T (4637, 24961)  
+├─ 80.249.208.219  24961   179.643                    (Amsterdam, NH, NL, EU) eth53-1q2-h9077.core1-ams-eq3.bb.as24961.net                                                        
+T (24961)  
+╰─ 62.141.47.192   24961   177.842                   (Düsseldorf, NW, DE, EU) po15.core2-dus3.bb.as24961.net                                                                      
+   62.141.47.157   24961   179.786                   (Düsseldorf, NW, DE, EU) po2.agr1-dedi-m1.bb.as24961.net                                                                     
+   37.157.253.244  24961   179.913   (Kaarst, North Rhine-Westphalia, DE, EU)                                                                                                     

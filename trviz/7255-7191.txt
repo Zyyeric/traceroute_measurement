@@ -1,0 +1,14 @@
+   117.20.118.21   45498   0.0               (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     
+   117.20.118.17   45498   2.039             (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     
+   27.109.113.25   45498   1.168             (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     
+╭─ 27.109.113.6    45498   1.279                     (Phnom Penh, 12, KH, AS) *                                                                                                   
+LHL (45498)  asia-africa-europe-1-aae-1 ✘ ↠ seamewe-4 ✘ || asia-africa-europe-1-aae-1 ✘ ↠ seamewe-3 ✓ || asia-africa-europe-1-aae-1 ✘ ↠ seamewe-5 ✓ || asia-africa-europe-1-aae-1 ✘ ↠ peace-cable ✘
+╰─ 27.109.113.56   45498   37.451              (Singapore, Singapore, SG, AS)                                                                                                     
+   103.16.102.146  6939    38.14                     (Singapore, 1, SG, None) argon.sgix.sg                                                                                       
+   10.79.3.50      *       38.519                                         ***                                                                                                     
+   10.79.2.174     *       37.728                                         ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 45.77.39.153    20473   37.921              (Singapore, Singapore, SG, AS) router01-vul-sin.as151332.net                                                                       
+S (20473, 7545)  australia-singapore-cable-asc ✓ || indigo-west ✓ || seamewe-3 ✓
+╰─ 203.192.83.254  7545    147.155              (Melbourne, Victoria, AU, OC) ip-254-83-192-203.static.pipenetworks.com                                                           
+   103.179.37.157  151332  147.382              (Melbourne, Victoria, AU, OC)                                                                                                     

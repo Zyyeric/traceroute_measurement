@@ -1,0 +1,13 @@
+   95.217.19.69    24940   0.0                    (Helsinki, Uusimaa, FI, EU) fi-tuu-as24940-client.anchors.atlas.ripe.net                                                        
+   172.31.1.1      *       2.532                                          ***                                                                                                     
+   95.216.132.233  24940   0.199                       (Helsinki, 18, FI, EU) 15272.your-cloud.host                                                                               
+   ***             *       -inf                                           *** *                                                                                                   
+   88.198.252.117  24940   1.103                    (Vantaa, Uusimaa, FI, EU) spine2.cloud1.hel1.hetzner.com                                                                      
+   213.239.228.49  24940   0.435                    (Vantaa, Uusimaa, FI, EU) spine16.cloud1.hel1.hetzner.com                                                                     
+╭─ 213.239.228.13  24940   0.53                     (Vantaa, Uusimaa, FI, EU) core32.hel1.hetzner.com                                                                             
+S&T (24940)  sweden-finland-4-sfs-4 ✓ || eastern-light ✘ || bcs-north---phase-1 ✓ || baltic-sea-submarine-cable ✘ || botnia ✓
+╰─ 213.239.254.70  24940   6.931               (Stockholm, Stockholm, SE, EU) core53.sto.hetzner.com                                                                              
+   213.239.252.78  24940   6.972               (Stockholm, Stockholm, SE, EU) core40.sto.hetzner.com                                                                              
+   192.121.80.73   *       7.069               (Stockholm, Stockholm, SE, EU) as8674-1g-ix1.sthix.net                                                                             
+   77.72.228.64    8674    7.143                         (None, None, SE, EU) et50-1.ro1-stc.sth.netnod.se                                                                        
+   185.42.136.158  8674    7.372               (Stockholm, Stockholm, SE, EU) se-sto-as8674.anchors.atlas.ripe.net                                                                

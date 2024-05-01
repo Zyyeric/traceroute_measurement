@@ -1,0 +1,21 @@
+   196.49.15.189   328998  0.0              (Kampala, Central Region, UG, AF)                                                                                                     
+   196.49.15.253   328998  0.211            (Kampala, Central Region, UG, AF)                                                                                                     
+   41.191.77.205   37063   0.453            (Kampala, Central Region, UG, AF)                                                                                                     
+   129.205.30.77   37063   0.726                         (Kampala, C, UG, AF) *                                                                                                   
+╭─ 129.205.30.230  37063   8.983            (Kampala, Central Region, UG, AF)                                                                                                     
+T (37063, 6939)  
+├─ 196.223.21.74   6939    160.365                     (Nairobi, 5, KE, None) *                                                                                                   
+S&T (6939)  
+├─ 184.104.189.42  6939    161.41                (Djibouti, Djibouti, DJ, AF) ve1004.core2.jib1.he.net                                                                            
+S (6939)  
+├─ 184.104.193.102 6939    161.323   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) port-channel1.core3.mrs1.he.net                                                                     
+S (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.105.81.141  6939    181.052                      (Ashburn, VA, US, NA) port-channel10.core3.ash1.he.net                                                                    
+S (6939, 56655)  
+╰─ 185.125.170.252 56655   182.913                       (Oslo, Oslo, NO, EU)                                                                                                     
+   185.125.170.47  56655   182.741                       (Oslo, Oslo, NO, EU)                                                                                                     
+   185.14.97.165   56655   2398.366                      (Oslo, Oslo, NO, EU)                                                                                                     
+   185.14.97.165   56655   2398.366                      (Oslo, Oslo, NO, EU)                                                                                                     

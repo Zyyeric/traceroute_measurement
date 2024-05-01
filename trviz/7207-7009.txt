@@ -1,0 +1,18 @@
+   45.94.14.204    208520  0.0                (Riyadh, Riyadh Region, SA, AS)                                                                                                     
+   45.94.14.193    208520  0.228              (Riyadh, Riyadh Region, SA, AS)                                                                                                     
+╭─ 212.138.250.7   8895    0.533              (Riyadh, Riyadh Region, SA, AS)                                                                                                     
+S (8895, 3356)  
+├─ 213.242.126.197 3356    72.06     (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) et-7-0-17-3.edge4.marseille1.level3.net                                                             
+S (3356, 35819)  
+├─ 212.133.4.70    35819   66.51                         (None, None, SA, AS) *                                                                                                   
+S (35819, 37100)  
+├─ 105.16.32.1     37100   246.756                   (Marseille, PAC, FR, EU) ae-1.cr-01-mrs.fr.seacomnet.com                                                                     
+S&T (37100)  
+╰─ 105.16.12.97    37100   246.109          (Cape Town, Western Cape, ZA, AF) ce-0-2-5.cr-01-cpt.za.seacomnet.com                                                                 
+   105.25.160.149  37100   245.184            (Johannesburg, Gauteng, ZA, AF) ce-0-2-9.cr-01-jnb.za.seacomnet.com                                                                 
+   105.16.28.9     37100   252.896                 (Johannesburg, GT, ZA, AF) ce-0-0-2.er-01-jnb.za.seacomnet.com                                                                 
+╭─ 105.22.34.174   37100   245.007            (Johannesburg, Gauteng, ZA, AF) ce-0-1-5-91.customer-gw-rogers-capital.er-01-jnb.za.seacomnet.com                                   
+S (37100, 36868)  
+╰─ 196.46.34.108   36868   296.082                       (None, None, MU, AF) *                                                                                                   
+   196.46.49.34    36868   290.317   (Quatre Bornes, Plaines Wilhems, MU, AF)                                                                                                     
+   102.222.106.178 328699  296.695           (Port Louis, Port Louis, MU, AF)                                                                                                     

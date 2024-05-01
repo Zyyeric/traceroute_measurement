@@ -1,0 +1,13 @@
+   185.78.49.100   201333  0.0             (Piacenza, Emilia-Romagna, IT, EU) it-pcz-as201333.anchors.atlas.ripe.net                                                              
+   185.78.49.5     201333  0.285            (Gerbido, Emilia-Romagna, IT, EU) lf01b5-vlan902.pia1.naquadria.net                                                                   
+   185.78.48.242   201333  0.276            (Gerbido, Emilia-Romagna, IT, EU) ens1f4d3-910-r02.pia1.naquadria.net                                                                 
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 89.202.196.105  3257    2.931             (Lodi Vecchio, Lombardy, IT, EU)                                                                                                     
+LHL (3257)  asia-africa-europe-1-aae-1 ✓ || imewe ✓ || seamewe-5 ✓
+├─ 89.149.138.186  3257    2.193                      (Amsterdam, NH, NL, EU) xe-0-1-0.cr7-ams24.ip4.gtt.net                                                                      
+T (3257, 3356)  
+╰─ 4.68.39.133     3356    17.468                       (Milan, None, IT, EU) ae-17.edge1.Milan1.Level3.net                                                                       
+╭─ 171.75.8.67     3356    26.426                       (Rome, Lazio, IT, EU) ae2.20.bear1.par10.neo.colt.net                                                                     
+S&T (3356, 39534)  asia-africa-europe-1-aae-1 ✓ || imewe ✓ || seamewe-5 ✓
+╰─ 213.242.120.238 39534   31.221                       (Paris, None, FR, EU) LYRA-NETWOR.bear1.Paris10.Level3.net                                                                
+   185.151.70.11   39534   31.372                 (Labège, Occitanie, FR, EU)                                                                                                     

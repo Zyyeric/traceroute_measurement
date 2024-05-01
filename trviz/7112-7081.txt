@@ -1,0 +1,9 @@
+   195.66.241.220  5459    0.0                      (London, England, GB, EU) ripe-anchor.linx.net                                                                                
+   195.66.241.219  5459    0.457                    (Poplar, England, GB, EU) hsrp1.tr1-tr6.linx.net                                                                              
+   195.66.243.23   5459    1.323                    (Poplar, England, GB, EU) et-0-0-1-border2-eq4.linx.net                                                                       
+╭─ 195.66.224.193  9002    2.415                      (London, ENG, GB, None) linx-224.retn.net                                                                                   
+S&T (9002)  circe-north ✓ || ulysses-2 ✘ || scylla ✓ || zeus ✓ || concerto ✘ || farland-north ✓
+╰─ 87.245.233.27   9002    7.52                       (Amsterdam, NH, NL, EU) ae1-4.RT.EVO.AMS.NL.retn.net                                                                        
+   87.245.227.11   204995  7.732                      (Amsterdam, NH, NL, EU) GW-RTBHouse.retn.net                                                                                
+   ***             *       -inf                                           *** *                                                                                                   
+   185.184.8.158   204995  8.431           (Amsterdam, North Holland, NL, EU) ip-185-184-8-158.rtbhouse.net                                                                       

@@ -1,0 +1,20 @@
+   185.209.84.141  57578   0.0               (Khabarovsk, Khabarovsk, RU, EU) ru-khv-as57578.anchors.atlas.ripe.net                                                               
+   185.209.84.10   198412  0.153                    (Khabarovsk, KHA, RU, AS) ae1-0.c10.khv01.ru.misaka.io                                                                        
+   92.38.191.66    210756  0.219             (Khabarovsk, Khabarovsk, RU, EU) vrrp.edgecenter.ru                                                                                  
+   92.223.110.3    210756  0.242             (Khabarovsk, Khabarovsk, RU, EU)                                                                                                     
+   10.255.10.186   *       0.3                                            ***                                                                                                     
+   212.119.196.105 3216    0.276 (0.878)        (Khabarovsk, Khabarovsk, RU, EU)                                                                                                     
+╭─ 79.104.235.78   *       112.948                   (Moscow, Moscow, RU, EU) mx01.stockholm.gldn.net                                                                             
+LHL (, 6939)  tampnet-offshore-foc-network ✘ || no-uk ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.105.64.230  6939    121.569                       (Oslo, Oslo, NO, EU) 100ge0-59.core2.osl1.he.net                                                                         
+LHL (6939)  tampnet-offshore-foc-network ✓ ↠ exa-north-and-south ✓ || tampnet-offshore-foc-network ✓ ↠ exa-express ✓ || no-uk ✘ ↠ exa-north-and-south ✓ || no-uk ✘ ↠ exa-express ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.64.102  6939    234.863                     (Winnipeg, MB, CA, NA) 100ge6-1.core1.ywg1.he.net                                                                          
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   65.19.133.197   6939    258.785      (Vancouver, British Columbia, CA, NA)                                                                                                     
+   192.30.89.87    394256  264.855      (Vancouver, British Columbia, CA, NA) ca-van-as394256.anchors.atlas.ripe.net                                                              

@@ -1,0 +1,15 @@
+   103.160.63.222  140443  0.0                     (Jakarta, Jakarta, ID, AS) 222.63.160.103.in-addr.herza.id                                                                     
+╭─ 103.160.63.129  140443  0.222                   (Jakarta, Jakarta, ID, AS) 129.63.160.103.in-addr.herza.id                                                                     
+S&T (140443, 4651)  australia-singapore-cable-asc ✓ || matrix-cable-system ✘ || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || indonesia-global-gateway-igg-system ✓ || seamewe-3 ✓ || indigo-west ✘ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || jasuka ✓ || jakabare ✘
+├  10.111.220.46   *       0.417                                          ***                                                                                                     
+├  10.111.220.6    *       12.207                                         ***                                                                                                     
+├  10.111.222.206  *       12.486                                         ***                                                                                                     
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 74.82.46.34     4651    12.76                    (Singapore, None, SG, AS) cat-telecom-public-company-ltd.e0-38.switch1.sin1.he.net                                            
+S&T (4651)  asia-america-gateway-aag-cable-system ✓ || seamewe-4 ✓ || seamewe-3 ✓
+╰─ 61.19.9.137     4651    39.054                  (Bangkok, Bangkok, TH, AS)                                                                                                     
+   61.19.7.78      4651    41.197                        (None, None, TH, AS) *                                                                                                   
+   122.155.224.74  135063  40.247                        (None, None, TH, AS) *                                                                                                   
+   172.21.21.4     *       39.022                                         ***                                                                                                     
+   172.24.132.101  *       40.5                                           ***                                                                                                     
+   103.253.132.25  59238   40.771                  (Bangkok, Bangkok, TH, AS) th-bkk-as59238.anchors.atlas.ripe.net                                                               

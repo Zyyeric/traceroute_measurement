@@ -1,0 +1,23 @@
+   80.77.4.60      15412   0.0                         (Dubai, Dubai, AE, AS)                                                                                                     
+╭─ 80.77.4.57      15412   1.842                       (Dubai, Dubai, AE, AS)                                                                                                     
+S (15412)  
+├─ 62.216.130.46   15412   27.253                          (Ozora, 1, JP, AS) xe-2-0-2.0.pjr04.mmb004.flagtel.com                                                                 
+S (15412)  
+├─ 62.216.128.249  15412   79.991                      (Singapore, 4, SG, AS) ge-7-0-0.0.ejr04.sin001.flagtel.com                                                                 
+S (15412, 6453)  
+├─ 62.216.157.162  6453    79.99                         (None, None, GB, EU) *                                                                                                   
+S (6453)  
+╰─ 120.29.214.101  6453    111.895                  (Singapore, None, SG, AS) if-be-40-2.ecore1.svq-singapore.as6453.net                                                          
+   ***             *       -inf                                           *** *                                                                                                   
+   180.87.107.225  6453    111.977             (Singapore, Singapore, SG, AS) if-be-33-2.ecore1.esin4-singapore.as6453.net                                                        
+╭─ 180.87.108.2    6453    111.726                  (Singapore, None, SG, AS) if-be-49-2.ecore2.esin4-singapore.as6453.net                                                        
+S&T (6453)  
+├─ 180.87.36.40    6453    111.915                      (Chennai, TN, IN, AS) if-ae-34-2.tcore1.cxr-chennai.as6453.net                                                            
+S&T (6453)  
+├─ 180.87.36.10    6453    111.963                  (Singapore, None, SG, AS) *                                                                                                   
+S&T (6453, 4755)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 115.114.12.186  4755    149.474                     (Delhi, Delhi, IN, AS) 115.114.12.186.static-delhi.vsnl.net.in                                                             
+   180.179.197.214 17439   148.089                       (None, None, IN, AS) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   216.48.178.84   132420  145.684             (Noida, Uttar Pradesh, IN, AS) e2e-95-84.ssdcloudindia.net                                                                         

@@ -1,0 +1,18 @@
+   197.189.194.147 37153   0.0                (Johannesburg, Gauteng, ZA, AF) atlas-anchor-jnb1.jnb.net.host-h.net                                                                
+   197.189.194.145 37153   0.128 (4.767)         (Johannesburg, Gauteng, ZA, AF)                                                                                                     
+   197.189.193.2   37153   0.256              (Johannesburg, Gauteng, ZA, AF) core-router1.jnb1.host-h.net                                                                        
+   41.66.132.241   37179   0.432              (Johannesburg, Gauteng, ZA, AF) 41-66-132-241-f1.customer.xe-0-0-2-gp-sm-het-mee-1.africainx.net                                    
+   41.84.12.109    37179   1.625              (Johannesburg, Gauteng, ZA, AF) core.ge-0-1-0-gp-id-pbr-1.za.africainx.net                                                          
+   105.25.146.5    37100   1.362              (Johannesburg, Gauteng, ZA, AF)                                                                                                     
+   105.16.28.2     37100   169.982                 (Johannesburg, GT, ZA, AF) ce-0-2-0-0.cr-02-jnb.za.seacomnet.com                                                               
+╭─ 105.25.160.154  37100   170.132          (Cape Town, Western Cape, ZA, AF) ce-0-2-9.cr-02-cpt.za.seacomnet.com                                                                 
+T (37100)  
+├─ 105.16.15.94    37100   172.238                  (London, England, GB, EU) ce-0-0-17.cr-02-lhr.uk.seacomnet.com                                                                
+S&T (37100)  
+╰─ 105.16.13.129   37100   170.616         (Amsterdam, North Holland, NL, EU) ce-4-0-5.er-01-ams.nl.seacomnet.com                                                                 
+   105.16.9.14     37100   168.792                    (Amsterdam, NH, NL, EU) ae-0-0.pp-01-ams.nl.seacomnet.com                                                                   
+╭─ 80.249.213.223  10429   323.297                     (Schiphol, NH, NL, EU) *                                                                                                   
+LHL (10429, 266152)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 45.6.36.173     266152  434.267          (Campina Grande, Paraíba, BR, SA) 45.6.36.173.pjmfibra.com.br                                                                         

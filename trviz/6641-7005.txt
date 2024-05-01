@@ -1,0 +1,17 @@
+   80.67.181.29    204059  0.0           (Brussels, Brussels Capital, BE, EU) be-bru-as204059.anchors.atlas.ripe.net                                                              
+   ***             *       -inf                                           *** *                                                                                                   
+   80.67.181.2     204059  1.328                      (Brussels, BRU, BE, EU) edge-02.louise.neutri.net                                                                           
+╭─ 185.1.127.23    *       2.287                 (Nossegem, Flanders, BE, EU) he.belgiumix.net                                                                                    
+S&T (, 6939)  
+├─ 184.104.193.137 6939    16.469                        (Paris, IDF, FR, EU) 100ge0-78.core2.par2.he.net                                                                         
+S (6939)  
+╰─ 184.105.81.150  6939    90.885                       (Ashburn, VA, US, NA) 100ge0-56.core3.ash1.he.net                                                                         
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 72.52.92.122    6939    137.501                  (Los Angeles, CA, US, NA) 100ge14-1.core1.lax2.he.net                                                                         
+S (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.81.70   6939    247.298                        (Seoul, 28, KR, AS) 10ge0-1.core2.sel1.he.net                                                                           
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   45.80.212.34    199524  272.409                     (Seoul, Seoul, KR, AS) vrrp.gcore.com                                                                                      
+   92.38.135.131   202422  272.374                     (Seoul, Seoul, KR, AS)                                                                                                     

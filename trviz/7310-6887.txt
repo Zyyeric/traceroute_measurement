@@ -1,0 +1,14 @@
+   27.111.84.21    135132  0.0           (Cebu City, Central Visayas, PH, AS) ph-ceb-as135132.anchors.atlas.ripe.net                                                              
+   27.111.84.20    135132  1.441             (Baugo, Central Visayas, PH, AS) vlan509.core.ceb02.ds.network                                                                       
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   192.168.159.165 *       1.481                                          ***                                                                                                     
+╭─ 43.224.189.33   137074  4.24              (Baugo, Central Visayas, PH, AS) 43-224-189-33.static.rise.as                                                                        
+S (137074, )  
+├  10.255.64.24    *       40.397                                         ***                                                                                                     
+├─ 27.111.230.188  *       40.549              (Singapore, Singapore, SG, AS) 140443.sgw.equinix.com                                                                              
+S&T (, 140443)  
+├  10.111.220.146  *       61.629                                         ***                                                                                                     
+╰─ 38.47.188.1     140443  61.355        (Kuala Lumpur, Kuala Lumpur, MY, AS)                                                                                                     
+   38.47.189.189   140443  60.504        (Kuala Lumpur, Kuala Lumpur, MY, AS)                                                                                                     

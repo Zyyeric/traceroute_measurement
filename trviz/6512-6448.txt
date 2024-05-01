@@ -1,0 +1,17 @@
+   185.221.36.2    48854   0.0           (Tranbjerg, Central Jutland, DK, EU) dk-skg-as48854.anchors.atlas.ripe.net                                                               
+   185.221.36.253  48854   0.339          (Stilling, Central Jutland, DK, EU)                                                                                                     
+   212.237.248.18  48854   0.469          (Stilling, Central Jutland, DK, EU)                                                                                                     
+   80.70.0.250     48854   0.26           (Stilling, Central Jutland, DK, EU)                                                                                                     
+   93.167.247.106  3292    0.38           (Stilling, Central Jutland, DK, EU) cpe.et-3-3-0-100.sdnqe11.dk.customer.tdc.net                                                        
+   93.167.247.105  3292    0.42           (Stilling, Central Jutland, DK, EU) et-3-3-0-100.sdnqe11.dk.ip.tdc.net                                                                  
+   83.88.19.119    3292    0.399 (4.828)                    (None, None, DK, EU) ae1-0.alb2nqp8.dk.ip.tdc.net                                                                        
+╭─ 195.215.109.102 3292    17.534          (Hvidovre, Capital Region, DK, EU) peer-as3257.alb2nqp8.dk.ip.tdc.net                                                                  
+LHL (3292, 3257)  globalconnect-3-gc3 ✘ ↠ asia-africa-europe-1-aae-1 ✓ || globalconnect-3-gc3 ✘ ↠ seamewe-5 ✓ || globalconnect-3-gc3 ✘ ↠ imewe ✓
+├─ 89.149.143.174  3257    27.055                        (Paris, IDF, FR, EU) ae8.lr2-par11.ip4.gtt.net                                                                           
+S&T (3257)  seamewe-3 ✓ || uk-channel-islands-8 ✘ || high-capacity-undersea-guernsey-optical-fibre-hugo ✓ || uk-channel-islands-7 ✘ || channel-islands-9-liberty-submarine-cable ✘
+╰─ 212.222.90.22   3257    36.432               (Manchester, England, GB, EU) ip4.gtt.net                                                                                         
+   80.82.243.153   28792   36.412                       (Witney, ENG, GB, EU) te0-3-0.lon-core-02.ip.pblin.net                                                                    
+   80.82.243.141   28792   36.478                       (Witney, ENG, GB, EU) gi-2-1-0.lon-core-01.ip.pblin.net                                                                   
+   80.82.243.120   28792   39.084                       (Witney, ENG, GB, EU) oxf-core-02.ip.pblin.net                                                                            
+   80.82.243.127   28792   39.418                       (Witney, ENG, GB, EU) oxf-access-10.ip.pblin.net                                                                          
+   80.82.241.134   28792   39.163                   (London, England, GB, EU) 134-241-82-80.in-addr.pblin.net                                                                     

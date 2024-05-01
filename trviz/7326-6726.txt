@@ -1,0 +1,18 @@
+╭─ 139.99.78.22    16276   0.0                 (Singapore, Singapore, SG, AS) sg-sin-as16276.anchors.atlas.ripe.net                                                               
+S (16276)  eac-c2c ✓ || asia-pacific-gateway-apg ✓ || southeast-asia-japan-cable-sjc ✓ || asia-america-gateway-aag-cable-system ✓ || seamewe-3 ✓ || asia-submarine-cable-express-asecahaya-malaysia ✓ || apcn-2 ✓ || tata-tgn-intra-asia-tgn-ia ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  192.168.143.254 *       0.28                                           ***                                                                                                     
+├  10.29.210.254   *       0.328                                          ***                                                                                                     
+├  10.29.192.52    *       0.471                                          ***                                                                                                     
+├  10.29.135.96    *       0.488                                          ***                                                                                                     
+├  10.133.65.52    *       0.726                                          ***                                                                                                     
+├  10.75.0.74      *       0.72                                           ***                                                                                                     
+├  10.75.248.14    *       1.07                                           ***                                                                                                     
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 103.5.15.27     16276   89.114                      (Central, HCW, HK, AS) syd-sy2-bb1-a9.au.asia                                                                              
+S (16276, 1221)  
+├  10.200.6.1      *       87.75                                          ***                                                                                                     
+╰─ 144.130.164.245 1221    88.051           (Sydney, New South Wales, AU, OC) bundle-ether14.ken-edge903.sydney.telstra.net                                                       
+   203.48.8.170    1221    87.897           (Sydney, New South Wales, AU, OC) tel4239951.lnk.telstra.net                                                                          
+   ***             *       -inf                                           *** *                                                                                                   
+   203.41.0.43     1221    87.798           (Sydney, New South Wales, AU, OC)                                                                                                     

@@ -1,0 +1,18 @@
+   103.143.136.43  63781   0.0                         (Tokyo, Tokyo, JP, AS) koba-103-143-136-43.rev.kobayashi.ad.jp                                                             
+   103.143.136.62  63781   1.739                       (Tokyo, Tokyo, JP, AS) koba-103-143-136-62.rev.kobayashi.ad.jp                                                             
+   103.143.136.29  63781   0.465                       (Tokyo, Tokyo, JP, AS) bgprt2-ospfrt1.kobayashi.ad.jp                                                                      
+   103.143.136.17  63781   0.556                       (Tokyo, Tokyo, JP, AS) koba-103-143-136-17.rev.kobayashi.ad.jp                                                             
+   103.41.60.164   10010   0.938                       (Tokyo, Tokyo, JP, AS) bgp3.tokyo-ix.v4.open.ad.jp                                                                         
+   150.99.184.33   2907    2.279                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+   150.99.10.187   2907    2.421                         (None, None, JP, AS) *                                                                                                   
+   202.232.6.17    2497    2.537                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 58.138.80.157   2497    2.543                       (Tokyo, Tokyo, JP, AS) tky001bb01.iij.net                                                                                  
+S (2497)  apcn-2 ✓ || eac-c2c ✓ || asia-pacific-gateway-apg ✓
+╰─ 58.138.81.174   2497    64.352    (Hong Kong, Central and Western, HK, AS) hkg002bb11.iij.net                                                                                  
+   58.138.80.241   2497    58.739    (Hong Kong, Central and Western, HK, AS) hkg002bb10.iij.net                                                                                  
+╭─ 123.255.91.209  *       219.628             (Hong Kong, Hong Kong, HK, AS) vimpelcom1-10g.hkix.net                                                                             
+LHL (, 3216)  seamewe-3 ✘ || asia-africa-europe-1-aae-1 ✘ || flag-europe-asia-fea ✘
+╰─ 79.104.241.98   3216    220.049                    (Ivanovo, None, RU, AS) pe01.Ivanovo.gldn.net                                                                               
+   ***             *       -inf                                           *** *                                                                                                   
+   195.209.139.36  29114   219.766          (Ivanovo, Ivanovo Oblast, RU, EU) anchor1.atlas.ruitb.ru                                                                              

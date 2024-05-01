@@ -1,0 +1,17 @@
+   102.130.66.11   37468   0.0                       (Luanda, Luanda, AO, AF)                                                                                                     
+   102.130.66.1    37468   0.289                     (Luanda, Luanda, AO, AF)                                                                                                     
+   102.130.68.105  37468   0.654                         (None, None, AO, AF) *                                                                                                   
+   102.130.68.111  37468   0.593 (2.211)                (Luanda, Luanda, AO, AF)                                                                                                     
+╭─ 102.130.68.138  37468   36.586                        (None, None, AO, AF) *                                                                                                   
+S (37468)  
+├─ 102.130.68.67   37468   148.544                   (Lisbon, Lisbon, PT, EU)                                                                                                     
+S&T (37468)  
+├─ 197.149.151.110 37468   169.495                   (Luanda, Luanda, AO, AF)                                                                                                     
+LHL (37468, 8218)  
+╰─ 37.49.232.7     8218    170.166                  (Marseille, 93, FR, None) zayofrance.mrs.franceix.net                                                                         
+   83.167.56.139   8218    188.179    (Montpellier/Mediterranee, OCC, FR, EU) ae8.ter1.neodc.mpl.core.as8218.eu                                                                   
+   83.167.55.235   8218    188.182    (Montpellier/Mediterranee, OCC, FR, EU) ae4.ter2.neodc.mpl.core.as8218.eu                                                                   
+   83.167.56.247   8218    175.298            (Toulouse/Blagnac, OCC, FR, EU) ae3.tcr2.bal.tls.core.as8218.eu                                                                     
+   213.152.16.90   15826   175.797            (Toulouse/Blagnac, OCC, FR, EU) nfrance-gw2.tcr2.bal.tls.cust.as8218.eu                                                             
+   ***             *       -inf                                           *** *                                                                                                   
+   80.247.237.225  15826   204.037   (Ramonville-Saint-Agne, Occitanie, FR, EU) ancre-atlas.nfrance.com                                                                             

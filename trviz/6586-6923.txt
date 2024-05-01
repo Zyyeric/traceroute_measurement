@@ -1,0 +1,12 @@
+   103.151.64.31   140627  0.0                     (Hagåtña, Hagatna, GU, OC) atlas.guam.as140627.net                                                                             
+╭─ 103.151.64.30   140627  0.199                 (Piti Village, Piti, GU, OC) oq-guam-cor01--atlas-probe.as140627.net                                                             
+S (140627)  asia-america-gateway-aag-cable-system ✓
+╰─ 103.151.64.207  140627  42.47               (Hong Kong, Hong Kong, HK, AS) oq-hkg-cor01--oq-guam-cor01-69.as140627.net                                                         
+   123.255.90.215  58453   44.209                  (Hong Kong, HCW, HK, None) chinamobileintl2-100g.hkix.net                                                                      
+   223.120.2.117   58453   44.673                        (None, None, HK, AS) *                                                                                                   
+   223.120.3.90    58453   44.883                        (None, None, HK, AS) *                                                                                                   
+╭─ 223.119.0.93    202196  45.831                        (None, None, HK, AS) *                                                                                                   
+S (202196)  apcn-2 ✓ || southeast-asia-japan-cable-sjc ✓ || eac-c2c ✓ || asia-pacific-gateway-apg ✓ || asia-america-gateway-aag-cable-system ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 37.10.41.14     202196  79.577              (Singapore, Singapore, SG, AS)                                                                                                     

@@ -1,0 +1,21 @@
+   193.49.43.151   2200    0.0       (Grenoble, Auvergne-Rhône-Alpes, FR, EU)                                                                                                     
+   193.49.43.99    2200    0.237     (Fontaine, Auvergne-Rhône-Alpes, FR, EU) rteie.epn-campus.eu                                                                                 
+   192.168.103.252 *       0.392                                          ***                                                                                                     
+   193.54.185.9    2200    1.187     (Fontaine, Auvergne-Rhône-Alpes, FR, EU) tigre1.grenet.fr                                                                                    
+   193.51.181.94   2200    0.951     (Fontaine, Auvergne-Rhône-Alpes, FR, EU) hu0-2-0-2-ren-nr-grenoble-rtr-091.noc.renater.fr                                                    
+   193.55.204.14   2200    8.099     (Grenoble, Auvergne-Rhône-Alpes, FR, EU) hu0-3-0-3-ren-nr-lyon2-rtr-091.noc.renater.fr                                                       
+   193.51.177.238  2200    8.292               (Paris, Île-de-France, FR, EU) et-5-3-1-ren-nr-paris2-rtr-131.noc.renater.fr                                                       
+╭─ 195.42.144.104  6939    8.954                         (Paris, IDF, FR, EU) 10gigabitethernet-2-2.par2.he.net                                                                   
+T (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.81.110  6939    16.021                     (Amsterdam, NH, NL, EU) port-channel14.core2.ams1.he.net                                                                    
+   184.104.196.94  6939    16.969                     (Amsterdam, NH, NL, EU) ve1001.core1.ams7.he.net                                                                            
+╭─ 184.104.197.126 6939    16.557          (Amsterdam, North Holland, NL, EU) port-channel1.core2.ams7.he.net                                                                     
+S (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.105.81.141  6939    34.168                       (Ashburn, VA, US, NA) port-channel10.core3.ash1.he.net                                                                    
+S (6939, 56655)  
+╰─ 185.125.170.252 56655   34.774                        (Oslo, Oslo, NO, EU)                                                                                                     
+   185.125.170.45  56655   34.868                        (Oslo, Oslo, NO, EU)                                                                                                     
+   185.14.97.165   56655   2720.726                      (Oslo, Oslo, NO, EU)                                                                                                     
+   185.14.97.165   56655   2720.726                      (Oslo, Oslo, NO, EU)                                                                                                     

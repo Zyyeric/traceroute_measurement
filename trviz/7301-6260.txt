@@ -1,0 +1,31 @@
+   185.39.208.23   199993  0.0                       (Lisbon, Lisbon, PT, EU) atlasancora01.wan.dns.pt                                                                            
+   185.39.208.60   199993  0.634                     (Lisbon, Lisbon, PT, EU)                                                                                                     
+   194.210.4.137   1930    1.332                     (Lisbon, Lisbon, PT, EU) router63.lisboa.fccn.pt                                                                             
+   194.210.6.112   1930    0.964                     (Lisbon, Lisbon, PT, EU) router30.lisboa.fccn.pt                                                                             
+   194.210.6.103   1930    1.364                     (Lisbon, Lisbon, PT, EU) router3.lisboa.fccn.pt                                                                              
+   194.210.6.102   1930    9.029                         (Lisbon, 11, PT, EU) Router30.Lisboa.fccn.pt                                                                             
+   193.136.1.9     1930    6.944                       (Porto, Porto, PT, EU) router20.porto.fccn.pt                                                                              
+   194.210.7.103   1930    7.459                          (Porto, 13, PT, EU) Router2.Porto.fccn.pt                                                                               
+╭─ 83.97.88.44     21320   6.724                     (Lisbon, Lisbon, PT, EU) fccn-ias-geant-gw.rt1.por.pt.geant.net                                                              
+S&T (21320, 20965)  west-africa-cable-system-wacs ✓ || africa-coast-to-europe-ace ✓ || tata-tgn-western-europe ✘ || sat-3wasc ✓ || seamewe-3 ✓
+├─ 62.40.98.220    20965   45.038                      (Bilbao, None, ES, EU) ae2.rt1.bil.es.geant.net                                                                            
+S&T (20965)  
+├─ 62.40.98.223    20965   45.033                        (Paris, IDF, FR, EU) ae4.mx1.par.fr.geant.net                                                                            
+T (20965)  
+╰─ 62.40.98.238    20965   47.285                    (Genève, Geneva, CH, EU) ae7.mx1.gen.ch.geant.net                                                                            
+╭─ 62.40.98.182    20965   47.325                      (Geneva, None, CH, EU) ae5.mx1.gen.ch.geant.net                                                                            
+T (20965, 174)  
+╰─ 149.29.9.9      174     45.172             (Frankfurt am Main, HE, DE, EU) be5583.agr41.fra03.atlas.cogentco.com                                                               
+╭─ 130.117.1.118   174     45.18              (Frankfurt am Main, HE, DE, EU) be3187.ccr42.fra03.atlas.cogentco.com                                                               
+T (174)  
+├─ 154.54.58.238   174     54.665                        (Paris, IDF, FR, EU) be2800.ccr42.par01.atlas.cogentco.com                                                               
+S (174)  
+╰─ 154.54.89.225   174     129.754                (Ashburn, Virginia, US, NA) be3111.ccr42.dca01.atlas.cogentco.com                                                               
+   154.54.24.222   174     146.358                      (Atlanta, GA, US, NA) be2113.ccr42.atl01.atlas.cogentco.com                                                               
+   154.54.28.50    174     161.729                        (Miami, FL, US, NA) be3483.ccr22.mia01.atlas.cogentco.com                                                               
+╭─ 154.54.88.234   174     161.779                   (Miami, Florida, US, NA) be3087.ccr41.mia03.atlas.cogentco.com                                                               
+S (174, 266413)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 170.81.100.114  266413  166.266                  (Camaçari, Bahia, BR, SA) 170.81.100.114.vivatecnologia.com.br                                                                

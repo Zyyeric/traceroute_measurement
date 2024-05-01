@@ -1,0 +1,14 @@
+   92.223.93.208   202422  0.0                      (Milan, Lombardy, IT, EU)                                                                                                     
+   92.223.93.195   202422  0.228                    (Milan, Lombardy, IT, EU) vrrp.gcore.lu                                                                                       
+   45.82.101.3     199524  0.247                    (Milan, Lombardy, IT, EU)                                                                                                     
+   10.255.169.178  *       0.251                                          ***                                                                                                     
+   195.22.212.112  6762    0.248 (0.799)               (Milan, Lombardy, IT, EU) ae10.milano59.mil.seabone.net                                                                       
+╭─ 79.140.89.34    6762    118.318                       (None, None, IT, EU) *                                                                                                   
+LHL (6762, 3491)  asia-africa-europe-1-aae-1 ✓ ↠ africa-coast-to-europe-ace ✓ || seamewe-5 👍 ↠ africa-coast-to-europe-ace ✓ || imewe 👍 ↠ africa-coast-to-europe-ace ✓
+├─ 63.222.38.13    3491    127.98                      (Lagos, Lagos, NG, AF) 63-222-38-13.static.pccwglobal.net                                                                  
+S&T (3491)  west-africa-cable-system-wacs 👍 || sat-3wasc 👍 || africa-coast-to-europe-ace ✓
+╰─ 63.223.48.154   3491    187.54             (Johannesburg, Gauteng, ZA, AF) hu0-0-0-21.br03.jnb01.as3491.net                                                                    
+   45.11.107.135   969     185.074                (Edenvale, Gauteng, ZA, AF) e49-1-103-pccw.cr2a.jnb1.za.917.as                                                                  
+   ***             *       -inf                                           *** *                                                                                                   
+   102.130.49.21   328383  185.0              (Johannesburg, Gauteng, ZA, AF) po-21.lag.jnb01.za.misaka.io                                                                        
+   102.130.49.144  328383  184.241            (Johannesburg, Gauteng, ZA, AF) za-jnb-as57695.anchors.atlas.ripe.net                                                               

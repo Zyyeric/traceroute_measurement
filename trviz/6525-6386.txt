@@ -1,0 +1,15 @@
+   202.142.143.178 4764    0.0                  (Melbourne, Victoria, AU, OC) be3.bng1.vdc03.mel.aussiebb.net                                                                     
+╭─ 202.142.143.177 4764    0.966                (Melbourne, Victoria, AU, OC) gi0-0-0-8.acc3.530col.vic.aussiebb.net                                                              
+S (4764)  hawaiki ✘ || southern-cross-cable-network-sccn ✓ || southern-cross-next ✓
+├  10.241.6.22     *       1.221                                          ***                                                                                                     
+├  10.241.4.228    *       3.291                                          ***                                                                                                     
+├  10.241.4.151    *       1.108                                          ***                                                                                                     
+╰─ 180.150.2.108   4764    161.234          (Santa Clara, California, US, NA) be25.bdr1.coresite-sv1.sjc.aussiebb.net                                                             
+   4.39.197.61     3356    161.546          (Foster City, California, US, NA) et-0-0-24.edge1.sanjose1.level3.net                                                                 
+   4.69.219.61     3356    161.705                       (None, None, US, NA) *                                                                                                   
+   4.15.122.46     2152    200.699                     (San Jose, CA, US, NA) CENIC.ear1.SanJose1.Level3.net                                                                      
+   137.164.11.81   2152    200.471                    (Sunnyvale, CA, US, NA) dc-svl-agg8--svl-agg10-300g.cenic.net                                                               
+   137.164.23.145  46749   201.177                    (Sunnyvale, CA, US, NA) dc-stanford--svl-agg4-100ge.cenic.net                                                               
+   171.66.0.238    32      162.422                     (Stanford, CA, US, NA) csee-west-rtr-vl12.SUNet                                                                            
+   ***             *       -inf                                           *** *                                                                                                   
+   171.67.70.16    32      162.626             (Stanford, California, US, NA) us-pao-as32.anchors.atlas.ripe.net                                                                  

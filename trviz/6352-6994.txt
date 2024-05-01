@@ -1,0 +1,26 @@
+   94.207.43.2     57187   0.0                         (Dubai, Dubai, AE, AS) -094-207-043-002.datamena.net                                                                       
+   94.207.43.1     57187   0.367                       (Dubai, Dubai, AE, AS) j48-1.dxa.dxb.ae.datamena.net                                                                       
+   94.207.42.42    57187   0.375                         (None, None, AE, AS) j48-3.dx1.dxb.ae.datamena.net                                                                       
+╭─ 94.205.255.34   15802   1.771                       (Dubai, Dubai, AE, AS) du-01.alb.dxb.ae.datamena.net                                                                       
+S (15802, 6762)  asia-africa-europe-1-aae-1 ✓ || imewe ✓ || seamewe-5 ✓ || flag-europe-asia-fea ✓ || seamewe-4 ✓ || seamewe-3 ✓
+├  10.65.8.230     *       2.307                                          ***                                                                                                     
+├  ***             *       -inf                                           *** *                                                                                                   
+├  10.53.17.85     *       6.215                                          ***                                                                                                     
+╰─ 195.22.197.54   6762    91.576                   (Palermo, Sicily, IT, EU) ae9.palermo3.pal.seabone.net                                                                        
+╭─ 185.100.113.151 6762    131.535                       (None, None, IT, EU) *                                                                                                   
+LHL (6762, 2603)  seamewe-4 👍 || asia-africa-europe-1-aae-1 ✓ || seamewe-5 👍 || imewe 👍 || seamewe-3 👍
+├─ 80.249.209.203  2603    126.183                    (Amsterdam, NH, NL, EU) nl-ams.nordu.net                                                                                    
+S&T (2603)  ulysses-2 ✘ || zeus ✓ || circe-north ✓ || scylla ✓ || concerto ✘ || farland-north ✘
+╰─ 109.105.102.97  2603    130.152                     (Hexton, None, GB, EU) uk-hex.nordu.net                                                                                    
+╭─ 109.105.102.98  2603    186.963                      (London, ENG, GB, EU) ndn-gw.mx1.lon.uk.geant.net                                                                         
+S&T (2603, 20965)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 62.40.98.222    20965   206.619                     (Bilbao, None, ES, EU) ae4.rt1.bil.es.geant.net                                                                            
+S&T (20965, 21320)  
+├─ 83.97.90.19     21320   139.287                  (London, England, GB, EU) rediris-ias-geant.bil.es.geant.net                                                                  
+S&T (21320, 766)  
+╰─ 130.206.245.22  766     140.173                       (None, None, ES, EU) ehu.rt2.ethtrunk3.unizar.rt2.ara.red.rediris.es                                                     
+   130.206.245.94  766     140.126                       (None, None, ES, EU) unizar.rt2.ae6-323.telmad.rt4.mad.red.rediris.es                                                    
+   130.206.214.98  13041   149.089                       (None, None, ES, EU) anella-router.red.rediris.es                                                                        
+   84.88.18.254    13041   149.774             (Barcelona, Catalonia, ES, EU) anchor-anella.cesca.cat                                                                             

@@ -1,0 +1,27 @@
+   197.239.73.59   37577   0.0                  (Ouagadougou, Centre, BF, AF)                                                                                                     
+   197.239.73.57   37577   0.367                (Ouagadougou, Centre, BF, AF)                                                                                                     
+   165.16.221.42   37721   0.436                         (None, None, BF, AF) *                                                                                                   
+   165.16.221.41   37721   0.909                         (None, None, BF, AF) *                                                                                                   
+   102.67.97.181   37721   0.967                (Ouagadougou, Centre, BF, AF) ce5-355.bb2.oua2.vts.bf                                                                             
+╭─ 102.67.96.39    37721   0.875 (3.286)           (Ouagadougou, Centre, BF, AF)                                                                                                     
+LHL (37721)  africa-coast-to-europe-ace ✓
+├─ 102.67.96.46    37721   16.935                       (Paris, None, FR, EU) xe-0-0-1-2022.bb2.prs1.vts.bf                                                                       
+S&T (37721)  africa-coast-to-europe-ace ✓ || seamewe-3 ✓
+╰─ 102.67.96.247   37721   95.037                    (Lisbon, Lisbon, PT, EU) ce1-2036.bb2.lis1.vts.bf                                                                            
+   102.67.97.54    37721   99.439                        (Lisbon, 11, PT, EU) xe-0-0-4-814.br1.lis1.vts.bf                                                                        
+╭─ 195.10.57.16    1273    127.688                   (Lisbon, Lisbon, PT, EU)                                                                                                     
+S&T (1273)  
+├─ 195.2.31.142    1273    157.507                       (None, None, GB, EU) ae45-xcr1.max.cw.net                                                                                
+S&T (1273)  
+├─ 195.2.25.114    1273    158.238                  (Turin, Piedmont, IT, EU) ae1-xcr1.mrx.cw.net                                                                                 
+S&T (1273)  
+╰─ 195.2.21.186    1273    139.714                       (None, None, GB, EU) ae51.xcr1.mlu.cw.net                                                                                
+   195.2.16.2      1273    163.933                       (None, None, GB, EU) ae23.0-xcr1.sof.cw.net                                                                              
+╭─ 195.2.12.58     3329    161.039                       (None, None, GB, EU) vfgr1-vf-gw.sof.cw.net                                                                              
+S&T (3329)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 62.74.30.101    3329    168.878                        (Athens, I, GR, EU) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   62.74.226.30    12361   179.454                   (Athens, Attica, GR, EU) dumy30.panafonet.gr                                                                                 
+   ***             *       -inf                                           *** *                                                                                                   
+   139.91.68.3     8522    210.908                 (Irákleion, Crete, GR, EU)                                                                                                     

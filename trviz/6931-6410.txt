@@ -1,0 +1,20 @@
+   200.160.6.19    22548   0.0                 (São Paulo, São Paulo, BR, SA) br-sao-as22548.anchors.atlas.ripe.net                                                               
+   200.160.6.61    22548   0.404         (Taboão da Serra, São Paulo, BR, SA) ae1-89.ar3.jd.registro.br                                                                           
+   200.160.0.253   22548   0.712                         (None, None, BR, SA) ae0-0.core1.nu.registro.br                                                                          
+╭─ 200.160.0.161   22548   0.75                          (None, None, BR, SA) xe-5-0-0-0.gw1.nu.registro.br                                                                       
+S (22548, 6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.188.252 6939    150.574          (Jersey City, New Jersey, US, NA) port-channel24.core3.nyc4.he.net                                                                    
+   ***             *       -inf                                           *** *                                                                                                   
+   198.32.160.145  7195    131.132              (New York City, NY, US, None) edgeuno.nyiix.net                                                                                   
+   200.25.51.236   7195    115.603          (New York City, New York, US, NA) ae0.0.edge1.jfk1.as7195.net                                                                         
+   200.25.51.224   7195    128.56            (South Riding, Virginia, US, NA) ae201.0.edge1.iad1.as7195.net                                                                       
+   200.25.51.78    7195    117.666                (Ashburn, Virginia, US, NA) ae0.0.edge1.iad1.as7195.net                                                                         
+╭─ 200.25.51.140   7195    139.834                   (Miami, Florida, US, NA) ae305.0.edge1.mia1.as7195.net                                                                       
+S (7195)  
+├─ 200.25.51.35    7195    173.529                     (Santiago, RM, CL, SA) ae200.800.edge2.scl1.as7195.net                                                                     
+S&T (7195)  
+╰─ 200.25.51.188   7195    167.916              (Lima, Lima Province, PE, SA) ae1051.0.edge2.lim1.as7195.net                                                                      
+   38.56.125.13    64116   239.832              (Lima, Lima Province, PE, SA)                                                                                                     
+   45.183.45.1     64116   149.845              (Lima, Lima Province, PE, SA)                                                                                                     
+   45.183.45.23    64116   151.527              (Lima, Lima Province, PE, SA)                                                                                                     

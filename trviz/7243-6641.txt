@@ -1,0 +1,14 @@
+   92.38.135.131   202422  0.0                         (Seoul, Seoul, KR, AS)                                                                                                     
+   92.38.135.3     202422  0.576                       (Seoul, Seoul, KR, AS) vrrp.gcore.lu                                                                                       
+   10.255.17.210   *       0.928                                          ***                                                                                                     
+   10.255.17.213   *       1.269                                          ***                                                                                                     
+   10.255.17.146   *       0.817                                          ***                                                                                                     
+╭─ 8.244.72.213    3356    0.884 (2.687)                  (Seoul, Seoul, KR, AS)                                                                                                     
+S (3356)  new-cross-pacific-ncp-cable-system ✓ || trans-pacific-express-tpe-cable-system ✓
+╰─ 4.69.219.138    3356    192.041                       (None, None, US, NA) *                                                                                                   
+╭─ 4.37.37.166     3356    191.563                   (Miami, Florida, US, NA) angola-cabl.edge6.miami1.level3.net                                                                 
+S (3356, 37468)  america-movil-submarine-cable-system-1-amx-1 © || south-america-1-sam-1 ✓ || americas-ii 👍
+├─ 170.238.233.162 37468   254.793                 (Fortaleza, Ceará, BR, SA) 162.233.238.170.angolacables.ao                                                                     
+S (37468)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 185.148.112.152 37468   292.689                   (Lisbon, Lisbon, PT, EU) 152.112.148.185.angolacables.ao                                                                     

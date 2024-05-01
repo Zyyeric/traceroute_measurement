@@ -1,0 +1,18 @@
+   192.168.0.130   *       0.0                                            ***                                                                                                     
+   192.168.0.1     *       0.532                                          ***                                                                                                     
+   172.16.254.1    *       0.6                                            ***                                                                                                     
+   192.168.1.1     *       0.623                                          ***                                                                                                     
+   10.98.238.18    *       0.612 (4.456)                                     ***                                                                                                     
+   10.0.0.170      *       7.309                                          ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   81.212.216.12   9121    5.322                 (Ümraniye, Istanbul, TR, AS) 34-acibadem-xrs-t2-2---34-acibadem-sr12e-t3-8.statik.turktelekom.com.tr                             
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 212.156.141.26  9121    47.314                    (Ankara, Ankara, TR, AS) 306-mil-col-1---34-ebgp-acibadem-sr12e-k.statik.turktelekom.com.tr                                  
+S&T (9121, 3356)  
+├─ 213.249.105.169 3356    46.012                   (Milan, Lombardy, IT, EU) ae51.edge1.milan1.level3.net                                                                        
+S&T (3356)  
+╰─ 171.75.10.165   3356    53.546    (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) ae2.3207.edge1.mrs3.neo.colt.net                                                                    
+╭─ 213.242.119.98  47794   111.354                  (Marseille, None, FR, EU) SAUDI-TELEC.edge1.Marseille3.Level3.net                                                             
+S (47794)  
+╰─ 94.77.210.130   47794   117.492            (Riyadh, Riyadh Region, SA, AS) 94-77-210-130.static.go.com.sa                                                                      
+   94.77.252.90    47794   117.61             (Riyadh, Riyadh Region, SA, AS) 94-77-252-90.static.go.com.sa                                                                       

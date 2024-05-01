@@ -1,0 +1,15 @@
+   103.179.37.157  151332  0.0                  (Melbourne, Victoria, AU, OC)                                                                                                     
+   103.179.37.156  151332  0.319                (Melbourne, Victoria, AU, OC)                                                                                                     
+   203.192.83.253  7545    1.415                (Melbourne, Victoria, AU, OC) ip-253-83-192-203.static.pipenetworks.com                                                           
+   203.220.216.73  7545    1.712                        (Sydney, NSW, AU, OC) 203-220-216-73.tpgi.com.au                                                                          
+   27.32.160.193   7545    14.988              (North Melbourne, VIC, AU, OC) 27-32-160-193.static.tpgi.com.au                                                                    
+   202.7.171.173   7545    13.366           (Sydney, New South Wales, AU, OC) syd-gls-har-crt1-be-10.tpgi.com.au                                                                  
+   203.221.3.81    7545    13.062                       (Sydney, NSW, AU, OC) syd-gls-har-cdn11-be200.tpgi.com.au                                                                 
+╭─ 203.219.107.178 7545    163.138          (Sydney, New South Wales, AU, OC) 203-219-107-178.static.tpgi.com.au                                                                  
+S (7545, 3356)  
+├─ 4.69.134.42     3356    232.716                       (None, None, US, NA) *                                                                                                   
+S (3356, 199524)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 45.80.212.35    199524  231.213                     (Seoul, Seoul, KR, AS) vrrp.gcore.com                                                                                      
+   92.38.135.131   202422  231.213                     (Seoul, Seoul, KR, AS)                                                                                                     

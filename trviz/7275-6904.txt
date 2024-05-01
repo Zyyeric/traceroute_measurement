@@ -1,0 +1,15 @@
+   202.46.184.4    38064   0.0                   (Auckland, Auckland, NZ, OC)                                                                                                     
+   202.46.184.1    38064   0.986                 (Auckland, Auckland, NZ, OC)                                                                                                     
+╭─ 43.243.21.17    6939    1.572                      (Auckland, AUK, NZ, OC) as6939.akl.ix.nz                                                                                    
+S (6939)  tasman-global-access-tga-cable ✓ || southern-cross-cable-network-sccn ✓ || hawaiki ✘
+╰─ 184.104.195.149 6939    30.421           (Sydney, New South Wales, AU, OC) 100ge0-79.core1.syd1.he.net                                                                         
+╭─ 184.105.65.223  6939    76.409          (Perth, Western Australia, AU, OC) 100ge0-32.core1.per1.he.net                                                                         
+S (6939)  seamewe-3 ✓ || indigo-west ✓ || australia-singapore-cable-asc ©
+╰─ 72.52.92.112    6939    149.773             (Singapore, Singapore, SG, AS) 100ge0-71.core3.sin1.he.net                                                                         
+╭─ 74.82.49.214    6939    161.232             (Singapore, Singapore, SG, AS) pt-jala-lintas-media.e0-3.switch5.sin1.he.net                                                       
+S&T (6939, 133840)  
+╰─ 103.66.70.104   133840  165.331                 (Jakarta, Jakarta, ID, AS)                                                                                                     
+   121.100.0.45    38158   128.443                 (Jakarta, Jakarta, ID, AS)                                                                                                     
+   43.230.152.226  *       128.611                 (Jakarta, Jakarta, ID, AS) global-in.kings.id                                                                                  
+   43.230.153.90   *       133.922                 (Jakarta, Jakarta, ID, AS)                                                                                                     
+   180.211.88.22   45725   134.108                 (Jakarta, Jakarta, ID, AS) id-jkt-as45725.anchors.atlas.ripe.net                                                               

@@ -1,0 +1,20 @@
+   102.212.60.247  329276  0.0              (Cape Town, Western Cape, ZA, AF) za-cpt-as329276.anchors.atlas.ripe.net                                                              
+   102.212.60.2    329276  0.24              (Rosebank, Western Cape, ZA, AF) net.lnx-solutions.com                                                                               
+   196.250.236.121 37662   0.553             (Rosebank, Western Cape, ZA, AF)                                                                                                     
+   154.66.247.67   37662   152.928            (Johannesburg, Gauteng, ZA, AF)                                                                                                     
+   154.66.247.237  37662   153.187            (Johannesburg, Gauteng, ZA, AF)                                                                                                     
+╭─ 154.66.247.94   37662   147.196            (Durban, KwaZulu-Natal, ZA, AF)                                                                                                     
+S&T (37662)  
+╰─ 154.66.247.110  37662   75.425                        (None, None, KE, AF) *                                                                                                   
+╭─ 154.66.247.112  37662   147.154                       (None, None, KE, AF) *                                                                                                   
+S&T (37662, 58453)  
+├─ 196.223.38.219  58453   153.087                    (Djibouti, 7, DJ, None) cmi.v4.peers.djix.dj                                                                                
+S (58453)  
+╰─ 223.118.4.14    58453   249.046                       (None, None, HK, AS) *                                                                                                   
+╭─ 223.119.21.98   133334  248.176                  (Hong Kong, None, HK, AS) *                                                                                                   
+S (133334, 8529)  
+├─ 213.202.6.228   8529    334.739                   (Muscat, Muscat, OM, AS)                                                                                                     
+S&T (8529, 42473)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 213.202.2.1     42473   271.842                        (Dubai, DU, AE, AS) i1.2.202.213omantel.net.om                                                                          
+   37.252.245.94   42473   270.753                     (Dubai, Dubai, AE, AS)                                                                                                     

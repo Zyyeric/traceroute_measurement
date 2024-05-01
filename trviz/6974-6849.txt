@@ -1,0 +1,24 @@
+   203.119.111.139 4608    0.0                 (Brisbane, Queensland, AU, OC) anchor.apnic.net                                                                                    
+   203.119.111.131 4608    0.773               (Brisbane, Queensland, AU, OC) vl-1705.nxcs2.hosted.au.apnic.net                                                                   
+   203.119.104.29  4608    0.464                      (Brisbane, QLD, AU, OC) te-0-1-5.nxgw2.bne.apnic.net                                                                        
+   203.119.104.81  4608    0.579                   (Hope Island, QLD, AU, OC) po-11-921.nxgw1.bne.apnic.net                                                                       
+   139.130.130.193 1221    1.246               (Brisbane, Queensland, AU, OC) gigabitethernet0-0-0-17-103.cha-edge701.brisbane.telstra.net                                        
+   203.50.237.22   1221    1.122               (Brisbane, Queensland, AU, OC) tengige0-0-0-12.cha-dlr20.brisbane.telstra.net                                                      
+   203.50.44.56    1221    1.029 (2.927)          (Brisbane, Queensland, AU, OC) bundle-ether30.cha-core30.brisbane.telstra.net                                                      
+╭─ 203.50.13.157   1221    15.387           (Sydney, New South Wales, AU, OC) bundle-ether5.hay-core30.sydney.telstra.net                                                         
+S (1221, 4637)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 203.50.13.94    4637    16.331                        (None, None, HK, AS) *                                                                                                   
+S (4637)  
+╰─ 202.84.222.129  4637    16.457           (Sydney, New South Wales, AU, OC) i-10304.sydo-core03.telstraglobal.net                                                               
+   202.84.222.129  4637    16.457           (Sydney, New South Wales, AU, OC) i-10304.sydo-core03.telstraglobal.net                                                               
+   202.84.222.169  4637    129.157          (Sydney, New South Wales, AU, OC) i-10203.sydp-core04.telstraglobal.net                                                               
+╭─ 202.84.222.169  4637    129.157          (Sydney, New South Wales, AU, OC) i-10203.sydp-core04.telstraglobal.net                                                               
+S (4637)  
+╰─ 202.84.140.221  4637    132.503                     (Tokyo, Tokyo, JP, AS) i-14202.jtha-core02.telstraglobal.net                                                               
+   202.84.140.221  4637    132.503                     (Tokyo, Tokyo, JP, AS) i-14202.jtha-core02.telstraglobal.net                                                               
+   202.47.216.254  4637    132.139               (Tokyo / Narita, 12, JP, AS) i-96.siko11.telstraglobal.net                                                                       
+   210.57.79.11    4637    132.588                     (Tokyo, Tokyo, JP, AS) unknown.telstraglobal.net                                                                           
+   ***             *       -inf                                           *** *                                                                                                   
+   182.161.74.64   55569   132.452                     (Tokyo, Tokyo, JP, AS)                                                                                                     
+   182.161.74.241  55569   129.326                     (Tokyo, Tokyo, JP, AS)                                                                                                     

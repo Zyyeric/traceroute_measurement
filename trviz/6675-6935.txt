@@ -1,0 +1,20 @@
+   102.130.49.144  328383  0.0                (Johannesburg, Gauteng, ZA, AF) za-jnb-as57695.anchors.atlas.ripe.net                                                               
+   102.130.49.21   328383  0.156              (Johannesburg, Gauteng, ZA, AF) po-21.lag.jnb01.za.misaka.io                                                                        
+   102.130.49.3    328383  0.17               (Johannesburg, Gauteng, ZA, AF) spine2.v271.jnb01.za.misaka.io                                                                      
+╭─ 102.130.51.6    *       0.225              (Johannesburg, Gauteng, ZA, AF) e54-1-20.cr2a.tdjb1.jnb1.za.917.as                                                                  
+LHL (, 969)  africa-coast-to-europe-ace ✘ ↠ apollo ✘ || africa-coast-to-europe-ace ✘ ↠ flag-atlantic-1-fa-1 ✘
+├─ 199.119.64.250  969     0.238                    (Dover, Delaware, US, NA) po100.cr1a.tdjb1.jnb1.za.917.as                                                                     
+LHL (969, 60068)  apollo ✘ || flag-atlantic-1-fa-1 ✘
+├─ 37.19.193.190   60068   0.295                     (Prague, Prague, CZ, EU) p77-3502.cr1a.tdjb1.jnb1.za.917.as                                                                  
+LHL (60068, 5511)  
+├─ 193.251.152.55  5511    0.431              (Johannesburg, Gauteng, ZA, AF)                                                                                                     
+S (5511)  africa-coast-to-europe-ace 👍
+╰─ 81.52.166.152   5511    159.593                       (None, None, FR, EU) *                                                                                                   
+╭─ 193.251.142.30  6762    167.668                       (None, None, FR, EU) *                                                                                                   
+S&T (6762)  apollo ✓ ↠ apollo ✓ ↠ seamewe-3 👍 || apollo ✓ ↠ flag-atlantic-1-fa-1 © ↠ seamewe-3 👍 || flag-atlantic-1-fa-1 © ↠ apollo ✓ ↠ seamewe-3 👍 || flag-atlantic-1-fa-1 © ↠ flag-atlantic-1-fa-1 © ↠ seamewe-3 👍
+╰─ 195.22.192.111  6762    180.611                        (Milan, 25, IT, EU) ae1.milano81.mil.seabone.net                                                                        
+   195.22.192.111  6762    180.611                        (Milan, 25, IT, EU) ae1.milano81.mil.seabone.net                                                                        
+   195.22.196.121  201333  181.29                         (Milan, 25, IT, EU) naquadria.milano81.mil.seabone.net                                                                  
+   185.78.48.22    201333  181.403                  (Milan, Lombardy, IT, EU) ens1f4-920-r02.pia1.naquadria.net                                                                   
+   185.78.48.244   201333  179.962                    (Parabiago, 25, IT, EU) lf01b5-vlan910.pia1.naquadria.net                                                                   
+   185.78.49.100   201333  181.63          (Piacenza, Emilia-Romagna, IT, EU) it-pcz-as201333.anchors.atlas.ripe.net                                                              

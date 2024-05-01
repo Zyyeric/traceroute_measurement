@@ -1,0 +1,22 @@
+   92.38.178.149   202422  0.0                       (Urayasu, Tokyo, JP, AS)                                                                                                     
+   92.38.178.1     202422  0.196                     (Urayasu, Tokyo, JP, AS) gw.gcore.lu                                                                                         
+   10.255.16.182   *       0.214                                          ***                                                                                                     
+   10.255.16.183   *       0.464                                          ***                                                                                                     
+╭─ 61.213.146.130  2914    1.298                     (Urayasu, Tokyo, JP, AS)                                                                                                     
+S (2914)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 129.250.2.51    2914    52.31                         (None, None, US, NA) ae-2.r26.tkokhk01.hk.bb.gin.ntt.net                                                                 
+S (2914, 6453)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 116.0.93.210    6453    52.042                        (None, None, SG, AS) *                                                                                                   
+   180.87.15.80    6453    241.965                       (None, None, SG, AS) *                                                                                                   
+╭─ 180.87.12.1     6453    243.599                  (Singapore, None, SG, AS) if-ae-2-2.tcore1.svw-singapore.as6453.net                                                           
+S (6453)  
+╰─ 195.219.174.10  6453    243.274   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) if-be-30-2.ecore1.emrs2-marseille.as6453.net                                                        
+╭─ 80.231.165.25   6453    243.791   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) if-bundle-2-2.qcore2.emrs2-marseille.as6453.net                                                     
+T (6453)  
+╰─ 195.219.87.214  6453    243.462         (Frankfurt am Main, Hesse, DE, EU) if-ae-50-2.tcore2.fnm-frankfurt.as6453.net                                                          
+╭─ 195.219.87.18   6453    244.371            (Frankfurt am Main, HE, DE, EU) if-ae-4-2.tcore1.fr0-frankfurt.as6453.net                                                           
+T (6453, 202422)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 146.185.219.73  202422  288.232    (Petaẖ Tiqva, Central District, IL, AS)                                                                                                     

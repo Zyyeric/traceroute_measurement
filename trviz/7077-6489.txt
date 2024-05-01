@@ -1,0 +1,23 @@
+   87.201.194.242  15802   0.0                            (Dubai, DU, AE, AS) *                                                                                                   
+╭─ 87.201.194.241  15802   1.957                          (Dubai, DU, AE, AS) *                                                                                                   
+S (15802, 6762)  asia-africa-europe-1-aae-1 ✓ || imewe ✓ || seamewe-5 ✓ || flag-europe-asia-fea ✓ || seamewe-4 ✓ || seamewe-3 ✓
+├  10.100.35.117   *       2.24                                           ***                                                                                                     
+├  10.100.129.22   *       3.09                                           ***                                                                                                     
+├  10.53.17.81     *       5.496                                          ***                                                                                                     
+├─ 195.22.197.54   6762    90.081                   (Palermo, Sicily, IT, EU) ae9.palermo3.pal.seabone.net                                                                        
+T (6762)  
+╰─ 195.22.196.137  6762    120.196            (Frankfurt am Main, HE, DE, EU) ae6.francoforte34.fra.seabone.net                                                                   
+   195.219.223.10  6453    128.215                       (Munich, BY, DE, EU) *                                                                                                   
+╭─ 5.23.30.16      6453    120.989            (Frankfurt am Main, HE, DE, EU) if-ae-9-2.tcore1.fnm-frankfurt.as6453.net                                                           
+T (6453)  
+╰─ 195.219.194.149 6453    120.507                    (Amsterdam, NH, NL, EU) if-ae-6-2.tcore1.av2-amsterdam.as6453.net                                                           
+╭─ 195.219.194.6   6453    125.994                    (Amsterdam, NH, NL, EU) if-ae-2-2.tcore2.av2-amsterdam.as6453.net                                                           
+S&T (6453)  
+├─ 80.231.131.160  6453    124.058                     (London, None, GB, EU) if-ae-14-2.tcore2.l78-london.as6453.net                                                             
+S (6453)  
+╰─ 80.231.131.66   6453    142.149                       (Mumbai, MH, IN, AS) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   115.114.12.186  4755    165.208                     (Delhi, Delhi, IN, AS) 115.114.12.186.static-delhi.vsnl.net.in                                                             
+   180.179.197.198 17439   164.829                       (None, None, IN, AS) *                                                                                                   
+   180.179.210.68  132420  314.219                       (None, None, IN, AS) 180-179-210-68.static.e2enetworks.in                                                                
+   216.48.178.84   132420  165.795             (Noida, Uttar Pradesh, IN, AS) e2e-95-84.ssdcloudindia.net                                                                         

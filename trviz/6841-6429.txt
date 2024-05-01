@@ -1,0 +1,19 @@
+   213.238.162.218 48292   0.0                   (Istanbul, Istanbul, TR, AS) tr-ist-as48292.anchors.atlas.ripe.net                                                               
+   213.238.162.217 48292   0.266                 (Ataşehir, Istanbul, TR, AS) tr-ist-as48292.anchors.atlas.ripe.net                                                               
+   ***             *       -inf                                           *** *                                                                                                   
+   10.235.234.40   *       1.343                                          ***                                                                                                     
+   195.175.203.85  9121    0.629                 (Istanbul, Istanbul, TR, AS) 195.175.203.85.static.turktelekom.com.tr                                                            
+   212.156.251.17  9121    0.728                 (Istanbul, Istanbul, TR, AS) 00-gayrettepe-sr14s-t2-2---00-itu-sr12e-t3-1.statik.turktelekom.com.tr                              
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 212.156.139.62  42926   13.142                      (Istanbul, 34, TR, AS) 308-buk-col-2---00-ebgp-gayrettepe-k.statik.turktelekom.com.tr                                      
+S&T (42926, 3356)  kafos ✘
+├─ 212.162.26.177  3356    36.613              (Bucharest, București, RO, EU) ae52.edge3.bucharest1.level3.net                                                                    
+T (3356)  
+╰─ 171.75.9.31     3356    43.082                    (Vienna, Vienna, AT, EU) ae1.16.edge4.vie1.neo.colt.net                                                                      
+╭─ 212.133.7.166   3356    41.594                    (Vienna, Vienna, AT, EU)                                                                                                     
+LHL (3356, 20965)  
+╰─ 62.40.98.146    20965   65.563                        (Athens, A1, GR, EU) ae1.mx1.ath2.gr.geant.net                                                                           
+   83.97.88.66     5408    66.456                        (Athens, A1, GR, EU) grnet-ias-grnet-gw.mx1.ath2.gr.geant.net                                                            
+   62.217.100.63   5408    62.276                        (None, None, GR, EU) eier-kolettir-AE.backbone.grnet.gr                                                                  
+   62.217.98.53    199399  62.512                        (None, None, GR, EU) grix-ADMIN.eier.access-link.grnet.gr                                                                
+   195.130.66.103  199399  62.242                    (Athens, Attica, GR, EU) gr-ath-as199399.anchors.atlas.ripe.net                                                              

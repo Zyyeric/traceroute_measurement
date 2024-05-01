@@ -1,0 +1,13 @@
+   63.218.212.242  3491    0.0               (El Segundo, California, US, NA) yomura.ge-0-0-0-10.br03.lax05.as3491.net                                                            
+   63.218.212.241  3491    0.738            (Los Angeles, California, US, NA) ge-0-0-0-10.br03.lax05.as3491.net                                                                   
+╭─ 63.223.43.198   3491    0.766                    (Los Angeles, CA, US, NA) Bundle-Ether4.br05.lax05.pccwbtn.net                                                                
+LHL (3491, 1299)  exa-north-and-south ✘ || atlantic-crossing-1-ac-1 ✓ || apollo ✓ || yellow ✓ || tata-tgn-atlantic ✓ || flag-atlantic-1-fa-1 ✓
+├─ 213.248.97.138  1299    0.603                      (Stockholm, AB, SE, EU) las-b22-link.telia.net                                                                              
+LHL (1299)  
+├─ 62.115.143.38   1299    0.833            (Los Angeles, California, US, NA) lax-b23-link.ip.twelve99.net                                                                        
+S (1299)  exa-north-and-south ✘ ↠ seamewe-5 ✓ || exa-north-and-south ✘ ↠ seamewe-3 ✓ || atlantic-crossing-1-ac-1 ✓ ↠ seamewe-5 ✓ || atlantic-crossing-1-ac-1 ✓ ↠ seamewe-3 ✓ || apollo © ↠ seamewe-5 ✓ || apollo © ↠ seamewe-3 ✓ || yellow ✓ ↠ seamewe-5 ✓ || yellow ✓ ↠ seamewe-3 ✓ || tata-tgn-atlantic ✓ ↠ seamewe-5 ✓ || tata-tgn-atlantic ✓ ↠ seamewe-3 ✓ || flag-atlantic-1-fa-1 © ↠ seamewe-5 ✓ || flag-atlantic-1-fa-1 © ↠ seamewe-3 ✓
+╰─ 62.115.143.245  1299    176.495             (Singapore, Singapore, SG, AS) snge-b4-link.ip.twelve99.net                                                                        
+   ***             *       -inf                                           *** *                                                                                                   
+   62.115.139.1    1299    176.225             (Singapore, Singapore, SG, AS) snge-b5-link.ip.twelve99.net                                                                        
+   62.115.148.77   1299    176.235             (Singapore, Singapore, SG, AS) wikimedia-ic-331928.ip.twelve99-cust.net                                                            
+   103.102.166.20  14907   177.016             (Singapore, Singapore, SG, AS) ripe-atlas-eqsin.wikimedia.org                                                                      

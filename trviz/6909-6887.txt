@@ -1,0 +1,19 @@
+   27.111.84.21    135132  0.0           (Cebu City, Central Visayas, PH, AS) ph-ceb-as135132.anchors.atlas.ripe.net                                                              
+   27.111.84.20    135132  2.271             (Baugo, Central Visayas, PH, AS) vlan509.core.ceb02.ds.network                                                                       
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 43.224.189.33   137074  2.594             (Baugo, Central Visayas, PH, AS) 43-224-189-33.static.rise.as                                                                        
+S (137074, 4637)  tata-tgn-intra-asia-tgn-ia ✘ || asia-america-gateway-aag-cable-system ✘
+├  10.255.64.28    *       30.141                                         ***                                                                                                     
+╰─ 210.57.80.17    4637    28.484              (Hong Kong, Hong Kong, HK, AS) unknown.telstraglobal.net                                                                           
+╭─ 202.84.153.25   4637    35.334    (Hong Kong, Central and Western, HK, AS)                                                                                                     
+S (4637)  asia-america-gateway-aag-cable-system 👍
+╰─ 202.84.140.2    4637    179.641             (San Jose, California, US, NA) i-10852.eqnx-core02.telstraglobal.net                                                               
+   202.84.247.17   4637    175.173             (San Jose, California, US, NA) i-92.eqnx03.telstraglobal.net                                                                       
+   206.223.116.196 63949   176.088                   (San Jose, CA, US, None) eqix-sv1.linode.com                                                                                 
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   45.79.110.82    63949   172.861              (Fremont, California, US, NA) li1209-82.members.linode.com                                                                        

@@ -1,0 +1,15 @@
+   5.180.57.81     56987   0.0           (Lyon, Auvergne-Rhône-Alpes, FR, EU) fr-lio-as56987.anchors.atlas.ripe.net                                                               
+   5.180.57.80     56987   0.185     (Saint-Fons, Auvergne-Rhône-Alpes, FR, EU) 80-57-180-5.rev.abaclouda.net                                                                       
+   5.180.58.70     56987   0.269     (Saint-Fons, Auvergne-Rhône-Alpes, FR, EU) 01-xe.bgp03.lyn.abaclouda.net                                                                       
+╭─ 5.180.58.72     56987   6.443               (Paris, Île-de-France, FR, EU) 01-xe.bgp05.par.abaclouda.net                                                                       
+T (56987, 6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.105.65.109  6939    25.219                         (Vienna, 9, AT, EU) 100ge14-1.core1.vie1.he.net                                                                         
+LHL (6939)  
+├─ 184.104.196.194 6939    33.266                        (Denver, CO, US, NA) port-channel1.core1.den3.he.net                                                                     
+LHL (6939)  
+╰─ 184.105.64.170  6939    44.896                        (Athens, A1, GR, EU) 100ge0-36.core1.ath1.he.net                                                                         
+   184.104.191.234 6939    44.519                    (Koropí, Attica, GR, EU) fast-telecom-p-c.e0-7.core1.ath1.he.net                                                             
+   ***             *       -inf                                           *** *                                                                                                   
+   185.14.96.225   211186  59.409             (Lamía, Central Greece, GR, EU) vlan4090.lamia.fast.net.gr                                                                          
+   185.14.96.232   211186  58.512             (Lamía, Central Greece, GR, EU)                                                                                                     

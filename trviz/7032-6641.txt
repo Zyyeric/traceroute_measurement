@@ -1,0 +1,12 @@
+   92.38.135.131   202422  0.0                         (Seoul, Seoul, KR, AS)                                                                                                     
+   92.38.135.2     202422  0.352                       (Seoul, Seoul, KR, AS) vrrp.gcore.lu                                                                                       
+   10.255.17.209   *       0.547                                          ***                                                                                                     
+   10.255.17.213   *       1.013                                          ***                                                                                                     
+   10.255.17.147   *       0.723                                          ***                                                                                                     
+╭─ 113.29.52.41    3549    1.055                       (Seoul, Seoul, KR, AS)                                                                                                     
+S (3549, 3356)  apcn-2 ✘ || asia-pacific-gateway-apg ✘ || flag-north-asia-loopreach-north-asia-loop ✘ || eac-c2c ✘ || new-cross-pacific-ncp-cable-system ✘ || korea-japan-cable-network-kjcn ✘ || seamewe-3 ✘ || flag-europe-asia-fea ✘ || trans-pacific-express-tpe-cable-system ✘
+╰─ 4.69.217.14     3356    31.761                         (Tokyo, 13, JP, AS) ae1.3505.edge2.Tokyo4.level3.net                                                                    
+╭─ 4.68.70.86      3491    31.611                         (Tokyo, 13, JP, AS) PCCW-level3-Tokyo4.Level3.net                                                                       
+S (3491)  eac-c2c ✓ || jupiter 👍 || southeast-asia-japan-cable-sjc ✓ || asia-submarine-cable-express-asecahaya-malaysia ✓ || seamewe-3 👍
+╰─ 63.218.122.178  3491    81.872                         (Manila, 0, PH, AS) TenGE0-0-2-1.br02.mnl01.pccwbtn.net                                                                 
+   63.222.187.5    3491    81.301              (Manila, Metro Manila, PH, AS)                                                                                                     

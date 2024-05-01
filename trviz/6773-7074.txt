@@ -1,0 +1,16 @@
+   103.143.136.43  63781   0.0                         (Tokyo, Tokyo, JP, AS) koba-103-143-136-43.rev.kobayashi.ad.jp                                                             
+   103.143.136.62  63781   2.162                       (Tokyo, Tokyo, JP, AS) koba-103-143-136-62.rev.kobayashi.ad.jp                                                             
+   103.143.136.25  63781   0.233                       (Tokyo, Tokyo, JP, AS) bgprt1-ospfrt1.kobayashi.ad.jp                                                                      
+   103.41.60.164   10010   0.405                       (Tokyo, Tokyo, JP, AS) bgp3.tokyo-ix.v4.open.ad.jp                                                                         
+   150.99.184.33   2907    1.408                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+   150.99.10.187   2907    1.357                         (None, None, JP, AS) *                                                                                                   
+   202.232.6.17    2497    2.317                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+   58.138.99.130   2497    3.955                       (Tokyo, Tokyo, JP, AS) tky009bb10.iij.net                                                                                  
+╭─ 58.138.114.130  2497    1.887                       (Tokyo, Tokyo, JP, AS) tky009ix55.iij.net                                                                                  
+S (2497, 3491)  eac-c2c ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 63.223.193.193  3491    46.279                   (Hong Kong, None, HK, AS) TenG0-0-0-1.dcbr01.hkg39.pccwbtn.net                                                                
+   63.222.7.46     3491    45.529              (Hong Kong, Hong Kong, HK, AS) 63-222-7-46.static.pccwglobal.net                                                                   

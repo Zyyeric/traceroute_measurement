@@ -1,0 +1,16 @@
+   180.211.88.22   45725   0.0                     (Jakarta, Jakarta, ID, AS) id-jkt-as45725.anchors.atlas.ripe.net                                                               
+   180.211.88.21   45725   0.584                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+   43.230.153.89   *       0.582                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+╭─ 111.92.161.4    55655   0.791                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+S (55655, 6939)  
+├  10.110.1.0      *       12.345                                         ***                                                                                                     
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.196.194 6939    176.927                       (Denver, CO, US, NA) port-channel1.core1.den3.he.net                                                                     
+LHL (6939)  
+╰─ 184.105.64.170  6939    187.423                       (Athens, A1, GR, EU) 100ge0-36.core1.ath1.he.net                                                                         
+   176.126.38.48   *       186.549              (Metamórfosi, Attica, GR, EU) fastpath.gr-ix.gr                                                                                   
+   185.201.254.31  56457   187.929               (Áno Liósia, Attica, GR, EU) be3503.ef2.ath01.fastpath.gr                                                                        
+   185.201.254.37  56457   187.196               (Áno Liósia, Attica, GR, EU) te1-24.sp0.ath01.fastpath.gr                                                                        
+   176.119.210.244 56457   187.084                   (Athens, Attica, GR, EU)                                                                                                     

@@ -1,0 +1,29 @@
+   185.39.208.23   199993  0.0                       (Lisbon, Lisbon, PT, EU) atlasancora01.wan.dns.pt                                                                            
+   185.39.208.60   199993  0.414                     (Lisbon, Lisbon, PT, EU)                                                                                                     
+   194.210.4.137   1930    0.895                     (Lisbon, Lisbon, PT, EU) router63.lisboa.fccn.pt                                                                             
+   194.210.6.212   1930    0.906                     (Lisbon, Lisbon, PT, EU)                                                                                                     
+   194.210.6.203   1930    1.034                     (Lisbon, Lisbon, PT, EU)                                                                                                     
+   194.210.6.202   1930    6.655                         (Lisbon, 11, PT, EU) Router60.Lisboa.fccn.pt                                                                             
+   193.136.1.11    1930    4.548                       (Porto, Porto, PT, EU) router40.porto.fccn.pt                                                                              
+   194.210.7.203   1930    4.994                          (Porto, 13, PT, EU) Router2.Porto.fccn.pt                                                                               
+╭─ 83.97.88.44     21320   4.543                     (Lisbon, Lisbon, PT, EU) fccn-ias-geant-gw.rt1.por.pt.geant.net                                                              
+S&T (21320, 20965)  west-africa-cable-system-wacs ✓ || africa-coast-to-europe-ace ✓ || tata-tgn-western-europe ✘ || sat-3wasc ✓ || seamewe-3 ✓
+├─ 62.40.98.220    20965   43.153                      (Bilbao, None, ES, EU) ae2.rt1.bil.es.geant.net                                                                            
+S&T (20965)  
+├─ 62.40.98.223    20965   43.344                        (Paris, IDF, FR, EU) ae4.mx1.par.fr.geant.net                                                                            
+T (20965)  
+╰─ 62.40.98.238    20965   45.101                    (Genève, Geneva, CH, EU) ae7.mx1.gen.ch.geant.net                                                                            
+╭─ 62.40.98.182    20965   44.819                      (Geneva, None, CH, EU) ae5.mx1.gen.ch.geant.net                                                                            
+T (20965, 3356)  
+╰─ 62.67.72.69     3356    44.832          (Frankfurt am Main, Hesse, DE, EU) lag-117.ear4.frankfurt1.level3.net                                                                  
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 213.254.196.1   3257    42.882             (Frankfurt am Main, HE, DE, EU) ae3.cr2-fra6.ip4.gtt.net                                                                            
+T (3257)  
+├─ 89.149.143.174  3257    61.862                        (Paris, IDF, FR, EU) ae8.lr2-par11.ip4.gtt.net                                                                           
+S&T (3257)  
+╰─ 212.222.90.22   3257    48.255               (Manchester, England, GB, EU) ip4.gtt.net                                                                                         
+   80.82.243.153   28792   50.43                        (Witney, ENG, GB, EU) te0-3-0.lon-core-02.ip.pblin.net                                                                    
+   80.82.243.141   28792   48.725                       (Witney, ENG, GB, EU) gi-2-1-0.lon-core-01.ip.pblin.net                                                                   
+   80.82.243.120   28792   50.909                       (Witney, ENG, GB, EU) oxf-core-02.ip.pblin.net                                                                            
+   80.82.243.127   28792   51.128                       (Witney, ENG, GB, EU) oxf-access-10.ip.pblin.net                                                                          
+   80.82.241.134   28792   51.349                   (London, England, GB, EU) 134-241-82-80.in-addr.pblin.net                                                                     

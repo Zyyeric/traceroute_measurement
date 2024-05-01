@@ -1,0 +1,16 @@
+   5.188.238.222   202422  0.0                 (São Paulo, São Paulo, BR, SA)                                                                                                     
+╭─ 5.188.238.3     202422  0.164               (São Paulo, São Paulo, BR, SA) vrrp.gcore.lu                                                                                       
+S (202422, 6057)  
+├  10.255.22.181   *       0.217                                          ***                                                                                                     
+├  10.255.22.187   *       0.493                                          ***                                                                                                     
+├─ 64.191.233.61   6057    0.621                         (None, None, US, NA) *                                                                                                   
+S (6057)  
+├─ 179.31.62.156   6057    24.955              (São Paulo, São Paulo, BR, SA) crsan2.gru-ae1006.antel.net.uy                                                                      
+S (6057)  tannat 👍
+╰─ 179.31.62.40    6057    23.487                        (None, None, UY, SA) ibe2mln1-be5.antel.net.uy                                                                           
+   179.31.59.225   6057    23.987                        (None, None, UY, SA) cbb4mlg1-be29-2001.antel.net.uy                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   190.64.221.142  6057    28.375                        (None, None, UY, SA) r190-64-221-142.ir-static.adinet.com.uy                                                             
+   190.64.221.143  6057    27.163                        (None, None, UY, SA) r190-64-221-143.ir-static.adinet.com.uy                                                             
+   190.64.201.9    6057    26.736    (Montevideo, Montevideo Department, UY, SA) r190-64-201-9.su-static.adinet.com.uy                                                               

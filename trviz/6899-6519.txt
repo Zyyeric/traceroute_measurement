@@ -1,0 +1,17 @@
+   46.227.202.97   41495   0.0                  (Manchester, England, GB, EU) uk-mnc-as41495.anchors.atlas.ripe.net                                                               
+   46.227.207.255  41495   0.81                     (London, England, GB, EU) anycast.gateway.faelix.net                                                                          
+   46.227.206.41   41495   0.749                (Manchester, England, GB, EU) host-46-227-206-41.rev.as41495.net                                                                  
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   46.227.205.77   41495   9.65                         (London, ENG, GB, EU) v1404.eth7.gunn.x.faelix.net                                                                        
+╭─ 87.245.209.129  9002    8.138                    (London, England, GB, EU)                                                                                                     
+S&T (9002)  circe-north ✓ || ulysses-2 ✘ || scylla ✓ || zeus ✓ || concerto ✘ || farland-north ✓
+╰─ 87.245.234.98   9002    13.36                      (Amsterdam, NH, NL, EU) ae2-9.RT.TC2.AMS.NL.retn.net                                                                        
+╭─ 213.244.164.1   3356    13.474                     (Amsterdam, NH, NL, EU) ae69.edge7.Amsterdam1.Level3.net                                                                    
+S (3356)  atlantic-crossing-1-ac-1 👍
+╰─ 4.69.159.254    3356    87.945                        (Boston, MA, US, NA) ae1.11.bear2.Boston1.level3.net                                                                     
+   4.53.50.110     10961   88.466                        (Boston, MA, US, NA) BOSTON-UNIV.bear2.Boston1.Level3.net                                                                
+   192.5.208.189   10961   88.124                        (None, None, US, NA) cumm111-tunnel-gw01-po1925-comm595-bdr-gw05-po1925.bu.edu                                           
+   128.197.255.155 111     87.292             (Boston, Massachusetts, US, NA)                                                                                                     
+   204.8.154.50    10961   87.633             (Boston, Massachusetts, US, NA) cs-atlas.bu.edu                                                                                     

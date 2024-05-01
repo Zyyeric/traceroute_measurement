@@ -1,0 +1,14 @@
+   103.143.136.43  63781   0.0                         (Tokyo, Tokyo, JP, AS) koba-103-143-136-43.rev.kobayashi.ad.jp                                                             
+   103.143.136.62  63781   2.426                       (Tokyo, Tokyo, JP, AS) koba-103-143-136-62.rev.kobayashi.ad.jp                                                             
+   103.143.136.29  63781   0.394                       (Tokyo, Tokyo, JP, AS) bgprt2-ospfrt1.kobayashi.ad.jp                                                                      
+   103.143.136.17  63781   0.338                       (Tokyo, Tokyo, JP, AS) koba-103-143-136-17.rev.kobayashi.ad.jp                                                             
+   103.41.60.164   10010   0.434                       (Tokyo, Tokyo, JP, AS) bgp3.tokyo-ix.v4.open.ad.jp                                                                         
+   150.99.184.33   2907    1.928                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+   150.99.10.187   2907    1.538                         (None, None, JP, AS) *                                                                                                   
+   202.232.6.17    2497    1.98                        (Tokyo, Tokyo, JP, AS)                                                                                                     
+   58.138.99.130   2497    3.66                        (Tokyo, Tokyo, JP, AS) tky009bb10.iij.net                                                                                  
+╭─ 58.138.114.134  2497    1.822                       (Tokyo, Tokyo, JP, AS) tky009ix55.iij.net                                                                                  
+S (2497, 3491)  apcn-2 ✓ || eac-c2c ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 63.218.122.178  3491    66.818                         (Manila, 0, PH, AS) TenGE0-0-2-1.br02.mnl01.pccwbtn.net                                                                 
+   63.222.187.5    3491    69.187              (Manila, Metro Manila, PH, AS)                                                                                                     

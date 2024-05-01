@@ -1,0 +1,12 @@
+   180.211.88.22   45725   0.0                     (Jakarta, Jakarta, ID, AS) id-jkt-as45725.anchors.atlas.ripe.net                                                               
+   180.211.88.21   45725   0.408                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+   43.230.153.89   *       0.456                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+╭─ 111.92.161.4    55655   0.774                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+S&T (55655, 9002)  australia-singapore-cable-asc ✘ || matrix-cable-system ✘ || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || indonesia-global-gateway-igg-system ✘ || seamewe-3 ✘ || indigo-west ✘ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || jasuka ✘ || jakabare ✘
+├  10.110.1.0      *       12.227                                         ***                                                                                                     
+├─ 87.245.238.250  9002    12.414                      (Singapore, 4, SG, AS) ae0-302.RT1.EQX.SIN.SG.retn.net                                                                     
+S (9002, 7642)  
+├─ 27.111.228.167  7642    54.628                    (Seogwipo, None, KR, AS) 7642.sgw.equinix.com                                                                                
+LHL (7642)  
+╰─ 202.1.205.242   7642    56.274                        (None, None, MV, AS) xe-1-0-0-1.rt.dhivehinet.net.mv                                                                     
+   123.176.1.4     7642    56.442                 (Male, Kaafu Atoll, MV, AS)                                                                                                     

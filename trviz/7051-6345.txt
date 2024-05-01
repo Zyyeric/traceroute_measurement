@@ -1,0 +1,17 @@
+   103.102.166.20  14907   0.0                 (Singapore, Singapore, SG, AS) ripe-atlas-eqsin.wikimedia.org                                                                      
+╭─ 103.102.166.19  14907   0.44                (Singapore, Singapore, SG, AS) ae1-530.cr2-eqsin.wikimedia.org                                                                     
+S (14907, 6939)  
+├─ 27.111.228.81   6939    32.467                    (Seogwipo, None, KR, AS) 6939.sgw.equinix.com                                                                                
+S (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.105.80.13   6939    143.781                        (Milan, 25, IT, EU) 100ge7-2.core1.mil2.he.net                                                                          
+LHL (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.105.81.141  6939    172.238                      (Ashburn, VA, US, NA) port-channel10.core3.ash1.he.net                                                                    
+S (6939, 56655)  
+╰─ 185.125.170.252 56655   173.651                       (Oslo, Oslo, NO, EU)                                                                                                     
+   185.125.170.47  56655   172.862                       (Oslo, Oslo, NO, EU)                                                                                                     
+   185.14.97.165   56655   2862.777                      (Oslo, Oslo, NO, EU)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   185.14.97.165   56655   2862.777                      (Oslo, Oslo, NO, EU)                                                                                                     

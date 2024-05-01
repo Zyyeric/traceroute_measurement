@@ -1,0 +1,13 @@
+   77.214.52.102   9158    0.0               (Aalborg, North Denmark, DK, EU)                                                                                                     
+╭─ 77.214.52.101   9158    0.731                          (Farum, 84, DK, EU) *                                                                                                   
+T (9158, 3356)  globalconnect-3-gc3 ✘
+╰─ 62.67.27.166    3356    3.396      (Flensburg, Schleswig-Holstein, DE, EU) telenor-as.edge4.hamburg1.level3.net                                                                
+╭─ 62.67.27.165    3356    6.857                   (Hamburg, Hamburg, DE, EU) et-0-0-24.edge4.hamburg1.level3.net                                                                 
+T (3356)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 217.163.129.170 3356    19.258                   (London, England, GB, EU) london-data.ear2.london1.level3.net                                                                 
+   176.74.23.251   41000   19.147                 (Shadwell, England, GB, EU) 2.vlan.lon1-csw1.uk.as41000.net                                                                     
+   176.74.23.211   41000   19.75                    (London, England, GB, EU) 0.xe-0-0-23.lon2-csw1.uk.as41000.net                                                                
+   176.74.23.214   41000   24.82                (Manchester, England, GB, EU) 0.xe-0-0-23.man1-csw1.uk.as41000.net                                                                
+   176.74.23.223   41000   25.581               (Manchester, England, GB, EU) 0.ae1.man1-esw1.uk.as41000.net                                                                      
+   176.74.17.75    41000   24.746               (Manchester, England, GB, EU) uk-mnc-as41000.anchors.atlas.ripe.net                                                               

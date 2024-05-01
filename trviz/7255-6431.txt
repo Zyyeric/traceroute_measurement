@@ -1,0 +1,16 @@
+   109.171.136.4   50999   0.0                 (Jeddah, Mecca Region, SA, AS)                                                                                                     
+╭─ 109.171.136.2   50999   0.627               (Jeddah, Mecca Region, SA, AS)                                                                                                     
+LHL (50999, 3356)  seamewe-5 ✘ || seamewe-4 ✘ || asia-africa-europe-1-aae-1 ✓ || peace-cable ✘ || imewe ✘ || seamewe-3 ✓
+├  10.126.145.197  *       0.598                                          ***                                                                                                     
+├  192.168.13.14   *       1.12                                           ***                                                                                                     
+╰─ 213.19.197.49   3356    65.098          (Amsterdam, North Holland, NL, EU) lag-140.ear3.amsterdam1.level3.net                                                                  
+   213.19.196.242  20473   66.073                     (Amsterdam, NH, NL, EU) CHOOPA-LLC.ear3.Amsterdam1.Level3.net                                                               
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 209.250.248.226 20473   66.314            (Halfweg, North Holland, NL, EU) router01-vul-ams.as151332.net                                                                       
+LHL (20473, 63949)  seamewe-4 ✓ || seamewe-3 ✓ || seamewe-5 ✓
+├─ 172.104.190.118 63949   173.073             (Singapore, Singapore, SG, AS) router01-akm-sin.as151332.net                                                                       
+S (63949, 7545)  australia-singapore-cable-asc ✓ || indigo-west ✓ || seamewe-3 ✓
+╰─ 203.192.83.254  7545    348.509              (Melbourne, Victoria, AU, OC) ip-254-83-192-203.static.pipenetworks.com                                                           
+   103.179.37.157  151332  349.037              (Melbourne, Victoria, AU, OC)                                                                                                     

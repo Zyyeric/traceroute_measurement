@@ -1,0 +1,13 @@
+   103.133.238.187 132808  0.0                 (Brisbane, Queensland, AU, OC) iptelco.com.au                                                                                      
+   103.133.238.130 132808  0.289               (Brisbane, Queensland, AU, OC) vmnet-hsrp66.bdr01-bne-br1.iptelco.net.au                                                           
+   103.133.238.14  132808  0.446               (Brisbane, Queensland, AU, OC) te0-0-0-402.bdr01-bne-br1.iptelco.net.au                                                            
+   184.104.197.182 6939    13.668                     (Brisbane, QLD, AU, OC) port-channel1.core1.bne1.he.net                                                                     
+╭─ 103.26.68.236   *       13.273           (Sydney, New South Wales, AU, OC) as6939.sydney.megaport.com                                                                          
+S (, 6939)  tasman-global-access-tga-cable ✘ || southern-cross-cable-network-sccn ✘ || hawaiki ✘
+╰─ 184.104.195.150 6939    46.576                     (Auckland, AUK, NZ, OC) 100ge0-36.core1.akl2.he.net                                                                         
+   216.218.224.39  6939    41.083                (Auckland, Auckland, NZ, OC) two-degrees-mobile-limited.e0-33.core1.akl2.he.net                                                  
+   10.101.7.105    *       41.822                                         ***                                                                                                     
+   131.203.72.166  9790    41.474                (Auckland, Auckland, NZ, OC) default-rdns.vocus.co.nz                                                                            
+   131.203.72.165  9790    41.568                (Auckland, Auckland, NZ, OC) default-rdns.vocus.co.nz                                                                            
+   103.242.68.65   133075  41.412                   (Wellington, WGN, NZ, OC) *                                                                                                   
+   103.242.68.78   133075  41.626                (Auckland, Auckland, NZ, OC) 103-242-68-78.broadband.telesmart.co.nz                                                             

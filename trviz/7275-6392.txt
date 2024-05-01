@@ -1,0 +1,12 @@
+   37.252.245.94   42473   0.0                         (Dubai, Dubai, AE, AS)                                                                                                     
+   37.252.245.93   42473   0.509                       (Dubai, Dubai, AE, AS)                                                                                                     
+╭─ 184.105.64.198  6939    111.186                        (Dubai, DU, AE, AS) 10ge4-11.core1.dxb1.he.net                                                                          
+S (6939)  
+╰─ 184.104.199.182 6939    161.003             (Singapore, Singapore, SG, AS) port-channel3.core3.sin1.he.net                                                                     
+╭─ 74.82.49.214    6939    77.01               (Singapore, Singapore, SG, AS) pt-jala-lintas-media.e0-3.switch5.sin1.he.net                                                       
+S&T (6939, 133840)  
+╰─ 103.66.70.104   133840  93.266                  (Jakarta, Jakarta, ID, AS)                                                                                                     
+   121.100.0.45    38158   89.732                  (Jakarta, Jakarta, ID, AS)                                                                                                     
+   43.230.152.226  *       90.86                   (Jakarta, Jakarta, ID, AS) global-in.kings.id                                                                                  
+   43.230.153.90   *       89.605                  (Jakarta, Jakarta, ID, AS)                                                                                                     
+   180.211.88.22   45725   92.303                  (Jakarta, Jakarta, ID, AS) id-jkt-as45725.anchors.atlas.ripe.net                                                               

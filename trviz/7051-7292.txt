@@ -1,0 +1,18 @@
+   89.213.179.65   32167   0.0                 (Hong Kong, Hong Kong, HK, AS) 89-213-179-65.ip.lshiyusercontent.com                                                               
+   89.213.179.64   32167   0.084             (Kadoorie, Kowloon City, HK, AS) 89-213-179-64.ip.lshiyusercontent.com                                                               
+   103.203.243.10  955     0.21              (Kadoorie, Kowloon City, HK, AS) port-channe17.switch1.hkg1.bb.lshiy.net                                                             
+╭─ 184.104.194.90  6939    6.13                (Hong Kong, Hong Kong, HK, AS) port-channel5.core2.hkg2.he.net                                                                     
+S (6939)  asia-africa-europe-1-aae-1 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.194.200 6939    172.616   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) port-channel15.core4.mrs1.he.net                                                                    
+S (6939)  apollo ✓ || flag-atlantic-1-fa-1 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.105.81.141  6939    253.089                      (Ashburn, VA, US, NA) port-channel10.core3.ash1.he.net                                                                    
+S (6939, 56655)  
+╰─ 185.125.170.251 56655   254.516                       (Oslo, Oslo, NO, EU)                                                                                                     
+   185.125.170.252 56655   254.497                       (Oslo, Oslo, NO, EU)                                                                                                     
+   185.125.170.47  56655   250.036                       (Oslo, Oslo, NO, EU)                                                                                                     
+   185.14.97.165   56655   1949.371                      (Oslo, Oslo, NO, EU)                                                                                                     
+   185.14.97.165   56655   1949.371                      (Oslo, Oslo, NO, EU)                                                                                                     

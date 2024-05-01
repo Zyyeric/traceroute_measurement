@@ -1,0 +1,15 @@
+   141.193.21.100  46997   0.0                  (Seattle, Washington, US, NA) us-sea-as46997.anchors.atlas.ripe.net                                                               
+   141.193.21.97   46997   0.227               (Riverton, Washington, US, NA) r-north-america.iov.nat.moe                                                                         
+   202.5.31.217    201106  0.573               (Riverton, Washington, US, NA)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   184.104.193.25  6939    19.592                    (Pleasanton, CA, US, NA) 100ge5-2.core1.pao1.he.net                                                                          
+   184.104.195.113 6939    20.217                      (San Jose, CA, US, NA) 100ge14-2.core1.sjc1.he.net                                                                         
+   64.71.184.46    4826    19.502                      (San Jose, CA, US, NA) vocus.gigabitethernet2-13.core1.sjc1.he.net                                                         
+╭─ 114.31.199.35   4826    171.783                     (San Jose, CA, US, NA) be101.bdr03.lax01.ca.us.vocus.network                                                               
+S (4826)  
+├─ 114.31.199.75   4826    171.97                     (Auckland, AUK, NZ, OC) be200.bdr01.akl05.akl.nz.vocus.network                                                              
+S (4826)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 114.31.192.71   4826    171.897          (Sydney, New South Wales, AU, OC) be1.bdr02.syd11.nsw.vocus.network                                                                   
+   114.31.201.91   4826    171.687          (Sydney, New South Wales, AU, OC) 91.201.31.114.core.vocus.network                                                                    

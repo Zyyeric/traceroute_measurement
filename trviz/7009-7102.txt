@@ -1,0 +1,16 @@
+   182.161.73.41   55569   0.0                 (Singapore, Singapore, SG, AS)                                                                                                     
+   182.161.73.40   55569   0.169               (Singapore, Singapore, SG, AS)                                                                                                     
+   100.66.0.44     *       0.752                                          ***                                                                                                     
+   100.66.0.45     *       0.787                                          ***                                                                                                     
+   202.127.73.170  4637    1.74                (Singapore, Singapore, SG, AS) unknown.telstraglobal.net                                                                           
+   202.84.219.174  4637    3.068               (Singapore, Singapore, SG, AS) i-92.sgcn-core01.telstraglobal.net                                                                  
+   202.84.219.174  4637    3.068               (Singapore, Singapore, SG, AS) i-92.sgcn-core01.telstraglobal.net                                                                  
+   202.84.224.197  4637    2.072               (Singapore, Singapore, SG, AS) i-91.istt04.telstraglobal.net                                                                       
+╭─ 67.199.139.109  3257    2.667                       (Singapore, 4, SG, AS) ae10.cr4-sin1.ip4.gtt.net                                                                           
+S (3257)  seamewe-3 ✓
+├─ 89.149.187.109  3257    230.713                      (London, ENG, GB, EU) ae15.cr11-lon1.ip4.gtt.net                                                                          
+S&T (3257, 8895)  circe-north ✓ || ulysses-2 ✘ || scylla © || zeus ✓ || atlantic-crossing-1-ac-1 ✓ || concerto ✘ || farland-north ✘
+├─ 154.14.64.198   8895    308.921                    (Amsterdam, NH, NL, EU) ip4.gtt.net                                                                                         
+LHL (8895, 208520)  falcon ✘ || tata-tgn-gulf ✓ || gulf-bridge-international-cable-system-gbicsmiddle-east-north-africa-mena-cable-system ✘ || seamewe-4 ✓ || seamewe-3 ✓ || asia-africa-europe-1-aae-1 ✓ || flag-europe-asia-fea ✘ || europe-india-gateway-eig ✓ || imewe ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 45.94.14.204    208520  308.76             (Riyadh, Riyadh Region, SA, AS)                                                                                                     

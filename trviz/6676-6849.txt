@@ -1,0 +1,8 @@
+   203.119.111.139 4608    0.0                 (Brisbane, Queensland, AU, OC) anchor.apnic.net                                                                                    
+   203.119.111.130 4608    0.864               (Brisbane, Queensland, AU, OC) vl-1705.nxcs1.hosted.au.apnic.net                                                                   
+╭─ 203.119.104.25  4608    0.522                      (Brisbane, QLD, AU, OC) te-0-1-4.nxgw2.bne.apnic.net                                                                        
+S (4608, 24482)  seamewe-3 ✓
+├─ 27.111.228.159  24482   104.813                   (Seogwipo, None, KR, AS) 24482.sgw.equinix.com                                                                               
+S (24482)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 203.175.175.206 24482   105.268             (Singapore, Singapore, SG, AS)                                                                                                     

@@ -1,0 +1,21 @@
+   5.199.167.27    216444  0.0                 (Singapore, Singapore, SG, AS)                                                                                                     
+   5.199.167.25    216444  0.13                (Singapore, Singapore, SG, AS)                                                                                                     
+   8.245.2.161     3356    1.65                (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 4.68.62.130     2914    1.648                    (Singapore, None, SG, AS) NTT-level3-Singapore3.Level3.net                                                                    
+S (2914)  asia-america-gateway-aag-cable-system ©
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 129.250.7.9     2914    158.562                       (None, None, US, NA) ae-7.r20.mlanit02.it.bb.gin.ntt.net                                                                 
+╭─ 129.250.3.157   2914    157.638                       (None, None, US, NA) ae-0.r21.mlanit02.it.bb.gin.ntt.net                                                                 
+S (2914)  
+├─ 129.250.2.77    2914    163.808                       (None, None, GB, EU) ae-18.r00.mrslfr01.fr.bb.gin.ntt.net                                                                
+S&T (2914, 30844)  
+╰─ 185.84.18.82    30844   170.587                  (Marseille, None, FR, EU) ntt.teng0-0-0-2.lfr-pe1-mrs.liquidtelecom.net                                                       
+╭─ 5.11.13.111     30844   171.918   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) te0-0-0-21.lfr-p1-mrs.liquidtelecom.com                                                             
+S&T (30844)  
+├─ 5.11.10.255     30844   281.321                       (None, None, GB, EU) xe-0-1-3.ldj-pe1-jib.liquidtelecom.net                                                              
+LHL (30844)  
+╰─ 197.155.95.131  30844   279.767          (Nairobi, Nairobi County, KE, AF) xe-0-0-1.ltz-p1-dar.liquidtelecom.net                                                               
+╭─ 197.155.94.195  30844   279.7                        (Nairobi, 30, KE, AF) xe-0-0-4.ltz-pe1-rah.liquidtelecom.net                                                              
+S&T (30844)  
+╰─ 41.175.46.58    30844   280.698                       (None, None, TZ, AF) *                                                                                                   
+   196.49.5.98     327844  281.064   (Dar es Salaam, Dar es Salaam Region, TZ, AF)                                                                                                     

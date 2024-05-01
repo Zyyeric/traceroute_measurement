@@ -1,0 +1,23 @@
+   197.239.73.59   37577   0.0                  (Ouagadougou, Centre, BF, AF)                                                                                                     
+   197.239.73.57   37577   0.783                (Ouagadougou, Centre, BF, AF)                                                                                                     
+   165.16.221.42   37721   1.025                         (None, None, BF, AF) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   102.67.97.181   37721   1.027                (Ouagadougou, Centre, BF, AF) ce5-355.bb2.oua2.vts.bf                                                                             
+   102.67.97.41    37721   3.194                   (Ouagadougou, KAD, BF, AF) et-0-0-1-2003.bb1.oua2.vts.bf                                                                       
+   102.67.96.224   37721   16.924               (Ouagadougou, Centre, BF, AF) po48-2048.bb2.acc1.vts.bf                                                                           
+   102.67.97.101   37721   27.391               (Ouagadougou, Centre, BF, AF) po52-2053.bb2.los1.vts.bf                                                                           
+   102.67.97.223   37721   25.99                (Ouagadougou, Centre, BF, AF) po29-2029.bb2.los2.vts.bf                                                                           
+╭─ 102.67.97.87    37721   26.121               (Ouagadougou, Centre, BF, AF)                                                                                                     
+LHL (37721, 6939)  
+├─ 216.66.89.4     6939    28.481                      (Lagos, Lagos, NG, AF) e0-7.core1.los1.he.net                                                                              
+S&T (6939)  
+├─ 184.104.188.93  6939    84.338           (Cape Town, Western Cape, ZA, AF) 10ge0-24.core1.cpt1.he.net                                                                          
+LHL (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.196.194 6939    244.271                       (Denver, CO, US, NA) port-channel1.core1.den3.he.net                                                                     
+LHL (6939)  
+╰─ 184.105.64.170  6939    254.126                       (Athens, A1, GR, EU) 100ge0-36.core1.ath1.he.net                                                                         
+   176.126.38.123  *       257.717               (Áno Liósia, Attica, GR, EU)                                                                                                     
+   195.130.66.103  199399  256.453                   (Athens, Attica, GR, EU) gr-ath-as199399.anchors.atlas.ripe.net                                                              

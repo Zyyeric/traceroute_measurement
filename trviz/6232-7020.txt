@@ -1,0 +1,18 @@
+   130.193.166.22  21277   0.0                         (Erbil, Arbīl, IQ, AS)                                                                                                     
+╭─ 130.193.166.21  21277   0.291                       (Erbil, Arbīl, IQ, AS)                                                                                                     
+LHL (21277, 13335)  seamewe-3 ✓
+├─ 5.23.0.73       13335   0.748                      (Algeciras, AN, ES, EU) *                                                                                                   
+S (13335, 21277)  
+├─ 5.23.0.72       21277   28.714                      (Istanbul, 34, TR, AS) ix-ae-13-0.tcore1.it5-istanbul.as6453.net                                                           
+LHL (21277)  
+╰─ 195.219.156.21  21277   76.901             (Frankfurt am Main, HE, DE, EU) if-ae-8-2.tcore1.fnm-frankfurt.as6453.net                                                           
+╭─ 195.219.156.133 6453    78.356             (Frankfurt am Main, HE, DE, EU) if-ae-12-60.tcore2.fnm-frankfurt.as6453.net                                                         
+T (6453)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 195.219.187.3   6453    76.269    (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) if-be-34-2.ecore2.emrs2-marseille.as6453.net                                                        
+LHL (6453, 42961)  
+├─ 151.248.98.137  42961   188.645                       (None, None, BH, AS) *                                                                                                   
+S (42961)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 212.43.17.42    42961   186.076     (Al Farwānīyah, Al Farwaniyah, KW, AS)                                                                                                     

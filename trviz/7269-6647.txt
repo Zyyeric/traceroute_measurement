@@ -1,0 +1,18 @@
+   5.62.127.14     199610  0.0                      (London, England, GB, EU)                                                                                                     
+╭─ 5.62.127.1      199610  0.593                    (London, England, GB, EU)                                                                                                     
+T (199610)  
+├─ 46.251.228.201  199610  1.971       (Köln, North Rhine-Westphalia, DE, EU)                                                                                                     
+T (199610, 2914)  
+├─ 157.238.226.4   2914    2.376                    (London, England, GB, EU) ae-13.a02.londen12.uk.bb.gin.ntt.net                                                                
+S (2914)  
+╰─ 129.250.3.212   2914    4.708                         (None, None, US, NA) ae-0.r20.londen12.uk.bb.gin.ntt.net                                                                 
+╭─ 129.250.3.249   2914    2.27                          (None, None, US, NA) ae-13.a03.londen12.uk.bb.gin.ntt.net                                                                
+S (2914, 6453)  
+╰─ 195.219.23.72   6453    7.579                       (London, None, GB, EU) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 80.231.131.117  6453    7.147                       (London, None, GB, EU) if-ae-15-2.tcore2.l78-london.as6453.net                                                             
+S (6453)  
+╰─ 80.231.131.66   6453    136.175                       (Mumbai, MH, IN, AS) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   121.241.90.58   45117   148.267                    (Ahmedabad, GJ, IN, AS) 121.241.90.58.static-ahmedabad.vsnl.net.in                                                          
+   116.206.155.229 45117   143.937               (Ahmedabad, Gujarat, IN, AS)                                                                                                     

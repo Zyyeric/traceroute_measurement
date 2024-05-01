@@ -1,0 +1,22 @@
+   114.31.201.91   4826    0.0              (Sydney, New South Wales, AU, OC) 91.201.31.114.core.vocus.network                                                                    
+   114.31.201.90   4826    0.732            (Sydney, New South Wales, AU, OC) 90.201.31.114.core.vocus.network                                                                    
+   114.31.192.70   4826    92.293                       (Sydney, NSW, AU, OC) *                                                                                                   
+   103.1.77.6      *       91.888           (Sydney, New South Wales, AU, OC) be202.lsr01.brdg.nsw.vocus.network                                                                  
+╭─ 103.1.76.145    4826    92.424                        (None, None, AU, OC) be803.lsr01.stpk.wa.vocus.network                                                                   
+S (4826)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 114.31.206.51   4826    91.72                       (Singapore, 4, SG, AS) be201.bdr01.sin01.sin.vocus.network                                                                 
+   80.81.65.217    15412   91.987                      (Singapore, 4, SG, AS) *                                                                                                   
+╭─ 62.216.137.165  15412   92.247                      (Singapore, 4, SG, AS) ae18.0.cjr01.sin001.flagtel.com                                                                     
+S (15412, 4637)  
+├─ 27.111.228.4    4637    92.757                    (Seogwipo, None, KR, AS) 4637.sgw.equinix.com                                                                                
+S (4637)  
+╰─ 202.84.224.198  4637    175.465             (Singapore, Singapore, SG, AS) i-91.sgcn-core01.telstraglobal.net                                                                  
+╭─ 202.84.224.198  4637    175.465             (Singapore, Singapore, SG, AS) i-91.sgcn-core01.telstraglobal.net                                                                  
+S (4637)  
+╰─ 202.84.140.174  4637    176.715                     (Tokyo, Tokyo, JP, AS) i-1055.siko-core02.telstraglobal.net                                                                
+   202.84.148.70   4637    175.181                     (Tokyo, Tokyo, JP, AS) unknown.telstraglobal.net                                                                           
+   210.57.79.17    4637    177.87                      (Tokyo, Tokyo, JP, AS) unknown.telstraglobal.net                                                                           
+   ***             *       -inf                                           *** *                                                                                                   
+   182.161.74.64   55569   175.086                     (Tokyo, Tokyo, JP, AS)                                                                                                     
+   182.161.74.241  55569   174.409                     (Tokyo, Tokyo, JP, AS)                                                                                                     

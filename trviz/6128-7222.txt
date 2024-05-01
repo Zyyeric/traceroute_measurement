@@ -1,0 +1,14 @@
+   102.130.68.151  37468   0.0                (Johannesburg, Gauteng, ZA, AF)                                                                                                     
+╭─ 102.130.68.146  37468   0.305                  (Edenvale, Gauteng, ZA, AF)                                                                                                     
+LHL (37468)  seacomtata-tgn-eurasia ✓ ↠ seamewe-4 ✓ || seacomtata-tgn-eurasia ✓ ↠ seamewe-3 ✓ || seacomtata-tgn-eurasia ✓ ↠ seamewe-5 ✓ || seacomtata-tgn-eurasia ✓ ↠ peace-cable ✘
+├─ 102.219.127.6   37468   144.627             (Singapore, Singapore, SG, AS)                                                                                                     
+S (37468, 17557)  asia-pacific-gateway-apg ✓ || eac-c2c ✓ || apcn-2 ✓ || seamewe-3 ✓
+├─ 27.111.228.83   17557   215.012                   (Seogwipo, None, KR, AS) 17557.sgw.equinix.com                                                                               
+S (17557, 7590)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 202.125.149.58  7590    238.523                   (Rawalpindi, PB, PK, AS) Touchstone-4.rwp44d1.pie.net.pk                                                                     
+   210.56.8.180    7590    246.339                    (Islamabad, IS, PK, AS) *                                                                                                   
+   210.56.11.202   7590    230.371             (Islamabad, Islamabad, PK, AS)                                                                                                     

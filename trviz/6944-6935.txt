@@ -1,0 +1,23 @@
+   102.130.49.144  328383  0.0                (Johannesburg, Gauteng, ZA, AF) za-jnb-as57695.anchors.atlas.ripe.net                                                               
+   ***             *       -inf                                           *** *                                                                                                   
+   102.130.49.3    328383  0.187              (Johannesburg, Gauteng, ZA, AF) spine2.v271.jnb01.za.misaka.io                                                                      
+╭─ 102.130.51.6    *       0.289              (Johannesburg, Gauteng, ZA, AF) e54-1-20.cr2a.tdjb1.jnb1.za.917.as                                                                  
+LHL (, 969)  africa-coast-to-europe-ace ✘ ↠ apollo ✘ || africa-coast-to-europe-ace ✘ ↠ flag-atlantic-1-fa-1 ✘
+├─ 199.119.64.250  969     0.353                    (Dover, Delaware, US, NA) po100.cr1a.tdjb1.jnb1.za.917.as                                                                     
+LHL (969, 60068)  apollo ✘ || flag-atlantic-1-fa-1 ✘
+├─ 37.19.193.192   60068   0.271                     (Prague, Prague, CZ, EU) p77-3503.cr1a.tdjb1.jnb1.za.917.as                                                                  
+LHL (60068, 5511)  
+├─ 193.251.152.55  5511    0.447              (Johannesburg, Gauteng, ZA, AF)                                                                                                     
+T (5511)  africa-coast-to-europe-ace 👍 ↠ apollo ✓ ↠ apollo ✓ || africa-coast-to-europe-ace 👍 ↠ apollo ✓ ↠ flag-atlantic-1-fa-1 © || africa-coast-to-europe-ace 👍 ↠ flag-atlantic-1-fa-1 © ↠ apollo ✓ || africa-coast-to-europe-ace 👍 ↠ flag-atlantic-1-fa-1 © ↠ flag-atlantic-1-fa-1 ©
+╰─ 193.251.241.157 5511    163.662                     (London, None, GB, EU) bundle-ether304.lontr5.london.opentransit.net                                                       
+   134.159.95.73   4637    169.649                       (None, None, GB, EU) i-0-0-2-3-104-peer.ulhc01.pr.telstraglobal.net                                                      
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 202.84.178.9    4637    164.218                  (London, England, GB, EU) i-1003.ulcn-core01.telstraglobal.net                                                                
+S (4637)  seamewe-3 👍
+╰─ 202.84.140.141  4637    482.333             (Singapore, Singapore, SG, AS) i-1000.sgcn-core01.telstraglobal.net                                                                
+   202.84.140.141  4637    482.333             (Singapore, Singapore, SG, AS) i-1000.sgcn-core01.telstraglobal.net                                                                
+╭─ 202.84.207.190  4637    484.969             (Singapore, Singapore, SG, AS) unknown.telstraglobal.net                                                                           
+S (4637)  
+╰─ 202.84.204.45   4637    480.975                     (Dubai, Dubai, AE, AS) i-102.uddm01.telstraglobal.net                                                                      
+   217.151.46.27   4637    480.266                     (Dubai, Dubai, AE, AS) unknown.telstraglobal.net                                                                           
+   156.154.53.254  12008   486.724                     (Dubai, Dubai, AE, AS)                                                                                                     

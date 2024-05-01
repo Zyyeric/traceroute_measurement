@@ -1,0 +1,17 @@
+   141.164.39.1    20473   0.0                      (Paripark, Seoul, KR, AS) 141.164.39.1.vultrusercontent.com                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   100.100.100.1   *       0.28                                           ***                                                                                                     
+   10.84.0.21      *       0.425                                          ***                                                                                                     
+   10.84.2.53      *       0.953                                          ***                                                                                                     
+   210.176.150.116 4637    1.306                       (Seoul, Seoul, KR, AS) unknown.telstraglobal.net                                                                           
+╭─ 202.84.149.101  4637    2.014                       (Seoul, Seoul, KR, AS)                                                                                                     
+S (4637)  asia-pacific-gateway-apg ✓ || flag-north-asia-loopreach-north-asia-loop 👍 || flag-europe-asia-fea ✓ || seamewe-3 👍 || eac-c2c 👍
+╰─ 202.84.141.253  4637    36.393    (Hong Kong, Central and Western, HK, AS) i-1088.hkth-core03.telstraglobal.net                                                                
+   202.84.156.54   4637    37.442    (Hong Kong, Central and Western, HK, AS) i-97.hkgg01.telstraglobal.net                                                                       
+   180.87.162.170  6453    36.921              (Hong Kong, Hong Kong, HK, AS) ix-ae-31-0.thar1.h81-hongkong.as6453.net                                                            
+   180.87.162.31   6453    72.236              (Hong Kong, Hong Kong, HK, AS) if-bundle-53-2.qcore1.h81-hongkong.as6453.net                                                       
+╭─ 180.87.162.27   6453    75.794              (Hong Kong, Hong Kong, HK, AS) if-ae-28-2.tcore2.hk2-hongkong.as6453.net                                                           
+S (6453, 24482)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 203.175.175.206 24482   86.357              (Singapore, Singapore, SG, AS)                                                                                                     

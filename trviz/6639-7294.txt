@@ -1,0 +1,32 @@
+   10.252.4.170    *       0.0                                            ***                                                                                                     
+   10.252.4.169    *       0.105                                          ***                                                                                                     
+   10.252.4.153    *       0.148                                          ***                                                                                                     
+   10.252.0.37     *       11.308                                         ***                                                                                                     
+   10.252.2.138    *       13.924                                         ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 154.25.16.81    174     15.498                (Istanbul, Istanbul, TR, AS) be3821.rcr71.ist01.atlas.cogentco.com                                                               
+S (174)  
+├─ 154.54.74.226   174     24.263                         (Lyon, ARA, FR, EU) be2881.rcr21.lys01.atlas.cogentco.com                                                               
+LHL (174)  
+├─ 130.117.0.94    174     31.852                       (Belgrade, 0, RS, EU) be3421.ccr51.beg03.atlas.cogentco.com                                                               
+T (174)  
+├─ 130.117.0.125   174     34.271                      (Budapest, PE, HU, EU) be3422.ccr31.bud01.atlas.cogentco.com                                                               
+T (174)  
+├─ 154.54.59.177   174     36.738                    (Bratislava, BL, SK, EU) be3263.ccr22.bts01.atlas.cogentco.com                                                               
+T (174)  
+├─ 154.54.59.185   174     41.654                         (Vienna, 9, AT, EU) be3463.ccr52.vie01.atlas.cogentco.com                                                               
+T (174)  
+╰─ 154.54.59.182   174     47.175                        (Munich, BY, DE, EU) be3462.ccr22.muc03.atlas.cogentco.com                                                               
+╭─ 154.54.36.253   174     52.485             (Frankfurt am Main, HE, DE, EU) be2960.ccr42.fra03.atlas.cogentco.com                                                               
+T (174)  
+├─ 154.54.38.169   174     52.016                    (Marseille, PAC, FR, EU) be2345.ccr21.mrs01.atlas.cogentco.com                                                               
+S&T (174, 58453)  
+├─ 149.29.9.162    58453   68.788                       (Bologna, 45, IT, EU) chinamobile.demarc.cogentco.com                                                                     
+S (58453)  
+╰─ 223.120.10.41   58453   65.921                        (None, None, HK, AS) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   223.120.2.42    58453   261.122                       (None, None, HK, AS) *                                                                                                   
+   223.120.3.90    58453   265.377                       (None, None, HK, AS) *                                                                                                   
+   223.119.0.93    202196  266.799                       (None, None, HK, AS) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   37.10.40.14     202196  240.162             (Hong Kong, Hong Kong, HK, AS)                                                                                                     

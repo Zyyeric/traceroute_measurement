@@ -1,0 +1,18 @@
+   103.253.132.25  59238   0.0                     (Bangkok, Bangkok, TH, AS) th-bkk-as59238.anchors.atlas.ripe.net                                                               
+   103.253.132.1   59238   0.228                (Khlong San, Bangkok, TH, AS) gw-cat.idc.inox.co.th                                                                               
+   172.24.132.24   *       0.32                                           ***                                                                                                     
+   172.21.21.2     *       0.435                                          ***                                                                                                     
+╭─ 122.155.224.73  4651    0.399 (1.055)           (Khlong San, Bangkok, TH, AS)                                                                                                     
+S (4651)  flag-europe-asia-fea ✘ || seamewe-3 ✓
+├─ 61.19.9.234     4651    210.379                  (London, England, GB, EU)                                                                                                     
+T (4651, 20473)  
+╰─ 80.81.196.21    20473   223.616           (Frankfurt am Main, 5, DE, None) decix.fkt.vultr.com                                                                                 
+   10.75.2.54      *       224.202                                        ***                                                                                                     
+   10.75.1.206     *       222.527                                        ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 95.179.250.19   20473   202.696         (Frankfurt am Main, Hesse, DE, EU) router01-vul-fra.as151332.net                                                                       
+LHL (20473)  
+├─ 45.77.39.153    20473   211.727             (Singapore, Singapore, SG, AS) router01-vul-sin.as151332.net                                                                       
+S (20473, 7545)  
+╰─ 203.192.83.254  7545    317.21               (Melbourne, Victoria, AU, OC) ip-254-83-192-203.static.pipenetworks.com                                                           
+   103.179.37.157  151332  336.118              (Melbourne, Victoria, AU, OC)                                                                                                     

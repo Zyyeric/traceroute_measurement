@@ -1,0 +1,11 @@
+   5.188.238.222   202422  0.0                 (São Paulo, São Paulo, BR, SA)                                                                                                     
+╭─ 5.188.238.3     202422  0.27                (São Paulo, São Paulo, BR, SA) vrrp.gcore.lu                                                                                       
+S (202422, 6939)  
+├  10.255.22.182   *       0.231                                          ***                                                                                                     
+├  10.255.22.188   *       0.46                                           ***                                                                                                     
+╰─ 64.191.232.76   6939    0.406 (1.925)                    (None, None, US, NA) *                                                                                                   
+   184.104.198.242 6939    43.638          (Virginia Beach, Virginia, US, NA) port-channel1.core1.for1.he.net                                                                     
+   184.104.188.217 6939    110.806                   (Miami, Florida, US, NA) port-channel27.core2.mia1.he.net                                                                    
+   184.104.197.58  6939    110.1                          (Miami, FL, US, NA) port-channel1.core3.mia1.he.net                                                                     
+   216.66.54.162   6939    110.553                   (Miami, Florida, US, NA)                                                                                                     
+   177.124.130.57  52863   109.872                   (Miami, Florida, US, NA) security.upx.com                                                                                    

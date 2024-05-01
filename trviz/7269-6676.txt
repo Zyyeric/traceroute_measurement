@@ -1,0 +1,13 @@
+   203.175.175.206 24482   0.0                 (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 103.14.247.241  24482   0.529               (Singapore, Singapore, SG, AS)                                                                                                     
+S&T (24482, 6453)  
+├─ 180.87.106.10   6453    0.712                         (None, None, IN, AS) *                                                                                                   
+S&T (6453)  
+╰─ 180.87.106.9    6453    0.87                     (Singapore, None, SG, AS) ix-hge-0-0-0-20.ecore1.svw-singapore.as6453.net                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   209.58.82.130   6453    0.955               (Singapore, Singapore, SG, AS) if-ae-33-2.tcore1.svw-singapore.as6453.net                                                          
+╭─ 180.87.12.34    6453    57.441                        (None, None, SG, AS) *                                                                                                   
+S&T (6453, 45117)  
+├  172.31.213.25   *       68.881                                         ***                                                                                                     
+╰─ 121.241.90.58   45117   66.841                     (Ahmedabad, GJ, IN, AS) 121.241.90.58.static-ahmedabad.vsnl.net.in                                                          
+   116.206.155.229 45117   71.237                (Ahmedabad, Gujarat, IN, AS)                                                                                                     

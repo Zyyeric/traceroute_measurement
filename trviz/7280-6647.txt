@@ -1,0 +1,19 @@
+   5.62.127.14     199610  0.0                      (London, England, GB, EU)                                                                                                     
+╭─ 5.62.127.1      199610  0.462                    (London, England, GB, EU)                                                                                                     
+T (199610)  
+├─ 46.251.228.201  199610  1.931       (Köln, North Rhine-Westphalia, DE, EU)                                                                                                     
+T (199610, 6939)  
+├  169.254.0.82    *       1.888                                          ***                                                                                                     
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 72.52.92.206    6939    28.011                    (Bratislava, BL, SK, EU) 100ge5-1.core1.bts1.he.net                                                                          
+LHL (6939)  
+├─ 184.105.222.129 6939    33.676                       (Belgrade, 0, RS, EU) 100ge0-36.core2.beg1.he.net                                                                         
+LHL (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.64.170  6939    50.709                        (Athens, A1, GR, EU) 100ge0-36.core1.ath1.he.net                                                                         
+   184.104.191.234 6939    50.813                    (Koropí, Attica, GR, EU) fast-telecom-p-c.e0-7.core1.ath1.he.net                                                             
+   ***             *       -inf                                           *** *                                                                                                   
+   185.14.96.225   211186  55.565             (Lamía, Central Greece, GR, EU) vlan4090.lamia.fast.net.gr                                                                          
+   185.14.96.232   211186  55.306             (Lamía, Central Greece, GR, EU)                                                                                                     

@@ -1,0 +1,21 @@
+   182.18.209.9    23944   0.0                 (Manila, Metro Manila, PH, AS)                                                                                                     
+   182.18.209.1    23944   0.727          (Quezon City, Metro Manila, PH, AS) 209-182.gw.skybroadband.com.ph                                                                      
+   130.105.0.48    23944   0.361                     (Quezon City, 0, PH, AS) *                                                                                                   
+╭─ 184.104.188.51  6939    16.496         (Quezon City, Metro Manila, PH, AS) 10ge0-8.core1.mnl1.he.net                                                                           
+S (6939)  
+├─ 184.104.212.73  6939    16.293              (Hong Kong, Hong Kong, HK, AS) e0-20.switch1.hkg1.he.net                                                                           
+S (6939)  
+├─ 184.104.199.182 6939    51.241              (Singapore, Singapore, SG, AS) port-channel3.core3.sin1.he.net                                                                     
+S (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.105.80.13   6939    188.684                        (Milan, 25, IT, EU) 100ge7-2.core1.mil2.he.net                                                                          
+LHL (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.105.81.141  6939    268.201                      (Ashburn, VA, US, NA) port-channel10.core3.ash1.he.net                                                                    
+S (6939, 56655)  
+╰─ 185.125.170.251 56655   223.249                       (Oslo, Oslo, NO, EU)                                                                                                     
+   185.125.170.252 56655   223.19                        (Oslo, Oslo, NO, EU)                                                                                                     
+   185.125.170.47  56655   225.499                       (Oslo, Oslo, NO, EU)                                                                                                     
+   185.14.97.165   56655   364.795                       (Oslo, Oslo, NO, EU)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   185.14.97.165   56655   364.795                       (Oslo, Oslo, NO, EU)                                                                                                     

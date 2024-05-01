@@ -1,0 +1,17 @@
+   27.111.84.21    135132  0.0           (Cebu City, Central Visayas, PH, AS) ph-ceb-as135132.anchors.atlas.ripe.net                                                              
+   27.111.84.20    135132  1.308             (Baugo, Central Visayas, PH, AS) vlan509.core.ceb02.ds.network                                                                       
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 203.177.209.217 4775    12.144            (Baugo, Central Visayas, PH, AS)                                                                                                     
+S (4775, 8529)  tata-tgn-intra-asia-tgn-ia ✓ || asia-america-gateway-aag-cable-system ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 103.231.152.139 8529    51.846                        (None, None, HK, AS) *                                                                                                   
+S (8529)  
+╰─ 213.202.6.224   8529    138.455                   (Muscat, Muscat, OM, AS)                                                                                                     
+╭─ 134.0.220.73    8529    137.66                        (Muscat, MA, OM, AS) *                                                                                                   
+S&T (8529, 42473)  
+╰─ 213.202.2.1     42473   122.965                        (Dubai, DU, AE, AS) i1.2.202.213omantel.net.om                                                                          
+   37.252.245.94   42473   121.389                     (Dubai, Dubai, AE, AS)                                                                                                     

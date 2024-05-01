@@ -1,0 +1,19 @@
+   92.223.93.208   202422  0.0                      (Milan, Lombardy, IT, EU)                                                                                                     
+   92.223.93.195   202422  0.301                    (Milan, Lombardy, IT, EU) vrrp.gcore.lu                                                                                       
+   45.82.101.3     199524  0.266                    (Milan, Lombardy, IT, EU)                                                                                                     
+   10.255.169.178  *       0.46                                           ***                                                                                                     
+   149.14.135.249  174     0.814                    (Milan, Lombardy, IT, EU) hu0-1-0-0.nr51.b026361-0.mil01.atlas.cogentco.com                                                   
+╭─ 154.25.12.145   174     0.68 (2.591)               (Milan, Lombardy, IT, EU) be2218.rcr21.mil01.atlas.cogentco.com                                                               
+S&T (174)  
+╰─ 154.54.74.165   174     10.4                      (Marseille, PAC, FR, EU) be2864.ccr31.mrs02.atlas.cogentco.com                                                               
+╭─ 154.54.72.109   174     21.344                        (Paris, IDF, FR, EU) be2779.ccr41.par01.atlas.cogentco.com                                                               
+S&T (174)  seamewe-3 ✓
+╰─ 154.54.56.129   174     27.986                       (London, ENG, GB, EU) be12497.ccr41.lon13.atlas.cogentco.com                                                              
+   130.117.3.98    174     28.152                       (London, ENG, GB, EU) be2538.rcr21.b015589-1.lon13.atlas.cogentco.com                                                     
+╭─ 149.11.44.138   174     28.974                   (London, England, GB, EU)                                                                                                     
+T (174, 37468)  
+├  100.64.192.12   *       164.712                                        ***                                                                                                     
+╰─ 102.130.68.139  37468   199.337                       (None, None, AO, AF) *                                                                                                   
+   197.149.149.165 37468   188.115                       (None, None, AO, AF) pe1-nce017.ang.sgn.as37468.angolacables.ao                                                          
+   102.130.68.106  37468   200.111                       (None, None, AO, AF) *                                                                                                   
+   102.130.66.11   37468   200.265                   (Luanda, Luanda, AO, AF)                                                                                                     

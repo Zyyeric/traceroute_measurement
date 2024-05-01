@@ -1,0 +1,15 @@
+   10.0.18.30      *       0.0                                            ***                                                                                                     
+   10.0.18.1       *       0.26                                           ***                                                                                                     
+   138.204.228.1   61506   0.438             (Valparaíso, Valparaíso, CL, SA)                                                                                                     
+╭─ 138.204.229.99  61506   3.2       (Santiago, Santiago Metropolitan, CL, SA)                                                                                                     
+S (61506, 6939)  south-american-crossing-sac ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.188.69  6939    70.084               (Bogotá, Bogota D.C., CO, SA) port-channel2.core2.bog1.he.net                                                                     
+S (6939, 23520)  arcos ✓ || colombia-florida-subsea-fiber-cfx-1 © || america-movil-submarine-cable-system-1-amx-1 ✓ || south-america-1-sam-1 ✓ || globenet © || maya-1 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 216.66.15.254   23520   133.343                  (North Miami, FL, US, NA) asurnet-inc.100gigabitethernet7-1.core1.mia1.he.net                                                 
+   69.79.104.1     23520   112.099                  (North Miami, FL, US, NA) ae1.nmi-mx2020-2.north-miami.fl.usa.cwc.com                                                         
+╭─ 69.79.106.51    23520   137.383                       (None, None, US, NA) *                                                                                                   
+S (23520, 265721)  
+╰─ 200.58.244.31   265721  137.487              (Sosúa, Puerto Plata, DO, NA) sosua-100g-244-31.cableatlantico.com                                                                
+   45.65.244.254   265721  137.382              (Sosúa, Puerto Plata, DO, NA) ripeatlas-anchor.cableatlantico.com                                                                 

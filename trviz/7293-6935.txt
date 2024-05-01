@@ -1,0 +1,18 @@
+   102.130.49.144  328383  0.0                (Johannesburg, Gauteng, ZA, AF) za-jnb-as57695.anchors.atlas.ripe.net                                                               
+   ***             *       -inf                                           *** *                                                                                                   
+   102.130.49.3    328383  0.392              (Johannesburg, Gauteng, ZA, AF) spine2.v271.jnb01.za.misaka.io                                                                      
+╭─ 102.130.51.2    *       0.3                (Johannesburg, Gauteng, ZA, AF) e54-1-10.cr1a.tdjb1.jnb1.za.917.as                                                                  
+LHL (, 969)  africa-coast-to-europe-ace ✘ ↠ apollo ✘ || africa-coast-to-europe-ace ✘ ↠ flag-atlantic-1-fa-1 ✘
+├─ 199.119.64.251  969     0.322                    (Dover, Delaware, US, NA) po100.cr2a.tdjb1.jnb1.za.917.as                                                                     
+LHL (969, 3491)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 63.218.151.2    3491    162.358            (Johannesburg, Gauteng, ZA, AF)                                                                                                     
+T (3491, 174)  africa-coast-to-europe-ace ✓ ↠ apollo ✓ ↠ exa-north-and-south ✘ || africa-coast-to-europe-ace ✓ ↠ apollo ✓ ↠ atlantic-crossing-1-ac-1 ✓ || africa-coast-to-europe-ace ✓ ↠ apollo ✓ ↠ yellow ✓ || africa-coast-to-europe-ace ✓ ↠ apollo ✓ ↠ apollo ✓ || africa-coast-to-europe-ace ✓ ↠ apollo ✓ ↠ tata-tgn-atlantic ✓ || africa-coast-to-europe-ace ✓ ↠ apollo ✓ ↠ flag-atlantic-1-fa-1 ✓ || africa-coast-to-europe-ace ✓ ↠ flag-atlantic-1-fa-1 ✓ ↠ exa-north-and-south ✘ || africa-coast-to-europe-ace ✓ ↠ flag-atlantic-1-fa-1 ✓ ↠ atlantic-crossing-1-ac-1 ✓ || africa-coast-to-europe-ace ✓ ↠ flag-atlantic-1-fa-1 ✓ ↠ yellow ✓ || africa-coast-to-europe-ace ✓ ↠ flag-atlantic-1-fa-1 ✓ ↠ apollo ✓ || africa-coast-to-europe-ace ✓ ↠ flag-atlantic-1-fa-1 ✓ ↠ tata-tgn-atlantic ✓ || africa-coast-to-europe-ace ✓ ↠ flag-atlantic-1-fa-1 ✓ ↠ flag-atlantic-1-fa-1 ✓
+├─ 154.54.5.34     174     162.294                  (London, England, GB, EU) be4429.ccr41.lon13.atlas.cogentco.com                                                               
+S&T (174)  
+╰─ 154.54.56.130   174     168.891                       (Paris, IDF, FR, EU) be12497.ccr41.par01.atlas.cogentco.com                                                              
+   154.54.72.110   174     179.962                   (Marseille, PAC, FR, EU) be2779.ccr31.mrs02.atlas.cogentco.com                                                               
+   130.117.48.165  174     180.068   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) be3927.rcr61.b062108-0.mrs02.atlas.cogentco.com                                                     
+   149.14.127.98   174     179.512   (Septèmes-les-Vallons, Provence-Alpes-Côte d'Azur, FR, EU)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   185.233.32.213  211997  180.418   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) 185-233-32-213.eho.link                                                                             

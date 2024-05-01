@@ -1,0 +1,17 @@
+   63.222.40.114   3491    0.0                       (Taipei, Taiwan, TW, AS) ncic.te0-1-0-23.br01.tap04.as3491.net                                                               
+╭─ 63.222.40.113   3491    1.065                      (Neihu, Taiwan, TW, AS) te0-1-0-23.br01.tap04.as3491.net                                                                    
+S (3491)  seamewe-3 👍 || eac-c2c ✓ || apcn-2 👍 || flag-north-asia-loopreach-north-asia-loop 👍 || asia-pacific-gateway-apg ✓
+├─ 63.218.210.86   3491    80.157                   (Hong Kong, None, HK, AS) HundredGE0-0-0-0.br05.hkg15.pccwbtn.net                                                             
+S (3491, 6939)  asia-africa-europe-1-aae-1 👍 || flag-europe-asia-fea ✓ || seamewe-3 👍
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.105.80.13   6939    275.721                        (Milan, 25, IT, EU) 100ge7-2.core1.mil2.he.net                                                                          
+LHL (6939)  seamewe-4 ✓ ↠ apollo ✓ || seamewe-4 ✓ ↠ flag-atlantic-1-fa-1 ✓ || asia-africa-europe-1-aae-1 ✓ ↠ apollo ✓ || asia-africa-europe-1-aae-1 ✓ ↠ flag-atlantic-1-fa-1 ✓ || seamewe-5 ✓ ↠ apollo ✓ || seamewe-5 ✓ ↠ flag-atlantic-1-fa-1 ✓ || imewe ✓ ↠ apollo ✓ || imewe ✓ ↠ flag-atlantic-1-fa-1 ✓ || seamewe-3 ✓ ↠ apollo ✓ || seamewe-3 ✓ ↠ flag-atlantic-1-fa-1 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.105.81.141  6939    292.08                       (Ashburn, VA, US, NA) port-channel10.core3.ash1.he.net                                                                    
+S (6939, 56655)  
+╰─ 185.125.170.252 56655   291.49                        (Oslo, Oslo, NO, EU)                                                                                                     
+   185.125.170.45  56655   291.361                       (Oslo, Oslo, NO, EU)                                                                                                     
+   185.14.97.165   56655   450.589                       (Oslo, Oslo, NO, EU)                                                                                                     
+   185.14.97.165   56655   450.589                       (Oslo, Oslo, NO, EU)                                                                                                     

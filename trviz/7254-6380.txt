@@ -1,0 +1,17 @@
+   196.49.14.25    30997   0.0                 (Accra, Greater Accra, GH, AF)                                                                                                     
+   196.49.14.1     30997   0.579               (Accra, Greater Accra, GH, AF)                                                                                                     
+╭─ 197.221.70.89   *       1.126               (Accra, Greater Accra, GH, AF)                                                                                                     
+S&T (, 3741)  
+╰─ 196.14.240.4    3741    1.117                         (None, None, ZA, AF) *                                                                                                   
+╭─ 168.209.160.109 3741    256.465                       (None, None, ZA, AF) *                                                                                                   
+T (3741)  
+╰─ 168.209.160.108 3741    256.748                  (London, England, GB, EU)                                                                                                     
+╭─ 168.209.246.3   3741    257.041                     (London, None, GB, EU) core2b-dock-be-1.ip.ddii.network                                                                    
+T (3741)  
+├─ 168.209.246.1   3741    259.201                       (None, None, ZA, AF) core1b-dock-be-1.ip.ddii.network                                                                    
+T (3741, 3491)  
+╰─ 195.66.224.167  3491    192.721                     (London, None, GB, EU) te7-5.br03.ldn01.pccwbtn.net                                                                        
+   63.218.242.50   3491    192.795                  (London, England, GB, EU) hundredge0-0-0-1.br02.ldn03.as3491.net                                                              
+   63.218.207.218  60068   186.878                     (London, None, GB, EU) DataCamp-Hu0-0-0-24.br02.ldn03.pccwbtn.net                                                          
+   156.146.32.93   60068   186.886                (Shadwell, England, GB, EU)                                                                                                     
+   103.170.154.254 142594  186.923                  (London, England, GB, EU) 254.154.170.103.speedyvps.uk                                                                        

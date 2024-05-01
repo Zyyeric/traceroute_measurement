@@ -1,0 +1,26 @@
+   202.70.133.25   140443  0.0                 (Singapore, Singapore, SG, AS) 25.133.70.202.in-addr.herza.id                                                                      
+   202.70.133.1    140443  0.139               (Singapore, Singapore, SG, AS) 1.133.70.202.in-addr.herza.id                                                                       
+   202.70.132.1    140443  0.531               (Singapore, Singapore, SG, AS) 1.132.70.202.in-addr.herza.id                                                                       
+   10.111.222.209  *       0.433                                          ***                                                                                                     
+╭─ 154.18.19.209   174     0.806               (Singapore, Singapore, SG, AS) te0-8-0-2-7.201.ccr31.sin01.atlas.cogentco.com                                                      
+S (174)  seamewe-5 ✓
+├─ 154.54.87.214   174     137.773                   (Marseille, PAC, FR, EU) be2919.ccr32.mrs02.atlas.cogentco.com                                                               
+S&T (174)  
+├─ 154.54.74.178   174     153.514                        (Milan, 25, IT, EU) be2865.rcr21.mil01.atlas.cogentco.com                                                               
+T (174)  
+├─ 154.54.63.221   174     158.666                  (Munich, Bavaria, DE, EU) be3814.ccr22.muc03.atlas.cogentco.com                                                               
+T (174)  
+├─ 154.54.59.181   174     246.362                        (Vienna, 9, AT, EU) be3462.ccr52.vie01.atlas.cogentco.com                                                               
+LHL (174)  
+├─ 130.117.50.82   174     164.663                        (Dublin, D, IE, EU) be2209.rcr11.b022738-0.dub01.atlas.cogentco.com                                                     
+LHL (174)  
+├─ 149.6.175.250   174     154.244        (Le Pre-Saint-Gervais, IDF, FR, EU) *                                                                                                   
+S (174, 20965)  geo-eirgrid ✘ ↠ seamewe-3 ✓ || exa-north-and-south © ↠ seamewe-3 ✓ || havhingstenceltixconnect-2-cc-2 © ↠ seamewe-3 ✓ || esat-2 ✘ ↠ seamewe-3 ✓ || rockabill ✘ ↠ seamewe-3 ✓ || sirius-south ✘ ↠ seamewe-3 ✓ || exa-express © ↠ seamewe-3 ✓ || pan-european-crossing-uk-ireland ✓ ↠ seamewe-3 ✓ || esat-1 ✘ ↠ seamewe-3 ✓ || solas © ↠ seamewe-3 ✓
+╰─ 62.40.98.146    20965   178.176                       (Athens, A1, GR, EU) ae1.mx1.ath2.gr.geant.net                                                                           
+   83.97.88.66     5408    178.789                       (Athens, A1, GR, EU) grnet-ias-grnet-gw.mx1.ath2.gr.geant.net                                                            
+╭─ 62.217.100.63   5408    177.479                       (None, None, GR, EU) eier-kolettir-AE.backbone.grnet.gr                                                                  
+LHL (5408, 8522)  
+├─ 62.217.98.49    8522    182.386                   (Hannover, None, DE, EU) forth-her-4.eier.access-link.grnet.gr                                                               
+T (8522)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 139.91.68.3     8522    182.598                 (Irákleion, Crete, GR, EU)                                                                                                     

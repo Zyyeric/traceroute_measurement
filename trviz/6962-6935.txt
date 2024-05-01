@@ -1,0 +1,15 @@
+   102.130.49.144  328383  0.0                (Johannesburg, Gauteng, ZA, AF) za-jnb-as57695.anchors.atlas.ripe.net                                                               
+   102.130.49.21   328383  0.148              (Johannesburg, Gauteng, ZA, AF) po-21.lag.jnb01.za.misaka.io                                                                        
+   102.130.49.3    328383  0.294              (Johannesburg, Gauteng, ZA, AF) spine2.v271.jnb01.za.misaka.io                                                                      
+╭─ 102.130.51.2    *       0.224              (Johannesburg, Gauteng, ZA, AF) e54-1-10.cr1a.tdjb1.jnb1.za.917.as                                                                  
+LHL (, 60068)  africa-coast-to-europe-ace ✘
+├─ 37.19.193.190   60068   0.275                     (Prague, Prague, CZ, EU) p77-3502.cr1a.tdjb1.jnb1.za.917.as                                                                  
+LHL (60068, 37468)  
+├─ 102.130.70.57   37468   0.432              (Johannesburg, Gauteng, ZA, AF)                                                                                                     
+LHL (37468)  africa-coast-to-europe-ace ✓ ↠ seamewe-3 ✓
+├─ 102.219.127.6   37468   144.442             (Singapore, Singapore, SG, AS)                                                                                                     
+S (37468, 15802)  
+├─ 27.111.228.92   15802   145.724                   (Seogwipo, None, KR, AS) 15802.sgw.equinix.com                                                                               
+S (15802)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 94.203.76.219   15802   225.876                     (Dubai, Dubai, AE, AS)                                                                                                     

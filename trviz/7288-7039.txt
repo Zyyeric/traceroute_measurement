@@ -1,0 +1,20 @@
+   103.170.232.152 142616  0.0                         (Tokyo, Tokyo, JP, AS) user-103-170-232-152.nrt04.jp.misaka.io                                                             
+   103.170.232.11  142616  0.233                       (Tokyo, Tokyo, JP, AS) po-31.lag.nrt04.jp.misaka.io                                                                        
+   103.170.232.3   142616  0.238                       (Tokyo, Tokyo, JP, AS) spine2.nrt04.jp.misaka.io                                                                           
+   199.119.64.138  969     0.228                       (Tokyo, Tokyo, JP, AS) e54-10.cr1a.eqty8.nrt4.jp.917.as                                                                    
+   199.119.64.95   969     0.257                       (Tokyo, Tokyo, JP, AS) po100.cr2a.eqty8.nrt4.jp.917.as                                                                     
+╭─ 84.17.33.106    60068   0.193                       (Tokyo, Tokyo, JP, AS) po66-3518.cr01.nrt04.jp.misaka.io                                                                   
+S (60068, 174)  apcn-2 ✓ || eac-c2c ✓ || asia-pacific-gateway-apg ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 154.54.89.202   174     61.17               (Hong Kong, Hong Kong, HK, AS) be3011.ccr21.hkg02.atlas.cogentco.com                                                               
+S (174)  apcn-2 ✓ || southeast-asia-japan-cable-sjc © || eac-c2c ✘ || asia-pacific-gateway-apg ✓ || asia-america-gateway-aag-cable-system ©
+╰─ 154.54.87.225   174     95.692                      (Singapore, 4, SG, AS) be2923.ccr31.sin01.atlas.cogentco.com                                                               
+   154.18.3.250    7713    92.2                        (Singapore, 4, SG, AS) *                                                                                                   
+   180.240.204.9   7713    93.0                (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 180.240.204.9   7713    93.0                (Singapore, Singapore, SG, AS)                                                                                                     
+S&T (7713)  australia-singapore-cable-asc ✓ || indigo-west ✓ || indonesia-global-gateway-igg-system 👍 || jakarta-bangka-bintan-batam-singapore-b3js ✘ || seamewe-3 ✓ || matrix-cable-system ✘ || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || jasuka 👍 || jakabare ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 36.64.254.21    7713    110.765       (Gubengairlangga, East Java, ID, AS)                                                                                                     
+   36.64.254.22    7713    110.465                   (Denpasar, Bali, ID, AS)                                                                                                     
+   103.215.228.2   140443  110.771              (Surabaya, East Java, ID, AS) 2.228.215.103.in-addr.herza.id                                                                      
+   103.215.229.229 140443  110.784              (Surabaya, East Java, ID, AS) 229.229.215.103.in-addr.herza.id                                                                    

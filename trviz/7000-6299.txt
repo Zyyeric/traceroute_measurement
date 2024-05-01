@@ -1,0 +1,18 @@
+   197.239.73.59   37577   0.0                  (Ouagadougou, Centre, BF, AF)                                                                                                     
+   197.239.73.57   37577   0.673                (Ouagadougou, Centre, BF, AF)                                                                                                     
+   165.16.221.42   37721   0.601                         (None, None, BF, AF) *                                                                                                   
+   165.16.221.41   37721   1.334                         (None, None, BF, AF) *                                                                                                   
+   102.67.97.145   37721   1.52                 (Ouagadougou, Centre, BF, AF) ce5-255.bb1.oua1.vts.bf                                                                             
+   102.67.96.39    37721   1.358 (3.735)           (Ouagadougou, Centre, BF, AF)                                                                                                     
+╭─ 102.67.96.224   37721   18.379               (Ouagadougou, Centre, BF, AF) po48-2048.bb2.acc1.vts.bf                                                                           
+LHL (37721)  west-africa-cable-system-wacs ✓ || africa-coast-to-europe-ace ✓ || mainone ✘ || sat-3wasc ✓
+├─ 102.67.96.245   37721   105.827                   (Lisbon, Lisbon, PT, EU) et-0-0-1-2035.bb1.lis1.vts.bf                                                                       
+S&T (37721)  
+├─ 102.67.97.166   37721   112.815                        (Madrid, M, ES, EU) xe-0-0-1-2013.bb1.mad1.vts.bf                                                                       
+S&T (37721)  
+├─ 102.67.96.154   37721   123.124   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) et-0-0-1-2068.bb1.mrs1.vts.bf                                                                       
+LHL (37721)  
+├─ 102.67.96.157   37721   128.678              (Ouagadougou, Centre, BF, AF) et-0-0-0-65.br2.mrs1.vts.bf                                                                         
+LHL (37721, 197422)  west-africa-cable-system-wacs ✓ || africa-coast-to-europe-ace ✓ || mainone ✘ || sat-3wasc ✓
+╰─ 37.49.236.233   197422  132.413                       (Paris, IDF, FR, EU) tetaneutral2.par.franceix.net                                                                       
+   185.119.168.5   197422  136.883              (Toulouse, Occitanie, FR, EU) anchor.tetaneutral.net                                                                              

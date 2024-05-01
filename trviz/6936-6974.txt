@@ -1,0 +1,22 @@
+   182.161.74.241  55569   0.0                         (Tokyo, Tokyo, JP, AS)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   100.66.0.44     *       0.393                                          ***                                                                                                     
+   100.66.0.43     *       0.254                                          ***                                                                                                     
+╭─ 210.57.79.10    4637    1.956                 (Kawasaki, Kanagawa, JP, AS) unknown.telstraglobal.net                                                                           
+S (4637)  apcn-2 👍 || eac-c2c 👍 || asia-pacific-gateway-apg ✓
+╰─ 202.47.216.145  4637    100.993                       (None, None, HK, AS) i-95.jtha-core02.telstraglobal.net                                                                  
+╭─ 202.47.216.145  4637    100.993                       (None, None, HK, AS) i-95.jtha-core02.telstraglobal.net                                                                  
+S (4637)  
+╰─ 202.84.140.86   4637    104.737             (San Jose, California, US, NA) i-10842.eqnx-core02.telstraglobal.net                                                               
+   202.84.247.17   4637    104.066             (San Jose, California, US, NA) i-92.eqnx03.telstraglobal.net                                                                       
+╭─ 4.68.68.125     3356    105.983       (East Palo Alto, California, US, NA)                                                                                                     
+S (3356, 3216)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 213.19.197.34   3216    281.508                    (Amsterdam, NH, NL, EU) EDN-SOVINTE.ear4.Amsterdam1.Level3.net                                                              
+T (3216)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 212.119.196.106 3216    390.291           (Khabarovsk, Khabarovsk, RU, EU)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   92.38.191.67    210756  390.316           (Khabarovsk, Khabarovsk, RU, EU) vrrp.edgecenter.ru                                                                                  
+   185.209.84.10   198412  389.986                  (Khabarovsk, KHA, RU, AS) ae1-0.c10.khv01.ru.misaka.io                                                                        
+   185.209.84.141  57578   390.516           (Khabarovsk, Khabarovsk, RU, EU) ru-khv-as57578.anchors.atlas.ripe.net                                                               

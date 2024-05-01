@@ -1,0 +1,19 @@
+   80.82.241.134   28792   0.0                      (London, England, GB, EU) 134-241-82-80.in-addr.pblin.net                                                                     
+   80.82.241.133   28792   0.614                    (Oxford, England, GB, EU) 133-241-82-80.in-addr.pblin.net                                                                     
+   80.82.243.126   28792   0.197                    (Witney, England, GB, EU) gi0-0-1.oxf-core-02.ip.pblin.net                                                                    
+   80.82.243.121   28792   2.818                    (London, England, GB, EU) gi2-0-1.lon-core-01.ip.pblin.net                                                                    
+╭─ 5.57.80.128     6939    3.188                        (London, ENG, GB, EU) 10gigabitethernet5-1.core1.lon1.he.net                                                              
+S&T (6939)  circe-north ✓ || scylla ✓ || ulysses-2 ✘ || zeus ✓ || concerto ✓ || farland-north ✘
+╰─ 184.104.193.194 6939    18.882                     (Amsterdam, NH, NL, EU) 100ge0-33.core2.ams2.he.net                                                                         
+   184.104.198.2   6939    9.107                      (Amsterdam, NH, NL, EU) port-channel5.core1.ams7.he.net                                                                     
+╭─ 184.104.197.126 6939    8.766           (Amsterdam, North Holland, NL, EU) port-channel1.core2.ams7.he.net                                                                     
+S&T (6939)  
+├─ 184.105.213.198 6939    18.265                    (Copenhagen, 84, DK, EU) 100ge0-29.core2.cph1.he.net                                                                         
+S (6939)  
+├─ 184.105.81.141  6939    26.438                       (Ashburn, VA, US, NA) port-channel10.core3.ash1.he.net                                                                    
+S (6939, 56655)  
+╰─ 185.125.170.251 56655   27.166                        (Oslo, Oslo, NO, EU)                                                                                                     
+   185.125.170.252 56655   27.125                        (Oslo, Oslo, NO, EU)                                                                                                     
+   185.125.170.45  56655   27.165                        (Oslo, Oslo, NO, EU)                                                                                                     
+   185.14.97.165   56655   2174.954                      (Oslo, Oslo, NO, EU)                                                                                                     
+   185.14.97.165   56655   2174.954                      (Oslo, Oslo, NO, EU)                                                                                                     

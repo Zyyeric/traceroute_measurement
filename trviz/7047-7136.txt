@@ -1,0 +1,20 @@
+   193.49.43.151   2200    0.0       (Grenoble, Auvergne-Rhône-Alpes, FR, EU)                                                                                                     
+   193.49.43.99    2200    0.215     (Fontaine, Auvergne-Rhône-Alpes, FR, EU) rteie.epn-campus.eu                                                                                 
+   192.168.103.252 *       0.515                                          ***                                                                                                     
+   193.54.185.9    2200    0.702 (4.354)(Fontaine, Auvergne-Rhône-Alpes, FR, EU) tigre1.grenet.fr                                                                                    
+   193.51.181.94   2200    0.888     (Fontaine, Auvergne-Rhône-Alpes, FR, EU) hu0-2-0-2-ren-nr-grenoble-rtr-091.noc.renater.fr                                                    
+   193.55.204.14   2200    2.799     (Grenoble, Auvergne-Rhône-Alpes, FR, EU) hu0-3-0-3-ren-nr-lyon2-rtr-091.noc.renater.fr                                                       
+╭─ 193.51.180.172  2200    2.936     (Grenoble, Auvergne-Rhône-Alpes, FR, EU) et-3-1-3-ren-nr-lyon1-rtr-131.noc.renater.fr                                                        
+T (2200, 20965)  
+╰─ 83.97.89.13     20965   10.953                      (Geneva, None, CH, EU) renater-ias-geant-gw.gen.ch.geant.net                                                               
+╭─ 62.40.98.182    20965   19.412                      (Geneva, None, CH, EU) ae5.mx1.gen.ch.geant.net                                                                            
+T (20965, 6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.223.253 6939    22.209                       (London, ENG, GB, EU) port-channel7.core3.lon2.he.net                                                                     
+   184.104.197.217 6939    22.392                       (London, ENG, GB, EU) ve958.core2.lon2.he.net                                                                             
+╭─ 216.66.88.58    15412   20.41                        (London, ENG, GB, EU) flag-as-as15412.10gigabitethernet2-2.core1.lon2.he.net                                              
+S&T (15412)  
+╰─ 85.95.26.146    15412   35.816                    (Marseille, PAC, FR, EU) ae4.0.cjr01.mrs002.flagtel.com                                                                      
+╭─ 85.95.25.93     15412   136.607                   (Marseille, PAC, FR, EU) xe-4-0-1.0.cjr01.mrs002.flagtel.com                                                                 
+S&T (15412)  
+╰─ 80.77.4.60      15412   134.93                      (Dubai, Dubai, AE, AS)                                                                                                     

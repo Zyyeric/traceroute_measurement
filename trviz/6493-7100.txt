@@ -1,0 +1,20 @@
+   185.239.193.37  39484   0.0                   (Tampere, Pirkanmaa, FI, EU) fi-tmp-as39484.anchors.atlas.ripe.net                                                               
+   185.239.193.33  39484   3.794 (17.936)            (Tampere, Pirkanmaa, FI, EU) her0-rtr1.poasnet.fi                                                                                
+   193.167.244.180 1741    4.326                 (Tampere, Pirkanmaa, FI, EU) tampere1-et-0-1-5-666.ip.funet.fi                                                                   
+   86.50.255.220   1741    2.879            (Hämeenlinna, Kanta-Häme, FI, EU) hameenlinna2.ip.funet.fi                                                                            
+   86.50.255.224   1741    2.779            (Hämeenlinna, Kanta-Häme, FI, EU) hameenlinna1.ip.funet.fi                                                                            
+   86.50.255.223   1741    2.984                     (Espoo, Uusimaa, FI, EU) espoo2.ip.funet.fi                                                                                  
+╭─ 86.50.255.232   1741    2.697                          (Espoo, 18, FI, EU) espoo1.ip.funet.fi                                                                                  
+LHL (1741, 2603)  havhingstennorth-sea-connect-nsc ✘ || atlantic-crossing-1-ac-1 ✘
+├─ 109.105.102.168 2603    2.695                         (None, None, DK, EU) fi-csc2.nordu.net                                                                                   
+T (2603)  
+├─ 109.105.97.77   2603    2.776 (18.555)                   (Hamburg, HH, DE, EU) de-hmb.nordu.net                                                                                    
+T (2603)  
+├─ 109.105.97.80   2603    25.222                     (Amsterdam, NH, NL, EU) nl-ams.nordu.net                                                                                    
+S (2603)  
+╰─ 109.105.97.64   2603    109.936                     (Manassas, VA, US, NA) us-man.nordu.net                                                                                    
+   109.105.97.145  2603    130.879                      (Chicago, IL, US, NA) us-chi.nordu.net                                                                                    
+╭─ 208.115.136.67  852     132.594                       (None, None, US, NA) chcgildtgr01.telus.net                                                                              
+S&T (852)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 206.108.17.63   852     175.089      (Vancouver, British Columbia, CA, NA) host63.17.108.206.in-addr.arpa                                                                      

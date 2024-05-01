@@ -1,0 +1,17 @@
+   195.43.87.140   51349   0.0                    (Tallinn, Harjumaa, EE, EU) rr-s-140.internet.ee                                                                                
+   195.43.87.139   51349   0.571                  (Tallinn, Harjumaa, EE, EU) rr-s-139.internet.ee                                                                                
+╭─ 212.107.37.94   1257    0.947                  (Tallinn, Harjumaa, EE, EU) static-212-107-37-94.cust.tele2.ee                                                                  
+T (1257)  
+╰─ 91.129.14.219   1257    6.302                         (Riga, Riga, LV, EU) tvt-peer-1.ae2-unit0.tele2.net                                                                      
+╭─ 130.244.200.135 1257    5.804                     (Mārupe, Mārupe, LV, EU) peer-as1299.tvt.tele2.net                                                                           
+S (1257, 1299)  sweden-latvia ✘ || latvia-sweden-1-lv-se-1 👍
+├─ 62.115.139.200  1299    18.78               (Stockholm, Stockholm, SE, EU) s-bb1-link.ip.twelve99.net                                                                          
+S&T (1299)  
+╰─ 62.115.134.94   1299    31.958                  (Hamburg, Hamburg, DE, EU) hbg-bb3-link.ip.twelve99.net                                                                        
+╭─ 62.115.120.71   1299    34.284                  (Hamburg, Hamburg, DE, EU) hbg-b2-link.ip.twelve99.net                                                                         
+S&T (1299, 13101)  
+├─ 213.248.89.26   13101   35.465                        (None, None, SE, EU) te5-6-101.ham4.tng.de                                                                               
+S&T (13101)  
+╰─ 213.178.65.155  13101   37.075          (Kiel, Schleswig-Holstein, DE, EU) kel2.tng.de                                                                                         
+   82.97.188.1     13101   37.108                        (None, None, DE, EU) rtr1.gallifrey.tng.de                                                                               
+   213.158.113.5   13101   37.326                  (Hamburg, Hamburg, DE, EU) ripe-anchor.gallifrey.tng.de                                                                        

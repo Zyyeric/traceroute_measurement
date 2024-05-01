@@ -1,0 +1,20 @@
+   92.38.178.149   202422  0.0                       (Urayasu, Tokyo, JP, AS)                                                                                                     
+   92.38.178.1     202422  0.284                     (Urayasu, Tokyo, JP, AS) gw.gcore.lu                                                                                         
+   10.255.16.181   *       0.239                                          ***                                                                                                     
+   10.255.16.184   *       0.52                                           ***                                                                                                     
+   63.222.57.173   3491    0.639                     (Urayasu, Tokyo, JP, AS) 63-222-57-173.static.pccwglobal.net                                                                 
+   63.218.250.82   3491    0.994                       (Tokyo, Tokyo, JP, AS) be41.br04.tok02.as3491.net                                                                          
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 154.54.83.189   174     1.141                       (Tokyo, Tokyo, JP, AS) be3929.ccr71.tyo01.atlas.cogentco.com                                                               
+S (174)  apcn-2 ✓ || eac-c2c ✘ || asia-pacific-gateway-apg ✓
+├─ 154.54.89.202   174     56.307              (Hong Kong, Hong Kong, HK, AS) be3011.ccr21.hkg02.atlas.cogentco.com                                                               
+S (174)  
+╰─ 154.54.87.225   174     77.696                      (Singapore, 4, SG, AS) be2923.ccr31.sin01.atlas.cogentco.com                                                               
+   154.18.3.250    7713    78.347                      (Singapore, 4, SG, AS) *                                                                                                   
+   180.240.204.9   7713    79.376              (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 180.240.204.9   7713    79.376              (Singapore, Singapore, SG, AS)                                                                                                     
+S&T (7713)  
+╰─ 180.240.193.94  7713    79.697                        (None, None, ID, AS) *                                                                                                   
+   36.93.255.177   7713    97.513                       (Batam, Riau, ID, AS)                                                                                                     
+   36.93.255.178   58475   96.454                        (None, None, ID, AS) *                                                                                                   
+   103.23.232.7    58475   96.969     (Banjarmasin, South Kalimantan, ID, AS)                                                                                                     

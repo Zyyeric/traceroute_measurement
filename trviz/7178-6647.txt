@@ -1,0 +1,14 @@
+   5.62.127.14     199610  0.0                      (London, England, GB, EU)                                                                                                     
+╭─ 5.62.127.1      199610  0.347                    (London, England, GB, EU)                                                                                                     
+T (199610)  
+├─ 46.251.228.201  199610  1.694       (Köln, North Rhine-Westphalia, DE, EU)                                                                                                     
+T (199610, 2914)  
+├─ 157.238.226.4   2914    1.95                     (London, England, GB, EU) ae-13.a02.londen12.uk.bb.gin.ntt.net                                                                
+S (2914, 3356)  
+├─ 129.250.9.254   3356    2.604                         (None, None, US, NA) ae-0.lumen.londen12.uk.bb.gin.ntt.net                                                               
+S (3356, 25003)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 212.113.14.250  25003   2.654                       (London, None, GB, EU) IB.edge5.London1.Level3.net                                                                         
+T (25003)  bt-mt-1 ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 94.188.255.2    25003   61.495               (Bnei Brak, Tel Aviv, IL, AS) 255.188.94-binat-smaug.in-addr.arpa                                                                 

@@ -1,0 +1,29 @@
+   185.39.208.23   199993  0.0                       (Lisbon, Lisbon, PT, EU) atlasancora01.wan.dns.pt                                                                            
+   185.39.208.60   199993  0.545                     (Lisbon, Lisbon, PT, EU)                                                                                                     
+   194.210.4.137   1930    1.133                     (Lisbon, Lisbon, PT, EU) router63.lisboa.fccn.pt                                                                             
+   194.210.6.112   1930    0.963                     (Lisbon, Lisbon, PT, EU) router30.lisboa.fccn.pt                                                                             
+   194.210.6.103   1930    1.185                     (Lisbon, Lisbon, PT, EU) router3.lisboa.fccn.pt                                                                              
+   194.210.6.102   1930    9.176                         (Lisbon, 11, PT, EU) Router30.Lisboa.fccn.pt                                                                             
+   193.136.1.9     1930    6.893                       (Porto, Porto, PT, EU) router20.porto.fccn.pt                                                                              
+   194.210.7.103   1930    7.329                          (Porto, 13, PT, EU) Router2.Porto.fccn.pt                                                                               
+╭─ 83.97.88.44     21320   8.179                     (Lisbon, Lisbon, PT, EU) fccn-ias-geant-gw.rt1.por.pt.geant.net                                                              
+S&T (21320, 20965)  west-africa-cable-system-wacs ✓ || africa-coast-to-europe-ace ✓ || tata-tgn-western-europe ✘ || sat-3wasc ✓ || seamewe-3 ✓
+├─ 62.40.98.220    20965   45.326                      (Bilbao, None, ES, EU) ae2.rt1.bil.es.geant.net                                                                            
+S&T (20965)  
+├─ 62.40.98.223    20965   45.409                        (Paris, IDF, FR, EU) ae4.mx1.par.fr.geant.net                                                                            
+T (20965)  
+╰─ 62.40.98.238    20965   47.37                     (Genève, Geneva, CH, EU) ae7.mx1.gen.ch.geant.net                                                                            
+╭─ 62.40.98.182    20965   47.324                      (Geneva, None, CH, EU) ae5.mx1.gen.ch.geant.net                                                                            
+T (20965, 3356)  
+├─ 62.67.72.69     3356    47.095          (Frankfurt am Main, Hesse, DE, EU) lag-117.ear4.frankfurt1.level3.net                                                                  
+T (3356, 10474)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 212.113.14.122  10474   49.387                      (London, None, GB, EU) MWEB.edge4.London1.Level3.net                                                                       
+T (10474)  
+╰─ 176.67.178.7    10474   223.238                       (None, None, ZA, AF) *                                                                                                   
+   197.80.5.86     10474   220.915            (Johannesburg, Gauteng, ZA, AF) 197-80-5-86.jhb.mweb.co.za                                                                          
+   197.80.4.217    10474   223.243            (Johannesburg, Gauteng, ZA, AF) 197-80-4-217.jhb.mweb.co.za                                                                         
+   197.80.4.253    10474   221.205                       (None, None, ZA, AF) bu-ether2.tis-pe-2.optinet.net                                                                      
+   197.80.4.8      10474   222.014                       (None, None, ZA, AF) bu-ether1.vic-pe-2.optinet.net                                                                      
+   197.80.7.14     10474   225.099                       (None, None, ZA, AF) 197-80-7-14.jhb.mweb.co.za                                                                          
+   197.80.104.36   10474   222.191            (Johannesburg, Gauteng, ZA, AF) 197-80-104-36.jhb.mweb.co.za                                                                        

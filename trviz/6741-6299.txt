@@ -1,0 +1,31 @@
+   197.239.73.59   37577   0.0                  (Ouagadougou, Centre, BF, AF)                                                                                                     
+   197.239.73.57   37577   4.066                (Ouagadougou, Centre, BF, AF)                                                                                                     
+   165.16.221.42   37721   2.162                         (None, None, BF, AF) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   102.67.97.145   37721   9.325                (Ouagadougou, Centre, BF, AF) ce5-255.bb1.oua1.vts.bf                                                                             
+╭─ 102.67.97.41    37721   4.324                   (Ouagadougou, KAD, BF, AF) et-0-0-1-2003.bb1.oua2.vts.bf                                                                       
+LHL (37721)  africa-coast-to-europe-ace ✓
+├─ 102.67.96.46    37721   19.282                       (Paris, None, FR, EU) xe-0-0-1-2022.bb2.prs1.vts.bf                                                                       
+S (37721)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 102.67.97.204   37721   26.01                       (Lagos, Lagos, NG, AF) ce3-2017.bb1.los2.vts.bf                                                                            
+LHL (37721)  
+├─ 102.67.97.79    37721   25.989               (Ouagadougou, Centre, BF, AF)                                                                                                     
+LHL (37721, 6939)  
+├─ 216.66.89.4     6939    29.05                       (Lagos, Lagos, NG, AF) e0-7.core1.los1.he.net                                                                              
+S&T (6939)  
+├─ 184.104.188.93  6939    82.178           (Cape Town, Western Cape, ZA, AF) 10ge0-24.core1.cpt1.he.net                                                                          
+S&T (6939)  
+├─ 184.104.188.209 6939    194.703                   (Lisbon, Lisbon, PT, EU) 100ge0-79.core1.lis1.he.net                                                                         
+S&T (6939)  
+├─ 184.104.189.30  6939    216.397   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) port-channel18.core4.mrs1.he.net                                                                    
+S&T (6939)  
+├─ 184.105.80.13   6939    222.432                        (Milan, 25, IT, EU) 100ge7-2.core1.mil2.he.net                                                                          
+LHL (6939)  
+├─ 184.104.196.194 6939    243.637                       (Denver, CO, US, NA) port-channel1.core1.den3.he.net                                                                     
+LHL (6939)  apollo ✓ ↠ asia-africa-europe-1-aae-1 ✓ || apollo ✓ ↠ seamewe-3 ✓ || flag-atlantic-1-fa-1 ✓ ↠ asia-africa-europe-1-aae-1 ✓ || flag-atlantic-1-fa-1 ✓ ↠ seamewe-3 ✓
+╰─ 184.105.64.170  6939    253.034                       (Athens, A1, GR, EU) 100ge0-36.core1.ath1.he.net                                                                         
+   176.126.38.48   *       253.338              (Metamórfosi, Attica, GR, EU) fastpath.gr-ix.gr                                                                                   
+   185.201.254.25  56457   255.443                    (Kítsi, Attica, GR, EU) be3500.ef1.ath01.fastpath.gr                                                                        
+   185.201.254.35  56457   255.459                    (Kítsi, Attica, GR, EU) te1-22.sp1.ath01.fastpath.gr                                                                        
+   176.119.210.244 56457   254.454                   (Athens, Attica, GR, EU)                                                                                                     

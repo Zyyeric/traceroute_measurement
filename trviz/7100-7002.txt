@@ -1,0 +1,17 @@
+   193.180.242.86  199150  0.0                     (Solna, Stockholm, SE, EU)                                                                                                     
+   193.180.242.85  199150  11.939              (Stockholm, Stockholm, SE, EU)                                                                                                     
+   193.180.242.92  199150  0.591               (Stockholm, Stockholm, SE, EU)                                                                                                     
+   62.115.144.80   1299    1.069               (Stockholm, Stockholm, SE, EU) sto-b3-link.ip.twelve99.net                                                                         
+   62.115.118.106  1299    1.515               (Stockholm, Stockholm, SE, EU) s-bb1-link.ip.twelve99.net                                                                          
+   62.115.125.211  1299    1.553               (Stockholm, Stockholm, SE, EU) s-b1-link.ip.twelve99.net                                                                           
+╭─ 213.248.97.18   1299    1.018               (Stockholm, Stockholm, SE, EU)                                                                                                     
+S&T (1299, 2603)  
+├─ 109.105.97.244  2603    1.192                         (None, None, DK, EU) se-sthb.nordu.net                                                                                   
+S&T (2603, 1741)  
+├─ 109.105.102.1   1741    1.515                      (Stockholm, AB, SE, EU) ndn-gw.funet.fi                                                                                     
+S&T (1741)  bcs-north---phase-1 ✘ || eastern-light ✘ || sweden-finland-4-sfs-4 ✓ || baltic-sea-submarine-cable ✘ || botnia ✘
+╰─ 86.50.255.234   1741    13.828                       (Turku, None, FI, EU) turku1.ip.funet.fi                                                                                  
+   86.50.255.199   1741    13.45                        (Tampere, 11, FI, EU) tampere2.ip.funet.fi                                                                                
+   193.167.244.183 39484   13.872                        (Kuopio, 15, FI, EU) poas-b.funet.fi                                                                                     
+   185.239.192.224 39484   13.938               (Lempäälä, Pirkanmaa, FI, EU) her0-rtr1.poasnet.fi                                                                                
+   185.239.193.37  39484   13.416                (Tampere, Pirkanmaa, FI, EU) fi-tmp-as39484.anchors.atlas.ripe.net                                                               

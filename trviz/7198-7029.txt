@@ -1,0 +1,19 @@
+   192.168.0.130   *       0.0                                            ***                                                                                                     
+   192.168.0.1     *       0.229                                          ***                                                                                                     
+   172.16.254.1    *       0.394                                          ***                                                                                                     
+   192.168.1.1     *       0.872                                          ***                                                                                                     
+   10.98.238.18    *       0.739 (4.315)                                     ***                                                                                                     
+   10.0.0.170      *       7.256                                          ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   81.212.216.50   9121    5.542              (Sultanbeyli, Istanbul, TR, AS) 34-acibadem-xrs-t2-1---34-acibadem-sr12e-t3-8.statik.turktelekom.com.tr                             
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 212.156.139.60  9121    19.28                       (Istanbul, 34, TR, AS) *                                                                                                   
+S&T (9121, 3356)  
+├─ 212.162.26.177  3356    19.066              (Bucharest, București, RO, EU) ae52.edge3.bucharest1.level3.net                                                                    
+T (3356)  
+├─ 171.75.10.131   3356    51.485          (Frankfurt am Main, Hesse, DE, EU) ae1.3122.edge9.frf1.neo.colt.net                                                                    
+LHL (3356, 3491)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 63.223.23.98    3491    221.014             (Singapore, Singapore, SG, AS) be42.br01.dub04.as3491.net                                                                          
+S (3491)  
+╰─ 63.222.248.5    3491    220.364                     (Dubai, Dubai, AE, AS)                                                                                                     

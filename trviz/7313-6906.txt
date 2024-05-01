@@ -1,0 +1,18 @@
+╭─ 185.92.128.30   60924   0.0                         (Dubai, Dubai, AE, AS)                                                                                                     
+LHL (60924)  seamewe-5 ✘ || seamewe-4 ✓ || asia-africa-europe-1-aae-1 ✓ || imewe ✓ || seamewe-3 ✓
+├─ 185.92.128.4    60924   0.288                         (None, None, IE, EU) *                                                                                                   
+LHL (60924, 8966)  
+╰─ 195.229.27.145  8966    0.288 (4.12)                    (None, None, AE, AS) *                                                                                                   
+╭─ 195.229.0.225   8966    121.427                       (None, None, AE, AS) auh-emix-ra.so612.emix.ae                                                                           
+LHL (8966, 37100)  seamewe-5 ✓ || seamewe-4 👍 || asia-africa-europe-1-aae-1 👍 || imewe 👍 || seamewe-3 👍
+╰─ 80.249.210.223  37100   133.484                     (Schiphol, NH, NL, EU) *                                                                                                   
+╭─ 105.16.9.13     37100   267.313                    (Amsterdam, NH, NL, EU) ae-5-0.er-01-ams.nl.seacomnet.com                                                                   
+S&T (37100)  
+├─ 105.16.13.126   37100   265.952                      (London, ENG, GB, EU) ce-0-0-11.cr-01-lhr.uk.seacomnet.com                                                                
+T (37100)  
+╰─ 105.25.160.169  37100   267.092          (Cape Town, Western Cape, ZA, AF) ce-0-1-9.cr-01-cpt.za.seacomnet.com                                                                 
+   105.16.31.9     37100   267.117                    (Cape Town, WC, ZA, AF) xe-1-0-0-0.er-01-cpt.za.seacomnet.com                                                               
+   105.22.67.166   37100   266.787          (Cape Town, Western Cape, ZA, AF)                                                                                                     
+   102.220.178.121 328829  267.215          (Cape Town, Western Cape, ZA, AF) rnd-br2-sfp28-1-862.vumatel.co.za                                                                   
+   102.220.179.118 328829  264.177          (Cape Town, Western Cape, ZA, AF) unknown.vumatel.co.za                                                                               
+   102.220.178.25  328829  262.846          (Cape Town, Western Cape, ZA, AF) unknown.vumatel.co.za                                                                               

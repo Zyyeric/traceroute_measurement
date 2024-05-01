@@ -1,0 +1,27 @@
+   172.17.48.40    *       0.0                                            ***                                                                                                     
+   172.17.48.254   *       0.575                                          ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   172.22.6.7      *       1.823                                          ***                                                                                                     
+   172.25.0.197    *       1.672                                          ***                                                                                                     
+   172.16.86.37    *       4.573                                          ***                                                                                                     
+   172.16.5.233    *       5.413                                          ***                                                                                                     
+   172.16.2.138    *       5.345                                          ***                                                                                                     
+   213.144.184.56  6762    79.675          (Frankfurt am Main, Hesse, DE, EU)                                                                                                     
+   195.22.211.33   6762    81.055             (Frankfurt am Main, HE, DE, EU) ae12.francoforte34.fra.seabone.net                                                                  
+╭─ 184.104.198.25  3356    89.682             (Frankfurt am Main, HE, DE, EU) port-channel12.core2.fra1.he.net                                                                    
+T (3356, 6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.65.125  6939    89.092                     (Amsterdam, NH, NL, EU) 100ge0-42.core2.ams1.he.net                                                                         
+   216.66.83.127   6939    100.181         (Amsterdam, North Holland, NL, EU) mtn-globalconnect-solutions-ltd.e0-30.switch1.ams6.he.net                                           
+╭─ 41.181.105.195  16637   99.362          (Amsterdam, North Holland, NL, EU)                                                                                                     
+LHL (16637)  
+├─ 41.181.190.198  16637   105.591                     (Pretoria, GP, ZA, AF) *                                                                                                   
+T (16637)  
+├─ 41.181.244.176  16637   106.096                  (London, England, GB, EU)                                                                                                     
+T (16637, 20294)  
+├─ 41.181.247.39   20294   256.523                       (None, None, ZA, AF) *                                                                                                   
+LHL (20294)  
+╰─ 212.88.110.34   20294   255.226          (Kampala, Central Region, UG, AF)                                                                                                     
+   129.205.30.76   37063   271.969                       (Kampala, C, UG, AF) *                                                                                                   
+   41.191.77.206   328998  255.445                       (Kampala, C, UG, AF) *                                                                                                   
+   196.49.15.189   328998  255.073          (Kampala, Central Region, UG, AF)                                                                                                     

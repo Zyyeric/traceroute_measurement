@@ -1,0 +1,20 @@
+   103.153.176.122 131657  0.0                       (Taipei, Taiwan, TW, AS) 103-153-176-122.as131657.net                                                                        
+   103.153.176.254 131657  0.297                     (Taipei, Taiwan, TW, AS) 103-153-176-254.as131657.net                                                                        
+   103.51.91.5     *       0.625                     (Taipei, Taiwan, TW, AS) et-0-0-1.cr1.hd.tpe.as131657.net                                                                    
+╭─ 103.158.187.30  *       0.945                     (Taipei, Taiwan, TW, AS) as6939.ly.stuix.io                                                                                  
+S (, 6939)  seamewe-3 ✘ || apcn-2 ✘ || trans-pacific-express-tpe-cable-system ✘ || faster ✘ || eac-c2c ✘ || asia-pacific-gateway-apg ✘ || flag-north-asia-loopreach-north-asia-loop ✘ || new-cross-pacific-ncp-cable-system ✘
+╰─ 184.104.199.145 6939    27.69                       (Osaka, Ōsaka, JP, AS) port-channel6.core1.osa1.he.net                                                                     
+╭─ 184.104.188.97  6939    28.298                      (Osaka, Ōsaka, JP, AS) port-channel10.core2.osa1.he.net                                                                    
+S (6939)  tata-tgn-pacific ✓ || new-cross-pacific-ncp-cable-system ✓ || jupiter ✓ || trans-pacific-express-tpe-cable-system ✓ || japan-u-s-cable-network-jus ✓ || unityeac-pacific ✓ || pacific-crossing-1-pc-1 ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.81.143  6939    139.011                 (Phoenix, Arizona, US, NA) port-channel16.core1.phx2.he.net                                                                    
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 184.105.64.122  6939    187.168                      (Norfolk, VA, US, NA) 100ge0-30.core1.orf2.he.net                                                                         
+LHL (6939)  apollo ✓ ↠ seamewe-3 ✓ || apollo ✓ ↠ seamewe-5 ✓ || apollo ✓ ↠ seamewe-4 ✓ || apollo ✓ ↠ asia-africa-europe-1-aae-1 ✓ || apollo ✓ ↠ imewe ✓ || flag-atlantic-1-fa-1 ✓ ↠ seamewe-3 ✓ || flag-atlantic-1-fa-1 ✓ ↠ seamewe-5 ✓ || flag-atlantic-1-fa-1 ✓ ↠ seamewe-4 ✓ || flag-atlantic-1-fa-1 ✓ ↠ asia-africa-europe-1-aae-1 ✓ || flag-atlantic-1-fa-1 ✓ ↠ imewe ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.80.13   6939    294.419                        (Milan, 25, IT, EU) 100ge7-2.core1.mil2.he.net                                                                          
+   184.104.194.10  6939    319.605                         (Rome, 62, IT, EU) 100ge8-1.core1.rom1.he.net                                                                          
+   ***             *       -inf                                           *** *                                                                                                   
+   195.32.69.197   21034   296.375                 (Pescara, Abruzzo, IT, EU) ripe-atlas.micso.it                                                                                 

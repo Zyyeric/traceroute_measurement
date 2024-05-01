@@ -1,0 +1,15 @@
+   103.77.105.3    133800  0.0                     (Jakarta, Jakarta, ID, AS) ip-3-105-77-103.jkt-1.biznetg.io                                                                    
+   103.77.105.28   133800  0.14                    (Jakarta, Jakarta, ID, AS) ip-28-105-77-103.jkt-1.biznetg.io                                                                   
+   137.59.127.33   *       0.271                   (Jakarta, Jakarta, ID, AS) xe-0-2.cr01.jkt.biznetg.io                                                                          
+   202.169.59.21   17451   1.274                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+╭─ 182.253.100.233 17451   1.255                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+S&T (17451)  australia-singapore-cable-asc ✓ || matrix-cable-system ✘ || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || indonesia-global-gateway-igg-system ✓ || indigo-west ✓ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || jasuka ✓ || jakabare ✓
+╰─ 182.253.187.26  17451   12.155              (Singapore, Singapore, SG, AS) gs1-4.biznetnetworks.com                                                                            
+╭─ 103.41.12.12    4826    61.049                   (Singapore, None, SG, AS) as4826.singapore.megaport.com                                                                       
+S (4826)  australia-singapore-cable-asc 👍
+╰─ 114.31.206.50   4826    104.312                       (None, None, AU, OC) be100.cor01.per04.wa.vocus.network                                                                  
+   103.1.77.96     4826    104.742                       (None, None, AU, OC) be200.lsr01.stpk.wa.vocus.network                                                                   
+   103.1.76.144    4826    103.967                       (None, None, AU, OC) be803.lsr01.brdg.nsw.vocus.network                                                                  
+   ***             *       -inf                                           *** *                                                                                                   
+   114.31.192.71   4826    103.967          (Sydney, New South Wales, AU, OC) be1.bdr02.syd11.nsw.vocus.network                                                                   
+   114.31.201.91   4826    103.871          (Sydney, New South Wales, AU, OC) 91.201.31.114.core.vocus.network                                                                    

@@ -1,0 +1,16 @@
+   63.222.40.114   3491    0.0                       (Taipei, Taiwan, TW, AS) ncic.te0-1-0-23.br01.tap04.as3491.net                                                               
+╭─ 63.222.40.113   3491    0.895                      (Neihu, Taiwan, TW, AS) te0-1-0-23.br01.tap04.as3491.net                                                                    
+S (3491)  seamewe-3 👍 || eac-c2c ✓ || apcn-2 👍 || flag-north-asia-loopreach-north-asia-loop 👍 || asia-pacific-gateway-apg ✓
+╰─ 63.218.174.122  3491    79.243              (Hong Kong, Hong Kong, HK, AS) be41.br04.hkg12.as3491.net                                                                          
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 154.54.88.49    174     80.262                   (Hong Kong, None, HK, AS) be2414.ccr21.hkg02.atlas.cogentco.com                                                               
+S (174)  asia-africa-europe-1-aae-1 ✓
+├─ 154.54.6.25     174     270.9                     (Marseille, PAC, FR, EU) be2900.ccr32.mrs02.atlas.cogentco.com                                                               
+S&T (174)  seamewe-3 ✓
+╰─ 154.54.72.77    174     300.526                      (Valencia, V, ES, EU) be2776.ccr31.vlc02.atlas.cogentco.com                                                               
+╭─ 154.54.58.138   174     303.953                      (Sevilla, AN, ES, EU) be3239.rcr21.svq01.atlas.cogentco.com                                                               
+S&T (174)  
+╰─ 130.117.1.22    174     306.211                       (Lisbon, 11, PT, EU) be2447.rcr21.lis01.atlas.cogentco.com                                                               
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   185.32.189.249  62416   300.378                 (Odivelas, Lisbon, PT, EU) pt-lis-as62416.anchors.atlas.ripe.net                                                               

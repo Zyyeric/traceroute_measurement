@@ -1,0 +1,23 @@
+   193.1.201.140   1213    0.0                   (Tallaght, Leinster, IE, EU) atlas-anchor.heanet.ie                                                                              
+   193.1.201.138   1213    0.272                   (Dublin, Leinster, IE, EU) pw-spine1-vlan11.services.hea.net                                                                   
+   87.44.56.177    1213    0.309                        (Dublin, L, IE, None) ae3.core1-pw.nn.hea.net                                                                             
+╭─ 212.222.58.253  3257    0.394              (Palmerstown, Leinster, IE, EU) ae1-100.cr0-dub4.ip4.gtt.net                                                                        
+S&T (3257)  geo-eirgrid ✘ || rockabill © || esat-2 ✘ || sirius-south ✘ || exa-north-and-south ✘ || havhingstenceltixconnect-2-cc-2 © || exa-express ✘ || pan-european-crossing-uk-ireland ✓ || esat-1 ✘ || solas ✓
+╰─ 89.149.140.253  3257    10.845                       (London, ENG, GB, EU) ae17.cr11-lon2.ip4.gtt.net                                                                          
+   62.115.47.218   1299    10.228                   (London, England, GB, EU) ldn-b2-link.ip.twelve99.net                                                                         
+╭─ 62.115.122.188  1299    11.188                   (London, England, GB, EU) ldn-bb1-link.ip.twelve99.net                                                                        
+T (1299)  
+╰─ 80.91.249.11    1299    61.357                  (Hamburg, Hamburg, DE, EU) hbg-bb3-link.ip.twelve99.net                                                                        
+╭─ 62.115.123.76   1299    61.097          (Frankfurt am Main, Hesse, DE, EU) ffm-bb1-link.ip.twelve99.net                                                                        
+T (1299)  
+├─ 62.115.123.13   1299    27.556              (Paris, Île-de-France, FR, EU) prs-bb1-link.ip.twelve99.net                                                                        
+T (1299)  
+├─ 62.115.123.12   1299    35.4            (Frankfurt am Main, Hesse, DE, EU) ffm-bb1-link.ip.twelve99.net                                                                        
+T (1299)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 62.115.136.123  1299    61.646              (Sofia, Sofia-Capital, BG, EU) sfia-b4-link.ip.twelve99.net                                                                        
+╭─ 80.239.128.49   1299    67.049              (Sofia, Sofia-Capital, BG, EU) gnc-ic-378536.ip.twelve99-cust.net                                                                  
+LHL (1299, 51225)  
+╰─ 91.218.4.66     51225   95.414                        (None, None, AM, AS) 91.218.4.66.ArmIX.am                                                                                
+   ***             *       -inf                                           *** *                                                                                                   
+   91.218.5.67     51225   95.866                  (Yerevan, Yerevan, AM, AS) 91.218.5.67.armix.am                                                                                

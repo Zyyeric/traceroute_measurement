@@ -1,0 +1,10 @@
+   152.195.112.52  15133   0.0                         (Tokyo, Tokyo, JP, AS)                                                                                                     
+   152.195.112.49  15133   0.95                        (Tokyo, Tokyo, JP, AS)                                                                                                     
+╭─ 203.190.230.199 *       4.195                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+S (, 8220)  
+├─ 193.114.170.221 8220    227.148                       (None, None, GB, EU) *                                                                                                   
+S&T (8220, 39923)  
+╰─ 213.246.245.218 39923   225.214                    (Brussels, BRU, BE, EU) *                                                                                                   
+   109.68.160.65   39923   226.915       (Brussels, Brussels Capital, BE, EU) devrandom1.customer.unix-solutions.be                                                               
+   45.87.79.251    208725  223.659       (Brussels, Brussels Capital, BE, EU) router01.sw1.core.devrandom.be                                                                      
+   45.87.76.6      208725  229.553       (Brussels, Brussels Capital, BE, EU) ansible.devrandom.be                                                                                

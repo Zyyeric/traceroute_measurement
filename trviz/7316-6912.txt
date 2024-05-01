@@ -1,0 +1,12 @@
+   202.165.66.5    137409  0.0              (Sydney, New South Wales, AU, OC)                                                                                                     
+   202.165.66.1    137409  0.405            (Sydney, New South Wales, AU, OC)                                                                                                     
+   100.64.1.9      *       0.399                                          ***                                                                                                     
+   206.148.24.116  7578    0.382            (Sydney, New South Wales, AU, OC)                                                                                                     
+   206.148.24.112  7578    0.471            (Sydney, New South Wales, AU, OC)                                                                                                     
+╭─ 206.148.24.104  7578    23.592           (Sydney, New South Wales, AU, OC)                                                                                                     
+S (7578)  
+├─ 206.148.24.109  7578    23.599                (Auckland, Auckland, NZ, OC)                                                                                                     
+S (7578, 61138)  
+├─ 103.137.13.153  61138   23.584                     (Brisbane, QLD, AU, OC) 61138.cust.gslnetworks.com                                                                          
+S (61138)  
+╰─ 185.121.168.251 61138   23.708               (Newmarket, Auckland, NZ, OC) nz-akl-as61138.anchors.atlas.ripe.net                                                               

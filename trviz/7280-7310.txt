@@ -1,0 +1,18 @@
+   38.47.189.189   140443  0.0           (Kuala Lumpur, Kuala Lumpur, MY, AS)                                                                                                     
+   38.47.189.1     140443  0.202         (Kuala Lumpur, Kuala Lumpur, MY, AS)                                                                                                     
+   38.47.188.2     140443  0.206         (Kuala Lumpur, Kuala Lumpur, MY, AS)                                                                                                     
+╭─ 218.100.44.120  *       0.205 (1.38)    (Kuala Lumpur, Kuala Lumpur, MY, AS) he.myix.my                                                                                          
+S (, 6939)  
+├─ 27.111.228.81   6939    40.628                    (Seogwipo, None, KR, AS) 6939.sgw.equinix.com                                                                                
+S (6939)  
+├─ 184.104.194.200 6939    145.336   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) port-channel15.core4.mrs1.he.net                                                                    
+S&T (6939)  
+├─ 184.105.80.13   6939    152.561                        (Milan, 25, IT, EU) 100ge7-2.core1.mil2.he.net                                                                          
+LHL (6939)  
+├─ 184.104.196.194 6939    170.401                       (Denver, CO, US, NA) port-channel1.core1.den3.he.net                                                                     
+LHL (6939)  
+╰─ 184.105.64.170  6939    182.187                       (Athens, A1, GR, EU) 100ge0-36.core1.ath1.he.net                                                                         
+   184.104.191.234 6939    183.212                   (Koropí, Attica, GR, EU) fast-telecom-p-c.e0-7.core1.ath1.he.net                                                             
+   ***             *       -inf                                           *** *                                                                                                   
+   185.14.96.225   211186  201.122            (Lamía, Central Greece, GR, EU) vlan4090.lamia.fast.net.gr                                                                          
+   185.14.96.232   211186  210.36             (Lamía, Central Greece, GR, EU)                                                                                                     

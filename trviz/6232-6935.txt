@@ -1,0 +1,20 @@
+   102.130.49.144  328383  0.0                (Johannesburg, Gauteng, ZA, AF) za-jnb-as57695.anchors.atlas.ripe.net                                                               
+   102.130.49.21   328383  0.162              (Johannesburg, Gauteng, ZA, AF) po-21.lag.jnb01.za.misaka.io                                                                        
+   102.130.49.3    328383  0.158              (Johannesburg, Gauteng, ZA, AF) spine2.v271.jnb01.za.misaka.io                                                                      
+╭─ 102.130.51.2    *       0.211              (Johannesburg, Gauteng, ZA, AF) e54-1-10.cr1a.tdjb1.jnb1.za.917.as                                                                  
+LHL (, 60068)  
+├─ 37.19.193.192   60068   0.319                     (Prague, Prague, CZ, EU) p77-3503.cr1a.tdjb1.jnb1.za.917.as                                                                  
+LHL (60068, 5511)  
+├─ 193.251.152.55  5511    0.431              (Johannesburg, Gauteng, ZA, AF)                                                                                                     
+S (5511)  
+╰─ 81.52.166.152   5511    157.993                       (None, None, FR, EU) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   80.231.153.169  6453    160.503                      (Paris, None, FR, EU) if-ae-55-4.tcore1.pye-paris.as6453.net                                                              
+   ***             *       -inf                                           *** *                                                                                                   
+   80.231.154.33   6453    162.482   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) if-bundle-15-2.qcore1.emrs2-marseille.as6453.net                                                    
+╭─ 80.231.165.49   6453    160.453   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) if-be-33-2.ecore1.emrs2-marseille.as6453.net                                                        
+LHL (6453, 42961)  seamewe-3 👍 ↠ seamewe-3 👍 ↠ falcon ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 212.43.17.42    42961   356.779     (Al Farwānīyah, Al Farwaniyah, KW, AS)                                                                                                     

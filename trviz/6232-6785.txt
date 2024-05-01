@@ -1,0 +1,21 @@
+   103.15.246.16   58717   0.0                         (Dhaka, Dhaka, BD, AS)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   172.16.203.70   *       0.755                                          ***                                                                                                     
+   157.119.185.211 58717   1.16                            (Dhaka, C, BD, AS) *                                                                                                   
+╭─ 103.199.87.12   58717   1.327                         (None, None, BD, AS) *                                                                                                   
+S (58717)  seamewe-5 ✓ || seamewe-4 ✓
+├─ 157.119.185.76  58717   44.906              (Singapore, Singapore, SG, AS) 157.119.185.76.summitiig.net                                                                        
+S (58717, 137409)  
+├─ 27.111.229.213  137409  44.806                    (Seogwipo, None, KR, AS) 137409.sgw.equinix.com                                                                              
+S (137409, 7578)  
+╰─ 31.217.251.74   7578    44.635              (Singapore, Singapore, SG, AS) unknown.globalsecurelayer.com                                                                       
+╭─ 160.202.164.165 137409  44.836              (Singapore, Singapore, SG, AS)                                                                                                     
+S (137409, 8529)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 213.202.1.189   8529    167.762                   (Muscat, Muscat, OM, AS)                                                                                                     
+S&T (8529, 42961)  
+├─ 151.248.98.137  42961   168.041                       (None, None, BH, AS) *                                                                                                   
+S (42961)  
+├  10.32.1.6       *       165.474                                        ***                                                                                                     
+├  10.32.1.9       *       165.32                                         ***                                                                                                     
+╰─ 212.43.17.42    42961   164.806     (Al Farwānīyah, Al Farwaniyah, KW, AS)                                                                                                     

@@ -1,0 +1,17 @@
+   117.250.113.140 9829    0.0                      (Guwahati, Assam, IN, AS) static.ill.117.250.113.140.bsnl.co.in                                                               
+   117.250.113.138 9829    0.709              (North Guwāhāti, Assam, IN, AS) static.ill.117.250.113.138.bsnl.co.in                                                               
+   117.216.207.122 9829    39.218                       (Chennai, TN, IN, AS) *                                                                                                   
+   49.44.187.216   55836   41.694               (Chennai, Tamil Nadu, IN, AS)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   103.198.140.176 64049   57.092               (Airoli, Maharashtra, IN, AS)                                                                                                     
+   103.198.140.87  64049   178.442              (Mumbai, Maharashtra, IN, AS)                                                                                                     
+╭─ 103.198.140.87  64049   178.442              (Mumbai, Maharashtra, IN, AS)                                                                                                     
+LHL (64049, 24940)  seamewe-4 ✓ || asia-africa-europe-1-aae-1 ✓ || imewe ✓ || seamewe-3 ✓
+╰─ 213.133.114.13  24940   176.718            (Gunzenhausen, Bavaria, DE, EU) reliance-jio-gw.hetzner.com                                                                         
+   213.239.224.221 24940   176.043                       (None, None, DE, EU) core9.fra.hetzner.com                                                                               
+   213.239.224.165 24940   198.303                       (None, None, DE, EU) core31.hel1.hetzner.com                                                                             
+╭─ 213.239.224.37  24940   198.319                       (None, None, DE, EU) juniper4.dc1.hel1.hetzner.com                                                                       
+S (24940, 16302)  c-lion1 ✘
+╰─ 213.239.239.114 16302   221.252                        (Espoo, 18, FI, EU) suomicom-gw.hetzner.com                                                                             
+   77.246.204.230  203296  217.894                     (Helsinki, 18, FI, EU) gw-l1.dei.fi                                                                                        
+   185.139.168.19  203296  221.612                (Helsinki, Uusimaa, FI, EU) fi-hel-as203296.anchors.atlas.ripe.net                                                              

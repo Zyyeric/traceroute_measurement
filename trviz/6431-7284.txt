@@ -1,0 +1,17 @@
+   103.225.148.38  45701   0.0                     (Jakarta, Jakarta, ID, AS) ip-38-148-225-103.globalxtreme.net                                                                  
+   103.225.148.34  45701   0.376                   (Jakarta, Jakarta, ID, AS) ip-34-148-225-103.globalxtreme.net                                                                  
+   103.139.162.86  *       0.276                   (Jakarta, Jakarta, ID, AS) ip-86.162.hsp.net                                                                                   
+╭─ 103.139.162.228 147120  0.581                         (None, None, ID, AS) ip-228.162.hsp.net                                                                                  
+S&T (147120, 6939)  australia-singapore-cable-asc ✘ || matrix-cable-system ✘ || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || indonesia-global-gateway-igg-system ✓ || seamewe-3 ✘ || indigo-west ✓ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || jasuka ✓ || jakabare ✘
+├─ 184.105.223.134 6939    13.338              (Singapore, Singapore, SG, AS) port-channel1.core3.sin1.he.net                                                                     
+S (6939, 3356)  seamewe-5 ✓ || seamewe-4 ✓ || peace-cable ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 216.66.88.242   3356    174.255                       (Paris, IDF, FR, EU) level3-as3356.10gigabitethernet7-8.core1.par2.he.net                                                
+S&T (3356, 50999)  seamewe-3 ✓ || uk-channel-islands-8 ✘ || high-capacity-undersea-guernsey-optical-fibre-hugo © || uk-channel-islands-7 © || channel-islands-9-liberty-submarine-cable ©
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 213.19.197.50   50999   239.387                      (Woking, ENG, GB, EU) *                                                                                                   
+S&T (50999)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 109.171.136.4   50999   242.322             (Jeddah, Mecca Region, SA, AS)                                                                                                     

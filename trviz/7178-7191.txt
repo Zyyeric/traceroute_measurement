@@ -1,0 +1,17 @@
+   117.20.118.21   45498   0.0               (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     
+   117.20.118.17   45498   2.024             (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     
+   27.109.113.25   45498   1.257             (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     
+╭─ 27.109.113.6    45498   1.239                     (Phnom Penh, 12, KH, AS) *                                                                                                   
+LHL (45498)  asia-africa-europe-1-aae-1 ✘ ↠ seamewe-4 ✘ || asia-africa-europe-1-aae-1 ✘ ↠ seamewe-3 ✓ || asia-africa-europe-1-aae-1 ✘ ↠ seamewe-5 ✓ || asia-africa-europe-1-aae-1 ✘ ↠ peace-cable ✘
+╰─ 27.109.113.56   45498   37.305              (Singapore, Singapore, SG, AS)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 62.115.138.20   1299    37.717              (Singapore, Singapore, SG, AS) sng-b7-link.ip.twelve99.net                                                                         
+S (1299)  asia-america-gateway-aag-cable-system ©
+├─ 62.115.141.126  1299    199.861             (San Jose, California, US, NA) sjo-b23-link.ip.twelve99.net                                                                        
+S (1299, 25003)  sea-us © ↠ exa-north-and-south ✘ || sea-us © ↠ atlantic-crossing-1-ac-1 ✓ || sea-us © ↠ yellow ✓ || sea-us © ↠ apollo © || sea-us © ↠ tata-tgn-atlantic ✓ || sea-us © ↠ flag-atlantic-1-fa-1 ©
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 212.113.14.250  25003   261.987                     (London, None, GB, EU) IB.edge5.London1.Level3.net                                                                         
+T (25003)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 94.188.255.2    25003   321.442              (Bnei Brak, Tel Aviv, IL, AS) 255.188.94-binat-smaug.in-addr.arpa                                                                 

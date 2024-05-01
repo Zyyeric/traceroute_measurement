@@ -1,0 +1,16 @@
+   103.113.176.82  137566  0.0           (Ban Talat Bueng, Chon Buri, TH, AS)                                                                                                     
+   103.113.176.67  137566  0.762         (Ban Talat Bueng, Chon Buri, TH, AS)                                                                                                     
+   103.113.176.13  137566  0.688         (Ban Talat Bueng, Chon Buri, TH, AS)                                                                                                     
+   113.21.243.145  38082   0.7 (4.981)              (Bangkok, Bangkok, TH, AS) tig-net243-145.trueintergateway.com                                                                 
+╭─ 122.144.26.18   38082   31.693                        (None, None, TH, AS) TIG-Net26-18.trueintergateway.com                                                                   
+S (38082, 137409)  
+├─ 27.111.229.213  137409  30.765                    (Seogwipo, None, KR, AS) 137409.sgw.equinix.com                                                                              
+S (137409, 7578)  
+╰─ 31.217.251.74   7578    33.166              (Singapore, Singapore, SG, AS) unknown.globalsecurelayer.com                                                                       
+╭─ 160.202.164.165 137409  31.765              (Singapore, Singapore, SG, AS)                                                                                                     
+S (137409, 8529)  
+├─ 213.202.6.228   8529    113.075                   (Muscat, Muscat, OM, AS)                                                                                                     
+S&T (8529, 42473)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 213.202.2.1     42473   108.655                        (Dubai, DU, AE, AS) i1.2.202.213omantel.net.om                                                                          
+   37.252.245.94   42473   107.647                     (Dubai, Dubai, AE, AS)                                                                                                     

@@ -1,0 +1,15 @@
+   45.183.45.23    64116   0.0                  (Lima, Lima Province, PE, SA)                                                                                                     
+   45.183.45.1     64116   1.046                (Lima, Lima Province, PE, SA)                                                                                                     
+   10.7.11.129     *       1.31                                           ***                                                                                                     
+╭─ 200.25.44.65    7195    1.326                (Lima, Lima Province, PE, SA) ae100.3007.edge1.lim1.as7195.net                                                                    
+LHL (7195)  south-america-1-sam-1 ✘ || america-movil-submarine-cable-system-1-amx-1 ✓ || globenet ✓
+├─ 200.25.51.99    7195    2.031                      (Sao Paulo, SP, BR, SA) ae1.0.edge2.gru1.as7195.net                                                                         
+S (7195)  brusa ✘ || america-movil-submarine-cable-system-1-amx-1 ✓ || south-america-1-sam-1 ✘ || globenet ✓ || monet ✓ || americas-ii ✓
+╰─ 200.25.51.189   7195    78.663                  (Flagami, Florida, US, NA) ae1051.0.edge2.mia1.as7195.net                                                                      
+   ***             *       -inf                                           *** *                                                                                                   
+   62.115.155.3    1299    78.555                    (Miami, Florida, US, NA) gasnatural-ic-374542.ip.twelve99-cust.net                                                           
+   172.16.43.54    *       121.559                                        ***                                                                                                     
+   10.244.253.18   *       123.323                                        ***                                                                                                     
+╭─ 23.168.104.10   54082   105.569                   (Miami, Florida, US, NA)                                                                                                     
+S&T (54082, 64150)  
+╰─ 45.68.35.213    64150   105.893   (San Pedro Sula, Cortés Department, HN, NA)                                                                                                     

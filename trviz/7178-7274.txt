@@ -1,0 +1,16 @@
+   77.223.128.226  43391   0.0                (İzmir, İzmir Province, TR, AS)                                                                                                     
+   10.200.0.1      *       0.335                                          ***                                                                                                     
+   10.20.0.251     *       1.072                                          ***                                                                                                     
+   10.34.35.9      *       14.914                                         ***                                                                                                     
+   149.14.44.1     174     14.554                (Istanbul, Istanbul, TR, AS) te0-6-0-6.agr21.ist01.atlas.cogentco.com                                                            
+╭─ 154.54.74.205   174     14.716                (Istanbul, Istanbul, TR, AS) be3510.rcr71.ist01.atlas.cogentco.com                                                               
+S&T (174)  kafos ✘
+├─ 154.54.77.238   174     29.641              (Bucharest, București, RO, EU) be3572.ccr31.buh01.atlas.cogentco.com                                                               
+LHL (174, 6762)  seamewe-3 ✓ || high-capacity-undersea-guernsey-optical-fibre-hugo © || uk-channel-islands-8 ✘ || channel-islands-9-liberty-submarine-cable © || uk-channel-islands-7 ✘
+├─ 130.117.15.6    6762    30.059                    (Marseille, PAC, FR, EU) telecomitalia.mrs01.atlas.cogentco.com                                                              
+S&T (6762, 25003)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 212.113.14.250  25003   68.68                       (London, None, GB, EU) IB.edge5.London1.Level3.net                                                                         
+T (25003)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 94.188.255.2    25003   108.191              (Bnei Brak, Tel Aviv, IL, AS) 255.188.94-binat-smaug.in-addr.arpa                                                                 

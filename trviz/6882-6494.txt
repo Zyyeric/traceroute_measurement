@@ -1,0 +1,13 @@
+   80.67.190.218   204092  0.0                     (Rennes, Brittany, FR, EU) ripe-anchor.grifon.fr                                                                               
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   31.172.233.208  30781   1.909     (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) po6-54.er01.ren02.jaguar-network.net                                                                
+   85.31.194.207   30781   17.821                    (Marseille, PAC, FR, EU) be1.er03.mar02.jaguar-network.net                                                                   
+╭─ 37.49.232.60    30844   18.813                   (Marseille, 93, FR, None) france-ix.liquidtelecom.net                                                                         
+S&T (30844)  seamewe-3 ✓
+├─ 5.11.9.127      30844   149.234                       (None, None, GB, EU) 5.11.9.127.liquidtelecom.net                                                                        
+LHL (30844)  europe-india-gateway-eig ✓ ↠ peace-cable ✘ || europe-india-gateway-eig ✓ ↠ seacomtata-tgn-eurasia ✓ || seamewe-3 ✓ ↠ peace-cable ✘ || flag-europe-asia-fea ✓ ↠ peace-cable ✘ || seamewe-3 ✓ ↠ seacomtata-tgn-eurasia ✓ || flag-europe-asia-fea ✓ ↠ seacomtata-tgn-eurasia ✓
+╰─ 197.155.94.188  30844   166.533                    (Nairobi, None, KE, AF) hu-0-1-0-2.lke-p2-nbi.liquidtelecom.net                                                             
+   197.155.94.51   30844   149.131                    (Nairobi, None, KE, AF) xe-0-1-0-1.lke-pe3-nbi.liquidtelecom.net                                                            
+   197.155.93.65   37578   149.156                      (Nairobi, 30, KE, AF) 197.155.93.65.liquidtelecom.net                                                                     
+   196.6.220.42    37578   149.405          (Nairobi, Nairobi County, KE, AF)                                                                                                     

@@ -1,0 +1,21 @@
+   27.111.84.21    135132  0.0           (Cebu City, Central Visayas, PH, AS) ph-ceb-as135132.anchors.atlas.ripe.net                                                              
+   27.111.84.20    135132  1.334             (Baugo, Central Visayas, PH, AS) vlan509.core.ceb02.ds.network                                                                       
+   192.168.159.142 *       22.004                                         ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   192.168.159.168 *       16.167                                         ***                                                                                                     
+   192.168.159.165 *       2.206                                          ***                                                                                                     
+╭─ 203.177.209.217 4775    3.783             (Baugo, Central Visayas, PH, AS)                                                                                                     
+S (4775, 6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 103.16.102.141  6939    39.99                     (Singapore, 1, SG, None) bsccl.sgix.sg                                                                                       
+S (6939, 132602)  
+├─ 103.16.153.30   132602  94.513                        (None, None, BD, AS) 103-16-153-30-noc.bsccl.com                                                                         
+S (132602)  
+├─ 103.16.152.73   132602  94.358                      (Singapore, 4, SG, AS) 103-16-152-73-noc.bsccl.com                                                                         
+S (132602)  
+╰─ 103.16.152.81   132602  88.393                        (None, None, BD, AS) 103-16-152-81-noc.bsccl.com                                                                         
+╭─ 103.16.155.134  9829    104.624                       (None, None, BD, AS) 103-16-155-134-noc.bsccl.com                                                                        
+S (9829)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 117.250.113.140 9829    122.683                  (Guwahati, Assam, IN, AS) static.ill.117.250.113.140.bsnl.co.in                                                               

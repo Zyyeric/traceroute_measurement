@@ -1,0 +1,11 @@
+   185.184.62.4    213093  0.0                         (Varna, Varna, BG, EU)                                                                                                     
+   185.184.62.1    213093  0.332                       (Varna, Varna, BG, EU)                                                                                                     
+   77.71.113.142   57619   0.395                       (Varna, Varna, BG, EU) ip-142-113-71-77.varnadatacenter.net                                                                
+╭─ 77.71.113.1     57619   0.507                         (None, None, BG, EU) ip-1-113-71-77.varnadatacenter.net                                                                  
+T (57619, )  
+├─ 185.1.226.148   *       31.171          (Frankfurt am Main, Hesse, DE, EU) as20764.226.148.netix.net                                                                           
+S (, 20764)  c-lion1 ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 81.27.251.65    20764   92.72                  (Helsinki, Uusimaa, FI, EU) tbs-cl9-cr1.lt-0-0-0-0.rascom.as20764.net                                                           
+LHL (20764, 198150)  georgia-russia ✓
+╰─ 46.8.37.34      198150  94.188                  (Tbilisi, Tbilisi, GE, AS) ge-tbs-as198150.anchors.atlas.ripe.net                                                              

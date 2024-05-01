@@ -1,0 +1,18 @@
+   96.126.70.90    21659   0.0               (Moncton, New Brunswick, CA, NA) 96-126-70-90.apbx.ca                                                                                
+   ***             *       -inf                                           *** *                                                                                                   
+   98.143.249.17   3367    1.501             (Moncton, New Brunswick, CA, NA) enova-98-143-249-17.e-novations.ca                                                                  
+╭─ 209.51.184.133  6939    1.807             (Moncton, New Brunswick, CA, NA) port-channel2.core2.yqm1.he.net                                                                     
+S&T (6939)  exa-north-and-south ✓
+╰─ 72.52.92.9      6939    12.149             (Boston, Massachusetts, US, NA) 100ge0-78.core2.bos1.he.net                                                                         
+   184.104.194.86  6939    17.699           (New York City, New York, US, NA) 100ge0-17.core2.nyc4.he.net                                                                         
+╭─ 184.105.222.190 6939    23.205                 (Ashburn, Virginia, US, NA) port-channel11.core2.ash1.he.net                                                                    
+S (6939, 12956)  
+├─ 94.142.107.105  12956   27.184                        (None, None, ES, EU) *                                                                                                   
+S&T (12956)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 176.52.248.107  12956   99.991                       (London, ENG, GB, EU) *                                                                                                   
+S&T (12956, 60068)  
+├─ 81.173.106.171  60068   101.434                       (None, None, ES, EU) *                                                                                                   
+S&T (60068)  
+╰─ 156.146.32.93   60068   96.166                 (Shadwell, England, GB, EU)                                                                                                     
+   103.170.154.254 142594  96.163                   (London, England, GB, EU) 254.154.170.103.speedyvps.uk                                                                        

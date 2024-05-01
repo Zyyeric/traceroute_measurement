@@ -1,0 +1,21 @@
+   45.11.104.146   57695   0.0                 (Hong Kong, Hong Kong, HK, AS) hk-hkg-as57695.anchors.atlas.ripe.net                                                               
+   ***             *       -inf                                           *** *                                                                                                   
+   45.11.104.7     57695   0.229                    (Hong Kong, None, HK, AS) po-07.lag.hkg12.hk.misaka.io                                                                        
+   199.119.64.150  969     0.281               (Hong Kong, Hong Kong, HK, AS) po103-10.cr1a.eqhk2.hkg12.hk.917.as                                                                 
+   185.229.189.198 60068   0.332               (Hong Kong, Hong Kong, HK, AS) p77-6.cr1a.eqhk2.hkg12.hk.917.as                                                                    
+   203.131.242.153 2914    0.44                (Hong Kong, Hong Kong, HK, AS)                                                                                                     
+╭─ 129.250.5.132   2914    0.936               (Hong Kong, Hong Kong, HK, AS) ae-19.r26.tkokhk01.hk.bb.gin.ntt.net                                                                
+S (2914, 9808)  
+├─ 129.250.5.33    9808    0.863                         (None, None, US, NA) ae-0.a02.tkokhk01.hk.bb.gin.ntt.net                                                                 
+S (9808, 3356)  
+├─ 4.68.75.93      3356    0.958                    (Hong Kong, None, HK, AS) *                                                                                                   
+S (3356, 2152)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 4.35.156.66     2152    151.147                  (Los Angeles, CA, US, NA) CENIC.ear1.LosAngeles1.Level3.net                                                                   
+   137.164.11.87   2152    163.83                     (Riverside, CA, US, NA) dc-riv-agg8--lax-agg10-300g.cenic.net                                                               
+   137.164.11.91   3292    166.511                     (Tri-City, OR, US, NA) dc-tri-agg2--riv-agg8-300g.cenic.net                                                                
+   137.164.46.7    2152    173.397                     (Tri-City, OR, US, NA) cor-agg8--tri-agg2--100ge.cenic.net                                                                 
+   137.164.50.243  2152    172.091                       (Corona, CA, US, NA) sha-coe-1--cor-agg8-10g.cenic.net                                                                   
+   137.164.34.84   2152    172.121                      (Shafter, CA, US, NA) sha-coe-2---to--sha-coe-1--10ge.cenic.net                                                           
+   137.164.13.11   23483   175.538                      (Shafter, CA, US, NA) shacoe-gw2--sha-coe-2-10g.cenic.net                                                                 
+   66.244.16.33    23483   172.285              (Redding, California, US, NA) us-rdd-as23483.anchors.atlas.ripe.net                                                               

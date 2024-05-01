@@ -1,0 +1,11 @@
+   193.1.201.140   1213    0.0                   (Tallaght, Leinster, IE, EU) atlas-anchor.heanet.ie                                                                              
+   193.1.201.138   1213    0.145                   (Dublin, Leinster, IE, EU) pw-spine1-vlan11.services.hea.net                                                                   
+   87.44.56.177    1213    0.327 (1.122)                   (Dublin, L, IE, None) ae3.core1-pw.nn.hea.net                                                                             
+╭─ 185.6.36.117    9002    0.508                          (Dublin, D, IE, EU) inex.retn.net                                                                                       
+S&T (9002)  geo-eirgrid ✘ || rockabill ✓ || esat-2 ✓ || sirius-south ✘ || exa-north-and-south ✘ || havhingstenceltixconnect-2-cc-2 ✓ || exa-express ✘ || pan-european-crossing-uk-ireland ✓ || esat-1 ✓ || solas ✓
+╰─ 87.245.234.163  9002    24.256                (Lowestoft, England, GB, EU) ae0-6.rt.tcn.grq.nl.retn.net                                                                        
+╭─ 87.245.241.225  44678   25.304                        (None, None, GB, EU) GW-TVT.retn.net                                                                                     
+S&T (44678, 59554)  
+╰─ 5.178.113.234   59554   24.821              (Zuidbroek, Groningen, NL, EU)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   45.135.151.45   208751  25.945              (Zuidbroek, Groningen, NL, EU) ripeatlasanchor.dmz.as208751.net                                                                    

@@ -1,0 +1,18 @@
+   102.130.49.144  328383  0.0                (Johannesburg, Gauteng, ZA, AF) za-jnb-as57695.anchors.atlas.ripe.net                                                               
+   ***             *       -inf                                           *** *                                                                                                   
+   102.130.49.3    328383  0.278              (Johannesburg, Gauteng, ZA, AF) spine2.v271.jnb01.za.misaka.io                                                                      
+╭─ 102.130.51.6    *       0.295              (Johannesburg, Gauteng, ZA, AF) e54-1-20.cr2a.tdjb1.jnb1.za.917.as                                                                  
+LHL (, 969)  
+├─ 199.119.64.250  969     0.28                     (Dover, Delaware, US, NA) po100.cr1a.tdjb1.jnb1.za.917.as                                                                     
+LHL (969, 60068)  
+├─ 37.19.193.192   60068   0.345                     (Prague, Prague, CZ, EU) p77-3503.cr1a.tdjb1.jnb1.za.917.as                                                                  
+LHL (60068, 37468)  
+├─ 102.130.70.57   37468   0.465              (Johannesburg, Gauteng, ZA, AF)                                                                                                     
+LHL (37468)  
+├─ 102.219.127.6   37468   144.601             (Singapore, Singapore, SG, AS)                                                                                                     
+S (37468, 55569)  
+├─ 128.241.9.223   55569   130.239                       (None, None, US, NA) ce-0-3-0-0.r00.sngpsi07.sg.ce.gin.ntt.net                                                           
+S (55569)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 182.161.73.67   55569   130.578             (Singapore, Singapore, SG, AS)                                                                                                     
+   182.161.73.41   55569   130.774             (Singapore, Singapore, SG, AS)                                                                                                     

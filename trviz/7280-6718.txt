@@ -1,0 +1,20 @@
+   101.53.31.6     24173   0.0        (Ho Chi Minh City, Ho Chi Minh, VN, AS) ci53.31-6.netnam.vn                                                                                 
+   101.53.31.5     24173   0.495              (Quận Một, Ho Chi Minh, VN, AS) ci53.31-5.netnam.vn                                                                                 
+   10.11.1.65      *       1.5                                            ***                                                                                                     
+   210.86.232.90   24173   2.532              (Quận Một, Ho Chi Minh, VN, AS) ci232-90.netnam.vn                                                                                  
+╭─ 210.86.233.41   24176   2.19 (5.257)         (Quận Một, Ho Chi Minh, VN, AS) ci233-41.netnam.vn                                                                                  
+S&T (24176)  
+├─ 210.86.233.10   24176   18.386              (Singapore, Singapore, SG, AS) ci233-10.netnam.vn                                                                                  
+S (24176, 6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.194.200 6939    504.856   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) port-channel15.core4.mrs1.he.net                                                                    
+S (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.196.194 6939    168.934                       (Denver, CO, US, NA) port-channel1.core1.den3.he.net                                                                     
+LHL (6939)  
+╰─ 184.105.64.170  6939    179.671                       (Athens, A1, GR, EU) 100ge0-36.core1.ath1.he.net                                                                         
+   184.104.191.234 6939    178.1                     (Koropí, Attica, GR, EU) fast-telecom-p-c.e0-7.core1.ath1.he.net                                                             
+   ***             *       -inf                                           *** *                                                                                                   
+   185.14.96.225   211186  193.004            (Lamía, Central Greece, GR, EU) vlan4090.lamia.fast.net.gr                                                                          
+   185.14.96.232   211186  190.365            (Lamía, Central Greece, GR, EU)                                                                                                     

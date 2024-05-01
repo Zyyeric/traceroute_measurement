@@ -1,0 +1,29 @@
+   10.252.4.170    *       0.0                                            ***                                                                                                     
+   10.252.4.169    *       0.139                                          ***                                                                                                     
+   10.252.4.153    *       0.134                                          ***                                                                                                     
+   10.252.0.37     *       11.341                                         ***                                                                                                     
+   10.252.2.138    *       13.826                                         ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 154.25.16.81    174     15.303                (Istanbul, Istanbul, TR, AS) be3821.rcr71.ist01.atlas.cogentco.com                                                               
+S (174)  
+├─ 154.54.74.226   174     24.212                         (Lyon, ARA, FR, EU) be2881.rcr21.lys01.atlas.cogentco.com                                                               
+LHL (174)  
+├─ 130.117.0.94    174     31.969                       (Belgrade, 0, RS, EU) be3421.ccr51.beg03.atlas.cogentco.com                                                               
+T (174)  
+├─ 130.117.0.125   174     34.456                      (Budapest, PE, HU, EU) be3422.ccr31.bud01.atlas.cogentco.com                                                               
+T (174)  
+├─ 130.117.3.137   174     36.694                    (Bratislava, BL, SK, EU) be3261.ccr21.bts01.atlas.cogentco.com                                                               
+T (174)  
+├─ 154.54.59.86    174     40.133                         (Vienna, 9, AT, EU) be2988.ccr51.vie01.atlas.cogentco.com                                                               
+LHL (174, 1299)  
+├─ 130.117.14.182  1299    41.724                        (None, None, SE, EU) *                                                                                                   
+S&T (1299)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 62.115.137.202  1299    52.559          (Frankfurt am Main, Hesse, DE, EU) ffm-bb1-link.ip.twelve99.net                                                                        
+T (1299)  
+├─ 62.115.124.59   1299    65.737    (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) mei-b5-link.ip.twelve99.net                                                                         
+S (1299)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 62.115.138.21   1299    307.938             (Singapore, Singapore, SG, AS) snge-b5-link.ip.twelve99.net                                                                        
+   62.115.148.77   1299    313.295             (Singapore, Singapore, SG, AS) wikimedia-ic-331928.ip.twelve99-cust.net                                                            
+   103.102.166.20  14907   312.645             (Singapore, Singapore, SG, AS) ripe-atlas-eqsin.wikimedia.org                                                                      

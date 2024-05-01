@@ -1,0 +1,16 @@
+   103.253.132.25  59238   0.0                     (Bangkok, Bangkok, TH, AS) th-bkk-as59238.anchors.atlas.ripe.net                                                               
+   103.253.132.1   59238   0.345                (Khlong San, Bangkok, TH, AS) gw-cat.idc.inox.co.th                                                                               
+   172.24.132.24   *       0.229                                          ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 122.155.224.73  4651    1.158                (Khlong San, Bangkok, TH, AS)                                                                                                     
+S&T (4651)  asia-america-gateway-aag-cable-system ✓ || seamewe-4 ✓ || seamewe-3 ✓
+├─ 61.19.9.138     4651    35.122              (Singapore, Singapore, SG, AS)                                                                                                     
+LHL (4651, 2611)  seamewe-5 ✓ || seamewe-4 ✓ || peace-cable ✘ || seamewe-3 ✓
+├─ 80.249.208.43   2611    196.572                     (Schiphol, NH, NL, EU) amsix.brueve.belnet.net                                                                             
+S&T (2611)  
+├  10.28.35.93     *       198.137                                        ***                                                                                                     
+╰─ 193.191.18.10   2611    198.044                    (Brussels, BRU, BE, EU) ua.r1.antwil.belnet.net                                                                             
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   143.129.67.78   2611    200.88                        (None, None, BE, EU) *                                                                                                   
+   143.129.80.132  2611    199.659              (Antwerpen, Flanders, BE, EU)                                                                                                     

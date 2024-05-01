@@ -1,0 +1,17 @@
+   103.170.25.13   142360  0.0               (Semarang, Central Java, ID, AS) ipv4-13-25-170-103.nexa.net.id                                                                      
+   103.170.25.9    142360  0.356             (Semarang, Central Java, ID, AS) ipv4-9-25-170-103.nexa.net.id                                                                       
+   103.170.24.253  142360  0.294             (Semarang, Central Java, ID, AS) ipv4-253-24-170-103.nexa.net.id                                                                     
+╭─ 103.87.186.178  136106  8.98               (Mega, Southwest Papua, ID, AS) ip186-178.fiberstar.net.id                                                                          
+S&T (136106)  australia-singapore-cable-asc ✓ || matrix-cable-system ✘ || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || indonesia-global-gateway-igg-system ✓ || indigo-west ✓ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || jasuka ✓
+╰─ 103.87.186.29   136106  20.442              (Singapore, Singapore, SG, AS) ip186-29.fiberstar.net.id                                                                           
+   184.104.210.181 6939    19.814              (Singapore, Singapore, SG, AS) port-channel6.switch2.sin2.he.net                                                                   
+╭─ 184.104.199.149 6939    20.169              (Singapore, Singapore, SG, AS) port-channel19.core3.sin1.he.net                                                                    
+S (6939)  asia-submarine-cable-express-asecahaya-malaysia ✓ || seamewe-3 ✓ || eac-c2c ✓ || apcn-2 ✓ || southeast-asia-japan-cable-sjc ✓ || asia-pacific-gateway-apg ✓
+├─ 184.105.64.254  6939    88.12                 (Tokyo / Narita, 12, JP, AS) 100ge16-2.core1.tyo1.he.net                                                                         
+S (6939, 63949)  tata-tgn-pacific ✓ || faster ✓ || japan-u-s-cable-network-jus ✓ || new-cross-pacific-ncp-cable-system ✓ || jupiter ✓ || trans-pacific-express-tpe-cable-system ✓ || unityeac-pacific ✓ || pacific-crossing-1-pc-1 ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 206.223.116.196 63949   194.91                    (San Jose, CA, US, None) eqix-sv1.linode.com                                                                                 
+   10.203.32.3     *       194.064                                        ***                                                                                                     
+   10.203.64.39    *       194.628                                        ***                                                                                                     
+   10.203.4.238    *       194.743                                        ***                                                                                                     
+   45.79.110.82    63949   195.08               (Fremont, California, US, NA) li1209-82.members.linode.com                                                                        

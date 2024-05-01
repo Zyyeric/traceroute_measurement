@@ -1,0 +1,19 @@
+   196.49.15.189   328998  0.0              (Kampala, Central Region, UG, AF)                                                                                                     
+   196.49.15.253   328998  0.321            (Kampala, Central Region, UG, AF)                                                                                                     
+   41.191.77.205   37063   0.658            (Kampala, Central Region, UG, AF)                                                                                                     
+   129.205.30.77   37063   1.034                         (Kampala, C, UG, AF) *                                                                                                   
+╭─ 129.205.30.230  37063   8.639            (Kampala, Central Region, UG, AF)                                                                                                     
+T (37063, 6939)  
+├─ 196.223.21.74   6939    160.512                     (Nairobi, 5, KE, None) *                                                                                                   
+S&T (6939)  
+├─ 184.104.189.42  6939    161.802               (Djibouti, Djibouti, DJ, AF) ve1004.core2.jib1.he.net                                                                            
+S (6939, 4651)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 74.82.46.34     4651    238.11                   (Singapore, None, SG, AS) cat-telecom-public-company-ltd.e0-38.switch1.sin1.he.net                                            
+S&T (4651)  
+╰─ 61.19.9.137     4651    278.401                 (Bangkok, Bangkok, TH, AS)                                                                                                     
+   61.19.7.78      4651    281.84                        (None, None, TH, AS) *                                                                                                   
+   122.155.224.74  135063  277.423                       (None, None, TH, AS) *                                                                                                   
+   172.21.21.5     *       279.345                                        ***                                                                                                     
+   172.24.132.102  *       279.576                                        ***                                                                                                     
+   103.253.132.25  59238   277.882                 (Bangkok, Bangkok, TH, AS) th-bkk-as59238.anchors.atlas.ripe.net                                                               

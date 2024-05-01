@@ -1,0 +1,16 @@
+   103.160.63.222  140443  0.0                     (Jakarta, Jakarta, ID, AS) 222.63.160.103.in-addr.herza.id                                                                     
+╭─ 103.160.63.129  140443  0.253                   (Jakarta, Jakarta, ID, AS) 129.63.160.103.in-addr.herza.id                                                                     
+S&T (140443, 3491)  indonesia-global-gateway-igg-system ✓ || australia-singapore-cable-asc ✓ || matrix-cable-system ✘ || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || seamewe-3 ✓ || jasuka ✓ || indigo-west ✘ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || jakabare ✘
+├  10.111.220.46   *       0.392                                          ***                                                                                                     
+├  10.111.220.6    *       12.285                                         ***                                                                                                     
+├  10.111.222.209  *       12.391                                         ***                                                                                                     
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 63.216.144.42   3491    191.404             (Singapore, Singapore, SG, AS) 63-216-144-42.static.pccwglobal.net                                                                 
+S (3491, 3257)  
+├─ 89.149.187.109  3257    252.595                      (London, ENG, GB, EU) ae15.cr11-lon1.ip4.gtt.net                                                                          
+S&T (3257, 8895)  
+├─ 154.14.64.198   8895    337.681                    (Amsterdam, NH, NL, EU) ip4.gtt.net                                                                                         
+LHL (8895, 208520)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 45.94.14.204    208520  337.513            (Riyadh, Riyadh Region, SA, AS)                                                                                                     

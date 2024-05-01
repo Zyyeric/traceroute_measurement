@@ -1,0 +1,19 @@
+   204.8.154.50    10961   0.0                (Boston, Massachusetts, US, NA) cs-atlas.bu.edu                                                                                     
+   128.197.255.155 111     1.243              (Boston, Massachusetts, US, NA)                                                                                                     
+   128.197.255.154 111     1.461              (Boston, Massachusetts, US, NA)                                                                                                     
+╭─ 128.197.254.114 111     3.461              (Boston, Massachusetts, US, NA) comm595-bdr-gw01-gi1-2-comm595-core-aca01-gi2-16.bu.edu                                             
+S (111, 20965)  flag-atlantic-1-fa-1 ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 198.71.45.237   20965   93.53                         (Paris, IDF, FR, EU) *                                                                                                   
+S&T (20965)  
+├─ 62.40.98.106    20965   102.418                       (Lisbon, 11, PT, EU) ae0.mx2.lis.pt.geant.net                                                                            
+S&T (20965)  
+├─ 62.40.98.64     20965   93.46                    (London, England, GB, EU) ae2.mx1.lon.uk.geant.net                                                                            
+S&T (20965)  
+╰─ 62.40.98.26     20965   99.994                  (Dublin, Leinster, IE, EU) ae6.mx1.dub.ie.geant.net                                                                            
+   62.40.125.126   1213    88.865                         (Dublin, D, IE, EU) heanet.mx1.dub.ie.geant.net                                                                         
+   87.44.53.58     1213    84.913                  (Dublin, Leinster, IE, EU) ae4-0.core1-pw.nn.hea.net                                                                           
+   87.44.56.178    1213    87.014                           (Cork, M, IE, EU) po2.pw-spine1.nn.hea.net                                                                            
+   193.1.201.140   1213    85.98                 (Tallaght, Leinster, IE, EU) atlas-anchor.heanet.ie                                                                              

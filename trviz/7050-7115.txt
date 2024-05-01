@@ -1,0 +1,27 @@
+   123.176.1.4     7642    0.0                    (Male, Kaafu Atoll, MV, AS)                                                                                                     
+   123.176.1.2     7642    1.096                  (Male, Kaafu Atoll, MV, AS)                                                                                                     
+╭─ 202.1.205.246   7642    1.19                   (Male, Kaafu Atoll, MV, AS) xe-1-1-1-1.rt.dhivehinet.net.mv                                                                     
+LHL (7642, 60171)  peace-cable ✘ ↠ europe-india-gateway-eig ✓ || peace-cable ✘ ↠ seamewe-3 ✓ || peace-cable ✘ ↠ flag-europe-asia-fea ✘
+╰─ 195.66.226.123  60171   135.255                    (London, ENG, GB, None) *                                                                                                   
+   185.10.164.69   60171   486.81                       (London, ENG, GB, EU) *                                                                                                   
+╭─ 185.10.164.65   60171   486.971                      (London, ENG, GB, EU) *                                                                                                   
+S&T (60171)  
+├─ 185.10.164.75   60171   487.314             (Paris, Île-de-France, FR, EU)                                                                                                     
+S&T (60171)  
+├─ 102.220.219.74  60171   487.294            (Johannesburg, Gauteng, ZA, AF)                                                                                                     
+T (60171)  
+╰─ 185.10.164.113  60171   484.641                      (London, ENG, GB, EU) *                                                                                                   
+╭─ 185.10.164.135  60171   487.433                      (London, ENG, GB, EU) *                                                                                                   
+S&T (60171)  
+├─ 185.10.164.32   60171   488.357             (Paris, Île-de-France, FR, EU)                                                                                                     
+S (60171)  
+├─ 102.223.52.73   60171   484.346                     (Lagos, Lagos, NG, AF)                                                                                                     
+S&T (60171)  
+├─ 185.10.164.45   60171   487.598                      (London, ENG, GB, EU) *                                                                                                   
+S&T (60171)  
+├─ 102.219.44.43   60171   484.191                     (Lagos, Lagos, NG, AF)                                                                                                     
+S&T (60171, 328913)  
+╰─ 196.49.84.51    328913  485.638                 (Abidjan, Abidjan, CI, AF) bdr3.std.douala-ix.net                                                                              
+╭─ 196.49.84.36    328913  484.941                 (Abidjan, Abidjan, CI, AF) gw1.std.douala-ix.net                                                                               
+S&T (328913)  
+╰─ 196.49.84.188   328913  488.257                 (Douala, Littoral, CM, AF) cm-dla-as328913.anchors.atlas.ripe.net                                                              

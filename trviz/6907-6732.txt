@@ -1,0 +1,20 @@
+   163.117.253.5   766     0.0                       (Madrid, Madrid, ES, EU)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   172.17.0.53     *       1.289                                          ***                                                                                                     
+   193.145.15.49   766     1.63                     (Leganés, Madrid, ES, EU) csic-rt-ju-02-xe-4-0-6.net.redimadrid.es                                                            
+   130.206.216.1   766     2.244                     (Madrid, Madrid, ES, EU) redimadrid-backup.ethtrunk8-103.telmad.rt1.mad.red.rediris.es                                       
+   130.206.245.26  766     2.388                         (None, None, ES, EU) telmad.rt1.ethtrunk13.ciemat.rt2.mad.red.rediris.es                                                 
+╭─ 193.149.1.141   201011  2.801                       (Madrid, 29, ES, None) core-backbone.baja.espanix.net                                                                      
+T (201011)  
+╰─ 81.95.15.206    201011  33.704                   (Nuremberg, None, DE, EU) ae1-2014.nbg40.core-backbone.com                                                                    
+   80.255.9.22     24940   38.487                        (Berlin, BE, DE, EU) core-backbone.hetzner.com                                                                           
+   213.239.245.73  24940   39.11                         (None, None, DE, EU) 213-239-245-73.clients.your-server.de                                                               
+   213.239.245.33  24940   36.868                        (None, None, DE, EU) core4.fra.hetzner.com                                                                               
+   213.239.245.86  24940   36.94                         (None, None, DE, EU) core8.fra.hetzner.com                                                                               
+   213.239.224.150 24940   58.356                        (None, None, DE, EU) core31.hel1.hetzner.com                                                                             
+╭─ 213.239.224.37  24940   62.504                        (None, None, DE, EU) juniper4.dc1.hel1.hetzner.com                                                                       
+S (24940, 16302)  
+╰─ 213.239.239.114 16302   60.548                         (Espoo, 18, FI, EU) suomicom-gw.hetzner.com                                                                             
+   77.246.204.230  203296  60.141                      (Helsinki, 18, FI, EU) gw-l1.dei.fi                                                                                        
+   185.139.168.19  203296  60.485                 (Helsinki, Uusimaa, FI, EU) fi-hel-as203296.anchors.atlas.ripe.net                                                              

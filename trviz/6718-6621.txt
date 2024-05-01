@@ -1,0 +1,19 @@
+   185.25.205.152  60798   0.0                      (Milan, Lombardy, IT, EU) 152.205.25.185.servereasy.it                                                                        
+   185.25.205.1    60798   0.308                    (Milan, Lombardy, IT, EU) 1.205.25.185.servereasy.it                                                                          
+   45.138.18.1     60798   1.439                   (Monopoli, Apulia, IT, EU)                                                                                                     
+╭─ 78.152.49.149   3257    1.001                    (Milan, Lombardy, IT, EU) eth1-1.r1.mil1.it.atrato.net                                                                        
+LHL (3257)  asia-africa-europe-1-aae-1 ✓ || seamewe-5 ✓ || imewe ✓
+├─ 89.149.138.186  3257    0.912                      (Amsterdam, NH, NL, EU) xe-0-1-0.cr7-ams24.ip4.gtt.net                                                                      
+T (3257, 3356)  
+╰─ 4.68.39.133     3356    1.037                        (Milan, None, IT, EU) ae-17.edge1.Milan1.Level3.net                                                                       
+╭─ 213.242.65.182  41095   1.357                        (Milan, None, IT, EU) IPTRIPLEPLA.edge1.Milan1.Level3.net                                                                 
+S (41095)  asia-africa-europe-1-aae-1 ✓ ↠ seamewe-4 ✓ || asia-africa-europe-1-aae-1 ✓ ↠ seamewe-3 ✓ || asia-africa-europe-1-aae-1 ✓ ↠ seamewe-5 ✓ || seamewe-5 ✓ ↠ seamewe-4 ✓ || seamewe-5 ✓ ↠ seamewe-3 ✓ || seamewe-5 ✓ ↠ seamewe-5 ✓ || imewe ✓ ↠ seamewe-4 ✓ || imewe ✓ ↠ seamewe-3 ✓ || imewe ✓ ↠ seamewe-5 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 103.242.73.133  41095   230.726             (Singapore, Singapore, SG, AS) rt986164.r0.616.eq.sg.iptp.net                                                                      
+S&T (41095, 24176)  
+╰─ 210.86.233.17   24176   249.727    (Ho Chi Minh City, Ho Chi Minh, VN, AS) ci233-17.netnam.vn                                                                                  
+   210.86.233.30   24176   250.193    (Ho Chi Minh City, Ho Chi Minh, VN, AS) ci233-30.netnam.vn                                                                                  
+   210.86.232.101  24173   249.58                         (Hanoi, HN, VN, AS) ci232-101.netnam.vn                                                                                 
+   ***             *       -inf                                           *** *                                                                                                   
+   101.53.31.6     24173   252.18     (Ho Chi Minh City, Ho Chi Minh, VN, AS) ci53.31-6.netnam.vn                                                                                 

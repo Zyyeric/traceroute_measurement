@@ -1,0 +1,23 @@
+   202.214.97.16   2497    0.0                      (Hatsudai, Tokyo, JP, AS)                                                                                                     
+   202.214.97.2    2497    2.351                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+   210.138.93.41   2497    0.432                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+   58.138.114.233  2497    0.909                       (Tokyo, Tokyo, JP, AS) tky009ipgw00.iij.net                                                                                
+   58.138.114.137  2497    0.828                       (Tokyo, Tokyo, JP, AS) tky009bb00.iij.net                                                                                  
+   58.138.112.50   2497    3.192                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+╭─ 58.138.114.6    2497    1.643                       (Tokyo, Tokyo, JP, AS) tky009ix53.iij.net                                                                                  
+S (2497, 6939)  japan-u-s-cable-network-jus ✓ || tata-tgn-pacific ✓ || pacific-crossing-1-pc-1 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.64.138  6939    111.345                     (Portland, OR, US, NA) 100ge15-1.core1.pdx1.he.net                                                                         
+╭─ 206.81.80.40    6939    122.341                      (Seattle, WA, US, NA) 100ge14-2.core1.sea1.he.net                                                                         
+S&T (6939)  
+╰─ 184.104.196.222 6939    125.94                     (Vancouver, BC, CA, NA) port-channel2.core2.yvr1.he.net                                                                     
+╭─ 184.104.195.14  6939    115.093      (Vancouver, British Columbia, CA, NA) port-channel1.core1.yvr2.he.net                                                                     
+S&T (6939, 14007)  
+├─ 65.49.79.250    14007   113.967                       (None, None, US, NA) *                                                                                                   
+S&T (14007)  
+╰─ 216.251.132.66  14007   125.33                         (Delta, BC, CA, NA) tranAvan2.skywaywest.net                                                                            
+   216.251.158.65  395152  125.427              (North Vancouver, BC, CA, NA) *                                                                                                   
+   192.102.254.220 395152  114.489      (Vancouver, British Columbia, CA, NA)                                                                                                     

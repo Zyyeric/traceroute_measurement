@@ -1,0 +1,13 @@
+   193.1.201.140   1213    0.0                   (Tallaght, Leinster, IE, EU) atlas-anchor.heanet.ie                                                                              
+   193.1.201.138   1213    0.642                   (Dublin, Leinster, IE, EU) pw-spine1-vlan11.services.hea.net                                                                   
+   87.44.56.177    1213    0.455                        (Dublin, L, IE, None) ae3.core1-pw.nn.hea.net                                                                             
+   87.44.53.59     1213    0.824              (Blessington, Leinster, IE, EU) ae4-0.core1-cwt.nn.hea.net                                                                          
+╭─ 83.97.88.73     21320   1.142                          (Dublin, D, IE, EU) heanet-ias-geant-gw.dub.ie.geant.net                                                                
+S&T (21320, 20965)  geo-eirgrid ✘ || rockabill ✘ || esat-2 ✓ || sirius-south ✘ || exa-north-and-south ✘ || havhingstenceltixconnect-2-cc-2 ✓ || exa-express ✘ || pan-european-crossing-uk-ireland ✓ || esat-1 ✓ || solas ✘
+├─ 62.40.98.27     20965   15.631                   (London, England, GB, EU) ae6.mx1.lon.uk.geant.net                                                                            
+S&T (20965)  
+╰─ 62.40.98.22     20965   15.024          (Amsterdam, North Holland, NL, EU) ae4.rt1.ams.nl.geant.net                                                                            
+   80.249.209.215  16265   14.996                     (Amsterdam, NH, NL, EU) et-1-0-0.bb04.ams-01.leaseweb.net                                                                   
+   31.31.38.141    16265   15.175                     (Amsterdam, NH, NL, EU) ae-104.br01.ams-01.nl.leaseweb.net                                                                  
+   81.17.35.93     *       15.142          (Amsterdam, North Holland, NL, EU) po-1.ce04.ams-01.nl.leaseweb.net                                                                    
+   185.51.192.48   60781   16.845            (Haarlem, North Holland, NL, EU)                                                                                                     

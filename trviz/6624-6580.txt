@@ -1,0 +1,26 @@
+   103.40.209.7    63834   0.0                         (Tokyo, Tokyo, JP, AS)                                                                                                     
+   103.40.209.3    63834   0.19                      (Urayasu, Tokyo, JP, AS)                                                                                                     
+   10.255.194.66   *       0.252                                          ***                                                                                                     
+╭─ 61.213.169.9    2914    3.693                       (Tokyo, Tokyo, JP, AS) ge-103-0-0-27.r02.tokyjp05.jp.bb.gin.ntt.net                                                        
+S (2914)  japan-u-s-cable-network-jus 👍 || tata-tgn-pacific ✓ || pacific-crossing-1-pc-1 👍
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 129.250.6.176   2914    160.728                       (None, None, US, NA) ae-11.sayonara-dorian.r20.nwrknj03.us.bb.gin.ntt.net                                                
+   129.250.6.17    2914    161.71                        (None, None, US, NA) ae-0.sayonara-dorian.r21.nwrknj03.us.bb.gin.ntt.net                                                 
+   129.250.4.195   2914    246.098                       (None, None, US, NA) ae-11.r20.parsfr04.fr.bb.gin.ntt.net                                                                
+   129.250.3.46    2914    246.402                       (None, None, US, NA) ae-2.r21.parsfr04.fr.bb.gin.ntt.net                                                                 
+   129.250.4.189   2914    259.933                       (None, None, US, NA) ae-6.r20.mlanit02.it.bb.gin.ntt.net                                                                 
+╭─ 129.250.3.121   2914    257.261                       (None, None, US, NA) ae-40.sayonara-dorian.r02.snjsca04.us.bb.gin.ntt.net                                                
+LHL (2914, 9121)  exa-north-and-south ✘ || atlantic-crossing-1-ac-1 ✓ || apollo ✓ || yellow ✓ || tata-tgn-atlantic ✓ || flag-atlantic-1-fa-1 ©
+├─ 81.25.202.134   9121    280.887                       (None, None, SE, EU) fastweb-0.r01.mlanit01.it.bb.gin.ntt.net                                                            
+LHL (9121)  mednautilus-submarine-system ✘ || seamewe-5 ✓ || seamewe-3 👍
+╰─ 212.156.141.219 9121    290.67                          (Aydin, 9, TR, AS) 06-incesu-xrs-t2-2---306-mil-col-3.statik.turktelekom.com.tr                                        
+   81.212.211.160  9121    288.91                        (None, None, TR, AS) 06-incesu-xrs-t2-1---06-incesu-xrs-t2-2.statik.turktelekom.com.tr                                   
+   81.212.210.104  9121    287.947                       (None, None, TR, AS) 06-ulus-xrs-t2-1---06-incesu-xrs-t2-1.statik.turktelekom.com.tr                                     
+╭─ 212.156.76.30   9121    325.169                   (Ankara, Ankara, TR, AS) 212.156.76.30.static.turktelekom.com.tr                                                             
+T (9121, 3216)  
+╰─ 79.104.133.65   3216    373.89                        (None, None, RU, EU) pe01.Ulan-Ude.gldn.net                                                                              
+   194.186.61.18   58067   362.08                       (Moscow, MOW, RU, EU) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   176.114.16.104  58067   379.08    (Chita, Zabaykalskiy (Transbaikal) Kray, RU, EU)                                                                                                     

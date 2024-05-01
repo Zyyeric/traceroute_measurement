@@ -1,0 +1,14 @@
+╭─ 185.92.128.30   60924   0.0                         (Dubai, Dubai, AE, AS)                                                                                                     
+LHL (60924)  
+├─ 185.92.128.4    60924   0.317                         (None, None, IE, EU) *                                                                                                   
+LHL (60924)  
+╰─ 185.92.128.3    60924   0.31                        (Dubai, Dubai, AE, AS)                                                                                                     
+╭─ 151.248.103.94  59605   0.733                       (Dubai, Dubai, AE, AS)                                                                                                     
+S (59605)  
+├─ 151.248.96.2    59605   120.906                       (None, None, BH, AS) *                                                                                                   
+LHL (59605, 3356)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 171.75.8.45     3356    210.429                   (Madrid, Madrid, ES, EU) ae1.3103.edge1.mad2.neo.colt.net                                                                    
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   147.84.200.125  39069   222.28                    (Murcia, Murcia, ES, EU)                                                                                                     

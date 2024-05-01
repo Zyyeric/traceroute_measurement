@@ -1,0 +1,16 @@
+   130.193.166.22  21277   0.0                         (Erbil, Arbīl, IQ, AS)                                                                                                     
+╭─ 130.193.166.21  21277   0.442                       (Erbil, Arbīl, IQ, AS)                                                                                                     
+LHL (21277, 13335)  seamewe-3 ✓
+├─ 5.23.0.73       13335   0.878                      (Algeciras, AN, ES, EU) *                                                                                                   
+S (13335, 21277)  
+├─ 5.23.0.72       21277   28.538                      (Istanbul, 34, TR, AS) ix-ae-13-0.tcore1.it5-istanbul.as6453.net                                                           
+LHL (21277, 24940)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 213.239.224.178 24940   93.253                        (None, None, DE, EU) core9.fra.hetzner.com                                                                               
+   213.239.224.169 24940   93.231                        (None, None, DE, EU) core32.hel1.hetzner.com                                                                             
+╭─ 213.239.224.25  24940   93.558                        (None, None, DE, EU) juniper4.dc1.hel1.hetzner.com                                                                       
+S (24940, 16302)  
+╰─ 213.239.239.114 16302   93.809                         (Espoo, 18, FI, EU) suomicom-gw.hetzner.com                                                                             
+   77.246.204.230  203296  94.005                      (Helsinki, 18, FI, EU) gw-l1.dei.fi                                                                                        
+   185.139.168.19  203296  94.578                 (Helsinki, Uusimaa, FI, EU) fi-hel-as203296.anchors.atlas.ripe.net                                                              

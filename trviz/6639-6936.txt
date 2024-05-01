@@ -1,0 +1,14 @@
+   185.209.84.141  57578   0.0               (Khabarovsk, Khabarovsk, RU, EU) ru-khv-as57578.anchors.atlas.ripe.net                                                               
+   185.209.84.10   198412  0.176                    (Khabarovsk, KHA, RU, AS) ae1-0.c10.khv01.ru.misaka.io                                                                        
+   92.38.191.67    210756  0.286             (Khabarovsk, Khabarovsk, RU, EU) vrrp.edgecenter.ru                                                                                  
+   92.223.110.2    210756  0.24              (Khabarovsk, Khabarovsk, RU, EU)                                                                                                     
+   10.255.10.187   *       0.376                                          ***                                                                                                     
+╭─ 217.150.56.138  20485   0.578                         (None, None, RU, EU) kbk06.transtelecom.net                                                                              
+S (20485)  russia-japan-cable-network-rjcn ✓ || sakhalin-kuril-islands-cable ✓ || hokkaido-sakhalin-cable-system-hscs 👍
+├─ 203.190.230.77  20485   29.739                (Tokyo / Narita, 12, JP, AS) 20485.tyo.equinix.com                                                                               
+S (20485, 58453)  apcn-2 ✓ || seamewe-3 ✓ || asia-submarine-cable-express-asecahaya-malaysia ✘ || flag-north-asia-loopreach-north-asia-loop ✓ || southeast-asia-japan-cable-sjc ✓ || flag-europe-asia-fea ✓ || eac-c2c ✘ || asia-pacific-gateway-apg ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 223.118.2.170   58453   248.085                       (None, None, HK, AS) *                                                                                                   
+   223.119.0.93    202196  248.431                       (None, None, HK, AS) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   37.10.40.14     202196  254.145             (Hong Kong, Hong Kong, HK, AS)                                                                                                     

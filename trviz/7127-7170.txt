@@ -1,0 +1,14 @@
+   86.38.3.141     15419   0.0                       (Kaunas, Kaunas, LT, EU) 141.3.38.86.static.telecentras.lt                                                                   
+   86.38.3.142     15419   0.205 (4.531)              (Vilnius, Vilnius, LT, EU) 142.3.38.86.static.telecentras.lt                                                                   
+   10.0.0.97       *       0.41                                           ***                                                                                                     
+   10.0.0.77       *       0.491                                          ***                                                                                                     
+   10.0.0.30       *       2.11                                           ***                                                                                                     
+   213.197.128.101 15440   1.108                   (Vilnius, Vilnius, LT, EU) sql1.data.lt                                                                                        
+   213.197.128.21  15440   33.995                  (Vilnius, Vilnius, LT, EU)                                                                                                     
+╭─ 80.77.167.184   28917   2.396                   (Vilnius, Vilnius, LT, EU) vilnius-sk-b1-ae1-vlan3607.fiord.net                                                                
+LHL (28917)  nordbalt ✘ ↠ baltica ✓ || bcs-east-west-interlink ✘ ↠ baltica ✓
+├─ 62.140.239.53   28917   22.321          (Frankfurt am Main, Hesse, DE, EU) frankfurt-nt-b1-ae1-vlan3699.fiord.net                                                              
+S&T (28917, 8473)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 176.10.179.84   8473    29.231                          (Malmo, M, SE, EU) mmo-cr1.mmo-cr4.bahnhof.net                                                                         
+   192.42.97.214   8473    29.846                      (Malmö, Skåne, SE, EU) se-mma-as8473.anchors.atlas.ripe.net                                                                

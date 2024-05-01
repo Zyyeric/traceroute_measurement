@@ -1,0 +1,16 @@
+╭─ 185.92.128.30   60924   0.0                         (Dubai, Dubai, AE, AS)                                                                                                     
+LHL (60924)  
+├─ 185.92.128.4    60924   0.247                         (None, None, IE, EU) *                                                                                                   
+LHL (60924, 8966)  
+├─ 195.229.27.145  8966    0.247 (4.579)                    (None, None, AE, AS) *                                                                                                   
+LHL (8966, 8551)  
+├  10.229.0.83     *       128.712                                        ***                                                                                                     
+├─ 80.249.209.46   8551    113.247                     (Schiphol, NH, NL, EU) *                                                                                                   
+LHL (8551)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 62.219.189.1    8551    170.572               (Rishon LeZiyyon, M, IL, AS) bzq-219-189-1.dsl.bezeqint.net                                                                      
+   212.179.124.6   8551    170.862              (Ramat Gan, Tel Aviv, IL, AS) bzq-179-124-6.cust.bezeqint.net                                                                     
+   212.179.124.186 8551    170.421                     (Tel Aviv, TA, IL, AS) bzq-179-124-186.cust.bezeqint.net                                                                   
+   82.81.82.2      8551    202.691               (Tel Aviv, Tel Aviv, IL, AS) bzq-82-81-82-2.red.bezeqint.net                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   146.185.219.73  202422  170.449    (Petaẖ Tiqva, Central District, IL, AS)                                                                                                     

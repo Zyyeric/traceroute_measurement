@@ -1,0 +1,16 @@
+   103.77.105.3    133800  0.0                     (Jakarta, Jakarta, ID, AS) ip-3-105-77-103.jkt-1.biznetg.io                                                                    
+   ***             *       -inf                                           *** *                                                                                                   
+   137.59.127.33   *       0.476                   (Jakarta, Jakarta, ID, AS) xe-0-2.cr01.jkt.biznetg.io                                                                          
+   202.169.59.21   17451   2.996                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+╭─ 182.253.255.18  17451   1.316                   (Jakarta, Jakarta, ID, AS)                                                                                                     
+S&T (17451)  jasuka ✓ ↠ jakabare ✓ || jasuka ✓ ↠ jasuka ✓ || jakarta-bangka-bintan-batam-singapore-b3js ✘ ↠ b2js-jakarta-bangka-batam-singapore-cable-system ✘ || jakarta-bangka-bintan-batam-singapore-b3js ✘ ↠ jakarta-bangka-bintan-batam-singapore-b3js ✘
+╰─ 182.253.187.2   17451   12.094                      (Singapore, 4, SG, AS) jkt-gs-1.biznetnetworks.com                                                                         
+   184.104.199.150 6939    13.042              (Singapore, Singapore, SG, AS) port-channel1.core1.sin2.he.net                                                                     
+╭─ 103.16.102.81   6939    12.979                    (Singapore, 1, SG, None) hurricane-electric.sgix.sg                                                                          
+S (6939, )  apcn-2 ✓ || eac-c2c ✓ || asia-pacific-gateway-apg ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 203.190.230.209 *       90.467                      (Tokyo, Tokyo, JP, AS)                                                                                                     
+   84.17.33.105    57695   91.066                (Tokyo / Narita, 12, JP, AS) v3517.cr01.nrt04.jp.misaka.io                                                                       
+   199.119.64.143  969     88.955                      (Tokyo, Tokyo, JP, AS) e32-20.spine2.nrt04.jp.misaka.io                                                                    
+   103.170.232.11  142616  88.749                      (Tokyo, Tokyo, JP, AS) po-31.lag.nrt04.jp.misaka.io                                                                        
+   103.170.232.152 142616  90.095                      (Tokyo, Tokyo, JP, AS) user-103-170-232-152.nrt04.jp.misaka.io                                                             

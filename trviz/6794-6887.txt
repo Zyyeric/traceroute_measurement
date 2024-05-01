@@ -1,0 +1,18 @@
+   27.111.84.21    135132  0.0           (Cebu City, Central Visayas, PH, AS) ph-ceb-as135132.anchors.atlas.ripe.net                                                              
+   27.111.84.20    135132  2.593             (Baugo, Central Visayas, PH, AS) vlan509.core.ceb02.ds.network                                                                       
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 203.177.209.217 4775    3.211             (Baugo, Central Visayas, PH, AS)                                                                                                     
+S (4775, )  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 210.171.225.160 *       62.816                      (Tokyo, Tokyo, JP, AS)                                                                                                     
+S (, 46997)  
+├  10.71.3.30      *       62.562                                         ***                                                                                                     
+├  10.71.1.222     *       79.138                                         ***                                                                                                     
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 141.193.21.2    46997   63.594                        (None, None, US, NA) tky01.jp.nat.moe                                                                                    
+   141.193.21.6    46997   157.901              (Seattle, Washington, US, NA) sea01.us.nat.moe                                                                                    
+   141.193.21.100  46997   159.07               (Seattle, Washington, US, NA) us-sea-as46997.anchors.atlas.ripe.net                                                               

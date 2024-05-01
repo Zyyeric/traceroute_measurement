@@ -1,0 +1,15 @@
+   103.253.132.25  59238   0.0                     (Bangkok, Bangkok, TH, AS) th-bkk-as59238.anchors.atlas.ripe.net                                                               
+   103.253.132.1   59238   0.215                (Khlong San, Bangkok, TH, AS) gw-cat.idc.inox.co.th                                                                               
+   172.24.132.24   *       0.23                                           ***                                                                                                     
+   172.21.21.2     *       0.419                                          ***                                                                                                     
+╭─ 122.155.224.73  4651    0.37 (1.526)           (Khlong San, Bangkok, TH, AS)                                                                                                     
+S&T (4651)  asia-america-gateway-aag-cable-system ✓ || seamewe-4 ✓ || seamewe-3 ✓
+├─ 61.19.9.134     4651    24.732                   (Singapore, None, SG, AS) *                                                                                                   
+S (4651, 58453)  eac-c2c ✓ || asia-pacific-gateway-apg ✓ || seamewe-3 ✓
+├─ 27.111.228.228  58453   88.647                    (Seogwipo, None, KR, AS) 58453.sgw.equinix.com                                                                               
+S (58453)  
+╰─ 223.118.5.201   58453   49.553              (Hong Kong, Hong Kong, HK, AS)                                                                                                     
+   223.120.3.90    58453   49.43                         (None, None, HK, AS) *                                                                                                   
+   223.119.0.93    202196  57.773                        (None, None, HK, AS) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   37.10.40.14     202196  55.958              (Hong Kong, Hong Kong, HK, AS)                                                                                                     

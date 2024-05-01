@@ -1,0 +1,22 @@
+   213.184.86.101  59795   0.0           (Copenhagen, Capital Region, DK, EU) dk-cph-as59795.anchors.atlas.ripe.net                                                               
+   213.184.86.1    59795   0.243           (Ballerup, Capital Region, DK, EU) router01.dk.hosting4real.net                                                                        
+   185.212.169.49  9009    0.648             (Herlev, Capital Region, DK, EU) vlan108.as04.cph1.dk.m247.ro                                                                        
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 37.120.220.144  *       1.436         (Copenhagen, Capital Region, DK, EU) be-1-3101.bb1n.cph1.dk.m247.ro                                                                      
+LHL (, 9009)  
+├─ 37.120.220.16   9009    11.411                     (Barcelona, CT, ES, EU) *                                                                                                   
+LHL (9009, 6939)  tata-tgn-western-europe ✘ ↠ tampnet-offshore-foc-network ✘ || tata-tgn-western-europe ✘ ↠ no-uk ✘ || flag-europe-asia-fea ✓ ↠ tampnet-offshore-foc-network ✘ || flag-europe-asia-fea ✓ ↠ no-uk ✘ || seamewe-3 ✓ ↠ tampnet-offshore-foc-network ✘ || seamewe-3 ✓ ↠ no-uk ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.105.64.230  6939    17.4                          (Oslo, Oslo, NO, EU) 100ge0-59.core2.osl1.he.net                                                                         
+S (6939)  
+├─ 184.105.64.134  6939    14.705                       (Ashburn, VA, US, NA) 100ge15-1.core1.ash1.he.net                                                                         
+LHL (6939)  
+├─ 184.104.194.230 6939    20.358                       (Hamburg, HH, DE, EU) 100ge0-34.core2.ham1.he.net                                                                         
+LHL (6939, 9211)  
+├─ 184.104.224.211 9211    19.564                        (None, None, US, NA) *                                                                                                   
+LHL (9211)  
+╰─ 212.12.32.16    9211    19.51                       (Greven, None, DE, EU) greven2.work.de                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   87.253.184.92   35258   18.793                  (Hamburg, Hamburg, DE, EU) de-ham-as35258.akqui.net                                                                            

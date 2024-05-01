@@ -1,0 +1,14 @@
+   103.143.136.43  63781   0.0                         (Tokyo, Tokyo, JP, AS) koba-103-143-136-43.rev.kobayashi.ad.jp                                                             
+   103.143.136.62  63781   2.148                       (Tokyo, Tokyo, JP, AS) koba-103-143-136-62.rev.kobayashi.ad.jp                                                             
+   103.143.136.25  63781   0.364                       (Tokyo, Tokyo, JP, AS) bgprt1-ospfrt1.kobayashi.ad.jp                                                                      
+   103.41.60.164   10010   0.505                       (Tokyo, Tokyo, JP, AS) bgp3.tokyo-ix.v4.open.ad.jp                                                                         
+   150.99.184.33   2907    1.614                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+╭─ 150.99.10.187   2907    1.899                         (None, None, JP, AS) *                                                                                                   
+S (2907, 9002)  apcn-2 ✓ || eac-c2c ✓ || asia-pacific-gateway-apg ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 87.245.234.154  9002    90.704                      (Singapore, 4, SG, AS) ae5-8.RT1.EQX.SIN.SG.retn.net                                                                       
+╭─ 87.245.231.201  9002    78.704              (Singapore, Singapore, SG, AS) gw-as140443.retn.net                                                                                
+S&T (9002, 140443)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 38.47.188.1     140443  84.035        (Kuala Lumpur, Kuala Lumpur, MY, AS)                                                                                                     
+   38.47.189.189   140443  83.923        (Kuala Lumpur, Kuala Lumpur, MY, AS)                                                                                                     

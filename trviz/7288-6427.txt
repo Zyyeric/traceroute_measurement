@@ -1,0 +1,17 @@
+   119.17.170.244  9268    0.0              (Sydney, New South Wales, AU, OC) gen-119-17-170-244.ptr4.otw.net.au                                                                  
+   119.17.170.242  9268    0.725            (Sydney, New South Wales, AU, OC) te0-0-0.1397.iaaspe1.47bou.syd.core.otw.net.au                                                      
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   10.254.250.85   *       0.985                                          ***                                                                                                     
+╭─ 103.110.178.245 9268    1.14             (Sydney, New South Wales, AU, OC) welcometoaussiebroadband.syd.otw.net.au                                                             
+S (9268, 4764)  seamewe-3 ✓ || indigo-west ✓ || australia-singapore-cable-asc ✓
+╰─ 180.150.2.85    4764    92.781              (Singapore, Singapore, SG, AS) be3.core1.equinix-sg1.sin.aussiebb.net                                                              
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 180.240.204.9   7713    94.99               (Singapore, Singapore, SG, AS)                                                                                                     
+S&T (7713)  australia-singapore-cable-asc ✓ || indigo-west ✓ || indonesia-global-gateway-igg-system 👍 || jakarta-bangka-bintan-batam-singapore-b3js ✘ || seamewe-3 ✓ || matrix-cable-system ✘ || jasuka 👍 || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || jakabare ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 36.64.254.21    7713    112.408       (Gubengairlangga, East Java, ID, AS)                                                                                                     
+   36.64.254.22    7713    112.08                    (Denpasar, Bali, ID, AS)                                                                                                     
+   103.215.228.2   140443  112.145              (Surabaya, East Java, ID, AS) 2.228.215.103.in-addr.herza.id                                                                      
+   103.215.229.229 140443  112.127              (Surabaya, East Java, ID, AS) 229.229.215.103.in-addr.herza.id                                                                    

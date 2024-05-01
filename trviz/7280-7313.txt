@@ -1,0 +1,24 @@
+   102.220.178.25  328829  0.0              (Cape Town, Western Cape, ZA, AF) unknown.vumatel.co.za                                                                               
+   102.220.178.30  328829  0.35             (Cape Town, Western Cape, ZA, AF) unknown.vumatel.co.za                                                                               
+   102.220.179.117 328829  0.853            (Cape Town, Western Cape, ZA, AF) unknown.vumatel.co.za                                                                               
+   102.220.178.122 328829  0.664            (Cape Town, Western Cape, ZA, AF) rnd-br1-sfp3-862.vumatel.co.za                                                                      
+   102.220.177.105 328829  22.127                (Diepsloot, Gauteng, ZA, AF) tri-br2-sfp2-834.vumatel.co.za                                                                      
+   102.220.177.114 328829  22.373                 (Pretoria, Gauteng, ZA, AF) tri-br1-sfp28-2-861.vumatel.co.za                                                                   
+╭─ 102.220.179.122 328829  32.128             (Johannesburg, Gauteng, ZA, AF) unknown.vumatel.co.za                                                                               
+S&T (328829, 6939)  eastern-africa-submarine-system-eassy ✓ || seacomtata-tgn-eurasia ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.198.50  6939    73.355                      (Mombasa, 300, KE, AF) port-channel3.core1.mba1.he.net                                                                     
+S&T (6939)  seacomtata-tgn-eurasia ✓ || djibouti-africa-regional-express-1-dare1 ✓ || peace-cable ✘ || eastern-africa-submarine-system-eassy ✓
+├─ 184.105.64.14   6939    151.507                (Djibouti City, DJ, DJ, AF) 10ge4-6.core1.jib1.he.net                                                                           
+S (6939)  
+╰─ 184.104.193.102 6939    177.024   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) port-channel1.core3.mrs1.he.net                                                                     
+╭─ 184.104.189.30  6939    176.819   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) port-channel18.core4.mrs1.he.net                                                                    
+S (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.196.194 6939    202.018                       (Denver, CO, US, NA) port-channel1.core1.den3.he.net                                                                     
+LHL (6939)  
+╰─ 184.105.64.170  6939    213.283                       (Athens, A1, GR, EU) 100ge0-36.core1.ath1.he.net                                                                         
+   184.104.191.234 6939    213.402                   (Koropí, Attica, GR, EU) fast-telecom-p-c.e0-7.core1.ath1.he.net                                                             
+   ***             *       -inf                                           *** *                                                                                                   
+   185.14.96.225   211186  226.753            (Lamía, Central Greece, GR, EU) vlan4090.lamia.fast.net.gr                                                                          
+   185.14.96.232   211186  225.871            (Lamía, Central Greece, GR, EU)                                                                                                     

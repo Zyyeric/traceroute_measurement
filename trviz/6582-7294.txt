@@ -1,0 +1,20 @@
+   10.252.4.170    *       0.0                                            ***                                                                                                     
+   10.252.4.169    *       0.15                                           ***                                                                                                     
+   10.252.4.153    *       0.207                                          ***                                                                                                     
+   10.252.0.37     *       12.505                                         ***                                                                                                     
+   10.252.2.138    *       15.055                                         ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 154.25.16.81    174     16.765                (Istanbul, Istanbul, TR, AS) be3821.rcr71.ist01.atlas.cogentco.com                                                               
+S (174)  
+├─ 154.54.74.226   174     25.491                         (Lyon, ARA, FR, EU) be2881.rcr21.lys01.atlas.cogentco.com                                                               
+T (174, 3356)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 171.75.9.225    3356    57.091    (Düsseldorf, North Rhine-Westphalia, DE, EU) ae1.3104.ear2.dus1.neo.colt.net                                                                     
+T (3356, 24961)  
+├─ 212.162.19.26   24961   56.882                        (None, None, GB, EU) po18-h63e8.core2-dus1.bb.as24961.net                                                                
+T (24961)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 62.141.35.93    24961   57.867    (Düsseldorf, North Rhine-Westphalia, DE, EU)                                                                                                     
+T (24961, 41047)  
+╰─ 87.237.165.29   41047   59.029          (Amsterdam, North Holland, NL, EU)                                                                                                     

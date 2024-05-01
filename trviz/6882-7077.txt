@@ -1,0 +1,28 @@
+   216.48.178.84   132420  0.0                 (Noida, Uttar Pradesh, IN, AS) e2e-95-84.ssdcloudindia.net                                                                         
+   ***             *       -inf                                           *** *                                                                                                   
+   180.179.210.65  17439   0.527                   (Pitampura, Delhi, IN, AS) 180-179-210-65.static.e2enetworks.in                                                                
+   180.179.197.209 17439   0.8                         (Delhi, Delhi, IN, AS)                                                                                                     
+   14.141.116.105  4755    1.619                       (Delhi, Delhi, IN, AS) 14.141.116.105.static-delhi.vsnl.net.in                                                             
+   ***             *       -inf                                           *** *                                                                                                   
+   180.87.38.5     6453    23.59                         (Mumbai, MH, IN, AS) ix-ae-0-100.tcore1.mlv-mumbai.as6453.net                                                            
+╭─ 180.87.38.2     6453    153.394                       (Mumbai, MH, IN, AS) if-ae-2-2.tcore2.mlv-mumbai.as6453.net                                                              
+S (6453)  
+╰─ 180.87.39.21    6453    148.182                  (London, England, GB, EU) if-ae-12-2.tcore1.l78-london.as6453.net                                                             
+   80.231.131.1    6453    149.947                     (London, None, GB, EU) if-ae-2-2.tcore2.l78-london.as6453.net                                                              
+╭─ 80.231.131.118  6453    154.235                     (London, None, GB, EU) if-ae-15-2.tcore2.ldn-london.as6453.net                                                             
+S&T (6453, 30844)  
+├─ 80.231.20.62    30844   153.697                   (Turnhout, None, BE, EU) *                                                                                                   
+S&T (30844)  
+╰─ 5.11.10.179     30844   155.176                  (London, England, GB, EU) be-6.luk-pe1-tcy.liquidtelecom.net                                                                  
+   5.11.13.127     30844   312.201                  (London, England, GB, EU) broadcast.zol-vsat297-sek.liquidtelecom.com                                                         
+   5.11.12.28      30844   153.064                       (None, None, GB, EU) NETWORK.LTZ-VSAT293-NYA.liquidtelecom.com                                                           
+╭─ 5.11.12.142     30844   153.925                  (London, England, GB, EU) hu-0-0-0-8.luk-p1-gsw.liquidtelecom.net                                                             
+S&T (30844)  
+├─ 5.11.12.127     30844   172.093   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) hu-0-0-0-0.lfr-p1-mrs.liquidtelecom.net                                                             
+S&T (30844)  
+├─ 217.15.112.225  30844   316.156                      (London, ENG, GB, EU) xe-0-1-1-1.ltz-p1-sea.liquidtelecom.net                                                             
+LHL (30844)  
+╰─ 197.155.94.8    30844   299.04                     (Nairobi, None, KE, AF) hu-0-2-0-2.lke-p1-nbi.liquidtelecom.net                                                             
+   41.60.199.155   30844   315.648          (Nairobi, Nairobi County, KE, AF)                                                                                                     
+   197.155.93.65   37578   294.527                      (Nairobi, 30, KE, AF) 197.155.93.65.liquidtelecom.net                                                                     
+   196.6.220.42    37578   317.064          (Nairobi, Nairobi County, KE, AF)                                                                                                     

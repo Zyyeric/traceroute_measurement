@@ -1,0 +1,11 @@
+   185.32.187.165  13238   0.0                    (Helsinki, Uusimaa, FI, EU)                                                                                                     
+╭─ 185.32.187.166  13238   1.379                  (Helsinki, Uusimaa, FI, EU)                                                                                                     
+LHL (13238)  circe-north ✘ || scylla ✘ || ulysses-2 ✘ || zeus ✘ || atlantic-crossing-1-ac-1 ✘ || concerto ✘ || farland-north ✘
+├  10.1.1.100      *       0.749                                          ***                                                                                                     
+╰─ 80.249.211.200  13238   53.914                      (Schiphol, NH, NL, EU) ams-ix-am1.yandex.net                                                                               
+╭─ 80.249.209.119  13101   50.742                     (Amsterdam, NH, NL, EU) AMS-IX.tng.de                                                                                       
+T (13101)  
+╰─ 213.178.65.148  13101   53.691                       (Hamburg, HH, DE, EU) ham8.tng.de                                                                                         
+   213.178.65.155  13101   55.171          (Kiel, Schleswig-Holstein, DE, EU) kel2.tng.de                                                                                         
+   82.97.188.1     13101   52.363                        (None, None, DE, EU) rtr1.gallifrey.tng.de                                                                               
+   213.158.113.5   13101   52.617                  (Hamburg, Hamburg, DE, EU) ripe-anchor.gallifrey.tng.de                                                                        

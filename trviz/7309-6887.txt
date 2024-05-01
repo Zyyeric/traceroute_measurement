@@ -1,0 +1,17 @@
+   27.111.84.21    135132  0.0           (Cebu City, Central Visayas, PH, AS) ph-ceb-as135132.anchors.atlas.ripe.net                                                              
+   27.111.84.20    135132  1.333             (Baugo, Central Visayas, PH, AS) vlan509.core.ceb02.ds.network                                                                       
+   192.168.159.142 *       15.528                                         ***                                                                                                     
+   192.168.159.152 *       2.628                                          ***                                                                                                     
+   192.168.159.168 *       21.527                                         ***                                                                                                     
+   192.168.159.165 *       1.8                                            ***                                                                                                     
+╭─ 43.224.189.33   137074  1.733             (Baugo, Central Visayas, PH, AS) 43-224-189-33.static.rise.as                                                                        
+S (137074, 3491)  tata-tgn-intra-asia-tgn-ia ✘ || asia-america-gateway-aag-cable-system ✘
+├  10.255.64.28    *       27.003                                         ***                                                                                                     
+├─ 63.222.113.106  3491    34.065              (Hong Kong, Hong Kong, HK, AS)                                                                                                     
+S (3491)  asia-america-gateway-aag-cable-system ✓
+╰─ 63.223.43.198   3491    188.632                  (Los Angeles, CA, US, NA) Bundle-Ether4.br05.lax05.pccwbtn.net                                                                
+╭─ 89.221.35.198   6762    186.262                  (Los Angeles, CA, US, NA) ae9.losangeles1.loa.seabone.net                                                                     
+LHL (6762)  apollo ✓ ↠ seamewe-3 👍 || apollo ✓ ↠ seamewe-5 👍 || apollo ✓ ↠ seamewe-4 👍 || apollo ✓ ↠ asia-africa-europe-1-aae-1 ✓ || apollo ✓ ↠ imewe 👍 || flag-atlantic-1-fa-1 © ↠ seamewe-3 👍 || flag-atlantic-1-fa-1 © ↠ seamewe-5 👍 || flag-atlantic-1-fa-1 © ↠ seamewe-4 👍 || flag-atlantic-1-fa-1 © ↠ asia-africa-europe-1-aae-1 ✓ || flag-atlantic-1-fa-1 © ↠ imewe 👍
+╰─ 195.22.218.199  6762    369.734                    (Palermo, None, IT, EU) ae1.palermo4.pal.seabone.net                                                                        
+   213.144.186.82  42473   350.101                      (Palermo, 82, IT, EU) dcr01.anx35.pmo.it.anexia-it.net                                                                    
+   37.252.253.18   42473   352.083                  (Palermo, Sicily, IT, EU)                                                                                                     

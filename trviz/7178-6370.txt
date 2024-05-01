@@ -1,0 +1,15 @@
+   103.202.216.76  59105   0.0                         (Chōfu, Tokyo, JP, AS)                                                                                                     
+   103.202.216.73  59105   0.475                       (Tokyo, Tokyo, JP, AS) ge-2-1-0.pop03er03.bb.homenoc.ad.jp                                                                 
+   210.188.225.233 9370    0.971                       (Tokyo, Tokyo, JP, AS) tkwrt301x-as59105.bb.sakura.ad.jp                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   210.138.107.33  2497    1.633                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+╭─ 58.138.102.101  2497    1.61                        (Tokyo, Tokyo, JP, AS) tky001bb00.iij.net                                                                                  
+S (2497)  
+╰─ 58.138.88.82    2497    100.81              (San Jose, California, US, NA) sjc002bb00.iij.net                                                                                  
+╭─ 202.232.1.130   2497    105.248        (Mountain View, California, US, NA)                                                                                                     
+S (2497, 25003)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 212.113.14.250  25003   232.672                     (London, None, GB, EU) IB.edge5.London1.Level3.net                                                                         
+T (25003)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 94.188.255.2    25003   304.011              (Bnei Brak, Tel Aviv, IL, AS) 255.188.94-binat-smaug.in-addr.arpa                                                                 

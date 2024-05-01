@@ -1,0 +1,15 @@
+   103.170.25.13   142360  0.0               (Semarang, Central Java, ID, AS) ipv4-13-25-170-103.nexa.net.id                                                                      
+   103.170.25.9    142360  0.234             (Semarang, Central Java, ID, AS) ipv4-9-25-170-103.nexa.net.id                                                                       
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 103.87.186.178  136106  9.391              (Mega, Southwest Papua, ID, AS) ip186-178.fiberstar.net.id                                                                          
+S&T (136106)  matrix-cable-system ✘ || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || indonesia-global-gateway-igg-system ✓ || indigo-west ✓ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || jasuka ✓
+╰─ 103.87.186.3    136106  20.342              (Singapore, Singapore, SG, AS) ip186-3.fiberstar.net.id                                                                            
+╭─ 184.104.210.181 6939    20.037              (Singapore, Singapore, SG, AS) port-channel6.switch2.sin2.he.net                                                                   
+S (6939)  asia-submarine-cable-express-asecahaya-malaysia ✓ || seamewe-3 ✓ || eac-c2c ✓ || apcn-2 ✓ || southeast-asia-japan-cable-sjc ✓ || asia-pacific-gateway-apg ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.105.64.254  6939    88.022                (Tokyo / Narita, 12, JP, AS) 100ge16-2.core1.tyo1.he.net                                                                         
+S (6939)  tata-tgn-pacific ✓ || faster ✓ || japan-u-s-cable-network-jus ✓ || new-cross-pacific-ncp-cable-system ✓ || jupiter ✓ || trans-pacific-express-tpe-cable-system ✓ || unityeac-pacific ✓ || pacific-crossing-1-pc-1 ✘
+╰─ 184.104.195.1   6939    193.897                  (Los Angeles, CA, US, NA) 100ge16-1.core1.lax2.he.net                                                                         
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   192.189.157.25  64289   203.67           (Los Angeles, California, US, NA)                                                                                                     

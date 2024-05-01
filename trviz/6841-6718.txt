@@ -1,0 +1,31 @@
+   101.53.31.6     24173   0.0        (Ho Chi Minh City, Ho Chi Minh, VN, AS) ci53.31-6.netnam.vn                                                                                 
+   101.53.31.5     24173   0.587              (Quận Một, Ho Chi Minh, VN, AS) ci53.31-5.netnam.vn                                                                                 
+   10.11.1.65      *       1.589                                          ***                                                                                                     
+   210.86.232.90   24173   1.212              (Quận Một, Ho Chi Minh, VN, AS) ci232-90.netnam.vn                                                                                  
+   210.86.233.41   24176   1.072              (Quận Một, Ho Chi Minh, VN, AS) ci233-41.netnam.vn                                                                                  
+   14.238.97.217   45899   30.345     (Ho Chi Minh City, Ho Chi Minh, VN, AS)                                                                                                     
+   113.171.143.37  45899   45.609     (Ho Chi Minh City, Ho Chi Minh, VN, AS) static.vnpt.vn                                                                                      
+   113.171.45.30   45899   51.966     (Ho Chi Minh City, Ho Chi Minh, VN, AS) static.vnpt.vn                                                                                      
+╭─ 113.171.32.23   45899   45.098                      (Hanoi, Hanoi, VN, AS) static.vnpt.vn                                                                                      
+S (45899)  
+╰─ 113.171.31.219  45899   45.78               (Hong Kong, Hong Kong, HK, AS) static.vnpt.vn                                                                                      
+   121.59.105.177  *       38.39               (Hong Kong, Hong Kong, HK, AS)                                                                                                     
+   69.194.169.157  *       37.047              (Hong Kong, Hong Kong, HK, AS)                                                                                                     
+   203.22.177.86   *       38.928              (Hong Kong, Hong Kong, HK, AS)                                                                                                     
+   69.194.169.66   *       109.926             (Hong Kong, Hong Kong, HK, AS)                                                                                                     
+╭─ 69.194.170.82   *       147.763             (Hong Kong, Hong Kong, HK, AS)                                                                                                     
+LHL (, 6939)  
+├─ 184.105.64.13   6939    166.125                     (Mombasa, 300, KE, AF) port-channel2.core1.mba1.he.net                                                                     
+S&T (6939)  
+├─ 184.105.65.238  6939    166.227                (Djibouti City, DJ, DJ, AF) 10ge14-10.core1.jib1.he.net                                                                         
+S (6939)  
+╰─ 184.104.193.102 6939    222.97    (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) port-channel1.core3.mrs1.he.net                                                                     
+╭─ 184.104.194.200 6939    220.413   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) port-channel15.core4.mrs1.he.net                                                                    
+S&T (6939)  
+├─ 184.105.80.13   6939    226.059                        (Milan, 25, IT, EU) 100ge7-2.core1.mil2.he.net                                                                          
+LHL (6939)  
+├─ 184.104.196.194 6939    244.504                       (Denver, CO, US, NA) port-channel1.core1.den3.he.net                                                                     
+LHL (6939)  
+╰─ 184.105.64.170  6939    254.543                       (Athens, A1, GR, EU) 100ge0-36.core1.ath1.he.net                                                                         
+   176.126.38.123  *       275.73                (Áno Liósia, Attica, GR, EU)                                                                                                     
+   195.130.66.103  199399  274.635                   (Athens, Attica, GR, EU) gr-ath-as199399.anchors.atlas.ripe.net                                                              

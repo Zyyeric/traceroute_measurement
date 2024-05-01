@@ -1,0 +1,18 @@
+   92.223.93.208   202422  0.0                      (Milan, Lombardy, IT, EU)                                                                                                     
+   92.223.93.195   202422  0.473                    (Milan, Lombardy, IT, EU) vrrp.gcore.lu                                                                                       
+   45.82.101.3     199524  0.29                     (Milan, Lombardy, IT, EU)                                                                                                     
+   10.255.169.177  *       0.241                                          ***                                                                                                     
+╭─ 195.22.196.90   6762    0.268 (1.026)               (Milan, Lombardy, IT, EU)                                                                                                     
+T (6762)  
+├─ 195.22.196.137  6762    24.172             (Frankfurt am Main, HE, DE, EU) ae6.francoforte34.fra.seabone.net                                                                   
+T (6762, 1273)  
+╰─ 195.2.6.25      1273    16.281                        (None, None, GB, EU) ae27-pcr1.fis.cw.net                                                                                
+╭─ 195.2.27.222    1273    36.283                        (None, None, GB, EU) ae12-xcr1.mlb.cw.net                                                                                
+S&T (1273)  
+├─ 195.2.31.118    1273    19.736                    (Genoa, Liguria, IT, EU) ae23-xcr1.mrx.cw.net                                                                                
+S&T (1273)  
+├─ 195.2.27.157    1273    36.801                        (None, None, GB, EU) ae6-xcr1.bsb.cw.net                                                                                 
+S&T (1273, 39069)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 147.84.200.125  39069   50.037                    (Murcia, Murcia, ES, EU)                                                                                                     

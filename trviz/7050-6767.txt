@@ -1,0 +1,25 @@
+   194.116.77.35   41364   0.0                      (Turin, Piedmont, IT, EU)                                                                                                     
+╭─ 194.116.76.253  41364   1.268                  (Gerbido, Piedmont, IT, EU)                                                                                                     
+S&T (41364, 6939)  janna ✘ ↠ seamewe-3 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.189.31  6939    44.71                     (Lisbon, Lisbon, PT, EU) port-channel8.core1.lis1.he.net                                                                     
+╭─ 184.104.224.113 6939    32.444                    (Lisbon, Lisbon, PT, EU) afrix-telecom-s-l.e0-19.switch1.lis1.he.net                                                         
+S&T (6939, 60171)  west-africa-cable-system-wacs ✓ || africa-coast-to-europe-ace ✓ || tata-tgn-western-europe ✓ || sat-3wasc ✓ || seamewe-3 ✓
+├─ 185.10.164.99   60171   267.885             (Barcelona, Catalonia, ES, EU)                                                                                                     
+S&T (60171)  
+╰─ 185.10.164.113  60171   267.8                        (London, ENG, GB, EU) *                                                                                                   
+╭─ 185.10.164.135  60171   265.588                      (London, ENG, GB, EU) *                                                                                                   
+S&T (60171)  
+├─ 185.10.164.32   60171   265.304             (Paris, Île-de-France, FR, EU)                                                                                                     
+S (60171)  
+├─ 102.223.52.73   60171   267.443                     (Lagos, Lagos, NG, AF)                                                                                                     
+S&T (60171)  
+├─ 185.10.164.45   60171   264.739                      (London, ENG, GB, EU) *                                                                                                   
+S&T (60171)  
+├─ 102.219.44.43   60171   267.582                     (Lagos, Lagos, NG, AF)                                                                                                     
+S&T (60171, 328913)  
+╰─ 196.49.84.51    328913  267.871                 (Abidjan, Abidjan, CI, AF) bdr3.std.douala-ix.net                                                                              
+╭─ 196.49.84.36    328913  268.198                 (Abidjan, Abidjan, CI, AF) gw1.std.douala-ix.net                                                                               
+S&T (328913)  
+╰─ 196.49.84.188   328913  266.078                 (Douala, Littoral, CM, AF) cm-dla-as328913.anchors.atlas.ripe.net                                                              

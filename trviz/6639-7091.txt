@@ -1,0 +1,11 @@
+   203.174.85.106  38001   0.0                 (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 203.174.85.105  38001   3.145               (Singapore, Singapore, SG, AS)                                                                                                     
+S (38001, 58453)  
+├  10.15.62.210    *       2.858                                          ***                                                                                                     
+├─ 27.111.228.228  58453   3.912                     (Seogwipo, None, KR, AS) 58453.sgw.equinix.com                                                                               
+S (58453)  
+╰─ 223.118.5.201   58453   38.295              (Hong Kong, Hong Kong, HK, AS)                                                                                                     
+   223.120.3.90    58453   38.094                        (None, None, HK, AS) *                                                                                                   
+   223.119.0.93    202196  37.26                         (None, None, HK, AS) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   37.10.40.14     202196  41.349              (Hong Kong, Hong Kong, HK, AS)                                                                                                     

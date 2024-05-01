@@ -1,0 +1,19 @@
+   94.247.111.19   49673   0.0       (Novosibirsk, Novosibirsk Oblast, RU, EU) ru-ovb-as49673.anchors.atlas.ripe.net                                                               
+   94.247.111.1    49673   0.175     (Novosibirsk, Novosibirsk Oblast, RU, EU) gw-1106.net.truenetwork.ru                                                                          
+╭─ 91.221.181.50   13094   50.92                (Barnaul, Altai Krai, RU, EU) host_91_221_181_50.milecom.ru                                                                       
+LHL (13094, )  circe-north ✘ || scylla ✘ || ulysses-2 ✘ || zeus ✘ || atlantic-crossing-1-ac-1 ✘ || concerto ✘ || farland-north ✘
+╰─ 178.18.227.248  *       96.201          (Amsterdam, North Holland, NL, EU) 178.18.227.248.ix.dataix.eu                                                                         
+╭─ 184.104.198.118 6939    97.338          (Amsterdam, North Holland, NL, EU) port-channel1.core1.ams1.he.net                                                                     
+S (6939)  atlantic-crossing-1-ac-1 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.199.222 6939    172.795          (New York City, New York, US, NA) port-channel1.core2.nyc4.he.net                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 184.104.198.225 6939    228.575          (Los Angeles, California, US, NA) port-channel17.core2.lax1.he.net                                                                    
+S (6939)  new-cross-pacific-ncp-cable-system ✓ || trans-pacific-express-tpe-cable-system ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.64.66   6939    362.617                        (Seoul, 28, KR, AS) 10ge0-2.core2.sel1.he.net                                                                           
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   45.80.212.34    199524  391.697                     (Seoul, Seoul, KR, AS) vrrp.gcore.com                                                                                      
+   92.38.135.131   202422  394.618                     (Seoul, Seoul, KR, AS)                                                                                                     

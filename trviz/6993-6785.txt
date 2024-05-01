@@ -1,0 +1,16 @@
+   103.15.246.16   58717   0.0                         (Dhaka, Dhaka, BD, AS)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   172.16.203.70   *       0.861                                          ***                                                                                                     
+   103.199.87.15   58717   4.535             (Paltan, Dhaka Division, BD, AS) 103.199.87.15.summitiig.net                                                                         
+╭─ 157.119.185.244 58717   53.208                     (Paltan, Dhaka, BD, AS) 157.119.185.244.summitiig.net                                                                       
+LHL (58717, 3216)  seamewe-5 ✓ || seamewe-4 ✓
+├─ 87.245.231.193  3216    46.272                        (None, None, RU, EU) GW-SkyNetwork.retn.net                                                                              
+LHL (3216, 9002)  
+╰─ 87.245.232.253  9002    178.646            (Frankfurt am Main, HE, DE, EU) ae5-11.RT.IRX.FKT.DE.retn.net                                                                       
+╭─ 154.14.40.233   3257    178.897            (Frankfurt am Main, HE, DE, EU) ae17.cr6-fra2.ip4.gtt.net                                                                           
+LHL (3257)  seamewe-3 ✓ || flag-europe-asia-fea ✘ || bay-of-bengal-gateway-bbg ✓ || asia-africa-europe-1-aae-1 ✓ || seamewe-4 ✓ || seamewe-5 ✓
+├─ 213.254.215.18  3257    343.4                     (Johor Bahru, 1, MY, AS) xe-0-2-0.cr1-jhb2.ip4.gtt.net                                                                       
+S (3257)  
+├─ 76.74.41.138    3257    349.604              (Arlington, Virginia, US, NA) ip4.gtt.net                                                                                         
+LHL (3257, 12008)  
+╰─ 156.154.135.254 12008   348.457            (Johannesburg, Gauteng, ZA, AF)                                                                                                     

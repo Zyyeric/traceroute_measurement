@@ -1,0 +1,16 @@
+   45.87.76.6      208725  0.0           (Brussels, Brussels Capital, BE, EU) ansible.devrandom.be                                                                                
+   45.87.79.252    208725  0.234         (Brussels, Brussels Capital, BE, EU) router01.sw2.core.devrandom.be                                                                      
+   45.87.79.249    208725  0.134         (Brussels, Brussels Capital, BE, EU) router03.core.devrandom.be                                                                          
+╭─ 185.1.127.23    *       1.114                 (Nossegem, Flanders, BE, EU) he.belgiumix.net                                                                                    
+LHL (, 6939)  seamewe-3 ✘ ↠ apollo ✘ || seamewe-3 ✘ ↠ flag-atlantic-1-fa-1 ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 72.52.92.122    6939    137.771                  (Los Angeles, CA, US, NA) 100ge14-1.core1.lax2.he.net                                                                         
+S (6939)  new-cross-pacific-ncp-cable-system ✓ || trans-pacific-express-tpe-cable-system ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.81.70   6939    248.954                        (Seoul, 28, KR, AS) 10ge0-1.core2.sel1.he.net                                                                           
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   45.80.212.34    199524  268.723                     (Seoul, Seoul, KR, AS) vrrp.gcore.com                                                                                      
+   92.38.135.131   202422  270.66                      (Seoul, Seoul, KR, AS)                                                                                                     

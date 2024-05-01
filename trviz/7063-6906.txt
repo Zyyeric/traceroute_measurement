@@ -1,0 +1,16 @@
+╭─ 185.92.128.30   60924   0.0                         (Dubai, Dubai, AE, AS)                                                                                                     
+LHL (60924)  
+├─ 185.92.128.4    60924   0.349                         (None, None, IE, EU) *                                                                                                   
+LHL (60924)  
+╰─ 185.92.128.3    60924   0.31                        (Dubai, Dubai, AE, AS)                                                                                                     
+   151.248.103.94  59605   0.853                       (Dubai, Dubai, AE, AS)                                                                                                     
+   151.248.96.164  59605   0.568                         (Dubai, 3, AE, None) *                                                                                                   
+╭─ 147.78.134.17   4134    0.726                       (Dubai, Dubai, AE, AS)                                                                                                     
+S (4134)  
+├─ 202.97.38.13    4134    78.332              (Singapore, Singapore, SG, AS)                                                                                                     
+S (4134)  
+├─ 202.97.93.238   4134    240.98                        (None, None, CN, AS) *                                                                                                   
+LHL (4134, 37153)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 197.189.193.1   37153   263.938                      (Sandton, GP, ZA, AF) core-access-switch1.jnb1.host-h.net                                                                 
+   197.189.194.147 37153   254.01             (Johannesburg, Gauteng, ZA, AF) atlas-anchor-jnb1.jnb.net.host-h.net                                                                

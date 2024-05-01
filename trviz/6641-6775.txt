@@ -1,0 +1,15 @@
+   192.30.89.87    394256  0.0          (Vancouver, British Columbia, CA, NA) ca-van-as394256.anchors.atlas.ripe.net                                                              
+   192.30.89.94    394256  0.317        (Vancouver, British Columbia, CA, NA)                                                                                                     
+   184.104.195.14  6939    1.336        (Vancouver, British Columbia, CA, NA) port-channel1.core1.yvr2.he.net                                                                     
+╭─ 65.19.133.193   6939    1.135        (Vancouver, British Columbia, CA, NA) ve725.core2.yvr1.he.net                                                                             
+S&T (6939)  
+╰─ 184.104.196.221 6939    12.545                       (Seattle, WA, US, NA) port-channel3.core2.sea1.he.net                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 184.105.81.81   6939    23.468              (San Jose, California, US, NA) port-channel12.core4.sjc2.he.net                                                                    
+S (6939)  new-cross-pacific-ncp-cable-system ✓ || trans-pacific-express-tpe-cable-system ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.64.66   6939    159.861                        (Seoul, 28, KR, AS) 10ge0-2.core2.sel1.he.net                                                                           
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   45.80.212.34    199524  160.031                     (Seoul, Seoul, KR, AS) vrrp.gcore.com                                                                                      
+   92.38.135.131   202422  159.862                     (Seoul, Seoul, KR, AS)                                                                                                     

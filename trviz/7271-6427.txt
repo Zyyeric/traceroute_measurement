@@ -1,0 +1,14 @@
+   119.17.170.244  9268    0.0              (Sydney, New South Wales, AU, OC) gen-119-17-170-244.ptr4.otw.net.au                                                                  
+   119.17.170.242  9268    0.515            (Sydney, New South Wales, AU, OC) te0-0-0.1397.iaaspe1.47bou.syd.core.otw.net.au                                                      
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   10.254.250.85   *       1.288                                          ***                                                                                                     
+╭─ 103.110.178.245 9268    1.25             (Sydney, New South Wales, AU, OC) welcometoaussiebroadband.syd.otw.net.au                                                             
+S (9268, 4764)  seamewe-3 ✓ || indigo-west ✓ || australia-singapore-cable-asc ✓
+╰─ 180.150.2.85    4764    92.645              (Singapore, Singapore, SG, AS) be3.core1.equinix-sg1.sin.aussiebb.net                                                              
+╭─ 27.111.230.169  *       94.023              (Singapore, Singapore, SG, AS)                                                                                                     
+S&T (, 136106)  australia-singapore-cable-asc ✘ || indigo-west ✘ || indonesia-global-gateway-igg-system ✘ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || seamewe-3 ✘ || matrix-cable-system ✘ || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || jasuka ✘ || jakabare ✘
+╰─ 103.87.184.83   136106  105.36                        (None, None, ID, AS) ip184-83.fiberstar.net.id                                                                           
+   103.87.186.179  136106  112.201                 (Jakarta, Jakarta, ID, AS) ip186-179.fiberstar.net.id                                                                          
+   103.170.24.254  142360  111.929                       (None, None, ID, AS) ipv4-254-24.170.103.as142360.net                                                                    
+   103.170.25.13   142360  112.254           (Semarang, Central Java, ID, AS) ipv4-13-25-170-103.nexa.net.id                                                                      

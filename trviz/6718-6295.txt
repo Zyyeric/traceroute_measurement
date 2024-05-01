@@ -1,0 +1,19 @@
+   194.1.149.210   42409   0.0                       (Tirana, Tirana, AL, EU)                                                                                                     
+   194.1.149.238   42409   0.549                     (Tirana, Tirana, AL, EU)                                                                                                     
+   194.1.149.249   42409   0.723                     (Tirana, Tirana, AL, EU)                                                                                                     
+╭─ 217.24.245.21   42313   0.694 (2.664)                (Tirana, Tirana, AL, EU)                                                                                                     
+S&T (42313, 12713)  adria-1 ✘
+╰─ 62.75.8.41      12713   7.872                     (Athens, Attica, GR, EU)                                                                                                     
+╭─ 62.75.14.142    *       40.755                    (Athens, Attica, GR, EU)                                                                                                     
+LHL (, 41095)  mednautilus-submarine-system ✘ ↠ asia-africa-europe-1-aae-1 ✘ || mednautilus-submarine-system ✘ ↠ seamewe-3 ✘
+├─ 80.81.192.47    41095   40.713             (Frankfurt am Main, HE, DE, EU) de-cix.iptp.net                                                                                     
+LHL (41095)  seamewe-4 ✓ || seamewe-3 ✓ || seamewe-5 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 103.242.73.133  41095   278.965             (Singapore, Singapore, SG, AS) rt986164.r0.616.eq.sg.iptp.net                                                                      
+S&T (41095, 24176)  asia-america-gateway-aag-cable-system ✓
+╰─ 210.86.233.17   24176   299.365    (Ho Chi Minh City, Ho Chi Minh, VN, AS) ci233-17.netnam.vn                                                                                  
+   210.86.233.30   24176   304.068    (Ho Chi Minh City, Ho Chi Minh, VN, AS) ci233-30.netnam.vn                                                                                  
+   210.86.232.101  24173   309.251                        (Hanoi, HN, VN, AS) ci232-101.netnam.vn                                                                                 
+   ***             *       -inf                                           *** *                                                                                                   
+   101.53.31.6     24173   302.468    (Ho Chi Minh City, Ho Chi Minh, VN, AS) ci53.31-6.netnam.vn                                                                                 

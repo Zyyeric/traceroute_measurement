@@ -1,0 +1,19 @@
+   116.206.155.229 45117   0.0                   (Ahmedabad, Gujarat, IN, AS)                                                                                                     
+   116.206.155.225 45117   0.641                 (Ahmedabad, Gujarat, IN, AS)                                                                                                     
+   121.241.90.57   4755    0.594                 (Ahmedabad, Gujarat, IN, AS) 121.241.90.57.static-ahmedabad.vsnl.net.in                                                          
+   172.28.176.253  *       9.193                                          ***                                                                                                     
+╭─ 180.87.38.5     6453    9.036                         (Mumbai, MH, IN, AS) ix-ae-0-100.tcore1.mlv-mumbai.as6453.net                                                            
+S (6453)  europe-india-gateway-eig ✓ || seamewe-3 👍 || flag-europe-asia-fea ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 180.87.39.21    6453    134.462                  (London, England, GB, EU) if-ae-12-2.tcore1.l78-london.as6453.net                                                             
+S (6453, 2914)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 129.250.4.25    2914    144.925                       (None, None, US, NA) ae-12.r20.parsfr04.fr.bb.gin.ntt.net                                                                
+   129.250.3.46    2914    144.494                       (None, None, US, NA) ae-2.r21.parsfr04.fr.bb.gin.ntt.net                                                                 
+╭─ 129.250.4.189   2914    161.923                       (None, None, US, NA) ae-6.r20.mlanit02.it.bb.gin.ntt.net                                                                 
+LHL (2914)  
+╰─ 129.250.5.143   2914    161.76                   (Milan, Lombardy, IT, EU) ae-0.a01.mlanit02.it.bb.gin.ntt.net                                                                 
+   81.25.202.226   12779   162.563                        (Milan, 25, IT, EU) *                                                                                                   
+   213.254.30.220  12779   161.225                       (Torino, 21, IT, EU) be20.Scrappy-Monster.core.TRN.itgate.net                                                            
+   213.254.30.221  12779   164.4                         (Torino, 21, IT, EU) po2.nx01.colo.trn1.itgate.net                                                                       
+   213.212.129.68  12779   160.861                  (Turin, Piedmont, IT, EU) it-trn-as12779.anchors.atlas.ripe.net                                                               

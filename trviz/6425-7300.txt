@@ -1,0 +1,16 @@
+   89.190.1.74     199087  0.0       (Lestijärvi, Central Ostrobothnia, FI, EU) dynamic-74-1.kasenet.fi                                                                             
+   89.190.1.65     199087  0.43      (Kaustinen, Central Ostrobothnia, FI, EU) vmw1-gw.kasenet.fi                                                                                  
+   89.190.2.242    199087  0.593     (Kaustinen, Central Ostrobothnia, FI, EU) dynamic-242-2.kasenet.fi                                                                            
+   87.236.158.62   47605   11.506                 (Helsinki, Uusimaa, FI, EU)                                                                                                     
+╭─ 87.236.158.144  47605   11.897                 (Helsinki, Uusimaa, FI, EU)                                                                                                     
+S&T (47605, 6939)  sweden-finland-4-sfs-4 ✓ || eastern-light ✘ || bcs-north---phase-1 ✓ || baltic-sea-submarine-cable ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.206.217 6939    33.634              (Stockholm, Stockholm, SE, EU)                                                                                                     
+T (6939, 12389)  
+╰─ 109.172.24.41   12389   32.418                        (None, None, RU, EU) *                                                                                                   
+╭─ 188.254.34.50   9198    93.18                         (None, None, RU, EU) *                                                                                                   
+T (9198)  
+╰─ 95.59.172.14    9198    108.862                      (Almaty, ALA, KZ, AS) 95.59.172.14.static.telecom.kz                                                                      
+   95.59.172.99    9198    109.074                      (Almaty, ALA, KZ, AS) 95.59.172.99.static.telecom.kz                                                                      
+   89.218.189.14   48503   110.543                    (Bayqonyr, KAR, KZ, AS) pav-pa0012-pe-1.bundle-ether5.tele2.kz                                                              
+   81.211.201.45   48503   110.121        (Pavlodar, Pavlodar Region, KZ, AS)                                                                                                     

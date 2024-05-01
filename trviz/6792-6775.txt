@@ -1,0 +1,17 @@
+   192.30.89.87    394256  0.0          (Vancouver, British Columbia, CA, NA) ca-van-as394256.anchors.atlas.ripe.net                                                              
+╭─ 192.30.89.94    394256  0.44         (Vancouver, British Columbia, CA, NA)                                                                                                     
+S&T (394256, 6939)  exa-north-and-south ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.105.81.81   6939    23.78               (San Jose, California, US, NA) port-channel12.core4.sjc2.he.net                                                                    
+S (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.105.64.66   6939    160.651                        (Seoul, 28, KR, AS) 10ge0-2.core2.sel1.he.net                                                                           
+S (6939, 20473)  
+├─ 192.145.251.66  20473   160.987                    (Ellsworth, WI, US, NA) *                                                                                                   
+S (20473)  
+├  10.84.2.50      *       161.775                                        ***                                                                                                     
+├  10.84.0.18      *       161.539                                        ***                                                                                                     
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 141.164.39.1    20473   163.96                   (Paripark, Seoul, KR, AS) 141.164.39.1.vultrusercontent.com                                                                   

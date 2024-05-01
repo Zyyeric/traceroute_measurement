@@ -1,0 +1,17 @@
+   102.130.66.11   37468   0.0                       (Luanda, Luanda, AO, AF)                                                                                                     
+   102.130.66.1    37468   0.328                     (Luanda, Luanda, AO, AF)                                                                                                     
+   102.130.68.105  37468   2.632                         (None, None, AO, AF) *                                                                                                   
+   102.130.68.111  37468   2.224                     (Luanda, Luanda, AO, AF)                                                                                                     
+╭─ 102.130.68.138  37468   36.547                        (None, None, AO, AF) *                                                                                                   
+LHL (37468, 4637)  west-africa-cable-system-wacs 👍 ↠ tata-tgn-western-europe ✓ || west-africa-cable-system-wacs 👍 ↠ europe-india-gateway-eig ✓ || west-africa-cable-system-wacs 👍 ↠ seamewe-3 ✓ || sat-3wasc ✓ ↠ tata-tgn-western-europe ✓ || sat-3wasc ✓ ↠ europe-india-gateway-eig ✓ || sat-3wasc ✓ ↠ seamewe-3 ✓
+├  100.64.192.13   *       185.775                                        ***                                                                                                     
+╰─ 195.66.224.177  4637    186.256                      (London, ENG, GB, EU) *                                                                                                   
+╭─ 202.84.178.13   4637    186.808             (Camden Town, England, GB, EU) i-1008.ulcn-core01.telstraglobal.net                                                                
+S (4637)  seamewe-3 👍
+╰─ 202.84.140.141  4637    428.558             (Singapore, Singapore, SG, AS) i-1000.sgcn-core01.telstraglobal.net                                                                
+   202.84.140.141  4637    428.558             (Singapore, Singapore, SG, AS) i-1000.sgcn-core01.telstraglobal.net                                                                
+╭─ 202.84.207.190  4637    429.102             (Singapore, Singapore, SG, AS) unknown.telstraglobal.net                                                                           
+S (4637)  
+╰─ 202.84.204.45   4637    428.345                     (Dubai, Dubai, AE, AS) i-102.uddm01.telstraglobal.net                                                                      
+   217.151.46.27   4637    426.271                     (Dubai, Dubai, AE, AS) unknown.telstraglobal.net                                                                           
+   156.154.53.254  12008   425.92                      (Dubai, Dubai, AE, AS)                                                                                                     

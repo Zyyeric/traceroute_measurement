@@ -1,0 +1,15 @@
+   27.111.84.21    135132  0.0           (Cebu City, Central Visayas, PH, AS) ph-ceb-as135132.anchors.atlas.ripe.net                                                              
+   27.111.84.20    135132  2.887             (Baugo, Central Visayas, PH, AS) vlan509.core.ceb02.ds.network                                                                       
+   192.168.159.142 *       15.994                                         ***                                                                                                     
+   192.168.159.152 *       1.076                                          ***                                                                                                     
+   192.168.159.168 *       11.955                                         ***                                                                                                     
+   192.168.159.165 *       1.099                                          ***                                                                                                     
+   43.224.189.33   137074  3.183             (Baugo, Central Visayas, PH, AS) 43-224-189-33.static.rise.as                                                                        
+   10.255.64.100   *       13.318                                         ***                                                                                                     
+   103.104.19.8    *       15.544              (Manila, Metro Manila, PH, AS) cloudflare-as13335-lan1-ipv4.getafix.ph                                                             
+   172.69.14.70    13335   13.211              (Manila, Metro Manila, PH, AS)                                                                                                     
+   172.69.14.69    13335   14.949              (Manila, Metro Manila, PH, AS)                                                                                                     
+╭─ 172.69.14.69    13335   14.949              (Manila, Metro Manila, PH, AS)                                                                                                     
+S (13335, 141235)  tata-tgn-intra-asia-tgn-ia ✓ || asia-america-gateway-aag-cable-system ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 103.156.251.7   141235  61.125              (Singapore, Singapore, SG, AS)                                                                                                     

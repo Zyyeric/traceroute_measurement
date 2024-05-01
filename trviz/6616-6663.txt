@@ -1,0 +1,16 @@
+   92.223.93.208   202422  0.0                      (Milan, Lombardy, IT, EU)                                                                                                     
+   92.223.93.195   202422  0.305                    (Milan, Lombardy, IT, EU) vrrp.gcore.lu                                                                                       
+   45.82.101.3     199524  0.204                    (Milan, Lombardy, IT, EU)                                                                                                     
+   10.255.169.178  *       0.275                                          ***                                                                                                     
+   149.14.135.249  174     0.545                    (Milan, Lombardy, IT, EU) hu0-1-0-0.nr51.b026361-0.mil01.atlas.cogentco.com                                                   
+╭─ 154.25.12.145   174     0.458 (2.237)               (Milan, Lombardy, IT, EU) be2218.rcr21.mil01.atlas.cogentco.com                                                               
+T (174)  
+╰─ 154.54.63.221   174     10.848                   (Munich, Bavaria, DE, EU) be3814.ccr22.muc03.atlas.cogentco.com                                                               
+   154.54.36.253   174     16.149             (Frankfurt am Main, HE, DE, EU) be2960.ccr42.fra03.atlas.cogentco.com                                                               
+   130.117.1.117   174     16.388             (Frankfurt am Main, HE, DE, EU) be3187.agr41.fra03.atlas.cogentco.com                                                               
+╭─ 154.25.15.94    174     17.827          (Frankfurt am Main, Hesse, DE, EU) be2632.nr61.b015753-1.fra03.atlas.cogentco.com                                                      
+T (174, 47794)  
+├─ 149.11.182.90   47794   82.773                   (Forest Row, ENG, GB, EU) *                                                                                                   
+S&T (47794)  
+╰─ 94.77.210.130   47794   82.694             (Riyadh, Riyadh Region, SA, AS) 94-77-210-130.static.go.com.sa                                                                      
+   94.77.252.90    47794   82.647             (Riyadh, Riyadh Region, SA, AS) 94-77-252-90.static.go.com.sa                                                                       

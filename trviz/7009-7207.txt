@@ -1,0 +1,19 @@
+   102.222.106.178 328699  0.0               (Port Louis, Port Louis, MU, AF)                                                                                                     
+   102.222.106.1   328699  0.169             (Ebene, Plaines Wilhems, MU, AF)                                                                                                     
+╭─ 196.46.49.33    36868   0.332             (Ebene, Plaines Wilhems, MU, AF)                                                                                                     
+S (36868, 6939)  meltingpot-indianoceanic-submarine-system-metiss ✘ || safe ✓
+╰─ 196.46.34.109   6939    43.79                   (Johannesburg, GT, ZA, AF) *                                                                                                   
+   105.22.34.173   37100   44.003             (Johannesburg, Gauteng, ZA, AF) ce-0-1-5-91.er-01-jnb.za.seacomnet.com                                                              
+   105.16.29.1     37100   200.699                 (Johannesburg, GT, ZA, AF) ce-0-3-0-0.cr-01-jnb.za.seacomnet.com                                                               
+╭─ 105.16.15.250   37100   200.679                    (Cape Town, WC, ZA, AF) ce-0-2-0-1.cr-01-cpt.za.seacomnet.com                                                               
+S (37100)  
+╰─ 105.16.12.98    37100   207.845   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) ce-0-0-25.cr-01-mrs.fr.seacomnet.com                                                                
+   105.16.32.253   37100   207.638                   (Marseille, PAC, FR, EU) xe-0-0-0-0.br-02-mrs.fr.seacomnet.com                                                               
+╭─ 212.222.126.65  3257    208.118   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) et-2-0-7.cr5-mrs1.ip4.gtt.net                                                                       
+S&T (3257)  
+├─ 89.149.139.25   3257    217.261                      (London, ENG, GB, EU) ae22.cr11-lon1.ip4.gtt.net                                                                          
+S&T (3257, 8895)  
+├─ 154.14.64.198   8895    288.579                    (Amsterdam, NH, NL, EU) ip4.gtt.net                                                                                         
+LHL (8895, 208520)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 45.94.14.204    208520  295.613            (Riyadh, Riyadh Region, SA, AS)                                                                                                     

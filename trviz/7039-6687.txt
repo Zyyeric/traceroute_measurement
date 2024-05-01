@@ -1,0 +1,29 @@
+   147.84.200.125  39069   0.0                       (Murcia, Murcia, ES, EU)                                                                                                     
+   147.84.200.11   39069   1.159                     (Murcia, Murcia, ES, EU)                                                                                                     
+   10.250.42.181   *       13.098                                         ***                                                                                                     
+╭─ 195.10.44.2     12430   13.607                         (Madrid, M, ES, EU) vodafone-es-gw-mat.cw.net                                                                           
+S&T (12430, 1273)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 195.2.30.89     1273    13.7                          (None, None, GB, EU) ae2-xcr1.max.cw.net                                                                                 
+S (1273, 2914)  
+╰─ 195.2.3.242     2914    13.561                        (None, None, US, NA) ntt-gw1.max.cw.net                                                                                  
+   129.250.2.15    2914    29.214                        (None, None, US, NA) ae-16.r21.parsfr04.fr.bb.gin.ntt.net                                                                
+╭─ 129.250.3.254   2914    29.445                        (None, None, US, NA) ae-1.a00.parsfr04.fr.bb.gin.ntt.net                                                                 
+S (2914)  
+├─ 157.238.231.219 2914    28.943              (Paris, Île-de-France, FR, EU)                                                                                                     
+S (2914, 7578)  
+╰─ 206.148.26.57   7578    102.747                (Ashburn, Virginia, US, NA) e56.ash-eqxdc10-bb3.globalsecurelayer.com                                                           
+   206.148.25.48   7578    116.416              (East Point, Georgia, US, NA) e52.atl-drtatl1-bb1.globalsecurelayer.com                                                           
+   206.148.25.24   7578    130.935           (University Park, Texas, US, NA) e51.dal-eqxda11-bb1.globalsecurelayer.com                                                           
+   206.148.25.23   7578    154.476                 (Phoenix, Arizona, US, NA) e50.phx-pnap-bb1.globalsecurelayer.com                                                              
+   206.148.25.19   7578    159.588          (Los Angeles, California, US, NA) e51.lax-csla2-bb1.globalsecurelayer.com                                                             
+╭─ 206.148.25.84   7578    256.913          (Los Angeles, California, US, NA) e50.ty-eqxty8-bb5.globalsecurelayer.com                                                             
+S (7578)  
+├─ 206.148.24.51   7578    256.741          (Sydney, New South Wales, AU, OC) e30.ty-eqxty8-bb1.globalsecurelayer.com                                                             
+S (7578)  
+╰─ 206.148.24.34   7578    256.906                     (Tokyo, Tokyo, JP, AS) po50-2.ty-eqxty8-cr2.globalsecurelayer.com                                                          
+   206.148.24.37   7578    256.937                     (Tokyo, Tokyo, JP, AS) po11-3.ty-eqxty8-sw4.globalsecurelayer.com                                                          
+   45.11.107.52    969     247.231                     (Tokyo, Tokyo, JP, AS) e52-1-gsl.cr1a.eqty8.nrt4.jp.917.as                                                                 
+   199.119.64.137  969     247.242                     (Tokyo, Tokyo, JP, AS) e31-10.spine1.nrt04.jp.misaka.io                                                                    
+   103.170.232.11  142616  247.097                     (Tokyo, Tokyo, JP, AS) po-31.lag.nrt04.jp.misaka.io                                                                        
+   103.170.232.152 142616  247.32                      (Tokyo, Tokyo, JP, AS) user-103-170-232-152.nrt04.jp.misaka.io                                                             

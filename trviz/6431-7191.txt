@@ -1,0 +1,17 @@
+   117.20.118.21   45498   0.0               (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     
+   117.20.118.17   45498   3.189             (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     
+   27.109.113.21   45498   1.089             (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     
+   27.109.113.7    45498   1.3                       (Phnom Penh, 12, KH, AS) *                                                                                                   
+╭─ 27.109.113.4    45498   0.97              (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     
+S (45498, 3491)  asia-africa-europe-1-aae-1 ✘
+├  172.16.100.137  *       1.553                                          ***                                                                                                     
+├  172.16.16.6     *       1.584                                          ***                                                                                                     
+├  172.16.16.153   *       37.715                                         ***                                                                                                     
+├─ 63.216.82.157   3491    50.634              (Hong Kong, Hong Kong, HK, AS) 63-216-82-157.static.pccwglobal.net                                                                 
+S (3491)  
+╰─ 63.218.248.54   3491    49.02                       (Singapore, 4, SG, AS) hun0-6-0-2.br02.sin03.pccwbtn.net                                                                   
+╭─ 63.218.249.166  3491    155.95              (Singapore, Singapore, SG, AS) 63-218-249-166.static.pccwglobal.net                                                                
+S (3491, 50999)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 109.171.136.4   50999   155.538             (Jeddah, Mecca Region, SA, AS)                                                                                                     

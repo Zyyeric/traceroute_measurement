@@ -1,0 +1,22 @@
+   195.130.66.103  199399  0.0                       (Athens, Attica, GR, EU) gr-ath-as199399.anchors.atlas.ripe.net                                                              
+   195.130.66.102  199399  1.602                    (Výronas, Attica, GR, EU) gw-ripe-anchor.gr-ix.gr                                                                             
+   62.217.98.52    5408    0.659                    (Výronas, Attica, GR, EU) grix-admin-gw.eier.access-link.grnet.gr                                                             
+   83.97.88.69     21320   1.447                    (Výronas, Attica, GR, EU) grnet-ias-geant-gw.mx2.ath.gr.geant.net                                                             
+╭─ 62.40.98.141    20965   26.085                        (Athens, A1, GR, EU) ae0.mx1.ath2.gr.geant.net                                                                           
+T (20965)  
+╰─ 62.40.98.147    20965   25.874                    (Vienna, Vienna, AT, EU) ae0.mx1.vie.at.geant.net                                                                            
+╭─ 212.133.7.165   3356    43.157                    (Vienna, Vienna, AT, EU) ae68.edge4.vienna1.level3.net                                                                       
+LHL (3356)  
+├─ 171.75.8.225    3356    52.252    (Septèmes-les-Vallons, Provence-Alpes-Côte d'Azur, FR, EU) ae2.3605.edge4.mrs1.neo.colt.net                                                                    
+S (3356, 35819)  
+├─ 212.133.4.70    35819   52.175                        (None, None, SA, AS) *                                                                                                   
+S (35819, 37100)  
+├─ 105.16.32.1     37100   185.108                   (Marseille, PAC, FR, EU) ae-1.cr-01-mrs.fr.seacomnet.com                                                                     
+S (37100)  
+├─ 105.16.9.201    37100   189.158                     (Mombasa, 300, KE, AF) xe-0-0-0-1.cr-02-mba.ke.seacomnet.com                                                               
+S (37100)  
+╰─ 105.16.30.9     37100   186.935                    (Cape Town, WC, ZA, AF) xe-0-0-0-0.er-01-cpt.za.seacomnet.com                                                               
+   105.22.67.166   37100   185.79           (Cape Town, Western Cape, ZA, AF)                                                                                                     
+   102.220.178.118 328829  184.862          (Cape Town, Western Cape, ZA, AF) rnd-br2-sfp28-2-882.vumatel.co.za                                                                   
+   102.220.179.118 328829  188.127          (Cape Town, Western Cape, ZA, AF) unknown.vumatel.co.za                                                                               
+   102.220.178.25  328829  188.775          (Cape Town, Western Cape, ZA, AF) unknown.vumatel.co.za                                                                               

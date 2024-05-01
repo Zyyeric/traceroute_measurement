@@ -1,0 +1,22 @@
+   196.49.15.189   328998  0.0              (Kampala, Central Region, UG, AF)                                                                                                     
+   196.49.15.253   328998  0.368            (Kampala, Central Region, UG, AF)                                                                                                     
+   41.191.77.205   37063   0.763            (Kampala, Central Region, UG, AF)                                                                                                     
+   129.205.30.77   37063   0.675                         (Kampala, C, UG, AF) *                                                                                                   
+╭─ 212.88.110.33   20294   0.664 (2.174)       (Kampala, Central Region, UG, AF)                                                                                                     
+LHL (20294, 16637)  
+╰─ 41.181.247.38   16637   151.86                   (London, England, GB, EU)                                                                                                     
+   41.181.244.177  16637   151.545                  (London, England, GB, EU)                                                                                                     
+╭─ 41.181.105.104  16637   151.899                  (London, England, GB, EU)                                                                                                     
+T (16637)  
+├─ 41.181.189.64   16637   152.281                     (Pretoria, GP, ZA, AF) *                                                                                                   
+T (16637, 6939)  
+├─ 184.104.205.252 6939    152.511                  (London, England, GB, EU) e0-45.core1.lon3.he.net                                                                             
+S&T (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.105.81.30   6939    170.769                   (Marseille, PAC, FR, EU) port-channel4.core2.mrs1.he.net                                                                     
+╭─ 184.104.193.102 6939    170.595   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) port-channel1.core3.mrs1.he.net                                                                     
+S&T (6939)  
+╰─ 184.104.189.46  6939    269.029                     (Dubai, Dubai, AE, AS) ve1002.core2.dxb1.he.net                                                                            
+   185.1.8.17      57187   268.123                       (Dubai, 3, AE, None) j48-1.dxa.dxb.ae.datamena.net                                                                       
+   94.207.43.2     57187   268.461                     (Dubai, Dubai, AE, AS) -094-207-043-002.datamena.net                                                                       

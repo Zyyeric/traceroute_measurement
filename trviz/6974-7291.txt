@@ -1,0 +1,16 @@
+   103.133.238.187 132808  0.0                 (Brisbane, Queensland, AU, OC) iptelco.com.au                                                                                      
+   103.133.238.130 132808  0.361               (Brisbane, Queensland, AU, OC) vmnet-hsrp66.bdr01-bne-br1.iptelco.net.au                                                           
+   103.17.223.161  58511   0.467               (Brisbane, Queensland, AU, OC) pe.as132808.as58511.net.223.17.103.in-addr.arpa                                                     
+   103.30.218.118  58511   103.531                       (None, None, AU, OC) et-0-0-6.cor101.ndcb1.au.as58511.net                                                                
+   103.30.218.137  58511   103.841                       (None, None, AU, OC) et-0-0-7.cor102.ndcb1.au.as58511.net                                                                
+   ***             *       -inf                                           *** *                                                                                                   
+   103.30.216.43   58511   104.031                       (None, None, AU, OC) po10-2.bdr1.ae1.au.as58511.net                                                                      
+╭─ 103.30.218.216  *       103.536       (The Rocks, New South Wales, AU, OC) hu0-0-0-31.cor101.ndcp1.au.as58511.net                                                              
+S (, 2914)  
+├─ 129.250.2.243   2914    182.231                       (None, None, US, NA) ae-17.r31.tokyjp05.jp.bb.gin.ntt.net                                                                
+S (2914)  
+╰─ 129.250.5.91    2914    181.348                     (Tokyo, Tokyo, JP, AS) ae-10.a01.tokyjp09.jp.bb.gin.ntt.net                                                                
+   61.200.91.86    2914    181.745                  (Hatsudai, Tokyo, JP, AS) ce-2-2-2.a01.tokyjp09.jp.ce.gin.ntt.net                                                             
+   ***             *       -inf                                           *** *                                                                                                   
+   182.161.74.64   55569   181.91                      (Tokyo, Tokyo, JP, AS)                                                                                                     
+   182.161.74.241  55569   181.828                     (Tokyo, Tokyo, JP, AS)                                                                                                     

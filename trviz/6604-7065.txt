@@ -1,0 +1,13 @@
+   217.243.179.165 3320    0.0              (New York City, New York, US, NA)                                                                                                     
+╭─ 217.243.179.164 3320    1.089            (New York City, New York, US, NA)                                                                                                     
+LHL (3320)  apollo ✓ || flag-atlantic-1-fa-1 ✓
+├─ 217.239.53.134  3320    76.396                        (None, None, DE, EU) pd9ef3586.dip0.t-ipconnect.de                                                                       
+T (3320)  
+├─ 62.157.250.81   3320    81.395          (Amsterdam, North Holland, NL, EU)                                                                                                     
+T (3320, 3257)  
+├─ 213.200.121.85  3257    108.931                        (Madrid, M, ES, EU) ae6.cr1-mad5.ip4.gtt.net                                                                            
+S (3257, 15954)  
+├─ 195.81.206.18   15954   99.611                        (None, None, US, NA) gtt-1.mad1.tecnocratica.net                                                                         
+S (15954)  apollo ✘ || flag-atlantic-1-fa-1 ✘
+╰─ 91.216.219.18   15954   99.884                        (None, None, ES, EU) 10g-e12.c2-19b.mad01.tecnocratica.net                                                               
+   31.47.76.181    15954   99.85                     (Madrid, Madrid, ES, EU) ancla.tecnocratica.net                                                                              

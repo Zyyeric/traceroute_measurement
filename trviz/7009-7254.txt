@@ -1,0 +1,24 @@
+   103.170.154.254 142594  0.0                      (London, England, GB, EU) 254.154.170.103.speedyvps.uk                                                                        
+╭─ 103.170.154.1   142594  0.162                    (London, England, GB, EU)                                                                                                     
+T (142594, 60068)  
+├─ 156.146.32.92   60068   0.212                     (Prague, Prague, CZ, EU) unn-156-146-32-92.cdn77.com                                                                         
+T (60068, 174)  
+╰─ 149.6.149.233   174     0.775                    (London, England, GB, EU) be5303.ccr21.lon02.atlas.cogentco.com                                                               
+╭─ 154.54.62.5     174     0.895                        (London, ENG, GB, EU) be2573.ccr42.lon13.atlas.cogentco.com                                                               
+S&T (174)  circe-north ✓ || scylla ✘ || ulysses-2 ✘ || zeus ✓ || atlantic-crossing-1-ac-1 ✓ || concerto © || farland-north ✘
+├─ 130.117.51.42   174     7.881                      (Amsterdam, NH, NL, EU) be12488.ccr42.ams03.atlas.cogentco.com                                                              
+T (174)  
+╰─ 130.117.0.142   174     14.435             (Frankfurt am Main, HE, DE, EU) be2814.ccr42.fra03.atlas.cogentco.com                                                               
+╭─ 154.54.37.30    174     14.687             (Frankfurt am Main, HE, DE, EU) be2846.rcr22.fra06.atlas.cogentco.com                                                               
+T (174)  
+├─ 154.25.2.226    174     15.021                        (Paris, IDF, FR, EU) te0-0-2-2.nr11.b035886-0.par01.atlas.cogentco.com                                                   
+T (174)  
+├─ 149.11.86.34    174     90.348          (Frankfurt am Main, Hesse, DE, EU)                                                                                                     
+T (174, 8895)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 87.101.184.42   8895    105.823                    (Amsterdam, NH, NL, EU) *                                                                                                   
+LHL (8895, )  
+╰─ 45.94.12.1      *       105.784            (Riyadh, Riyadh Region, SA, AS)                                                                                                     
+   45.94.14.204    208520  105.882            (Riyadh, Riyadh Region, SA, AS)                                                                                                     

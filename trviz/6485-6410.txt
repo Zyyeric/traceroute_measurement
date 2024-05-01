@@ -1,0 +1,12 @@
+   200.160.6.19    22548   0.0                 (São Paulo, São Paulo, BR, SA) br-sao-as22548.anchors.atlas.ripe.net                                                               
+   200.160.6.61    22548   1.347         (Taboão da Serra, São Paulo, BR, SA) ae1-89.ar3.jd.registro.br                                                                           
+   200.160.0.253   22548   4.384                         (None, None, BR, SA) ae0-0.core1.nu.registro.br                                                                          
+╭─ 200.160.0.161   22548   1.305                         (None, None, BR, SA) xe-5-0-0-0.gw1.nu.registro.br                                                                       
+S&T (22548, 6939)  south-american-crossing-sac ✘ || malbec ✓ || tannat ✓ || south-america-1-sam-1 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.188.74  6939    30.565    (Buenos Aires, Buenos Aires F.D., AR, SA) port-channel1.core1.bue1.he.net                                                                     
+T (6939, 64112)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 45.68.16.3      64112   51.661                    (Santiago, 12, CL, None) AS64112.SCL.PITChile.cl                                                                             
+   ***             *       -inf                                           *** *                                                                                                   
+   170.247.95.81   64112   444.056   (Santiago, Santiago Metropolitan, CL, SA)                                                                                                     

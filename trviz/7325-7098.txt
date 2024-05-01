@@ -1,0 +1,17 @@
+   103.242.68.78   133075  0.0                   (Auckland, Auckland, NZ, OC) 103-242-68-78.broadband.telesmart.co.nz                                                             
+   103.242.68.65   133075  0.324                    (Wellington, WGN, NZ, OC) *                                                                                                   
+   131.203.72.165  9790    0.743                 (Auckland, Auckland, NZ, OC) default-rdns.vocus.co.nz                                                                            
+   131.203.72.166  9790    0.754                 (Auckland, Auckland, NZ, OC) default-rdns.vocus.co.nz                                                                            
+   ***             *       -inf                                           *** *                                                                                                   
+   175.45.102.234  9790    1.996                      (Auckland, AUK, NZ, OC) as9790.bdr01.akl05.akl.nz.vocus.network                                                             
+╭─ 175.45.102.233  4826    2.21                       (Auckland, AUK, NZ, OC) be1000.bdr01.akl05.akl.nz.vocus.network                                                             
+S (4826, 1221)  tasman-global-access-tga-cable ✓ || southern-cross-cable-network-sccn ✓ || hawaiki ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 61.8.28.113     1221    27.404           (Sydney, New South Wales, AU, OC) ae20.alx-edge421.sydney.telstra.net                                                                 
+   203.50.12.132   1221    26.561           (Sydney, New South Wales, AU, OC) bundle-ether50.stl-core30.sydney.telstra.net                                                        
+   203.50.13.131   1221    39.905               (Melbourne, Victoria, AU, OC) bundle-ether3.win-core30.melbourne.telstra.net                                                      
+   203.50.11.195   1221    39.017                    (Melbourne, VIC, AU, OC) bundle-ether1.win-edge903.melbourne.telstra.net                                                     
+   203.48.8.54     1221    39.16                (Melbourne, Victoria, AU, OC) tel4239919.lnk.telstra.net                                                                          
+   ***             *       -inf                                           *** *                                                                                                   
+   203.41.0.51     1221    39.064               (Melbourne, Victoria, AU, OC)                                                                                                     

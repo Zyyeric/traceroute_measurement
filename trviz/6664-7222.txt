@@ -1,0 +1,22 @@
+   102.130.68.151  37468   0.0                (Johannesburg, Gauteng, ZA, AF)                                                                                                     
+╭─ 102.130.68.146  37468   0.384                  (Edenvale, Gauteng, ZA, AF)                                                                                                     
+S&T (37468)  
+├─ 102.130.68.112  37468   16.108                        (None, None, AO, AF) *                                                                                                   
+S (37468)  
+╰─ 102.130.68.69   37468   127.595                   (Lisbon, Lisbon, PT, EU)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 154.54.61.214   174     168.789                        (Porto, 13, PT, EU) be2444.rcr21.opo01.atlas.cogentco.com                                                               
+S&T (174)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 154.54.39.226   174     170.079                   (Marseille, PAC, FR, EU) be3077.ccr31.mrs02.atlas.cogentco.com                                                               
+S&T (174, 3356)  
+├─ 149.14.125.202  3356    169.629                       (Madrid, MD, ES, EU) *                                                                                                   
+LHL (3356, 8551)  
+├  10.250.99.1     *       213.378                                        ***                                                                                                     
+├  10.250.99.5     *       210.438                                        ***                                                                                                     
+╰─ 212.179.124.81  8551    210.556                     (Tel Aviv, TA, IL, AS) bzq-179-124-81.cust.bezeqint.net                                                                    
+   212.179.124.5   8551    210.231               (Tel Aviv, Tel Aviv, IL, AS) bzq-179-124-5.cust.bezeqint.net                                                                     
+   62.219.189.186  8551    210.341               (Rishon LeZiyyon, M, IL, AS) bzq-219-189-186.cablep.bezeqint.net                                                                 
+   169.254.0.0     *       214.395                                        ***                                                                                                     
+   10.255.29.244   *       214.494                                        ***                                                                                                     
+   146.185.219.73  202422  210.408    (Petaẖ Tiqva, Central District, IL, AS)                                                                                                     

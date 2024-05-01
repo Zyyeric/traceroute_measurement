@@ -1,0 +1,16 @@
+   103.160.63.222  140443  0.0                     (Jakarta, Jakarta, ID, AS) 222.63.160.103.in-addr.herza.id                                                                     
+╭─ 103.160.63.129  140443  0.267                   (Jakarta, Jakarta, ID, AS) 129.63.160.103.in-addr.herza.id                                                                     
+S&T (140443, 9002)  australia-singapore-cable-asc ✓ || matrix-cable-system ✘ || b2js-jakarta-bangka-batam-singapore-cable-system ✘ || indonesia-global-gateway-igg-system ✓ || seamewe-3 ✓ || indigo-west ✘ || jakarta-bangka-bintan-batam-singapore-b3js ✘ || jasuka ✓ || jakabare ✘
+├  10.111.220.46   *       0.531                                          ***                                                                                                     
+├  10.111.220.6    *       12.402                                         ***                                                                                                     
+├  10.111.222.209  *       12.342                                         ***                                                                                                     
+├─ 87.245.231.200  9002    12.457              (Singapore, Singapore, SG, AS) ae0-526.rt.eqx.sin.sg.retn.net                                                                      
+S (9002)  seamewe-3 ✓
+╰─ 87.245.233.191  9002    177.41                         (Madrid, M, ES, EU) ae2-4.RT.IRX.MAD.ES.retn.net                                                                        
+   ***             *       -inf                                           *** *                                                                                                   
+   130.206.245.25  766     164.836                       (None, None, ES, EU) ciemat.rt2.ethtrunk1.telmad.rt1.mad.red.rediris.es                                                  
+   130.206.216.2   766     165.341                       (None, None, ES, EU) redimadrid-backup-router.red.rediris.es                                                             
+   193.145.15.50   766     165.459                       (None, None, ES, EU) uc3m-rt-ju-01-xe-0-1-0.net.redimadrid.es                                                            
+   ***             *       -inf                                           *** *                                                                                                   
+   163.117.49.4    766     165.959                       (Madrid, MD, ES, EU) b01014zr.uc3m.es                                                                                    
+   163.117.253.5   766     173.915                   (Madrid, Madrid, ES, EU)                                                                                                     

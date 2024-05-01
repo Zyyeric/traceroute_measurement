@@ -1,0 +1,17 @@
+   46.227.202.97   41495   0.0                  (Manchester, England, GB, EU) uk-mnc-as41495.anchors.atlas.ripe.net                                                               
+   46.227.207.255  41495   0.942                    (London, England, GB, EU) anycast.gateway.faelix.net                                                                          
+   46.227.206.41   41495   1.001                (Manchester, England, GB, EU) host-46-227-206-41.rev.as41495.net                                                                  
+   ***             *       -inf                                           *** *                                                                                                   
+   46.227.200.125  41495   1.73                 (Manchester, England, GB, EU) v102.eth5.bly.w.faelix.net                                                                          
+╭─ 72.52.92.202    6939    9.808                    (Manchester, ENG, GB, EU) 100ge8-2.core1.man1.he.net                                                                          
+S&T (6939)  geo-eirgrid ✘ || exa-north-and-south ✓ || havhingstenceltixconnect-2-cc-2 ✓ || sirius-south ✘ || esat-2 ✓ || rockabill ✓ || esat-1 ✓ || pan-european-crossing-uk-ireland ✓ || exa-express ✓ || solas ✓
+├─ 72.52.92.198    6939    14.567                         (Dublin, D, IE, EU) 100ge0-33.core2.dub1.he.net                                                                         
+S (6939)  exa-north-and-south ✓ || aec-1 ✘
+╰─ 184.105.81.41   6939    72.03                       (New York, NY, US, NA) 100ge15-2.core1.nyc5.he.net                                                                         
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 184.104.194.87  6939    76.377             (Boston, Massachusetts, US, NA) 100ge0-40.core2.bos1.he.net                                                                         
+S&T (6939)  exa-north-and-south ✓
+╰─ 72.52.92.10     6939    87.572                       (Moncton, NB, CA, NA) 100ge0-33.core2.yqm1.he.net                                                                         
+   209.51.184.134  3367    91.082                       (Moncton, NB, CA, NA) f6-networks-inc.10gigabitethernet12-15.core1.yqm1.he.net                                            
+   98.143.249.21   21659   87.797                       (Moncton, NB, CA, NA) enova-98-143-249-21.e-novations.ca                                                                  
+   96.126.70.90    21659   87.218            (Moncton, New Brunswick, CA, NA) 96-126-70-90.apbx.ca                                                                                

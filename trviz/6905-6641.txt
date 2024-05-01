@@ -1,0 +1,16 @@
+   92.38.135.131   202422  0.0                         (Seoul, Seoul, KR, AS)                                                                                                     
+   92.38.135.3     202422  0.31                        (Seoul, Seoul, KR, AS) vrrp.gcore.lu                                                                                       
+   10.255.17.210   *       0.32                                           ***                                                                                                     
+   10.255.17.213   *       0.266                                          ***                                                                                                     
+   10.255.17.147   *       0.376                                          ***                                                                                                     
+╭─ 113.29.52.41    3549    0.351 (0.927)                  (Seoul, Seoul, KR, AS)                                                                                                     
+S (3549, 3356)  eac-c2c ✘ || asia-pacific-gateway-apg ✘ || apcn-2 ✘ || seamewe-3 ✘
+╰─ 4.69.206.174    3356    95.437                   (Singapore, None, SG, AS) ae1.3505.edge3.Singapore3.level3.net                                                                
+╭─ 4.68.111.198    3356    95.669              (Singapore, Singapore, SG, AS)                                                                                                     
+S&T (3356, 4651)  asia-america-gateway-aag-cable-system ✓ || seamewe-4 ✓ || seamewe-3 ✓
+╰─ 61.19.9.133     4651    120.795                       (None, None, TH, AS) *                                                                                                   
+   61.19.7.22      4651    121.194                       (None, None, TH, AS) *                                                                                                   
+   122.155.224.74  135063  119.183                       (None, None, TH, AS) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   103.253.132.25  59238   120.851                 (Bangkok, Bangkok, TH, AS) th-bkk-as59238.anchors.atlas.ripe.net                                                               

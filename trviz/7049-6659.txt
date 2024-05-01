@@ -1,0 +1,16 @@
+   5.188.238.222   202422  0.0                 (São Paulo, São Paulo, BR, SA)                                                                                                     
+   5.188.238.3     202422  0.154               (São Paulo, São Paulo, BR, SA) vrrp.gcore.lu                                                                                       
+   10.255.22.182   *       0.185                                          ***                                                                                                     
+   10.255.22.188   *       0.423                                          ***                                                                                                     
+╭─ 8.242.21.113    3356    0.361 (0.794)          (São Paulo, São Paulo, BR, SA)                                                                                                     
+S (3356)  south-america-1-sam-1 ✓ || monet © || seabras-1 ✓ || america-movil-submarine-cable-system-1-amx-1 © || brusa ✓ || globenet © || americas-ii 👍
+╰─ 4.69.207.41     3356    106.816                        (Miami, FL, US, NA) ae2.3604.ear4.Miami2.level3.net                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 38.142.154.66   11179   107.75                       (Memphis, TN, US, NA) *                                                                                                   
+S (11179, 263703)  globenet ✘ || americas-ii ✓ || arcos ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 190.97.246.90   263703  147.78                  (El Vigía, Mérida, VE, SA)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   170.254.172.12  265641  148.089                 (Maturín, Monagas, VE, SA) rev170-254-172-12.cixve.net                                                                         

@@ -1,0 +1,26 @@
+   102.219.127.20  37468   0.0                 (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 102.219.127.17  37468   0.271               (Singapore, Singapore, SG, AS)                                                                                                     
+LHL (37468)  seamewe-4 ✓ ↠ seacomtata-tgn-eurasia ✓ || seamewe-3 ✓ ↠ seacomtata-tgn-eurasia ✓ || seamewe-5 ✓ ↠ seacomtata-tgn-eurasia ✓ || peace-cable ✘ ↠ seacomtata-tgn-eurasia ✓
+├─ 102.219.127.7   37468   145.067            (Johannesburg, Gauteng, ZA, AF)                                                                                                     
+S&T (37468)  west-africa-cable-system-wacs 👍 || sat-3wasc ✓
+├─ 102.130.68.142  37468   197.943                       (None, None, AO, AF) *                                                                                                   
+S (37468)  south-atlantic-cable-system-sacs 👍
+╰─ 170.238.232.145 37468   258.371                       (None, None, BR, SA) *                                                                                                   
+╭─ 170.238.232.221 37468   302.711                (Osasco, São Paulo, BR, SA) 221.232.238.170.angolacables.ao                                                                     
+LHL (37468, 12956)  america-movil-submarine-cable-system-1-amx-1 ✘ ↠ marea ✓ || south-america-1-sam-1 ✓ ↠ marea ✓ || brusa ✓ ↠ marea ✓ || globenet ✓ ↠ marea ✓ || monet 👍 ↠ marea ✓ || americas-ii ✓ ↠ marea ✓
+├─ 5.53.1.36       12956   303.003                       (None, None, ES, EU) *                                                                                                   
+LHL (12956)  
+╰─ 94.142.98.31    12956   302.679                (Osasco, São Paulo, BR, SA)                                                                                                     
+╭─ 213.140.53.51   12956   456.363                (Osasco, São Paulo, BR, SA) ntt-ae5-0-grtsaotm1.net.telefonicaglobalsolutions.com                                               
+S (12956, 2914)  america-movil-submarine-cable-system-1-amx-1 ✘ || south-america-1-sam-1 👍 || brusa 👍 || globenet ✘ || monet ✓ || americas-ii ✓
+╰─ 129.250.2.12    2914    466.158                       (None, None, US, NA) ae-8.sayonara-dorian.r20.nwrknj03.us.bb.gin.ntt.net                                                 
+   129.250.6.17    2914    453.508                       (None, None, US, NA) ae-0.sayonara-dorian.r21.nwrknj03.us.bb.gin.ntt.net                                                 
+   129.250.2.166   2914    461.724                       (None, None, US, NA) ae-3.sayonara-dorian.r22.chcgil09.us.bb.gin.ntt.net                                                 
+   129.250.2.27    2914    448.107                       (None, None, US, NA) ae-1.sayonara-dorian.r23.chcgil09.us.bb.gin.ntt.net                                                 
+   129.250.5.17    2914    461.877                       (None, None, US, NA) ae-1.sayonara-dorian.r24.snjsca04.us.bb.gin.ntt.net                                                 
+   ***             *       -inf                                           *** *                                                                                                   
+   129.250.5.77    2914    475.558                       (None, None, US, NA) ae-21.r30.tokyjp05.jp.bb.gin.ntt.net                                                                
+╭─ 129.250.7.14    2914    459.692                       (None, None, US, NA) ae-0.a00.tokyjp09.jp.bb.gin.ntt.net                                                                 
+S (2914, 15133)  
+╰─ 61.213.162.46   15133   465.404                       (None, None, JP, AS) ae-1.edgecast-networks.tokyjp09.jp.bb.gin.ntt.net                                                   
+   152.195.112.52  15133   459.04                      (Tokyo, Tokyo, JP, AS)                                                                                                     

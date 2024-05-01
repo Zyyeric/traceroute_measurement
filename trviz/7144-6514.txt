@@ -1,0 +1,12 @@
+   46.22.180.61    24586   0.0             (Rotterdam, South Holland, NL, EU) intermax-ripeatlas-61.intermax.nl                                                                   
+   46.22.180.57    24586   0.321           (Rotterdam, South Holland, NL, EU) ae17-59.crt-weena.network.intermax.nl                                                               
+   93.92.99.40     24586   2.166                       (Schiphol, NH, NL, EU) mx-scp.network.intermax.nl                                                                          
+   80.249.209.150  6939    2.717                      (Amsterdam, NH, NL, EU) amsix-200gbps.core1.ams1.he.net                                                                     
+╭─ 184.104.198.118 6939    2.596           (Amsterdam, North Holland, NL, EU) port-channel1.core1.ams1.he.net                                                                     
+S&T (6939)  ulysses-2 ✘ || zeus ✓ || circe-north ✓ || scylla ✓ || concerto ✓ || farland-north ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.193.193 6939    7.219                        (London, ENG, GB, EU) 100ge0-31.core2.lon3.he.net                                                                         
+   184.104.204.238 201933  7.28                         (London, ENG, GB, EU) cxs-connected-enterprise-ltd.10gigabitethernet1-1-21.switch1.lon3.he.net                            
+   91.193.116.89   209669  7.856                      (Brighton, ENG, GB, EU) 1ge-0-0.edge.pd1.lon.gbr.primonetwork.co.uk                                                         
+   100.64.0.1      *       7.509                                          ***                                                                                                     
+   185.251.232.156 209669  7.73                     (Bexley, England, GB, EU) 156.232.251.185.arpa.primonetwork.co.uk                                                             

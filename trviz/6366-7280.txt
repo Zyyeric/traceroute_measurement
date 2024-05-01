@@ -1,0 +1,20 @@
+   185.14.96.232   211186  0.0                (Lamía, Central Greece, GR, EU)                                                                                                     
+   185.14.96.225   211186  0.653              (Lamía, Central Greece, GR, EU) vlan4090.lamia.fast.net.gr                                                                          
+   212.205.28.249  6799    0.588              (Lamía, Central Greece, GR, EU) 249.28.205.212.static.otenet.gr                                                                     
+   79.128.234.128  6799    3.646                    (Maroúsi, Attica, GR, EU)                                                                                                     
+   62.75.3.17      12713   3.558             (Néa Chalkidóna, Attica, GR, EU) kolasr02-hu-0-8-0-0.ath.oteglobe.gr                                                                 
+╭─ 62.75.6.10      *       36.983                    (Athens, Attica, GR, EU)                                                                                                     
+LHL (, 6939)  mednautilus-submarine-system ✘ ↠ asia-africa-europe-1-aae-1 ✘ || mednautilus-submarine-system ✘ ↠ seamewe-3 ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.105.64.217  6939    49.093          (Frankfurt am Main, Hesse, DE, EU) 100ge0-69.core3.fra2.he.net                                                                         
+LHL (6939)  
+╰─ 184.104.193.118 6939    43.509                        (Zagreb, 21, HR, EU) 100ge0-34.core2.zag1.he.net                                                                         
+   184.104.205.22  5391    44.368                        (Zagreb, 21, HR, EU) hrvatski-telekom-d-d.100gigabitethernet8-2.core1.zag1.he.net                                        
+   195.29.224.9    5391    44.455                    (Zagreb, Zagreb, HR, EU) htr11-gte02-4.ip.t-com.hr                                                                           
+╭─ 195.29.240.2    5391    44.558                    (Zagreb, Zagreb, HR, EU) gtr11-htr11-3.ip.t-com.hr                                                                           
+T (5391, 9146)  
+╰─ 185.12.77.109   9146    53.856                        (None, None, BA, EU) *                                                                                                   
+   185.12.77.108   9146    54.278                        (None, None, BA, EU) *                                                                                                   
+   195.222.41.54   8670    54.74                      (Sarajevo, BIH, BA, EU) dlp-54.as3.kl.bih.net.ba                                                                            
+   195.130.45.62   8670    54.554                     (Sarajevo, BIH, BA, EU) travnik.bbone.utic.net.ba                                                                           
+   195.130.61.208  8670    54.471       (Sarajevo, Federation of B&H, BA, EU) travnik.bbone.utic.net.ba                                                                           

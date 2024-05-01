@@ -1,0 +1,20 @@
+   196.49.14.25    30997   0.0                 (Accra, Greater Accra, GH, AF)                                                                                                     
+   196.49.14.1     30997   0.43                (Accra, Greater Accra, GH, AF)                                                                                                     
+╭─ 197.221.70.89   *       1.262               (Accra, Greater Accra, GH, AF)                                                                                                     
+S&T (, 3741)  
+╰─ 196.14.240.4    3741    1.065                         (None, None, ZA, AF) *                                                                                                   
+╭─ 168.209.160.109 3741    255.962                       (None, None, ZA, AF) *                                                                                                   
+T (3741)  
+├─ 168.209.160.108 3741    255.912                  (London, England, GB, EU)                                                                                                     
+T (3741)  
+├─ 168.209.246.1   3741    257.502                       (None, None, ZA, AF) core1b-dock-be-1.ip.ddii.network                                                                    
+T (3741, 174)  
+╰─ 149.6.148.129   174     255.506                      (London, ENG, GB, EU) te0-1-0-2-8.ccr21.lon02.atlas.cogentco.com                                                          
+╭─ 154.54.62.5     174     256.094                      (London, ENG, GB, EU) be2573.ccr42.lon13.atlas.cogentco.com                                                               
+S&T (174)  
+╰─ 154.54.57.70    174     262.404                       (Paris, IDF, FR, EU) be12489.ccr42.par01.atlas.cogentco.com                                                              
+   154.54.72.226   174     273.243                   (Marseille, PAC, FR, EU) be2780.ccr32.mrs02.atlas.cogentco.com                                                               
+   154.54.39.65    174     273.591               (Lille/Lesquin, HDF, FR, EU) be3519.rcr51.lil01.atlas.cogentco.com                                                               
+   149.14.127.98   174     272.897   (Septèmes-les-Vallons, Provence-Alpes-Côte d'Azur, FR, EU)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   185.233.32.213  211997  273.857   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) 185-233-32-213.eho.link                                                                             

@@ -1,0 +1,14 @@
+   202.70.133.25   140443  0.0                 (Singapore, Singapore, SG, AS) 25.133.70.202.in-addr.herza.id                                                                      
+   202.70.133.1    140443  0.266               (Singapore, Singapore, SG, AS) 1.133.70.202.in-addr.herza.id                                                                       
+╭─ 202.70.132.1    140443  0.386               (Singapore, Singapore, SG, AS) 1.132.70.202.in-addr.herza.id                                                                       
+S (140443, 7713)  
+├  10.111.222.206  *       0.446                                          ***                                                                                                     
+├─ 27.111.228.77   7713    2.264                     (Seogwipo, None, KR, AS) 7713.sgw.equinix.com                                                                                
+S (7713)  
+╰─ 180.240.204.9   7713    2.499               (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 180.240.204.9   7713    2.499               (Singapore, Singapore, SG, AS)                                                                                                     
+S&T (7713)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 36.93.255.177   7713    21.173                       (Batam, Riau, ID, AS)                                                                                                     
+   36.93.255.178   58475   19.797                        (None, None, ID, AS) *                                                                                                   
+   103.23.232.7    58475   20.565     (Banjarmasin, South Kalimantan, ID, AS)                                                                                                     

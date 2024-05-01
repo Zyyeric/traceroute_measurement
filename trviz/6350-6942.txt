@@ -1,0 +1,15 @@
+   46.166.168.3    16125   0.0                   (Šiauliai, Siauliai, LT, EU)                                                                                                     
+   46.166.168.1    16125   0.417                 (Šiauliai, Siauliai, LT, EU)                                                                                                     
+   46.166.166.15   16125   0.364                 (Šiauliai, Siauliai, LT, EU)                                                                                                     
+╭─ 216.66.90.161   6939    0.373 (5.967)              (Vilnius, Vilnius, LT, EU) ve107.core2.vno1.he.net                                                                             
+LHL (6939)  nordbalt ✘ ↠ baltica ✓ || nordbalt ✘ ↠ denmark-poland-2 ✓ || bcs-east-west-interlink ✓ ↠ baltica ✓ || bcs-east-west-interlink ✓ ↠ denmark-poland-2 ✓
+├─ 184.104.192.77  6939    13.706                        (Warsaw, MZ, PL, EU) 100ge11-2.core1.waw1.he.net                                                                         
+S&T (6939)  baltica ✓
+╰─ 184.105.213.142 6939    21.014                    (Berlin, Berlin, DE, EU) port-channel2.core3.ber1.he.net                                                                     
+╭─ 193.178.185.173 *       27.835                    (Berlin, Berlin, DE, EU) 31173.bcix.de                                                                                       
+T (, 39351)  
+├─ 193.32.248.39   39351   27.819        (Copenhagen, Capital Region, DK, EU) mlm-vg4-cr2-et-0-0-3-v2061.31173.se                                                                 
+S&T (39351)  
+╰─ 193.138.216.74  39351   26.481                          (Malmo, M, SE, EU) mlm-sp-cr1-ae-1.31173.se                                                                            
+   193.138.216.91  39351   39.024                        (None, None, SE, EU) *                                                                                                   
+   193.138.218.50  39351   26.317                      (Malmö, Skåne, SE, EU) se-mma-as39351.anchors.atlas.ripe.net                                                               

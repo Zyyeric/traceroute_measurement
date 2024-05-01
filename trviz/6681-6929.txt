@@ -1,0 +1,13 @@
+   27.131.108.126  38880   0.0                  (Melbourne, Victoria, AU, OC)                                                                                                     
+   27.131.108.97   38880   0.453                (Melbourne, Victoria, AU, OC)                                                                                                     
+   192.168.164.1   *       0.533                                          ***                                                                                                     
+   192.168.248.5   *       0.792                                          ***                                                                                                     
+   192.168.247.142 *       1.624                                          ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   162.158.1.111   13335   1.778                (Melbourne, Victoria, AU, OC)                                                                                                     
+   162.158.1.122   13335   1.799                (Melbourne, Victoria, AU, OC)                                                                                                     
+╭─ 162.158.1.138   13335   1.976                (Melbourne, Victoria, AU, OC)                                                                                                     
+S (13335, 133800)  indigo-west ✓ || seamewe-3 ✓ || australia-singapore-cable-asc ✓ || oman-australia-cable-oac ✘
+├  172.16.18.101   *       101.538                                        ***                                                                                                     
+╰─ 137.59.127.34   133800  101.861                       (None, None, ID, AS) ip-34-127-59-137.core.biznetg.io                                                                    
+   103.77.105.3    133800  101.46                  (Jakarta, Jakarta, ID, AS) ip-3-105-77-103.jkt-1.biznetg.io                                                                    

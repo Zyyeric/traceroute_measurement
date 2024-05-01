@@ -1,0 +1,18 @@
+   92.38.135.131   202422  0.0                         (Seoul, Seoul, KR, AS)                                                                                                     
+   92.38.135.3     202422  0.242                       (Seoul, Seoul, KR, AS) vrrp.gcore.lu                                                                                       
+   10.255.17.210   *       0.29                                           ***                                                                                                     
+   10.255.17.213   *       0.311                                          ***                                                                                                     
+   10.255.17.147   *       0.381                                          ***                                                                                                     
+╭─ 8.244.74.25     3356    0.588                       (Seoul, Seoul, KR, AS)                                                                                                     
+S (3356)  apcn-2 ✓ || asia-pacific-gateway-apg ✓ || flag-north-asia-loopreach-north-asia-loop ✓ || eac-c2c © || new-cross-pacific-ncp-cable-system ✓ || korea-japan-cable-network-kjcn ✓ || seamewe-3 ✓ || flag-europe-asia-fea © || trans-pacific-express-tpe-cable-system ✓
+├─ 4.69.217.14     3356    31.259                         (Tokyo, 13, JP, AS) ae1.3505.edge2.Tokyo4.level3.net                                                                    
+S (3356, 174)  apcn-2 ✓ || eac-c2c © || asia-pacific-gateway-apg ✓ || asia-submarine-cable-express-asecahaya-malaysia ✓ || flag-north-asia-loopreach-north-asia-loop ✓ || southeast-asia-japan-cable-sjc ✓ || flag-europe-asia-fea © || seamewe-3 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 154.54.89.202   174     107.634             (Hong Kong, Hong Kong, HK, AS) be3011.ccr21.hkg02.atlas.cogentco.com                                                               
+S (174)  
+╰─ 154.54.87.225   174     111.672                     (Singapore, 4, SG, AS) be2923.ccr31.sin01.atlas.cogentco.com                                                               
+╭─ 154.18.19.210   135418  186.116                  (Singapore, None, SG, AS) *                                                                                                   
+S&T (135418, 140443)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 38.47.188.1     140443  104.945       (Kuala Lumpur, Kuala Lumpur, MY, AS)                                                                                                     
+   38.47.189.189   140443  103.115       (Kuala Lumpur, Kuala Lumpur, MY, AS)                                                                                                     

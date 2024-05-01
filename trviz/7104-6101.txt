@@ -1,0 +1,16 @@
+   50.28.98.185    53824   0.0             (Paradise Valley, Arizona, US, NA)                                                                                                     
+   50.28.98.2      53824   0.608                   (Phoenix, Arizona, US, NA) lw-dc4-dist1-vlan100.rtr.liquidweb.com                                                              
+   50.28.96.48     53824   0.547                   (Phoenix, Arizona, US, NA) lw-dc4-core1.rtr.liquidweb.com                                                                      
+   50.28.96.231    53824   1.122                   (Phoenix, Arizona, US, NA) lw-dc4-border2-te0-0-0-0.rtr.liquidweb.com                                                          
+   4.28.83.25      3356    0.553                   (Phoenix, Arizona, US, NA)                                                                                                     
+   4.69.137.142    3356    0.912 (2.78)              (Phoenix, Arizona, US, NA) ae2.3604.edge3.phoenix1.level3.net                                                                  
+   4.68.68.50      3356    1.271                   (Phoenix, Arizona, US, NA) arelion-level3-phoenix1.level3.net                                                                  
+   62.115.125.53   1299    1.327                   (Phoenix, Arizona, US, NA) phx-b6-link.ip.twelve99.net                                                                         
+   62.115.125.54   1299    23.821                     (Dallas, Texas, US, NA) dls-bb2-link.ip.twelve99.net                                                                        
+   62.115.116.213  1299    42.054                  (Atlanta, Georgia, US, NA) atl-b24-link.ip.twelve99.net                                                                        
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 62.115.155.3    1299    54.121                    (Miami, Florida, US, NA) gasnatural-ic-374542.ip.twelve99-cust.net                                                           
+S&T (1299, 52468)  pacific-caribbean-cable-system-pccs ✓ || arcos © || pan-american-crossing-pac ✘ || maya-1 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 181.78.120.102  52468   159.736                   (Panamá, Panamá, PA, NA) 102.120.78.181.ufinet.com.pa                                                                        
+   179.0.200.36    272037  157.638                   (Panamá, Panamá, PA, NA)                                                                                                     

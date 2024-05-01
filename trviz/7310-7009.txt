@@ -1,0 +1,15 @@
+   45.94.14.204    208520  0.0                (Riyadh, Riyadh Region, SA, AS)                                                                                                     
+   45.94.14.193    208520  1.972              (Riyadh, Riyadh Region, SA, AS)                                                                                                     
+╭─ 212.138.250.7   8895    1.58               (Riyadh, Riyadh Region, SA, AS)                                                                                                     
+S (8895, 3257)  europe-india-gateway-eig ✓ || seamewe-3 ✓ || flag-europe-asia-fea ✘
+╰─ 154.14.64.197   3257    94.722                   (London, England, GB, EU) et-0-0-8-2.cr11-lon1.ip4.gtt.net                                                                    
+╭─ 89.149.142.49   3257    92.82                        (London, ENG, GB, EU) ae1.cr12-lon2.ip4.gtt.net                                                                           
+S (3257, 396998)  seamewe-3 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 23.183.246.250  396998  326.731             (Singapore, Singapore, SG, AS)                                                                                                     
+S&T (396998, 140443)  indonesia-global-gateway-igg-system ✓ || batam-dumai-melaka-bdm-cable-system ✘ || seamewe-5 ✓ || jasuka ✓ || seamewe-4 ✓ || asia-america-gateway-aag-cable-system ✓ || seax-1 ✘ || asia-submarine-cable-express-asecahaya-malaysia ✓ || palapa-ring-west ✓ || batam-rengit-cable-system-brcs ✘ || apcn-2 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 38.47.189.189   140443  332.15        (Kuala Lumpur, Kuala Lumpur, MY, AS)                                                                                                     

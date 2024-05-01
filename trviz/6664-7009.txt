@@ -1,0 +1,14 @@
+   45.94.14.204    208520  0.0                (Riyadh, Riyadh Region, SA, AS)                                                                                                     
+   45.94.14.193    208520  0.433              (Riyadh, Riyadh Region, SA, AS)                                                                                                     
+╭─ 212.138.250.7   8895    0.584              (Riyadh, Riyadh Region, SA, AS)                                                                                                     
+S (8895, 3257)  europe-india-gateway-eig ✓ || seamewe-3 ✓ || flag-europe-asia-fea ✘
+├─ 154.14.64.197   3257    92.377                   (London, England, GB, EU) et-0-0-8-2.cr11-lon1.ip4.gtt.net                                                                    
+T (3257)  
+╰─ 89.149.137.14   3257    103.042            (Frankfurt am Main, HE, DE, EU) ae1.cr7-fra2.ip4.gtt.net                                                                            
+╭─ 212.221.17.46   3257    104.665         (Frankfurt am Main, Hesse, DE, EU) ip4.gtt.net                                                                                         
+T (3257, 8551)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 62.219.189.186  8551    150.015               (Rishon LeZiyyon, M, IL, AS) bzq-219-189-186.cablep.bezeqint.net                                                                 
+   31.168.224.126  8551    150.025                     (Tel Aviv, TA, IL, AS) bzq-224-168-31-126.red.bezeqint.net                                                                 
+   ***             *       -inf                                           *** *                                                                                                   
+   146.185.219.73  202422  150.201    (Petaẖ Tiqva, Central District, IL, AS)                                                                                                     

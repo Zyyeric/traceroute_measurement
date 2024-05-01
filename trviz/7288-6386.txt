@@ -1,0 +1,15 @@
+   202.142.143.178 4764    0.0                  (Melbourne, Victoria, AU, OC) be3.bng1.vdc03.mel.aussiebb.net                                                                     
+   202.142.143.177 4764    0.718                (Melbourne, Victoria, AU, OC) gi0-0-0-8.acc3.530col.vic.aussiebb.net                                                              
+   10.241.6.22     *       0.787                                          ***                                                                                                     
+╭─ 159.196.252.5   4764    0.776 (2.51)                (Melbourne, VIC, AU, OC) be3.core2.equinix-me1.mel.aussiebb.net                                                              
+S (4764, 7713)  
+├─ 27.111.228.77   7713    89.521                    (Seogwipo, None, KR, AS) 7713.sgw.equinix.com                                                                                
+S (7713)  
+╰─ 180.240.204.9   7713    90.289              (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 180.240.204.9   7713    90.289              (Singapore, Singapore, SG, AS)                                                                                                     
+S&T (7713)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 36.64.254.21    7713    107.975       (Gubengairlangga, East Java, ID, AS)                                                                                                     
+   36.64.254.22    7713    107.637                   (Denpasar, Bali, ID, AS)                                                                                                     
+   103.215.228.2   140443  107.79               (Surabaya, East Java, ID, AS) 2.228.215.103.in-addr.herza.id                                                                      
+   103.215.229.229 140443  108.049              (Surabaya, East Java, ID, AS) 229.229.215.103.in-addr.herza.id                                                                    

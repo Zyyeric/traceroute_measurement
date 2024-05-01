@@ -1,0 +1,32 @@
+   148.225.112.222 4493    0.0                   (Hermosillo, Sonora, MX, NA)                                                                                                     
+   148.225.112.250 4493    0.33                  (Hermosillo, Sonora, MX, NA)                                                                                                     
+╭─ 177.242.222.96  13999   0.889                 (Hermosillo, Sonora, MX, NA) customer-qro-222-96.megared.net.mx                                                                  
+S&T (13999, 32098)  arcos ✘ || gignet-1 ✘ || maya-1 ✘ || america-movil-submarine-cable-system-1-amx-1 ✘
+├  10.3.2.73       *       27.697                                         ***                                                                                                     
+├  10.3.9.110      *       28.728                                         ***                                                                                                     
+├  ***             *       -inf                                           *** *                                                                                                   
+├  10.3.5.54       *       27.302                                         ***                                                                                                     
+╰─ 201.174.154.17  32098   19.465                    (El Paso, Texas, US, NA) 201-174-154-17.transtelco.net                                                                       
+   ***             *       -inf                                           *** *                                                                                                   
+   154.54.87.25    174     20.684                    (El Paso, Texas, US, NA) be2667.ccr21.elp02.atlas.cogentco.com                                                               
+   154.54.87.22    174     33.225                  (Denver, Colorado, US, NA) be2427.ccr21.den01.atlas.cogentco.com                                                               
+   154.54.5.90     174     44.637                   (Kansas City, MO, US, NA) be3035.ccr21.mci01.atlas.cogentco.com                                                               
+   154.54.42.166   174     56.493                       (Chicago, IL, US, NA) be2831.ccr41.ord01.atlas.cogentco.com                                                               
+   154.54.6.222    174     147.957                    (Cleveland, OH, US, NA) be2717.ccr21.cle04.atlas.cogentco.com                                                               
+   154.54.162.166  174     148.334          (New York City, New York, US, NA)                                                                                                     
+╭─ 154.54.84.202   174     148.2                       (New York, NY, US, NA) be2896.rcr23.jfk01.atlas.cogentco.com                                                               
+S (174)  
+╰─ 154.54.93.18    174     148.025                  (London, England, GB, EU) be4326.ccr51.lhr01.atlas.cogentco.com                                                               
+╭─ 154.54.60.5     174     160.709                      (London, ENG, GB, EU) be3487.ccr41.lon13.atlas.cogentco.com                                                               
+S&T (174)  
+╰─ 154.54.56.94    174     161.539                    (Amsterdam, NH, NL, EU) be12194.ccr41.ams03.atlas.cogentco.com                                                              
+╭─ 154.54.56.166   174     146.905                    (Amsterdam, NH, NL, EU) be2020.rcr21.b021535-1.ams03.atlas.cogentco.com                                                     
+S (174, 3216)  
+├─ 149.11.202.58   3216    189.027                       (None, None, US, NA) *                                                                                                   
+LHL (3216)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 212.119.196.106 3216    285.906           (Khabarovsk, Khabarovsk, RU, EU)                                                                                                     
+   10.255.10.181   *       287.713                                        ***                                                                                                     
+   92.38.191.66    210756  286.089           (Khabarovsk, Khabarovsk, RU, EU) vrrp.edgecenter.ru                                                                                  
+   185.209.84.10   198412  285.523                  (Khabarovsk, KHA, RU, AS) ae1-0.c10.khv01.ru.misaka.io                                                                        
+   185.209.84.141  57578   289.032           (Khabarovsk, Khabarovsk, RU, EU) ru-khv-as57578.anchors.atlas.ripe.net                                                               

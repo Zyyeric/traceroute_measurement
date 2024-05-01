@@ -1,0 +1,21 @@
+   185.6.39.132    42953   0.0                        (Cork, Munster, IE, EU)                                                                                                     
+   185.6.39.130    42953   4.396                      (Cork, Munster, IE, EU)                                                                                                     
+   91.103.0.98     47720   3.644                      (Cork, Munster, IE, EU)                                                                                                     
+   91.103.0.197    47720   3.351                      (Cork, Munster, IE, EU)                                                                                                     
+╭─ 185.6.36.69     6939    8.765                          (Dublin, D, IE, EU) 10ge16-1.core1.dub1.he.net                                                                          
+S&T (6939)  
+├─ 72.52.92.197    6939    14.429                   (Manchester, ENG, GB, EU) 100ge3-2.core1.man1.he.net                                                                          
+S&T (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.105.223.254 6939    25.238                        (Paris, IDF, FR, EU) port-channel4.core2.par2.he.net                                                                     
+S (6939, 137557)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.209.234 137557  195.109                     (Singapore, 4, SG, AS) international-gateway-company-limited.10gigabitethernet3-16.core1.sin1.he.net                       
+LHL (137557, 55329)  
+╰─ 103.113.44.57   55329   207.594                    (Phnom Penh, 8, KH, AS) *                                                                                                   
+   172.16.16.1     *       208.017                                        ***                                                                                                     
+   172.16.100.138  *       206.355                                        ***                                                                                                     
+   27.109.113.5    45498   206.074                   (Phnom Penh, 12, KH, AS) *                                                                                                   
+   27.109.113.26   45498   209.527                   (Phnom Penh, 12, KH, AS) *                                                                                                   
+   117.20.118.21   45498   205.004           (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     

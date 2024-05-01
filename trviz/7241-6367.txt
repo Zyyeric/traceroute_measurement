@@ -1,0 +1,12 @@
+   152.195.112.52  15133   0.0                         (Tokyo, Tokyo, JP, AS)                                                                                                     
+   152.195.112.49  15133   1.026                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+╭─ 152.195.112.205 15133   1.621                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+S (15133, 4637)  apcn-2 ✓ || eac-c2c ✓ || asia-pacific-gateway-apg ✓
+╰─ 202.47.216.145  4637    55.018                        (None, None, HK, AS) i-95.jtha-core02.telstraglobal.net                                                                  
+   202.47.216.145  4637    55.018                        (None, None, HK, AS) i-95.jtha-core02.telstraglobal.net                                                                  
+   202.84.141.129  4637    54.096    (Hong Kong, Central and Western, HK, AS) i-15242.hkth-core03.telstraglobal.net                                                               
+   202.84.153.26   4637    54.064    (Hong Kong, Central and Western, HK, AS)                                                                                                     
+╭─ 210.57.81.22    23944   68.025                        (None, None, HK, AS) unknown.telstraglobal.net                                                                           
+S (23944)  seamewe-3 ✓ || southeast-asia-japan-cable-sjc ✓ || eac-c2c ✓ || tata-tgn-intra-asia-tgn-ia ✓ || asia-submarine-cable-express-asecahaya-malaysia ✓ || asia-america-gateway-aag-cable-system ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 182.18.209.9    23944   91.526              (Manila, Metro Manila, PH, AS)                                                                                                     

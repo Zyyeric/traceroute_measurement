@@ -1,0 +1,16 @@
+   166.0.65.4      396163  0.0                  (Seattle, Washington, US, NA)                                                                                                     
+   166.0.65.3      396163  0.183                (Seattle, Washington, US, NA)                                                                                                     
+   216.200.68.81   6461    0.56                 (Seattle, Washington, US, NA) 0.xe-200-0-57.er1.sea3.us.zip.zayo.com                                                              
+   64.125.30.172   6461    38.401               (Seattle, Washington, US, NA) ae5.cs2.sea1.us.eth.zayo.com                                                                        
+   64.125.23.172   6461    39.714                        (None, None, US, NA) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 64.125.35.202   7473    38.445                          (Lehi, UT, US, NA) 64.125.35.202.IPYX-145641-004-ZYO.zip.zayo.com                                                      
+S (7473)  asia-america-gateway-aag-cable-system ✓
+╰─ 203.208.158.29  7473    219.722                       (None, None, SG, AS) *                                                                                                   
+   203.208.158.162 4845    214.083             (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 203.208.148.82  202196  213.721                       (None, None, SG, AS) *                                                                                                   
+S (202196)  eac-c2c ✓ || asia-pacific-gateway-apg ✓ || southeast-asia-japan-cable-sjc ✓ || asia-america-gateway-aag-cable-system ✓ || seamewe-3 ✓ || asia-submarine-cable-express-asecahaya-malaysia ✘ || apcn-2 ✓ || tata-tgn-intra-asia-tgn-ia ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 37.10.40.14     202196  285.713             (Hong Kong, Hong Kong, HK, AS)                                                                                                     

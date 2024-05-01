@@ -1,0 +1,20 @@
+   5.62.127.14     199610  0.0                      (London, England, GB, EU)                                                                                                     
+╭─ 5.62.127.1      199610  0.382                    (London, England, GB, EU)                                                                                                     
+T (199610)  
+├─ 46.251.228.201  199610  1.791       (Köln, North Rhine-Westphalia, DE, EU)                                                                                                     
+T (199610, 2914)  
+├─ 157.238.226.4   2914    1.978                    (London, England, GB, EU) ae-13.a02.londen12.uk.bb.gin.ntt.net                                                                
+S (2914)  
+╰─ 129.250.3.212   2914    2.622                         (None, None, US, NA) ae-0.r20.londen12.uk.bb.gin.ntt.net                                                                 
+   129.250.3.249   2914    2.291                         (None, None, US, NA) ae-13.a03.londen12.uk.bb.gin.ntt.net                                                                
+╭─ 128.241.10.217  13335   3.161                         (None, None, US, NA) ae-0.cloudflare.londen12.uk.bb.gin.ntt.net                                                          
+S (13335)  
+╰─ 172.71.176.4    13335   3.12                     (London, England, GB, EU)                                                                                                     
+   172.71.177.28   13335   2.72                     (London, England, GB, EU)                                                                                                     
+   172.71.177.81   13335   2.81                     (London, England, GB, EU)                                                                                                     
+╭─ 172.71.177.35   13335   2.902                    (London, England, GB, EU)                                                                                                     
+S&T (13335, 208800)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 91.201.7.243    208800  125.902             (Abu Dhabi, Abu Dhabi, AE, AS)                                                                                                     

@@ -1,0 +1,23 @@
+   193.50.97.164   2200    0.0                   (Plouzané, Brittany, FR, EU) anchor.netlab.enstb.org                                                                             
+   193.50.97.161   2200    0.479                 (Plouzané, Brittany, FR, EU) netlab-gw.enstb.org                                                                                 
+   192.108.116.201 50897   0.464                 (Plouzané, Brittany, FR, EU) asr-vlan39.enst-bretagne.fr                                                                         
+   193.51.188.10   2200    6.505             (Saint-Brieuc, Brittany, FR, EU) vl807-pc1-brest1-rtr-021.noc.renater.fr                                                             
+   193.51.177.174  2200    12.027              (Paris, Île-de-France, FR, EU) et-5-2-1-ren-nr-paris1-rtr-131.noc.renater.fr                                                       
+╭─ 83.97.89.9      20965   11.949                        (Paris, IDF, FR, EU) renater-ias-geant-gw.par.fr.geant.net                                                               
+S&T (20965)  africa-coast-to-europe-ace ✘ || seamewe-3 ✘
+├─ 62.40.98.106    20965   37.993                        (Lisbon, 11, PT, EU) ae0.mx2.lis.pt.geant.net                                                                            
+S&T (20965)  
+├─ 62.40.98.64     20965   38.936                   (London, England, GB, EU) ae2.mx1.lon.uk.geant.net                                                                            
+S&T (20965)  
+├─ 62.40.98.22     20965   23.194          (Amsterdam, North Holland, NL, EU) ae4.rt1.ams.nl.geant.net                                                                            
+S&T (20965, 30844)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 5.11.12.31      30844   147.698                  (London, England, GB, EU) et-0-0-0.0.lfr-pe2-mrs.liquidtelecom.net                                                            
+LHL (30844)  
+╰─ 41.175.212.3    30844   149.856                       (None, None, MU, AF) *                                                                                                   
+╭─ 197.155.94.1    30844   147.362                       (None, None, MU, AF) xe-0-0-3-LTZ-P1-DAR.liquidtelecom.net                                                               
+LHL (30844)  
+├─ 197.155.94.195  30844   147.486                      (Nairobi, 30, KE, AF) xe-0-0-4.ltz-pe1-rah.liquidtelecom.net                                                              
+S&T (30844)  
+╰─ 41.175.46.58    30844   148.805                       (None, None, TZ, AF) *                                                                                                   
+   196.49.5.98     327844  149.174   (Dar es Salaam, Dar es Salaam Region, TZ, AF)                                                                                                     

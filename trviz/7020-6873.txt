@@ -1,0 +1,18 @@
+   193.50.97.164   2200    0.0                   (Plouzané, Brittany, FR, EU) anchor.netlab.enstb.org                                                                             
+   ***             *       -inf                                           *** *                                                                                                   
+   192.108.116.201 50897   1.05                  (Plouzané, Brittany, FR, EU) asr-vlan39.enst-bretagne.fr                                                                         
+   193.51.188.10   2200    6.931             (Saint-Brieuc, Brittany, FR, EU) vl807-pc1-brest1-rtr-021.noc.renater.fr                                                             
+   193.51.177.174  2200    22.46               (Paris, Île-de-France, FR, EU) et-5-2-1-ren-nr-paris1-rtr-131.noc.renater.fr                                                       
+   193.51.180.167  2200    17.668                        (Lyon, None, FR, EU) et-2-0-0-ren-nr-lyon1-rtr-131.noc.renater.fr                                                        
+   193.51.180.129  2200    21.868    (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) et-2-0-7-ren-nr-marseille1-rtr-131.noc.renater.fr                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   154.54.76.105   174     22.341    (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) be3146.ccr31.mrs02.atlas.cogentco.com                                                               
+╭─ 154.54.72.109   174     23.13                         (Paris, IDF, FR, EU) be2779.ccr41.par01.atlas.cogentco.com                                                               
+T (174)  
+╰─ 154.54.58.233   174     33.664             (Frankfurt am Main, HE, DE, EU) be2799.ccr41.fra03.atlas.cogentco.com                                                               
+╭─ 154.54.75.70    174     32.239          (Frankfurt am Main, Hesse, DE, EU) be4422.rcr21.b015749-1.fra03.atlas.cogentco.com                                                     
+T (174, 21277)  
+├─ 149.14.156.242  21277   96.1                          (None, None, FR, EU) newroz.demarc.cogentco.com                                                                          
+LHL (21277)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 130.193.166.22  21277   101.89                      (Erbil, Arbīl, IQ, AS)                                                                                                     

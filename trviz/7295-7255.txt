@@ -1,0 +1,29 @@
+   103.179.37.157  151332  0.0                  (Melbourne, Victoria, AU, OC)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   203.192.83.253  7545    1.623                (Melbourne, Victoria, AU, OC) ip-253-83-192-203.static.pipenetworks.com                                                           
+   203.220.216.69  9942    1.85                 (Melbourne, Victoria, AU, OC) au-vi-1015-ipg-221-bundle-ether28.tpgi.com.au                                                       
+   27.32.160.1     7545    11.348              (North Melbourne, VIC, AU, OC) 27-32-160-1.static.tpgi.com.au                                                                      
+   203.26.22.117   7545    11.265                       (Sydney, NSW, AU, OC) 203-26-22-117.static.tpgi.com.au                                                                    
+╭─ 203.29.134.68   7545    13.886                       (Sydney, NSW, AU, OC) 203.29.134-68.tpgi.com.au                                                                           
+S (7545, 174)  hawaiki ✘ || southern-cross-cable-network-sccn ✓ || telstra-endeavour ✓ || southern-cross-next ✓
+╰─ 38.32.115.105   174     157.155                     (San Jose, CA, US, NA) hu0-4-0-0.rcr21.b001848-1.sjc01.atlas.cogentco.com                                                  
+   154.54.3.137    174     157.671                     (San Jose, CA, US, NA) be2095.ccr22.sjc01.atlas.cogentco.com                                                               
+   154.54.43.149   174     158.623                (San Francisco, CA, US, NA) be3179.ccr22.sfo01.atlas.cogentco.com                                                               
+   154.54.44.142   174     173.115               (Salt Lake City, UT, US, NA) be3110.ccr32.slc01.atlas.cogentco.com                                                               
+   154.54.42.98    174     184.004                       (Denver, CO, US, NA) be3038.ccr22.den01.atlas.cogentco.com                                                               
+   154.54.31.90    174     194.392                  (Kansas City, MO, US, NA) be3036.ccr22.mci01.atlas.cogentco.com                                                               
+   154.54.44.170   174     207.119                      (Chicago, IL, US, NA) be2832.ccr42.ord01.atlas.cogentco.com                                                               
+   154.54.7.130    174     213.795                    (Cleveland, OH, US, NA) be2718.ccr22.cle04.atlas.cogentco.com                                                               
+╭─ 154.54.162.170  174     221.616          (New York City, New York, US, NA)                                                                                                     
+S (174)  
+╰─ 154.54.27.170   174     288.094                       (Paris, IDF, FR, EU) be3628.ccr42.par01.atlas.cogentco.com                                                               
+╭─ 154.54.72.226   174     298.69                    (Marseille, PAC, FR, EU) be2780.ccr32.mrs02.atlas.cogentco.com                                                               
+S&T (174)  
+╰─ 154.54.74.178   174     307.273                        (Milan, 25, IT, EU) be2865.rcr21.mil01.atlas.cogentco.com                                                               
+╭─ 154.25.9.190    174     306.852                        (Milan, 25, IT, EU) be2330.nr51.b019138-1.mil01.atlas.cogentco.com                                                      
+LHL (174, 34428)  
+├─ 149.6.153.202   34428   290.482                       (None, None, US, NA) *                                                                                                   
+LHL (34428)  
+╰─ 193.41.57.254   34428   316.856                       (None, None, IT, EU) *                                                                                                   
+   185.249.157.254 34428   322.692                  (Palermo, Sicily, IT, EU)                                                                                                     
+   185.249.157.253 34428   316.291                  (Palermo, Sicily, IT, EU)                                                                                                     

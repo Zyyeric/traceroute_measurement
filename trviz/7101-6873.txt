@@ -1,0 +1,19 @@
+   193.50.97.164   2200    0.0                   (Plouzané, Brittany, FR, EU) anchor.netlab.enstb.org                                                                             
+   ***             *       -inf                                           *** *                                                                                                   
+   192.108.116.201 50897   0.562                 (Plouzané, Brittany, FR, EU) asr-vlan39.enst-bretagne.fr                                                                         
+   193.51.188.10   2200    6.663             (Saint-Brieuc, Brittany, FR, EU) vl807-pc1-brest1-rtr-021.noc.renater.fr                                                             
+   193.51.177.174  2200    11.989              (Paris, Île-de-France, FR, EU) et-5-2-1-ren-nr-paris1-rtr-131.noc.renater.fr                                                       
+╭─ 62.40.124.69    20965   12.37                         (Paris, IDF, FR, EU) renater-lb1.mx1.par.fr.geant.net                                                                    
+T (20965)  
+├─ 62.40.98.190    20965   17.5                        (Prague, None, CZ, EU) ae2.mx1.pra.cz.geant.net                                                                            
+T (20965)  
+├─ 62.40.98.192    20965   17.31              (Frankfurt am Main, HE, DE, EU) ae8.mx1.fra.de.geant.net                                                                            
+T (20965, 2611)  
+├─ 62.40.127.135   2611    17.539                     (Amsterdam, NH, NL, EU) belnet.mx1.ams.nl.geant.net                                                                         
+S&T (2611)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 193.191.18.10   2611    18.478                     (Brussels, BRU, BE, EU) ua.r1.antwil.belnet.net                                                                             
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   143.129.67.78   2611    19.364                        (None, None, BE, EU) *                                                                                                   
+   143.129.80.132  2611    19.786               (Antwerpen, Flanders, BE, EU)                                                                                                     

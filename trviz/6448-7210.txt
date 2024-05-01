@@ -1,0 +1,19 @@
+   185.6.39.132    42953   0.0                        (Cork, Munster, IE, EU)                                                                                                     
+   185.6.39.130    42953   10.828                     (Cork, Munster, IE, EU)                                                                                                     
+   91.103.0.98     47720   0.685                      (Cork, Munster, IE, EU)                                                                                                     
+╭─ 91.103.0.197    47720   0.72                       (Cork, Munster, IE, EU)                                                                                                     
+S (47720)  
+├─ 91.103.0.194    47720   0.804                         (None, None, US, NA) *                                                                                                   
+S (47720, 12552)  
+├─ 195.66.224.142  12552   12.312                     (London, ENG, GB, None) lond1-rc1.linx1.ip-only.net                                                                         
+S&T (12552)  
+├─ 146.247.201.94  12552   37.815                        (None, None, NO, EU) *                                                                                                   
+T (12552, 42525)  
+├─ 212.112.170.209 42525   37.155                     (Stockholm, AB, SE, EU) *                                                                                                   
+S&T (42525)  
+╰─ 194.182.97.226  42525   41.658                        (None, None, DK, EU) *                                                                                                   
+   194.182.97.251  42525   41.584                        (None, None, DK, EU) be1.hoer1p2dk.gc-net.eu                                                                             
+   ***             *       -inf                                           *** *                                                                                                   
+   80.70.0.255     48854   40.677        (Tranbjerg, Central Jutland, DK, EU)                                                                                                     
+   212.237.248.19  48854   39.86                    (Skanderborg, 82, DK, EU) *                                                                                                   
+   185.221.36.2    48854   40.463        (Tranbjerg, Central Jutland, DK, EU) dk-skg-as48854.anchors.atlas.ripe.net                                                               

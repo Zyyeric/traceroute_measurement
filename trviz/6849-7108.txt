@@ -1,0 +1,14 @@
+   103.23.232.7    58475   0.0        (Banjarmasin, South Kalimantan, ID, AS)                                                                                                     
+   103.23.232.1    58475   0.284      (Banjarmasin, South Kalimantan, ID, AS)                                                                                                     
+   103.81.101.2    *       16.716     (Banjarmasin, South Kalimantan, ID, AS)                                                                                                     
+╭─ 103.78.235.1    132678  28.183                        (None, None, ID, AS) *                                                                                                   
+S (132678, 141682)  
+╰─ 103.161.244.201 141682  28.12                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+╭─ 103.161.244.41  141682  82.736                      (Tokyo, Tokyo, JP, AS)                                                                                                     
+S (141682, 7575)  
+├─ 138.44.228.14   7575    81.441    (Tamuning-Tumon-Harmon Village, Tamuning, GU, OC) et-1_1_2_3084.bdr1.guam.gum.aarnet.net.au                                                           
+S (7575)  
+╰─ 113.197.15.7    7575    162.988                  (Queensland, QLD, AU, OC) et-0-3-0.pe1.fvly.qld.aarnet.net.au                                                                 
+   138.44.129.154  4608    143.559                     (Lismore, NSW, AU, OC) gw-apnic-pe1.fvly.aarnet.net.au                                                                     
+   203.119.104.26  4608    173.266                    (Brisbane, QLD, AU, OC) et-1-38.nxcs1.bne.apnic.net                                                                         
+   203.119.111.139 4608    172.839             (Brisbane, Queensland, AU, OC) anchor.apnic.net                                                                                    

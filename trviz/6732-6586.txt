@@ -1,0 +1,29 @@
+   37.10.41.14     202196  0.0                 (Singapore, Singapore, SG, AS)                                                                                                     
+   37.10.41.9      202196  0.599               (Singapore, Singapore, SG, AS)                                                                                                     
+   10.109.0.46     *       0.692                                          ***                                                                                                     
+   203.208.148.81  7473    1.357               (Singapore, Singapore, SG, AS)                                                                                                     
+╭─ 203.208.158.50  7473    169.04                        (None, None, SG, AS) *                                                                                                   
+S (7473, 54994)  
+╰─ 64.125.35.193   54994   177.858                         (Lehi, UT, US, NA) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   64.125.23.221   6461    303.424             (San Jose, California, US, NA) ae5.cs3.slc2.us.eth.zayo.com                                                                        
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 64.125.29.208   6461    312.99                      (New York, NY, US, NA) ae3.cs1.lga5.us.eth.zayo.com                                                                        
+S (6461)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 64.125.22.65    6461    316.373                  (London, England, GB, EU) ae17.mpr1.lhr28.uk.zip.zayo.com                                                                     
+╭─ 195.66.226.161  21320   310.3                      (London, ENG, GB, None) linx.ix.geant.net                                                                                   
+S&T (21320, 20965)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 62.40.98.222    20965   324.488                     (Bilbao, None, ES, EU) ae4.rt1.bil.es.geant.net                                                                            
+S&T (20965, 21320)  
+├─ 83.97.90.19     21320   324.993                  (London, England, GB, EU) rediris-ias-geant.bil.es.geant.net                                                                  
+S&T (21320, 766)  
+╰─ 130.206.245.17  766     332.312                       (None, None, ES, EU) EHU.RT2.ETHTRUNK2.telmad.rt1.mad.red.rediris.es                                                     
+   130.206.216.2   766     335.434                       (None, None, ES, EU) redimadrid-backup-router.red.rediris.es                                                             
+   193.145.15.50   766     333.088                       (None, None, ES, EU) uc3m-rt-ju-01-xe-0-1-0.net.redimadrid.es                                                            
+   ***             *       -inf                                           *** *                                                                                                   
+   163.117.49.4    766     334.227                       (Madrid, MD, ES, EU) b01014zr.uc3m.es                                                                                    
+   163.117.253.5   766     333.551                   (Madrid, Madrid, ES, EU)                                                                                                     

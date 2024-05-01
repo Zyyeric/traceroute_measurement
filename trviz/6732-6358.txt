@@ -1,0 +1,26 @@
+   196.49.15.189   328998  0.0              (Kampala, Central Region, UG, AF)                                                                                                     
+   196.49.15.253   328998  0.467            (Kampala, Central Region, UG, AF)                                                                                                     
+   41.191.77.205   37063   0.938            (Kampala, Central Region, UG, AF)                                                                                                     
+   129.205.30.77   37063   1.328                         (Kampala, C, UG, AF) *                                                                                                   
+╭─ 212.88.110.33   20294   1.191 (2.74)       (Kampala, Central Region, UG, AF)                                                                                                     
+LHL (20294, 16637)  
+╰─ 41.181.247.38   16637   151.263                  (London, England, GB, EU)                                                                                                     
+╭─ 41.181.244.177  16637   151.082                  (London, England, GB, EU)                                                                                                     
+T (16637)  
+╰─ 41.181.190.150  16637   152.28                      (Pretoria, GP, ZA, AF) *                                                                                                   
+╭─ 41.181.189.64   16637   151.658                     (Pretoria, GP, ZA, AF) *                                                                                                   
+T (16637, 6939)  
+╰─ 184.104.205.252 6939    152.22                   (London, England, GB, EU) e0-45.core1.lon3.he.net                                                                             
+╭─ 184.105.64.4    6939    151.613                  (Poplar, England, GB, EU) port-channel18.core3.lon2.he.net                                                                    
+S&T (6939, )  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 193.242.98.19   *       183.479             (Barcelona, Catalonia, ES, EU) rediris.01.catnix.net                                                                               
+   130.206.245.94  766     193.149                       (None, None, ES, EU) unizar.rt2.ae6-323.telmad.rt4.mad.red.rediris.es                                                    
+   130.206.245.49  766     188.018                       (None, None, ES, EU) TELMAD.RT3.ETHTRUNK3.telmad.rt1.mad.red.rediris.es                                                  
+   130.206.216.2   766     187.598                       (None, None, ES, EU) redimadrid-backup-router.red.rediris.es                                                             
+   193.145.15.50   766     187.71                        (None, None, ES, EU) uc3m-rt-ju-01-xe-0-1-0.net.redimadrid.es                                                            
+   ***             *       -inf                                           *** *                                                                                                   
+   163.117.49.4    766     189.096                       (Madrid, MD, ES, EU) b01014zr.uc3m.es                                                                                    
+   163.117.253.5   766     188.544                   (Madrid, Madrid, ES, EU)                                                                                                     

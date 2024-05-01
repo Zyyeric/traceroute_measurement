@@ -1,0 +1,13 @@
+   185.14.96.232   211186  0.0                (Lamía, Central Greece, GR, EU)                                                                                                     
+   185.14.96.225   211186  0.605              (Lamía, Central Greece, GR, EU) vlan4090.lamia.fast.net.gr                                                                          
+   212.205.28.249  6799    0.628              (Lamía, Central Greece, GR, EU) 249.28.205.212.static.otenet.gr                                                                     
+   79.128.234.128  6799    3.708                    (Maroúsi, Attica, GR, EU)                                                                                                     
+   62.75.3.17      12713   2.936 (5.028)        (Néa Chalkidóna, Attica, GR, EU) kolasr02-hu-0-8-0-0.ath.oteglobe.gr                                                                 
+╭─ 62.75.5.206     *       36.998                    (Athens, Attica, GR, EU)                                                                                                     
+LHL (, 200185)  mednautilus-submarine-system ✘ ↠ asia-africa-europe-1-aae-1 ✘ || mednautilus-submarine-system ✘ ↠ seamewe-3 ✘
+├─ 80.81.195.229   200185  44.018            (Frankfurt am Main, 5, DE, None) de1-edge-a.aruba.it                                                                                 
+T (200185, 31034)  
+╰─ 185.12.176.131  31034   47.015                       (Bologna, 45, IT, EU) host131-176-12-185.static.arubacloud.de                                                             
+   62.149.185.232  31034   52.118                        (Arezzo, 52, IT, EU) cr1-be2-710.it1.aruba.it                                                                            
+   62.149.185.27   31034   51.718                        (Arezzo, 52, IT, EU) cs1-02-vi3902.it1.aruba.it                                                                          
+   31.14.143.132   31034   51.884                   (Arezzo, Tuscany, IT, EU) host132-143-14-31.serverdedicati.aruba.it                                                           

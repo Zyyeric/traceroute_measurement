@@ -1,0 +1,41 @@
+   10.252.4.170    *       0.0                                            ***                                                                                                     
+   10.252.4.169    *       0.101                                          ***                                                                                                     
+   10.252.4.153    *       0.197                                          ***                                                                                                     
+   10.252.0.37     *       12.468                                         ***                                                                                                     
+   10.252.2.138    *       15.002                                         ***                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 154.25.16.81    174     16.85                 (Istanbul, Istanbul, TR, AS) be3821.rcr71.ist01.atlas.cogentco.com                                                               
+S (174)  
+├─ 154.54.74.226   174     25.262                         (Lyon, ARA, FR, EU) be2881.rcr21.lys01.atlas.cogentco.com                                                               
+LHL (174)  
+├─ 130.117.0.94    174     33.351                       (Belgrade, 0, RS, EU) be3421.ccr51.beg03.atlas.cogentco.com                                                               
+T (174)  
+├─ 130.117.0.125   174     35.723                      (Budapest, PE, HU, EU) be3422.ccr31.bud01.atlas.cogentco.com                                                               
+T (174)  
+├─ 130.117.3.137   174     37.835                    (Bratislava, BL, SK, EU) be3261.ccr21.bts01.atlas.cogentco.com                                                               
+T (174)  
+├─ 154.54.59.86    174     41.556                         (Vienna, 9, AT, EU) be2988.ccr51.vie01.atlas.cogentco.com                                                               
+LHL (174, 1299)  
+├─ 130.117.14.182  1299    43.044                        (None, None, SE, EU) *                                                                                                   
+T (1299)  
+├─ 62.115.114.182  1299    44.234                    (Vienna, Vienna, AT, EU) win-bb2-link.ip.twelve99.net                                                                        
+LHL (1299)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 62.115.122.138  1299    63.079              (Paris, Île-de-France, FR, EU) prs-bb2-link.ip.twelve99.net                                                                        
+S (1299)  
+╰─ 62.115.122.159  1299    141.618          (Tysons Corner, Virginia, US, NA) rest-bb1-link.ip.twelve99.net                                                                       
+   62.115.114.86   1299    201.589          (Los Angeles, California, US, NA) lax-b22-link.ip.twelve99.net                                                                        
+╭─ 62.115.162.135  1299    201.49           (Los Angeles, California, US, NA) telstra-ic-357282.ip.twelve99-cust.net                                                              
+S (1299, 4637)  
+├─ 202.40.149.178  4637    199.536                       (None, None, HK, AS) i-91.tlot-core02.telstraglobal.net                                                                  
+S (4637)  
+╰─ 202.84.137.21   4637    377.741          (Sydney, New South Wales, AU, OC) i-10305.sydo-core03.telstraglobal.net                                                               
+   203.50.13.97    1221    374.989                      (Sydney, NSW, AU, OC) bundle-ether3.oxf-gw11.sydney.telstra.net                                                           
+   203.50.6.109    1221    371.064          (Sydney, New South Wales, AU, OC) bundle-ether6.stl-core30.sydney.telstra.net                                                         
+   203.50.13.131   1221    381.752              (Melbourne, Victoria, AU, OC) bundle-ether3.win-core30.melbourne.telstra.net                                                      
+   203.50.6.228    1221    392.282                     (Adelaide, SA, AU, OC) bundle-ether2.fli-core10.adelaide.telstra.net                                                       
+   203.50.6.233    1221    422.47                         (Perth, WA, AU, OC) bundle-ether3.wel-core10.perth.telstra.net                                                          
+   203.50.6.175    1221    419.575                        (Perth, WA, AU, OC) bundle-ether1.wel-edge903.perth.telstra.net                                                         
+   138.217.126.74  1221    425.007         (Perth, Western Australia, AU, OC) tel4198808.lnk.telstra.net                                                                          
+   ***             *       -inf                                           *** *                                                                                                   
+   203.41.0.254    1221    426.9           (Perth, Western Australia, AU, OC) atlas-per.telstra.net                                                                               

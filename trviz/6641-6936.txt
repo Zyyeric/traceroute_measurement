@@ -1,0 +1,17 @@
+   185.209.84.141  57578   0.0               (Khabarovsk, Khabarovsk, RU, EU) ru-khv-as57578.anchors.atlas.ripe.net                                                               
+   185.209.84.10   198412  0.181                    (Khabarovsk, KHA, RU, AS) ae1-0.c10.khv01.ru.misaka.io                                                                        
+   92.38.191.66    210756  0.29              (Khabarovsk, Khabarovsk, RU, EU) vrrp.edgecenter.ru                                                                                  
+   92.223.110.2    210756  0.24              (Khabarovsk, Khabarovsk, RU, EU)                                                                                                     
+   10.255.10.187   *       0.23                                           ***                                                                                                     
+╭─ 217.150.56.138  20485   0.235 (1.063)                    (None, None, RU, EU) kbk06.transtelecom.net                                                                              
+LHL (20485)  
+├─ 62.140.26.150   20485   129.192            (Frankfurt am Main, HE, DE, EU) *                                                                                                   
+T (20485, 3356)  
+├─ 62.140.26.149   3356    128.639                       (None, None, GB, EU) *                                                                                                   
+S (3356)  
+├─ 4.69.134.42     3356    399.886                       (None, None, US, NA) *                                                                                                   
+S (3356, 199524)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 45.80.212.34    199524  397.051                     (Seoul, Seoul, KR, AS) vrrp.gcore.com                                                                                      
+   92.38.135.131   202422  393.535                     (Seoul, Seoul, KR, AS)                                                                                                     

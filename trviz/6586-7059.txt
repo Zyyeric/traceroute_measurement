@@ -1,0 +1,14 @@
+   202.152.129.74  23951   0.0               (Yogyakarta, Yogyakarta, ID, AS) 202-152-129-74.citra.net.id                                                                         
+   202.152.129.73  23951   0.322     (Pugeran Maguwoharjo, Yogyakarta, ID, AS) 202-152-129-73.citra.net.id                                                                         
+   202.152.153.4   23951   0.671     (Pugeran Maguwoharjo, Yogyakarta, ID, AS) 202-152-153-4.as23951.net                                                                           
+╭─ 202.152.131.233 23951   23.958            (Yogyakarta, Yogyakarta, ID, AS) eie.rtr1-sgw-eq.citra.net.id                                                                        
+S (23951, 58453)  
+├─ 27.111.228.228  58453   25.548                    (Seogwipo, None, KR, AS) 58453.sgw.equinix.com                                                                               
+S (58453)  
+╰─ 223.118.5.201   58453   57.548              (Hong Kong, Hong Kong, HK, AS)                                                                                                     
+   223.120.3.90    58453   57.612                        (None, None, HK, AS) *                                                                                                   
+╭─ 223.119.0.93    202196  57.235                        (None, None, HK, AS) *                                                                                                   
+S (202196)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 37.10.41.14     202196  56.849              (Singapore, Singapore, SG, AS)                                                                                                     

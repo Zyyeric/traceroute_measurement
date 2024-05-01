@@ -1,0 +1,13 @@
+   193.50.97.164   2200    0.0                   (Plouzané, Brittany, FR, EU) anchor.netlab.enstb.org                                                                             
+   193.50.97.161   2200    0.78                  (Plouzané, Brittany, FR, EU) netlab-gw.enstb.org                                                                                 
+   192.108.116.201 50897   1.09                  (Plouzané, Brittany, FR, EU) asr-vlan39.enst-bretagne.fr                                                                         
+   193.51.188.10   2200    7.826             (Saint-Brieuc, Brittany, FR, EU) vl807-pc1-brest1-rtr-021.noc.renater.fr                                                             
+   193.51.177.174  2200    12.475              (Paris, Île-de-France, FR, EU) et-5-2-1-ren-nr-paris1-rtr-131.noc.renater.fr                                                       
+   193.55.204.193  2200    12.731                       (Paris, None, FR, EU) et-2-0-0-ren-nr-paris2-rtr-131.noc.renater.fr                                                       
+╭─ 195.42.145.126  8220    13.746                       (Paris, 11, FR, None) equinix-paris.colt.net                                                                              
+S&T (8220, 39923)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 213.246.245.218 39923   20.753                     (Brussels, BRU, BE, EU) *                                                                                                   
+   109.68.160.65   39923   20.667        (Brussels, Brussels Capital, BE, EU) devrandom1.customer.unix-solutions.be                                                               
+   45.87.79.251    208725  20.771        (Brussels, Brussels Capital, BE, EU) router01.sw1.core.devrandom.be                                                                      
+   45.87.76.6      208725  20.842        (Brussels, Brussels Capital, BE, EU) ansible.devrandom.be                                                                                

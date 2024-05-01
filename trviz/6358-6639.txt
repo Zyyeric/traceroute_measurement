@@ -1,0 +1,29 @@
+   37.10.40.14     202196  0.0                 (Hong Kong, Hong Kong, HK, AS)                                                                                                     
+   37.10.40.9      202196  0.51             (Tai Yuen Estate, Tai Po, HK, AS)                                                                                                     
+   210.176.141.185 4637    1.649            (Tai Yuen Estate, Tai Po, HK, AS) unknown.telstraglobal.net                                                                           
+   202.84.153.37   4637    1.753         (Sham Shui Po, Sham Shui Po, HK, AS)                                                                                                     
+   202.84.153.26   4637    2.122     (Hong Kong, Central and Western, HK, AS)                                                                                                     
+╭─ 210.57.53.25    6453    1.9                           (None, None, HK, AS) unknown.telstraglobal.net                                                                           
+S (6453)  apcn-2 👍 || southeast-asia-japan-cable-sjc ✓ || seamewe-3 👍 || eac-c2c ✓ || asia-pacific-gateway-apg ✓ || tata-tgn-intra-asia-tgn-ia 👍 || asia-submarine-cable-express-asecahaya-malaysia ✓ || asia-america-gateway-aag-cable-system ✓
+├─ 116.0.93.146    6453    253.982                       (None, None, SG, AS) *                                                                                                   
+S&T (6453)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 180.87.12.225   6453    262.905                       (Mumbai, MH, IN, AS) if-ae-16-2.tcore2.mlv-mumbai.as6453.net                                                             
+S (6453)  
+╰─ 180.87.39.21    6453    265.262                  (London, England, GB, EU) if-ae-12-2.tcore1.l78-london.as6453.net                                                             
+╭─ 80.231.130.130  6453    263.509                     (London, None, GB, EU) if-ae-17-2.tcore1.ldn-london.as6453.net                                                             
+S (6453, 16637)  
+├─ 80.231.76.121   16637   265.304                       (None, None, CA, NA) *                                                                                                   
+LHL (16637)  
+╰─ 41.181.189.65   16637   235.376                     (Pretoria, GP, ZA, AF) *                                                                                                   
+╭─ 41.181.190.151  16637   233.097                     (Pretoria, GP, ZA, AF) *                                                                                                   
+T (16637)  
+├─ 41.181.244.176  16637   235.776                  (London, England, GB, EU)                                                                                                     
+T (16637, 20294)  
+├─ 41.181.247.39   20294   384.188                       (None, None, ZA, AF) *                                                                                                   
+LHL (20294)  
+╰─ 212.88.110.34   20294   382.792          (Kampala, Central Region, UG, AF)                                                                                                     
+   129.205.30.76   37063   381.96                        (Kampala, C, UG, AF) *                                                                                                   
+   41.191.77.206   328998  384.349                       (Kampala, C, UG, AF) *                                                                                                   
+   196.49.15.189   328998  383.154          (Kampala, Central Region, UG, AF)                                                                                                     

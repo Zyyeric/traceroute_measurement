@@ -1,0 +1,29 @@
+   103.179.37.157  151332  0.0                  (Melbourne, Victoria, AU, OC)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   203.192.83.253  7545    1.412                (Melbourne, Victoria, AU, OC) ip-253-83-192-203.static.pipenetworks.com                                                           
+   203.220.216.73  7545    1.811                        (Sydney, NSW, AU, OC) 203-220-216-73.tpgi.com.au                                                                          
+   27.32.160.193   7545    15.245              (North Melbourne, VIC, AU, OC) 27-32-160-193.static.tpgi.com.au                                                                    
+   202.7.171.173   7545    12.698           (Sydney, New South Wales, AU, OC) syd-gls-har-crt1-be-10.tpgi.com.au                                                                  
+╭─ 203.221.3.4     7545    13.679                       (Sydney, NSW, AU, OC) syd-gls-har-int2-be100.tpgi.com.au                                                                  
+S (7545, 6939)  hawaiki ✘ || southern-cross-cable-network-sccn ✓ || southern-cross-next ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.199.222 6939    221.645          (New York City, New York, US, NA) port-channel1.core2.nyc4.he.net                                                                     
+S (6939)  exa-north-and-south ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.205.253 6939    277.434                  (London, England, GB, EU) mtn-globalconnect-solutions-ltd.port-channel7.core1.lon3.he.net                                     
+T (6939, 16637)  
+├─ 41.181.189.65   16637   277.611                     (Pretoria, GP, ZA, AF) *                                                                                                   
+T (16637)  
+╰─ 41.181.105.105  16637   277.056                  (London, England, GB, EU)                                                                                                     
+╭─ 41.181.244.176  16637   278.071                  (London, England, GB, EU)                                                                                                     
+T (16637, 20294)  
+├─ 41.181.247.39   20294   481.18                        (None, None, ZA, AF) *                                                                                                   
+LHL (20294)  
+╰─ 212.88.110.34   20294   479.126          (Kampala, Central Region, UG, AF)                                                                                                     
+   129.205.30.76   37063   485.144                       (Kampala, C, UG, AF) *                                                                                                   
+   41.191.77.206   328998  482.839                       (Kampala, C, UG, AF) *                                                                                                   
+   196.49.15.189   328998  471.54           (Kampala, Central Region, UG, AF)                                                                                                     

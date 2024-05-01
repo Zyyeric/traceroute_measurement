@@ -1,0 +1,30 @@
+   87.201.194.242  15802   0.0                            (Dubai, DU, AE, AS) *                                                                                                   
+   87.201.194.241  15802   1.98                           (Dubai, DU, AE, AS) *                                                                                                   
+   10.100.34.117   *       2.094                                          ***                                                                                                     
+   10.100.128.22   *       2.863                                          ***                                                                                                     
+   10.53.17.73     *       6.024                                          ***                                                                                                     
+╭─ 185.1.8.63      *       4.702                       (Dubai, Dubai, AE, AS) ipv4.uaeix-dubai.core1.dxb1.he.net                                                                  
+S (, 6939)  seamewe-5 ✘ || asia-africa-europe-1-aae-1 ✘ || imewe ✘ || seamewe-4 ✘ || seamewe-3 ✘
+╰─ 184.104.193.102 6939    125.295   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) port-channel1.core3.mrs1.he.net                                                                     
+╭─ 184.105.80.133  6939    120.763                   (Marseille, PAC, FR, EU) 100ge15-2.core1.mrs1.he.net                                                                         
+S&T (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 184.104.224.113 6939    146.713                   (Lisbon, Lisbon, PT, EU) afrix-telecom-s-l.e0-19.switch1.lis1.he.net                                                         
+S&T (6939, 60171)  
+├─ 185.10.164.99   60171   395.851             (Barcelona, Catalonia, ES, EU)                                                                                                     
+S&T (60171)  
+╰─ 185.10.164.113  60171   380.941                      (London, ENG, GB, EU) *                                                                                                   
+╭─ 185.10.164.135  60171   378.078                      (London, ENG, GB, EU) *                                                                                                   
+S&T (60171)  
+├─ 185.10.164.32   60171   375.894             (Paris, Île-de-France, FR, EU)                                                                                                     
+S (60171)  
+├─ 102.223.52.73   60171   385.401                     (Lagos, Lagos, NG, AF)                                                                                                     
+S&T (60171)  
+├─ 185.10.164.45   60171   380.438                      (London, ENG, GB, EU) *                                                                                                   
+S&T (60171)  
+├─ 102.219.44.43   60171   383.73                      (Lagos, Lagos, NG, AF)                                                                                                     
+S&T (60171, 328913)  
+╰─ 196.49.84.51    328913  379.935                 (Abidjan, Abidjan, CI, AF) bdr3.std.douala-ix.net                                                                              
+╭─ 196.49.84.36    328913  379.783                 (Abidjan, Abidjan, CI, AF) gw1.std.douala-ix.net                                                                               
+S&T (328913)  
+╰─ 196.49.84.188   328913  381.25                  (Douala, Littoral, CM, AF) cm-dla-as328913.anchors.atlas.ripe.net                                                              

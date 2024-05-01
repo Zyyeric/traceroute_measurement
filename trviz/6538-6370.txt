@@ -1,0 +1,14 @@
+   103.202.216.76  59105   0.0                         (Chōfu, Tokyo, JP, AS)                                                                                                     
+   103.202.216.73  59105   0.558                       (Tokyo, Tokyo, JP, AS) ge-2-1-0.pop03er03.bb.homenoc.ad.jp                                                                 
+   210.188.225.233 9370    0.779                       (Tokyo, Tokyo, JP, AS) tkwrt301x-as59105.bb.sakura.ad.jp                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   210.138.107.33  2497    1.212                       (Tokyo, Tokyo, JP, AS)                                                                                                     
+╭─ 58.138.100.21   2497    1.367                       (Tokyo, Tokyo, JP, AS) tky001bb01.iij.net                                                                                  
+S (2497)  apcn-2 ✓ || eac-c2c ✓ || asia-pacific-gateway-apg ✓
+╰─ 58.138.81.174   2497    58.295    (Hong Kong, Central and Western, HK, AS) hkg002bb11.iij.net                                                                                  
+╭─ 58.138.80.245   2497    63.577    (Hong Kong, Central and Western, HK, AS) hkg002bb10.iij.net                                                                                  
+LHL (2497, 49673)  seamewe-3 ✓ || asia-africa-europe-1-aae-1 ✓ || flag-europe-asia-fea ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 62.78.95.106    49673   277.849                       (None, None, RU, EU) host_62_78_95_106.milecom.ru                                                                        
+   94.247.111.19   49673   287.197   (Novosibirsk, Novosibirsk Oblast, RU, EU) ru-ovb-as49673.anchors.atlas.ripe.net                                                               

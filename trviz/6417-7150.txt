@@ -1,0 +1,20 @@
+   45.12.55.69     208972  0.0                   (Istanbul, Istanbul, TR, AS) 45.12.55.69.addr-arpa.gibir.net                                                                     
+   192.168.1.19    *       0.299                                          ***                                                                                                     
+   10.255.0.17     *       0.429                                          ***                                                                                                     
+   195.175.203.217 9121    0.625             (Bahçelievler, Istanbul, TR, AS) 195.175.203.217.static.turktelekom.com.tr                                                           
+   81.212.199.166  9121    0.589                 (Istanbul, Istanbul, TR, AS) 00-atakoy-sr14s-t2-2---00-atakoy-sr12e-t3-7.statik.turktelekom.com.tr                               
+   81.212.203.145  9121    0.958                         (None, None, TR, AS) 34-acibadem-xrs-t2-2---00-atakoy-xrs-t2-2.statik.turktelekom.com.tr                                 
+   ***             *       -inf                                           *** *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+╭─ 212.156.139.60  9121    14.344                      (Istanbul, 34, TR, AS) *                                                                                                   
+S (9121, 2914)  
+├─ 83.217.231.61   2914    125.692                       (None, None, GB, EU) *                                                                                                   
+LHL (2914)  
+├─ 129.250.66.46   2914    16.07               (Bucharest, București, RO, EU) ae-0.vodafone.buchro01.ro.bb.gin.ntt.net                                                            
+T (2914, 1273)  
+├─ 195.2.29.2      1273    16.374                        (None, None, GB, EU) cust-gw-ae17-100-xcr1.bcp.cw.net                                                                    
+LHL (1273, 48112)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 85.186.202.10   48112   17.251                      (Ploieşti, PH, RO, EU) xindi-v502.b.astralnet.ro                                                                           
+   185.173.16.180  48112   17.278                        (None, None, RO, EU) vpe1a-ro-buh-001-vl900.xindi.eu                                                                     
+   185.173.16.151  48112   17.572              (Bucharest, București, RO, EU) ro-buh-as48112.anchors.atlas.ripe.net                                                               

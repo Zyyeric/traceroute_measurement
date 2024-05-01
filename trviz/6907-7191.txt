@@ -1,0 +1,18 @@
+   117.20.118.21   45498   0.0               (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     
+   117.20.118.17   45498   2.274             (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     
+╭─ 27.109.113.21   45498   1.274             (Phnom Penh, Phnom Penh, KH, AS)                                                                                                     
+LHL (45498)  asia-africa-europe-1-aae-1 ✘ ↠ seamewe-4 ✘ || asia-africa-europe-1-aae-1 ✘ ↠ seamewe-3 ✓ || asia-africa-europe-1-aae-1 ✘ ↠ seamewe-5 ✓ || asia-africa-europe-1-aae-1 ✘ ↠ peace-cable ✘
+├─ 27.109.113.56   45498   37.374              (Singapore, Singapore, SG, AS)                                                                                                     
+S (45498, 1299)  seamewe-5 ✓ || seamewe-4 ✘ || peace-cable ✘ || seamewe-3 ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 62.115.124.123  1299    206.864   (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) mei-b5-link.ip.twelve99.net                                                                         
+LHL (1299)  seamewe-3 ✓ || high-capacity-undersea-guernsey-optical-fibre-hugo © || uk-channel-islands-8 ✘ || channel-islands-9-liberty-submarine-cable ✘ || uk-channel-islands-7 ✘
+├  ***             *       -inf                                           *** *                                                                                                   
+├─ 62.115.138.104  1299    231.632             (Stockholm, Stockholm, SE, EU) s-bb2-link.ip.twelve99.net                                                                          
+S&T (1299)  
+╰─ 62.115.122.35   1299    223.678                (Helsinki, Uusimaa, FI, EU) hls-b3-link.ip.twelve99.net                                                                         
+   62.115.44.165   1299    223.939                (Helsinki, Uusimaa, FI, EU) telia-ic-353187.ip.twelve99-cust.net                                                                
+   141.208.193.238 1759    234.671                       (None, None, FI, EU) *                                                                                                   
+   ***             *       -inf                                           *** *                                                                                                   
+   185.139.168.19  203296  224.841                (Helsinki, Uusimaa, FI, EU) fi-hel-as203296.anchors.atlas.ripe.net                                                              

@@ -1,0 +1,15 @@
+   103.15.246.16   58717   0.0                         (Dhaka, Dhaka, BD, AS)                                                                                                     
+   ***             *       -inf                                           *** *                                                                                                   
+   172.16.203.70   *       0.797                                          ***                                                                                                     
+   157.119.185.197 58717   1.265                           (Dhaka, C, BD, AS) *                                                                                                   
+   103.199.87.233  58717   5.584                         (None, None, BD, AS) *                                                                                                   
+╭─ 103.199.87.40   58717   50.58                         (None, None, BD, AS) *                                                                                                   
+S (58717, 6939)  seamewe-5 ✓ || seamewe-4 ✓
+├─ 184.105.80.45   6939    262.081             (Singapore, Singapore, SG, AS) port-channel21.core2.sin1.he.net                                                                    
+S (6939)  
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 184.104.193.154 6939    183.416                    (Brussels, BRU, BE, EU) 100ge0-35.core2.bru1.he.net                                                                         
+   ***             *       -inf                                           *** *                                                                                                   
+   45.87.79.251    208725  201.932       (Brussels, Brussels Capital, BE, EU) router01.sw1.core.devrandom.be                                                                      
+   45.87.76.6      208725  201.869       (Brussels, Brussels Capital, BE, EU) ansible.devrandom.be                                                                                

@@ -1,0 +1,17 @@
+   103.170.154.254 142594  0.0                      (London, England, GB, EU) 254.154.170.103.speedyvps.uk                                                                        
+╭─ 103.170.154.1   142594  0.153                    (London, England, GB, EU)                                                                                                     
+T (142594, 60068)  
+├─ 156.146.32.92   60068   0.285                     (Prague, Prague, CZ, EU) unn-156-146-32-92.cdn77.com                                                                         
+LHL (60068)  
+├─ 185.229.188.204 60068   17.194    (Marseille, Provence-Alpes-Côte d'Azur, FR, EU) vl1102.mrs-itx2-core-2.cdn77.com                                                                    
+T (60068)  
+├─ 84.17.32.155    60068   22.049                    (Prague, Prague, CZ, EU) gce-mrs.cdn77.com                                                                                   
+LHL (60068, 15412)  
+├─ 62.216.128.217  15412   120.325                        (Dubai, DU, AE, AS) xe-11-2-0.0.pjr03.dxb001.flagtel.com                                                                
+S&T (15412, 57187)  
+├─ 80.77.4.50      57187   116.733                       (None, None, GB, EU) j48-1.dxa.dxb.ae.datamena.net                                                                       
+S&T (57187)  seamewe-3 ✓ ↠ seamewe-5 ✘ || seamewe-3 ✓ ↠ seamewe-4 ✓ || seamewe-3 ✓ ↠ asia-africa-europe-1-aae-1 ✓ || seamewe-3 ✓ ↠ imewe ✓ || high-capacity-undersea-guernsey-optical-fibre-hugo ✘ ↠ seamewe-5 ✘ || uk-channel-islands-8 ✘ ↠ seamewe-5 ✘ || channel-islands-9-liberty-submarine-cable ✘ ↠ seamewe-5 ✘ || uk-channel-islands-7 ✘ ↠ seamewe-5 ✘
+╰─ 94.207.42.34    57187   116.869                       (None, None, AE, AS) j48-2.dx1.dxb.ae.datamena.net                                                                       
+   94.207.34.34    42473   134.094                       (None, None, AE, AS) oobfw1-dxb1-dx.uae-ix.net                                                                           
+   188.172.255.32  42473   120.476                        (Dubai, DU, AE, AS) *                                                                                                   
+   37.252.245.94   42473   121.259                     (Dubai, Dubai, AE, AS)                                                                                                     

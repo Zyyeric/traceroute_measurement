@@ -1,0 +1,15 @@
+   80.65.65.220    9146    0.0            (Zenica, Federation of B&H, BA, EU)                                                                                                     
+╭─ 80.65.65.209    9146    0.236          (Zenica, Federation of B&H, BA, EU)                                                                                                     
+LHL (9146, 3303)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 193.203.0.54    3303    2.349                        (Vienna, 9, AT, None) vix-igw-dm.bhtelecom.ba                                                                             
+╭─ 193.203.0.160   6663    14.039                       (Vienna, 9, AT, None) vix.invitel.net                                                                                     
+LHL (6663)  mednautilus-submarine-system ✘ || seamewe-5 ✓ || seamewe-3 ✓
+├─ 31.210.13.93    6663    24.981                      (Istanbul, 34, TR, AS) *                                                                                                   
+S (6663, 12713)  
+├─ 31.210.13.94    12713   26.342                        (None, None, GB, EU) *                                                                                                   
+LHL (12713, 42409)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 217.24.245.22   42409   52.472                        (None, None, AL, EU) *                                                                                                   
+   194.1.149.250   42409   51.36                         (None, None, AL, EU) *                                                                                                   
+   194.1.149.210   42409   50.069                    (Tirana, Tirana, AL, EU)                                                                                                     

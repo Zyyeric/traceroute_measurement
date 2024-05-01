@@ -1,0 +1,15 @@
+   92.38.135.131   202422  0.0                         (Seoul, Seoul, KR, AS)                                                                                                     
+   92.38.135.3     202422  0.324                       (Seoul, Seoul, KR, AS) vrrp.gcore.lu                                                                                       
+   10.255.17.210   *       0.343                                          ***                                                                                                     
+   10.255.17.213   *       0.352                                          ***                                                                                                     
+   10.255.17.146   *       0.329                                          ***                                                                                                     
+   192.145.251.68  14828   1.372                       (Seoul, Seoul, KR, AS)                                                                                                     
+   172.71.108.3    13335   1.644                       (Seoul, Seoul, KR, AS)                                                                                                     
+   172.71.109.43   13335   1.398                       (Seoul, Seoul, KR, AS)                                                                                                     
+   172.71.109.43   13335   1.398                       (Seoul, Seoul, KR, AS)                                                                                                     
+╭─ 172.71.109.62   13335   1.37                        (Seoul, Seoul, KR, AS)                                                                                                     
+S (13335, 208800)  seamewe-3 ✓ || flag-europe-asia-fea ✓
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 91.201.7.243    208800  150.843             (Abu Dhabi, Abu Dhabi, AE, AS)                                                                                                     

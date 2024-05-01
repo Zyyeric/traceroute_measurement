@@ -1,0 +1,12 @@
+   193.1.201.140   1213    0.0                   (Tallaght, Leinster, IE, EU) atlas-anchor.heanet.ie                                                                              
+   193.1.201.138   1213    0.275                   (Dublin, Leinster, IE, EU) pw-spine1-vlan11.services.hea.net                                                                   
+   87.44.56.177    1213    0.548                        (Dublin, L, IE, None) ae3.core1-pw.nn.hea.net                                                                             
+╭─ 185.6.36.141    6461    0.794                          (Dublin, D, IE, EU) inex1.dub3.ie.zip.zayo.com                                                                          
+S (6461)  exa-north-and-south ✓ || aec-1 ✘ || havfrueaec-2 ✓
+├─ 64.125.25.106   6461    79.796                      (San Jose, CA, US, NA) ae0.er2.sjc2.us.zip.zayo.com                                                                        
+S&T (6461)  
+├  ***             *       -inf                                           *** *                                                                                                   
+╰─ 64.125.27.165   6461    89.79                       (Montreal, QC, CA, NA) ae2.mpr1.yul1.ca.zip.zayo.com                                                                       
+   209.249.45.82   1403    84.737                      (Montreal, QC, CA, NA) as6461.er1.mtl7.yu1.ebox.ca                                                                         
+   96.127.249.166  1403    84.807                      (Montreal, QC, CA, NA) 0.ae1.er1.1225stco.yhu.ebox.ca                                                                      
+   172.93.18.42    1403    84.93                  (Longueuil, Quebec, CA, NA) ca-lon-as1403.anchors.atlas.ripe.net                                                                

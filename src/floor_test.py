@@ -38,8 +38,7 @@ def is_within_radius(lat1, lon1, lat2, lon2, radius):
         return False
 
 def geolocate_city_region(city, region, country):
-    # Replace 'YOUR_API_KEY' with your actual API key
-    api_key = 'YOUR_API_KEY'
+    api_key = '37fd03c63efb47bb9c7d5804927a6a48'
     
     # Construct the API request URL
     url = f'https://api.opencagedata.com/geocode/v1/json?q={city},{region},{country}&key={api_key}'
@@ -57,6 +56,7 @@ def geolocate_city_region(city, region, country):
                 result = data['results'][0]
                 latitude = result['geometry']['lat']
                 longitude = result['geometry']['lng']
+                #print(latitude, longitude)
                 return latitude, longitude
         
         print(f"Error occurred while geolocating city and region: {city}, {region}")
@@ -66,65 +66,92 @@ def geolocate_city_region(city, region, country):
         print(f"Error occurred while making the API request: {e}")
         return None, None
 
-def main():
+def process_traceroute_file(traceroute_file_path):
     floor_test_results = []
 
-    # Specify the path to the traceroute data file within the "triviz" directory
-    traceroute_file_path = os.path.join("triviz", "6049-6248.txt")
+    prev_asn = None  # Initialize the previous ASN to None
+    prev_latitude, prev_longitude, prev_min_rtt = None, None, 0.0
+    first_row = True
 
     with open(traceroute_file_path, "r") as file:
         lines = file.readlines()
 
-    # Initialize prev_latitude, prev_longitude, and prev_min_rtt with the first hop's data
-    first_hop = lines[0].strip().split(" || ")[0].split()
-    geolocation_info = ' '.join(first_hop[3:])
-    geolocation_info = geolocation_info.strip('()')
-    geolocation_parts = geolocation_info.split(', ')
-    city = geolocation_parts[0]
-    region = geolocation_parts[1]
-    country = geolocation_parts[2]
-    prev_latitude, prev_longitude = geolocate_city_region(city, region, country)
-    prev_min_rtt = float(first_hop[2])
+    for line in lines:
+        line = line.lstrip(' ╭─╰─')  # Remove any leading non-numeric characters
+        if any(ch in line for ch in ['✓', '✘', '*', 'inf', 'S&T']):
+            continue  # Skip lines with special characters or non-standard entries
 
-    for line in lines[1:]:  # Skip the first line since it's used as the starting point
-        hops = line.strip().split(" || ")
-        for hop in hops:
-            hop_data = hop.split()
-            if len(hop_data) >= 4:
-                ip_address = hop_data[0]
-                curr_min_rtt = float(hop_data[2])
-                geolocation_info = ' '.join(hop_data[3:])
-                geolocation_info = geolocation_info.strip('()')
-                geolocation_parts = geolocation_info.split(', ')
-                if len(geolocation_parts) >= 4:
-                    city = geolocation_parts[0]
-                    region = geolocation_parts[1]
-                    country = geolocation_parts[2]
-                    continent = geolocation_parts[3]
-                    
-                    radius = calculate_radius(curr_min_rtt, prev_min_rtt)
-                    
-                    within_radius = False
-                    if city != 'None' and region != 'None':
-                        latitude, longitude = geolocate_city_region(city, region, country)
-                        if latitude is not None and longitude is not None:
-                            within_radius = is_within_radius(latitude, longitude, prev_latitude, prev_longitude, radius)
-                            if within_radius:
-                                prev_latitude, prev_longitude = latitude, longitude
-                                prev_min_rtt = curr_min_rtt
-                    
-                    floor_test_results.append({
-                        'ip_address': ip_address,
-                        'rtt': prev_min_rtt,
-                        'radius': radius,
-                        'geolocation_within_radius': within_radius
-                    })
+        parts = line.strip().split()
+        if len(parts) < 4 or not parts[2].replace('.', '', 1).isdigit():
+            continue
 
-    # Log the floor test results
-    with open("floor_test_results.json", "w") as file:
+        ip_address, asn, rtt = parts[0], parts[1], parts[2]
+        if asn == '*':
+            continue  # Skip if ASN is not available
+
+        rtt = float(rtt) if rtt != '-inf' else None
+        if rtt is None:
+            continue  # Skip if RTT is invalid
+
+        geolocation = ' '.join(parts[3:]).strip('()')
+        geolocation_parts = geolocation.split(', ')
+        if len(geolocation_parts) < 4 or 'None' in geolocation_parts[:2]:
+            continue  # Skip if geolocation is incomplete
+
+        city, region, country, continent = geolocation_parts[:4]
+        latitude, longitude = geolocate_city_region(city, region, country)
+        if latitude is None or longitude is None:
+            continue  # Skip if geolocation lookup fails
+
+        if first_row:
+            prev_latitude, prev_longitude, prev_min_rtt = latitude, longitude, rtt
+            prev_asn = asn  # Set previous ASN after processing the first row
+            first_row = False
+            continue
+
+        if asn == prev_asn:
+            continue  # Skip consecutive duplicates
+
+        # Calculate the radius and check if within the expected range
+        radius = calculate_radius(rtt, prev_min_rtt) if prev_min_rtt is not None else None
+        within_radius = is_within_radius(prev_latitude, prev_longitude, latitude, longitude, radius) if radius is not None else True
+
+        # Prepare data for output
+        floor_test_results.append({
+            'ip_address': ip_address,
+            'asn': asn,
+            'rtt': rtt,
+            'radius': radius,
+            'geolocation_within_radius': within_radius
+        })
+
+        # Update previous markers
+        prev_asn = asn
+        prev_latitude, prev_longitude, prev_min_rtt = latitude, longitude, rtt
+
+    # Save the results to a file
+    output_file_path = os.path.splitext(traceroute_file_path)[0] + "_floor_test_results.json"
+    with open(output_file_path, "w") as file:
         json.dump(floor_test_results, file, indent=4)
 
-    print("Floor test results logged.")
+    print(f"Floor test results logged for {traceroute_file_path}.")
+
+
+def main():
+    trviz_directory = "../trviz"  # Update the relative path to the "triviz" directory
     
+    while True:
+        file_name = input("Enter the traceroute data file name (or 'q' to quit): ")
+        
+        if file_name.lower() == 'q':
+            break
+        
+        traceroute_file_path = os.path.join(trviz_directory, file_name)
+        
+        if os.path.isfile(traceroute_file_path):
+            process_traceroute_file(traceroute_file_path)
+        else:
+            print(f"File '{file_name}' not found in the 'triviz' directory.")
+
 if __name__ == "__main__":
     main()

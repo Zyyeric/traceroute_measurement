@@ -1,0 +1,23 @@
+[
+    {
+        "ip_address": "193.167.244.180",
+        "asn": "1741",
+        "rtt": 0.568,
+        "radius": 56.76070538133333,
+        "geolocation_within_radius": true
+    },
+    {
+        "ip_address": "109.105.101.10",
+        "asn": "2603",
+        "rtt": 12.786,
+        "radius": 1220.9547506146666,
+        "geolocation_within_radius": true
+    },
+    {
+        "ip_address": "185.42.136.158",
+        "asn": "8674",
+        "rtt": 12.775,
+        "radius": 1.09923901266659,
+        "geolocation_within_radius": true
+    }
+]

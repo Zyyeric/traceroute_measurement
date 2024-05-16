@@ -1,0 +1,120 @@
+{
+    "all_data_points": [
+        {
+            "ip_address": "38.47.189.189",
+            "asn": "140443",
+            "rtt": 0.0,
+            "geolocation": "Kuala Lumpur, Kuala Lumpur, MY, AS"
+        },
+        {
+            "ip_address": "38.47.189.1",
+            "asn": "140443",
+            "rtt": 0.174,
+            "geolocation": "Kuala Lumpur, Kuala Lumpur, MY, AS"
+        },
+        {
+            "ip_address": "38.47.188.2",
+            "asn": "140443",
+            "rtt": 0.186,
+            "geolocation": "Kuala Lumpur, Kuala Lumpur, MY, AS"
+        },
+        {
+            "ip_address": "63.216.144.10",
+            "asn": "3491",
+            "rtt": 8.722,
+            "geolocation": "None, None, US, NA) 63-216-144-10.static.pccwglobal.net"
+        },
+        {
+            "ip_address": "129.250.5.65",
+            "asn": "2914",
+            "rtt": 7.14,
+            "geolocation": "None, None, US, NA) ae-5.r23.sngpsi07.sg.bb.gin.ntt.net"
+        },
+        {
+            "ip_address": "129.250.2.243",
+            "asn": "2914",
+            "rtt": 74.258,
+            "geolocation": "None, None, US, NA) ae-17.r31.tokyjp05.jp.bb.gin.ntt.net"
+        },
+        {
+            "ip_address": "129.250.5.49",
+            "asn": "2914",
+            "rtt": 79.264,
+            "geolocation": "Tokyo, Tokyo, JP, AS) ae-7.a00.tokyjp09.jp.bb.gin.ntt.net"
+        },
+        {
+            "ip_address": "210.57.79.15",
+            "asn": "4637",
+            "rtt": 74.805,
+            "geolocation": "Tokyo, Tokyo, JP, AS) unknown.telstraglobal.net"
+        },
+        {
+            "ip_address": "182.161.74.64",
+            "asn": "55569",
+            "rtt": 74.733,
+            "geolocation": "Tokyo, Tokyo, JP, AS"
+        },
+        {
+            "ip_address": "182.161.74.241",
+            "asn": "55569",
+            "rtt": 73.488,
+            "geolocation": "Tokyo, Tokyo, JP, AS"
+        }
+    ],
+    "floor_test_results": [
+        {
+            "ip_address": "38.47.189.1",
+            "rtt": 0.174,
+            "radius": 17.387962564,
+            "geolocation_within_radius": true
+        },
+        {
+            "ip_address": "38.47.188.2",
+            "rtt": 0.186,
+            "radius": 1.199169832000001,
+            "geolocation_within_radius": true
+        },
+        {
+            "ip_address": "63.216.144.10",
+            "rtt": 8.722,
+            "radius": 853.0094738293333,
+            "geolocation_within_radius": false
+        },
+        {
+            "ip_address": "129.250.5.65",
+            "rtt": 7.14,
+            "radius": 158.09055618533333,
+            "geolocation_within_radius": true
+        },
+        {
+            "ip_address": "129.250.2.243",
+            "rtt": 74.258,
+            "radius": 6707.156732014666,
+            "geolocation_within_radius": true
+        },
+        {
+            "ip_address": "129.250.5.49",
+            "rtt": 79.264,
+            "radius": 500.2536815826667,
+            "geolocation_within_radius": false
+        },
+        {
+            "ip_address": "210.57.79.15",
+            "rtt": 74.805,
+            "radius": 445.5915234073322,
+            "geolocation_within_radius": true
+        },
+        {
+            "ip_address": "182.161.74.64",
+            "rtt": 74.733,
+            "radius": 7.195018992000272,
+            "geolocation_within_radius": true
+        },
+        {
+            "ip_address": "182.161.74.241",
+            "rtt": 73.488,
+            "radius": 124.41387007000046,
+            "geolocation_within_radius": true
+        }
+    ]
+}

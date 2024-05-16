@@ -1,0 +1,96 @@
+{
+    "all_data_points": [
+        {
+            "ip_address": "92.38.178.149",
+            "asn": "202422",
+            "rtt": 0.0,
+            "geolocation": "Urayasu, Tokyo, JP, AS"
+        },
+        {
+            "ip_address": "92.38.178.1",
+            "asn": "202422",
+            "rtt": 0.158,
+            "geolocation": "Urayasu, Tokyo, JP, AS) gw.gcore.lu"
+        },
+        {
+            "ip_address": "61.200.80.169",
+            "asn": "2914",
+            "rtt": 1.195,
+            "geolocation": "Urayasu, Tokyo, JP, AS) ce-0-9-0-3.r00.tokyjp08.jp.bb.gin.ntt.net"
+        },
+        {
+            "ip_address": "129.250.6.128",
+            "asn": "2914",
+            "rtt": 0.927,
+            "geolocation": "1.962) (None, None, US, NA) ae-18.r31.tokyjp05.jp.bb.gin.ntt.net"
+        },
+        {
+            "ip_address": "129.250.2.242",
+            "asn": "2914",
+            "rtt": 65.321,
+            "geolocation": "None, None, US, NA) ae-4.r23.sngpsi07.sg.bb.gin.ntt.net"
+        },
+        {
+            "ip_address": "129.250.5.66",
+            "asn": "2914",
+            "rtt": 67.686,
+            "geolocation": "None, None, US, NA) ae-1.a02.sngpsi07.sg.bb.gin.ntt.net"
+        },
+        {
+            "ip_address": "116.51.26.210",
+            "asn": "14907",
+            "rtt": 66.636,
+            "geolocation": "None, None, SG, AS) xe-0-0-21-0.a00.sngpsi07.sg.ce.gin.ntt.net"
+        },
+        {
+            "ip_address": "103.102.166.20",
+            "asn": "14907",
+            "rtt": 66.684,
+            "geolocation": "Singapore, Singapore, SG, AS) ripe-atlas-eqsin.wikimedia.org"
+        }
+    ],
+    "floor_test_results": [
+        {
+            "ip_address": "92.38.178.1",
+            "rtt": 0.158,
+            "radius": 15.789069454666667,
+            "geolocation_within_radius": true
+        },
+        {
+            "ip_address": "61.200.80.169",
+            "rtt": 1.195,
+            "radius": 103.62825964866668,
+            "geolocation_within_radius": true
+        },
+        {
+            "ip_address": "129.250.6.128",
+            "rtt": 0.927,
+            "radius": 26.781459581333333,
+            "geolocation_within_radius": false
+        },
+        {
+            "ip_address": "129.250.2.242",
+            "rtt": 65.321,
+            "radius": 6434.945180150666,
+            "geolocation_within_radius": true
+        },
+        {
+            "ip_address": "129.250.5.66",
+            "rtt": 67.686,
+            "radius": 236.33638772333424,
+            "geolocation_within_radius": true
+        },
+        {
+            "ip_address": "116.51.26.210",
+            "rtt": 66.636,
+            "radius": 104.92736030000114,
+            "geolocation_within_radius": false
+        },
+        {
+            "ip_address": "103.102.166.20",
+            "rtt": 66.684,
+            "radius": 4.796679328000182,
+            "geolocation_within_radius": false
+        }
+    ]
+}

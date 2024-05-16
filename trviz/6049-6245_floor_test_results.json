@@ -1,0 +1,32 @@
+[
+    {
+        "ip_address": "5.20.2.254",
+        "rtt": 0.405,
+        "radius": 40.471981830000004,
+        "geolocation_within_radius": true
+    },
+    {
+        "ip_address": "87.245.242.136",
+        "rtt": 14.715,
+        "radius": 1430.01002466,
+        "geolocation_within_radius": true
+    },
+    {
+        "ip_address": "87.245.232.51",
+        "rtt": 14.783,
+        "radius": 6.795295714666628,
+        "geolocation_within_radius": false
+    },
+    {
+        "ip_address": "194.68.123.73",
+        "rtt": 13.122,
+        "radius": 165.98509091266664,
+        "geolocation_within_radius": false
+    },
+    {
+        "ip_address": "185.42.136.158",
+        "rtt": 13.188,
+        "radius": 6.595434076000072,
+        "geolocation_within_radius": true
+    }
+]
